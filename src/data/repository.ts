@@ -58,12 +58,15 @@ export class IdbRepository implements Repository {
   async putMany(batch: RecordBatch): Promise<void> {
     const names = STORE_NAMES.filter((name) => (batch[name]?.length ?? 0) > 0)
     if (names.length === 0) return
+    // Everything up to commit() runs in the same tick as the call. The write is handed to
+    // the browser at once, so closing or reloading the page a moment later cannot drop it.
     const tx = this.db.transaction(names, 'readwrite')
     for (const name of names) {
       // biome-ignore lint/suspicious/noExplicitAny: store name and record type are paired
       const store = tx.objectStore(name) as any
       for (const record of batch[name] ?? []) store.put(record)
     }
+    tx.commit?.()
     await tx.done
   }
 
@@ -97,6 +100,7 @@ export class IdbRepository implements Repository {
     const tx = this.db.transaction(['photoFull', 'photoThumb'], 'readwrite')
     tx.objectStore('photoFull').put(full)
     tx.objectStore('photoThumb').put(thumb)
+    tx.commit?.()
     await tx.done
   }
 

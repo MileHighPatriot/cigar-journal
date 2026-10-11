@@ -128,32 +128,47 @@ export function describeError(error: unknown): string {
   return 'Something went wrong while saving.'
 }
 
-// Writes go to memory at once and to disk in order. "Saved" shows only after the last
-// transaction completes.
+// Writes go to memory and to disk in the same tick as the tap. The browser runs
+// transactions on the same stores in the order they were started, so order is kept
+// without waiting on the one before. "Saved" shows only after the last one completes.
 let queue: Promise<void> = Promise.resolve()
 let pending = 0
 let firstSaveDone = false
+// True once any write in the current run of saves has failed, so a later success in the
+// same run does not hide the error.
+let runFailed = false
 
 function persist(batch: RecordBatch): Promise<void> {
+  if (pending === 0) runFailed = false
   pending += 1
   setState({ save: { status: 'saving', message: null } })
-  queue = queue
-    .then(() => getRepo().putMany(batch))
-    .then(
-      () => {
-        pending -= 1
-        if (pending === 0) setState({ save: { status: 'saved', message: null } })
-        if (!firstSaveDone) {
-          firstSaveDone = true
-          void requestPersist(getRepo())
-        }
-      },
-      (error) => {
-        pending -= 1
-        setState({ save: { status: 'error', message: describeError(error) } })
-      },
-    )
-  return queue
+  // Started right now, not after the previous write settles: a reload or a closed app
+  // a moment after a tap must not be able to lose it.
+  let write: Promise<void>
+  try {
+    write = getRepo().putMany(batch)
+  } catch (error) {
+    write = Promise.reject(error)
+  }
+  const settled = write.then(
+    () => {
+      pending -= 1
+      if (pending === 0 && !runFailed) {
+        setState({ save: { status: 'saved', message: null } })
+      }
+      if (!firstSaveDone) {
+        firstSaveDone = true
+        void requestPersist(getRepo())
+      }
+    },
+    (error) => {
+      pending -= 1
+      runFailed = true
+      setState({ save: { status: 'error', message: describeError(error) } })
+    },
+  )
+  queue = Promise.all([queue, settled]).then(() => undefined)
+  return settled
 }
 
 /** Resolves once everything queued so far is on disk. */
