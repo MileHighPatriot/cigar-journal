@@ -22,7 +22,7 @@ import { showToast } from '../components/toast'
 import { describeError, getRepo, useMeta, useStore } from '../data/store'
 import { backupStatus } from '../domain/backupStatus'
 import { formatDateLong, formatTime, plural } from '../domain/format'
-import { isIos, isStandalone, requestPersist, storageEstimate } from '../pwa/storage'
+import { installSteps, isIos, isStandalone, requestPersist, storageEstimate } from '../pwa/storage'
 
 function formatBytes(bytes: number): string {
   if (bytes < 1024 * 1024) return `${Math.max(1, Math.round(bytes / 1024))} KB`
@@ -317,7 +317,7 @@ export function Settings() {
           {!installed && (
             <p className="muted">
               {isIos()
-                ? 'To install: tap Share, then Add to Home Screen. Entries saved in Safari do not move to the Home Screen app, so install first.'
+                ? `To install: ${installSteps()} Entries saved in a browser do not move to the Home Screen app, so install first.`
                 : 'To install on a Mac: in Chrome use Install in the address bar, or in Safari use File, then Add to Dock.'}
             </p>
           )}

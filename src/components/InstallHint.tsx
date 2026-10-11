@@ -1,7 +1,7 @@
 import { Share, X } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { getRepo } from '../data/store'
-import { isIos, isStandalone } from '../pwa/storage'
+import { installSteps, isIos, isStandalone } from '../pwa/storage'
 
 /**
  * One-time hint in an iOS Safari tab. A tab and the Home Screen app do not share data,
@@ -24,8 +24,8 @@ export function InstallHint() {
     <div className="banner install-hint">
       <Share size={20} strokeWidth={1.5} aria-hidden="true" />
       <p>
-        <strong>Add this to your Home Screen first.</strong> Tap Share, then Add to Home Screen.
-        Entries saved here in Safari do not move to the Home Screen app.
+        <strong>Add this to your Home Screen first.</strong> {installSteps()} Entries saved here in
+        the browser do not move to the Home Screen app.
       </p>
       <button
         type="button"

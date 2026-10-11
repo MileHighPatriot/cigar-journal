@@ -11,7 +11,7 @@ export interface ProcessedPhoto {
 export class PhotoDecodeError extends Error {
   constructor() {
     super(
-      "This photo format can't be read in this browser. Open it in Safari or save it as a JPEG first.",
+      "This photo format can't be read in this browser. Save it as a JPEG first, or add it from your phone.",
     )
     this.name = 'PhotoDecodeError'
   }

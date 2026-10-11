@@ -1308,34 +1308,36 @@
   position: relative;
 }
 
-.hero-glow {
-  position: absolute;
-  left: -90px;
-  top: -150px;
-  width: 340px;
-  height: 340px;
-  border-radius: 50%;
-  background: radial-gradient(circle, var(--glow-brass), transparent 65%);
-  pointer-events: none;
-  animation: drift 16s ease-in-out infinite alternate;
-}
-
+/* The two glows fill the header exactly and only fade in and out. They used to be big
+   circles hanging past its edges and drifting, which relied on the header clipping them.
+   On iPhones that clip did not stop them from widening the page, so the browser shrank
+   everything to fit and left a blank strip down the right. Nothing here may ever be
+   positioned or moved outside its box. */
+.hero-glow,
 .hero::after {
   content: "";
   position: absolute;
-  right: -120px;
-  bottom: -180px;
-  width: 320px;
-  height: 320px;
-  border-radius: 50%;
-  background: radial-gradient(circle, var(--glow-ember), transparent 65%);
+  inset: 0;
   pointer-events: none;
-  animation: drift 22s ease-in-out infinite alternate-reverse;
 }
 
-@keyframes drift {
+.hero-glow {
+  background: radial-gradient(70% 120% at 0% 0%, var(--glow-brass), transparent 70%);
+  animation: glow 9s ease-in-out infinite alternate;
+}
+
+.hero::after {
+  background: radial-gradient(70% 120% at 100% 100%, var(--glow-ember), transparent 70%);
+  animation: glow 13s ease-in-out infinite alternate-reverse;
+}
+
+@keyframes glow {
+  from {
+    opacity: 0.45;
+  }
+
   to {
-    transform: translate(70px, 36px) scale(1.2);
+    opacity: 1;
   }
 }
 

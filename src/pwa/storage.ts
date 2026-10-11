@@ -12,6 +12,18 @@ export function isIos(): boolean {
   return /iPhone|iPad|iPod/.test(ua) || (ua.includes('Macintosh') && navigator.maxTouchPoints > 1)
 }
 
+/** Chrome on an iPhone or iPad, where the Share button sits in the address bar. */
+export function isChromeOnIos(): boolean {
+  return isIos() && /CriOS/.test(navigator.userAgent)
+}
+
+/** How to install from the browser this is open in. */
+export function installSteps(): string {
+  return isChromeOnIos()
+    ? 'Tap the Share icon at the top right of Chrome, then Add to Home Screen.'
+    : 'Tap Share, then Add to Home Screen.'
+}
+
 /** Asks the browser to protect this app's data from cleanup, and remembers the answer. */
 export async function requestPersist(repo: Repository): Promise<boolean> {
   if (!navigator.storage?.persist) return false

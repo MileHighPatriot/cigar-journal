@@ -33,6 +33,7 @@ Phase 1 build in progress, one tab at a time at Kohlton's request (he looks at e
 - The repo is public. Never commit journal data, photos, backup files, the seed xlsx, tokens, or keys.
 - Kohlton's real journal lives in the installed app. After the first deploy, any schema change needs a forward-only IndexedDB migration and a test. Never drop a store. Never auto-reload the app.
 - Saves must reach IndexedDB in the same tick as the tap: no `await` between a user action and `putMany` (SPEC section 23 has the stress test that caught this).
+- Never position or animate anything outside its own box, even inside an `overflow: hidden` parent. On a real iPhone that widened the page and shrank the whole app (SPEC section 23).
 - Other sites share the `milehighpatriot.github.io` address. Only touch the `cigar-journal` database and caches this app created. No localStorage.
 - **No em dashes in any visible UI text.** Copy is short, plain, and friendly.
 - No analytics, trackers, or third-party requests at runtime. Fonts are self-hosted.

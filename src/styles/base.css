@@ -5,6 +5,9 @@
 }
 
 html {
+  /* A guard: if anything is ever wider than the screen, cut it off instead of letting
+     the phone shrink the whole page to fit. Set on html only, so sticky headers still work. */
+  overflow-x: hidden;
   background: var(--bg);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
