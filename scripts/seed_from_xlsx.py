@@ -17,7 +17,7 @@ P = "http://schemas.openxmlformats.org/package/2006/relationships"
 # Fixed so the phone and the laptop seed identical records and a merge never doubles the catalog.
 NAMESPACE = uuid.UUID("6f1d2c1e-5b0a-4f0e-9a51-c16a47b0a001")
 SEED_TIMESTAMP = "2026-10-10T00:00:00.000Z"
-SEED_VERSION = 3
+SEED_VERSION = 4
 
 WRAPPER_CATEGORIES = {
     "Connecticut", "Candela", "Claro", "Natural/Sun Grown", "Cameroon", "Sumatra", "Corojo",
@@ -177,7 +177,10 @@ def general_list(path):
 
 
 # Details research can replace on a cigar that came with an earlier catalog.
-SUPERSEDED = ("line", "wrapperType", "wrapperOrigin", "binder", "filler", "country", "factory", "strength")
+# Brand names the lounge sheet spells differently from the maker. The id keeps the old spelling.
+BRAND_FIX = {"Placencia": "Plasencia"}
+
+SUPERSEDED = ("brand", "line", "wrapperType", "wrapperOrigin", "binder", "filler", "country", "factory", "strength")
 
 
 def load_research(folder):
@@ -321,8 +324,10 @@ def main(src, dest, general=None, research_dir=None):
     if research_dir:
         research = load_research(research_dir)
         kept, dropped, checked, sheet_kept = [], [], 0, 0
+        used = set()
         for index, cigar in enumerate(cigars):
             entry = research.get((cigar["brand"].lower(), cigar["line"].lower()))
+            used.add((cigar["brand"].lower(), cigar["line"].lower()))
             if entry is None:
                 if index < sheet_count:
                     sheet_kept = len(kept) + 1
@@ -341,6 +346,22 @@ def main(src, dest, general=None, research_dir=None):
                     previous[cigar["id"]] = was
             else:
                 dropped.append("%s %s" % (cigar["brand"], cigar["line"]))
+        # Cigars that came from research alone (found by sweeping maker catalogs, in neither
+        # list): each gets a record of its own, with the same kind of fixed id.
+        added = 0
+        for key, entry in research.items():
+            if key in used or not entry.get("found") or not entry["line"].strip():
+                continue
+            cigar = record(clean(entry["brand"].strip()), clean(entry["line"].strip()))
+            if cigar["id"] in ids:
+                continue
+            ids.add(cigar["id"])
+            apply_research(cigar, entry, from_sheet=False)
+            kept.append(cigar)
+            checked += 1 if cigar["checked"] else 0
+            added += 1
+        print("research: %d cigars added that were in neither list" % added)
+
         # Two entries can turn out to be one cigar under its proper name. Keep one: the lounge
         # sheet's if it has one, else the entry that already had the right name.
         by_name = {}
@@ -360,6 +381,12 @@ def main(src, dest, general=None, research_dir=None):
         print("research: %d entries read, %d cigars checked, %d dropped as not found" % (len(research), checked, len(dropped)))
         for name in dropped:
             print("  dropped:", name)
+
+    for cigar in cigars:
+        fixed = BRAND_FIX.get(cigar["brand"])
+        if fixed:
+            previous.setdefault(cigar["id"], {})["brand"] = cigar["brand"]
+            cigar["brand"] = fixed
 
     with open(dest, "w", encoding="utf-8") as f:
         json.dump(

@@ -1,0 +1,966 @@
+[
+ {
+  "brand": "Black Works Studio",
+  "line": "The Hornet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro with Candela accents on the cap and closed foot",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Corona Larga",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "chili",
+   "baking spice",
+   "citrus",
+   "cocoa",
+   "cedar"
+  ],
+  "about": "A stronger sibling of the Killer Bee from James Brown's Black Works Studio, with a dark Ecuadorian maduro wrapper and green candela on the cap and closed foot. It is a core line cigar made at Fabrica Oveja Negra in Esteli.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/blkwks-notes",
+   "https://ovejanegracigars.com/blogs/news/killer-bee-green-hornet-press-release",
+   "https://halfwheel.com/oveja-negra-brands/424187/"
+  ],
+  "notes": "Launched in 2016 as the Green Hornet and now sold as The Hornet; the Corona Larga was added in 2023. Neptune gives 2023 as the release year.",
+  "verified": true,
+  "verifyNotes": "Strength confirmed as Full on the maker's tasting notes page, which also lists both sizes. Flavors replaced with the maker's own tasting notes. Sources swapped: Atlantic dropped for the maker's tasting notes page. Trimmed notes."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Killer Bee Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut with an Ecuadorian Maduro swirl cap and closed foot",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "bread",
+   "coffee",
+   "wood",
+   "black pepper"
+  ],
+  "about": "A Killer Bee line extension with an Ecuadorian Connecticut wrapper and maduro accents on the cap and closed foot. It began as a small batch in 2018 and became a core line cigar in 2022.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-killer-bee-connecticut",
+   "https://ovejanegracigars.com/pages/blkwks-notes",
+   "https://halfwheel.com/black-works-studio-killer-bee-connecticut/288813/"
+  ],
+  "notes": "The maker rates it medium strength, but halfwheel and Atlantic Cigar call it medium-full, and halfwheel found the body full. First released as a limited batch in 2018, regular production since 2022.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: the maker's tasting notes page rates it Medium Strength (halfwheel and Atlantic say medium-full, now in notes). Wrapper wording trimmed to what the maker and halfwheel state. Neptune source replaced with the maker's tasting notes page. About reworded."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Rorschach Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "pepper",
+   "cream"
+  ],
+  "about": "A Sumatra-wrapped extension of the Rorschach line from Black Works Studio, added to the core range in 2023. The maker describes it as a lighter profile than the original that highlights Jalapa tobacco.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/blkwks-notes",
+   "https://halfwheel.com/black-label-trading-co-shipping-new-black-works-studio-sr-rorschach-sumatra-next-week/421214/",
+   "https://halfwheel.com/black-label-trading-co-adding-a-trio-of-toros/466444/"
+  ],
+  "notes": "The maker only says Sumatra wrapper. halfwheel reported it as Indonesian-grown in 2023 and as Sumatra-seed grown in Ecuador in 2026. The maker rates it medium strength and calls it mild to medium, though Atlantic Cigar lists it as full.",
+  "verified": true,
+  "verifyNotes": "Strength filled in as Medium from the maker's tasting notes page (was null). Maker press release source replaced with the maker's tasting notes page. Notes updated."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Boondock Saint",
+  "found": true,
+  "officialName": "Boondock",
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua, USA (Pennsylvania, Connecticut)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona Larga",
+    "length": 6.25,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "raisin",
+   "dark fruit",
+   "pepper",
+   "cocoa",
+   "earth",
+   "leather"
+  ],
+  "about": "A limited Black Works Studio blend with a Pennsylvania broadleaf wrapper over Nicaraguan, Pennsylvania and Connecticut fillers. It comes back in occasional batches and returned in 2026 after a seven year gap.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-boondock",
+   "https://halfwheel.com/blk-wks-boondock-2019-ships/366309/",
+   "https://halfwheel.com/black-works-studio-boondock-lancero/466161/"
+  ],
+  "notes": "Originally sold as Boondock Saint, now just Boondock. Soft launched in 2016, with full releases in 2017, 2018, 2019 and 2026, when the Lancero was added. Retailers list it as full; halfwheel's 2026 review found it medium-full to full.",
+  "verified": true,
+  "verifyNotes": "Flavors corrected to words found in the listed sources: anise was not in them and was replaced with leather, black pepper changed to pepper. Removed the closed foot and four shops details, which the listed sources do not state. Notes now give the strength disagreement."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Culture Vulture",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro with Connecticut and Candela",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Panatela",
+    "length": 6,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited edition from Black Works Studio whose wrapper combines Ecuadorian maduro, Connecticut and green candela leaf. James Brown calls it the boldest profile the brand has made.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-the-release-of-culture-vulture",
+   "https://halfwheel.com/black-works-studio-culture-vulture-coming-this-month/479683/",
+   "https://www.neptunecigar.com/black-works-studio-cigar"
+  ],
+  "notes": "Multi-leaf wrapper: Ecuadorian maduro with Connecticut and candela. Limited to 800 boxes each of the Robusto and Toro and 500 of the Panatela. Neptune lists it as full strength, Atlantic Cigar as medium-full.",
+  "verified": true,
+  "verifyNotes": "About reworded. Notes now record that retailers disagree on strength (Neptune full, Atlantic medium-full)."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Tigersaurus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf, Connecticut Broadleaf and Candela",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "clove",
+   "oak",
+   "peanut butter",
+   "black pepper"
+  ],
+  "about": "The first limited release in the Black Works Studio Tiger Series, made for the brand's tenth anniversary in 2025. It is a bigger, darker take on the Tiger with broadleaf and candela wrappers.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-the-release-of-tigersaurus",
+   "https://halfwheel.com/black-works-studio-tigersaurus/455215/",
+   "https://www.neptunecigar.com/black-works-studio-cigar"
+  ],
+  "notes": "Triple wrapper of two broadleafs plus candela. halfwheel found the strength built from medium to medium-full; Neptune lists it as medium. Sold in 15-count boxes.",
+  "verified": true,
+  "verifyNotes": "Added the Neptune page as a source for the retailer strength quoted in notes. Notes reworded to match halfwheel's review, which found strength building from medium to medium-full."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Paper Crane",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Desflorado",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda Box Press",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Toro Box Press",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "cedar",
+   "tea",
+   "white pepper",
+   "cocoa",
+   "cinnamon"
+  ],
+  "about": "A small batch Black Works Studio release from 2024 built around an Ecuadorian Connecticut Desflorado wrapper. The maker describes it as medium strength with full flavor, both sizes box pressed.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-will-showcase-new-release-at-pca-in-las-vegas-paper-crane",
+   "https://halfwheel.com/black-works-studio-paper-crane-corona-gorda-box-press/441454/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Poison Dart",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "chili",
+   "citrus",
+   "cedar",
+   "herbal tea"
+  ],
+  "about": "A small batch Black Works Studio cigar with a Brazilian Mata Fina wrapper, offered only to retailers who attended the 2023 PCA trade show. Each size was limited to 500 boxes.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-showcasing-new-release-at-pca-in-las-vegas-poison-dart",
+   "https://halfwheel.com/black-works-studio-poison-dart-corona-gorda/429023/",
+   "https://halfwheel.com/oveja-negra-brands/424187/"
+  ],
+  "notes": "Strength and body are from halfwheel's review; the maker only calls it bold yet refined.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "S&R",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra with Ecuadorian Connecticut Shade (barber pole)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia, Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Larga",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "herbal",
+   "cocoa",
+   "chili",
+   "white pepper"
+  ],
+  "about": "A limited Black Works Studio blend and the first in the brand to use Dominican filler and a Sumatra wrapper. The 2023 release added Connecticut shade stripes to the dark Sumatra wrapper.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-begins-shipping-limited-release-sr-and-new-rorschach-sumatra",
+   "https://halfwheel.com/black-label-trading-co-shipping-new-black-works-studio-sr-rorschach-sumatra-next-week/421214/",
+   "https://ovejanegracigars.com/blogs/news/blk-wks-press-release-s-r"
+  ],
+  "notes": "Specs shown are the 2023 release. The 2018 to 2020 batches used a plain Sumatra wrapper, a Nicaraguan habano binder and Corona Gorda (5.5 x 46) and Lancero (6.75 x 42) sizes. Announced in 2016 with a full debut in February 2018.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences and corrected: halfwheel shows batches in 2018, 2019 and 2020, not only 2018 and 2019."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Hyena",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "African Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "baking spice",
+   "cedar",
+   "herbal",
+   "cocoa",
+   "cream"
+  ],
+  "about": "A limited Black Works Studio cigar that pairs a Cameroon wrapper with Nicaraguan binder and filler. James Brown made it as a tribute to the years he and his wife lived in Africa.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-2nd-release-of-hyena",
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-blk-wks-announces-release-of-hyena",
+   "https://halfwheel.com/black-works-studio-hyena-lonsdale/392687/"
+  ],
+  "notes": "Released in 2021 and again in 2022, the second batch described by the maker as a touch more intense. halfwheel rated strength and body medium-plus with full flavor.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Intergalactic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Larga",
+    "length": 6.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "spice",
+   "herbal",
+   "cedar",
+   "earth",
+   "cream"
+  ],
+  "about": "A 2022 limited edition from Black Works Studio with a dark Sumatra wrapper over an Ecuadorian habano binder and Nicaraguan filler. The maker calls it a more traditional profile for the brand.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-intergalactic",
+   "https://halfwheel.com/black-works-studio-intergalactic-corona-gorda/405877/"
+  ],
+  "notes": "The maker says Dark Sumatra; halfwheel lists the wrapper as Indonesian. Strength is from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Intergalactic Event Horizon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.75,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "raisin",
+   "earth",
+   "anise",
+   "pepper",
+   "chili"
+  ],
+  "about": "The darker follow up to Intergalactic, released in 2024 with a Pennsylvania broadleaf wrapper in place of the original Sumatra. A limited edition made at Fabrica Oveja Negra.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-intergalactic-event-horizon",
+   "https://halfwheel.com/black-works-studio-intergalactic-event-horizon-petite-corona/444957/"
+  ],
+  "notes": "Strength and body are from halfwheel's review; the maker only calls it bold. Each size was limited to 900 boxes.",
+  "verified": true,
+  "verifyNotes": "Strength and body filled in as Medium-Full from halfwheel's review of the Petite Corona (both were null). BOOMBOX source replaced with that review."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Killer Bee Shaolin",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés with Connecticut and Candela",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico, Ecuador",
+  "binder": "Honduras (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "toast",
+   "pepper",
+   "earth",
+   "cream"
+  ],
+  "about": "A tweaked version of the Killer Bee blend in a three-leaf wrapper of San Andrés, Connecticut and candela. It was a small batch for retailers who ordered at the 2022 PCA trade show.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-begin-shipping-new-limited-release-killer-bee-shaolin-and-new-vitola-for-rorschach",
+   "https://halfwheel.com/black-works-studio-killer-bee-shaolin/417041/"
+  ],
+  "notes": "The maker calls it bold but elegant, while halfwheel's review found it medium bodied and mild in strength. halfwheel reports 1,000 boxes of 24.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "NBK Lizard King",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro and Ecuadorian Rojiso barber pole",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Box Press",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A barber pole version of the Black Works Studio NBK, first released in 2019 for retailer events. The maker describes it as an amped up NBK with more strength and spice.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-the-release-of-nbk-lizard-king",
+   "https://halfwheel.com/black-label-trading-co-releases-event-only-black-works-studio-nbk-lizard-king/366016/",
+   "https://www.neptunecigar.com/black-works-studio-cigar"
+  ],
+  "notes": "Launched as an event-only cigar. Full strength is Neptune's listing; the maker says only that it has more strength and spice than the regular NBK.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Neon Tiger",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Candela, Connecticut and Ecuadorian Maduro",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "One of the three Tiger Series cigars from Black Works Studio, each striped with three different wrapper leaves. On the Neon Tiger the green candela is the most visible leaf.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-tiger-series",
+   "https://halfwheel.com/blacks-works-studio-expands-tiger-series-for-events/405768/"
+  ],
+  "notes": "Part of the Tiger Series. The maker says the series was sold only in Europe and as factory exclusives from 2017, then as event-only 13-count boxes in the US from 2022. Candela is the dominant wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Tiger Lily",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut, Candela and Ecuadorian Maduro",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The toro of the Black Works Studio Tiger Series, striped with three wrapper leaves. It shows more of the Connecticut wrapper than the other two Tigers.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-tiger-series",
+   "https://halfwheel.com/blacks-works-studio-expands-tiger-series-for-events/405768/"
+  ],
+  "notes": "Part of the Tiger Series. The maker says the series was sold only in Europe and as factory exclusives from 2017, then as event-only 13-count boxes in the US from 2022. Connecticut is the dominant wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Khan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro, Candela and Connecticut",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A robusto in the Black Works Studio Tiger Series with a coiled cap and three striped wrapper leaves. The Ecuadorian maduro is the most visible leaf on this one.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-tiger-series",
+   "https://halfwheel.com/blacks-works-studio-expands-tiger-series-for-events/405768/"
+  ],
+  "notes": "Part of the Tiger Series. The maker says the series was sold only in Europe and as factory exclusives from 2017, then as event-only 13-count boxes in the US from 2022. Maduro is the dominant wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Sindustry",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Black Works Studio blend with a Mexican San Andrés maduro wrapper, a rabito cap and a closed foot. James Brown called it the boldest of the brand's 2016 additions.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/black-works-studio-adds-sr-boondock-saint-and-sindustry-plus-new-sizes-for-nbk-and-killer-bee/123341/",
+   "https://halfwheel.com/black-works-studio-ships-sindustry/268211/",
+   "https://halfwheel.com/black-works-studio-celebrates-10-years-with-boombox-sampler/449048/"
+  ],
+  "notes": "James Brown described it as full in flavor and strength. Soft launched at four shops in 2016, with full releases in 2017 and 2018. The Robusto and Lancero returned in the 2025 BOOMBOX anniversary sampler.",
+  "verified": true,
+  "verifyNotes": "About corrected: no source says it was the brand's first limited edition, so that claim was removed. Notes now say where the Full strength comes from."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Aumakua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dual wrapper of Mexican San Andrés and Ecuadorian Sun Grown",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico, Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A dual wrapper Black Works Studio cigar made as a shop exclusive for R. Field Wine Co. in Honolulu. It has come out in several small batches in 10-count boxes.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announce-release-of-aumakua-an-r-field-wine-co-exclusive",
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announce-release-of-aumakua-r-field-wine-co-exclusive"
+  ],
+  "notes": "R. Field Wine Co. (Honolulu) exclusive. The maker called the 2022 batch the second release and the 2024 batch the third; the year of the first release was not confirmed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Hawaii Hornet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro, Candela and Connecticut",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice"
+  ],
+  "about": "A three-leaf wrapper Black Works Studio robusto made as an exclusive for R. Field Wine Co. in Honolulu. The maker describes it as a spin-off of the Kato Hawaii with a rich, dark, earthy profile.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-hawaii-hornet-an-r-field-wine-co-exclusive",
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-releases-hawaii-hornet-an-r-field-wine-co-exclusive"
+  ],
+  "notes": "R. Field Wine Co. (Honolulu) exclusive in 10-count boxes. Released in September 2023 and again in January 2026. The maker also calls it the Hawaiian Hornet.",
+  "verified": true,
+  "verifyNotes": "Notes softened: the maker's 2023 release does not say it was the first."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Hawaiian Tiger",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Triple wrapper of Mexican San Andrés, Connecticut and Candela",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "dark fruit",
+   "anise"
+  ],
+  "about": "The first shop exclusive in the Black Works Studio Tiger Series, made for R. Field Wine Co. in Honolulu in 2024. It uses a striped triple wrapper led by Mexican San Andrés.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-hawaiian-tiger-an-r-field-wine-co-exclusive"
+  ],
+  "notes": "R. Field Wine Co. (Honolulu) exclusive in 10-count boxes, first offered at a store event on August 3, 2024.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Killer Bee Buzz Saw",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro with Connecticut accents",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A perfecto version of the Killer Bee made as an exclusive for Smoke Inn in South Florida in 2024. The shape first appeared in the 2021 Hive sampler.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-killer-bee-buzz-saw-a-smoke-inn-exclusive",
+   "https://halfwheel.com/black-works-studio-killer-bee-buzz-saw-returns-as-smoke-inn-exclusive/442822/"
+  ],
+  "notes": "Smoke Inn exclusive in 10-count boxes. It is a Killer Bee in a perfecto shape. The maker calls it bold and very intense but gives no strength rating.",
+  "verified": true,
+  "verifyNotes": "Notes reworded: sources call it a Killer Bee in a perfecto shape but do not confirm the blend is identical."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "NBK Hogshead",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés and African Cameroon",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico, Cameroon",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Box Press",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "baking spice",
+   "cedar"
+  ],
+  "about": "A dual wrapper NBK variant made in 2024 for the tenth anniversary of Hogshead Cigar Lounge in Fredericksburg, Virginia. The maker describes it as full bodied with dark, earthy notes.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-the-release-of-nbk-hogshead-a-hogshead-cigar-lounge-exclusive"
+  ],
+  "notes": "Hogshead Cigar Lounge (Fredericksburg, Virginia) exclusive in 10-count boxes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Tooth and Bear",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra and Ecuadorian Habano",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A dual wrapper Black Works Studio cigar made in 2025 as a shop exclusive for Tooth & Bear Cigar Lounge in Woodland Park, Colorado. James Brown says it is very different from the brand's earlier cigars.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-works-studio-announces-release-of-tooth-and-bear-a-tooth-bear-cigar-lounge-exclusive"
+  ],
+  "notes": "Tooth & Bear Cigar Lounge (Woodland Park, Colorado) exclusive in 10-count boxes. No strength or tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

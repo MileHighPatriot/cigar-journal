@@ -1,0 +1,933 @@
+[
+ {
+  "brand": "Davidoff",
+  "line": "Oro Blanco",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "honey",
+   "cedar",
+   "earth",
+   "white pepper",
+   "cream"
+  ],
+  "about": "A Dominican puro blended by Eladio Díaz from 2000 and 2001 harvest tobacco that was aged more than 12 years before rolling. It launched in 2014 at $500 a cigar and comes in one 6 x 54 size.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-oro-blanco-2/403424/",
+   "https://halfwheel.com/davidoff-oro-blanco-special-reserve-111-years-shipping-this-month-massive-price-tag-coming-later/443842/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Davidoff said in 2024 that the tobacco for this blend is almost gone and launched the Oro Blanco Special Reserve 111 Years as its successor. Leaf varietals are not published. halfwheel found medium strength, rising near full at the end.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop the term halo cigar and tightened notes. Wrapper, country, strength, size, year and production confirmed on halfwheel and Neptune."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Oro Blanco Special Reserve 111 Years",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (aged 4 years)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (aged 20 years)",
+  "filler": "Dominican Republic (five fillers aged 17 to 18 years)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "black pepper",
+   "earth",
+   "red wine"
+  ],
+  "about": "The 2024 follow-up to Oro Blanco, a Dominican puro in the same 6 x 54 size. The name refers to the combined 111 years of age of the seven tobaccos in each cigar, and it carries a $750 price.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-oro-blanco-special-reserve-111-years/445883/",
+   "https://halfwheel.com/davidoff-oro-blanco-special-reserve-111-years-shipping-this-month-massive-price-tag-coming-later/443842/",
+   "https://us.davidoffgeneva.com/discover/oro-blanco-special-reserve-one-hundred-and-eleven-years"
+  ],
+  "notes": "Davidoff has not named the filler varietals, only that one has never been used in a Davidoff before. Davidoff describes it as medium intensity, while halfwheel found medium-full strength. halfwheel lists it as regular production.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: Davidoff's own page says medium intensity (halfwheel's medium-full is now in notes). Replaced the generic Davidoff link with the cigar's own page."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Puro Dominicano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (Yamasá)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Martín García)",
+  "filler": "Dominican Republic (Mao, Villa González, Piloto, Navarrete)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Larga",
+    "length": 5.875,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "dark chocolate",
+   "dried fruit",
+   "oak",
+   "leather"
+  ],
+  "about": "An all-Dominican line added to the Black Band Collection in 2026, using tobacco from six Dominican regions with a combined age of 32 years. It reuses the name of a 2009 limited edition but is a new blend.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-puro-dominicano-corona-larga/472222/",
+   "https://www.neptunecigar.com/cigars/davidoff-puro-dominicano-corona-larga-57-8--44",
+   "https://www.famous-smoke.com/brands/davidoff-cigars/davidoff-puro-dominicano"
+  ],
+  "notes": "Davidoff names the six regions but not which leaf comes from where; the wrapper and binder regions are from Neptune. Neptune lists it as full and Famous Smoke as medium-full. Not the same cigar as the 2009 Puro Dominicano belicoso.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: Davidoff does name the six regions (Martín García, Villa González, Mao, Piloto, Navarrete, Yamasá). Sources swapped to the Neptune and Famous Smoke pages that carry the blend and the strength."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Maduro Limited Edition 2024",
+  "wrapperLeaf": "Ecuadorian Maduro (Corte #7)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Short Corona",
+    "length": 4,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "wood",
+   "cream",
+   "dark chocolate",
+   "dried fruit"
+  ],
+  "about": "The 2024 return of the Davidoff Maduro, which ran from 2008 to 2016, now with a new blend. The Ecuadorian wrapper is a high-priming leaf fermented for 16 months, twice the usual time.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-maduro-robusto-2024/439362/",
+   "https://us.davidoffgeneva.com/discover/limited-special-edition/maduro",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Davidoff describes it as full-bodied with medium intensity, and Neptune lists medium. halfwheel found mild strength and medium body. Production numbers are not disclosed.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild-Medium to Medium and body from Medium to Full, using Davidoff's own wording (medium intensity, full-bodied). Removed the claim about the 2008 wrapper, which no source opened supports. Davidoff link replaced with the Maduro page."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Grand Cru Diademas Finas Limited Edition",
+  "found": true,
+  "officialName": "Grand Cru Diademas Finas Limited Edition Collection",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (includes San Vicente seco aged six months in Bordeaux red wine casks)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diademas Finas",
+    "length": 6.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "fruit",
+   "spice",
+   "wood",
+   "citrus",
+   "vanilla"
+  ],
+  "about": "A 2024 limited edition that puts the Grand Cru blend idea into the Diademas Finas shape, with one filler leaf aged in Bordeaux wine casks. It was the fourth and last release in Davidoff's History Re-Rolled series.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-grand-cru-diademas-finas-debuting-next-month/439860/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Davidoff did not publish the blend beyond an Ecuadorian wrapper and Dominican binder and filler. Strength is Neptune's rating. About 4,000 boxes went to the U.S.",
+  "verified": true,
+  "verifyNotes": "Notes reworded. Strength rests on Neptune alone; no second source for it was found."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Escurio 10th Anniversary",
+  "found": true,
+  "officialName": "Escurio 10th Anniversary Limited Edition",
+  "wrapperLeaf": "Ecuadorian Habano (aged 4 years)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (aged 9 years)",
+  "filler": "Brazil, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "leather",
+   "dark chocolate",
+   "coffee",
+   "oak",
+   "cinnamon",
+   "earth"
+  ],
+  "about": "A 6 x 56 limited edition marking ten years of the Brazilian-influenced Escurio line. One of its four Dominican filler leaves was aged in bourbon barrels.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-escurio-10th-anniversary-limited-edition/451973/",
+   "https://www.neptunecigar.com/cigars/davidoff-escurio-10th-anniversary-limited-edition-gran-toro-6--56"
+  ],
+  "notes": "15,750 boxes of 12 were made, 3,750 of them for the U.S. Neptune describes the cask-aged filler as whisky cask; Davidoff's press quote says bourbon cask.",
+  "verified": true,
+  "verifyNotes": "Neptune link pointed at the product page that carries the whisky cask wording. No field changes."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Nicaragua 10th Anniversary",
+  "found": true,
+  "officialName": "Nicaragua 10th Anniversary Limited Edition",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "oak",
+   "coffee",
+   "cream",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A 2023 limited edition for the tenth year of Davidoff Nicaragua, sold only in a 6 x 56 size. The tobaccos have a combined 45 years of age and one Estelí filler spent six months in rum casks.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-nicaragua-10th-anniversary-limited-edition/429087/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "The wrapper is Ecuadorian, so it is not a Nicaraguan puro. Neptune calls the wrapper maduro and rates the cigar full; halfwheel found medium body with little nicotine strength. 3,300 boxes of 12.",
+  "verified": true,
+  "verifyNotes": "Removed two unsupported comparisons with the regular Nicaragua line from about and notes. halfwheel's spec table shows ring 54 but its text and Neptune both give 6 x 56, so 56 is kept."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Chefs Edition 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic (hybrid leaf, 15-year-old San Vicente, piloto aged five years in yagua leaves)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "leather",
+   "wood",
+   "earth",
+   "coffee"
+  ],
+  "about": "The fifth Chefs Edition, a 6 1/4 x 52 toro blended with five chefs who hold 11 Michelin stars between them. It is the first Davidoff to use piloto tobacco aged in yagua palm leaves.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-chefs-edition-2025/455517/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "17,500 boxes of 10 worldwide. Neptune lists it as medium; halfwheel found mild to just under medium strength with medium body.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Chefs Edition 2021",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Hybrid 238",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés negro seco)",
+  "filler": "Dominican Republic (Hybrid 192 seco, piloto seco, piloto viso, San Vicente ligero)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "white pepper",
+   "wood",
+   "nuts"
+  ],
+  "about": "A 7 x 48 Churchill blended with four well known chefs: Juan Amador, Norbert Niederkofler, Masa Takayama and Jorge Vallejo. It was the fourth Chefs Edition and the first not made as a 6 x 54 toro, limited to 9,700 boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-chefs-edition-2021/402370/"
+  ],
+  "notes": "Strength and body are from the halfwheel review, which found little nicotine strength until the final third.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Winston Churchill Limited Edition 2025",
+  "found": true,
+  "officialName": "Winston Churchill Limited Edition 2025 The Artist",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cedar",
+   "caramel",
+   "coffee",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A 7 x 48 Churchill honoring Winston Churchill as a painter. The box shows his painting Cork Trees Near Mimizan and has a wooden inlay shaped like a palette.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-winston-churchill-limited-edition-2025-the-artist/448002/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "18,000 boxes of 10 worldwide. Neptune lists it as medium; halfwheel found it starts medium and reaches medium-full in the final third.",
+  "verified": true,
+  "verifyNotes": "Removed '6,800 for the U.S.': Neptune gives 6,800 boxes without saying it is a U.S. figure and halfwheel does not give one."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Winston Churchill Limited Edition 2022",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés negro seco)",
+  "filler": "Dominican Republic (piloto mejorado viso, San Vicente mejorado seco and viso), Nicaragua (Condega seco, Estelí seco)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Double Perfecto",
+    "length": 5.875,
+    "ring": 61
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "leather",
+   "cream",
+   "white pepper",
+   "black pepper"
+  ],
+  "about": "A 5 7/8 x 61 double perfecto, the first Winston Churchill made in a perfecto shape. It came in a box styled after one of Churchill's briefcases, with 5,000 boxes of 10 for the U.S.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-winston-churchill-limited-edition-2022/407303/"
+  ],
+  "notes": "Strength and body are from the halfwheel review (medium-plus strength, medium-full body). Total worldwide production was not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Winston Churchill Limited Edition 2021",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Hybrid 257)",
+  "filler": "Dominican Republic (piloto ligero, Hybrid 20-20 seco, San Vicente mejorado ligero, San Vicente viso), Nicaragua (Estelí viso)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cream",
+   "black pepper",
+   "leather",
+   "earth",
+   "honey"
+  ],
+  "about": "A 6 x 52 toro released in February 2021 as the third Winston Churchill limited edition. The box artwork is styled after a chessboard, and 4,500 boxes of 10 were made.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-winston-churchill-limited-edition-2021/391380/"
+  ],
+  "notes": "halfwheel's review gives the size as 6 x 52, but its later release lists show 6 x 56. Strength is from that review, which found it starts mild and ends just above medium.",
+  "verified": true,
+  "verifyNotes": "Notes reworded only. The size conflict inside halfwheel could not be settled with a second source."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Year of the Horse 2026",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian hybrid",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (hybrid)",
+  "filler": "Dominican Republic (three hybrid fillers)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Especial",
+    "length": 6.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "hazelnut",
+   "spice",
+   "cedar",
+   "espresso",
+   "white pepper"
+  ],
+  "about": "The Zodiac series release for 2026 and the first Davidoff blend made entirely from the company's own hybrid seed tobaccos, with a combined age of 43 years. The standard cigar is a 6 1/2 x 55 toro.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-limited-edition-2026-year-of-the-horse/459241/",
+   "https://us.davidoffgeneva.com/discover/year-of-the-horse-2026",
+   "https://www.neptunecigar.com/cigars/davidoff-year-of-the-horse-61-2--55"
+  ],
+  "notes": "Went on sale in November 2025; 17,500 boxes of 10. The same blend also comes as a 6 x 52 Flagship Exclusive Torpedo and a 6 x 56 toro sold only in a Masterpiece humidor. Not the 2014 Year of the Horse, which was a Dominican puro. The Colorado wrapper shade is Neptune's label.",
+  "verified": true,
+  "verifyNotes": "Body changed from Medium to Medium-Full per Davidoff (medium-intense, medium to full body). Removed the unconfirmed 6 x 60 size of the 2014 cigar. Added Davidoff's page as a source."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Year of the Snake 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic (San Vicente), Mexico (San Andrés negro)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "black pepper",
+   "leather",
+   "nuts",
+   "wood",
+   "coffee"
+  ],
+  "about": "The 2025 Zodiac release, which started Davidoff's second trip through the Chinese calendar. The standard cigar is a slim 7 x 43, and it is only the second Davidoff blend to use Mexican tobacco in the filler.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-limited-edition-2025-year-of-the-snake/447262/",
+   "https://us.davidoffgeneva.com/discover/limited-special-edition/year-of-the-snake",
+   "https://www.neptunecigar.com/cigars/davidoff-year-of-the-snake-2025"
+  ],
+  "notes": "17,500 boxes of 10, 4,200 for the U.S. Neptune calls the wrapper maduro and the strength medium; halfwheel found mild to just under medium. Davidoff says the blend uses a Dominican hybrid seed 98 leaf from Martín García for the first time. Also made as a 6 x 52 flagship toro and a 6 x 56 humidor toro.",
+  "verified": true,
+  "verifyNotes": "Filler corrected: sources do not say the hybrid seed 98 leaf is a filler, so it moved to notes; Davidoff names San Vicente and San Andrés negro as fillers. Size name changed from Long Panatela (Neptune) to Lancero (Davidoff)."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Year of the Dragon 2024",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Mexico, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "wood",
+   "spice",
+   "nuts",
+   "cream",
+   "earth"
+  ],
+  "about": "The 2024 Zodiac release, a 7 1/2 x 50 double corona with a brushed foot that leaves the filler exposed. Its tobaccos have a combined age of 60 years.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-limited-edition-2024-year-of-the-dragon/434612/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Went on sale in November 2023; 19,500 boxes of 10 worldwide. Neptune describes the wrapper as Ecuadorian maduro; halfwheel lists only Ecuador. A 6 x 56 Flagship Edition was also made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Year of the Rabbit 2023",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Hybrid 238",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés negro)",
+  "filler": "Dominican Republic (piloto seco, San Vicente ligero, San Vicente seco, Yamasá viso), Nicaragua (Estelí seco)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5.9375,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "spice",
+   "cream",
+   "earth",
+   "black pepper"
+  ],
+  "about": "The 2023 Zodiac release, a 5 15/16 x 54 double perfecto finished with a small pigtail cap.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-limited-edition-2023-year-of-the-rabbit/428919/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Went on sale in November 2022; 6,500 boxes of 10 went to the U.S. Neptune calls it full bodied, but halfwheel found medium-plus body and little nicotine strength. A 6 x 56 Flagship Edition was also made.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that it closed the first twelve-year cycle, which the sources do not state. Added the U.S. box count from halfwheel."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Year of the Tiger 2022",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Hybrid 257 seco)",
+  "filler": "Dominican Republic (Hybrid 254 viso, Hybrid 259 seco, piloto ligero, San Vicente mejorado seco, San Vicente mejorado viso)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Piramides",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "citrus",
+   "wood",
+   "white pepper",
+   "cream",
+   "espresso"
+  ],
+  "about": "The 2022 Zodiac release and the first in the series with an Ecuadorian Connecticut wrapper. Darker veins were pressed onto the wrapper for 48 hours to leave tiger-like stripes.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-limited-edition-2022-year-of-the-tiger/403206/",
+   "https://halfwheel.com/davidoff-year-of-the-tiger-launching-next-month/401644/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Went on sale in November 2021; 17,350 boxes of 10. halfwheel gives the size as 5 x 52, while Neptune lists 5 1/2 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Year of the Ox 2021",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic (Piloto, San Vicente Mejorado, Yamasá), Nicaragua (Condega, Estelí)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "caramel",
+   "cinnamon",
+   "toast",
+   "nuts",
+   "cedar"
+  ],
+  "about": "The 2021 Zodiac release, a 6 x 60 gordo with a Dominican wrapper over an Ecuadorian Sumatra binder and five viso fillers. 13,500 boxes of 10 were made.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-limited-edition-2021-year-of-the-ox/385379/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Went on sale in November 2020. Neptune rates it full; halfwheel found medium strength with medium-full body.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Discovery Limited Edition 2022",
+  "found": true,
+  "officialName": "Discovery Limited Edition 2022 Gran Toro",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (seco)",
+  "filler": "Brazil (Mata Fina seco), Nicaragua (Estelí viso, Jalapa viso), Dominican Republic (Hybrid 2020 seco, San Vicente mejorado seco)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "dark chocolate",
+   "espresso",
+   "cashew",
+   "leather",
+   "caramel"
+  ],
+  "about": "A single-size limited edition that combines tobaccos from the three Black Band lines, Nicaragua, Escurio and Yamasá, in one blend. 13,500 boxes of 12 were made.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-discovery-limited-edition-2022-gran-toro/409656/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Also sold as \"Davidoff Limited Edition 2022 Gran Toro\" or the Black Band Limited Edition. Neptune calls the wrapper Ecuadorian maduro and rates it full; halfwheel lists only Ecuador and found it medium rising to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Robusto Intenso Limited Edition 2020",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 702",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente seco)",
+  "filler": "Dominican Republic (piloto viso, San Vicente mejorado ligero, Semilla 254 viso, Yamasá viso)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toast",
+   "wood",
+   "black pepper",
+   "nuts",
+   "cream"
+  ],
+  "about": "A 2020 re-creation of the Robusto Intenso limited edition from 2005, built from six tobaccos. 10,100 boxes of 10 were made, plus 1,960 five-count boxes for travel retail.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-robusto-intenso-limited-edition-2020/382949/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Neptune rates it full bodied, but the halfwheel review found medium strength and medium-plus body with the intensity in the flavor. halfwheel's text gives 5 1/8 inches and its spec table 5 1/4.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Special 53 Capa Dominicana Limited Edition 2020",
+  "found": true,
+  "officialName": "Limited Edition Special «53» Capa Dominicana (2020)",
+  "wrapperLeaf": "Dominican (aged 10 years)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (San Vicente, aged 8 years)",
+  "filler": "Dominican Republic (olor seco, piloto ligero, San Vicente seco)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.125,
+    "ring": 53
+   }
+  ],
+  "flavors": [
+   "oak",
+   "almond",
+   "earth",
+   "espresso",
+   "hay",
+   "vanilla"
+  ],
+  "about": "A 2020 re-release of the 2002 Special 53, Davidoff's first all-Dominican cigar, in the same 6 1/8 x 53 perfecto. 9,700 boxes of 10 were made, 4,500 of them for the U.S.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-limited-edition-special-capa-dominicana-2020/380673/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "A Dominican puro. Neptune lists it as mild; halfwheel found it starts mild and only reaches medium at the very end.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "The Boutique Selection New York Madison",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (three fillers)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 54 toro sold only at the Davidoff of Geneva flagship store on Madison Avenue in New York, developed with the store's staff. It launched in September 2026 alongside sister blends for Geneva and Hong Kong.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-adding-boutique-selection-for-select-flagships/476320/",
+   "https://us.davidoffgeneva.com/discover/limited-special-edition"
+  ],
+  "notes": "A store exclusive that Davidoff calls a permanent offering released in limited batches, so it is not sold at other retailers. Davidoff lists its intensity as medium-full. No tasting notes or leaf varietals are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Primeros",
+  "found": true,
+  "officialName": "Primeros by Davidoff",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Primeros",
+    "length": 4.125,
+    "ring": 34
+   }
+  ],
+  "flavors": [
+   "wood",
+   "pepper",
+   "cream"
+  ],
+  "about": "Davidoff's range of handmade small cigars, all 4 1/8 x 34 with short or mixed filler and sold in tins of six. Each version is a small take on one of the main lines.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brands/davidoff-cigars/davidoff-primeros",
+   "https://www.neptunecigar.com/davidoff-cigar",
+   "https://halfwheel.com/davidoff-expands-escurio-with-two-new-vitolas-primeros-cigarillos/116671/"
+  ],
+  "notes": "Not one blend: versions include Dominican, Dominican Maduro, Nicaragua, Nicaragua Maduro and Escurio, each with its own wrapper, so ask which tin. The Dominican is the mild one with a Connecticut wrapper; the Escurio (2016) uses Ecuadorian Habano over Brazilian binder.",
+  "verified": true,
+  "verifyNotes": "Flavors replaced with words Neptune actually uses (woody, peppery, creamy). Wrapper and strength stay null because the line is five different blends; country, size and the per-version details were confirmed on Neptune, Famous Smoke and halfwheel."
+ }
+]

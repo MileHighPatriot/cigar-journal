@@ -1,0 +1,775 @@
+[
+ {
+  "brand": "Viaje",
+  "line": "The Geisha",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Corojo version); Mexican San Andrés Maduro (Maduro version)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "tea",
+   "cocoa",
+   "earth",
+   "leather",
+   "black pepper",
+   "cinnamon"
+  ],
+  "about": "A Japan-themed perfecto from Viaje sold in two blends, one with a Nicaraguan corojo 99 wrapper and one with a Mexican San Andrés maduro wrapper. It debuted in 2022 in bento-style boxes and returned in 2026.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-the-geisha-corojo/413681/",
+   "https://halfwheel.com/viaje-bringing-back-geisha-jalapenos-and-phat-jalapenos/468909/"
+  ],
+  "notes": "Two blends share the name: Corojo and Maduro (San Andrés wrapper). Blend, factory, strength and tasting notes are from halfwheel's review of the 2022 Corojo, which built to full strength by the end. Viaje has not confirmed the 2026 blend, and the 2022 run was 400 boxes.",
+  "verified": true,
+  "verifyNotes": "Checked against halfwheel's 2022 review and 2026 news post. Blend, factory, size and year hold. Added to notes that the review finished at full strength."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Jalapeno",
+  "found": true,
+  "officialName": "Jalapeño",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Perfecto",
+    "length": 4.875,
+    "ring": 51
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "chocolate",
+   "coffee",
+   "cedar"
+  ],
+  "about": "The first cigar in Viaje's Pepper Series, a small perfecto with green foil over its top half so it looks like a jalapeño. It comes back in occasional batches.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-jalapeno/84080/",
+   "https://halfwheel.com/viaje-bringing-back-geisha-jalapenos-and-phat-jalapenos/468909/",
+   "https://halfwheel.com/viaje-super-shots-jalapeno-return/218194/"
+  ],
+  "notes": "Viaje keeps the blend secret. The 2015 debut was made at Raíces Cubanas in Honduras; a 2018 post hinted production moved to Nicaragua, and the current factory is not disclosed. The Phat Jalapeño (5 3/16 x 55) is the larger version.",
+  "verified": true,
+  "verifyNotes": "Confirmed halfwheel lists the blend as undisclosed (2015 review and 2026 post), so wrapper, country and strength stay null. Size, year and the 2015 Honduras factory history hold."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Phat Purple Jalapeno",
+  "found": true,
+  "officialName": "Phat Purple Jalapeño",
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5.1875,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "bread",
+   "black pepper",
+   "white pepper",
+   "earth"
+  ],
+  "about": "A larger Pepper Series perfecto from Viaje, built on the Jalapeño blend but reworked to be less strong and a little sweeter. It is a Nicaraguan puro rolled in Honduras.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-phat-purple-jalapeno/393163/",
+   "https://halfwheel.com/viaje-shipping-phat-purple-jalapeno-antidote-2021-later-this-month/390787/"
+  ],
+  "notes": "The wrapper varietal and the factory are not disclosed. Length is listed as both 5 3/16 and 5 13/16 inches; Viaje gives 5 3/16 x 55 for its Phat peppers. halfwheel's review put strength at medium, rising to medium-plus.",
+  "verified": true,
+  "verifyNotes": "Blend, country, size and strength match halfwheel. Removed the claim that a retailer calls it medium-full because I could not find a page that says so."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Carolina Reaper",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 4.875,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "red pepper",
+   "chocolate",
+   "nuts"
+  ],
+  "about": "A Pepper Series perfecto from Viaje named after one of the hottest peppers, dressed in red foil. It is a Nicaraguan puro made with Aganorsa tobacco and rolled in Honduras.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-shipping-cache-carolina-reaper-next-week/256078/",
+   "https://halfwheel.com/viajes-amuse-bouche-ii-carolina-reapers-head-to-stores/404531/",
+   "https://halfwheel.com/viaje-phat-carolina-reaper/390726/"
+  ],
+  "notes": "The wrapper varietal is not disclosed. Strength and tasting notes come from halfwheel's review of the Phat Carolina Reaper (5 3/16 x 55), the larger version, which finished at full strength.",
+  "verified": true,
+  "verifyNotes": "Nicaraguan puro, Honduras and Raíces Cubanas confirmed in halfwheel's 2018 and 2022 posts. Strength and flavors come from the review of the larger Phat version of the same blend, as the notes say; no review of the regular size was found."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Phat Scotch Bonnet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5.1875,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "The larger Phat version of Viaje's Scotch Bonnet, a Pepper Series perfecto with gold foil over its top half. It shipped in 2023 as the first Scotch Bonnet release since the 2019 debut.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-new-batch-of-scotch-bonnet-and-birthday-blend/423423/",
+   "https://halfwheel.com/viaje-scotch-bonnet/297800/",
+   "https://www.hilandscigars.com/shop/cigars/viaje/viaje-phat/viaje-phat-scotch-bonnet-2023-5-19x55-box-of-25/"
+  ],
+  "notes": "Viaje has not disclosed the blend or the factory. halfwheel reviewed the regular Scotch Bonnet (4 7/8 x 50) as full strength. halfwheel lists the Phat at 5 13/16 x 55, but a retailer and Viaje's other Phat peppers give 5 3/16 x 55.",
+  "verified": true,
+  "verifyNotes": "Confirmed halfwheel says blend and factory are undisclosed. Replaced the Blind Man's Puff link, which covers only the regular Scotch Bonnet, with a retailer page for the Phat that confirms 5 3/16 x 55. Dropped the unofficial habano and TABSA claim from notes because a retailer lists a different wrapper."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Shishito",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A 2024 addition to Viaje's Pepper Series, named for the mild Japanese pepper and sold in regular and Phat formats. Most cigars in a box are milder, with a few stronger ones mixed in.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-new-shishito-peppers-private-keep-lime/436507/"
+  ],
+  "notes": "Viaje has not disclosed the blend, factory or exact size. Viaje says it is on the milder side with stronger cigars sprinkled in, and the stronger ones wear red foil. Earlier peppers measured 4 7/8 x 50 or 51, and Phat versions 5 3/16 x 55.",
+  "verified": true,
+  "verifyNotes": "Confirmed halfwheel's 2024 post says blend and size are not disclosed. No other reputable page with specs was found."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Private Keep Ghost",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The sixth release in Viaje's Private Keep series of favorite blends that had no other home. The cigars come unbanded in 37-count boxes and are identified only by the ribbon color.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-shipping-chefs-cut-private-keep-ghost-next-week/465129/"
+  ],
+  "notes": "Viaje has not disclosed the blend or the factory. Each Private Keep release is a different blend.",
+  "verified": true,
+  "verifyNotes": "Confirmed against halfwheel's March 2026 post: sixth release, 6 x 52 toro, 37-count boxes, blend not given."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Private Keep Lime",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The fifth release in Viaje's Private Keep series, named for the lime-colored ribbon on the unbanded cigars. It shipped in March 2024 in 37-count boxes.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-new-shishito-peppers-private-keep-lime/436507/",
+   "https://halfwheel.com/viaje-shipping-chefs-cut-private-keep-ghost-next-week/465129/"
+  ],
+  "notes": "Viaje has not disclosed the blend or the factory. Each Private Keep release is a different blend.",
+  "verified": true,
+  "verifyNotes": "Confirmed against halfwheel's 2024 and 2026 posts: fifth release, 6 x 52, March 2024, blend not given."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Private Keep Lemon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The fourth release in Viaje's Private Keep series, named for the lemon-colored ribbon that identifies the unbanded cigars. It is a Nicaraguan puro with a criollo 98 wrapper that shipped in June 2022.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-private-keep-lemon-and-return-of-summerfest-and-birthday-blend/409315/",
+   "https://cigar-coop.com/2022/06/cigar-news-viaje-private-keep-lemon-released.html"
+  ],
+  "notes": "The blend comes from Viaje's comments on Instagram as reported by halfwheel; Cigar Coop reported the blend as undisclosed. The factory and country of manufacture are not published.",
+  "verified": true,
+  "verifyNotes": "Criollo 98 wrapper and Nicaraguan puro confirmed in halfwheel; Cigar Coop confirms origin was not disclosed. No strength is published."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Super Shot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "10 Gauge",
+    "length": 3.5,
+    "ring": 54
+   },
+   {
+    "name": "12 Gauge",
+    "length": 3.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "espresso",
+   "black pepper",
+   "dark chocolate",
+   "oak"
+  ],
+  "about": "A very short, unbanded Nicaraguan puro that Viaje's Andre Farkas created to smoke between rounds of clay shooting. It is packed in boxes made to look like shotgun shell cartons and returns most winters.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-super-shot-returning-this-month-2/460332/",
+   "https://halfwheel.com/viaje-super-shot-10-gauge-2017/145064/",
+   "https://halfwheel.com/review-viaje-super-shot-10-gauge/24914/"
+  ],
+  "notes": "The 2012 debut was made at Raíces Cubanas in Honduras, but Viaje no longer says where it is made. Some early batches used a corojo wrapper. Buckshot is the San Andrés maduro version, and there is also a Zombie Super Shot.",
+  "verified": true,
+  "verifyNotes": "Set country from Honduras to null: halfwheel's January 2026 post says Viaje is not disclosing where the cigars are made, and Honduras applies only to the 2012 debut. Wrapper, sizes, year and full strength confirmed."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Buckshot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "10 Gauge",
+    "length": 3.5,
+    "ring": 54
+   },
+   {
+    "name": "12 Gauge",
+    "length": 3.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "honey",
+   "toast",
+   "black pepper"
+  ],
+  "about": "A spinoff of Viaje's Super Shot that swaps the Nicaraguan criollo wrapper for Mexican San Andrés maduro. It comes in the same two short sizes and shotgun shell style boxes.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-buckshot-12-gauge/422184/",
+   "https://halfwheel.com/viaje-adds-phat-jalapeno-and-buckshot-shotgun-shells/372231/"
+  ],
+  "notes": "Part of Viaje's Shotgun Shells family with Super Shot. The factory and country of manufacture are not disclosed. Released in 2020 and 2023; Viaje said it would not return with the 2026 Super Shot batch.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, sizes, 2020 debut and medium-full strength match halfwheel's 2023 review, which lists country and factory as undisclosed."
+ },
+ {
+  "brand": "Viaje",
+  "line": "One of One",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tailwind",
+    "length": 6.75,
+    "ring": 52
+   },
+   {
+    "name": "Bulwark",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Outer Edge",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A one-time Viaje release from December 2025 in three sizes, with fewer than 200 boxes of each. It has no set MSRP, and early retail prices were around 26 to 27 dollars a cigar.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-new-one-of-one-line/458346/"
+  ],
+  "notes": "Viaje has not disclosed the blend or the factory, and says the line will not be made again. Tailwind is listed as 6 3/4 x 52 x 56, so it tapers from 52 to 56 ring. Boxes hold 30 cigars.",
+  "verified": true,
+  "verifyNotes": "Confirmed against halfwheel's December 2025 post: three sizes, blend and factory not announced, one-time release."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Vampire Dust",
+  "found": true,
+  "officialName": "Vampire Dust Purple",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Whispered Promise",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Eternal Night",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "earth",
+   "leather",
+   "cocoa",
+   "brown sugar"
+  ],
+  "about": "A Viaje line introduced in January 2025 in two sizes with a vampire backstory. Reviewers found it milder than most Viaje cigars, topping out around medium.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-vampire-dust/446437/",
+   "https://halfwheel.com/viaje-vampire-dust-whispered-promise/448369/"
+  ],
+  "notes": "Viaje has not disclosed the blend, factory or country. When Vampire Dust Red came out, Viaje said this original line is called Vampire Dust Purple. Strength and tasting notes are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": "Sizes, year, Purple rename and medium strength match halfwheel's review, which lists blend, country and factory as undisclosed."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Vampire Dust Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The second Vampire Dust release from Viaje, shipped in November 2025 in a single 5 x 54 size. It is a different blend from the original Vampire Dust Purple.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adding-new-vampire-dust-red-bringing-back-zombie-farmer-bill-hatchet/456742/"
+  ],
+  "notes": "Viaje has not disclosed the blend, factory or country. halfwheel gives the size as 5 x 54 without a vitola name, so Robusto here is only a description of the shape.",
+  "verified": true,
+  "verifyNotes": "Confirmed halfwheel says the blend is undisclosed and the size is 5 x 54. Clarified in notes that Robusto is a shape description, not a published vitola name."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Private Bale Bird on a Branch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (two Corojo 99 leaves from Jalapa)",
+  "filler": "Nicaragua (Estelí and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (Estelí)",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Pajaro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Pajarito",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "bread",
+   "espresso",
+   "red pepper",
+   "dried fruit",
+   "leather"
+  ],
+  "about": "The first release in Viaje's Private Bale series, which is built on aged tobacco picked leaf by leaf from selected bales. The finished cigars rest nine months before boxing, and Viaje calls it an eight-year project.",
+  "released": 2024,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-private-bale-bird-on-a-branch-and-furiosa-imperator-next-week/441077/",
+   "https://halfwheel.com/viaje-private-bale-bird-on-a-branch-pajarito/445116/",
+   "https://www.cigaraficionado.com/article/viaje-s-bird-on-a-branch-landing-next-week"
+  ],
+  "notes": "halfwheel's review lists it as regular production but files it under limited editions, so its status is unclear. The review found strength building to full by the end. Boxes hold 34 cigars.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and sizes match halfwheel and were cross-checked against Cigar Aficionado, added as a source. Strength matches halfwheel's review."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Private Bale Sunlight On a Field",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Twilight",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Dawn",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "bread",
+   "nuts",
+   "white pepper"
+  ],
+  "about": "The second release in Viaje's Private Bale series of aged-tobacco blends, shipped in September 2025 in two sizes. Viaje says each size has its own expression of the blend.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adding-private-bale-sunlight-on-a-field-bringing-back-hamaki-next-week/454673/",
+   "https://halfwheel.com/viaje-private-bale-sunlight-on-a-field-twilight/456410/"
+  ],
+  "notes": "Viaje has not disclosed the blend, factory or country. Strength and tasting notes are from halfwheel's review of the Twilight size.",
+  "verified": true,
+  "verifyNotes": "Sizes, year and medium strength match halfwheel's review, which lists blend, country and factory as undisclosed."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Hamaki",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Japan-inspired Viaje torpedo named with the Japanese word for cigar. It began in 2017 as a White Label Project release and came back in 2019 and 2025.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adding-private-bale-sunlight-on-a-field-bringing-back-hamaki-next-week/454673/",
+   "https://halfwheel.com/viaje-hamaki-omakase-return-for-2019/298642/",
+   "https://halfwheel.com/viaje-shipping-hamaki-retailers-week/179957/"
+  ],
+  "notes": "The 2017 original was a full-bodied Dominican puro with a negrito wrapper made by Quesada. In 2019 production moved to TABSA in Nicaragua, and the blend since then has not been disclosed. Factory details for the 2025 batch were not published.",
+  "verified": true,
+  "verifyNotes": "Size, 2017 debut, Quesada origin and the 2019 move to TABSA in Nicaragua confirmed in halfwheel. No blend or strength is published for the Nicaraguan version."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Hamaki Omakase",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto (box-pressed)",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "hay",
+   "leather",
+   "cedar",
+   "oak",
+   "dark chocolate",
+   "vanilla"
+  ],
+  "about": "An offshoot of Viaje's Hamaki named for the Japanese dining term for leaving the choice to the chef. Viaje keeps the blend secret on purpose and asks smokers to trust it.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-hamaki-omakase-returning-in-july/410182/",
+   "https://halfwheel.com/viaje-hamaki-omakase-2019/364393/"
+  ],
+  "notes": "The blend is secret by design. The 2017 and 2019 releases were 6 x 52 toros (2019 made at TABSA); the 2022 release was a tweaked 5 x 52 box-pressed robusto made by Aganorsa Leaf. Strength and tasting notes are from halfwheel's review of the 2019 toro.",
+  "verified": true,
+  "verifyNotes": "Factory and sizes match halfwheel's 2022 post and 2019 review; blend is withheld by Viaje. Strength is from the 2019 review, as the notes say."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Full Moon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Gordo",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "earth",
+   "espresso",
+   "cocoa",
+   "toast"
+  ],
+  "about": "Viaje's Halloween release, a thick 5 x 58 Nicaraguan puro with a corojo wrapper and jack-o-lantern packaging. It has returned most Octobers since 2013.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-full-moon-and-the-crow-with-an-edicion-limitada-for-each/455383/",
+   "https://halfwheel.com/viaje-bringing-back-full-moon-october/401095/",
+   "https://halfwheel.com/review-viaje-full-moon-2013/43397/"
+  ],
+  "notes": "Releases through 2017 were made at Raíces Cubanas in Honduras; 2019 and 2021 were made at TABSA in Nicaragua. Viaje said 2023 was made in Nicaragua without naming the factory, and gave no details for 2025. Strength is from halfwheel's review of the 2013 release.",
+  "verified": true,
+  "verifyNotes": "Wrapper, size, year and factory history confirmed across halfwheel's 2013, 2019, 2021, 2023 and 2025 pages. Reworded notes to add that the 2023 factory was not named."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Full Moon Edicion Limitada",
+  "found": true,
+  "officialName": "Full Moon Edición Limitada",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Gordo",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "white pepper"
+  ],
+  "about": "A smaller-run version of Viaje's Halloween Full Moon that swaps the corojo wrapper for Mexican San Andrés maduro. It first appeared in 2015 and ships alongside the regular Full Moon.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-full-moon-and-the-crow-with-an-edicion-limitada-for-each/455383/",
+   "https://halfwheel.com/viaje-bringing-back-full-moon-october/401095/",
+   "https://halfwheel.com/viaje-full-moon-edicion-limitada-2017/213668/"
+  ],
+  "notes": "The 2015 and 2017 batches were made at Raíces Cubanas in Honduras; 2019 and 2021 were made at TABSA in Nicaragua. Viaje did not name the factory for 2023 or confirm the blend for 2025. Tasting notes are from halfwheel's 2017 review.",
+  "verified": true,
+  "verifyNotes": "San Andrés wrapper, size, 2015 debut and factory history confirmed in halfwheel. No strength is published, so it stays null. Reworded notes to cover 2023."
+ }
+]

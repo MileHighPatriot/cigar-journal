@@ -1,0 +1,904 @@
+[
+ {
+  "brand": "Gurkha",
+  "line": "Cellar Reserve 21 Year",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic, Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas S.R.L.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Solara",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Hedonism",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Kraken",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "toast",
+   "cocoa",
+   "salt",
+   "coffee"
+  ],
+  "about": "The Connecticut shade member of Gurkha's Cellar Reserve family, introduced in 2016 and sold only in perfecto shapes. Gurkha says the blend includes some 21-year-old tobacco.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/cellar-reserve-21-year/",
+   "https://halfwheel.com/gurkha-cellar-reserve-21-kraken-xo/141436/",
+   "https://halfwheel.com/gurkha-bringing-cellar-reserve-21-year-and-pan-american-to-ipcpr/120096"
+  ],
+  "notes": "Gurkha lists Dominican and Nicaraguan binder and filler; halfwheel and Neptune list Dominican only. Gurkha calls it a limited edition, halfwheel lists it as regular production. Per halfwheel, a Gurkha rep said only a small part of the filler is 21-year-old tobacco.",
+  "verified": true,
+  "verifyNotes": "Removed the unsupported claim in about that it is the lightest Cellar Reserve blend. All other fields match Gurkha and halfwheel."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Cellar Reserve Edición Especial 18 Year",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo (origin undisclosed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (18-year aged)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas S.R.L.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Koi",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Solara",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Hedonism",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Kraken",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "bread",
+   "earth",
+   "nuts",
+   "leather",
+   "baking spice"
+  ],
+  "about": "The third Cellar Reserve release, a corojo-wrapped Dominican cigar from 2014 built around 18-year-old tobacco. All sizes are perfectos and it ships in a mahogany-finish box.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/cellar-reserve-edicion-especial-18-year/",
+   "https://halfwheel.com/gurkha-cellar-reserve-edicion-especial-solara-prerelease/68696/",
+   "https://halfwheel.com/gurkha-expands-cellar-reserve-edicion-especial/63643/"
+  ],
+  "notes": "Launched in 2014 limited to 1,000 boxes per size, but Gurkha still lists it as a core brand. Gurkha rates it medium; halfwheel's review found it full bodied and medium-full in strength, and Neptune lists it as full. The corojo wrapper's country is not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Cellar Reserve Limitada 15 Year Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (15-year aged)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Solara",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Hedonism",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Kraken",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro take on Gurkha's Cellar Reserve, introduced in 2013 with a dark Brazilian Arapiraca wrapper over aged Dominican tobacco. It is sold in the line's perfecto shapes, and Gurkha describes it as sweeter and fuller than the original.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/cellar-reserve-limitada-15-year-maduro/",
+   "https://halfwheel.com/gurkha-ships-cellar-reserve-limitada/44926/",
+   "https://www.neptunecigar.com/gurkha-cigar"
+  ],
+  "notes": "Usually just called Cellar Reserve Limitada by retailers and halfwheel. Gurkha rates it medium to full; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "Swapped the redirecting halfwheel link for its current address and marked the sweeter and fuller comparison in about as Gurkha's own description."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Revenant Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic (T-13 hybrid), Nicaragua, Broadleaf (origin undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of two Revenant blends from 2021, the first cigars Tabacalera El Artista made for Gurkha. It pairs a San Andrés wrapper with a Cameroon binder and El Artista's own T-13 hybrid tobacco in the filler.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/revenant-maduro/",
+   "https://halfwheel.com/gurkha-ships-new-revenant-line/400336/",
+   "https://halfwheel.com/pca-2021-gurkha/398429"
+  ],
+  "notes": "Blended by Ram Rodriguez of El Artista. Gurkha lists the robusto as 5 x 52; halfwheel reported 5 x 50 at launch.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Revenant Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic (Corojo 98), Nicaragua, Broadleaf (origin undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The corojo-wrapped half of Gurkha's 2021 Revenant line, made by Tabacalera El Artista in the Dominican Republic. Like the Maduro, it is built on a Cameroon binder.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/revenant-corojo/",
+   "https://halfwheel.com/gurkha-ships-new-revenant-line/400336/",
+   "https://halfwheel.com/pca-2021-gurkha/398429"
+  ],
+  "notes": "Blended by Ram Rodriguez of El Artista. Gurkha calls the Dominican filler Corojo 98; one halfwheel report says Criollo 98, and halfwheel adds a broadleaf of undisclosed origin. Gurkha lists the robusto as 5 x 52; halfwheel reported 5 x 50 at launch.",
+  "verified": true,
+  "verifyNotes": "Added Corojo 98 to the filler per Gurkha. Corrected notes: halfwheel is split, its shipping story says Corojo 98 and its show report says Criollo 98."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Real",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Criollo 98 ligero and seco), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "vanilla"
+  ],
+  "about": "Gurkha's mild Connecticut-wrapped line, introduced in 2019 and made at Tabacalera Las Lavas in the Dominican Republic. The name is pronounced ray-al.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/gurkha-real/",
+   "https://halfwheel.com/gurkha-real-to-debut-at-ipcpr-2019/308680/",
+   "https://halfwheel.com/ipcpr-2019-gurkha/336736/"
+  ],
+  "notes": "Gurkha's spec table lists only Criollo 98 ligero and seco in the filler, while its description mentions Honduran fillers; halfwheel and Neptune list Dominican and Nicaraguan filler. Neptune rates it medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Colección Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed hybrid",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (Sumatra)",
+  "filler": "USA (Connecticut Broadleaf), Habano seco and ligero (origin undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "nuts",
+   "espresso",
+   "leather",
+   "earth",
+   "bread"
+  ],
+  "about": "A Connecticut hybrid wrapped Dominican cigar that Gurkha launched in 2022, first as an exclusive for Tobacconists' Association of America shops. It is sold through a limited group of retailers in 10-count boxes.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/coleccion-especial/",
+   "https://halfwheel.com/gurkha-coleccion-especial-returns-after-wrapper-shortage/449413/",
+   "https://halfwheel.com/gurkha-coleccion-especial-taa-2022/413080/"
+  ],
+  "notes": "Originally made at PDR Cigars; paused in 2024 over a wrapper shortage and returned in 2025 from Tabacalera Palma with the same blend. Gurkha says it is released in limited quantities to select retailers. The lonsdale was first listed as 6 1/2 x 48.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Volition America",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Varies by blend: Connecticut, Habano or Maduro (origins undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan-made collection launched in November 2024 with Volition America and Folds of Honor, offered as Connecticut, Habano and Maduro blends in one toro size. Boxes hold 13 cigars and 13 percent of each sale funds scholarships for families of fallen and disabled service members and first responders.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/volition-america/",
+   "https://halfwheel.com/gurkhas-volition-america-lines-get-new-packaging/451665/",
+   "https://halfwheel.com/gurkha-debuts-year-of-the-snake-and-volition-america-lines-at-taa-2024/444482/"
+  ],
+  "notes": "This is three blends under one name, each a 6 x 54 toro. Gurkha has not disclosed the wrapper origins or the factory. Gurkha gives one strength for the whole collection, \"Strong\", with no rating per blend, so the Connecticut may smoke lighter.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Colección Especial Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pirámide",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "leather",
+   "toast"
+  ],
+  "about": "A Nicaraguan puro follow-up to Gurkha's Colección Especial, made at American Caribbean Cigars. It debuted in 2023 as a Tobacconists' Association of America exclusive and went to all retailers in 2024.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/coleccion-especial-nicaragua/",
+   "https://halfwheel.com/gurkha-begins-shipping-coleccion-especial-nicaragua/442844/",
+   "https://halfwheel.com/gurkha-nicaraguan-coleccion-especial-piramide/431733/"
+  ],
+  "notes": "Also sold as Nicaraguan Colección Especial. The tobacco varietals are not disclosed. The 2023 TAA release was a single pirámide limited to 1,500 boxes of 10, which halfwheel listed at 6 1/8 x 54.",
+  "verified": true,
+  "verifyNotes": "Notes said halfwheel measured the 2023 size; it only listed it, so the wording was fixed."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Havana Legend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "bread",
+   "pepper",
+   "cream"
+  ],
+  "about": "An Ecuadorian Habano wrapped cigar that Gurkha first sold in 1999 and brought back in 2017 with new packaging. It is made in Nicaragua and Gurkha describes it as an everyday smoke.",
+  "released": 1999,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/havana-legend/",
+   "https://halfwheel.com/gurkha-rebrands-havana-legend-line-to-legend-1959/446793/",
+   "https://halfwheel.com/gurkha-havana-legend-toro-2017/251665/"
+  ],
+  "notes": "In January 2025 Gurkha announced the U.S. line was being renamed Legend 1959, the name used overseas, so boxes may carry either name. The 2017 version was reported with a Dominican olor binder and Dominican and Nicaraguan filler. Halfwheel lists the robusto as 5 x 54.",
+  "verified": true,
+  "verifyNotes": "Dropped value-priced from about, which no current source states. The factory comes from halfwheel's 2017 review; the 2025 rename story does not name one."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "35th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Estelí, Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pirámide",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Figurado",
+    "length": 6.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "wood",
+   "leather",
+   "toast",
+   "cream"
+  ],
+  "about": "Made at Tabacalera El Artista to mark 35 years since Kaizad Hansotia bought the Gurkha brand in 1989. It debuted in a red commemorative humidor in late 2023 and moved into regular 10-count boxes in 2024.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/35th-anniversary/",
+   "https://halfwheel.com/gurkha-35th-anniversary-torpedo/451679/",
+   "https://halfwheel.com/gurkha-35th-anniversary-now-available-in-10-count-boxes/440704/"
+  ],
+  "notes": "Gurkha lists the pointed size as a Pirámide at 6 1/4 x 52; halfwheel lists it as a Torpedo at 6 1/8 x 52. The humidor was limited but the cigars are regular production.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Café Tabac",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Habano (origin not stated)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars (Blue Star Cigar factory)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Small Panetela",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "coffee"
+  ],
+  "about": "Gurkha's coffee-flavored cigar, one of a flavored trio alongside the cherry Red Head and vanilla White Rascal. It was brought back in 2018 after more than a decade off the market.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/cafe-tabac/",
+   "https://halfwheel.com/gurkha-reintroduces-flavored-cigar-trio/270791/",
+   "https://halfwheel.com/ipcpr-2018-gurkha/270799/"
+  ],
+  "notes": "This is a flavored (coffee) cigar. Reintroduced in 2018; the original release year is not published. Halfwheel listed the small size as 4 x 34 in tins of five and reported Dominican tobacco in the blend, which differs from Gurkha's current spec.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "The Classic Cigar Havana Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Figurado",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "spice",
+   "cocoa"
+  ],
+  "about": "A box-pressed Nicaraguan cigar with a San Andrés wrapper, launched in 2014 under Gurkha's East India Trading Company label. Gurkha says the blend took twenty revisions to settle.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/the-classic-cigar-havana-blend/",
+   "https://halfwheel.com/east-india-trading-company-adds-classic-cigar-havana-blend/63767/",
+   "https://www.neptunecigar.com/cigar/gurkha-classic-havana-blend"
+  ],
+  "notes": "Gurkha lists the binder and filler only as proprietary; halfwheel says Nicaraguan fillers and Neptune lists both as Nicaraguan. Gurkha rates it medium, Neptune lists it as full. It launched with a 6 x 60 XO that Gurkha no longer lists.",
+  "verified": true,
+  "verifyNotes": "Notes tightened: halfwheel only describes the fillers as Nicaraguan, so the Nicaraguan binder rests on Neptune alone."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Heritage Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, USA (Connecticut Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate",
+   "spice"
+  ],
+  "about": "The original Gurkha Heritage from 2015, a rosado-wrapped Nicaraguan-made cigar blended with Gurkha's Juan Lopez at American Caribbean Cigars. It is the lighter partner to the Heritage Maduro.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/heritage-natural/",
+   "https://halfwheel.com/gurkha-goes-to-nicaragua-for-heritage/89395/",
+   "https://halfwheel.com/gurkha-gives-its-heritage-lines-a-packaging-update-with-15-count-boxes/444551/"
+  ],
+  "notes": "Most retailers just call this Gurkha Heritage. Gurkha rates it medium; the 2015 launch called it medium to full and Neptune lists it as full. Early reports gave the U.S. filler leaf as Pennsylvania rather than Connecticut broadleaf.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Heritage Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Brazil (Arapiraca)",
+  "filler": "Brazil, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "earth"
+  ],
+  "about": "The maduro version of Gurkha Heritage, added in 2016 and made at American Caribbean Cigars in Nicaragua. Gurkha calls it a double maduro because both the San Andrés wrapper and the Brazilian binder are maduro leaf.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/heritage-maduro/",
+   "https://halfwheel.com/gurkha-to-add-heritage-collection-maduro-at-ipcpr/119651/",
+   "https://halfwheel.com/gurkha-gives-its-heritage-lines-a-packaging-update-with-15-count-boxes/444551/"
+  ],
+  "notes": "Gurkha's strength rating is full, while its own description calls the cigar medium to full bodied. Now sold in 15-count boxes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Castle Hall Dominican",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A value-priced Dominican cigar that Gurkha relaunched in 2020 under the name of an old Cuban brand. It wears an Ecuadorian Connecticut wrapper and sits at the mild end of the Gurkha range.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/castle-hall-dominican/",
+   "https://halfwheel.com/gurkha-updated-castle-hall-tpe-2022"
+  ],
+  "notes": "Castle Hall was previously a private label Gurkha made for Thompson Cigar. The factory has not been disclosed. Neptune sells a Castle Hall Habano with a different blend, so check the band before quoting this one.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Castle Hall Nicaraguan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The Nicaraguan extension of Gurkha's value-priced Castle Hall line, added in 2020 and made at American Caribbean Cigars. It uses an Ecuadorian Habano wrapper over all Nicaraguan tobacco and is the stronger of the two Castle Hall blends.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/castle-hall-nicaraguan/",
+   "https://halfwheel.com/gurkha-adding-castle-hall-nicaragua/378113/",
+   "https://www.neptunecigar.com/cigar/gurkha-castle-hall-nicaragua"
+  ],
+  "notes": "Also written Castle Hall Nicaragua. It launched with a 6 x 60 Magnum as well, which Gurkha no longer lists.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Private Select",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro (Maduro version); Connecticut Shade (Natural version)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill (Maduro)",
+    "length": 7.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro (Natural)",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Corona (Natural)",
+    "length": 5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "rum",
+   "cocoa",
+   "nuts",
+   "toffee",
+   "leather",
+   "earth"
+  ],
+  "about": "Gurkha's rum-infused cigar, made with tobacco infused with seven-year-aged Ron Abuelo rum and first shipped in 2014. It comes in Maduro and Natural versions.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/private-select/",
+   "https://halfwheel.com/gurkha-ships-private-selects/70625/",
+   "https://www.neptunecigar.com/cigar/gurkha-private-select-ron-abuelo"
+  ],
+  "notes": "This is a rum-infused cigar. Gurkha's spec table says Dominican binder, filler and origin, but its own description, halfwheel and Neptune say Nicaraguan tobacco made in Nicaragua, so the country is in doubt. The maduro wrapper's country is not disclosed.",
+  "verified": true,
+  "verifyNotes": "Set wrapperOrigin to null: Gurkha says Connecticut Broadleaf Maduro but no page names the country and halfwheel calls it undisclosed. Notes rewritten to flag that Gurkha's own description contradicts its Dominican spec table. Neptune marks its listing discontinued while Gurkha still lists the line."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Bourbon Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill Natural",
+    "length": 7.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro Natural",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Corona Natural",
+    "length": 5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "bourbon",
+   "cocoa",
+   "nuts"
+  ],
+  "about": "Gurkha's bourbon-infused cigar, launched in 2016 with Kentucky distillery Hartfield & Company. It sits alongside the rum-infused Private Select and cognac-infused Grand Reserve.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/bourbon-collection/",
+   "https://halfwheel.com/gurkha-partners-with-hartfield-company-for-bourbon-collection/123557/",
+   "https://halfwheel.com/gurkha-bourbon-collection-churchill-maduro/160750/"
+  ],
+  "notes": "This is a bourbon-infused cigar. Gurkha's specs list only Natural (Connecticut Shade) sizes, but it launched as a maduro Churchill (7 x 47) and a natural Toro (6 1/2 x 52). Halfwheel listed Nicaraguan binder and filler in 2017; Gurkha now says Dominican.",
+  "verified": true,
+  "verifyNotes": "Notes shortened. Neptune marks its listing discontinued while Gurkha still lists the line."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Sniper",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "chocolate",
+   "leather",
+   "oak",
+   "earth"
+  ],
+  "about": "A military-themed Dominican cigar from 2016 that replaced Gurkha's Spec Ops No. 1. It comes in a single 7 1/2 x 52 size with a dark Dominican maduro wrapper over an Indonesian binder.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/sniper/",
+   "https://halfwheel.com/gurkha-sniper/118577/"
+  ],
+  "notes": "Halfwheel lists the filler as Dominican and Nicaraguan; Gurkha lists Dominican only. It launched in a 20-count hard travel case with a combat knife and challenge coin. The factory is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

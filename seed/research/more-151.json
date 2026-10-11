@@ -1,0 +1,1037 @@
+[
+ {
+  "brand": "LA Cigar Collective",
+  "line": "Padre Elegido",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabadex (Quesada)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 5.625,
+    "ring": 48
+   },
+   {
+    "name": "Armorosos",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "caramel",
+   "cedar",
+   "hay",
+   "white pepper"
+  ],
+  "about": "The first house blend from LA Cigar Collective, a cigar shop in Metairie, Louisiana, near New Orleans, made for it by Quesada in the Dominican Republic. The name means Chosen Father and it is a tribute to the blender's late mentor.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://lacigarcollective.com/products/padre-elegido"
+  ],
+  "notes": "A shop exclusive sold in singles and bundles of 10. The shop describes it as light to medium bodied with a Cuban-style profile. Part of each sale goes to Bridge House/Grace House in New Orleans.",
+  "verified": true,
+  "verifyNotes": "Fixed the shop location in about: it is in Metairie, Louisiana, not New Orleans itself. Factory name written as the shop gives it. Blend, sizes and light-to-medium profile confirmed on the shop page."
+ },
+ {
+  "brand": "LA Cigar Collective",
+  "line": "Gris Gris",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua (Jalapa), Dominican Republic (Piloto Cubano, Criollo '98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [],
+  "about": "The second house blend from LA Cigar Collective, made at Tabacalera La Isla in the Dominican Republic. It is pronounced Gree Gree and is named for a New Orleans Voodoo charm.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://lacigarcollective.com/products/gris-gris"
+  ],
+  "notes": "A shop exclusive. The shop does not publish a strength or tasting notes. Its page gives the Lonsdale as 6.5 x 43 in the size picker and 6 x 43 in the description.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "LA Cigar Collective",
+  "line": "Le Flambeaux",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Family Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "leather",
+   "raisin"
+  ],
+  "about": "The third house blend from LA Cigar Collective, blended by Klaas Kelner in the Dominican Republic as a fuller cigar than Kelner blends are usually known for. It is named for the torch carriers of New Orleans Mardi Gras night parades.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://lacigarcollective.com/products/le-flambeaux"
+  ],
+  "notes": "A shop exclusive sold in singles and boxes of 15. The shop says the filler is 60 percent ligero.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Peter James Cigar Co.",
+  "line": "Emergence",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo hybrid viso (Loja region)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Dominican Republic (Piloto Cubano), Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "R 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro Elegance",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "nuts",
+   "wood",
+   "dark chocolate",
+   "cinnamon"
+  ],
+  "about": "The first cigar from Peter James Cigar Co., a joint venture between the Peter James leather case company and Luciano Cigars. It uses tobacco aged three to ten years and is made by a single buncher and roller in Estelí.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/peter-james-emergence-begins-shipping-nationwide/443968/",
+   "https://halfwheel.com/peter-james-emergence-sublime/448475/",
+   "https://luxurycigarclub.com/products/peter-james-emergence"
+  ],
+  "notes": "Regular production but capped at about 100 cigars a day. Luxury Cigar Club lists the profile as medium-plus, and halfwheel's reviewer found medium-plus strength with medium-full body. Tasting notes are from the halfwheel review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Peter James Cigar Co.",
+  "line": "Los Estoico 54 Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia, Mexico",
+  "filler": "Nicaragua (Condega, Estelí), undisclosed",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Aragon S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "hazelnut",
+   "coffee",
+   "cream"
+  ],
+  "about": "One of two Los Estoico 54 blends launched in 2022 by Peter James Leather Co., the maker of leather cigar cases. It is made in Estelí and comes in one size.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/peter-james-launching-los-estoico-54-cigar-lines-next-month/408704/",
+   "https://luxurycigarclub.com/products/peter-james-cigars-los-estoico-habano"
+  ],
+  "notes": "The 54 is not the ring gauge: it honors the first cigar the founder took from his father. It launched under Peter James Leather Co., before Peter James Cigar Co. was formed in 2024. One filler leaf is undisclosed, and Luxury Cigar Club calls the size a toro.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and dropped the sold-out remark. No field changes."
+ },
+ {
+  "brand": "Peter James Cigar Co.",
+  "line": "Los Estoico 54 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Condega, Estelí), undisclosed",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Aragon S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "earth"
+  ],
+  "about": "The darker of the two Los Estoico 54 blends launched in 2022 by Peter James Leather Co., with a San Andrés wrapper. It is made in Estelí and comes in one size.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/peter-james-launching-los-estoico-54-cigar-lines-next-month/408704/",
+   "https://luxurycigarclub.com/products/peter-james-cigars-los-estoico-maduro"
+  ],
+  "notes": "The 54 is not the ring gauge: it honors the first cigar the founder took from his father. Luxury Cigar Club lists the profile as medium-plus and calls the size a toro. One filler leaf is undisclosed.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and dropped the sold-out remark. No field changes."
+ },
+ {
+  "brand": "Surpassion",
+  "line": "Valor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic, Nicaragua, USA",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "floral",
+   "baking spice"
+  ],
+  "about": "The debut cigar from Surpassion, a veteran-founded brand with military-themed lines. It is made at Tabacalera La Isla in Santiago, Dominican Republic, with tobaccos aged five years.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://surpassioncigars.com/our-cigars/valor",
+   "https://creeksidecigarco.com/collections/surpassion-cigars/products/surpassion-valor-toro",
+   "https://www.luxurycigarclub.com/collections/surpassion/products/surpassion-valor"
+  ],
+  "notes": "The maker calls it medium-plus, with body running medium to full. Luxury Cigar Club lists it as medium and Creekside as full. Creekside's page says it is handmade in Nicaragua, but the maker says Tabacalera La Isla in the Dominican Republic.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surpassion",
+  "line": "Queen of Battle",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "graham cracker",
+   "vanilla",
+   "white pepper",
+   "floral"
+  ],
+  "about": "Surpassion's second line, a milder Connecticut-wrapped cigar honoring the U.S. Army Infantry. It was released on June 14, 2025, the Army's 250th birthday, and is made at Tabacalera La Isla.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://surpassioncigars.com/our-cigars/queen-of-battle",
+   "https://creeksidecigarco.com/collections/surpassion-cigars/products/surpassion-queen-of-battle-toro",
+   "https://www.luxurycigarclub.com/collections/surpassion/products/surpassion-queen-of-battle"
+  ],
+  "notes": "Luxury Cigar Club lists the profile as medium, while the maker and Creekside say mild to medium. All tobaccos are aged five years.",
+  "verified": true,
+  "verifyNotes": "Added the Luxury Cigar Club page, which the notes cite for the medium rating. No field changes."
+ },
+ {
+  "brand": "Surpassion",
+  "line": "King of Battle",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "American Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "oak",
+   "black pepper",
+   "espresso",
+   "earth"
+  ],
+  "about": "Surpassion's full-bodied Broadleaf line, a tribute to 250 years of U.S. Army Artillery. It is made at Tabacalera La Isla in the Dominican Republic and began shipping in January 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://surpassioncigars.com/our-cigars/king-of-battle",
+   "https://creeksidecigarco.com/collections/surpassion-cigars/products/surpassion-king-of-battle-toro"
+  ],
+  "notes": "All tobaccos are aged at least five years.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alfonso",
+  "line": "Añejos",
+  "found": true,
+  "officialName": "Añejo",
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Connecticut)",
+  "filler": "Nicaragua (ligero), Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "No. 3",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "No. 4",
+    "length": 6.75,
+    "ring": 56
+   },
+   {
+    "name": "No. 5",
+    "length": 7.5,
+    "ring": 58
+   },
+   {
+    "name": "No. 6",
+    "length": 9,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "almond",
+   "cream",
+   "spice",
+   "vanilla",
+   "cocoa"
+  ],
+  "about": "A line from Nelson Alfonso's Selected Tobacco, the company behind Atabey and Byron, aged at least five years in rooms lined with cedar and French oak. It is rolled at Tabacos de Costa Rica.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/alfonso/",
+   "https://halfwheel.com/alfonso-extra-anejo-no-3/416343/",
+   "https://www.neptunecigar.com/cigar/alfonso-anejo"
+  ],
+  "notes": "Halfwheel and the box call it Alfonso Extra Añejo, while the distributor United Cigars and Neptune call it Alfonso Añejo. It is regular production but made in small yearly batches. Halfwheel's reviewer found it on the lighter side of medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alfonso",
+  "line": "Gran Selección",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Peru",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Estelares",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Exclusivos",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Enormes",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Preciosos",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Grandiosos",
+    "length": 8,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "dark chocolate",
+   "leather",
+   "oak",
+   "spice"
+  ],
+  "about": "The darker follow-up to the Alfonso Añejo from Nelson Alfonso's Selected Tobacco, aged five years in rooms lined with Spanish cedar and French oak. It is rolled at Tabacos de Costa Rica.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/alfonso-gran-seleccion-begins-shipping/431190/",
+   "https://unitedcigargroup.com/alfonso-gran-seleccion/",
+   "https://www.neptunecigar.com/cigar/alfonso-gran-seleccion"
+  ],
+  "notes": "The distributor United Cigars calls it medium to full, while Neptune lists it as medium. United lists the filler as Dominican and Peruvian, but halfwheel and Neptune say Dominican and Nicaraguan. The Exclusivos is a torpedo, and Neptune lists the Preciosos as 7 x 40.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. No field changes."
+ },
+ {
+  "brand": "Atabey",
+  "line": "Atabey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Peru (ligero), undisclosed",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Hechizos",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "Divinos",
+    "length": 4.4,
+    "ring": 50
+   },
+   {
+    "name": "Idolos",
+    "length": 4,
+    "ring": 55
+   },
+   {
+    "name": "Brujos",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Sabios",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Delirios",
+    "length": 5.75,
+    "ring": 55
+   },
+   {
+    "name": "Duendes",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Ritos",
+    "length": 6.125,
+    "ring": 55
+   },
+   {
+    "name": "Misticos",
+    "length": 6.75,
+    "ring": 56
+   },
+   {
+    "name": "Dioses",
+    "length": 8,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "graham cracker",
+   "cedar",
+   "coffee",
+   "leather",
+   "caramel"
+  ],
+  "about": "The flagship brand of Nelson Alfonso's Selected Tobacco, rolled at Tabacos de Costa Rica and aged at least five years after rolling. Alfonso is known for his packaging design work for Habanos, including the Cohiba Behike.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/atabey/",
+   "https://halfwheel.com/atabey-sabios/368177/",
+   "https://www.neptunecigar.com/cigar/atabey"
+  ],
+  "notes": "Halfwheel reports the maker does not disclose the blend, so the wrapper, binder and Peruvian ligero here are what the U.S. distributor United Cigars lists. Neptune rates it medium, and halfwheel's reviewer found medium-plus. Two more sizes exist: Spiritus (7.5 x 40) and Benditos (7.25 x 58).",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and removed the word luxury from about. No field changes."
+ },
+ {
+  "brand": "Atabey",
+  "line": "Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Ritos",
+    "length": 6.125,
+    "ring": 55
+   },
+   {
+    "name": "Delirios",
+    "length": 5.75,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "nuts",
+   "baking spice"
+  ],
+  "about": "A darker, limited version of Atabey that was first announced in 2021 as an NFT and reached stores as a real cigar in 2023. It is rolled in Costa Rica and aged at least five years in rooms lined with cedar and French oak.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://unitedcigargroup.com/atabey-black/",
+   "https://halfwheel.com/atabey-black-ritos-2026-ships/461744/",
+   "https://www.neptunecigar.com/cigar/atabey-black"
+  ],
+  "notes": "Released in a limited batch each year to select stores. The Delirios, added in 2025, is sold in a 10-count travel humidor. The Habano Maduro wrapper is from the distributor United Cigars, halfwheel says only Ecuadorian, and the medium strength and tasting notes are from Neptune's Delirios listing.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that halfwheel lists a different filler for the Delirios: its article gives the whole inner blend as Dominican and Peruvian, which does not conflict. Added the Neptune page the strength and flavors come from, in place of the second halfwheel article."
+ },
+ {
+  "brand": "Back2Back",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "5 x 50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "7 x 70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "A value-priced, big ring gauge line from Davidoff of Geneva USA, launched in 2018 with box art by the New York art duo UR New York. Halfwheel reports it is the former Room101 Big Payback blend brought back under a new name.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-of-geneva-usa-ships-back2back/283809/",
+   "https://www.neptunecigar.com/cigar/back2back-urny-connecticut"
+  ],
+  "notes": "Neptune sells it as Back2Back URNY Connecticut. The sizes have no vitola names, just dimensions. Halfwheel says only Connecticut wrapper, and Neptune specifies Ecuadorian Connecticut Shade.",
+  "verified": true,
+  "verifyNotes": "Factory set to null: neither halfwheel article nor Neptune names a factory (Neptune says only Davidoff Group, Honduras). Honduras as the country rests on Neptune alone."
+ },
+ {
+  "brand": "Back2Back",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "5 x 50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "7 x 70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "The Nicaraguan puro in Davidoff of Geneva USA's value-priced Back2Back line, launched in 2018 with box art by UR New York. Halfwheel reports it is the former Room101 Big Payback blend under a new name.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-of-geneva-usa-ships-back2back/283809/",
+   "https://www.neptunecigar.com/cigar/back2back-urny-nicaragua"
+  ],
+  "notes": "Neptune sells it as Back2Back URNY Nicaragua and lists it as rolled in Honduras from all Nicaraguan tobacco. The wrapper type is not published beyond Nicaraguan. The sizes have no vitola names, just dimensions.",
+  "verified": true,
+  "verifyNotes": "Factory set to null: neither halfwheel article nor Neptune names a factory (Neptune says only Davidoff Group, Honduras). Honduras as the country rests on Neptune alone. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Cuba Aliados",
+  "line": "Original Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo, Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "ReGordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cream",
+   "wood"
+  ],
+  "about": "The regular-production line in Oliva's 2022 relaunch of Cuba Aliados, the old Rolando Reyes Sr. brand. It is a Honduran puro made by Julio Eiroa's JRE Tobacco Co.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cuba-aliados-original-blend-robusto/415603/",
+   "https://halfwheel.com/oliva-brings-back-cuba-aliados-with-julio-eiroa-ernesto-perez-carrillo-jr/410186/",
+   "https://www.neptunecigar.com/cigar/cuba-aliados-natural"
+  ],
+  "notes": "Despite the name it is not the original Reyes blend. Neptune sells it as Cuba Aliados Natural and gives the Habano and Corojo leaf types, while halfwheel lists all three components simply as Honduran. Neptune rates it medium, and halfwheel's reviewer found little nicotine strength.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and reworded the halfwheel strength remark to match the review. No field changes."
+ },
+ {
+  "brand": "Cuba Aliados",
+  "line": "by Ernesto Perez-Carrillo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "ReGordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "citrus",
+   "dark chocolate",
+   "vanilla"
+  ],
+  "about": "The limited line in Oliva's 2022 relaunch of the Cuba Aliados brand, blended and made by Ernesto Perez-Carrillo at his Dominican factory. The wrapper is an Ecuadorian Sumatra leaf aged five years.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cuba-aliados-by-ernesto-perez-carrillo-torpedo/413550/",
+   "https://halfwheel.com/oliva-brings-back-cuba-aliados-with-julio-eiroa-ernesto-perez-carrillo-jr/410186/",
+   "https://www.neptunecigar.com/cigar/cuba-aliados-by-ernesto-perez-carrillo"
+  ],
+  "notes": "Limited to 15,000 boxes of 20, with 10,000 for the U.S. The brand is owned by Oliva's parent company. Tasting notes are from the halfwheel review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cumpay",
+  "line": "Cumpay",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Volcán",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "No. 15",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "hazelnut",
+   "leather",
+   "cedar"
+  ],
+  "about": "Maya Selva's Nicaraguan puro, launched in 1999. The name is the Tawahka word for a rolled tobacco leaf.",
+  "released": 1999,
+  "production": "regular",
+  "sources": [
+   "https://www.mayaselvacigars.com/cumpay-collections",
+   "https://halfwheel.com/cumpay-lancero/412714/",
+   "https://www.neptunecigar.com/cigar/cumpay"
+  ],
+  "notes": "Sources disagree on where it is rolled: Neptune says Maya Selva's factory in Danlí, Honduras, while halfwheel's 2022 review lists Plasencia Cigars in Nicaragua. Neptune rates it mild to mild-medium, and halfwheel's reviewer found it medium.",
+  "verified": true,
+  "verifyNotes": "Country and factory left null on purpose: halfwheel's 2022 review says Plasencia Cigars S.A. in Nicaragua, Neptune says Maya Selva's factory in Danlí, Honduras, and the maker's site does not say. Maya Selva has since opened its own Danlí factory, so the halfwheel listing may be out of date."
+ },
+ {
+  "brand": "Cumpay",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro (Jalapa)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Maduro",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Volcán Maduro",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro version of Maya Selva's Cumpay, an all-Nicaraguan blend offered in two sizes. The Robusto joined the earlier Volcán in 2021.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/maya-selva-launching-cumpay-maduro-robusto-launches-in-france-making-u-s-debut-at-tpe-2021/391986/",
+   "https://www.neptunecigar.com/cigar/cumpay-maduro"
+  ],
+  "notes": "The maker describes it as medium to full, and Neptune lists it as full. Sources disagree on where Cumpay is rolled: Neptune says Maya Selva's factory in Danlí, Honduras, while halfwheel lists the core line at Plasencia in Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Reworded notes. Country and factory left null because halfwheel and Neptune disagree and the maker's site does not say."
+ },
+ {
+  "brand": "Don Emmanuel",
+  "line": "Anunnaki",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Ki",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Anu",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Fina",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Enki",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "earth",
+   "spice"
+  ],
+  "about": "The first line from Don Emmanuel Cigars, blended with Eladio Díaz, the former Davidoff master blender, and made at his factory in the Dominican Republic. It is named for the creator gods of Sumerian mythology.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/don-emmanuel-ships-annunaki-enki/480738/",
+   "https://halfwheel.com/pca-2025-don-emmanuel-cigars/450994/",
+   "https://www.neptunecigar.com/cigar/don-emmanuel-anunnaki"
+  ],
+  "notes": "The wrapper is published only as Dominican, and 2024 is the U.S. debut year reported by halfwheel. The Corona Fina comes in tins of five, and the Enki is a figurado added in 2026. Strength and tasting notes are from Neptune.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. No field changes. The maker's site does not publish the blend or a strength."
+ },
+ {
+  "brand": "Don Emmanuel",
+  "line": "Sun & Moon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed (Sun), Ecuadorian Habano (Moon)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Sun), Mexico (Moon)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "nuts",
+   "earth",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "A limited two-blend release from Don Emmanuel Cigars and Eladio Díaz, sold in boxes of 14 with seven Sun and seven Moon toros. Both blends use tobacco aged in rum barrels.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/don-emmanuels-sun-moon-gets-widespread-release/471599/",
+   "https://halfwheel.com/pca-2026-don-emmanuel-cigars/465455/",
+   "https://www.neptunecigar.com/cigar/don-emmanuel-sun-and-moon"
+  ],
+  "notes": "This is two cigars in one box, so there is no single wrapper: Sun is the lighter Connecticut-seed blend and Moon is the fuller Habano blend. Limited to 777 numbered boxes. Neptune lists the strength as medium and gives the tasting notes: cedar, cream and nuts for Sun, earth, coffee and cocoa for Moon.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

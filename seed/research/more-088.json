@@ -1,0 +1,894 @@
+[
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Nicaragua Sonata",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Espressivo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Maestro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Vibrato",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Concerto",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Impromptu",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "espresso",
+   "cocoa",
+   "earth",
+   "spice",
+   "black pepper"
+  ],
+  "about": "A Nicaraguan puro made for Aging Room by AJ Fernandez, added in 2023 as the second blend in the Quattro Nicaragua family. It is blended to be a little lighter than the original Quattro Nicaragua.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/aging-room/aging-room-quattro-nicaragua-sonata/",
+   "https://halfwheel.com/aging-room-quattro-sonata-maestro/429962/",
+   "https://www.neptunecigar.com/aging-room-cigar"
+  ],
+  "notes": "The wrapper varietal is not published; Neptune calls it a maduro. The 2019 Cigar of the Year was the original Quattro Nicaragua Maestro, not the Sonata. Mike's Cigars lists it as medium to full.",
+  "verifyNotes": "Blend, factory, sizes, 2023 release and medium strength confirmed on Altadis, halfwheel, Neptune and Cigars Direct. Trimmed notes to three sentences.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Nicaragua Concerto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan hybrid Criollo 98 (Estelí)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Espressivo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Maestro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Vibrato",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Concerto",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Impromptu",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "black pepper",
+   "nuts",
+   "toast",
+   "earth"
+  ],
+  "about": "The third Quattro Nicaragua blend, a box-pressed Nicaraguan puro made by AJ Fernandez and released in 2025. It uses a hybrid Criollo 98 wrapper from the Finca La Lilia farm in Estelí.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/aging-room/aging-room-quattro-nicaragua-concerto/",
+   "https://halfwheel.com/aging-room-quattro-nicaragua-concerto-vibrato/461837/",
+   "https://www.cigarsdirect.com/products/aging-room-quattro-nicaragua-concerto-vibrato-toro"
+  ],
+  "notes": "Concerto is also the name of the 7 x 50 size in every Quattro line, so check which one a guest means. Altadis lists the Impromptu at 6 1/2 x 52, while halfwheel and Neptune list 6 x 52. Neptune rates it medium, Cigars Direct and Mike's medium to full.",
+  "verifyNotes": "All fields confirmed. Replaced the Cigars Direct collection link, which shows no specs, with a product page that does.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "La Boheme",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-grown Broadleaf and Habano hybrid",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mimi",
+    "length": 3.5,
+    "ring": 46
+   },
+   {
+    "name": "Pittore",
+    "length": 5.125,
+    "ring": 52
+   },
+   {
+    "name": "Poeta",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Musico",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cocoa",
+   "floral",
+   "vanilla",
+   "almond"
+  ],
+  "about": "Rafael Nodal's opera-themed line, relaunched in January 2025 with a new blend made by AJ Fernandez in Nicaragua. It pairs a Connecticut-grown broadleaf and habano hybrid wrapper with Nicaraguan binder and filler.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/aging-room/aging-room-la-boheme/",
+   "https://halfwheel.com/aging-room-la-boheme-poeta/452023/",
+   "https://www.cigarsdirect.com/products/aging-room-la-boheme-poeta"
+  ],
+  "notes": "The original La Boheme of 2014 was a different cigar: Ecuadorian Habano wrapper over Dominican binder and filler, made at Tabacalera Palma. Altadis simply calls the current wrapper Connecticut Broadleaf. Shops list it medium to full, but halfwheel's reviewer found the strength just under medium.",
+  "verifyNotes": "All fields confirmed. Reworded about (the 2014 original was already an Aging Room line). Added halfwheel's lighter strength reading to notes and swapped the Cigars Direct collection link for a product page.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Bin No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua (Ometepe and other regions)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "B Minor",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "C Major",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "cream"
+  ],
+  "about": "A Nicaraguan puro from Aging Room built around tobacco from the volcanic island of Ometepe, made at the Plasencia factory in Estelí. It followed the Dominican Bin No. 1 and came out in 2019.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/ipcpr-2019-boutique-blends/363204/",
+   "https://www.neptunecigar.com/aging-room-cigar",
+   "https://mikescigars.com/brands/aging-room-bin-no-2"
+  ],
+  "notes": "Neptune calls it medium strength, Mike's Cigars lists it as full. Neptune now flags it discontinued, though some shops still have the C Major. The wrapper varietal is not published.",
+  "verifyNotes": "Blend, factory, sizes and 2019 release confirmed on halfwheel. Set production to null: no source states regular production and Neptune marks it discontinued. Strength is split between two retailers (medium vs full); kept Medium with the note.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Blue Amber",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (grown by AJ Fernandez)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Blue Celestar",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Blue Maestro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Blue Sky",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Blue Turquoise",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "espresso",
+   "cocoa",
+   "cedar",
+   "leather",
+   "black pepper"
+  ],
+  "about": "Aging Room's 15th anniversary cigar, made by AJ Fernandez in Nicaragua and named for the blue amber mined in the Dominican Republic. It was announced in late 2025 and reached stores in April 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aging-room-blue-amber-blue-turquoise/474143/",
+   "https://halfwheel.com/aging-room-blue-amber-scheduled-for-december/455678/",
+   "https://www.neptunecigar.com/aging-room-cigar"
+  ],
+  "notes": "Made in limited annual batches with no numbers given. The Blue Maestro is a torpedo and the Blue Turquoise is a perfecto. Neptune and Mike's list it as full, Cigars Direct as medium to full.",
+  "verifyNotes": "All fields confirmed on halfwheel, Neptune and Mike's Cigars. Trimmed notes to three sentences. halfwheel's review table says regular production while its text and tags say limited annual batches; kept limited.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Core Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rapido",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Vivase",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Andante",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut-wrapped cigar in Aging Room's core trio, launched in 2018 as Aging Room by Rafael Nodal Connecticut. It is a Dominican cigar made at Jochy Blanco's Tabacalera Palma.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aging-room-by-rafael-nodal-ships/280426/",
+   "https://mikescigars.com/brands/aging-room-core-connecticut",
+   "https://www.cigarsdirect.com/products/aging-room-core-connecticut-andante"
+  ],
+  "notes": "Launched in 2018 as Aging Room by Rafael Nodal Connecticut and now sold as Core Connecticut. Mike's Cigars lists it as mild, Cigars Direct as mild to medium.",
+  "verifyNotes": "All fields confirmed. Swapped the Cigars Direct collection link for a product page that states the blend and mild to medium rating.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Core Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rondo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mezzo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Major",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro cigar in Aging Room's core trio, launched in 2018 as Aging Room by Rafael Nodal Maduro. It is a Dominican cigar made at Tabacalera Palma.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aging-room-by-rafael-nodal-ships/280426/",
+   "https://www.cigarsdirect.com/products/aging-room-core-maduro-rondo",
+   "https://mikescigars.com/brands/aging-room-core-maduro"
+  ],
+  "notes": "Launched in 2018 as Aging Room by Rafael Nodal Maduro. halfwheel's launch coverage, Cigars Direct and Mike's spec table give a Mexican San Andrés wrapper, while an earlier halfwheel report and Mike's description say Nicaraguan.",
+  "verifyNotes": "San Andrés wrapper, Dominican origin, sizes and medium to full strength confirmed. Replaced the Mike's link, which pointed at the older Aging Room Maduro page, with the Core Maduro page, and the Cigars Direct collection link with a product page.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Bin No. 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "B Minor",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "C Major",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "G Major",
+    "length": 6.25,
+    "ring": 63
+   },
+   {
+    "name": "D Major",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "oak",
+   "cinnamon"
+  ],
+  "about": "A 2014 Aging Room release built on long-aged Dominican binder and filler from Jochy Blanco's reserves, under an Ecuadorian Habano wrapper. It was made at Tabacalera Palma in the Dominican Republic.",
+  "released": 2014,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/aging-room-bin-1-begins-shipping/68943/",
+   "https://halfwheel.com/aging-room-bin-no-1-d-major-lancero-coming/81174/",
+   "https://mikescigars.com/brands/aging-room-bin-no-1"
+  ],
+  "notes": "Altadis no longer lists it and no source says outright that it is discontinued. halfwheel dates the aged tobacco to 1999 and 2001, Mike's Cigars to 1997 to 1999. The D Major is a box-pressed toro added in 2015.",
+  "verifyNotes": "All fields confirmed on halfwheel and Mike's Cigars. Shortened notes.",
+  "verified": true
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Presto",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Rondo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mezzo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Major",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Alto",
+    "length": 7,
+    "ring": 47
+   }
+  ],
+  "flavors": [],
+  "about": "The original Aging Room Maduro from Boutique Blends, released in 2013 with a five-year-old Nicaraguan maduro wrapper over Dominican Habano tobacco. A separate maduro line was added in the 2018 portfolio overhaul.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/aging-room-maduro-set-for-ipcpr-2013-release/38074/",
+   "https://halfwheel.com/boutique-blends-overhauls-portfolio-announces-five-new-lines/270052/",
+   "https://halfwheel.com/aging-room-bin-1-scheduled-ipcpr-release/57567/"
+  ],
+  "notes": "This is the 2013 blend. The maduro mostly sold today is Core Maduro, a 2018 cigar that reuses the Rondo, Mezzo and Major size names. No source says outright that the 2013 blend was discontinued, and Mike's Cigars still lists it.",
+  "verifyNotes": "Blend, sizes, 2013 release and medium to full strength confirmed on halfwheel and Mike's Cigars. Set production to null because no source states it was discontinued; adjusted about and notes to match.",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Pennsylvania Broadleaf)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "cream",
+   "bread",
+   "leather"
+  ],
+  "about": "Powstanie's third regular line, released in 2023 by the Szczepankiewicz brothers of Cigar Hustler. It is made at the Nica Sueño factory in Estelí, the home of RoMa Craft Tobac.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/powstanie-connecticut-corona-gorda/439709/",
+   "https://halfwheel.com/powstanie-connecticut-perfecto/432148/",
+   "https://www.cigarhustler.com/product/powstanie-connecticut-robusto"
+  ],
+  "notes": "The Corona Gorda, nicknamed Justice, was added in April 2024. Cigar Hustler, the owners' shop, rates it mild to medium, while Luxury Cigar Club calls it medium.",
+  "verifyNotes": "",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "San Andrés",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "earth",
+   "black pepper",
+   "cedar",
+   "leather"
+  ],
+  "about": "Powstanie's fourth regular line, released in early 2025 and made at the Nica Sueño factory in Estelí. The Belicoso placed second on halfwheel's Top 25 for 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/powstanie-san-andres-corona-gorda/463992/",
+   "https://www.cigarhustler.com/product/powstanie-san-andres-robusto",
+   "https://luxurycigarclub.com/collections/powstanie/products/powstanie-san-andres-pre-order"
+  ],
+  "notes": "The Corona Gorda was added in January 2026. Cigar Hustler, the owners' shop, rates it medium to full, while Luxury Cigar Club calls it full.",
+  "verifyNotes": "All fields confirmed. Replaced the Luxury Cigar Club collection link, which shows no specs, with its product page.",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico, USA (Pennsylvania)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Grand Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "leather",
+   "nuts",
+   "baking spice"
+  ],
+  "about": "Powstanie's fifth regular line, released in spring 2026 in four box-pressed sizes. It is made at the Nica Sueño factory in Estelí.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/powstanie-sumatra-churchill/473970/",
+   "https://halfwheel.com/pca-2026-powstanie/466437/",
+   "https://luxurycigarclub.com/collections/powstanie/products/powstanie-sumatra"
+  ],
+  "notes": "Same blend as the limited Catastrophic Failure of 2024. Cigar Hustler's own listing says Indonesian Sumatra wrapper, while halfwheel and Luxury Cigar Club say Ecuadorian Sumatra-seed. Cigar Hustler rates it medium, Luxury Cigar Club medium-plus.",
+  "verifyNotes": "All fields confirmed on halfwheel and Luxury Cigar Club. Added the wrapper disagreement on Cigar Hustler's page to notes and replaced the Luxury Cigar Club collection link with its product page.",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "SBC 20",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Ecuadorian Habano and Brazilian Mata Fina",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador, Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "peanut",
+   "spice",
+   "charred meat",
+   "wood",
+   "espresso",
+   "leather"
+  ],
+  "about": "The third Surrounded by Champions release from Powstanie, a barber pole corona gorda made at the Nica Sueño factory. It shipped in January 2022 and was limited to 250 boxes of 20.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/powstanie-sbc-20/407839/"
+  ],
+  "notes": "Named for 2020 but released in January 2022. Ecuadorian Habano is the main wrapper, with Brazilian Mata Fina as the accent stripe. Strength is the halfwheel reviewer's reading of slightly over medium.",
+  "verifyNotes": "All fields confirmed on halfwheel. Changed wrapperOrigin from Ecuador to Ecuador, Brazil because the barber pole uses both leaves.",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "SBC 22",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cream",
+   "cedar"
+  ],
+  "about": "The fourth Surrounded by Champions release from Powstanie, a barber pole corona gorda made at the Nica Sueño factory. It shipped in December 2023 and was limited to 500 boxes of 20.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/powstanie-sbc-22/438345/"
+  ],
+  "notes": "The blend is undisclosed. Named for 2022 but released in December 2023. halfwheel's reviewer found the strength a little under medium.",
+  "verifyNotes": "",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "SBC 24",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "cream",
+   "pepper",
+   "berry"
+  ],
+  "about": "The fifth Surrounded by Champions release from Powstanie, a barber pole corona gorda made at the Nica Sueño factory. It shipped in June 2025 and was limited to 500 boxes of 20.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/powstanie-sbc-24/453139/",
+   "https://www.cigarhustler.com/product/powstanie-sbc-24",
+   "https://luxurycigarclub.com/collections/powstanie/products/powsatanie-sbc-24"
+  ],
+  "notes": "The blend was not officially disclosed; Cigar Hustler, the owners' shop, describes a Mexican Habano and Ecuadorian Connecticut shade barber pole over Nicaraguan binder and filler. Named for 2024 but released in June 2025. Shops rate it from medium-plus to full.",
+  "verifyNotes": "Confirmed on halfwheel that the blend is undisclosed. Corrected the note on Cigar Hustler's description (Mexican Habano with Ecuadorian Connecticut shade; its spec table says San Andrés) and trimmed it. Replaced the Luxury Cigar Club collection link with its product page. Strength ranges from medium-plus (Luxury Cigar Club) to full (Cigar Hustler); kept Medium-Full.",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "SBC 26",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Ecuadorian Sumatra-seed and Mexican San Andrés",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador, Mexico",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Dominican Republic (Piloto Mejorado ligero), Nicaragua (Condega, Estelí viso, Pueblo Nuevo ligero)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "The sixth Surrounded by Champions release from Powstanie, a barber pole corona gorda with tobacco from five countries. It shipped in August 2026 and is limited to 500 boxes of 20.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/powstanie-sbc-26-ships/478138/",
+   "https://halfwheel.com/pca-2026-powstanie/466437/",
+   "https://www.cigarhustler.com/product/powstanie-sbc-2465-12-x-46-cigar"
+  ],
+  "notes": "The wrapper is two leaves, Ecuadorian Sumatra-seed and Mexican San Andrés. It is the first SBC said to use Dominican tobacco. Luxury Cigar Club lists a different blend (Ecuadorian Habano and Brazilian wrappers, San Andrés binder), which does not match halfwheel or Cigar Hustler.",
+  "verifyNotes": "All fields confirmed on halfwheel and Cigar Hustler. Minor wording fix in notes.",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "Catastrophic Failure",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico, USA (Pennsylvania)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toasted bread",
+   "peanut butter",
+   "cedar",
+   "cocoa",
+   "white pepper",
+   "coffee"
+  ],
+  "about": "A limited Powstanie release from late 2024, a box-pressed robusto extra made at the Nica Sueño factory. Only 500 bundles of 10 were made.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/powstanie-catastrophic-failure/447205/",
+   "https://halfwheel.com/powstanie-catastrophic-failure-shipping-next-week/445088/"
+  ],
+  "notes": "Sold in bundles of 10 as a one-time run. The same blend returned in 2026 as the regular Powstanie Sumatra line. Strength is the halfwheel reviewer's reading of medium-full; no maker rating was found.",
+  "verifyNotes": "Blend, factory, size, date and production confirmed on halfwheel. Filled strength from the halfwheel review, which calls it medium-full, and said so in notes.",
+  "verified": true
+ },
+ {
+  "brand": "Powstanie",
+  "line": "War Bear",
+  "found": true,
+  "officialName": "War Bear 2025",
+  "wrapperLeaf": "Barber pole of Ecuadorian Habano and Mexican San Andrés",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador, Mexico",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5.625,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "pepper",
+   "wood",
+   "bread"
+  ],
+  "about": "The 2025 cigar in Powstanie's Wojtek series, named for the bear adopted by Polish soldiers in World War II. It is a barber pole perfecto in the Wojtek blend, made at the Nica Sueño factory and limited to 1,000 boxes of eight.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/powstanie-war-bear-2025/462313/",
+   "https://halfwheel.com/powstanies-war-bear-2025-heads-to-stores/457085/",
+   "https://www.cigarhustler.com/product/powstanie-wojtek-war-bear-of-mass-destruction"
+  ],
+  "notes": "Fifth cigar in the Wojtek series, same blend, renamed War Bear for 2025 and nicknamed War Bear of Mass Destruction. A 250th American Anniversary War Bear (250 boxes) followed in 2026. Cigar Hustler rates it medium to full, Luxury Cigar Club full.",
+  "verifyNotes": "",
+  "verified": true
+ }
+]

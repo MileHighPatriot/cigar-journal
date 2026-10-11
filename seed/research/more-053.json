@@ -1,0 +1,1105 @@
+[
+ {
+  "brand": "Perdomo",
+  "line": "Legacy Connecticut",
+  "found": true,
+  "officialName": "Legacy Ecuadorian Connecticut",
+  "wrapperLeaf": "Ecuadorian Connecticut (aged 10 years)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaraguan Shade Grown (Cuban-seed/Cameroon-seed hybrid)",
+  "filler": "Cuban-seed Nicaraguan (Esteli, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Belicoso",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "honey",
+   "spice",
+   "nuts"
+  ],
+  "about": "The Connecticut-wrapped version of Legacy, the line Nick Perdomo III blended as a 60th birthday tribute to his father. Its binder is Perdomo's own shade-grown hybrid leaf and the wrapper is aged in bourbon barrels.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/legacy",
+   "https://halfwheel.com/perdomo-legacy-goes-on-sale/451591/",
+   "https://halfwheel.com/perdomo-legacy-connecticut-epicure/453829/"
+  ],
+  "notes": "The Gran Belicoso is box-pressed and sold in boxes of 10. halfwheel scored the Epicure 91.",
+  "verified": true,
+  "verifyNotes": "Reworded \"about\": Perdomo says the wrapper is bourbon barrel-aged, not all the tobaccos. Blend fields match Perdomo and halfwheel."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Legacy Shade Grown",
+  "found": true,
+  "officialName": "Legacy Nicaraguan Shade Grown",
+  "wrapperLeaf": "Nicaraguan Shade Grown (Cuban-seed/Cameroon-seed hybrid, aged 10 years)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Belicoso",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "spice",
+   "sweetness"
+  ],
+  "about": "The headline blend of the Legacy line: a Nicaraguan puro wrapped in a shade-grown hybrid leaf Perdomo developed and grows at its Finca Natalie farm in Esteli. The wrappers are bale-aged 10 years and then rested in bourbon barrels.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/legacy",
+   "https://halfwheel.com/perdomo-legacy-goes-on-sale/451591/",
+   "https://halfwheel.com/perdomo-legacy-debuting-at-pca-2025/448816/"
+  ],
+  "notes": "The wrapper is a Cuban-seed (habano) and Cameroon-seed hybrid grown under shade, so it does not fit one wrapper type cleanly. Perdomo says this top-priming leaf shows more of the habano side. The Gran Belicoso is box-pressed and sold in boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Legacy Maduro",
+  "found": true,
+  "officialName": "Legacy Nicaraguan Maduro",
+  "wrapperLeaf": "Cuban-seed Nicaraguan Maduro (aged 10 years)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Shade Grown (Cuban-seed/Cameroon-seed hybrid)",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Belicoso",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "espresso",
+   "earth",
+   "black pepper",
+   "cream"
+  ],
+  "about": "The maduro version of Legacy, a Nicaraguan puro with a dark Nicaraguan wrapper over Perdomo's shade-grown hybrid binder. The wrapper spends at least 14 months in bourbon barrels after 10 years of aging.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/legacy",
+   "https://halfwheel.com/perdomo-legacy-goes-on-sale/451591/",
+   "https://halfwheel.com/perdomo-legacy-maduro-gran-belicoso/453752/"
+  ],
+  "notes": "Perdomo calls it medium to full; halfwheel's review found the nicotine strength lighter than that. The Gran Belicoso is box-pressed and sold in boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Updated the halfwheel review link to the address it now redirects to. All blend fields match Perdomo and halfwheel."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Legacy Father & Son Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Cameroon-seed/habano hybrid)",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Figurado",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A limited follow-up to Legacy in which Nick Perdomo Jr. and Nick Perdomo III blended the Connecticut version together. It uses aged tobaccos from the 2011 to 2016 harvests and comes in a single box-pressed figurado.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/perdomo-goes-limited-with-legacy-father-son/464464/",
+   "https://halfwheel.com/pca-2026-perdomo/464480/",
+   "https://www.coronacigar.com/perdomo-legacy-father-son-connecticut-gran-figurado/"
+  ],
+  "notes": "One size only: a 6 inch box-pressed gran figurado with a 48/60/52 ring, sold in 50-count chests. Perdomo gives no strength and retailers disagree, from mild-medium to medium. Perdomo plans one or two shipments a year.",
+  "verified": true,
+  "verifyNotes": "Strength left null: Perdomo has no page for this line and its announcement gives no strength; Corona Cigar lists mild to medium, CigarsDirect medium. Reworded the note and added the Corona listing as a source."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Legacy Father & Son Shade Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Shade Grown (Cameroon-seed/habano hybrid)",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Cameroon-seed/habano hybrid)",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Figurado",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "toast",
+   "wood",
+   "earth",
+   "cedar",
+   "cream"
+  ],
+  "about": "The Father & Son blend made by Nick Perdomo Jr., a Nicaraguan puro that uses Perdomo's shade-grown hybrid leaf for both wrapper and binder. It is a limited release built on tobaccos from the 2011 to 2016 harvests.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/perdomo-goes-limited-with-legacy-father-son/464464/",
+   "https://halfwheel.com/perdomo-legacy-father-son-shade-grown/475373/",
+   "https://www.coronacigar.com/perdomo-legacy-father-son-shade-grown-gran-figurado/"
+  ],
+  "notes": "One size only: a 6 inch box-pressed gran figurado with a 48/60/52 ring. The wrapper is a habano and Cameroon hybrid grown in Nicaragua; this lower priming leans Cameroon. Perdomo gives no strength; Corona Cigar lists medium and halfwheel found it just under medium.",
+  "verified": true,
+  "verifyNotes": "Medium kept: Perdomo publishes no strength, Corona Cigar lists medium and halfwheel's review found medium-minus (CigarsDirect says medium to full). Swapped the PCA roundup link for the Corona listing that states the strength."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Legacy Father & Son Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Cameroon-seed/habano hybrid)",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Figurado",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "black pepper",
+   "oak",
+   "cocoa",
+   "peanuts",
+   "earth"
+  ],
+  "about": "The Father & Son blend made by Nick Perdomo III, a Nicaraguan puro with a maduro wrapper over Perdomo's shade-grown hybrid binder. It is a limited release built on tobaccos from the 2011 to 2016 harvests.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/perdomo-goes-limited-with-legacy-father-son/464464/",
+   "https://halfwheel.com/perdomo-legacy-father-son-maduro/473818/",
+   "https://www.coronacigar.com/perdomo-legacy-father-son-maduro-gran-figurado/"
+  ],
+  "notes": "One size only: a 6 inch box-pressed gran figurado with a 48/60/52 ring, sold in 50-count chests. Perdomo gives no strength; retailers list it medium to full, while halfwheel's review found it medium. Perdomo plans one or two shipments a year.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: Perdomo publishes none, and both Corona Cigar and CigarsDirect list medium to full; the Medium came from one halfwheel review. Swapped the PCA roundup link for the Corona listing."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Fresco Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "oak"
+  ],
+  "about": "Perdomo's value-priced bundle cigar in its Connecticut wrapper, made with long-filler tobaccos from the company's farms in Esteli. It is sold as an everyday smoke in bundles of 25.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/perdomo-fresco",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Some retailers list this version simply as Perdomo Fresco. It is a bundle cigar, not a boxed line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Fresco Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown (Cuban-seed)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "oak",
+   "almond"
+  ],
+  "about": "The sun grown version of Perdomo's value-priced Fresco bundle, a Nicaraguan puro made with long-filler tobaccos from the company's Esteli farms. It is sold as an everyday smoke in bundles of 25.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/perdomo-fresco",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Perdomo's own page is inconsistent: the description calls it medium bodied, while the spec box says medium to full. Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Fresco Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro (Cuban-seed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "chocolate",
+   "sweetness"
+  ],
+  "about": "The maduro version of Perdomo's value-priced Fresco bundle, a Nicaraguan puro made with long-filler tobaccos from the company's Esteli farms. It is sold as an everyday smoke in bundles of 25.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/perdomo-fresco",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "It is a bundle cigar, not a boxed line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Inmenso Seventy Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown (aged 5 years)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 70
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 70
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "spice",
+   "leather",
+   "nuts"
+  ],
+  "about": "A line of 70 ring gauge Nicaraguan puros from Perdomo, made with five-year-aged tobaccos and priced affordably. It revives the Inmenso name the company used for big ring cigars in the early 2000s.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/inmenso-seventy",
+   "https://halfwheel.com/perdomo-inmenso-seventy-sun-grown-maduro-coming-in-may/391622/",
+   "https://halfwheel.com/perdomo-inmenso-seventy-sun-grown-epicure/395169/"
+  ],
+  "notes": "Every size is a 70 ring gauge. There is no Connecticut version, which is unusual for Perdomo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Inmenso Seventy Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro (aged 5 years)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 70
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 70
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "oak",
+   "espresso",
+   "sweetness"
+  ],
+  "about": "The maduro version of Perdomo's 70 ring gauge line, a Nicaraguan puro made with five-year-aged tobaccos and priced affordably. It revives the Inmenso name the company used for big ring cigars in the early 2000s.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/inmenso-seventy",
+   "https://halfwheel.com/perdomo-inmenso-seventy-sun-grown-maduro-coming-in-may/391622/"
+  ],
+  "notes": "Every size is a 70 ring gauge. Perdomo calls it medium to full; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Double Aged 12 Year Vintage Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (bourbon barrel-aged)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Salomon",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Gordo Extra",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "caramel",
+   "cedar",
+   "butter"
+  ],
+  "about": "A Perdomo line made from 12-year-old tobaccos: bale-aged for ten years, then aged two more in charred oak bourbon barrels. This is the Ecuadorian Connecticut version.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/double-aged-12-year-vintage",
+   "https://halfwheel.com/perdomo-announce-new-double-aged-12-year-vintage-lines/60112/"
+  ],
+  "notes": "Launched in 2014 as a limited yearly production; it is now a standing line on Perdomo's site. Perdomo lists the Salomon at 6 1/8 x 54, halfwheel at 50/60.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Double Aged 12 Year Vintage Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown (bourbon barrel-aged)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Salomon",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Gordo Extra",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "spice",
+   "oak",
+   "almond",
+   "earth",
+   "sweetness"
+  ],
+  "about": "A Perdomo line made from 12-year-old tobaccos: bale-aged for ten years, then aged two more in charred oak bourbon barrels. This is the Nicaraguan puro sun grown version.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/double-aged-12-year-vintage",
+   "https://halfwheel.com/perdomo-announce-new-double-aged-12-year-vintage-lines/60112/",
+   "https://halfwheel.com/perdomo-double-aged-12-year-vintage-sun-grown-salomon/75936/"
+  ],
+  "notes": "Launched in 2014 as a limited yearly production; it is now a standing line on Perdomo's site. Perdomo lists the Salomon at 6 1/8 x 54, halfwheel at 50/60. Perdomo calls it medium to full; halfwheel's Salomon review found it under medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Double Aged 12 Year Vintage Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban-seed Nicaraguan Maduro (bourbon barrel-aged)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Salomon",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Gordo Extra",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "cocoa",
+   "sweetness"
+  ],
+  "about": "A Perdomo line made from 12-year-old tobaccos: bale-aged for ten years, then aged two more in charred oak bourbon barrels. This is the Nicaraguan puro maduro version.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://perdomocigars.com/double-aged-12-year-vintage",
+   "https://halfwheel.com/perdomo-announce-new-double-aged-12-year-vintage-lines/60112/"
+  ],
+  "notes": "Launched in 2014 as a limited yearly production; it is now a standing line on Perdomo's site. Perdomo lists the Salomon at 6 1/8 x 54, halfwheel at 50/60.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Estate Seleccion Vintage Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Regente",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Imperio",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Prestigio",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Phantom",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Aristocrata",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "honey",
+   "spice",
+   "oak"
+  ],
+  "about": "Perdomo's ESV line, first released in 2005 as a tribute to Nick Perdomo Sr. and reblended in 2016 around tobacco from the first crops of the Finca Natalie farm. The Connecticut is the one version that is not a Nicaraguan puro.",
+  "released": 2005,
+  "production": "discontinued",
+  "sources": [
+   "https://web.archive.org/web/20190921051118/https://www.perdomocigars.com/estate-seleccion-vintage",
+   "https://halfwheel.com/ipcpr-2019-perdomo/298663/",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Often called ESV. Box-pressed since 2019. Perdomo no longer lists it and Neptune marks every size discontinued. Perdomo rated it mild to medium; Neptune lists it as mild.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild to Mild-Medium: an archived 2019 copy of Perdomo's own ESV page says \"Mild to Medium bodied\"; Mild was only Neptune's rating. Added that archived page as a source. Filled flavors from that page. Dropped the cigar-coop link."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Estate Seleccion Vintage Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Regente",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Imperio",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Prestigio",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Phantom",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Aristocrata",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "oak",
+   "earth",
+   "cream",
+   "nuts"
+  ],
+  "about": "Perdomo's ESV line, first released in 2005 as a tribute to Nick Perdomo Sr. and reblended in 2016 around tobacco from the first crops of the Finca Natalie farm. The sun grown version is a Nicaraguan puro.",
+  "released": 2005,
+  "production": "discontinued",
+  "sources": [
+   "https://web.archive.org/web/20190921051118/https://www.perdomocigars.com/estate-seleccion-vintage",
+   "https://halfwheel.com/perdomo-esv-limited-edition-box-pressed-sun-grown-prestigo/370325/",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Often called ESV. Box-pressed since 2019. Perdomo no longer lists it and Neptune marks every size discontinued. Perdomo rated it medium to full; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: an archived 2019 copy of Perdomo's own ESV page says \"Medium to Full bodied\"; Medium was only Neptune's rating. Added that archived page as a source. Dropped the halfwheel trade show link to stay at three sources."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Estate Seleccion Vintage Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Regente",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Imperio",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Prestigio",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Phantom",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Aristocrata",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "espresso"
+  ],
+  "about": "Perdomo's ESV line, first released in 2005 as a tribute to Nick Perdomo Sr. and reblended in 2016 around tobacco from the first crops of the Finca Natalie farm. The maduro version is a Nicaraguan puro.",
+  "released": 2005,
+  "production": "discontinued",
+  "sources": [
+   "https://web.archive.org/web/20190921051118/https://www.perdomocigars.com/estate-seleccion-vintage",
+   "https://halfwheel.com/ipcpr-2019-perdomo/298663/",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Often called ESV. Box-pressed since 2019. Perdomo no longer lists it and Neptune marks every size discontinued. Perdomo rated it medium to full; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full: an archived 2019 copy of Perdomo's own ESV page says \"Medium to Full bodied\"; Full was only Neptune's rating. Added that archived page as a source. Dropped the cigar-coop link."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Small Batch Series Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (bourbon barrel-aged)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan (aged 10 years)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Especial",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "caramel",
+   "cedar"
+  ],
+  "about": "A Perdomo line of shorter sizes made with 10-year-aged tobaccos and bourbon barrel-aged wrappers, released in three wrappers during 2015. The Connecticut shipped first, in March 2015.",
+  "released": 2015,
+  "production": "discontinued",
+  "sources": [
+   "https://web.archive.org/web/20190921053343/https://www.perdomocigars.com/small-batch-series",
+   "https://halfwheel.com/perdomo-ships-first-installment-of-small-batch-series/81369/",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Also sold as Small Batch 2005. Perdomo no longer lists it and Neptune marks every size discontinued. Perdomo rated it mild to medium; Neptune lists it as mild.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild to Mild-Medium: an archived 2019 copy of Perdomo's own Small Batch page says \"Mild to Medium bodied\"; Mild was only Neptune's rating. Binder and filler made specific from the same page, which also settles the Toro Especial at 5 1/2 x 54. Added the archived page as a source."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Small Batch Series Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown (bourbon barrel-aged)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan (aged 10 years)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Especial",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "oak",
+   "almond",
+   "sweetness"
+  ],
+  "about": "A Perdomo line of shorter sizes made with 10-year-aged tobaccos and bourbon barrel-aged wrappers, released in three wrappers during 2015. The sun grown version is a Nicaraguan puro that shipped in April 2015.",
+  "released": 2015,
+  "production": "discontinued",
+  "sources": [
+   "https://web.archive.org/web/20190921053343/https://www.perdomocigars.com/small-batch-series",
+   "https://halfwheel.com/perdomo-ships-first-installment-of-small-batch-series/81369/",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Also sold as Small Batch 2005. Perdomo no longer lists it and Neptune marks every size discontinued. Perdomo rated it medium to full; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: an archived 2019 copy of Perdomo's own Small Batch page says \"Medium to Full bodied\"; Medium was only Neptune's rating. Binder and filler made specific from the same page, which also settles the Toro Especial at 5 1/2 x 54. Added the archived page as a source."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Small Batch Series Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro (bourbon barrel-aged)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cuban-seed Nicaraguan",
+  "filler": "Cuban-seed Nicaraguan (aged 10 years)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Especial",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "sweetness"
+  ],
+  "about": "A Perdomo line of shorter sizes made with 10-year-aged tobaccos and bourbon barrel-aged wrappers, released in three wrappers during 2015. The maduro version is a Nicaraguan puro that shipped last, in May 2015.",
+  "released": 2015,
+  "production": "discontinued",
+  "sources": [
+   "https://web.archive.org/web/20190921053343/https://www.perdomocigars.com/small-batch-series",
+   "https://halfwheel.com/perdomo-small-batch-2005-maduro-arriving-in-stores/86422/",
+   "https://www.neptunecigar.com/perdomo-cigar"
+  ],
+  "notes": "Also sold as Small Batch 2005. Perdomo no longer lists it and Neptune marks every size discontinued. Perdomo rated it medium to full; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full: an archived 2019 copy of Perdomo's own Small Batch page says \"Medium to Full bodied\"; Full was only Neptune's rating. Binder and filler made specific from the same page, which also settles the Toro Especial at 5 1/2 x 54. Added the archived page as a source."
+ },
+ {
+  "brand": "Perdomo",
+  "line": "Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown (same wrapper as Perdomo 20th Anniversary Sun Grown)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "nuts",
+   "earth",
+   "cream"
+  ],
+  "about": "Perdomo's entry in the Firecracker series from Two Guys Smoke Shop and United Cigars: a short Nicaraguan puro with a long pigtail cap shaped like a fuse. It is a strong, ligero-forward smoke.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/perdomo-firecracker-goes-on-sale/377721/",
+   "https://halfwheel.com/perdomo-firecracker-returns-for-2021/400168/",
+   "https://halfwheel.com/perdomo-firecracker/379556/"
+  ],
+  "notes": "Made for Two Guys Smoke Shop and distributed by United Cigars. 1,000 boxes of 20 in 2020 and 500 boxes in 2021. Nick Perdomo Jr. described it as full-bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

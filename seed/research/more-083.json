@@ -1,0 +1,888 @@
+[
+ {
+  "brand": "Stolen Throne",
+  "line": "Yorktown Fleet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (the maker calls it Sumatra Maduro)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes a Condega ligero)",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Box-Pressed Torpedo",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "chocolate",
+   "red spice",
+   "espresso",
+   "cedar",
+   "cinnamon"
+  ],
+  "about": "The fourth regular production line from Stolen Throne, named for the company's headquarters town of Yorktown, Virginia. It is rolled at Noel Rojas' factory in Esteli and sold in 20-count bundles.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://stolenthronecigars.com/our-cigars/",
+   "https://halfwheel.com/stolen-throne-yorktown-fleet-box-pressed-torpedo/432936/",
+   "https://store.cigarfederation.com/products/stolen-throne-yorktown-fleet"
+  ],
+  "notes": "The maker lists the wrapper as Sumatra Maduro, while halfwheel lists Ecuadorian Sumatra. Cigar Federation sells it as medium-full and Famous Smoke as full, but halfwheel and Developing Palates both found it closer to medium.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Added Famous Smoke's full strength listing to notes (https://www.famous-smoke.com/brand-yorktown-fleet)."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Castle 919",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Peru",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "cocoa",
+   "hay",
+   "nuts"
+  ],
+  "about": "A regular production line from Stolen Throne that shipped in June 2025. The name and band refer to founder Lee Marsh's childhood address in the Essex area of Baltimore.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/stolen-throne-ships-castle-919/452694/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-stolen-throne-castle-919-belicoso/",
+   "https://www.famous-smoke.com/brand/stolen-throne-castle-919-cigars"
+  ],
+  "notes": "Strength, body and flavors come from the Developing Palates team review of the Belicoso, not from the maker. Famous Smoke also lists it as medium.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Added Famous Smoke as a second source for medium strength."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Phantom Queen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Petit Belicoso",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "earth",
+   "black pepper",
+   "toast",
+   "cedar"
+  ],
+  "about": "Stolen Throne's first nationwide limited edition, a single petit belicoso shown at PCA 2022 and shipped that December. It was limited to 1,500 boxes of 10 and is named for a Celtic deity of war and death.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://stolenthronecigars.com/limited-cigars/",
+   "https://halfwheel.com/stolen-throne-phantom-queen/424048/",
+   "https://store.cigarfederation.com/products/stolen-throne-phantom-queen"
+  ],
+  "notes": "The maker lists a Mexican binder, while halfwheel, Neptune and Cigar Federation list a Nicaraguan binder. Cigar Federation sells it as full-bodied and medium strength, and the halfwheel reviewer found the strength mild.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Noted that Neptune also lists a Nicaraguan binder."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Argos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "red pepper",
+   "cedar",
+   "roasted orange",
+   "citrus",
+   "white chocolate"
+  ],
+  "about": "A Stolen Throne limited cigar that began as an exclusive for the shop Winston's Humidor, with proceeds going to animal rescue groups. It was the first cigar dedicated to founder Lee Marsh's family dog.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://stolenthronecigars.com/limited-cigars/",
+   "https://halfwheel.com/pca-2026-stolen-throne-cigars/469250/",
+   "https://halfwheel.com/stolen-throne-ships-castle-919/452694/"
+  ],
+  "notes": "Shop exclusive for Winston's Humidor. The maker does not publish the size, strength, release year or the origin of the wrapper.",
+  "verified": true,
+  "verifyNotes": "Added country and factory from halfwheel's statement that all Stolen Throne cigars are rolled at the Rojas Cigar Factory in Esteli, Nicaragua; no page about this cigar itself states them. Removed 'in Virginia' from about because no opened page gives the shop's location. Confirmed the maker publishes no strength, size or wrapper origin."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Brawler",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A Stolen Throne shop exclusive made for Up Down Cigar in Chicago. The maker describes it as a Habano-wrapped cigar with sweetness, spice and a long savory finish.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://stolenthronecigars.com/limited-cigars/",
+   "https://halfwheel.com/stolen-throne-ships-castle-919/452694/"
+  ],
+  "notes": "Shop exclusive for Up Down Cigar in Chicago. The maker only says it is a Habano cigar and does not publish the binder, filler, size, strength or release year.",
+  "verified": true,
+  "verifyNotes": "Added country and factory from halfwheel's statement that all Stolen Throne cigars are rolled at the Rojas Cigar Factory in Esteli, Nicaragua; no page about this cigar itself states them. Confirmed the maker publishes only the Habano wrapper, with no strength, size, binder or filler. No second source for this cigar could be found."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "War Council",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cream",
+   "white pepper",
+   "leather",
+   "cedar",
+   "dark chocolate"
+  ],
+  "about": "A limited edition 6 x 46 that Stolen Throne made as an exclusive for the Cigar Federation store, blended with Noel Rojas. The maker describes it as full-bodied and medium in strength.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://stolenthronecigars.com/limited-cigars/",
+   "https://store.cigarfederation.com/products/stolen-throne-war-council",
+   "https://halfwheel.com/stolen-throne-ships-castle-919/452694/"
+  ],
+  "notes": "Cigar Federation exclusive, limited to 1,895 cigars. The binder and filler are only described as Nicaraguan plus other undisclosed tobaccos. The maker calls the size a corona and the retailer calls it a skinny toro.",
+  "verified": true,
+  "verifyNotes": "Added country and factory from halfwheel's statement that all Stolen Throne cigars are rolled at the Rojas Cigar Factory in Esteli, Nicaragua; no page about this cigar itself states them. Cigar Federation also says it was blended with Noel Rojas. The 2021 release year rests on the Cigar Federation listing date (August 2021). Added the production count to notes."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Oath Taker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua, Peru",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "leather",
+   "milk chocolate",
+   "nutmeg",
+   "cinnamon",
+   "oak"
+  ],
+  "about": "A limited edition toro that Stolen Throne made as an exclusive for the Cigar Federation store, blended with Noel Rojas. It pairs Nicaraguan and Peruvian fillers with an Ecuadorian Habano wrapper.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://stolenthronecigars.com/limited-cigars/",
+   "https://store.cigarfederation.com/products/stolen-throne-oath-taker",
+   "https://halfwheel.com/stolen-throne-ships-castle-919/452694/"
+  ],
+  "notes": "Cigar Federation exclusive, limited to 910 cigars. The binder is not published. Size, strength and tasting notes come from the Cigar Federation listing, which calls it full-bodied and medium strength.",
+  "verified": true,
+  "verifyNotes": "Added country and factory from halfwheel's statement that all Stolen Throne cigars are rolled at the Rojas Cigar Factory in Esteli, Nicaragua; no page about this cigar itself states them. Cigar Federation also says it was blended with Noel Rojas. The 2020 release year rests on the Cigar Federation listing date (September 2020). Added the production count to notes."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Preakness 150",
+  "found": true,
+  "officialName": "Preakness 150 Limited Edition Cigar",
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "almond",
+   "cream",
+   "wood",
+   "black pepper",
+   "coffee"
+  ],
+  "about": "A limited edition corona made to mark the 150th running of the Preakness Stakes in Baltimore, founder Lee Marsh's hometown. It shipped in April 2025 and was limited to 3,000 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/stolen-throne-ships-preakness-150-limited-edition-cigar/451386/",
+   "https://halfwheel.com/review-stolen-throne-preakness-150-limited-edition-cigar/452818/",
+   "https://www.famous-smoke.com/brand-stolen-throne-preakness-150"
+  ],
+  "notes": "Strength and body are from the halfwheel review, which found it mild in strength and medium in body. Famous Smoke lists it as medium-full. No maker strength rating was found.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Added to notes that Famous Smoke lists medium-full, which disagrees with the halfwheel review's mild."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Highway Drifter",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited release toro and the first Stolen Throne cigar made with a shaggy foot. It comes in 10-count bundles, with 10,000 cigars made.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/stolen-throne-highway-drifter-showing-up-at-stores/479775/",
+   "https://halfwheel.com/pca-2026-stolen-throne-cigars/469250/"
+  ],
+  "notes": "Shown at PCA 2026 and shipped to stores in September 2026. No strength rating or tasting notes have been published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Revelry",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "5 x 54",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited release built on the Preakness 150 blend, reworked for more strength and body. It comes in a single 5 x 54 size in 10-count bundles, with 10,000 cigars made.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-stolen-throne-cigars/469250/"
+  ],
+  "notes": "Based on the Preakness 150 blend but stronger, per the company. Announced at PCA 2026 for a May 2026 release. halfwheel gives the size as 5 x 54 with no vitola name, and no strength rating or tasting notes have been published.",
+  "verified": true,
+  "verifyNotes": "Blend, size and production confirmed against halfwheel's PCA 2026 report. Country and factory rest on halfwheel's company-wide statement about the Rojas Cigar Factory, not on a line about this cigar. Added the announced release month to notes."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Brody",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited release belicoso named after founder Lee Marsh's family dog, the second cigar dedicated to him after Argos. Production was announced at 10,000 cigars.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-stolen-throne-cigars/469250/"
+  ],
+  "notes": "Announced at PCA 2026 with a September 2026 release date. No strength rating or tasting notes have been published.",
+  "verified": true,
+  "verifyNotes": "Blend, size and production confirmed against halfwheel's PCA 2026 report. Country and factory rest on halfwheel's company-wide statement about the Rojas Cigar Factory, not on a line about this cigar. No report that it has shipped was found."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Alma Fuerte Colorado Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa Colorado Claro",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robustus Corto",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Robustus II",
+    "length": 5.125,
+    "ring": 55
+   },
+   {
+    "name": "Sixto I Hexagon",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Eduardo I",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cedar",
+   "cocoa",
+   "nutmeg",
+   "spice"
+  ],
+  "about": "A Nicaraguan puro from Plasencia that puts a lighter, long-aged Colorado Claro wrapper from Jalapa on the Alma Fuerte line. It began in late 2020 with the six-sided Sixto I Hexagon and has since grown to four sizes.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.plasenciacigars.com/collections/alma-fuerte-green/",
+   "https://halfwheel.com/plasencia-alma-fuerte-colorado-claro-robusto-corto/457447/",
+   "https://www.neptunecigar.com/cigar/plasencia-alma-fuerte-colorado-claro"
+  ],
+  "notes": "The brand is spelled Plasencia. The maker's site also calls this line Alma Fuerte Natural. The maker calls it medium to full-bodied and shows 3.5 of 5 on its strength meter, Neptune lists medium strength, and halfwheel found the strength just under medium.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Reworded notes: the maker's page is titled Alma Fuerte Colorado Claro and uses Alma Fuerte Natural in its page data. Added the maker's 3.5 of 5 strength meter."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Reserva Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (certified organic)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Corta",
+    "length": 3.875,
+    "ring": 48
+   },
+   {
+    "name": "Nesticos",
+    "length": 4.5,
+    "ring": 36
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Cortez",
+    "length": 5.75,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "cocoa",
+   "marzipan",
+   "nuts",
+   "bread",
+   "cedar"
+  ],
+  "about": "A Nicaraguan puro from Plasencia made entirely with tobacco certified organic by the OCIA, which the maker says no other cigar can claim. It was introduced in 2017 when the family launched its own brand in the U.S.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.plasenciacigars.com/collections/reserva-original/",
+   "https://halfwheel.com/plasencia-reserva-original-corona-corta/456490/",
+   "https://www.neptunecigar.com/cigar/plasencia-reserva-original"
+  ],
+  "notes": "The brand is spelled Plasencia. The maker only gives the wrapper as Nicaraguan, while Neptune calls it a maduro. Retailers and halfwheel call it medium, though the maker's own strength meter shows 2 of 5. Neptune also lists a Corona (6 1/4 x 44) and a Churchill (7 x 48) that are not on the maker's current size list.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Added to notes that the maker's strength meter reads 2 of 5 while Neptune, Famous Smoke and halfwheel all say medium."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Triunfal",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Jamastran (organic)",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Olancho)",
+  "filler": "Nicaragua (Jalapa), Honduras (Jamastran)",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "toffee",
+   "cedar",
+   "almond",
+   "molasses",
+   "cream"
+  ],
+  "about": "A 2026 limited edition from Plasencia tied to the 2026 World Cup and the second cigar in its Mundial series after Ehtefal. It is the first Plasencia blend to combine certified organic tobacco from both Honduras and Nicaragua, and 5,000 numbered boxes of 10 were made.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.plasenciacigars.com/collections/limited/triunfal-2026/",
+   "https://halfwheel.com/plasencia-triunfal/476327/",
+   "https://www.neptunecigar.com/cigar/plasencia-triunfal"
+  ],
+  "notes": "The brand is spelled Plasencia. The maker rates strength and body as medium, halfwheel found both a little above medium, and Famous Smoke lists medium-full. Neptune lists the wrapper shade as Colorado, and the maker does not name the seed.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against the maker and halfwheel. Added Famous Smoke's medium-full listing to notes."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Ehtefal",
+  "found": true,
+  "officialName": "Ehtëfal",
+  "wrapperLeaf": "Nicaraguan Jalapa sun grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "cedar",
+   "cocoa",
+   "earth",
+   "vanilla",
+   "spice"
+  ],
+  "about": "A limited edition Plasencia toro that debuted in Doha, Qatar in November 2022, the night before the World Cup opened there. The name is Arabic for celebration, the fillers were aged 10 years, and 5,000 boxes of 10 were made with half going to the U.S.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-ehtefal/422285/",
+   "https://www.neptunecigar.com/cigars/plasencia-ehtefal-toro"
+  ],
+  "notes": "The brand is spelled Plasencia. Neptune and the halfwheel article text say the filler is Honduran and Nicaraguan, while halfwheel's spec table lists Nicaragua only. It was the first cigar in what Plasencia now calls its Mundial series.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Placencia",
+  "line": "Year of the Ox",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "peanut",
+   "leather",
+   "earth",
+   "coffee",
+   "nutmeg"
+  ],
+  "about": "The first of Plasencia's yearly Lunar New Year cigars, a Nicaraguan puro salomon released in February 2021. It was limited to 2,500 boxes of eight and was sold only outside the United States.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-year-of-the-ox/393494/"
+  ],
+  "notes": "The brand is spelled Plasencia. This release was an international exclusive and was not sold to U.S. retailers. Strength and flavors come from the halfwheel review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Placencia",
+  "line": "Year of the Tiger",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "nuts",
+   "spice",
+   "cedar",
+   "earth",
+   "coffee"
+  ],
+  "about": "Plasencia's second Lunar New Year cigar and the first one sold in the U.S., a Nicaraguan puro using tobacco aged up to 10 years. It came out in early 2022 in eight-count boxes, with 6,250 boxes made and 2,500 of them for U.S. stores.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-year-of-the-tiger/407536/",
+   "https://halfwheel.com/plasencias-year-of-the-tiger-heads-to-stores/405334/",
+   "https://www.neptunecigar.com/cigar/plasencia-year-of-the-tiger"
+  ],
+  "notes": "The brand is spelled Plasencia. The maker called it medium strength and medium-bodied, but the halfwheel reviewer found the strength built to full by the end. Neptune describes a dark maduro wrapper, while halfwheel saw a standard brown one.",
+  "verified": true,
+  "verifyNotes": "Changed strength and body from Medium-Full to Medium: the maker's press release, quoted by halfwheel, calls it a medium strength, medium-bodied cigar, and the brief says to use the maker's word. Added the maker's chocolate, nuts and spice notes to flavors and the press release story to sources."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Year of the Rabbit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "wood",
+   "herbs"
+  ],
+  "about": "Plasencia's third Lunar New Year cigar, a Nicaraguan puro built mainly on tobacco from Jalapa. It was released in January 2023 and limited to 6,000 boxes of 10.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-year-of-the-rabbit/422827/",
+   "https://www.neptunecigar.com/cigar/plasencia-year-of-the-rabbit"
+  ],
+  "notes": "The brand is spelled Plasencia. Neptune lists medium strength and a Colorado shade wrapper. The halfwheel review found the strength growing from medium to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Placencia",
+  "line": "Year of the Dragon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "Plasencia's fourth Lunar New Year cigar, a torpedo made entirely from Nicaraguan tobacco grown on the family's own farms. It shipped in February 2024 and was limited to 3,000 boxes of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-begins-shipping-year-of-the-dragon/435394/",
+   "https://www.neptunecigar.com/cigar/plasencia-year-of-the-dragon"
+  ],
+  "notes": "The brand is spelled Plasencia. Sources disagree on length: halfwheel's news story says 6 1/4 x 54, while Neptune and halfwheel's series list say 6 1/2 x 54. Strength is Neptune's rating, and no tasting notes were published by a source checked.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Placencia",
+  "line": "Year of the Snake",
+  "found": true,
+  "officialName": "El Año de la Culebra Edición Limitada 2025",
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   },
+   {
+    "name": "Culebra",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "baking spice",
+   "coffee",
+   "sweetness"
+  ],
+  "about": "Plasencia's fifth Lunar New Year cigar, a Nicaraguan puro for the 2025 Year of the Snake. Each box holds eight straight lanceros plus two twisted into a culebra, and 6,000 boxes were made with half going to the U.S.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-el-ano-de-la-culebra-edicion-limitada-2025-lancero/451775/",
+   "https://www.neptunecigar.com/cigar/plasencia-year-of-the-snake",
+   "https://www.famous-smoke.com/plasencia-year-of-the-snake-cigars-natural-box-of-10"
+  ],
+  "notes": "The brand is spelled Plasencia. It shipped in December 2024 for the 2025 lunar year. Famous Smoke lists it as medium-full and Neptune as full, but the halfwheel reviewer found the strength under medium, with medium body.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Mild-Medium to Medium-Full. There is no maker rating, both retailers checked rate it medium-full or higher (Famous Smoke medium-full, Neptune full and medium-to-full-bodied), and Mild-Medium came only from one halfwheel reviewer's impression. Body is still the halfwheel review's."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Year of the Horse",
+  "found": true,
+  "officialName": "El Año del Caballo",
+  "wrapperLeaf": "Nicaraguan Jalapa Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gordo Extra",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "oak",
+   "anise",
+   "cocoa",
+   "coffee",
+   "leather",
+   "cinnamon"
+  ],
+  "about": "Plasencia's sixth Lunar New Year cigar, made for the 2026 Year of the Horse. It is a large 7 x 58 with a braided strand of tobacco at the cap meant to look like a horse's tail, limited to 6,000 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-el-ano-del-caballo/461754/",
+   "https://www.neptunecigar.com/cigar/plasencia-year-of-the-horse",
+   "https://www.famous-smoke.com/plasencia-el-ano-del-caballo-year-of-the-horse-cigars-natural-box-of-10"
+  ],
+  "notes": "The brand is spelled Plasencia. It shipped in late 2025 for the 2026 lunar year. Famous Smoke lists it as medium-full and Neptune as full, while the halfwheel review found the strength medium rising to just above, with medium body.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Medium to Medium-Full. There is no maker rating, Famous Smoke lists medium-full, Neptune lists full, and the halfwheel review ended at medium-plus. Changed 'shipped in October 2025' to 'late 2025' because halfwheel gives both October and Nov. 17 as the ship date."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Alma del Fuego Ometepe",
+  "found": true,
+  "officialName": "Alma del Fuego Ometepe Edición Limitada",
+  "wrapperLeaf": "Nicaraguan Ometepe",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Box-Pressed Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wood",
+   "fruit",
+   "spice",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A 2024 limited edition of Plasencia's Alma del Fuego that the company says is the first cigar with a wrapper grown on the volcanic island of Ometepe. It is a box-pressed torpedo sold in glass tubes at $100 each, with 1,000 boxes of 20 made.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/plasencia-alma-del-fuego-ometepe-edicion-limitada/441871/",
+   "https://www.neptunecigar.com/cigars/plasencia-alma-del-fuego-special-edition-ometepe",
+   "https://www.plasenciacigars.com/collections/alma-del-fuego/"
+  ],
+  "notes": "The brand is spelled Plasencia. This is a limited edition of the regular Alma del Fuego line. halfwheel gives the size as 6 x 54 while Neptune lists 6 1/2 x 54. The binder and filler regions are not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

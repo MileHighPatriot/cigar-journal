@@ -1,0 +1,851 @@
+[
+ {
+  "brand": "Diesel",
+  "line": "Whiskey Row Founder's Collection Boxergrail",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Habano, aged in Rabbit Hole Boxergrail rye barrels)",
+  "filler": "Nicaragua (Habano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "black pepper",
+   "vanilla",
+   "citrus"
+  ],
+  "about": "A limited Diesel toro made with Rabbit Hole Distillery, the third Diesel and Rabbit Hole collaboration and the first in the Founder's Collection. Its Nicaraguan habano binder was aged in barrels that held Rabbit Hole Boxergrail rye whiskey.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-and-rabbit-hole-come-together-for-whiskey-row-founders-collection-boxergrail/422887/",
+   "https://www.neptunecigar.com/cigar/diesel-whiskey-row-founder-s-collection",
+   "https://www.cigarworld.com/cigars/diesel/whiskey-row-founders-collection/"
+  ],
+  "notes": "Sold in boxes of 10; production numbers were not disclosed. Strength is from a retailer listing, not the maker. The flavor words are what the maker says the rye barrels add to the binder leaf.",
+  "verified": true,
+  "verifyNotes": "No field changes. Added STG's Cigar World page for this release as a third source; it matches the halfwheel blend."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Whiskey Row Founder's Collection Mizunara",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "USA (Connecticut Broadleaf, aged in Rabbit Hole Mizunara oak barrels)",
+  "filler": "Nicaragua (Esteli Habano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "cocoa"
+  ],
+  "about": "A limited Diesel toro made with Rabbit Hole Distillery. The binder leaf was aged in the Japanese Mizunara oak barrels used for Rabbit Hole's Founder's Collection bourbon.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/whiskey-row-founders-collection-mizunara/",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-mizunara/440860/"
+  ],
+  "notes": "Sources disagree on the blend. Diesel's site lists a Brazilian Mata Fina wrapper over a Connecticut Broadleaf binder. Halfwheel's review lists a Connecticut Broadleaf wrapper over Nicaraguan habano binder and filler.",
+  "verified": true,
+  "verifyNotes": "Fixed notes: Neptune's Mizunara page lists a Connecticut Broadleaf binder and Esteli habano filler like the maker, so only halfwheel disagrees. STG's Cigar World page also matches the maker."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Whiskey Row Founder's Collection Raceking",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (aged in Rabbit Hole Raceking bourbon barrels)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "earth"
+  ],
+  "about": "A limited Diesel toro made with Rabbit Hole Distillery and released just before the 2025 Kentucky Derby. Its Nicaraguan binder was aged in barrels that held Rabbit Hole Raceking bourbon.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/whiskey-row-founders-collection-raceking/",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "Limited to 2,300 boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Diesel",
+  "line": "Whiskey Row Founder's Collection Nevallier",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "espresso",
+   "spice"
+  ],
+  "about": "The fourth Founder's Collection release from Diesel and Rabbit Hole Distillery. It uses tobacco aged in Rabbit Hole whiskey barrels made of French oak from the Nevers and Allier forests, which is where the name comes from.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/whiskey-row-founders-collection-nevallier/",
+   "https://halfwheel.com/diesel-and-rabbit-hole-team-up-for-whiskey-row-founders-collection-nevallier/467557/"
+  ],
+  "notes": "Halfwheel reports the barrel-aged leaf here is the Nicaraguan and Dominican filler, not the binder as in earlier Founder's Collection releases.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Diesel",
+  "line": "Backyard BBQ Pulled Pork",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Honduras (Jamastran), Nicaragua (Esteli, Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "hazelnut",
+   "charred wood",
+   "earth"
+  ],
+  "about": "The first release in Diesel's limited Backyard BBQ series, a thick robusto blended as a nod to North Carolina barbecue. It is made by AJ Fernandez in Nicaragua.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/backyard-bbq-pulled-pork/",
+   "https://halfwheel.com/diesel-launching-limited-edition-backyard-barbecue-series-pulled-pork/449601/"
+  ],
+  "notes": "Limited to 2,000 boxes of 10. The country the Habano Rosado wrapper is grown in has not been disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Diesel",
+  "line": "Backyard BBQ Burnt Ends",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "chocolate",
+   "sweetness"
+  ],
+  "about": "The second release in Diesel's limited Backyard BBQ series, a Pennsylvania Broadleaf toro over Nicaraguan tobacco. It is priced to be bought by the box, at about $7.50 a cigar.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/backyard-bbq-burnt-ends/",
+   "https://halfwheel.com/diesel-backyard-bbq-series-returning-with-burnt-ends/467531/"
+  ],
+  "notes": "Diesel and halfwheel list it as a 6 x 52 toro; Neptune Cigar lists it as 5 x 56 and Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Diesel",
+  "line": "Fool's Errand Stubborn Fool",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Honduras (Jamastran)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "leather",
+   "cedar"
+  ],
+  "about": "The first cigar in Diesel's limited Fool's Errand trilogy, a 5 x 58 perfecto with a broadleaf wrapper. Each box of 10 came with a tarot card and a QR code for an online riddle game with prizes.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-launching-fools-errand-trilogy-with-interactive-game/407509/",
+   "https://www.cigarworld.com/cigars/diesel/fools-errand-stubborn-fool/",
+   "https://halfwheel.com/diesel-worthy-fool-closes-out-fools-errand-trilogy/442405/"
+  ],
+  "notes": "First of three Fool's Errand releases, followed by Simple Fool (2023) and Worthy Fool (2024). Production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Diesel",
+  "line": "Fool's Errand Simple Fool",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "earth",
+   "spice",
+   "cream"
+  ],
+  "about": "The second cigar in Diesel's limited Fool's Errand trilogy, a 5 x 58 perfecto blended by Justin Andrews and AJ Fernandez. Boxes include a collectible card with a QR code for an online riddle game.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/fools-errand-simple-fool/",
+   "https://halfwheel.com/diesel-fools-errand-returns-with-simple-fool/419678/"
+  ],
+  "notes": "Second of three Fool's Errand releases, between Stubborn Fool (2022) and Worthy Fool (2024).",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Diesel",
+  "line": "Fool's Errand Worthy Fool",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "sweetness"
+  ],
+  "about": "The third and final cigar in Diesel's limited Fool's Errand trilogy, a 5 x 58 perfecto made by AJ Fernandez. Like the earlier two, boxes include a card with a QR code for an online riddle game.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/fools-errand-worthy-fool/",
+   "https://halfwheel.com/diesel-worthy-fool-closes-out-fools-errand-trilogy/442405/"
+  ],
+  "notes": "Third of three Fool's Errand releases. Its listed leaf matches Simple Fool: Ecuadorian Sumatra over Nicaraguan habano.",
+  "verified": true,
+  "verifyNotes": "Reworded notes: no source says outright that this blend differs from Simple Fool, so that claim was dropped."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Vintage Series Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Esteli Habano)",
+  "filler": "Nicaragua (Jalapa Habano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.75,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "hazelnut",
+   "spice"
+  ],
+  "about": "The second blend in Diesel's Vintage Series, with an Ecuadorian habano wrapper over Nicaraguan filler that the company says is aged five to seven years. It is a regular production line made by AJ Fernandez.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.dieselcigars.com/products/vintage-series-natural/",
+   "https://halfwheel.com/diesel-vintage-natural-robusto-gordo/438991/",
+   "https://halfwheel.com/diesel-adds-6-x-60-gigante-to-vintage-series-maduro-natural-lines/448539/"
+  ],
+  "notes": "Diesel calls it Medium-Full; Neptune Cigar lists it as Full. The original Pico Gordo (4.5 x 60) and Rabito (6 x 46) sizes were discontinued in 2025, when the 6 x 60 Gigante was added.",
+  "verified": true,
+  "verifyNotes": "Reworded about for clarity. No field changes."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Delirium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua (Ometepe, ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "hazelnut",
+   "nuts",
+   "molasses",
+   "oak",
+   "leather"
+  ],
+  "about": "A limited edition Diesel toro billed as the boldest blend in the brand when it came out, with ligero and Ometepe leaf in the filler. It is made by AJ Fernandez in Esteli.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/delirium/",
+   "https://halfwheel.com/diesel-delirium/375338/",
+   "https://halfwheel.com/diesel-delirium-to-hit-stores-in-march/373448/"
+  ],
+  "notes": "Limited to 5,000 boxes of 10 in March 2020. The Delirium name was first used in 2014 on a Cigars International release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Diesel",
+  "line": "Unlimited Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andres)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "d.4 (Robusto)",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "d.5 (Robusto)",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "d.X (Belicoso)",
+    "length": 5.75,
+    "ring": 56
+   },
+   {
+    "name": "d.6 (Gordo)",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "d.7 (Presidente)",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "leather",
+   "spice"
+  ],
+  "about": "The broadleaf maduro version of Diesel Unlimited, a full-bodied line with a Pennsylvania Broadleaf wrapper over a Mexican San Andres binder. Like the rest of the brand, it is made by AJ Fernandez in Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dieselcigars.com/products/unlimited-maduro/",
+   "https://mikescigars.com/cigars/brands/diesel/diesel-unlimited-maduro",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "Diesel's site rounds the d.4 and d.X lengths to 4.7 and 5.7 inches; retailers list them as 4 3/4 and 5 3/4.",
+  "verified": true,
+  "verifyNotes": "No field changes. The halfwheel link does not name this cigar; it is kept because it is the source for the factory (it says all Diesel cigars are made there)."
+ },
+ {
+  "brand": "Diesel",
+  "line": "d. 10th",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "d.4552 (Short Robusto)",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "d.5552 (Robusto)",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "d.654T (Torpedo)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "coffee",
+   "dark chocolate",
+   "sweetness"
+  ],
+  "about": "Diesel's tenth anniversary cigar, blended by AJ Fernandez with an Ecuadorian Habano Oscuro wrapper over Nicaraguan tobacco.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dieselcigars.com/products/d-10th/",
+   "https://mikescigars.com/cigars/brands/diesel/diesel-10th-anniversary",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "Some retailers sell it as Diesel 10th Anniversary.",
+  "verified": true,
+  "verifyNotes": "No field changes. The halfwheel link does not name this cigar; it is kept because it is the source for the factory (it says all Diesel cigars are made there)."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Grind",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "cedar",
+   "espresso"
+  ],
+  "about": "A full-bodied Diesel blended by AJ Fernandez with a dark habano wrapper over Nicaraguan binder and filler. The 2017 version was the first Diesel sold to brick-and-mortar shops after years as a catalog brand.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dieselcigars.com/products/grind/",
+   "https://halfwheel.com/ipcpr-2017-general-cigar-co/166737/",
+   "https://halfwheel.com/stg-discontinues-cao-osa-sol-cao-session-diesel-grind-others/444909/"
+  ],
+  "notes": "STG discontinued Grind in November 2024. The 2017 retail version replaced an earlier Grind sold by Cigars International. Diesel's site lists an Ecuadorian Habano Maduro wrapper; STG's Cigar World lists Nicaraguan Habano.",
+  "verified": true,
+  "verifyNotes": "No field changes. The factory is not named on the three listed pages; it was confirmed from halfwheel's statement that all Diesel cigars are made there."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Uncut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "chocolate",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "A full-bodied, value-priced Diesel blended by AJ Fernandez with a Pennsylvania Broadleaf wrapper over Nicaraguan long filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dieselcigars.com/products/uncut/",
+   "https://mikescigars.com/brands/diesel-uncut",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "No field changes. The halfwheel link does not name this cigar; it is kept because it is the source for the factory (it says all Diesel cigars are made there)."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Uncut d.CT",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "nuts",
+   "earth",
+   "cedar"
+  ],
+  "about": "The Connecticut-wrapped follow-up to Diesel Uncut, a medium-bodied blend with an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dieselcigars.com/products/uncut-d-ct/",
+   "https://www.cigarworld.com/cigars/diesel/uncut-d-ct/",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "No field changes. The halfwheel link does not name this cigar; it is kept because it is the source for the factory (it says all Diesel cigars are made there). Country also rests on that statement."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Wicked",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "espresso",
+   "black pepper",
+   "red pepper"
+  ],
+  "about": "A full-bodied Diesel torpedo with a Pennsylvania Broadleaf Maduro wrapper over Nicaraguan ligero long filler. Like the rest of the brand, it is made by AJ Fernandez in Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dieselcigars.com/products/wicked/",
+   "https://mikescigars.com/brands/diesel-wicked",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "Diesel's site lists the length as 6.2 inches; retailers list it as 6 1/4.",
+  "verified": true,
+  "verifyNotes": "No field changes. The halfwheel link does not name this cigar; it is kept because it is the source for the factory (it says all Diesel cigars are made there)."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Rage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Sun Grown Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Shorty (Gordo)",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Double Toro (Gordo)",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "earth",
+   "cedar",
+   "coffee",
+   "spice"
+  ],
+  "about": "A medium to full-bodied Diesel blended by AJ Fernandez with a very dark Ecuadorian Habano Sun Grown Oscuro wrapper over Cuban-seed Nicaraguan long filler.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/rage/",
+   "https://mikescigars.com/brands/diesel-rage",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "Diesel describes Rage as a limited edition, though it is still listed in the brand's current lineup in four sizes.",
+  "verified": true,
+  "verifyNotes": "No field changes. The halfwheel link does not name this cigar; it is kept because it is the source for the factory (it says all Diesel cigars are made there)."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Heart of Darkness",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "leather",
+   "earth",
+   "espresso"
+  ],
+  "about": "A full-bodied Diesel gordo with an oily Ecuadorian Habano Oscuro wrapper over Nicaraguan long filler from three growing regions, including Esteli ligero.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.dieselcigars.com/products/heart-of-darkness/",
+   "https://mikescigars.com/brands/diesel-heart-of-darkness",
+   "https://halfwheel.com/diesel-whiskey-row-founders-collection-raceking-shipping-in-may/449581/"
+  ],
+  "notes": "Diesel describes it as a limited edition, though it is still listed in the brand's current lineup. It comes in one size.",
+  "verified": true,
+  "verifyNotes": "No field changes. The halfwheel link does not name this cigar; it is kept because it is the source for the factory (it says all Diesel cigars are made there)."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Tempest",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Diesel's 2024 exclusive for Tobacconists' Association of America (TAA) member shops, a 6 x 52 toro made by AJ Fernandez and packed in boxes that look like books.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-tempest-heads-to-taa-stores/444312/",
+   "https://www.neptunecigar.com/cigar/diesel-tempest"
+  ],
+  "notes": "Limited to 1,000 boxes of 10, sold only at TAA member retailers. The Tempest name was first announced for the 2022 TAA cigar, which shipped as Diesel Atonement instead.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

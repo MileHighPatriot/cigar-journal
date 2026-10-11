@@ -1,0 +1,856 @@
+[
+ {
+  "brand": "HVC",
+  "line": "10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo 99, Corojo 2012, Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "54",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "nuts",
+   "toast",
+   "wood",
+   "earth"
+  ],
+  "about": "A Nicaraguan puro Reinier Lorenzo released in 2021 to mark ten years of HVC. It was the first HVC blend to use Corojo 2012 tobacco in the filler.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-10th-anniversary/402603/",
+   "https://halfwheel.com/hvc-10th-anniversary-54-shipping-tomorrow/423098/",
+   "https://www.neptunecigar.com/cigar/hvc-10th-anniversary"
+  ],
+  "notes": "The original 6 1/2 x 50 was limited to 2,000 boxes of 10. The 5 x 54 added in 2023 is made at HVC's own factory in Esteli. Neptune and Atlantic list it as full, but halfwheel's reviewer found the strength closer to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "500 Years Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Criollo 98 and Corojo 99 from Esteli and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tesoros",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "Selectos",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Salomon",
+    "length": 6.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "nuts",
+   "wood",
+   "bread",
+   "caramel"
+  ],
+  "about": "A Nicaraguan puro of AGANORSA tobacco made to mark the 500th anniversary of the founding of Havana, the city HVC is named for. It began as a limited edition and is now a regular line.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/hvc-500-years-anniversary/369586/",
+   "https://halfwheel.com/hvc-500-years-anniversary-line-goes-regular-production/392978/",
+   "https://www.neptunecigar.com/cigar/hvc-500-years-anniversary"
+  ],
+  "notes": "Launched in 2019 as a limited edition made at TABSA and became regular production in 2021. Retailers list it as full, though halfwheel's reviewer found the Tesoros closer to medium. A 7 1/2 x 38 Lancero Only Legends was a 5,000-cigar limited release in 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "Cerro Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sabrositos",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice"
+  ],
+  "about": "The maduro version of Cerro, one of HVC's original lines, named for a Havana neighborhood. It keeps the Nicaraguan binder and filler and swaps the wrapper for Mexican San Andrés.",
+  "released": 2017,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/hvc-adding-cerro-maduro-ipcpr-2017/156117/",
+   "https://www.neptunecigar.com/cigar/hvc-cerro-maduro",
+   "https://atlanticcigar.com/hvc-cerro-maduro-robusto-5x50/"
+  ],
+  "notes": "Neptune lists medium and Atlantic medium-full. It launched at TABSA; HVC opened its own Esteli factory in 2022 and Atlantic now names that one. Retailers still stock all four sizes, but whether it is still being made is not confirmed.",
+  "verified": true,
+  "verifyNotes": "Cut flavors to the two the sources state (cocoa and espresso were not in any listed source). Removed an unverifiable Cigar Hustler strength claim from notes; strength is a one-to-one retailer split."
+ },
+ {
+  "brand": "HVC",
+  "line": "Edicion Especial 2015",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "El Grandote",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "wood",
+   "earth",
+   "leather",
+   "sweetness"
+  ],
+  "about": "A San Andrés wrapped HVC line over Nicaraguan tobaccos, introduced in 2015. It was relaunched in 2025 as a soft box-pressed cigar with new packaging.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/hvc-ships-updated-edicion-especial-2015/452898/",
+   "https://halfwheel.com/hvc-edicion-especial-2015-toro/95087/",
+   "https://www.neptunecigar.com/cigar/hvc-edicion-especial-2015"
+  ],
+  "notes": "The original round version, made at TABSA, was dropped in early 2025 and replaced by the soft box-pressed version listed here; halfwheel says the blend is essentially the same. A 6 1/2 x 48 Especiales is a limited size sold in boxes of 10. Neptune lists medium, Atlantic medium-full.",
+  "verified": true,
+  "verifyNotes": "Reworded notes: halfwheel's shipping article says the blend stayed the same, so the 'adjusted blend' wording was softened. Strength is a one-to-one retailer split."
+ },
+ {
+  "brand": "HVC",
+  "line": "Seleccion No. 1 Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Esenciales",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Poderosos",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "nuts",
+   "coffee",
+   "toast",
+   "earth"
+  ],
+  "about": "The third Selección No. 1 blend, after the Maduro and Natural, with an Ecuadorian Connecticut-seed wrapper over Nicaraguan tobaccos. It is made at HVC's own factory in Esteli.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/hvc-seleccion-no-1-connecticut-short-robusto/440887/",
+   "https://halfwheel.com/hvc-seleccion-no-1-connecticut-debuting-in-april/435503/",
+   "https://www.neptunecigar.com/cigar/hvc-havana-city-seleccion-no1-connecticut"
+  ],
+  "notes": "Neptune lists it as medium; Atlantic lists mild-medium, which matches halfwheel's review (full flavor, mild to mild-medium strength).",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "Seleccion No. 1 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Esenciales",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Poderosos",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "oak",
+   "leather",
+   "black pepper"
+  ],
+  "about": "The first line made at HVC's own factory in Esteli, which opened in 2022. Reinier Lorenzo built it as a tribute to the old Cuban style and it is known for being strong.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/hvc-seleccion-no-1-esenciales/415565/",
+   "https://halfwheel.com/hvc-announces-new-factory-seleccion-no-1-release/409768/",
+   "https://www.neptunecigar.com/cigar/hvc-havana-city-seleccion-no1-maduro"
+  ],
+  "notes": "Originally released as just Selección No. 1; Maduro was added to the name once the Natural and Connecticut followed. Lorenzo pitched it as an after-dinner cigar and halfwheel found it very full in strength, but Neptune lists medium and Atlantic medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "Hot Cake Golden Line Connecticut",
+  "found": true,
+  "officialName": "Hot Cake Golden Line",
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 44
+   },
+   {
+    "name": "Laguito No. 4",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Laguito No. 5",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Cañon",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "cocoa",
+   "hay",
+   "nuts"
+  ],
+  "about": "The lighter version of HVC's Hot Cake, trading the San Andrés wrapper for Ecuadorian Connecticut over Nicaraguan tobaccos. It was the first Hot Cake with a Connecticut shade wrapper.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/hvc-hot-cake-golden-line-debuting-next-month/424448/",
+   "https://halfwheel.com/hvc-hot-cake-golden-line-laguito-no-5/429446/",
+   "https://www.neptunecigar.com/cigar/hvc-hot-cake-golden-line-connecticut"
+  ],
+  "notes": "HVC describes it as mild to medium and Atlantic agrees; Neptune lists medium. The Half Corona was added in 2024 with an adjusted blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "Hot Cake Fresh Out of the Oven Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Torpedo",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Coronas Gigantes",
+    "length": 6.875,
+    "ring": 50
+   },
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 44
+   },
+   {
+    "name": "Figurado Box Press",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gladiators",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "cocoa",
+   "coffee",
+   "nuts",
+   "dark chocolate"
+  ],
+  "about": "The dark Connecticut broadleaf version of HVC's Hot Cake, the fourth blend in the Pan Caliente family. It uses Nicaraguan binder and filler and is made at HVC's own factory.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-hot-cake-fresh-out-of-the-oven-broadleaf-gran-torpedo/448696/",
+   "https://halfwheel.com/hvc-hot-cake-fresh-out-the-oven-broadleaf-gladiators-coming-this-summer/467115/",
+   "https://www.neptunecigar.com/cigar/hvc-hot-cake-broadleaf"
+  ],
+  "notes": "Every size so far has shipped in a capped run of 240 to 500 boxes of 25, though retailers sell it alongside the regular Hot Cake lines. Neptune lists medium and names Aganorsa as the maker; Atlantic lists medium-full and halfwheel reports HVC's own factory.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "La Decoracion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Grandote",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "earth",
+   "spice",
+   "leather",
+   "cocoa"
+  ],
+  "about": "A regular production HVC line introduced in 2026 that revives the name of a defunct 19th-century Cuban brand. It is a soft box-pressed cigar with an Ecuadorian Habano 2000 wrapper over Nicaraguan tobaccos.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/hvc-la-decoracion-heads-to-stores/471065/",
+   "https://www.neptunecigar.com/cigar/hvc-la-decoracion",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-hvc-la-decoracion-churchill/"
+  ],
+  "notes": "Properly spelled La Decoración. HVC describes it as medium-bodied and Neptune lists medium; Atlantic lists medium-full. All four sizes are box-pressed.",
+  "verified": true,
+  "verifyNotes": "Reworded about only (regular production instead of core)."
+ },
+ {
+  "brand": "HVC",
+  "line": "La Rosa 520 10 Year Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 92",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Esteli, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Originales",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Magnificos",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cream",
+   "earth",
+   "vanilla",
+   "bread",
+   "cocoa"
+  ],
+  "about": "A 2025 limited edition marking ten years of La Rosa 520, the line named for Reinier Lorenzo's childhood address in Havana. It is a new blend, not a remake of the 2015 original.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-la-rosa-520-10-year-anniversary-begins-shipping/451895/",
+   "https://halfwheel.com/hvc-la-rosa-520-10-year-anniversary-magnificos/452934/",
+   "https://atlanticcigar.com/hvc-la-rosa-520-10th-aniversario-originales-5-1-2x54/"
+  ],
+  "notes": "Each size is limited to 1,000 boxes of 10; the Magnificos is a figurado. Atlantic lists medium-full and calls the wrapper Nicaraguan Habano, while halfwheel reports Ecuadorian Habano 92 and its reviewer found the strength about medium.",
+  "verified": true,
+  "verifyNotes": "Replaced flavors with ones the listed sources state (cedar and baking spice were not in them). Dropped a Developing Palates mention from notes that was not a listed source. Strength rests on Atlantic alone."
+ },
+ {
+  "brand": "HVC",
+  "line": "La Rosa 520 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Exquisitos",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Mágicos",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "berry",
+   "cream",
+   "wood"
+  ],
+  "about": "A limited maduro take on HVC's La Rosa 520, replacing the all-Nicaraguan blend's Corojo 99 wrapper with Mexican San Andrés. It has only been released in small occasional runs.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-la-rosa-520-maduro/292549/",
+   "https://halfwheel.com/hvc-la-rosa-520-maduro-exquisitos-returns-for-2021/393552/",
+   "https://www.neptunecigar.com/cigar/hvc-la-rosa-maduro"
+  ],
+  "notes": "First sold in December 2018 as a 300-box Small Batch Cigar exclusive (4 1/2 x 52). Exquisitos and Mágicos followed in 2019, and Exquisitos returned in 2021 at 500 boxes of 10. Neptune lists medium; halfwheel's reviewer put it at medium-plus to medium-full.",
+  "verified": true,
+  "verifyNotes": "Removed the '500 boxes each' figure for the 2019 sizes from notes; halfwheel's 2019 report gives a different count. halfwheel lists Exquisitos as both 5 3/4 and 5 5/8 x 46; kept 5 3/4, which Neptune also uses."
+ },
+ {
+  "brand": "HVC",
+  "line": "La Rosa 520 Rare of Rare",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic (Criollo 98), Nicaragua (Esteli medio tiempo)",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "bread",
+   "black pepper",
+   "nuts",
+   "leather"
+  ],
+  "about": "A limited HVC belicoso rolled at El Titan de Bronze in Miami. It was the first HVC cigar made in the United States and the first to use Dominican and medio tiempo tobacco.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-la-rosa-520-rare-of-rare/420883/",
+   "https://halfwheel.com/hvc-turns-to-el-titan-de-bronze-for-la-rosa-520-rare-of-rare/404548/",
+   "https://www.neptunecigar.com/cigar/hvc-la-rosa-520"
+  ],
+  "notes": "Limited to 500 boxes of 10 and a completely different blend from the Nicaraguan La Rosa 520. Neptune lists medium; halfwheel's reviewer found medium to medium-plus. Neptune shows a 5 1/2 x 54 torpedo, while halfwheel reports a single 6 x 52 belicoso.",
+  "verified": true,
+  "verifyNotes": "Removed an unverified Cigars Direct strength claim from notes."
+ },
+ {
+  "brand": "HVC",
+  "line": "Pan Caliente",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Doble Corona",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "coffee",
+   "leather",
+   "dark chocolate",
+   "black pepper"
+  ],
+  "about": "A Nicaraguan puro of AGANORSA tobacco with a Criollo 98 wrapper, introduced in 2016. The name is Cuban slang for something that sells like hot cakes, and the line led to HVC's Hot Cake cigars.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/hvc-pan-caliente/118214/",
+   "https://halfwheel.com/hvc-moving-pan-caliente-to-tabsa-in-2019/287010/",
+   "https://halfwheel.com/hvc-pan-caliente-10th-anniversary-shipping-to-stores/476637/"
+  ],
+  "notes": "First made at Raíces Cubanas in Honduras. halfwheel reports it moved to TABSA in Nicaragua in 2019 and that HVC now makes its cigars at its own Esteli factory, but Neptune and Atlantic still list it as made in Honduras. The Hot Cake lines share the name but are different blends.",
+  "verified": true,
+  "verifyNotes": "Country and factory rest on halfwheel; both retailers still say Honduras, so notes now say that plainly. Swapped the Atlantic source for the halfwheel article that states the current factory."
+ },
+ {
+  "brand": "HVC",
+  "line": "Pan Caliente Cuban Sandwich",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (mixed short and long filler)",
+  "country": null,
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Extra",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Churchill",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A budget mixed-filler bundle cigar from HVC, sold in bundles of 25 under the Pan Caliente name. It pairs Nicaraguan short and long filler with an Ecuadorian Connecticut wrapper.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigar/hvc-pan-caliente-cuban-sandwich",
+   "https://atlanticcigar.com/hvc-pan-caliente-connecticut-bundles-robusto-5x50/"
+  ],
+  "notes": "Atlantic sells the same cigar as Pan Caliente Connecticut Bundles and also has a Maduro version. Neptune says it is made in Honduras at Raíces Cubanas; Atlantic says HVC's factory in Nicaragua. Neptune lists mild and a Habano binder, Atlantic mild-medium.",
+  "verified": false,
+  "verifyNotes": "Emptied flavors (no listed source gives tasting notes). Not marked verified: HVC's own site is offline and the two retailers disagree on country, factory, binder and strength. Mild is Neptune's word; Atlantic says mild-medium."
+ },
+ {
+  "brand": "HVC",
+  "line": "Pan Caliente 10th Anniversary",
+  "found": true,
+  "officialName": "Pan Caliente de HVC 10th Anniversary Limited Edition 2026",
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Peru (Pelo de Oro)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gloriosos",
+    "length": 6.875,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "pepper",
+   "espresso",
+   "sweetness"
+  ],
+  "about": "A 2026 limited edition marking ten years of HVC's Pan Caliente. It is an all-new blend and the first HVC cigar to use Peruvian tobacco.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-pan-caliente-10th-anniversary-shipping-to-stores/476637/",
+   "https://atlanticcigar.com/hvc-pan-caliente-10th-anniversary-limited-edition-2026-gloriosos-6-7-8x54/",
+   "https://www.neptunecigar.com/cigar/hvc-pan-caliente"
+  ],
+  "notes": "Limited to 500 boxes of 25 in a single 6 7/8 x 54 size. The blend is not the same as the regular Criollo 98 wrapped Pan Caliente.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "San Isidro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Esteli)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Geniales",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Hermoso",
+    "length": 4.25,
+    "ring": 54
+   },
+   {
+    "name": "Divinos",
+    "length": 6.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "cream",
+   "black pepper",
+   "bread"
+  ],
+  "about": "A box-pressed HVC line with an Ecuadorian Habano wrapper over Nicaraguan tobaccos, introduced in 2016. It is named for the Havana street where the gangster Alberto Yarini was killed in 1910.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/san-isidro/134438/",
+   "https://halfwheel.com/san-isidro-geniales/409173/",
+   "https://www.neptunecigar.com/cigar/hvc-san-isidro"
+  ],
+  "notes": "Neptune lists medium and Atlantic medium-full; halfwheel found it medium-full when new and medium on a 2022 revisit. Neptune marks the Hermoso as discontinued. Atlantic names HVC's own factory rather than TABSA.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "HVC",
+  "line": "Vieja Cosecha No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica de Tabacos Raíces Cubanas S. de R.L.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "espresso",
+   "cedar",
+   "earth",
+   "cocoa",
+   "spice"
+  ],
+  "about": "A limited HVC figurado made entirely of AGANORSA Nicaraguan tobacco from the 2010 harvest, aged five years. It followed the Vieja Cosecha No. 1, which used 2009 tobacco.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-vieja-cosecha-no-2/98670/",
+   "https://halfwheel.com/hvc-vieja-cosecha-no-2-returns/115114/",
+   "https://www.neptunecigar.com/cigar/hvc-vieja-cosecha-no-2"
+  ],
+  "notes": "First run was 200 boxes of 20, with 250 more boxes in 2016; Atlantic says it now comes back about once a year in small quantities. Neptune lists medium, Atlantic medium-full. Rolled in Honduras from Nicaraguan tobacco.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

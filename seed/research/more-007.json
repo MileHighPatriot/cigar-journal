@@ -1,0 +1,187 @@
+[
+ {
+  "brand": "Acid",
+  "line": "Subculture Beach",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Beach",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "herbs",
+   "sweetness"
+  ],
+  "about": "An infused ACID Subculture blend that Drew Estate makes only for Corona Cigar Company. It gets an extra year of aging and is described as mild to medium with a light sweetness.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/",
+   "https://www.coronacigar.com/acid-subculture-beach/"
+  ],
+  "notes": "Corona Cigar exclusive. The blend details come only from Corona Cigar, the sole seller; Drew Estate confirms the cigar and its 5 x 54 size but not the blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Acid",
+  "line": "Subculture Def Sea",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An infused Sumatra-wrapped figurado that Drew Estate makes as an exclusive for Cigars International. Drew Estate lists it in one 6 x 52 size.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/",
+   "https://www.cigarsdirect.com/products/drew-estate-acid-def-sea"
+  ],
+  "notes": "Cigars International exclusive, per Drew Estate. Blend details come from one reseller, Cigars Direct, which lists it as a mild to medium torpedo.",
+  "verified": false,
+  "verifyNotes": "The Cigars International page returns 403 to automated requests and could not be opened, so its link was removed. Strength changed from Medium to Mild-Medium and shape from Double Perfecto to Torpedo, the values on the Cigars Direct page I could open. Flavors (honey, jasmine, sugar cane) and the infusion claim removed as unconfirmed. Wrapper, binder and filler rest on Cigars Direct alone, a low-trust reseller, so this entry needs a human check against the CI page."
+ },
+ {
+  "brand": "Acid",
+  "line": "Subculture Kindred Spirit Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Kindred Spirit Connecticut",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "An infused Connecticut-wrapped cigar that Drew Estate makes as an exclusive for Thompson Cigar. Drew Estate lists it in one 6 x 54 size.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/",
+   "https://halfwheel.com/thompson-celebrates-100th-anniversary-with-drew-estate-padron-more/86135"
+  ],
+  "notes": "Thompson Cigar exclusive, per Drew Estate. Binder, filler and strength are not confirmed. The first Kindred Spirit, from 2015, was a 5 1/2 x 50 Cameroon robusto for the 100th anniversary of Thompson.",
+  "verified": false,
+  "verifyNotes": "The Thompson page returns 403 to automated requests and could not be opened, so its link was removed. Strength (was Medium), the Perfecto shape name and flavors (black cherry, sweetness) were set to null or empty because no page I could open states them. Drew Estate confirms the cigar, the 6 x 54 size and Thompson as seller; wrapper is taken from the name only. The 2015 history is confirmed on halfwheel."
+ },
+ {
+  "brand": "Acid",
+  "line": "Subculture Kindred Spirit Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Kindred Spirit Maduro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro version of the infused Kindred Spirit cigar that Drew Estate makes as an exclusive for Thompson Cigar. Drew Estate lists it in one 6 x 54 size.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/"
+  ],
+  "notes": "Thompson Cigar exclusive, per Drew Estate. The type and origin of the maduro wrapper, the binder, the filler and the strength are not confirmed.",
+  "verified": false,
+  "verifyNotes": "The Thompson page returns 403 to automated requests and could not be opened, so its link was removed. Strength (was Medium), filler (was Nicaragua), the Perfecto shape name and flavors were set to null or empty because no page I could open states them. Drew Estate confirms the cigar, the 6 x 54 size and Thompson as seller; wrapper is taken from the name only."
+ },
+ {
+  "brand": "Acid",
+  "line": "Opulence 3",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black cherry",
+   "cream",
+   "nuts",
+   "herbs",
+   "oak"
+  ],
+  "about": "An infused Drew Estate blend with a San Andrés maduro wrapper over Nicaraguan tobaccos, made as a web exclusive for Cigars International. The infusion is described as more subtle than on other ACID cigars.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/",
+   "https://mikescigars.com/brands/acid-opulence-3",
+   "https://www.cigarplace.biz/all-brands/acid-opulence-3.html"
+  ],
+  "notes": "Drew Estate lists it as a Cigars International web exclusive in multiple sizes. Blend details come from other retailers, not Drew Estate. Mike's Cigars lists it as medium, while Cigar Place calls it medium to full bodied.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: Drew Estate says \"Multiple Sizes\", not three; the three sizes come from Cigar Place. No field changes."
+ }
+]

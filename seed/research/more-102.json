@@ -1,0 +1,937 @@
+[
+ {
+  "brand": "Platinum Nova",
+  "line": "Royal Falcon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark spice",
+   "espresso",
+   "herbs"
+  ],
+  "about": "A full-bodied Dominican-made line from Platinum Nova, introduced at the 2026 PCA trade show. It is the first Platinum Nova blend offered in more than one size.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-royal-falcon",
+   "https://halfwheel.com/platinum-nova-begins-shipping-royal-falcon/476184/"
+  ],
+  "notes": "Maker lists the wrapper as H2000 Oscuro; halfwheel describes it as a dark Ecuadorian habano. Sold in boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Batch Toro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (HVA)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "ginger",
+   "cinnamon",
+   "spice"
+  ],
+  "about": "The 6 x 54 toro in Platinum Nova's Batch collection, with a dark San Andres wrapper over Dominican binder and filler. It joined the regular lineup in 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-batch-toro-single",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-batch-toro"
+  ],
+  "notes": "One size of the Batch collection; each Batch size is a different blend. Maker says Medium to Full, Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker page, halfwheel's 2019 report and Neptune. halfwheel's 2019 report named the factory Nova Cigars S.A.; kept Terranova because Neptune lists Terra Nova Cigars and halfwheel's later reports name Terranova as the company factory. No field changes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Batch Torpedo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "cream"
+  ],
+  "about": "The 6 x 54 torpedo in Platinum Nova's Batch collection, a Dominican blend under an Ecuadorian Habano 2000 wrapper. It joined the regular lineup in 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-batch-torpedo-single",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-batch-torpedo"
+  ],
+  "notes": "One size of the Batch collection; each Batch size is a different blend.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker page, halfwheel's 2019 report and Neptune. halfwheel's 2019 report named the factory Nova Cigars S.A.; kept Terranova because Neptune lists Terra Nova Cigars and halfwheel's later reports name Terranova as the company factory. No field changes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Batch Sweet Robusto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Criollo",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "sweetness"
+  ],
+  "about": "A mild 5 x 54 robusto in Platinum Nova's Batch collection with a Connecticut shade wrapper and a lightly sweetened tip. It is made in the Dominican Republic.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/robusto",
+   "https://www.neptunecigar.com/cigars/platinum-nova-batch-robusto",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617"
+  ],
+  "notes": "The cap is lightly sweetened. The maker only says Connecticut shade; the USA origin comes from Neptune. halfwheel's 2019 listing of the Batch Robusto showed an Ecuadorian Habano 2000 wrapper instead.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Maker's box page confirms Mild. Wrapper origin USA rests on Neptune alone. halfwheel's 2019 report named the factory Nova Cigars S.A.; Terranova kept on Neptune's listing."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Batch Robusto Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "leather",
+   "pepper"
+  ],
+  "about": "A Nicaraguan puro robusto in Platinum Nova's Batch collection, introduced at the 2022 PCA trade show. It was the first Nicaraguan-made cigar in the Batch series.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-batch-robusto-nicaragua-1",
+   "https://www.neptunecigar.com/cigars/platinum-nova-batch-robusto-nicaragua",
+   "https://cigar-coop.com/2022/08/pca-2022-report-platinum-nova-cigars.html"
+  ],
+  "notes": "Made in Nicaragua, not at the Dominican factory. Neptune lists El Puente Cigars as the factory, but halfwheel says the Toro in this blend is made at Barrera Cigars in Esteli, so the factory is left blank. Neptune calls the wrapper a maduro and lists strength as Full.",
+  "verified": true,
+  "verifyNotes": "Reworded notes only. halfwheel's PCA 2022 report confirms the Jalapa wrapper, 5 x 54 size and regular production."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Batch Toro Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Barrera Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper"
+  ],
+  "about": "The 6 x 54 toro version of Platinum Nova's Batch Nicaragua blend, a Nicaraguan puro added at the 2024 PCA trade show. It is made in Esteli, Nicaragua.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-batch-toro-nicaragua-single",
+   "https://halfwheel.com/platinum-nova-adding-platinum-batch-toro-nicaragua-at-pca-2024/434909/"
+  ],
+  "notes": "Same blend as the Batch Robusto Nicaragua in a larger size. halfwheel names Barrera Cigars in Esteli as the factory and Jalapa as the wrapper region; the maker's page only says Nicaragua.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "484 DR",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Dominican Republic (Olor)",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "484",
+    "length": 4,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness",
+   "spice",
+   "coffee"
+  ],
+  "about": "The Dominican version of Platinum Nova's 484, a short 4 x 48 cigar sold in soft packs of four. The name comes from the 48 x 4 size.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-cigar-484-4-pack",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-484-dr",
+   "https://cigar-coop.com/2021/07/cigar-news-platinum-nova-484-showcased-at-2021-pca-trade-show.html"
+  ],
+  "notes": "Maker calls it Medium Plus; Neptune's spec table says Medium. The 484 comes in two blends, this Dominican one and a Nicaraguan one.",
+  "verified": true,
+  "verifyNotes": "No field changes. Medium-Full is the reading of the maker's Medium Plus; Neptune's text says medium to full, its spec table Medium."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "484 Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Esteli)",
+  "filler": "Nicaragua (Jalapa)",
+  "country": "Nicaragua",
+  "factory": "El Puente Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "484",
+    "length": 4,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "spice"
+  ],
+  "about": "The Nicaraguan version of Platinum Nova's 484, a short 4 x 48 cigar sold in soft packs of four. It was among the company's first cigars made in Nicaragua.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-484-nicaragua-4-pack",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-484-nicaragua",
+   "https://cigar-coop.com/2021/07/cigar-news-platinum-nova-484-showcased-at-2021-pca-trade-show.html"
+  ],
+  "notes": "Made in Nicaragua; the factory name comes from Neptune only. The Esteli binder and Jalapa filler regions come from Cigar Coop; the maker just says Nicaragua. There is also a Dominican 484.",
+  "verified": true,
+  "verifyNotes": "No field changes. Factory rests on Neptune alone; binder and filler regions on Cigar Coop alone."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "5 Boroughs",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Colombia (Cubita), Corojo (double binder)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "wood"
+  ],
+  "about": "A 7 x 50 Churchill from Platinum Nova named for the five boroughs of New York City. It was the company's first cigar to use a double binder.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/5-boroughs-2",
+   "https://halfwheel.com/pca-2023-nova-cigar/425460/",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-5-boroughs"
+  ],
+  "notes": "Double binder: halfwheel lists Colombian Cubita plus a Corojo of undisclosed origin. Sold in boxes of five, each cigar named for a New York borough, all the same blend.",
+  "verified": true,
+  "verifyNotes": "Added halfwheel's PCA 2023 report, which confirms 7 x 50, a July 2023 release and regular production. Binder now gives Cubita as Colombian per halfwheel. Replaced the note about the maker-site date."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Champion Football",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness",
+   "spice",
+   "coffee"
+  ],
+  "about": "A 5 x 70 perfecto from Platinum Nova shaped and decorated to look like a football. It has a Habano 2000 wrapper over Dominican binder and filler.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/nova-champion-football-cigars-70-x-5-stick",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-champion-football-cigars"
+  ],
+  "notes": "halfwheel and Neptune call it a limited release of 250 boxes of 11, though the maker still sells it. halfwheel listed it as Champion Series Football with an Ecuadorian Habano 2000 CT wrapper.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Wrapper origin Ecuador comes from halfwheel and Neptune; the maker page only says Habano 2000."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "leather",
+   "earth"
+  ],
+  "about": "A 5 1/2 x 50 robusto from Platinum Nova's core lineup with an Ecuadorian Habano 2000 wrapper over Dominican binder and filler. It debuted with the regular production range in 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/classic",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-classic"
+  ],
+  "notes": "Maker rates it Mild to Medium and also calls it medium bodied; Neptune's spec table says Medium.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker page, halfwheel's 2019 report and Neptune. halfwheel's 2019 report named the factory Nova Cigars S.A.; kept Terranova because Neptune lists Terra Nova Cigars and halfwheel's later reports name Terranova as the company factory. No field changes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Club Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "spice",
+   "nuts",
+   "dried fruit"
+  ],
+  "about": "A 6 x 50 toro from Platinum Nova with a dark, double-fermented Ecuadorian oscuro wrapper over Dominican tobaccos. It debuted with the regular production range in 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/club-edition",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-club-edition"
+  ],
+  "notes": "Maker says Medium to Full; Neptune lists Full.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker page, halfwheel's 2019 report and Neptune. halfwheel's 2019 report named the factory Nova Cigars S.A.; kept Terranova because Neptune lists Terra Nova Cigars and halfwheel's later reports name Terranova as the company factory. No field changes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Congress",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 CT",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cinnamon",
+   "leather",
+   "spice"
+  ],
+  "about": "A 7 x 43 pigtail lancero from Platinum Nova with a light chestnut Ecuadorian wrapper over Dominican binder and filler. The maker pitches it as a creamy morning cigar.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/congress",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-congress"
+  ],
+  "notes": "Maker bills it as light and creamy but also calls it medium bodied; Neptune lists Medium. Maker gives the wrapper as H2000 CT Ecuador; Neptune's spec table says Ecuadorian Connecticut Shade.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Strength Mild is the reading of the maker's Light and Creamy label (the maker uses Light and Mild interchangeably on the Batch Sweet Robusto pages). halfwheel's 2019 report named the factory Nova Cigars S.A.; Terranova kept on Neptune's listing."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Leo 11",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Habano)",
+  "filler": "Nicaragua (Jalapa Habano)",
+  "country": "Nicaragua",
+  "factory": "El Puente Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "chocolate",
+   "spice"
+  ],
+  "about": "A full-bodied 6 x 54 toro released in 2021 as the follow-up to Leo X, the cigar that marked CEO Leonor \"Leo\" Abzaradel's tenth year in the business. It was the company's first cigar made in Nicaragua.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-cigar-leo-11-54-x-6",
+   "https://halfwheel.com/nova-cigar-releasing-leo-11-edition-limitada-nicaragua-at-pca-2021/394955/",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-leo-x"
+  ],
+  "notes": "halfwheel announced it as a limited edition in boxes of 11, but its show report listed regular production and the maker still sells it. The factory name comes from Neptune only; halfwheel said the Nicaraguan factory was undisclosed.",
+  "verified": true,
+  "verifyNotes": "Swapped Cigar Coop for halfwheel's announcement, which confirms the size, wrapper, Nicaragua and a July 2021 release. Binder and filler now carry halfwheel's Jalapa habano detail. Rewrote about and notes; production left limited but sources conflict."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Leo 12",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "spice",
+   "leather",
+   "cedar"
+  ],
+  "about": "A medium-bodied 6 1/4 x 56 cigar launched at the 2022 PCA trade show to mark CEO Leonor \"Leo\" Abzaradel's 12th year in the business. Unlike the Leo 11, it is made in the Dominican Republic.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/platinum-nova-leo-13",
+   "https://halfwheel.com/pca-2022-nova-cigar/409579/",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-leo-12"
+  ],
+  "notes": "halfwheel listed it as regular production in boxes of 12 and the maker still sells it; Neptune and Cigar Coop call it a limited edition. The factory name comes from Neptune.",
+  "verified": true,
+  "verifyNotes": "Changed production from limited to regular: halfwheel's PCA 2022 report says Regular Production and outranks the retailer. Swapped Cigar Coop for that halfwheel page and rewrote notes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Mirage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "white pepper",
+   "dark chocolate"
+  ],
+  "about": "A 6 x 60 big ring gauge cigar from Platinum Nova with a dark Ecuadorian Sumatra wrapper over Dominican binder and filler. It debuted with the regular production range in 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/mirage",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-mirage"
+  ],
+  "notes": "Maker says Medium to Full; Neptune's spec table says Medium.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker page, halfwheel's 2019 report and Neptune. halfwheel's 2019 report named the factory Nova Cigars S.A.; kept Terranova because Neptune lists Terra Nova Cigars and halfwheel's later reports name Terranova as the company factory. No field changes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Sultan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box Pressed Torpedo",
+    "length": 6.25,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cream",
+   "sweetness"
+  ],
+  "about": "A box-pressed 6 1/4 x 55 torpedo from Platinum Nova with a dark Mexican San Andres wrapper over Dominican binder and filler. It debuted with the regular production range in 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/sultan",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-sultan"
+  ],
+  "notes": "Maker says Medium to Full; Neptune lists Full. Flavor words come from Neptune, since the maker publishes none.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker page, halfwheel's 2019 report and Neptune. halfwheel's 2019 report named the factory Nova Cigars S.A.; kept Terranova because Neptune lists Terra Nova Cigars and halfwheel's later reports name Terranova as the company factory. No field changes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Trappist 1G",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Broadleaf",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Terranova Cigar Factory SRL",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 7.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "pepper"
+  ],
+  "about": "A 7 1/4 x 54 torpedo from Platinum Nova introduced at the 2023 PCA trade show. It is named after the exoplanet Trappist-1g, whose color resembles the brand's signature shade.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.novacigar.com/products/trappist-1-g",
+   "https://halfwheel.com/platinum-nova-trappist-1g-debuting-at-pca-2023/425132/",
+   "https://www.neptunecigar.com/cigars/platinum-nova-series-trappist-1g"
+  ],
+  "notes": "Maker lists a broadleaf binder and Dominican filler; halfwheel reported the reverse, a Dominican binder and Pennsylvania broadleaf filler. Maker says Medium to Full; Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Limited Edition Corona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "pepper",
+   "cedar",
+   "nuts",
+   "dried fruit"
+  ],
+  "about": "A 5 x 43 pigtail corona from Platinum Nova's Limited Edition series, the company's first releases, which shipped in early 2019. It pairs an Ecuadorian wrapper with Dominican binder and filler.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/corona",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-corona"
+  ],
+  "notes": "One of six Limited Edition sizes, each its own blend; halfwheel reported 3,000 cigars per size in boxes of 12. Maker writes the wrapper as Ecuador 2000, its shorthand for Habano 2000 on other lines. Maker rates it Medium to Full and also calls it medium bodied; Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": "No source says Habano for this wrapper: maker says Ecuador 2000, Neptune says Ecuadorian 2000 Colorado. Kept Habano 2000 on the maker's shorthand and said so in notes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Limited Edition Legacy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (Esteli)",
+  "filler": "Dominican Republic (Dominican 98)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box Pressed",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "anise",
+   "coffee",
+   "cinnamon",
+   "molasses",
+   "nuts"
+  ],
+  "about": "A box-pressed 5 1/2 x 52 cigar from Platinum Nova's Limited Edition series, which first shipped in early 2019. It uses a Habano 2000 wrapper, a Nicaraguan Esteli binder and Dominican filler.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/legacy",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-legacy"
+  ],
+  "notes": "One of six Limited Edition sizes, each its own blend; halfwheel reported 3,000 cigars per size in boxes of 12. Maker calls it Medium Plus; Neptune lists Medium. The wrapper's country of origin is not published.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Confirmed the maker does not publish the wrapper's origin. Neptune's spec table calls the shape round; the maker says box pressed."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Limited Edition Park Avenue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Esteli)",
+  "filler": "Dominican Republic (Dominican 98)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Park Avenue",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "nuts",
+   "dark chocolate",
+   "pepper",
+   "cedar",
+   "almond"
+  ],
+  "about": "A 6 1/4 x 54 cigar from Platinum Nova's Limited Edition series, which first shipped in early 2019. It has an Ecuadorian wrapper over a Nicaraguan Esteli binder and Dominican filler.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/park-ave",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-park-avenue"
+  ],
+  "notes": "One of six Limited Edition sizes, each its own blend; halfwheel reported 3,000 cigars per size in boxes of 12. Maker writes the wrapper as Ecuador 2000, its shorthand for Habano 2000 on other lines. Maker says Medium to Full; Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": "No source says Habano for this wrapper: maker says Ecuador 2000, Neptune says Ecuadorian 2000 Colorado. Kept Habano 2000 on the maker's shorthand and said so in notes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Limited Edition Perfecto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Rojiza 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (Dominican 98)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 4.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "sweetness"
+  ],
+  "about": "A short 4 1/2 x 56 perfecto from Platinum Nova's Limited Edition series, which first shipped in early 2019. It uses a Nicaraguan Rojiza 2000 wrapper and binder over Dominican filler.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/perfecto",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-perfecto"
+  ],
+  "notes": "One of six Limited Edition sizes, each its own blend; halfwheel reported 3,000 cigars per size in boxes of 12. Maker says Medium to Full; Neptune lists Medium. The maker calls the wrapper Rojiza 2000 and does not name the seed.",
+  "verified": true,
+  "verifyNotes": "Wrapper category Habano is inferred from the maker's 2000 shorthand; Neptune glosses Rojiza as Colorado. Said so in notes."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Limited Edition Toro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Piloto)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "nuts",
+   "dried fruit",
+   "leather",
+   "cinnamon",
+   "spice"
+  ],
+  "about": "A 6 x 50 toro from Platinum Nova's Limited Edition series, which first shipped in early 2019. It has a dark San Andres wrapper over a Dominican Piloto binder and Dominican filler.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/toro",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-toro"
+  ],
+  "notes": "One of six Limited Edition sizes, each its own blend; halfwheel reported 3,000 cigars per size in boxes of 12. Maker says Medium to Full; Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes only."
+ },
+ {
+  "brand": "Platinum Nova",
+  "line": "Limited Edition Torpedo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 5.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark fruit",
+   "cream"
+  ],
+  "about": "A 5 1/2 x 55 torpedo from Platinum Nova's Limited Edition series, which first shipped in early 2019. It has a Habano 2000 wrapper over Dominican binder and filler.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.novacigar.com/products/torpedo",
+   "https://halfwheel.com/ipcpr-2019-nova-cigars/363617",
+   "https://www.neptunecigar.com/cigars/platinum-nova-torpedo"
+  ],
+  "notes": "One of six Limited Edition sizes, each its own blend; halfwheel reported 3,000 cigars per size in boxes of 12. The wrapper's country of origin is not published.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes only. Confirmed the maker does not publish the wrapper's origin."
+ }
+]

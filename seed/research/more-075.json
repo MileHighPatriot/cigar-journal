@@ -1,0 +1,687 @@
+[
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Porcelain",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "chili",
+   "cedar",
+   "herbs",
+   "cream",
+   "citrus"
+  ],
+  "about": "The Connecticut-wrapped cigar in Black Label Trading Co.'s core line, made at the company's own Fabrica Oveja Negra in Esteli. It is known as a spicier, fuller take on a Connecticut than the style usually gives.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/bltc-notes",
+   "https://halfwheel.com/black-label-trading-co-adding-a-trio-of-toros/466444/",
+   "https://halfwheel.com/black-label-trading-co-deliverance-porcelain-corona-gorda/298234/"
+  ],
+  "notes": "Debuted in December 2018 as a limited Deliverance Porcelain and joined the core line in 2019. Halfwheel lists the wrapper as Ecuadorian Connecticut seed; the maker only says Connecticut and Neptune lists US Connecticut Shade.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Santa Muerte",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Dominican Republic, Mexico (San Andrés)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Petite Lancero",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "malt",
+   "cocoa",
+   "baking spice",
+   "wood"
+  ],
+  "about": "A Day of the Dead themed cigar from Black Label Trading Co. with an Ecuadorian habano wrapper and six filler tobaccos. It started as an annual limited edition and became part of the core line in 2023.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-debuting-release-of-santa-muerte-to-core-line-at-tpe-2023",
+   "https://halfwheel.com/black-label-trading-co-bringing-back-santa-muerte-at-tpe-2023/420191/",
+   "https://ovejanegracigars.com/pages/bltc-notes"
+  ],
+  "notes": "Limited annual release from 2016 to 2019, then relaunched in 2023 as regular production with new white packaging. The maker rates it medium; Neptune lists it as full and Cigars Direct as medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Coffin Nails",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "earth",
+   "star anise",
+   "pepper",
+   "baking spice",
+   "cream"
+  ],
+  "about": "A small 5 x 40 petite corona from Black Label Trading Co., sold in flip-top boxes of 10. The idea was a big, bold cigar in a small format.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-announces-shipment-of-coffin-nails-to-select-retailers",
+   "https://halfwheel.com/black-label-trading-co-releasing-coffin-nails-this-week/441431/",
+   "https://ovejanegracigars.com/pages/bltc-notes"
+  ],
+  "notes": "The maker's tasting notes page lists an Ecuadorian binder and all-Nicaraguan filler, while its press release and halfwheel give a Honduran binder with Nicaraguan and Honduran filler. The maker rates it medium-plus to full; Neptune lists it as medium and Cigars Direct as full.",
+  "verified": true,
+  "verifyNotes": "Added to notes that Cigars Direct lists it as full. All other fields confirmed against the maker and halfwheel."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Macabre",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "floral",
+   "spice"
+  ],
+  "about": "A limited release from Black Label Trading Co. that debuted at the 2026 PCA trade show, with a San Andrés wrapper and a rabito cap on every size. Production was 800 boxes each of the Robusto and Toro and 650 of the Corona Gorda.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-co-debuting-macbre-at-pca-in-new-orleans",
+   "https://www.cigarsdirect.com/products/black-label-trading-co-macabre-robusto",
+   "https://halfwheel.com/black-label-trading-co-macabre-corona-gorda/473902/"
+  ],
+  "notes": "Cigars Direct lists it as medium-full and Atlantic Cigar as full, but halfwheel's reviewer found the strength only mild to medium. The maker gives no strength rating. The maker and halfwheel give the Toro as 6 x 50; Neptune lists it as 6 x 48.",
+  "verified": true,
+  "verifyNotes": "Strength rests on one retailer (Cigars Direct); Atlantic lists full and the maker gives none, now said in notes. Swapped the halfwheel news link for the Cigars Direct page the strength comes from."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Orthodox",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "dark fruit",
+   "cherry",
+   "raisin",
+   "star anise"
+  ],
+  "about": "A small batch 2024 release from Black Label Trading Co., offered to retailers who attended that year's PCA trade show. The maker describes it as a return to the brand's roots of bold Nicaraguan tobacco.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-co-begins-shipping-limited-release-orthodox-next-week",
+   "https://www.neptunecigar.com/cigar/black-label-trading-company-orthodox",
+   "https://halfwheel.com/black-label-trading-co-orthodox-corona-gorda/442276/"
+  ],
+  "notes": "Limited to 900 boxes of each size. Neptune and Cigars Direct list it as full and the maker calls it one of its boldest blends, but halfwheel's reviewer found the nicotine strength only mild to medium.",
+  "verified": true,
+  "verifyNotes": "No field changes. Swapped the halfwheel news link for the Neptune page that gives the strength."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Eletto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.25,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "spice",
+   "star anise"
+  ],
+  "about": "A 2025 limited release from Black Label Trading Co. made to mark the 10th anniversary of its factory, Fabrica Oveja Negra. The name is Italian for chosen one.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-announces-the-shipment-of-eletto-to-select-retailers",
+   "https://www.cigarsdirect.com/products/black-label-trading-co-eletto-toro",
+   "https://halfwheel.com/black-label-trading-co-eletto-toro/454149/"
+  ],
+  "notes": "800 boxes each of the Short Robusto and Toro and 400 of the Corona Gorda. Cigars Direct lists it as medium-full and Atlantic Cigar as full, but halfwheel's reviewer found the strength mild to just under medium. The maker gives no strength rating.",
+  "verified": true,
+  "verifyNotes": "Strength rests on one retailer (Cigars Direct); Atlantic lists full, now said in notes. Swapped the halfwheel news link for the Cigars Direct page the strength comes from."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Deliverance Nocturne",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua, USA (Pennsylvania ligero)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Short Salomon Snub Nose",
+    "length": 4.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "citrus",
+   "chocolate",
+   "pepper"
+  ],
+  "about": "A limited Pennsylvania broadleaf cigar from Black Label Trading Co. that has traditionally come only in figurado shapes. It returns every few years and is one of the brand's most requested blends.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-announces-shipment-of-deliverance-nocturne-to-select-retailers",
+   "https://halfwheel.com/deliverance-nocturne-returns-for-2025/456915/",
+   "https://www.neptunecigar.com/cigar/black-label-trading-company-deliverance-nocturne"
+  ],
+  "notes": "Sizes shown are the 2025 release, the first since 2020 and the first with straight-sided Robusto and Toro sizes. The Short Salomon tapers from 40 to 56 ring. Neptune lists it as full; Cigars Direct lists it as medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Morphine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés and Ecuadorian Maduro (dual wrapper)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico and Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro Box Press",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7.25,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "oak",
+   "charred meat",
+   "cinnamon",
+   "fudge"
+  ],
+  "about": "A near-annual limited release from Black Label Trading Co. that first appeared in 2014. Recent versions use two wrapper leaves, San Andrés and Ecuadorian maduro, rolled in a subtle barber pole.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-announces-shipment-of-morphine",
+   "https://www.neptunecigar.com/cigar/black-label-trading-company-morphine",
+   "https://halfwheel.com/black-label-trading-co-morphine-10-year-anniversary-toro-box-press/447103/"
+  ],
+  "notes": "Sizes and blend shown are the 10th anniversary release shipped in November 2024; the blend and sizes have been tweaked from year to year. Retailers list it as full, while halfwheel's reviewer put the strength at medium-full.",
+  "verified": true,
+  "verifyNotes": "No field changes. Swapped the halfwheel news link for the Neptune page that gives the strength (Cigars Direct also lists full)."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Super Deluxe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona Box Press",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto Box Press",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Box Press",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "dark fruit",
+   "star anise"
+  ],
+  "about": "A box-pressed San Andrés limited release from Black Label Trading Co. that debuted in 2020 and came back for a second run in 2025. The maker calls it the most requested cigar in the brand's history.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-announces-shipment-of-super-deluxe-to-select-retailers",
+   "https://halfwheel.com/black-label-trading-co-super-deluxe-returns-for-2025/447265/",
+   "https://halfwheel.com/black-label-trading-co-super-deluxe-lancero/382622/"
+  ],
+  "notes": "Sizes shown are the 2025 release, 750 boxes of each. The 2020 original came as a petite corona, a 5 1/4 x 52 robusto and a 7 x 42 lancero. Cigars Direct describes it as medium-full but also tags it full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "La Madonna Negra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Rothschild Box Press",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Corona Gorda Box Press",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Box Press",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "espresso",
+   "black pepper",
+   "dark chocolate",
+   "floral",
+   "spice"
+  ],
+  "about": "The 10th anniversary cigar of Black Label Trading Co., released in 2023 in three box-pressed sizes. It pairs a Connecticut broadleaf wrapper with Nicaraguan and Pennsylvania filler.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-releases-10-year-anniversary-cigar-la-madonna-negra",
+   "https://halfwheel.com/black-label-trading-co-celebrates-10th-anniversary-with-la-madonna-negra/424177/",
+   "https://halfwheel.com/la-madonna-negra-robusto-box-press/429039/"
+  ],
+  "notes": "Limited to 900 boxes of each size, plus 50 mixed 32-count collection boxes. Strength is from Cigars Direct and halfwheel's review, not the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Last Rites Viaticum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Habano)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 6.75,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "earth",
+   "floral",
+   "spice"
+  ],
+  "about": "A limited offshoot of Black Label Trading Co.'s Last Rites blend that uses most of the same tobaccos in different proportions and primings. All sizes are box pressed.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-releasing-viaticum-to-select-retailers",
+   "https://halfwheel.com/black-label-trading-co-shipping-viaticum-this-month/400203/",
+   "https://halfwheel.com/black-label-trading-co-adding-last-rites-viaticum-at-ipcpr-2019/360827/"
+  ],
+  "notes": "First released in 2019 as a single 5 x 54 robusto for trade show retailers (500 boxes), then in 2021 in three sizes at 800 boxes each. The maker now usually calls it just Viaticum and gives no strength rating. Cigars Direct lists it as full, while Cigar Coop's review found it medium.",
+  "verified": true,
+  "verifyNotes": "Strength left null: the maker publishes none and the only two ratings found disagree (Cigars Direct full, Cigar Coop review medium). Notes updated to say so."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Memento Mori",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dried fruit",
+   "cocoa",
+   "white pepper",
+   "cinnamon"
+  ],
+  "about": "A dark Pennsylvania broadleaf cigar from Black Label Trading Co. that began as a factory exclusive at Fabrica Oveja Negra and reached stores in March 2022. The name is Latin for remember you must die.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-releasing-memento-mori-next-month",
+   "https://halfwheel.com/black-label-trading-co-memento-mori-shipping-in-early-march/405362/",
+   "https://halfwheel.com/black-label-trading-co-memento-mori-corona/408249/"
+  ],
+  "notes": "Limited to 850 boxes of each size for the US. Strength and body are from halfwheel's review, not the maker. Cigars Direct lists it as full.",
+  "verified": true,
+  "verifyNotes": "Added to notes that Cigars Direct lists it as full. All other fields confirmed."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Bishops Blend Novemdiales",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, USA (Pennsylvania, Connecticut Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark fruit",
+   "spice",
+   "star anise"
+  ],
+  "about": "A 2023 special edition of Black Label Trading Co.'s Bishops Blend, made for the brand's 10th anniversary. It swaps the usual Ecuadorian maduro wrapper for Pennsylvania broadleaf.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-announces-release-of-bishops-blend-novemdiales-to-select-retailers",
+   "https://halfwheel.com/black-label-trading-co-ships-bishops-blend-novemdiales/429362/",
+   "https://halfwheel.com/black-label-trading-co-bishops-blend-novemdiales-robusto/432430/"
+  ],
+  "notes": "A one-time variant of the regular Bishops Blend limited release, 900 boxes of each size. Strength and body are from halfwheel's review, not the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Benediction",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "One of Black Label Trading Co.'s original 2013 core lines, shelved in 2019 when Porcelain took its place. It came back in December 2021 as a tweaked Nicaraguan puro sold only at Smokers Abbey shops.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/black-label-trading-company-announces-release-of-benediction-smokers-abbey-exclusive",
+   "https://halfwheel.com/black-label-trading-co-s-benediction-returns-as-smokers-abbey-exclusive/402836/",
+   "https://halfwheel.com/black-labels-new-core-line-packaging-to-debut-at-ipcpr-2019/360484/"
+  ],
+  "notes": "Blend and sizes shown are the 2021 Smokers Abbey exclusive (Austin, Memphis, Nashville), 150 boxes per size per store. It is no longer a core line. The maker gives no strength rating; Neptune described the original as medium bodied.",
+  "verified": true,
+  "verifyNotes": "Strength left null: the maker's press release and halfwheel give none. Notes corrected, since Neptune does describe the original blend as medium bodied."
+ }
+]

@@ -1,0 +1,535 @@
+[
+ {
+  "brand": "Quesada",
+  "line": "1974",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon-seed",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 43
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cedar",
+   "fruit",
+   "nuts"
+  ],
+  "about": "A regular-production Quesada line named for the year the family started making its own cigars after generations as leaf brokers. It is known for an uncommon Cameroon-seed wrapper grown in Ecuador, and Quesada grew the Dominican tobacco in it.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/quesada-1974-lancero-2/394224/",
+   "https://halfwheel.com/quesada-1974-toro-debuting-at-pca-2021/395921/",
+   "https://www.neptunecigar.com/cigar/quesada-1974"
+  ],
+  "notes": "Retailers list the wrapper only as Ecuadorian; halfwheel specifies Cameroon-seed. It went on sale in Spain in February 2019 and reached the U.S. that fall. The Toro was added in 2021.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Quesada",
+  "line": "50th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Peru",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Prensado",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Perfecto",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "bread",
+   "black pepper",
+   "cream",
+   "nuts",
+   "wood",
+   "toast"
+  ],
+  "about": "A limited edition released in 2024 to mark 50 years since the Quesada family opened its cigar factory in the Dominican Republic. It came in a box-pressed toro and a much scarcer perfecto, both in boxes of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/quesada-50th-anniversary-toro-prensado/443840/",
+   "https://www.neptunecigar.com/cigar/quesada-50th-anniversary"
+  ],
+  "notes": "About 2,000 to 2,200 boxes of the Toro Prensado and only 200 boxes of the Perfecto were made. Neptune lists it as medium with a maduro-colored wrapper; halfwheel found the nicotine strength mild.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Quesada",
+  "line": "Don Manolo 79",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Honduras",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited edition marking Manolo Quesada Jr.'s 79th birthday, blended by his daughters Raquel and Patricia. It is the third Quesada birthday cigar and the first one he did not blend himself.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/quesada-don-manolo-79-scheduled-for-august/466273/",
+   "https://halfwheel.com/pca-2026-quesada-cigars/465664/",
+   "https://www.neptunecigar.com/cigar/quesada-don-manolo-79"
+  ],
+  "notes": "Limited to 1,000 boxes of 10, with 700 for the U.S. Neptune lists the filler as Dominican only; halfwheel says Dominican and Nicaraguan. Medium and the Colorado wrapper shade are Neptune's listing; the wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Wrapper category Colorado rests only on Neptune's wrapper color field. halfwheel had it scheduled for stores in August 2026; Neptune lists it but shows it unavailable."
+ },
+ {
+  "brand": "Quesada",
+  "line": "Manolo Quesada 75th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 6.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "cream",
+   "wood",
+   "nuts"
+  ],
+  "about": "A single-size limited edition from 2022 that Manolo Quesada Jr. blended for his own 75th birthday. It followed the Manuel Quesada 70th and came in numbered boxes of 10.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/manolo-quesada-75th-anniversary-limited-edition/417361/",
+   "https://halfwheel.com/manolo-quesada-75th-anniversary-heads-to-stores/412906/",
+   "https://cigar-coop.com/2023/05/cigar-review-manolo-quesada-75th-anniversary-by-manolo-quesada.html"
+  ],
+  "notes": "The shipping announcement said 1,200 numbered boxes of 10; halfwheel's review table says 1,500. Cigar Coop and Mike's Cigars rate it medium, while halfwheel found it mild to medium. Neptune describes the filler as Nicaraguan only.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild-Medium to Medium: Mike's Cigars and Cigar Coop both list medium, and only halfwheel's review reads milder. Swapped the halfwheel redux link for the Cigar Coop review and updated notes."
+ },
+ {
+  "brand": "Quesada",
+  "line": "Holiday Keg",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A seasonal limited release for the winter holidays, a spin-off of the St. Patrick's Day Keg. It is a single toro sold in small wooden boxes shaped like barrels.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/quesada-holiday-keg-returning-for-2022/415386/",
+   "https://halfwheel.com/quesada-adding-holiday-keg/132487/",
+   "https://www.neptunecigar.com/cigar/quesada-holiday-keg"
+  ],
+  "notes": "The blend shown is the 2022 edition, limited to 500 boxes in the U.S. The 2016 original used a Dominican wrapper, which is what Neptune still lists (Dominican Corojo). Medium is Neptune's rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Quesada",
+  "line": "Keg",
+  "found": true,
+  "officialName": "Keg Edition",
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cocoa",
+   "earth",
+   "leather",
+   "raisin",
+   "anise"
+  ],
+  "about": "A St. Patrick's Day limited edition blended to pair with Irish stout and packed in wooden kegs. Plasencia rolls it in Nicaragua, which made it the first Quesada-branded cigar produced outside the family's Dominican factory.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/quesada-keg-edition/79380/",
+   "https://halfwheel.com/quesada-keg-edition-returns-2017-adds-belicoso/136644/",
+   "https://www.neptunecigar.com/cigar/quesada-keg"
+  ],
+  "notes": "Editions came out in 2015 (toro only), 2016 and 2017, all with the same blend. Neptune shows it sold out and not expected back. Medium is Neptune's rating; halfwheel's 2015 review found it milder.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Quesada",
+  "line": "Reserva Privada Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic (Criollo, 1997 crop)",
+  "filler": "Dominican Republic (San Vicente), USA (Pennsylvania ligero)",
+  "country": "Dominican Republic",
+  "factory": "Quesada Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "Double Corona",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toast",
+   "nuts",
+   "wood",
+   "pepper",
+   "citrus"
+  ],
+  "about": "The broadleaf-wrapped follow-up to the Quesada Reserva Privada, built around a Dominican criollo binder from the 1997 harvest. It uses more Pennsylvania ligero than the original and smokes stronger than most Quesadas.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/quesada-ships-reserva-privada-oscuro/115489/",
+   "https://halfwheel.com/quesada-reserva-privada-oscuro-double-corona/120600/",
+   "https://www.neptunecigar.com/cigar/quesada-reserva-privada-oscuro"
+  ],
+  "notes": "Launched as a limited edition of 1,400 boxes per size; the Robusto was a TAA exclusive. Neptune rates it full and now marks it discontinued. halfwheel called it medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Quesada",
+  "line": "Reserva Privada Barber-Pole",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut and Dominican Criollo 98 Oscuro (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador, Dominican Republic",
+  "binder": "Dominican Republic (Criollo, 1997 crop)",
+  "filler": "Dominican Republic (San Vicente), USA (Pennsylvania ligero)",
+  "country": "Dominican Republic",
+  "factory": "Quesada Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.625,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cocoa",
+   "nuts",
+   "cream",
+   "earth",
+   "cherry"
+  ],
+  "about": "A two-tone version of the Quesada Reserva Privada with a light and a dark wrapper leaf twisted together over the line's 1997-crop Dominican binder. It began as a Procigar charity auction cigar before going on sale in 2017.",
+  "released": 2017,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/quesada-reserva-privada-barber-pole-corona-gorda/173784/",
+   "https://halfwheel.com/ipcpr-2017-quesada/148305/",
+   "https://www.neptunecigar.com/cigar/quesada-reserva-privada-barber-pole"
+  ],
+  "notes": "Sources disagree on the wrappers: halfwheel says Ecuadorian Connecticut and Dominican Criollo 98 Oscuro, Neptune says U.S. Connecticut shade and broadleaf. Neptune also rates it full; halfwheel found it medium. Launched as 300 boxes per size but still stocked in 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Quesada",
+  "line": "Suspiro Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-seed (growing country undisclosed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "One of two sweet-capped blends Quesada introduced in 2026 under the Suspiro name, which is a Spanish meringue dessert and also means sigh. This one wears a Connecticut-seed wrapper and comes in boxes of 15.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/quesada-suspiro-arriving-at-retailers/476537/",
+   "https://halfwheel.com/sweet-capped-quesada-suspiro-shipping-in-april/465650/",
+   "https://halfwheel.com/pca-2026-quesada-cigars/465664/"
+  ],
+  "notes": "The cap is sweetened. Quesada has not said where the Connecticut-seed wrapper is grown, and no strength rating or tasting notes were published in the sources checked. It reached stores in August 2026.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country, factory and sizes confirmed on halfwheel. Strength left null: none of the three halfwheel pages gives one, the maker's site did not load, and no retailer listing was found, so it is not confirmed either way."
+ },
+ {
+  "brand": "Quesada",
+  "line": "Suspiro Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon-seed",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The darker of the two sweet-capped Suspiro blends Quesada introduced in 2026. It uses a Cameroon-seed wrapper grown in Ecuador over a Dominican binder and Dominican and Nicaraguan filler, in boxes of 15.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/quesada-suspiro-arriving-at-retailers/476537/",
+   "https://halfwheel.com/sweet-capped-quesada-suspiro-shipping-in-april/465650/",
+   "https://halfwheel.com/pca-2026-quesada-cigars/465664/"
+  ],
+  "notes": "The cap is sweetened. Despite the Oscuro name, the wrapper is a Cameroon-seed leaf from Ecuador. No strength rating or tasting notes were published in the sources checked. It reached stores in August 2026.",
+  "verified": false,
+  "verifyNotes": "Reworded about. Wrapper, binder, filler, country, factory and sizes confirmed on halfwheel. Strength left null: none of the three halfwheel pages gives one, the maker's site did not load, and no retailer listing was found, so it is not confirmed either way."
+ },
+ {
+  "brand": "Quesada",
+  "line": "Vega Magna",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Quesada Cigars",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "dried fruit",
+   "cedar",
+   "oak",
+   "caramel",
+   "coffee"
+  ],
+  "about": "One of the most expensive lines Quesada has made, launched in 2018 with Dominican filler that had been aging in palm-leaf tercios since 2001. Each box of 10 has a removable sketch by Dominican artist Pragmy Marichal built into the bottom.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/vega-magna-belicoso/295460/",
+   "https://www.cigarsdirect.com/products/vega-magna-toro",
+   "https://www.neptunecigar.com/cigar/quesada-vega-magna"
+  ],
+  "notes": "Sold under the Vega Magna name rather than as a Quesada-banded cigar. One roller and buncher pair makes all of it, so supply is small. Quesada calls it full-bodied; Neptune and halfwheel put strength around medium and Cigars Direct lists medium-full.",
+  "verified": true,
+  "verifyNotes": "About changed from 'top-priced line' to match halfwheel's wording (one of the most expensive it had produced). Neptune currently shows no Vega Magna in stock; Cigars Direct still lists all three sizes."
+ },
+ {
+  "brand": "Quesada",
+  "line": "BBQ Pig",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Perfecto",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "cream",
+   "oak",
+   "bread",
+   "leather"
+  ],
+  "about": "A short, fat perfecto with a pigtail cap, a shape often called a pig, that Quesada made in 2021 for Privada Cigar Club's Limited Cigar Association. It was a one-time release sold in bundles of 20.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/quesada-bbq-pig/395464/",
+   "https://halfwheel.com/quesada-bbq-pig-lca-exclusive-goes-on-sale-tomorrow/393687/"
+  ],
+  "notes": "The blend was never disclosed. Its full name is Quesada BBQ Pig LCA Exclusive and it was sold only through LCA member shops. halfwheel rated strength medium-plus; flavors are from its review.",
+  "verified": true,
+  "verifyNotes": "Reworded about (the cigar is a 'pig' vitola, not literally pig-shaped). Strength Medium is the nearest fit for halfwheel's medium-plus; blend confirmed undisclosed."
+ }
+]

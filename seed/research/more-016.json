@@ -1,0 +1,936 @@
+[
+ {
+  "brand": "Arturo Fuente",
+  "line": "Hemingway Best Seller",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "African Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Best Seller",
+    "length": 4.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "molasses",
+   "cocoa",
+   "cinnamon",
+   "nuts",
+   "spice"
+  ],
+  "about": "A short, fat perfecto in Arturo Fuente's Hemingway series, with a Cameroon wrapper over Dominican tobaccos. The Hemingway series dates to 1983 and revived the old tapered perfecto shapes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/hemingway/",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
+   "https://halfwheel.com/arturo-fuente-hemingway-sungrown-oscuro-signature/445789/"
+  ],
+  "notes": "This is one size of the Hemingway line, not its own blend. Fuente lists it as 4 1/2 inches with a 43/55 ring (tapered foot). Also made with a Connecticut broadleaf maduro wrapper.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Swapped the Neptune link for the halfwheel page that states the 1983 start of the Hemingway series."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Hemingway Masterpiece",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "African Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Masterpiece",
+    "length": 9,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "molasses",
+   "cocoa",
+   "cinnamon",
+   "nuts",
+   "spice"
+  ],
+  "about": "The largest perfecto in Arturo Fuente's Hemingway series at 9 inches, with a Cameroon wrapper over Dominican tobaccos. It is sold in boxes of 10 rather than the usual 25.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/hemingway/",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
+   "https://halfwheel.com/arturo-fuente-hemingway-sungrown-oscuro-signature/445789/"
+  ],
+  "notes": "This is one size of the Hemingway line, not its own blend. Also made with a Connecticut broadleaf maduro wrapper. The Hemingway series itself dates to 1983.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Swapped the Neptune link for the halfwheel page that states the 1983 start of the Hemingway series."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Hemingway Untold Story",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Untold Story",
+    "length": 7.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A large perfecto in Arturo Fuente's Hemingway series that is sold only with a maduro wrapper. It uses the Hemingway blend of Dominican tobaccos under Connecticut broadleaf.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/hemingway/",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway-maduro.html",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway-maduro"
+  ],
+  "notes": "This is one size of the Hemingway line and comes in maduro only. Fuente lists it as 7 1/2 x 54, while Holt's lists 7 5/8 x 54.",
+  "verified": true,
+  "verifyNotes": "Notes said Neptune lists 7 5/8 x 54, but Neptune's page does not list this size; Holt's does. Replaced the halfwheel link with Holt's Hemingway Maduro page and dropped the Cameroon charity trivia."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Hemingway Sungrown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Signature",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Classic",
+    "length": 7,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "The Hemingway perfecto blend of Dominican tobaccos dressed in an Ecuadorian sun grown wrapper instead of the usual Cameroon. Arturo Fuente ships it only occasionally, in the Signature and Classic sizes.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway-sungrown",
+   "https://halfwheel.com/arturo-fuente-hemingway-sungrown-oscuro-heads-to-taa-stores/444601/",
+   "https://arturofuente.com/our-cigars/hemingway/"
+  ],
+  "notes": "Fuente lists the Sungrown wrapper only on the Signature and Classic sizes. Neptune says Fuente releases it only on special occasions.",
+  "verified": true,
+  "verifyNotes": "Removed the 2003 contest release claim (165 boxes) and the Famous Smoke size note, which none of the listed sources state. Ecuadorian wrapper confirmed on halfwheel, medium on Neptune."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Hemingway Sungrown Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano-seed Oscuro grown by Oliva Tobacco Co.",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Signature",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Classic",
+    "length": 7,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "leather",
+   "salt"
+  ],
+  "about": "A darker take on the Hemingway perfecto, using a habano-seed oscuro wrapper from Oliva Tobacco Co. over the usual Dominican Hemingway blend. It debuted in October 2024 for retailers in the Tobacconists' Association of America.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/arturo-fuente-hemingway-sungrown-oscuro-heads-to-taa-stores/444601/",
+   "https://halfwheel.com/arturo-fuente-hemingway-sungrown-oscuro-signature/445789/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway-sungrown-oscuro"
+  ],
+  "notes": "Fuente has not confirmed where the wrapper is grown. halfwheel believes it is Ecuador. It has a red ribbon at the foot, which the Hemingway Maduro does not.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Don Carlos Personal Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "African Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Eye of the Shark",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "gingerbread",
+   "cinnamon",
+   "citrus",
+   "leather",
+   "cream"
+  ],
+  "about": "A Don Carlos offshoot first shipped in 2015 for Carlos Fuente Sr.'s 80th birthday, said to be based on his personal Senior Blend. It comes as a robusto and as the Eye of the Shark, a belicoso with a box-pressed foot.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/don-carlos/",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+   "https://halfwheel.com/arturo-fuente-don-carlos-eye-of-the-shark/98654/"
+  ],
+  "notes": "Fuente has not published a separate blend; halfwheel lists it as undisclosed and says the wrapper looks like Cameroon. Fuente lists Eye of the Shark at 5 1/4 x 52, halfwheel at 5 3/4 x 52. It launched as a limited edition and can be hard to find.",
+  "verified": true,
+  "verifyNotes": "Binder and filler were not stated by the listed sources; confirmed Dominican on Holt's Don Carlos page, which lists Personal Reserve and rates the line medium-full, and added that link. Trimmed notes."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Don Carlos The Man",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Dominican Republic (including Chateau de la Fuente)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "The Man",
+    "length": 5.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "oak",
+   "sarsaparilla",
+   "butter"
+  ],
+  "about": "A tribute robusto to the late Carlos Fuente Sr., based on the Don Carlos blend but with some filler from Fuente's Chateau de la Fuente farm. It was first shown at a Holt's event in 2017 and went to retailers nationwide in 2018.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/don-carlos-the-man/285170/",
+   "https://halfwheel.com/arturo-fuente-don-carlos-the-man-lancero-scheduled-for-holiday-2024/436996/",
+   "https://arturofuente.com/our-cigars/don-carlos/"
+  ],
+  "notes": "Fuente has not disclosed the wrapper or binder, and halfwheel found it tastes unlike a regular Don Carlos. It is on Fuente's Don Carlos list but ships only occasionally and in small amounts. A 7 1/2 x 41 lancero was shown for holiday 2024.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Notes cut to three sentences."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Don Carlos Edicion de Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican, the Chateau de la Fuente leaf used on OpusX",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "leather",
+   "earth",
+   "sweetness"
+  ],
+  "about": "A Dominican puro that Carlito Fuente blended in 2006 to mark 30 years of his father's Don Carlos cigar, swapping the usual Cameroon wrapper for a Dominican leaf. It is aged for years and sold in small batches through Prometheus as part of the Fuente Aged Selection.",
+  "released": 2006,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/don-carlos-edicion-de-aniversario",
+   "https://halfwheel.com/review-don-carlos-edicion-de-aniversario-2007-toro/32335/",
+   "https://www.holts.com/cigars/all-cigar-brands/don-carlos-edicion-de-aniversario.html"
+  ],
+  "notes": "Its own blend, not a regular Don Carlos with a new wrapper. halfwheel calls the wrapper sun grown rosado, while Cigar Aficionado and Holt's call it shade grown. Holt's and halfwheel rate it medium, though Cigar Aficionado says it is stronger than regular Don Carlos.",
+  "verified": true,
+  "verifyNotes": "Strength was null; set to Medium from Holt's and the halfwheel review. Wrapper wording changed because sources disagree on sun grown versus shade grown. Added Holt's as a source."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Don Carlos 90 Años",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican corojo-seed from Chateau de la Fuente, rolled over a Cameroon wrapper",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.75,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "oak",
+   "nutmeg",
+   "cinnamon",
+   "pepper",
+   "bread",
+   "coffee"
+  ],
+  "about": "A Don Carlos made for what would have been Carlos Fuente Sr.'s 90th birthday. It is a standard Cameroon-wrapped Don Carlos that is aged a year, given a second Dominican corojo wrapper on top, then aged another year.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/arturo-fuente-don-carlos-90-anos/462310/",
+   "https://halfwheel.com/arturo-fuente-don-carlos-90-anos-arrives-in-stores/456173/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos-90-anos"
+  ],
+  "notes": "It has two wrappers, one over the other, which Fuente says is a first. The corojo nods to the original 1976 Nicaraguan-made Don Carlos, which did not use Cameroon. Sold in cases of 90 and lightly box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Don Carlos Sangre de Toro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Undefeated",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Puro Cojones",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Raging Bull #2",
+    "length": 5.875,
+    "ring": 55
+   },
+   {
+    "name": "Sangre de Bestia #2",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "pepper",
+   "cream",
+   "earth"
+  ],
+  "about": "A regular production Don Carlos extension launched in October 2025, and the first Arturo Fuente cigar to wear a Mexican San Andrés wrapper. The binder and filler are Dominican, and the name means bull's blood.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/arturo-fuente-shipping-don-carlos-sangre-de-toro-next-week/455197/",
+   "https://halfwheel.com/arturo-fuente-don-carlos-sangre-de-toro-undefeated/464168/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos-sangre-de-toro"
+  ],
+  "notes": "Strength is reported differently: halfwheel's review found medium strength with a medium-plus body, while Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Forbidden X",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Nacimiento 1912",
+    "length": 5.125,
+    "ring": 43
+   },
+   {
+    "name": "Heart of the Bull 1957",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Destiny 1980",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Keeper of the Flame 2013",
+    "length": 6.25,
+    "ring": 49
+   },
+   {
+    "name": "God's Whisper 1924",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Torch Bearer 2012",
+    "length": 7.625,
+    "ring": 49
+   },
+   {
+    "name": "Deseos d'Amor",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "El Beso Prohibido",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Pasion d'Amor",
+    "length": 6.125,
+    "ring": 48
+   },
+   {
+    "name": "Amor Sensual",
+    "length": 6.125,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "floral",
+   "nuts",
+   "bread",
+   "earth",
+   "pepper"
+  ],
+  "about": "A rare OpusX offshoot from Arturo Fuente that first reached stores in late 2011 as ForbiddenX 13, tied to the company's 100th anniversary. It returned for TAA retailers in 2018, and four new sizes with a lighter wrapper arrived in December 2020.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://arturofuente.com/our-cigars/opusx/forbidden-x/",
+   "https://halfwheel.com/opusx-forbiddenx-13-deseos-damor/393026/",
+   "https://halfwheel.com/opusx-forbidden-x-13-arrives-at-taa-stores/280481/"
+  ],
+  "notes": "Fuente does not disclose the blend, saying only that the tobacco comes from Chateau de la Fuente. halfwheel writes the name as ForbiddenX 13 and found the 2020 sizes medium-full. The 2020 sizes come in cedar sleeves and are a different blend from the 2011 originals.",
+  "verified": true,
+  "verifyNotes": "officialName cleared because Fuente's own page calls the line Forbidden X. Replaced the general Neptune OpusX link with Fuente's Forbidden X page, which lists the four current sizes. Dropped the Neptune full strength remark."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Oro Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican rosado oscuro from Chateau de la Fuente",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso XXX",
+    "length": 4.625,
+    "ring": 49
+   },
+   {
+    "name": "PerfecXion No. 4",
+    "length": 5.125,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Super Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Fuente Fuente",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "PerfecXion X",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Reserva d'Chateau",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "wood",
+   "sweetness",
+   "vanilla",
+   "spice"
+  ],
+  "about": "A dark-wrapped version of OpusX that Arturo Fuente introduced in late 2015. It is a Dominican puro whose OpusX wrapper is aged and fermented longer, and it wears a gold ribbon at the foot.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/opusx/oro-oscuro/",
+   "https://halfwheel.com/fuente-fuente-opusx-rosado-oscuro-oro-perfecxion-no-4/102245/",
+   "https://www.neptunecigar.com/cigars/arturo-fuente-opus-x-oxo-oro-oscuro-robusto"
+  ],
+  "notes": "First sold as Rosado Oscuro Oro in a 15-cigar sampler. Retailers also call it OXO and list the wrapper as maduro because it is so dark. Neptune lists it as full, while halfwheel's 2015 review found medium strength.",
+  "verified": true,
+  "verifyNotes": "Added the Super Belicoso (5 1/2 x 52) from Fuente's Oro Oscuro page, which is now a source. Removed the claim that it was made for the 20th anniversary, which no source states. Added the strength disagreement to notes."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX 20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (lighter than the regular OpusX wrapper)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Believe",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Father & Son",
+    "length": 6.25,
+    "ring": 49
+   },
+   {
+    "name": "Power of the Dream",
+    "length": 6.375,
+    "ring": 52
+   },
+   {
+    "name": "God's Whisper",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "leather",
+   "pepper",
+   "vanilla",
+   "cinnamon"
+  ],
+  "about": "The blue-banded OpusX made to mark 20 years of the brand, which debuted in 1995. It reached stores in December 2016 and uses a lighter Dominican wrapper for a milder, creamier smoke than regular OpusX.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://arturofuente.com/our-cigars/opusx/ffox-20th/",
+   "https://halfwheel.com/fuente-fuente-opusx-20-years-celebration-gods-whisper/141852/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-fuente-opus-x-20th-anniversary"
+  ],
+  "notes": "Fuente's site calls it 20th Anniversary, while halfwheel calls it 20 Years Celebration. It wears blue bands instead of the usual red. Fuente has not published the binder and filler; Neptune lists them as Dominican.",
+  "verified": true,
+  "verifyNotes": "officialName cleared because Fuente's own page titles the line 20th Anniversary. Added that page as a source in place of the halfwheel news post. Removed the unsupported line about it still shipping from time to time."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX 25th Anniversary",
+  "found": true,
+  "officialName": "Fuente Fuente OpusX 25",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto (La Familia X to the 25th Power)",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cream",
+   "cedar",
+   "wood"
+  ],
+  "about": "The green-banded OpusX made for the brand's 25th anniversary. It debuted in November 2021 as a 7 x 50 Churchill sold only inside Elie Bleu humidors, and a perfecto in metal coffins followed in late 2024.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/opusx-25/408325/",
+   "https://halfwheel.com/opusx-25-perfecto-gets-nationwide-release/449477/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-fuente-opus-x-25th-anniversary"
+  ],
+  "notes": "Fuente has not disclosed the blend, which is believed to be an all-Dominican variation of OpusX. Neptune lists it as full, while halfwheel's review found medium to medium-plus strength. The perfecto size is from Neptune.",
+  "verified": true,
+  "verifyNotes": "Removed the flavor orange: the review uses the word only for the band and ribbon color. Notes cut to three sentences."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX ReXilient",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "An OpusX release marking the 25th anniversary of the September 11 attacks, shipped in August 2026. Each box of 20 holds 16 Churchills and four fully box-pressed cigars in an American flag wrap, and $11 per box goes to charity.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/opusx-rexilient-a-9-11-commemorative-release-shipping-this-week/477777/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-fuente-opus-x-rexilient"
+  ],
+  "notes": "Fuente has not disclosed the blend, which is believed to be based on the original OpusX with tweaks. The size of the four flag-wrapped pressed cigars has not been published. Fuente has not said whether it is a one-time release.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Notes cut to three sentences."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Templo de Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "#3",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "#1",
+    "length": 6.125,
+    "ring": 50
+   },
+   {
+    "name": "#8",
+    "length": 6.125,
+    "ring": 55
+   },
+   {
+    "name": "#13",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "toast",
+   "pepper",
+   "nuts",
+   "leather"
+  ],
+  "about": "An OpusX blend with a lighter-colored wrapper that arrived in stores in December 2025. Carlito Fuente says he made it to be creamier than any other OpusX, and it wears the black OpusX band with a gold foil sleeve.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/opusx-templo-de-oro-arrives-at-stores/459568/",
+   "https://halfwheel.com/opusx-templo-de-oro-8/474655/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-fuente-opus-x-templo-de-oro"
+  ],
+  "notes": "Fuente declined to disclose the tobaccos; Neptune lists it as all Dominican. The name means temple of gold. It is unclear how often it will ship.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Notes cut to three sentences."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Toymaker Vintage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A collector series from Arturo Fuente that packs aged OpusX and OpusX Forbidden X cigars in five-cigar samplers with playful packaging. Retailers list a Series 2020 OpusX sampler and Series 2021 Forbidden X samplers.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigars/arturo-fuente-opus-x-toymaker-vintage-series-2020",
+   "https://www.neptunecigar.com/cigars/arturo-fuente-opus-x-forbidden-x-belicoso-toymaker-vintage-series-2021-53-4--54",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x-forbidden-x-toymaker-vintage"
+  ],
+  "notes": "Details come from Neptune Cigar only; Fuente's own Toymaker page gives no cigar details. Neptune describes it as an all-Dominican puro and lists the 2021 Forbidden X Belicoso at 5 3/4 x 54, box-pressed, medium strength.",
+  "verified": false,
+  "verifyNotes": "Could not cross-check: Neptune is the only source, Fuente's Toymaker page is empty, and no halfwheel page was found. Wrapper and strength left null. Trimmed notes."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX 2020",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Arena d'Amor",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Sol d'Amor",
+    "length": 6.125,
+    "ring": 55
+   },
+   {
+    "name": "Viento d'Amor",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "earth",
+   "black pepper",
+   "floral",
+   "cinnamon"
+  ],
+  "about": "A Dominican puro OpusX blend created for Expo 2020 in the United Arab Emirates and launched in Dubai in December 2019. It stayed a UAE exclusive until a one-time U.S. shipment in December 2024, and is nicknamed Opus Dubai.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/arturo-fuentes-opusx-2020-gets-one-time-u-s-release/445483/",
+   "https://halfwheel.com/opusx-2020-sol-damor/375389/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x-dubai"
+  ],
+  "notes": "Known as Opus Dubai and wears green bands. Fuente does not say how it differs from regular OpusX. Neptune lists it as full, and halfwheel found it starts gentler than regular OpusX but builds to full by the end.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Full. The note that halfwheel found it around medium-plus was wrong: the review says strength passes the full mark by the end, and Neptune lists full."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX La Edicion de la Sociedad",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Grand Corona",
+    "length": 6.25,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "wood",
+   "cream",
+   "earth"
+  ],
+  "about": "The first cigar from The OpusX Society, a project between designer Manny Iriarte's company and Arturo Fuente. It is a single 6 1/4 x 49 size in blue and yellow bands, made by Fuente and first shipped in October 2024.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/opusx-la-edicion-de-la-sociedad-begins-shipping/444285/",
+   "https://halfwheel.com/opusx-la-edicion-de-la-sociedad/447397/",
+   "https://halfwheel.com/opusx-la-edicion-de-la-sociedad-adds-three-count-boxes/454831/"
+  ],
+  "notes": "The blend is undisclosed. It is sold by Manny Iriarte Enterprises at about $90 a cigar with no set MSRP. halfwheel lists it as regular production, though Carlito Fuente called it extremely limited.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Reworded notes to drop the unsupported remark about Fuente's price list."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Gold & Bullet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gold & Bullet",
+    "length": 6.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The second cigar from The OpusX Society, the collaboration between Manny Iriarte Enterprises and Arturo Fuente. It is a 6 3/4 x 50 parejo sold in boxes of 12 that began shipping in July 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/opusx-gold-bullet-ships/475496/",
+   "https://halfwheel.com/opusx-society-announces-capitulo-uno-gold-bullet-second-cigar-release/448681/"
+  ],
+  "notes": "The blend is undisclosed and said to differ from La Edicion de la Sociedad. Production is 2,500 boxes of 12 a year, up from the 1,500 first announced. No MSRP is set, and stores listed it at $125 to $150 a cigar.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Notes cut to three sentences."
+ }
+]

@@ -1,0 +1,574 @@
+[
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Le Hoyo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran OSA",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "USA (Broadleaf)",
+  "filler": "Dominican Republic (Piloto), Nicaragua (Esteli), Honduras (La Entrada Corojo 2012, Jamastran Broadleaf)",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "cream"
+  ],
+  "about": "A Honduran-made Hoyo de Monterrey from General Cigar (Scandinavian Tobacco Group), rolled in Danli with a Honduran OSA wrapper over a broadleaf binder. It first appeared in September 2026 as the toro in the Hoyo New Legends Sampler.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/le-hoyo/",
+   "https://halfwheel.com/hoyo-de-monterrey-le-hoyo-debuts-in-new-sampler/478442/",
+   "https://cigardojo.com/2026/09/hoyo-de-monterrey-le-hoyo-debuts-in-new-legends-sampler/"
+  ],
+  "notes": "As of September 2026 only the 6 x 52 Toro was on sale, and only inside the Hoyo New Legends Sampler. Rothschild (4.5 x 50) and Gigante (6 x 60) boxes were announced without a date. This is not the Cuban Le Hoyo series from Habanos.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, country, size and debut confirmed on the maker's page, halfwheel and Cigar Dojo. Trimmed notes to three sentences. Strength is the maker's single rating, which its site labels Body. The maker's page still says Coming Soon."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "grass",
+   "cream",
+   "cedar",
+   "almond"
+  ],
+  "about": "An all-Honduran blend from General Cigar finished with a shade-grown wrapper and made in Danli. It followed Rojo and Oscuro in 2025 as the mildest of the relaunched Hoyo de Monterrey lines.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/shade/",
+   "https://halfwheel.com/hoyo-de-monterrey-shade-shipping-in-june/451871/",
+   "https://www.famous-smoke.com/brand-hoyo-de-monterrey-shade"
+  ],
+  "notes": "The maker rates it Mellow to Medium; Famous Smoke and Neptune list it as Mild. The maker and halfwheel say the wrapper is Honduran shade-grown, while Famous Smoke's description says the leaf is grown in Ecuador.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the maker's page, halfwheel, Famous Smoke and Neptune. Strength is the maker's single rating, which its site labels Body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Rojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Jamastran",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "toasted marshmallow",
+   "molasses",
+   "tobacco"
+  ],
+  "about": "One of two blends General Cigar used to relaunch the Honduran Hoyo de Monterrey in 2024. It pairs a wrapper from Honduras' Jamastran Valley with a Nicaraguan binder and three-country filler at an everyday price.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/rojo/",
+   "https://halfwheel.com/new-hoyo-de-monterrey-oscuro-rojo-shipping-next-week/439275/",
+   "https://www.famous-smoke.com/brand-hoyo-de-monterrey-rojo"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the maker's page, halfwheel and Famous Smoke; Neptune lists the wrapper color as Colorado. Strength is the maker's single rating, which its site labels Body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina Oscuro",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cherry cola",
+   "rye bread",
+   "white pepper",
+   "cayenne",
+   "molasses"
+  ],
+  "about": "Released alongside Rojo in 2024 as part of General Cigar's relaunch of the Honduran Hoyo de Monterrey. The company says it is the first Hoyo de Monterrey to use a Brazilian Mata Fina wrapper.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/oscuro/",
+   "https://halfwheel.com/new-hoyo-de-monterrey-oscuro-rojo-shipping-next-week/439275/",
+   "https://www.famous-smoke.com/brand-hoyo-de-monterrey-oscuro"
+  ],
+  "notes": "General Cigar's launch release called it medium-plus and its site lists body as Medium. Famous Smoke lists the strength as Full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Strength Medium-Full is the researcher's reading of the maker's press-release wording medium-plus; the maker's site says Body Medium and Famous Smoke says Full."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Epicure Selección",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (proprietary Cuban-seed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Habano)",
+  "filler": "Honduras (Habano)",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "No. 2",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro Especiale",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "toast",
+   "amaretto"
+  ],
+  "about": "A Honduran puro from General Cigar made entirely of Cuban-seed tobacco grown in Honduras. The name and packaging echo the Cuban Epicure cigars, but it is an unrelated blend sold only in the U.S.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/epicure-seleccion/",
+   "https://halfwheel.com/general-shipping-hoyo-de-monterrey-epicure-seleccion/375478/",
+   "https://halfwheel.com/hoyo-de-monterrey-epicure-seleccion-no-2/377821/"
+  ],
+  "notes": "The maker rates body Medium to Full; halfwheel's review and Neptune put the strength at Medium. Not the Cuban Hoyo de Monterrey Epicure from Habanos.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Medium-Full to Medium: the maker's Medium - Full rating is for body, and halfwheel's review (body medium-full, strength medium) and Neptune both give Medium strength. Rewrote notes to match. Other fields confirmed."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Shade)",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 6.75,
+    "ring": 48
+   },
+   {
+    "name": "Governors",
+    "length": 6.125,
+    "ring": 50
+   },
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Sabrosos",
+    "length": 5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "spice",
+   "toast",
+   "earth",
+   "raisin",
+   "chocolate",
+   "coffee"
+  ],
+  "about": "The dark-wrapper version of the classic Honduran Hoyo de Monterrey from General Cigar, finished in Connecticut Broadleaf. It is a long-running line sold in traditional sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/hoyo-de-monterrey-maduro/",
+   "https://www.holts.com/cigars/all-cigar-brands/hoyo-de-monterrey.html",
+   "https://www.famous-smoke.com/brand-hoyo-de-monterrey-broadleaf"
+  ],
+  "notes": "The maker rates it Medium; Holts says Medium-Full and Famous Smoke, which sells it as Hoyo de Monterrey Broadleaf, says Full. Neptune calls the wrapper Ecuadorian maduro, which disagrees with the maker. The Sultans (7.25 x 54) size was discontinued in August 2025.",
+  "verified": true,
+  "verifyNotes": "Blend and sizes confirmed on the maker's page; country confirmed on Holts, Famous Smoke and Neptune. Trimmed notes to three sentences, changed flavor cocoa to chocolate (Famous Smoke's word) and dropped value-priced from about. Strength is the maker's single rating, which its site labels Body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (Ligero), Nicaragua (Ligero)",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 1",
+    "length": 7.25,
+    "ring": 54
+   },
+   {
+    "name": "Shorts",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cocoa",
+   "earth",
+   "black pepper",
+   "coffee"
+  ],
+  "about": "A darker, fuller extension of General Cigar's Excalibur line, introduced in 2021 with a Connecticut Broadleaf maduro wrapper. It is made in Danli, Honduras.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/excalibur-black/",
+   "https://halfwheel.com/hoyo-de-monterrey-excalibur-black-shipping-next-month/394050/",
+   "https://www.famous-smoke.com/brand/excalibur-black-cigars"
+  ],
+  "notes": "The maker's site now lists a Nicaraguan binder with Dominican and Nicaraguan ligero; the 2021 launch announcement gave an Ecuadorian Sumatra binder with Honduran and Nicaraguan fillers. The maker rates it Medium to Full; Famous Smoke and Neptune say Full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the maker's page, halfwheel, Famous Smoke and Neptune. Strength is the maker's single rating, which its site labels Body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur Cameroon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "King Arthur",
+    "length": 6.25,
+    "ring": 45
+   },
+   {
+    "name": "Lancelot",
+    "length": 7.25,
+    "ring": 54
+   },
+   {
+    "name": "Merlin",
+    "length": 5.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "espresso"
+  ],
+  "about": "The Cameroon-wrapped member of General Cigar's Honduran Excalibur family. The maker calls it the people's choice cigar because the blend was picked by consumers.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/excalibur-cameroon/",
+   "https://halfwheel.com/stg-raises-prices-for-2025-discontinues-34-items/453460/",
+   "https://www.famous-smoke.com/brand-excalibur-cameroon"
+  ],
+  "notes": "halfwheel's August 2025 list of items STG discontinued includes Excalibur Cameroon without naming a size; the maker's site still shows three sizes and some retailers still had stock. The maker rates it Mellow to Medium; Famous Smoke lists it as Medium.",
+  "verified": true,
+  "verifyNotes": "Changed wrapperLeaf from African Cameroon to Cameroon, the maker's wording. Reworded the discontinuation note: halfwheel's list names the line once with no size. Country confirmed on Famous Smoke. Strength is the maker's single rating, which its site labels Body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur Dark Knight",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Havana Seed",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Dark Knight",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Dark Knight II",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "coffee",
+   "cocoa",
+   "black pepper"
+  ],
+  "about": "A dark Excalibur from General Cigar that uses a Connecticut-grown Havana Seed wrapper over a Connecticut Broadleaf binder. It was sold in two thick sizes.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/excalibur-dark-knight/",
+   "https://halfwheel.com/stg-raises-prices-for-2025-discontinues-34-items/453460/",
+   "https://mikescigars.com/cigars/brands/excalibur/excalibur-dark-knight"
+  ],
+  "notes": "Both sizes were on STG's August 2025 list of discontinued items, though the maker's site still shows the line. The maker rates it Medium to Full; Mike's Cigars lists it as Full. STG's Cigar World site lists the wrapper as Connecticut Broadleaf in its spec box but Connecticut Havana Seed in its description.",
+  "verified": true,
+  "verifyNotes": "Swapped the Cigar World source for the Mike's Cigars page, which is where country (Honduras), Full strength and the maduro label are stated. Added the Cigar World wrapper inconsistency to notes. Strength is the maker's single rating, which its site labels Body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Hoyo de Tradición",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Jamastran Viso Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Honduras",
+  "binder": "USA (Connecticut Habano)",
+  "filler": "Honduras, Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": "Honduras American Tobacco S.A. (HATSA)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Hermoso",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "sweetness"
+  ],
+  "about": "A General Cigar tribute to Hoyo de Monterrey's heritage, wrapped in a reddish viso rosado leaf from Honduras' Jamastran Valley. Scandinavian Tobacco Group discontinued the line in March 2025.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.hoyocigars.com/our-cigars/hoyo-de-tradicion/",
+   "https://halfwheel.com/scandinavian-tobacco-group-discontinues-56-skus/448395/",
+   "https://www.cigaraficionado.com/top25cigar/hoyo-de-tradicion-toro-grande-2008"
+  ],
+  "notes": "Discontinued in March 2025, though the maker's site still shows it. Cigar Aficionado ranked the Toro Grande No. 23 in its Top 25 of 2008.",
+  "verified": true,
+  "verifyNotes": "Filled country (Honduras) and factory from Cigar Aficionado's Top 25 page and added it as a source in place of Cigar World. Corrected the Top 25 note: Cigar Aficionado lists it in the 2008 list, not 2007. Strength is the maker's single rating, which its site labels Body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Illusione of Excalibur",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa Corojo 2012)",
+  "filler": "Nicaragua (Esteli Criollo and Corojo)",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Nortena S.A. (AGANORSA Leaf, formerly TABSA)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "#1",
+    "length": 7.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "black pepper",
+   "leather",
+   "oak",
+   "baking spices"
+  ],
+  "about": "A 2022 limited edition blended by Dion Giolito of Illusione with General Cigar's Justin Andrews, modeled on the Excalibur #1. It is a Nicaraguan puro made at the AGANORSA factory rather than in Honduras.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/illusione-stg-collaborate-for-illusione-by-excalibur/409561/",
+   "https://halfwheel.com/illusione-of-excalibur-1/413104/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-hoyo-de-monterrey-the-illusione-of-excalibur-no-1/"
+  ],
+  "notes": "One size only, limited to 4,960 boxes of 10, and made in Nicaragua unlike the rest of the Excalibur family. Some sources call it The Illusione of Excalibur. Developing Palates and Neptune call it medium; halfwheel's review found the strength mild.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel, Developing Palates and Neptune. Added the strength disagreement to notes: halfwheel's review rated strength mild with medium body."
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "El Torcedor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Camesino Perfecto",
+    "length": 6.5,
+    "ring": 49
+   },
+   {
+    "name": "Selectos Regalo",
+    "length": 7.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "cream",
+   "leather"
+  ],
+  "about": "A limited-release Hoyo de Monterrey perfecto from General Cigar with an Ecuadorian Sumatra wrapper, a Nicaraguan binder and Dominican and Nicaraguan fillers. It was introduced at the 2019 trade show.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.cigarworld.com/cigars/hoyo-de-monterrey/el-torcedor/",
+   "https://www.neptunecigar.com/cigar/hoyo-de-monterrey-el-torcedor",
+   "https://cigar-coop.com/2019/07/cigar-news-hoyo-de-monterrey-el-torcedor-launched-at-2019-ipcpr.html"
+  ],
+  "notes": "Sources disagree on size: STG's Cigar World and Cigar Coop list a 6.5 x 49 perfecto, Neptune and Mike's a 7.25 x 54 Selectos Regalo. Cigar Coop and Neptune's text say made in Honduras, but Neptune's and Mike's spec tables say Dominican Republic, so country is blank. Neptune says it will not return once sold out.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler and Medium strength confirmed on Cigar World, Neptune and Mike's. Added released 2019 and a Cigar Coop source (launched at the 2019 IPCPR show). Country and the regular size could not be settled because sources conflict, so country stays null and this entry is not marked verified. No halfwheel or Cigar Aficionado page was found."
+ }
+]

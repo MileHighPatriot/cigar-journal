@@ -1,0 +1,844 @@
+[
+ {
+  "brand": "El Mago",
+  "line": "Pepe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Broadleaf)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro Tubo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "nuts",
+   "cocoa",
+   "earth",
+   "black pepper",
+   "baking spice"
+  ],
+  "about": "A box-pressed toro sold in a square tube, named after founder Nick Fusco's grandfather Gonzalo \"Pepe\" Torre. It is made for El Mago at Miguel Pinto's MGE Cigars Factory in Estelí.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://halfwheel.com/el-mago-pepe-box-pressed-toro-tubo/429106/",
+   "https://cigar-coop.com/2025/05/el-mago-pepe-cigar-review.html"
+  ],
+  "notes": "The maker calls it medium-strong; Cigar Coop rated it medium strength with medium to full body, and Neptune lists medium. Cigar Dojo and Cigar Coop listed Pepe among the 2022 debut cigars, but halfwheel dates the box-pressed tubo to May 2023.",
+  "verified": true,
+  "verifyNotes": "No field changes. Release year is disputed: September 2022 launch articles on Cigar Dojo and Cigar Coop list Pepe, while halfwheel's review table gives May 2023 and Neptune's first customer review is June 2023. Kept 2022 and tightened the note."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Mistico",
+  "found": true,
+  "officialName": "Místico",
+  "wrapperLeaf": "Cameroon (aged three years)",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "El Mago's first robusto, a box-pressed cigar with a Cameroon wrapper. The name is Spanish for mystical and refers to the bond between the founder's grandparents.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://halfwheel.com/el-mago-adding-three-cigars-next-month/421546/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Neptune says the Cameroon wrapper is capped at the head and foot with a lighter shade leaf. Cigar Dojo's 2022 launch list showed a Místico with a two-tone San Andrés wrapper; the Cameroon robusto shipped in 2023.",
+  "verified": true,
+  "verifyNotes": "No field changes. Reworded the note to attribute the 2022 two-tone Místico to Cigar Dojo (cigardojo.com/2022/09/el-mago-cigars-announces-company-debut/), since Cigar Coop's launch article from the same month gives that wrapper to the Miami Maduro instead."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Triunfante",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Corojo",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "El Mago's mild Connecticut toro, one of the brand's 2022 debut cigars and sold in tubes. The name is Spanish for triumphant.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://www.neptunecigar.com/el-mago-cigar",
+   "https://cigar-coop.com/2022/09/cigar-news-el-mago-cigars-launches-cigar-lines.html"
+  ],
+  "notes": "Retailers sell it as Triunfante Connecticut. The country the Corojo binder is grown in is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Mago",
+  "line": "Miami Art Deco Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Tubo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "pepper",
+   "sweetness"
+  ],
+  "about": "The Habano-wrapped toro from El Mago's 2022 debut lineup, sold in tubes. Its packaging is modeled on The James Hotel, the Miami Beach Art Deco hotel the founder's grandfather owned.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://www.neptunecigar.com/el-mago-cigar",
+   "https://cigar-coop.com/2022/09/cigar-news-el-mago-cigars-launches-cigar-lines.html"
+  ],
+  "notes": "The maker and Neptune call it medium; Cigar Dojo listed it as mild-medium at launch.",
+  "verified": true,
+  "verifyNotes": "No field changes. The mild-medium launch listing in the note was confirmed on Cigar Dojo's September 2022 debut article, which is not in the sources list."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The Miami Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra",
+  "filler": "Nicaragua (Estelí)",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Tubo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "caramel",
+   "cream"
+  ],
+  "about": "The maduro toro from El Mago's 2022 debut lineup, sold in tubes. It has a Mexican San Andrés wrapper over a Sumatra binder and filler from Estelí.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://www.neptunecigar.com/el-mago-cigar",
+   "https://cigar-coop.com/2022/09/cigar-news-el-mago-cigars-launches-cigar-lines.html"
+  ],
+  "notes": "The maker calls it medium to full; Neptune lists it as medium. The country the Sumatra binder is grown in is not published.",
+  "verified": true,
+  "verifyNotes": "Rewrote 'about' in plain words; it repeated the maker's sales pitch. Blend fields unchanged."
+ },
+ {
+  "brand": "El Mago",
+  "line": "El Cubano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut (destapado)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua (Estelí)",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Tubo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "spice"
+  ],
+  "about": "A Connecticut-wrapped toro in a tube, released in 2023 as a nod to Miami-Cuban culture. The founder's grandfather was born in Cuba.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://halfwheel.com/el-mago-adding-three-cigars-next-month/421546/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "The maker and halfwheel call the wrapper Connecticut destapado without naming a country; Neptune lists it as U.S. Connecticut Shade. The medium strength comes from Neptune only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Mago",
+  "line": "Lotus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Criollo)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7.625,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "sweetness"
+  ],
+  "about": "El Mago's lancero, with an Ecuadorian Habano wrapper over a Criollo binder. Neptune says the name comes from a lotus flower painting by the founder's grandmother, Maria Torre.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Neptune describes the wrapper as Ecuadorian Habano maduro. The medium strength comes from Neptune only.",
+  "verified": true,
+  "verifyNotes": "No field changes. No source gives a release year, so 'released' stays null; Neptune's first customer review is December 2023."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Renegade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness",
+   "spice"
+  ],
+  "about": "A thick 5 1/2 x 56 maduro that the maker bills as a bold, full-bodied smoke. Neptune describes it as the strongest cigar in the El Mago range.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "The maker calls it full-bodied and Neptune's write-up calls it the strongest El Mago, though Neptune's spec table lists medium.",
+  "verified": true,
+  "verifyNotes": "No field changes. No source gives a release year, so 'released' stays null. Neptune also lists the cigar as box-pressed, which the maker does not mention."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Solstice",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Thin Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "baking spice",
+   "cream",
+   "black pepper"
+  ],
+  "about": "A 6 x 48 \"thin toro\" in a round tube with a Nicaraguan-grown Sumatra wrapper. It shipped in April 2024 in boxes of 14.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://halfwheel.com/el-mago-ships-solstice/438197/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-el-mago-solstice/"
+  ],
+  "notes": "halfwheel and Cigar Coop reported a limited edition of 1,000 boxes of 14, and Cigar Coop said in 2025 that the run had ended and Jaguar replaced it. The maker still shows it and Neptune still stocks it.",
+  "verified": true,
+  "verifyNotes": "No field changes. Added to the note that Cigar Coop's PCA 2025 report says the Solstice production run ended, which supports 'limited'."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Disco",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Criollo, Condega)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "El Mago's first 6 x 60, sold in round tubes in boxes of 10. It is named for the disco era that shaped Miami nightlife when the founder's grandparents moved there.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://halfwheel.com/el-mago-debuting-disco-at-rocky-mountain-cigar-festival-2024/441484/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "The maker and halfwheel say the binder is Criollo; Neptune's spec table says Corojo. The full strength comes from Neptune; the maker only calls it bold, spicy and smooth.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Mago",
+  "line": "Alakazam",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A small-batch 3 1/2 x 50 short robusto sold as a three-pack in a box made to look like a deck of cards. The box art shows a wizard lighting a cigar with a dragon's flame.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://elmagocigars.com/pages/cigars-1",
+   "https://www.neptunecigar.com/el-mago-cigar",
+   "https://www.neptunecigar.com/cigars/el-mago-alakazam-short-robusto-31-2--50"
+  ],
+  "notes": "The maker calls it a rare batch and only says it is Nicaraguan and medium; the wrapper and binder come from Neptune, which says just 500 boxes were made. Neptune also sells an Alakazam 2.0 Churchill at 7 x 50.",
+  "verified": true,
+  "verifyNotes": "Added Neptune's product page as a source and its 500-box production figure to the note. No release year is published, so 'released' stays null."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Jaguar",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed toro in a square tube that began shipping in summer 2025 as a regular production cigar. It is named after the old Jaguar the founder's grandmother drove him around in as a child.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2025-el-mago-cigars/449050/",
+   "https://halfwheel.com/el-mago-jaguar-on-the-way-to-retailers/453503/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "The full strength comes from Neptune only; the maker has not published a strength.",
+  "verified": true,
+  "verifyNotes": "Removed the box count from 'about': halfwheel reported boxes of 10 but Neptune sells boxes of 12. Blend fields unchanged. The maker's cigar page does not list Jaguar, so the strength rests on Neptune."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The Beach Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Criollo, Estelí)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "earth",
+   "spice"
+  ],
+  "about": "A value-priced box-pressed robusto sold in 25-count bundles. The name recalls the founder smoking cigars on the beach with his grandfather.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/el-mago-releasing-the-beach-blend-next-week/462143/",
+   "https://cigardojo.com/2026/02/el-mago-cigars-adds-the-beach-blend-to-its-core-line/"
+  ],
+  "notes": "Cigar Dojo reports it was made in limited quantities before joining the regular lineup in February 2026. The company describes it as medium to full bodied.",
+  "verified": true,
+  "verifyNotes": "No field changes. The strength is the company's 'medium to full bodied' wording as reported by Cigar Dojo and Cigar Coop; no source gives strength separately."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The James Avenue Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-seed (country undisclosed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Habano",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of four James Avenue blends, all 6 x 54 box-pressed toros sold in boxes of 20. The line is named for the Miami Beach street where the founder's grandfather owned The James Hotel.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/el-mago-ships-the-james-avenue/473218/",
+   "https://halfwheel.com/pca-2026-el-mago-cigars/466357/",
+   "https://cigardojo.com/2026/06/el-mago-begins-shipping-new-james-avenue-core-line/"
+  ],
+  "notes": "halfwheel says the countries of the wrapper and Habano binder are undisclosed; Cigar Dojo reports the binder is Nicaraguan. No strength is published. Each James Avenue blend has its own binder and filler recipe.",
+  "verified": true,
+  "verifyNotes": "No field changes. halfwheel, Cigar Dojo and Cigar Coop give no strength and the maker's cigar page does not list the line, so strength stays null."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The James Avenue Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (country undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Criollo",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of four James Avenue blends, all 6 x 54 box-pressed toros sold in boxes of 20. The line is named for the Miami Beach street where the founder's grandfather owned The James Hotel.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/el-mago-ships-the-james-avenue/473218/",
+   "https://halfwheel.com/pca-2026-el-mago-cigars/466357/",
+   "https://cigardojo.com/2026/06/el-mago-begins-shipping-new-james-avenue-core-line/"
+  ],
+  "notes": "halfwheel says the countries of the wrapper and Criollo binder are undisclosed; Cigar Dojo reports the binder is Nicaraguan. No strength is published. Each James Avenue blend has its own binder and filler recipe.",
+  "verified": true,
+  "verifyNotes": "No field changes. halfwheel, Cigar Dojo and Cigar Coop give no strength and the maker's cigar page does not list the line, so strength stays null. One small retailer (Luxury Cigar Club) lists it as medium-plus; not used on its own."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The James Avenue Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra-seed",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of four James Avenue blends, all 6 x 54 box-pressed toros sold in boxes of 20. The line is named for the Miami Beach street where the founder's grandfather owned The James Hotel.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/el-mago-ships-the-james-avenue/473218/",
+   "https://halfwheel.com/pca-2026-el-mago-cigars/466357/",
+   "https://cigardojo.com/2026/06/el-mago-begins-shipping-new-james-avenue-core-line/"
+  ],
+  "notes": "halfwheel says the country of the Sumatra-seed binder is undisclosed; Cigar Dojo reports the binder is Ecuadorian. No strength is published. Each James Avenue blend has its own binder and filler recipe.",
+  "verified": true,
+  "verifyNotes": "No field changes. halfwheel, Cigar Dojo and Cigar Coop give no strength and the maker's cigar page does not list the line, so strength stays null."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The James Avenue Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra-seed (country undisclosed)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Corojo",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of four James Avenue blends, all 6 x 54 box-pressed toros sold in boxes of 20. The line is named for the Miami Beach street where the founder's grandfather owned The James Hotel.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/el-mago-ships-the-james-avenue/473218/",
+   "https://halfwheel.com/pca-2026-el-mago-cigars/466357/",
+   "https://cigardojo.com/2026/06/el-mago-begins-shipping-new-james-avenue-core-line/"
+  ],
+  "notes": "halfwheel says the countries of the wrapper and Corojo binder are undisclosed; Cigar Dojo reports the binder is Ecuadorian. No strength is published. Each James Avenue blend has its own binder and filler recipe.",
+  "verified": true,
+  "verifyNotes": "No field changes. halfwheel, Cigar Dojo and Cigar Coop give no strength and the maker's cigar page does not list the line, so strength stays null."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The Offender",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Criollo)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The \"sword\" half of a two-cigar limited release from July 2026, banded in gold and built around a Sumatra wrapper as the bolder of the pair. It was blended to go with The Defender.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-mago-releases-the-offender-the-defender/476104/",
+   "https://cigardojo.com/2026/08/el-mago-introduces-the-offender-the-defender-companion-release/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Limited to 250 boxes of 20 and offered to retailers only together with The Defender. The company says it will not be made again. Medium strength comes from Neptune only; the maker calls it the bolder of the two.",
+  "verified": true,
+  "verifyNotes": "No field changes. Neptune's own Offender page confirms the Ecuadorian Sumatra-seed wrapper; its brand page shows one shared spec table with the Defender's Cameroon wrapper."
+ },
+ {
+  "brand": "El Mago",
+  "line": "The Defender",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Nicaragua (Criollo)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The \"shield\" half of a two-cigar limited release from July 2026, banded in purple with a Cameroon wrapper as the smoother of the pair. It was blended to go with The Offender.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-mago-releases-the-offender-the-defender/476104/",
+   "https://cigardojo.com/2026/08/el-mago-introduces-the-offender-the-defender-companion-release/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Limited to 250 boxes of 20 and offered to retailers only together with The Offender. The company says it will not be made again. Medium strength comes from Neptune only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Mago",
+  "line": "Collectible Tin Series Oyama Omen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "orange peel",
+   "dark chocolate"
+  ],
+  "about": "The first release in El Mago's Collectible Tin Series, a 5 x 50 box-pressed robusto that shipped in March 2026. The series was inspired by a vintage tobacco tin the founder found while thrifting.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://cigardojo.com/2026/03/el-mago-cigars-launches-limited-edition-collectible-tin-series/",
+   "https://cigar-coop.com/2026/03/el-mago-launches-limited-edition-tin-series-cigar-news.html",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Tin #1 of a planned seven. Sold in five-count collectible tins, limited to 1,000 tins (5,000 cigars), and offered first to El Mago's invite-only S-Tier retailers. The company calls it mild to medium; Neptune lists medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Mago",
+  "line": "Collectible Tin Series Mr. Almond",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cocoa",
+   "sweetness",
+   "spice"
+  ],
+  "about": "The second release in El Mago's Collectible Tin Series, a 5 x 50 box-pressed robusto that shipped in March 2026. It uses the same San Andrés maduro wrapper as Oyama Omen over a broadleaf binder.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://cigardojo.com/2026/03/el-mago-cigars-launches-limited-edition-collectible-tin-series/",
+   "https://cigar-coop.com/2026/03/el-mago-launches-limited-edition-tin-series-cigar-news.html",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Tin #2 of a planned seven. Sold in five-count collectible tins, limited to 1,000 tins (5,000 cigars), and offered first to El Mago's invite-only S-Tier retailers. Strength is unsettled: the company says slightly stronger than the mild-to-medium Oyama Omen, while Neptune lists full.",
+  "verified": true,
+  "verifyNotes": "No field changes. Strength left null: the company only says slightly stronger than Oyama Omen, and Neptune is the single retailer listing, at full."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Collectible Tin Series Jug",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "spice"
+  ],
+  "about": "The third release in El Mago's Collectible Tin Series, a 5 x 50 box-pressed robusto that shipped in May 2026. The company describes it as full-bodied.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-mago-ships-collectible-tin-series-jug-cavalry/471885/",
+   "https://cigardojo.com/2026/05/el-mago-expands-collectible-tin-series-with-jug-and-cavalry/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Tin #3 of a planned seven. Sold in five-count collectible tins, limited to 1,000 tins (5,000 cigars), and offered first to El Mago's invite-only S-Tier retailers.",
+  "verified": true,
+  "verifyNotes": "Trimmed 'about': the source only says the company calls it full-bodied, not that it is the fullest of the series. Blend fields unchanged."
+ },
+ {
+  "brand": "El Mago",
+  "line": "Collectible Tin Series Cavalry",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo (country undisclosed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "oak",
+   "berry",
+   "cream",
+   "black pepper"
+  ],
+  "about": "The fourth release in El Mago's Collectible Tin Series, a 5 x 50 box-pressed robusto with a Corojo wrapper that shipped in May 2026. halfwheel scored it 86.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-mago-collectible-tin-series-cavalry/476242/",
+   "https://cigardojo.com/2026/05/el-mago-expands-collectible-tin-series-with-jug-and-cavalry/",
+   "https://www.neptunecigar.com/el-mago-cigar"
+  ],
+  "notes": "Tin #4 of a planned seven. Sold in five-count collectible tins, limited to 1,000 tins (5,000 cigars), and offered first to El Mago's invite-only S-Tier retailers. The company calls it medium-bodied; halfwheel's review found medium-full body with strength just under medium.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

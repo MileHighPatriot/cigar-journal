@@ -1,0 +1,971 @@
+[
+ {
+  "brand": "IGM",
+  "line": "537",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica, Ecuador",
+  "filler": "Costa Rica",
+  "country": "Costa Rica",
+  "factory": "IGM Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Sublimes",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Fabulosos",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Gorditos",
+    "length": 5.125,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweetness",
+   "coffee"
+  ],
+  "about": "The house line of IGM Cigars, the family-run Costa Rican factory that also makes Casdagli. It is a medium blend built around Costa Rican tobacco under an Ecuadorian Habano wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/igm-537",
+   "https://luxurycigarclub.com/products/igm-537"
+  ],
+  "notes": "Luxury Cigar Club lists the whole line with a Habano maduro wrapper and Costa Rican, Nicaraguan and Peruvian filler. Neptune gives that blend only for the limited Rockets size. The size called Toro is a 5 x 52 robusto.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "IGM",
+  "line": "537 Limited Edition Rockets",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica, Ecuador",
+  "filler": "Costa Rica, Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "IGM Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rockets",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "sweetness"
+  ],
+  "about": "A short, thick torpedo in the IGM 537 line with a darker Habano maduro wrapper and a fuller blend than the regular sizes. It is made at the IGM Cigars factory in Costa Rica.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigars/igm-537-limited-edition-rockets",
+   "https://luxurycigarclub.com/products/igm-537"
+  ],
+  "notes": "This is one limited size (4 x 60 torpedo) of the IGM 537 line, with a different, fuller blend than the regular sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Estrella Cubana",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "nuts",
+   "cream"
+  ],
+  "about": "A value-priced cigar from General Cigar (Scandinavian Tobacco Group), introduced at the 2016 trade show. It pairs a Honduran-grown Connecticut wrapper with Nicaraguan binder and filler.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2016/09/cigar-news-general-cigar-launches-la-estrella-cubana-at-the-2016-ipcpr-trade-show.html",
+   "https://www.neptunecigar.com/cigar/la-estrella-cubana-connecticut",
+   "https://mikescigars.com/brands/la-estrella-cubana-connecticut"
+  ],
+  "notes": "Neptune rates it Medium, Mike's Cigars Medium to Full. Retailers say it is rolled in Nicaragua, but the maker did not disclose the factory at launch.",
+  "verified": true,
+  "verifyNotes": "Removed the Meier & Dutch sentence from notes: halfwheel reported that move in January 2026, not 2025, and no listed source covered it."
+ },
+ {
+  "brand": "La Estrella Cubana",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "coffee"
+  ],
+  "about": "The Habano-wrapped version of General Cigar's value-priced La Estrella Cubana, introduced in 2016. It uses a Nicaraguan Habano wrapper over a Honduran binder and Nicaraguan filler.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2016/09/cigar-news-general-cigar-launches-la-estrella-cubana-at-the-2016-ipcpr-trade-show.html",
+   "https://www.neptunecigar.com/cigar/la-estrella-cubana-habano",
+   "https://mikescigars.com/brands/la-estrella-cubana-habano"
+  ],
+  "notes": "Neptune rates it Medium, Mike's Cigars Medium to Full. Retailers say it is rolled in Nicaragua, but the maker did not disclose the factory at launch.",
+  "verified": true,
+  "verifyNotes": "Removed the Meier & Dutch sentence (announced January 2026, not 2025, and unsourced). Added the Mike's Cigars page and its Medium to Full rating to notes."
+ },
+ {
+  "brand": "National Brand",
+  "line": "Cuban Seed",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut seed shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras (Cuban seed)",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 43
+   },
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Imperial",
+    "length": 8.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "spice"
+  ],
+  "about": "A long-running Honduran bundle cigar made with tobacco from the Jamastran Valley and sold in bundles of 25. It is known as an inexpensive everyday smoke with a sweetened cap.",
+  "released": 1978,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/national-brand",
+   "https://www.neptunecigar.com/national-brand-cigar",
+   "https://www.famous-smoke.com/brand/national-brand-cigars"
+  ],
+  "notes": "The cap is sweetened, which is worth telling a guest. Retailers describe it as mild to medium. Famous Smoke says it comes from the same Honduran factory as Camacho and Baccarat, and Neptune lists Davidoff as the maker.",
+  "verified": true,
+  "verifyNotes": "Reworded wrapperLeaf to match Neptune (Connecticut seed shade; Jamastran describes the tobacco, not the wrapper). Added the Neptune brand page, the only listed page that states the sweetened cap."
+ },
+ {
+  "brand": "National Brand",
+  "line": "Cuban Seed Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras (Cuban seed)",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 43
+   },
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Imperial",
+    "length": 8.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro version of the National Brand Honduran bundle cigar, sold in bundles of 25. It uses the same Honduran filler under a dark maduro wrapper and has a lightly sweetened tip.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/national-brand-maduro",
+   "https://www.neptunecigar.com/national-brand-cigar",
+   "https://www.famous-smoke.com/brand/national-brand-cigars"
+  ],
+  "notes": "The cap is sweetened. Famous Smoke calls the wrapper Honduran Broadleaf maduro, while Neptune just lists a Honduran maduro wrapper. Neptune lists Davidoff as the maker.",
+  "verified": true,
+  "verifyNotes": "Added the Neptune brand page, which is where the sweetened cap is stated."
+ },
+ {
+  "brand": "Fable",
+  "line": "Fourth Prime",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Habano Ligero)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Cordoba & Morales",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mersenne",
+    "length": 5.25,
+    "ring": 56
+   },
+   {
+    "name": "Sapta",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Friday (Belicoso)",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Machu",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The core line from Fable Cigars, a small brand started by Sean Kremenetski and Mitul Shah in 2016. The line is themed on the number seven, the fourth prime, and uses a Pennsylvania broadleaf wrapper.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.fablecigars.com/fourth-prime/",
+   "https://halfwheel.com/fable-returns-to-market-moves-production-to-cordoba-morales/455364/",
+   "https://halfwheel.com/fable-cigars-debuts/105284/"
+  ],
+  "notes": "Originally made at RoMa Craft's Nica Sueno factory in Esteli. Production moved to Cordoba & Morales when the brand returned in 2025, with the same blend on paper. Earlier sizes such as Mi (5 3/4 x 46) and Doc (4 1/4 x 52) were not part of the relaunch.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. The maker's site has an expired security certificate and still shows the pre-2025 sizes; sizes follow halfwheel's 2025 relaunch report."
+ },
+ {
+  "brand": "Fable",
+  "line": "Two Things",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano and Connecticut (barber pole)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Habano)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Fabrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited barber pole toro and the first release in Fable's Scions series, which is themed on fathers and their children. It was Fable's first Honduran cigar, rolled at the factory behind Cavalier Geneve.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.fablecigars.com/fourth-prime-2/",
+   "https://halfwheel.com/fable-launching-first-honduran-cigar-this-week/421960/"
+  ],
+  "notes": "Two wrappers are twisted together, a Honduran Habano and a Connecticut leaf whose origin is not stated. Limited to 250 bundles of 20 cigars.",
+  "verified": true,
+  "verifyNotes": "Rewrote about: the maker's page does not call it a tribute or name which founder tells the story. The maker's site has an expired security certificate but still loads."
+ },
+ {
+  "brand": "Montesino",
+  "line": "Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diplomatico",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 6.25,
+    "ring": 44
+   },
+   {
+    "name": "Gran Corona",
+    "length": 6.75,
+    "ring": 48
+   },
+   {
+    "name": "No. 1",
+    "length": 6.875,
+    "ring": 43
+   },
+   {
+    "name": "Napoleon Grande",
+    "length": 7,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "spice",
+   "coffee"
+  ],
+  "about": "A mild, budget-priced Dominican cigar blended and made by the Fuente family at Tabacalera A. Fuente. The natural version wears a Connecticut Shade wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand/montesino-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/montesino.html",
+   "https://www.neptunecigar.com/cigar/montesino"
+  ],
+  "notes": "Neptune lists the wrapper as Ecuadorian Connecticut Shade with a Nicaraguan binder, while Famous Smoke gives the wrapper origin as Connecticut. Neptune and Holt's call it mild, Famous Smoke medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Montesino",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diplomatico",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 6.25,
+    "ring": 44
+   },
+   {
+    "name": "Gran Corona",
+    "length": 6.75,
+    "ring": 48
+   },
+   {
+    "name": "No. 1",
+    "length": 6.875,
+    "ring": 43
+   },
+   {
+    "name": "Napoleon Grande",
+    "length": 7,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "maple",
+   "nuts",
+   "molasses",
+   "black pepper"
+  ],
+  "about": "The Connecticut Broadleaf maduro version of Montesino, a budget-priced Dominican cigar made by the Fuente family at Tabacalera A. Fuente using aged Dominican tobaccos.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-montesino-maduro",
+   "https://www.famous-smoke.com/brand/montesino-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/montesino.html"
+  ],
+  "notes": "Holt's calls the brand mild, while Famous Smoke lists the Maduro as medium and the brand as mellow to medium. Holt's carries only the Robusto and Toro in Maduro.",
+  "verified": true,
+  "verifyNotes": "Filled binder from Famous Smoke's Maduro page (Dominican binder) and added that page as a source. Notes updated to match."
+ },
+ {
+  "brand": "Cachitos",
+  "line": "Cachitos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Barreda Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "earth"
+  ],
+  "about": "A short, unbanded value cigar from Enrique Sanchez's Global Premium Cigars, the company behind 1502. It is sold in five-packs and the name means little pieces in Spanish.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.globalpremiumcigars.com/cachitos/",
+   "https://halfwheel.com/global-premium-cigars-ships-cachitos-connecticut/452891/",
+   "https://www.neptunecigar.com/cigar/cachitos"
+  ],
+  "notes": "It launched in 2018 as a 4 1/2 x 50 made at Plasencia, moved to the Diamond factory in 2019, and is now sold as a 4 x 50. Neptune lists Barreda Cigars as the current maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cachitos",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "USA Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Barreda Cigars",
+  "strength": "Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "oak",
+   "nuts",
+   "pepper",
+   "earth"
+  ],
+  "about": "The second Cachitos blend from Global Premium Cigars, a short unbanded 4 x 50 with a U.S. Connecticut Shade wrapper over Nicaraguan tobaccos. It is sold in five-packs.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cachitos-connecticut/454897/",
+   "https://halfwheel.com/global-premium-cigars-ships-cachitos-connecticut/452891/",
+   "https://www.neptunecigar.com/cigar/cachitos-connecticut"
+  ],
+  "notes": "Neptune lists the strength as Medium but describes the profile as mild to medium bodied. Unlike the original Cachitos, this blend has no Honduran tobacco.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Conspiracy",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A cigar line from accessory company Quality Importers, made for it by Ernesto Perez-Carrillo at Casa Carrillo in Santiago. Each cigar is sold with a branded cutter as part of its packaging concept.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/quality-importers-begins-shipping-conspiracy-cigars/441529/",
+   "https://www.neptunecigar.com/cigar/conspiracy-connecticut"
+  ],
+  "notes": "The binder and filler are not disclosed, beyond coming from the Carrillo inventory.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Conspiracy",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The San Andres maduro blend of Conspiracy, the cigar line from accessory company Quality Importers. It is made by Ernesto Perez-Carrillo at Casa Carrillo in Santiago.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/quality-importers-begins-shipping-conspiracy-cigars/441529/",
+   "https://www.neptunecigar.com/cigar/conspiracy-maduro"
+  ],
+  "notes": "The binder and filler are not disclosed, beyond coming from the Carrillo inventory.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ilegal",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Corona",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "The Connecticut blend of Ilegal, a line from La Familia Robaina (formerly White Hat), the company behind Hirochi Robaina's HR cigars. It is made at Omar Gonzalez-Aleman's La Corona factory in Esteli.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-familia-robaina-ships-ilegal/369486/",
+   "https://halfwheel.com/ilegal-san-andres-toro/372537/",
+   "https://www.neptunecigar.com/cigar/ilegal-connecticut"
+  ],
+  "notes": "Binder and filler are not disclosed. Neptune's listing says Medium but its description calls it mild, and it describes the wrapper as USA Connecticut where halfwheel says Ecuadorian. The name is the Spanish spelling of illegal.",
+  "verified": false,
+  "verifyNotes": "Wrapper and country confirmed on halfwheel. Strength stays null: Neptune's spec says Medium, its own description says mild, and no maker page or second retailer could be opened."
+ },
+ {
+  "brand": "Ilegal",
+  "line": "San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Corona",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark chocolate",
+   "leather",
+   "black pepper",
+   "nuts",
+   "coffee"
+  ],
+  "about": "The San Andres blend of Ilegal from La Familia Robaina (formerly White Hat), blended with help from Esteban Disla of Nica Sueno. It is made at the La Corona factory in Esteli.",
+  "released": 2019,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ilegal-san-andres-toro/372537/",
+   "https://halfwheel.com/la-familia-robaina-ships-ilegal/369486/",
+   "https://www.neptunecigar.com/cigar/ilegal-san-andres"
+  ],
+  "notes": "Binder and filler are not disclosed. halfwheel's review put the strength between medium and full; Neptune's listing says Medium but its description says full. Neptune now marks it discontinued.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Latitude Zero",
+  "line": "Latitude Zero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "NACSA (Nicaraguan American Cigars S.A.)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Scandinavian Tobacco Group brand built around Ecuadorian wrapper, with the name pointing to the equator. The original blend has an Ecuadorian Habano wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/latitude-zero",
+   "https://halfwheel.com/latitude-zero-adds-signature-line/410199/"
+  ],
+  "notes": "Only the Gordo could be confirmed; other sizes may exist. Neptune's specs name the NACSA factory, though its description says Oliva Cigar Co.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Neptune is the only page that could be opened for the original blend; Cigars International blocked access, so other sizes and the release year stay blank."
+ },
+ {
+  "brand": "Latitude Zero",
+  "line": "Signature",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano), Dominican Republic (Habano), USA (Connecticut Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "NACSA (Nicaraguan American Cigars S.A.)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "leather",
+   "cream",
+   "spice"
+  ],
+  "about": "The second Latitude Zero blend from Scandinavian Tobacco Group, created by Raul Disla at the NACSA factory with tobaccos from Oliva Tobacco Co. It has an Ecuadorian Sumatra wrapper and is billed as full-bodied.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/latitude-zero-adds-signature-line/410199/",
+   "https://cigar-coop.com/2022/06/cigar-news-stg-announces-latitude-zero-signature.html"
+  ],
+  "notes": "The maker describes it as full-bodied and does not give a separate strength.",
+  "verified": true,
+  "verifyNotes": "Added Cigar Coop's launch report as a second source; it matches halfwheel."
+ },
+ {
+  "brand": "MUWAT",
+  "line": "My Uzi Weighs a Ton",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Connecticut Shade)",
+  "filler": "Brazil (Mata Fina), Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "5 x 60",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "7 x 60",
+    "length": 7,
+    "ring": 60
+   },
+   {
+    "name": "7 x 70",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "+11",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Bait Fish",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "Night Crawler",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A big-ring-gauge line from Drew Estate and Joya de Nicaragua, blended by Jonathan Drew and rolled at the Joya de Nicaragua factory. It is named after a Public Enemy song and was discontinued in 2022.",
+  "released": 2011,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/drew-estate-discontinuing-muwat-larutan-lounge-exclusives-makes-fsg-exclusive-to-corona-cigar-co/404444/",
+   "https://cigar-coop.com/2014/07/cigar-news-drew-estate-adds-muwat-nig.html",
+   "https://www.neptunecigar.com/muwat-cigar"
+  ],
+  "notes": "Made at Joya de Nicaragua, not Drew Estate's own factory. The binder is Connecticut shade leaf, which Neptune lists as Ecuadorian. MUWAT Kentucky Fire Cured is a different blend that stayed in production.",
+  "verified": true,
+  "verifyNotes": "Binder made specific: Cigar Coop says Connecticut shade and Neptune says Ecuadorian Connecticut Shade, so these agree rather than conflict. Notes reworded."
+ },
+ {
+  "brand": "MUWAT",
+  "line": "Bait Fish",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Connecticut (capote)",
+  "filler": "Brazil (Mata Fina), Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bait Fish",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "A 4 x 44 petit corona in Drew Estate's MUWAT line, made at Joya de Nicaragua with a stronger Extra Fuerte version of the blend. It began in late 2011 as a New Havana Cigars exclusive and went national in 2012.",
+  "released": 2011,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/muwat-bait-fish-national/27082/",
+   "https://www.neptunecigar.com/cigars/my-uzi-weighs-a-ton-bait-fish",
+   "https://halfwheel.com/drew-estate-discontinuing-muwat-larutan-lounge-exclusives-makes-fsg-exclusive-to-corona-cigar-co/404444/"
+  ],
+  "notes": "This is one size of the MUWAT line, formally MUWAT EF (Extra Fuerte) Bait Fish, with a slightly stronger blend than the 60 ring sizes. Neptune's listing says Medium but describes it as fuller than the rest of the line. The line was discontinued in 2022.",
+  "verified": false,
+  "verifyNotes": "Wrapper and country confirmed. Strength stays null: Neptune lists Medium for this size but Full for the line, while halfwheel calls it the stronger blend. Drew Estate no longer lists MUWAT."
+ }
+]

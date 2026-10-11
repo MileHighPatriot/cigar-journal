@@ -1,0 +1,748 @@
+[
+ {
+  "brand": "Tatuaje",
+  "line": "Pork Tenderloin",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "earth",
+   "black pepper",
+   "cedar",
+   "charred meat"
+  ],
+  "about": "A Connecticut Broadleaf robusto extra from Tatuaje, sold in bundles of 25 wrapped in butcher paper. It began in 2010 as a single-store exclusive and came back in 2025 in the original size and blend.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/tatuaje-pork-tenderloin-2025/453463/",
+   "https://halfwheel.com/tatuaje-pork-tenderloin-returns-for-limited-release/451668/",
+   "https://www.neptunecigar.com/tatuaje-cigar"
+  ],
+  "notes": "halfwheel's review of the 2025 release found medium to medium-plus strength; Neptune lists it as full. The 2010 original was 200 bundles for Gloucester Street Cigars in Boston; the 2025 run is 5,000 bundles of 25. Lomo de Cerdo is the San Andrés wrapped version.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "T110",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.375,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "leather",
+   "cedar",
+   "coffee",
+   "dark chocolate"
+  ],
+  "about": "A short, strong robusto from Tatuaje that started in 2009 as an exclusive for R. Field Wine Co. in Honolulu and returned as a national limited release in 2021. Its blend was the starting point for the Fausto and Avion lines.",
+  "released": 2009,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/tatuaje-t110-2021/394900/",
+   "https://halfwheel.com/tatuajes-corojo-wrapped-t110-cohete-and-avion-13-head-to-stores/454045/",
+   "https://www.neptunecigar.com/tatuaje-cigar"
+  ],
+  "notes": "Every version is 4 3/8 x 52. Other wrappers: Reserva (Connecticut Broadleaf), Capa Especial (Ecuadorian Sumatra), Tuxtla (Mexican San Andrés, 2022) and Corojo (Nicaraguan corojo, 2025, 4,000 boxes of 25). The T stands for Thermonuclear and 110 is the length in millimeters.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "Cohete",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "dark chocolate",
+   "earth",
+   "leather",
+   "black pepper"
+  ],
+  "about": "A 4 x 50 short robusto based on the Tatuaje Brown Label blend. Cohete is Spanish for rocket, and the cigar started in 2006 as an exclusive for Tower Pipes & Cigars in Sacramento.",
+  "released": 2006,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/tatuajes-corojo-wrapped-t110-cohete-and-avion-13-head-to-stores/454045/",
+   "https://halfwheel.com/review-tatuaje-cohete-2013/36638/",
+   "https://www.neptunecigar.com/cigars/tatuaje-cohetes-habano"
+  ],
+  "notes": "Other wrappers: Reserva (Connecticut Broadleaf), Capa Especial (Ecuadorian Sumatra) and Corojo (Nicaraguan corojo, 2025, 2,000 boxes of 25). Neptune lists the Habano and Corojo as medium and the Broadleaf as full; halfwheel's 2013 review ended a bit over medium. Early runs were rolled in Miami.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: no cited page said medium-full for the Habano; Neptune's Habano listing says medium and halfwheel's 2013 review ended a bit stronger than medium. Swapped one halfwheel news link for the Neptune Habano page that carries the strength. Notes reworded to match."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "PCA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "PCA 2022",
+    "length": 5.375,
+    "ring": 52
+   },
+   {
+    "name": "PCA 2023",
+    "length": 6.375,
+    "ring": 54
+   },
+   {
+    "name": "PCA 2025 Exclusive",
+    "length": 5.625,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "espresso",
+   "baking spice"
+  ],
+  "about": "A limited cigar Tatuaje makes only for retailers who order at the Premium Cigar Association trade show. The size and wrapper change with each edition, and Tatuaje donates 50 cents per cigar to the PCA.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/tatuaje-pca-2022/421913/",
+   "https://halfwheel.com/pca-2025-tatuaje/448344/",
+   "https://www.neptunecigar.com/tatuaje-cigar"
+  ],
+  "notes": "The blend changes by edition. Wrapper, strength and flavors here are the PCA 2025 Exclusive (shipped January 2026); PCA 2022 and PCA 2023 used an Ecuadorian Sumatra wrapper, and Neptune lists the 2023 as full. Each edition ships months after its trade show.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences. All fields confirmed."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "TAA 2013 (10th Anniversary Grand Chasseur)",
+    "length": 6.375,
+    "ring": 54
+   },
+   {
+    "name": "TAA 2014",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "TAA 2015",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "TAA 2016",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "TAA 2017",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "TAA 50th",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "TAA 51st",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "TAA 2020",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "TAA 2022",
+    "length": 5.375,
+    "ring": 52
+   },
+   {
+    "name": "TAA 2023",
+    "length": 6.375,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "chocolate",
+   "cream",
+   "coffee"
+  ],
+  "about": "A limited cigar Tatuaje has made since 2011 for members of the Tobacconists' Association of America, sold only through TAA retailers. The size changes each edition and most editions wear a Connecticut Broadleaf wrapper.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/tatuaje-taa-2023/441386/",
+   "https://halfwheel.com/tatuaje-taa-2020/376727/",
+   "https://www.neptunecigar.com/tatuaje-cigar"
+  ],
+  "notes": "The blend changes by edition; details here are the TAA 2023 (2,500 boxes of 20, shipped April 2024). Seven of the first ten editions used Connecticut Broadleaf, and the TAA 2020 used Ecuadorian Sumatra. Neptune lists the 2023 as medium; halfwheel's reviewer found it mild in strength.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed from five sentences to three; dropped the 2011 and 2012 sizes from notes. All fields confirmed. Corona Cigar lists the TAA 2023 as mild to medium."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "Sextooth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Fast and Slow",
+    "length": 4.5,
+    "ring": 40
+   },
+   {
+    "name": "Holiday",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "William Blake",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Vampire",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "cedar"
+  ],
+  "about": "A lower-priced regular production Tatuaje line made with Los Angeles musician Andreas Contogouris, who performs as Sextooth. Each size is named after one of his songs.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/tatuaje-shipping-sextooth-next-week/457412/",
+   "https://www.neptunecigar.com/tatuaje-cigar"
+  ],
+  "notes": "Strength and flavor words come from Neptune only. Began shipping to stores at the start of December 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "Old Man and the C Monster",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 7,
+    "ring": 44
+   },
+   {
+    "name": "Culebra",
+    "length": 7,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited release that puts the all-Nicaraguan Creature blend from the Monster Series into Tatuaje's Old Man and the C format. Each coffin holds one lonsdale and a culebra of three twisted cigars.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/tatuajes-old-man-and-the-c-monster-shipping-next-week/477893/",
+   "https://halfwheel.com/pca-2026-tatuaje/468487/",
+   "https://www.neptunecigar.com/tatuaje-cigar"
+  ],
+  "notes": "Limited to 1,300 boxes of six coffins. Neither the wrapper varietal nor a strength is published, only that the blend is all Nicaraguan; Neptune lists the full-size Creature from Tatuaje, the same blend, as full. Earlier Old Man and the C releases used the El Triunfador, Black Label and Fausto blends.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences. Confirmed no strength or wrapper varietal is published."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "La Union",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Varies by cigar: Nicaraguan Corojo 99, Ecuadorian Habano, Ecuadorian Sumatra or Connecticut Broadleaf",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes pelo de oro)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prominente Especial",
+    "length": 7.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A joint release from My Father and Tatuaje marking 20 years of the García family making Pete Johnson's cigars. Each humidor holds 40 cigars: 20 blended by Johnson for My Father and 20 blended by the Garcías for Tatuaje.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/my-father-tatuaje-ship-first-la-union-collaboration/433988/",
+   "https://halfwheel.com/my-father-tatuajes-la-union-red-humidor-shipping-in-late-september/454315/",
+   "https://www.neptunecigar.com/tatuaje-cigar"
+  ],
+  "notes": "Four blends in two co-branded humidors of 1,500 each; no strength is published. Black (2024): Tatuaje for My Father in Nicaraguan corojo 99, My Father for Tatuaje in Ecuadorian habano. Red (2025): Tatuaje for My Father in Ecuadorian Sumatra, My Father Para Tatuaje in Connecticut broadleaf.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed from five sentences to three. Confirmed no strength is listed; Neptune only calls the two Black cigars medium-bodied."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "HCS",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#1 Robusto Larga",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "#2 Toro Grande",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "#3 Torpedo Cubano",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "earth",
+   "leather",
+   "spice"
+  ],
+  "about": "A soft box-pressed Tatuaje line made by José \"Pepín\" García and Pete Johnson exclusively for Holt's Cigar Company in Philadelphia. It was introduced in 2010.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/tatuaje-hcs.html",
+   "https://halfwheel.com/review-tatuaje-hcs-1-reserva/32886/"
+  ],
+  "notes": "Sold only at Holt's, which does not publish the binder. Sizes here are as Holt's lists them now; a 2012 halfwheel list gave #2 as 6 5/8 x 54 and #3 as 6 1/4 x 52. The factory is as halfwheel lists it for the Broadleaf version, which shares the same filler.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences. All fields confirmed."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "HCS Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#1 Robusto Larga",
+    "length": 5.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "leather",
+   "cedar",
+   "black pepper",
+   "earth"
+  ],
+  "about": "The Connecticut Broadleaf version of the Tatuaje HCS, a soft box-pressed cigar made exclusively for Holt's Cigar Company. It uses the same Nicaraguan filler as the regular HCS under a darker wrapper.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/tatuaje-hcs-maduro.html",
+   "https://halfwheel.com/review-tatuaje-hcs-1-reserva/32886/"
+  ],
+  "notes": "Sold only at Holt's, in one size. halfwheel reviewed the Broadleaf HCS #1 at its October 2012 debut under the name HCS #1 Reserva. Holt's lists it as full; halfwheel's review called it medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "L'Atelier",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sancti Spiritus",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "LAT52",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "LAT54",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "LAT56",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "LAT46",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Roxy",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cherry",
+   "leather",
+   "spice",
+   "earth",
+   "cedar"
+  ],
+  "about": "The original line from L'Atelier Imports, the sister company Pete Johnson started in 2012, often called LAT. It was the first known cigar to use an Ecuadorian Sancti Spiritus wrapper and is made by the García family.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/latelier-roxy-surrogates-big-ten-robusto-head-to-stores/427911/",
+   "https://halfwheel.com/ipcpr-2012-tatuaje-latelier-imports/30793/",
+   "https://www.neptunecigar.com/l-atelier-cigar"
+  ],
+  "notes": "L'Atelier Imports was a separate company folded into Tatuaje in 2018. Sancti Spiritus is a Criollo and Pelo de Oro hybrid; Neptune's blurb calls the wrapper Ecuadorian Habano. The LAT46 uses a lighter priming of the wrapper and went only to select stores, and Selection Spéciale is the darker wrapper version.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences. All fields confirmed; LAT46 size and lighter wrapper confirmed in halfwheel's 2020 LAT 46 review."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "L'Atelier La Mission",
+  "found": true,
+  "officialName": "La Mission L'Atelier",
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes Sancti Spiritus)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "1959",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "1989",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "2009",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "1999",
+    "length": 5.625,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "chocolate",
+   "spice",
+   "wood",
+   "leather"
+  ],
+  "about": "A San Andrés wrapped line from L'Atelier, introduced in 2015 and described by Pete Johnson as the strongest L'Atelier blend at the time. It is named for the Bordeaux winery Château La Mission Haut-Brion, and the sizes are named for its 100-point vintages.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-mission-du-latelier-debuting-at-ipcpr-2015/87793/",
+   "https://halfwheel.com/la-mission-de-latelier-2020/403366/",
+   "https://www.neptunecigar.com/l-atelier-cigar"
+  ],
+  "notes": "Launched as La Mission du L'Atelier and now sold as La Mission L'Atelier. Neptune lists it as full strength, and Pete Johnson called it the strongest L'Atelier release at launch. The 1955, 1982 and 2003 sizes are on hiatus.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Full: Neptune and Corona Cigar both list it as full. The cited halfwheel review is of a one-off 9 1/4 x 47 size and found medium strength, not medium-full as the old note said. Set officialName to the current name per halfwheel. Notes rewritten and trimmed."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "L'Atelier Roxy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sancti Spiritus (Roxy) or Connecticut Broadleaf (Maduro Roxy)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "grass"
+  ],
+  "about": "A 3 1/2 x 50 petit robusto added to the L'Atelier and L'Atelier Maduro lines in 2023. K.C. Johnson of L'Atelier named it for his dog Roxy, who died that year.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/latelier-roxy-surrogates-big-ten-robusto-head-to-stores/427911/",
+   "https://halfwheel.com/pca-2023-tatuaje/421007/",
+   "https://www.neptunecigar.com/l-atelier-cigar"
+  ],
+  "notes": "This is one size of the L'Atelier and L'Atelier Maduro lines, not a separate blend. Boxes of 20 hold 10 of each wrapper. Wrapper category and origin here are for the original Sancti Spiritus version, a Criollo and Pelo de Oro hybrid; the Maduro Roxy is Connecticut Broadleaf.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "L'Atelier Cote d'Or",
+  "found": true,
+  "officialName": "L'Atelier Côte d'Or",
+  "wrapperLeaf": "Ecuadorian Sancti Spiritus",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes pelo de oro)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Côte d'Or '15",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Côte d'Or '17",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Côte d'Or '19",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "La Tâche",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "La Tâche '18",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "wood",
+   "pepper",
+   "cream",
+   "sweetness"
+  ],
+  "about": "A limited L'Atelier series built around pelo de oro filler tobacco grown by the García family, first released in 2015. It is named for the Burgundy wine region known for pinot noir, a grape as hard to grow as pelo de oro.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/latelier-cote-dor-19-surrogates-back-line-shipping-next-week/452761/",
+   "https://halfwheel.com/latelier-cote-dor-la-tache-18-begins-shipping-nationwide/440588/",
+   "https://www.neptunecigar.com/l-atelier-cigar"
+  ],
+  "notes": "Every size is a separate limited run; the newest is the '19 (2025, 1,500 boxes of 10), named as the next in the sequence, not for a vintage. The La Tâche releases use a lighter wrapper. Sancti Spiritus is a Criollo and Pelo de Oro hybrid, and strength is as Neptune lists it.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed from five sentences to three. All fields confirmed."
+ },
+ {
+  "brand": "Tatuaje",
+  "line": "L'Atelier Extension de la Racine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes Sancti Spiritus)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "ER13",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "ER14",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "ER15",
+    "length": 6.75,
+    "ring": 43
+   },
+   {
+    "name": "ER16",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "ER17",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "Racine ERB",
+    "length": 5.375,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "cinnamon",
+   "leather"
+  ],
+  "about": "A Nicaraguan puro from L'Atelier released once a year from 2013 to 2017, only to retailers who ordered at the industry trade show. It returned in 2022 as the Racine ERB perfecto.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/latelier-racine-erb/415865/",
+   "https://halfwheel.com/latelier-extension-de-la-racine-er16/134635/",
+   "https://www.neptunecigar.com/l-atelier-cigar"
+  ],
+  "notes": "Each year is a different size and a separate limited run; the 2017 and 2022 runs were 500 boxes of 20. Strength varies by year: Neptune lists the ER17 as medium, while halfwheel found the ER16 medium-plus to medium-full. L'Atelier Imports was folded into Tatuaje in 2018.",
+  "verified": true,
+  "verifyNotes": "Notes: replaced the claim about halfwheel's ER13 review, which is not in the cited pages, with the ER16 review finding that is. All fields confirmed."
+ }
+]

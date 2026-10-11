@@ -1,6 +1,8 @@
 import { describe, expect, it } from 'vitest'
 import { newCigar, newSmoke } from '../src/data/factories'
+import type { Cigar } from '../src/data/types'
 import { filterCigars, statsByCigar, strengthCounts } from '../src/domain/cigars'
+import { closestCigars } from '../src/domain/search'
 
 const padron = newCigar({
   brand: 'Padron',
@@ -108,6 +110,12 @@ describe('cigar filter', () => {
     expect(filterCigars(all, { ...base, query: 'fuente connecticut' }, none)).toHaveLength(0)
   })
 
+  it('puts cigars with the words in their name ahead of ones that only mention them', () => {
+    const mention = { ...ashton, id: 'mention', about: 'Often compared with the Hemingway.' }
+    const found = filterCigars([mention, ...all], { ...base, query: 'hemingway' }, none)
+    expect(found.map((c) => c.id)).toEqual([fuente.id, 'mention'])
+  })
+
   it('filters by strength, wrapper, and cigars added by hand', () => {
     expect(filterCigars(all, { ...base, strength: 2 }, none).map((c) => c.brand)).toEqual([
       'Ashton',
@@ -122,5 +130,37 @@ describe('cigar filter', () => {
 
   it('counts cigars at each strength', () => {
     expect(strengthCounts(all)).toEqual([0, 1, 1, 1, 0])
+  })
+})
+
+describe('closest matches when nothing matches every word', () => {
+  const make = (brand: string, line: string) => ({
+    ...(all[0] as Cigar),
+    id: `${brand}-${line}`,
+    brand,
+    line,
+  })
+  const list = [
+    make('CAO', 'Flathead'),
+    make('CAO', 'Brazilia'),
+    make('Drew Estate', 'Liga Privada Único Serie Year of the Rat'),
+    make('Drew Estate', 'Liga Privada No. 9'),
+    make('Padron', '1964 Anniversary Series'),
+  ]
+  const names = (query: string) => closestCigars(list, query).map((c) => c.line)
+
+  it('drops the word that is not in the name', () => {
+    expect(names('cao flathead habano')).toEqual(['Flathead'])
+  })
+
+  it('forgives a misspelled word', () => {
+    expect(names('liga pravada year of the rat')).toEqual([
+      'Liga Privada Único Serie Year of the Rat',
+    ])
+  })
+
+  it('shows nothing when only one word of several matches', () => {
+    expect(names('cao zzzz qqqq')).toEqual([])
+    expect(names('zzzz')).toEqual([])
   })
 })

@@ -1,0 +1,1074 @@
+[
+ {
+  "brand": "Don Lino",
+  "line": "Africa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic (Piloto), Nicaragua (Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Duma Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Punda Milia Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Kifaru Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Tembo Gran Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "wood",
+   "baking spice"
+  ],
+  "about": "A Miami Cigar & Co. line inspired by Nestor Miranda's safari trips, with sizes named in Swahili after African animals. The current version is blended and made by AJ Fernandez in Estelí.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-brand/don-lino/",
+   "https://halfwheel.com/don-lino-africa-duma/372985/",
+   "https://www.neptunecigar.com/cigar/don-lino-africa"
+  ],
+  "notes": "The original Africa line dates to the mid-2000s; the current AJ Fernandez blend shipped in November 2019. Neptune lists it as full, but halfwheel's review found it closer to medium-plus with little nicotine kick. A fifth size, Kudu (4 x 44), is no longer on the maker's site.",
+  "verified": true,
+  "verifyNotes": "Set released to null (was 2006): halfwheel gives 'around 2006 or 2007' in one article and about 2004 to 2005 in another, and Neptune staff say 2004. Reworded notes to match. Blend, factory and four sizes confirmed on miamicigar.com and halfwheel; strength is Neptune's label only."
+ },
+ {
+  "brand": "Don Lino",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Criollo 98, Olor), Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "hay",
+   "cream",
+   "cedar",
+   "white pepper"
+  ],
+  "about": "A value-priced Dominican-made Connecticut shade cigar from Miami Cigar & Co., introduced alongside the Don Lino Maduro in 2021.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/don-lino-connecticut-robusto/403715/",
+   "https://halfwheel.com/miami-cigar-co-ships-new-dominican-don-linos/401093/",
+   "https://www.neptunecigar.com/cigar/don-lino-connecticut"
+  ],
+  "notes": "Factory is undisclosed: Neptune lists La Aurora, but halfwheel was told it is not made there. halfwheel's review rated the strength mild-medium. It is no longer on Miami Cigar's site and Neptune marks most sizes discontinued, so it may be phased out.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Lino",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Cameroon, Dominican Republic (Criollo 98), USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A value-priced Dominican-made cigar from Miami Cigar & Co. with a Mexican San Andrés wrapper, introduced alongside the Don Lino Connecticut in 2021.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/miami-cigar-co-ships-new-dominican-don-linos/401093/",
+   "https://halfwheel.com/pca-2021-miami-cigar-co/394263/",
+   "https://www.neptunecigar.com/cigar/don-lino-maduro"
+  ],
+  "notes": "Factory is undisclosed: Neptune lists La Aurora, but halfwheel was told the 2021 Don Linos are not made there. It is no longer on Miami Cigar's site and Neptune marks sizes discontinued, so it may be phased out.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Havana Honeys",
+  "line": "Honey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Olor)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": "Mild",
+  "sizes": [
+   {
+    "name": "Del Sol Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Cigarillos",
+    "length": 4,
+    "ring": 30
+   }
+  ],
+  "flavors": [
+   "honey"
+  ],
+  "about": "A mild, honey-flavored Dominican cigar with an Indonesian wrapper. Havana Honeys is a Scandinavian Tobacco Group brand.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/havana-honeys-honey",
+   "https://www.neptunecigar.com/cigars/havana-honeys-honey-del-sol-corona",
+   "https://halfwheel.com/stg-shuffles-portfolio-sends-cohiba-to-forged-room101-to-general/460345/"
+  ],
+  "notes": "Flavored cigar. Blend details come from one retailer, Neptune. STG moved the brand from General Cigar to Forged Cigar Co. in February 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Havana Honeys",
+  "line": "Rum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Olor)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": "Mild",
+  "sizes": [
+   {
+    "name": "Del Sol Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Cigarillos",
+    "length": 4,
+    "ring": 30
+   }
+  ],
+  "flavors": [
+   "rum"
+  ],
+  "about": "A mild, rum-flavored Dominican cigar with an Indonesian wrapper. Havana Honeys is a Scandinavian Tobacco Group brand.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/havana-honeys-rum",
+   "https://www.neptunecigar.com/cigars/havana-honeys-rum-del-sol-corona",
+   "https://halfwheel.com/stg-shuffles-portfolio-sends-cohiba-to-forged-room101-to-general/460345/"
+  ],
+  "notes": "Flavored cigar. Blend details come from one retailer, Neptune. STG moved the brand from General Cigar to Forged Cigar Co. in February 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Havana Honeys",
+  "line": "Vanilla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Olor)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": "Mild",
+  "sizes": [
+   {
+    "name": "Del Sol Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Cigarillos",
+    "length": 4,
+    "ring": 30
+   }
+  ],
+  "flavors": [
+   "vanilla"
+  ],
+  "about": "A mild, vanilla-flavored Dominican cigar with an Indonesian wrapper. Havana Honeys is a Scandinavian Tobacco Group brand.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/havana-honeys-vanilla",
+   "https://www.neptunecigar.com/cigars/havana-honeys-vanilla-del-sol-corona",
+   "https://halfwheel.com/stg-shuffles-portfolio-sends-cohiba-to-forged-room101-to-general/460345/"
+  ],
+  "notes": "Flavored cigar. Blend details come from one retailer, Neptune. STG moved the brand from General Cigar to Forged Cigar Co. in February 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viva La Vida",
+  "line": "Viva La Vida",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano 2000 Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Jester",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Diademas Finas",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Club 500",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "coffee",
+   "rum",
+   "raisin",
+   "black pepper",
+   "leather"
+  ],
+  "about": "The original Nicaraguan puro from Artesano del Tobacco, the company of former Cigar Inn owners Billy and Gus Fakih. It is made by AJ Fernandez in Estelí.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://artesanodeltobacco.com/cigar-brands/viva-la-vida/",
+   "https://cigardojo.com/2019/08/viva-la-vida-robusto/",
+   "https://halfwheel.com/viva-la-vida-jester/369764/"
+  ],
+  "notes": "Cigar Dojo rates it medium-full in strength and full in body; Neptune lists it as full. The Club 500 is box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viva La Vida",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "graham cracker",
+   "cream",
+   "earth",
+   "cedar",
+   "white pepper"
+  ],
+  "about": "The Connecticut-wrapped version of Viva La Vida from Artesano del Tobacco, made by AJ Fernandez. It pairs an Ecuadorian Connecticut wrapper with the Nicaraguan core of the original and is more peppery than most Connecticuts.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://artesanodeltobacco.com/cigar-brands/viva-la-vida-connecticut/",
+   "https://halfwheel.com/viva-la-vida-connecticut-churchill/480052/",
+   "https://www.neptunecigar.com/cigar/viva-la-vida-connecticut"
+  ],
+  "notes": "The maker's page lists the Churchill as 6 x 54, but halfwheel and Neptune both give 7 x 54. A 7 x 38 Lancero has been announced. Neptune lists it as medium; halfwheel's reviews found the strength mild to mild-medium.",
+  "verified": true,
+  "verifyNotes": "Added the strength disagreement to notes and dropped the Churchill ship date to keep notes short. Blend, factory, sizes and April 2025 release confirmed on the maker's page and halfwheel; strength confirmed on Neptune."
+ },
+ {
+  "brand": "Viva La Vida",
+  "line": "5th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-grown Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Jester Flat Round Belicoso",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Club 500 Sabroso",
+    "length": 5.25,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "raisin",
+   "earth",
+   "dark chocolate",
+   "coffee",
+   "honey",
+   "leather"
+  ],
+  "about": "A release marking five years of Viva La Vida from Artesano del Tobacco. It keeps the original Nicaraguan binder and filler under a Habano-seed maduro wrapper grown in Connecticut, in two box-pressed shapes.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://artesanodeltobacco.com/cigar-brands/viva-la-vida-5th-anniversary/",
+   "https://halfwheel.com/viva-la-vida-5th-anniversary-club-500-sabroso/439399/",
+   "https://www.neptunecigar.com/cigar/viva-la-vida"
+  ],
+  "notes": "Regular production despite the anniversary name. The maker lists the Club 500 Sabroso as 5.25 x 58; halfwheel and Neptune list it as 5 1/4 x 56. Neptune labels it full, but halfwheel's review found the strength medium to medium-full. The maker gives no word for it.",
+  "verified": true,
+  "verifyNotes": "Swapped the halfwheel news link for halfwheel's review, which has the full spec table, and added its strength finding to notes. Wrapper, factory, sizes and March 2024 release confirmed on the maker's page and halfwheel; strength is Neptune's label."
+ },
+ {
+  "brand": "Cuban Aristocrat",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar"
+  ],
+  "about": "A budget Dominican cigar from Jochy Blanco's Indian Head brand family, made at Tabacalera Palma. The Connecticut is the mildest of the three Cuban Aristocrat blends.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/cuban-aristocrat-connecticut",
+   "https://www.neptunecigar.com/cuban-aristocrat-cigar",
+   "https://www.mikescigars.com/cuban-aristocrat-connecticut-robusto"
+  ],
+  "notes": "No maker page found; the blend is from Neptune. Mike's Cigars lists all-Dominican tobacco and medium to full strength in its spec box while describing it as mellow to medium. Neptune says the brand dates to 2007.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cuban Aristocrat",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black pepper"
+  ],
+  "about": "A budget Dominican cigar from Jochy Blanco's Indian Head brand family, made at Tabacalera Palma. The Habano is the medium-bodied blend of the three Cuban Aristocrat versions.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/cuban-aristocrat-habano",
+   "https://www.neptunecigar.com/cuban-aristocrat-cigar",
+   "https://www.mikescigars.com/cuban-aristocrat-habano-robusto"
+  ],
+  "notes": "No maker page found; the blend is from Neptune. Mike's Cigars lists all-Dominican tobacco and medium to full strength. Neptune says the brand dates to 2007.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cuban Aristocrat",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "leather",
+   "spice"
+  ],
+  "about": "A budget Dominican cigar from Jochy Blanco's Indian Head brand family, made at Tabacalera Palma. The Maduro is the strongest of the three Cuban Aristocrat blends.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/cuban-aristocrat-maduro",
+   "https://www.neptunecigar.com/cuban-aristocrat-cigar",
+   "https://www.mikescigars.com/cuban-aristocrat-maduro-robusto"
+  ],
+  "notes": "No maker page found. Neptune's brand page names a Mexican San Andrés wrapper, while its spec box says only Maduro and Mike's Cigars lists a Dominican wrapper. Neptune rates it full; Mike's says medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fortis",
+  "line": "Gran Reserva Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "cocoa",
+   "cedar",
+   "black pepper"
+  ],
+  "about": "The first cigar from Fortis Cigar Company, on the market since 2023 and made with AJ Fernandez in Estelí. It uses a San Andrés maduro wrapper the maker says is aged five years over Nicaraguan binder and filler.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://fortiscigars.com/gran-reserva",
+   "https://www.neptunecigar.com/cigar/fortis-gran-reserva-maduro",
+   "https://www.neptunecigar.com/fortis-cigars-cigar"
+  ],
+  "notes": "The maker rates the Toro medium and the Robusto medium-full. Neptune calls the 6 x 56 a Toro Gordo and says the filler is Corojo 99, Criollo 98 and ligero from AJ Fernandez's farms.",
+  "verified": true,
+  "verifyNotes": "Changed 'founded in 2023' in about to 'on the market since 2023': the maker's page says only 'Since 2023'. Blend, both sizes and strength confirmed on fortiscigars.com; the factory name comes from Neptune."
+ },
+ {
+  "brand": "Fortis",
+  "line": "Gran Reserva Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "leather",
+   "sweetness"
+  ],
+  "about": "The Ecuadorian Habano-wrapped version of the Fortis Gran Reserva, made with AJ Fernandez in Estelí over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://fortiscigars.com/gran-reserva",
+   "https://www.neptunecigar.com/cigar/fortis-gran-reserva-habano"
+  ],
+  "notes": "Sold in one size. Neptune calls the 6 x 56 a Toro Gordo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fortis",
+  "line": "Gran Reserva Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto), Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth"
+  ],
+  "about": "The Connecticut shade version of the Fortis Gran Reserva, made with AJ Fernandez in Estelí. It is the mildest of the three Gran Reserva blends.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://fortiscigars.com/gran-reserva",
+   "https://www.neptunecigar.com/cigar/fortis-gran-reserva-connecticut"
+  ],
+  "notes": "The maker rates it mild-medium and lists a Dominican Piloto and Nicaraguan binder; Neptune rates it mild and lists a Nicaraguan binder only. Sold in one size, which Neptune calls a Toro Gordo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Instructora",
+  "line": "Perfección",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98, Piloto)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso Extra",
+    "length": 6,
+    "ring": 57
+   },
+   {
+    "name": "Invicto",
+    "length": 5.75,
+    "ring": 56
+   },
+   {
+    "name": "Petite Salomón",
+    "length": 5.5,
+    "ring": 47
+   },
+   {
+    "name": "Royal Corona",
+    "length": 5.125,
+    "ring": 48
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice"
+  ],
+  "about": "A collaboration between Jochy Blanco of Tabacalera Palma and retailer Aaron Saide of Sans Pareil. It is built around an Ecuadorian Habano rosado wrapper over Dominican tobaccos grown mostly by Blanco.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-instructora-begins-appearing-retail/154839/",
+   "https://halfwheel.com/two-new-la-instructora-sizes-ship/258778/",
+   "https://www.neptunecigar.com/cigar/la-instructora-perfection"
+  ],
+  "notes": "Neptune spells the line Perfection. The filler includes seco leaves aged five and six years. It was quietly on sale from about 2016 and formally shown at the 2017 trade show.",
+  "verified": true,
+  "verifyNotes": "Changed released from 2017 to 2016: halfwheel's June 2017 article says it had been on the market for just over a year. Blend, factory and five sizes confirmed on halfwheel; strength is Neptune's label. The maker site would not load."
+ },
+ {
+  "brand": "La Instructora",
+  "line": "Box Pressed",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Piloto)",
+  "filler": "Dominican Republic (Criollo 98, Piloto)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Box Pressed 1",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Box Pressed 2",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Box Pressed 3",
+    "length": 5.5,
+    "ring": 47
+   },
+   {
+    "name": "Box Pressed 4",
+    "length": 4.25,
+    "ring": 46
+   },
+   {
+    "name": "Box Pressed 5",
+    "length": 5.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "spice",
+   "chocolate",
+   "leather"
+  ],
+  "about": "A box-pressed line from Jochy Blanco of Tabacalera Palma and Aaron Saide of Sans Pareil. It uses a dark Brazilian Cubra wrapper over Dominican Piloto and Criollo 98 grown by Blanco.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-instructora-begins-appearing-retail/154839/",
+   "https://halfwheel.com/two-new-la-instructora-sizes-ship/258778/",
+   "https://www.neptunecigar.com/cigar/la-instructora-box-pressed"
+  ],
+  "notes": "Sizes are numbered rather than named. halfwheel gives the No. 5 as 5 1/2 x 55; Neptune lists it as 5 5/8 x 55. It was quietly on sale from about 2016 and formally shown at the 2017 trade show.",
+  "verified": true,
+  "verifyNotes": "Changed released from 2017 to 2016: halfwheel's June 2017 article says it had been on the market for just over a year. Blend, factory and five sizes confirmed on halfwheel; strength and body are from Neptune. The maker site would not load."
+ },
+ {
+  "brand": "La Instructora",
+  "line": "Delicado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "USA Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Presidente",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "The first Connecticut-wrapped La Instructora, made at Tabacalera Palma with a US-grown Connecticut shade wrapper over aged Dominican binder and filler from Jochy Blanco. The blend has no ligero.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-instructora-delicado-ships-to-retailers/366526/",
+   "https://www.neptunecigar.com/cigar/la-instructora-delicado"
+  ],
+  "notes": "Neptune lists it as medium; brand owner Aaron Saide describes it as smooth and on the milder side. Production is ongoing but limited in quantity.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rough Rider",
+  "line": "Sweets Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Little Guys",
+    "length": 4.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "honey",
+   "sugar cane",
+   "cream",
+   "cedar"
+  ],
+  "about": "A value-priced, sweet-tipped long-filler cigar from Jochy Blanco's La Galera and Indianhead company, made at Tabacalera Palma. The cap is sweetened but the tobacco is not infused.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/indianhead-cigars-releases-rough-rider-sweets/115083/",
+   "https://halfwheel.com/roughrider-sweets-adds-new-size-maduro-version/380952/",
+   "https://www.neptunecigar.com/cigar/rough-rider-sweets-connecticut"
+  ],
+  "notes": "The Rough Rider Sweets name dates to about 2001; this version launched in May 2016. halfwheel and Mike's Cigars call it mild, while Neptune's spec lists medium. Sources name the Dominican binder variously as Olor or Piloto Cubano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rough Rider",
+  "line": "Sweets Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "honey",
+   "wine",
+   "sugar cane"
+  ],
+  "about": "The maduro version of Rough Rider Sweets, with a Mexican San Andrés wrapper and binder over Dominican filler and a sweetened cap. It is made at Tabacalera Palma for Jochy Blanco's La Galera and Indianhead company.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/roughrider-sweets-adds-new-size-maduro-version/380952/",
+   "https://www.neptunecigar.com/cigar/rough-rider-sweets-maduro",
+   "https://www.mikescigars.com/indian-head-rough-rider-sweets-maduro-robusto"
+  ],
+  "notes": "Retailers disagree on strength: Mike's Cigars lists mild to medium, Neptune lists medium. The Gordo is listed by Mike's only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rough Rider",
+  "line": "Sweets Candela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Mexico",
+  "filler": "Cameroon, Dominican Republic (Criollo 98, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "leather",
+   "sweetness"
+  ],
+  "about": "A green candela-wrapped addition to La Galera's value-priced Rough Rider brand, introduced at PCA 2025. It uses a Dominican candela wrapper over a Mexican binder with Cameroon and Dominican fillers.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-adding-rough-rider-candela-senoritas/448505/",
+   "https://www.neptunecigar.com/cigar/rough-rider-sweets-candela",
+   "https://www.mikescigars.com/indian-head-rough-rider-sweets-candela-robusto"
+  ],
+  "notes": "halfwheel calls it Rough Rider Candela; retailers list it as Rough Rider Sweets Candela. Strength is from Neptune only.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

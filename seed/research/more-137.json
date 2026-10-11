@@ -1,0 +1,753 @@
+[
+ {
+  "brand": "El Titan de Bronze",
+  "line": "Redemption",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (sun grown)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toasted bread",
+   "earth",
+   "black pepper",
+   "nuts",
+   "cocoa"
+  ],
+  "about": "The flagship line from El Titan de Bronze, a small family-run factory on Calle Ocho in Miami's Little Havana. This version was reblended in 2024 with an Ecuadorian habano wrapper over all-Nicaraguan binder and filler.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://eltitancigars.com/products/el-titan-de-bronze-redemption-cigar",
+   "https://halfwheel.com/el-titan-de-bronze-redemption-toro/443642/",
+   "https://halfwheel.com/el-titan-de-bronze-stg-end-distribution-agreement/476499/"
+  ],
+  "notes": "This is the 2024 Redemption first sold through General Cigar; the factory took distribution back in August 2026. The maker calls the wrapper Sun Grown Habano without an origin; halfwheel gives Ecuador. The older Redemption Sun Grown and Maduro are separate blends.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Titan de Bronze",
+  "line": "Redemption Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (Cuban-seed), Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "black pepper",
+   "leather",
+   "earth"
+  ],
+  "about": "The maduro version of El Titan de Bronze's Redemption, rolled at the family's factory in Miami's Little Havana. It pairs a Mexican San Andrés wrapper with Dominican and Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://eltitancigars.com/products/el-titan-de-bronze-redemption-maduro-cigar"
+  ],
+  "notes": "A different blend from the 2024 Redemption, which has all-Nicaraguan binder and filler.",
+  "verified": true,
+  "verifyNotes": "Blend, strength and sizes match the maker's page. Trimmed notes to drop the research remark."
+ },
+ {
+  "brand": "El Titan de Bronze",
+  "line": "Redemption Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Sun Grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (Cuban-seed), Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "baking spice",
+   "white pepper",
+   "sweetness"
+  ],
+  "about": "A sun grown Ecuadorian habano blend in El Titan de Bronze's Redemption family, rolled in Miami's Little Havana. It uses Dominican and Nicaraguan filler and smokes at medium.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://eltitancigars.com/products/el-titan-de-bronze-redemption-sungrown-cigar"
+  ],
+  "notes": "Not the same cigar as the 2024 Redemption, which has all-Nicaraguan binder and filler and comes in three sizes.",
+  "verified": true,
+  "verifyNotes": "Blend, strength and sizes match the maker's page. Trimmed notes to drop the research remark."
+ },
+ {
+  "brand": "El Titan de Bronze",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Mexico",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "earth",
+   "spice"
+  ],
+  "about": "The first El Titan de Bronze cigar made outside the United States, rolled at NACSA in Nicaragua rather than at the Miami factory. It has a broadleaf wrapper over a Mexican binder and Nicaraguan filler and is priced well below the Miami-made lines.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://eltitancigars.com/products/el-titan-de-bronze-nicaragua-cigar",
+   "https://halfwheel.com/el-titan-de-bronze-turns-to-nacsa-for-new-line/463135/"
+  ],
+  "notes": "Not made in Miami: it is rolled at NACSA in Nicaragua. The maker's page also calls it Redemption Nicaragua. No source states where the broadleaf wrapper is grown.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Titan de Bronze",
+  "line": "Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic (Cuban-seed)",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "nuts",
+   "hay",
+   "sweetness"
+  ],
+  "about": "The mild Connecticut-wrapped cigar from El Titan de Bronze, rolled at the family's factory in Miami's Little Havana. The maker pitches it as a morning or first cigar.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://eltitancigars.com/products/el-titan-de-bronze-gold-cigar"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "All fields match the maker's page. Cleared notes, which only described the research."
+ },
+ {
+  "brand": "El Titan de Bronze",
+  "line": "Grande Reserve Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic (Cuban-seed), Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "molasses",
+   "espresso",
+   "earth",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "A full bodied maduro from El Titan de Bronze, rolled in Miami's Little Havana with a dark Brazilian Arapiraca wrapper. The maker says it is not meant for beginners.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://eltitancigars.com/products/el-titan-de-bronze-grande-reserve-maduro-cigar"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Fields match the maker's page. Removed the unsupported claim that it is the brand's strongest cigar from about, and cleared a research-only note."
+ },
+ {
+  "brand": "El Titan de Bronze",
+  "line": "My Way Dark Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "espresso",
+   "oak",
+   "cocoa"
+  ],
+  "about": "A dark habano-wrapped cigar from El Titan de Bronze in Miami's Little Havana, sold in bundles rather than boxes. The maker says it is bunched entubado style and finished with a triple cap.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://eltitancigars.com/products/el-titan-de-bronze-my-way-dark-habano"
+  ],
+  "notes": "The maker does not publish the binder, filler or where the wrapper is grown. It calls the cigar medium bodied but also says it is not a beginner's cigar.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Titan de Bronze",
+  "line": "30th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "nuts",
+   "baking spice",
+   "honey",
+   "white pepper"
+  ],
+  "about": "A limited cigar marking 30 years of El Titan de Bronze, which the maker dates to 1995. It comes in one 6.5 x 52 size in boxes of 10, with an Ecuadorian Connecticut wrapper over Nicaraguan and Dominican tobacco.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://eltitancigars.com/products/etb-30-year-anniversary-box-of-10",
+   "https://mikescigars.com/cigars/brands/el-titan/el-titan-de-bronze-30th-anniversary"
+  ],
+  "notes": "Limited release in one size, sold in boxes of 10. The maker gives no release date or production number.",
+  "verified": true,
+  "verifyNotes": "Cross-checked wrapper, binder, filler, country, size and medium strength against Mike's Cigars and added it as a source. Rewrote notes."
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Classic Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Jalapa, Estelí, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "wood",
+   "leather",
+   "spice",
+   "black pepper"
+  ],
+  "about": "One of the original blends from Fermin Perez Cigars, a Miami brand founded in 2021 by Cuban-born Fermin Perez Jr. and made in Estelí, Nicaragua. It is the balanced habano in the core lineup.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/classic-habano/",
+   "https://ferminperez.com/fermin-perez-cigars-cigar-press-90-point-ratings/",
+   "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+  ],
+  "notes": "The maker does not say where the Habano wrapper is grown and publishes no size list; the 6 x 54 Toro is the only size confirmed. Production moved in September 2026 from Perez's own Estelí factory to Tabacalera Familia Disla; he says the blends did not change.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Classic Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Jalapa, Estelí, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "leather",
+   "nuts",
+   "white pepper",
+   "honey",
+   "hay"
+  ],
+  "about": "One of the original blends from Fermin Perez Cigars, made in Estelí, Nicaragua. It is a Connecticut shade cigar built to be smooth without being flavorless.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/classic-connecticut/",
+   "https://ferminperez.com/fermin-perez-cigars-cigar-press-90-point-ratings/",
+   "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+  ],
+  "notes": "The maker's page calls it medium bodied; the Cigar Press review it cites rated it mild in strength and medium in body, and names the wrapper as Ecuadorian. Only the 6 x 54 Toro is confirmed. Production moved in September 2026 from Perez's own Estelí factory to Tabacalera Familia Disla; he says the blends did not change.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Bold Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Jalapa, Estelí, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "cocoa",
+   "wood",
+   "leather",
+   "spice"
+  ],
+  "about": "The maduro in the Fermin Perez core lineup, made in Estelí, Nicaragua with a Mexican San Andrés wrapper over an Indonesian binder and Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/bold-maduro/",
+   "https://cigar-coop.com/2026/08/fermin-perez-bold-maduro-toro-cigar-review.html",
+   "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+  ],
+  "notes": "The maker calls it full flavored; reviewers put it at medium to full. The Toro also comes in a tube. Production moved in September 2026 from Perez's own Estelí factory to Tabacalera Familia Disla; he says the blends did not change.",
+  "verified": true,
+  "verifyNotes": "Added the 6 x 60 Toro Gordo from Cigar Coop's spec table, which also confirms the blend and medium to full strength. Swapped the maker's ratings post for the Cigar Coop review in sources and updated notes."
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Royal Box Pressed Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Habano",
+  "filler": "Nicaragua (Jalapa, Estelí, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "coffee",
+   "cream",
+   "black pepper",
+   "wood",
+   "spice",
+   "sweetness"
+  ],
+  "about": "A box pressed habano from Fermin Perez Cigars, made in Estelí, Nicaragua. It uses an Ecuadorian Habano wrapper and a Habano binder over Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/box-press/",
+   "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+  ],
+  "notes": "The brand also calls this line simply Royal. The maker publishes no sizes or strength rating and does not say where the Habano binder is grown. Production moved in September 2026 from Perez's own Estelí factory to Tabacalera Familia Disla; he says the blends did not change.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Miami Special Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua (Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "floral",
+   "sweetness",
+   "nuts",
+   "wood",
+   "spice",
+   "earth"
+  ],
+  "about": "A sweet-tipped habano from Fermin Perez Cigars, made in Estelí, Nicaragua as a nod to Miami's Little Havana. The filler includes tobacco from Jalapa and the island of Ometepe.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/miami-special-edition/",
+   "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+  ],
+  "notes": "The cap is sweetened, which is worth telling a guest. The maker publishes no sizes or binder and does not say where the wrapper is grown. Production moved in September 2026 from Perez's own Estelí factory to Tabacalera Familia Disla; he says the blends did not change.",
+  "verified": true,
+  "verifyNotes": "Set wrapperLeaf to the leaf only; the sweet tip stays in notes. Shortened notes."
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Esmeralda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí), Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "leather",
+   "black pepper",
+   "cream",
+   "wood"
+  ],
+  "about": "A Connecticut-wrapped cigar from Fermin Perez Cigars, made in Estelí, Nicaragua with a Jalapa binder and Nicaraguan and Dominican filler. The maker describes it as medium bodied.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/esmeralda/",
+   "https://ferminperez.com/fermin-perez-cigars-earns-new-recognition-for-esmeralda/",
+   "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+  ],
+  "notes": "The maker also calls it Esmeralda Connecticut and does not say where the wrapper is grown or list sizes. Production moved in September 2026 from Perez's own Estelí factory to Tabacalera Familia Disla; he says the blends did not change.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Puro Estelí",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Estelí Sun Grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cedar",
+   "coffee",
+   "leather",
+   "spice"
+  ],
+  "about": "A Nicaraguan puro from Fermin Perez Cigars in which the wrapper, binder and filler are all grown in Estelí, where it is also rolled. It comes in a single corona size in boxes of 20.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/puro-esteli/",
+   "https://halfwheel.com/fermin-perezs-newest-line-showcases-tobacco-from-esteli-nicaragua/480729/",
+   "https://cigardojo.com/2026/09/fermin-perez-cigars-introduces-puro-esteli/"
+  ],
+  "notes": "New in fall 2026 and made in one size only. The maker calls it bold but gives no strength rating. Binder and filler varietals are not disclosed.",
+  "verified": true,
+  "verifyNotes": "All fields match the maker, halfwheel and Cigar Dojo. Rewrote notes to drop a claim about an earlier Cigar Dojo listing that the cited pages do not state."
+ },
+ {
+  "brand": "Fermin Perez",
+  "line": "Serie de Oro Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "chocolate",
+   "coffee",
+   "cream",
+   "citrus"
+  ],
+  "about": "A habano-wrapped line from Fermin Perez Cigars, made in Estelí, Nicaragua with an Ecuadorian Habano wrapper. The maker describes it as medium to full bodied.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ferminperez.com/product/serie-de-oro-habano/",
+   "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+  ],
+  "notes": "The maker does not publish the binder, filler or sizes. Production moved in September 2026 from Perez's own Estelí factory to Tabacalera Familia Disla; he says the blends did not change.",
+  "verified": true,
+  "verifyNotes": "Fields match the maker's page. Removed the word premium from about."
+ }
+]

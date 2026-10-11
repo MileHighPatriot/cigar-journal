@@ -1,0 +1,954 @@
+[
+ {
+  "brand": "Black Star Line",
+  "line": "War Witch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf (Tabacos Valle de Jalapa S.A.)",
+  "strength": "Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Corona Box Press",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "cedar",
+   "coffee",
+   "nuts",
+   "white pepper"
+  ],
+  "about": "A Nicaraguan puro with a shade-grown Connecticut-seed wrapper, made for Black Star Line by Aganorsa Leaf. It is milder than the Dark War Witch that followed and is named after a 2012 film.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://halfwheel.com/war-witch-lancero/405535/",
+   "https://blindmanspuff.com/black-star-line-war-witch-corona-blind-cigar-review/"
+  ],
+  "notes": "The maker lists the Lancero at 7.5 x 40, while halfwheel and Blind Man's Puff list it at 7 x 38. Strength and body are from the Blind Man's Puff review, as the maker does not state them.",
+  "verified": true,
+  "verifyNotes": "Factory reworded: no source says the factory was formerly called TABSA, halfwheel just names it Tabacos Valle de Jalapa S.A. About and notes tightened. Blend, sizes, year and strength confirmed."
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "Dark War Witch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona Box Press",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto",
+    "length": 4.75,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "earth",
+   "cedar"
+  ],
+  "about": "A stronger follow-up to War Witch that swaps the Connecticut shade wrapper for Corojo 99. It is a Nicaraguan puro made by Aganorsa Leaf.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://halfwheel.com/black-star-line-cigars-new-vitolas-for-lalibela-and-dark-war-witch-head-to-stores/437860/",
+   "https://blindmanspuff.com/black-star-line-dark-war-witch-corona-blind-cigar-review/"
+  ],
+  "notes": "The maker calls it full strength and full body, but a Blind Man's Puff panel rated it medium. The 4.75 x 60 Perfecto was a 2024 run of 200 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Swapped one halfwheel news link for the Blind Man's Puff review that the note cites."
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "El Milagro Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "toast",
+   "wood",
+   "earth"
+  ],
+  "about": "The Corojo-wrapped version of El Milagro, Black Star Line's first brand name. It is rolled by Aganorsa Leaf in Nicaragua with a double binder and triple cap.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://halfwheel.com/war-witch-lancero/405535/",
+   "https://stogiepress.com/cigar-review-black-star-line-el-milagro-sun-grown-habano-rated-90/"
+  ],
+  "notes": "The maker calls it full-bodied with robust strength and does not say where the wrapper is grown. El Milagro launched in 2019 at El Titan de Bronze in Miami with Habano and San Andres wrappers; the year the Aganorsa-made Corojo joined is not published.",
+  "verified": true,
+  "verifyNotes": "Removed 'dark chocolate' from flavors: the maker uses it for the wrapper's color, not a taste. Added the Stogie Press page that backs the 2019 launch details. Strength Full rests on the maker's phrase 'robust strength'."
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "El Milagro Sun Grown Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sun Grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cashew",
+   "cedar",
+   "toast",
+   "spice"
+  ],
+  "about": "The Habano-wrapped version of El Milagro, the name Black Star Line launched with in 2019. The current cigar is rolled by Aganorsa Leaf in Nicaragua with a double binder and triple cap.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://stogiepress.com/cigar-review-black-star-line-el-milagro-sun-grown-habano-rated-90/",
+   "https://halfwheel.com/war-witch-lancero/405535/"
+  ],
+  "notes": "The maker does not state a strength or where the wrapper is grown. The 2019 original was a different cigar: a 6 x 54 toro made at El Titan de Bronze in Miami with a Nicaraguan wrapper, Ecuadorian binder and Dominican and Nicaraguan filler, which Stogie Press found medium.",
+  "verified": true,
+  "verifyNotes": "Strength set to null: it came only from a JR Cigars page that could not be opened (bot block), and the maker gives none. Wrapper origin set to null: 'Nicaraguan' is only published for the 2019 Miami-made version. JR link removed, halfwheel link added for the 2019 launch date."
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "Lalibela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "vanilla",
+   "caramel",
+   "cocoa",
+   "coffee"
+  ],
+  "about": "A San Andres-wrapped cigar over Nicaraguan tobaccos made by Aganorsa Leaf, billed as full strength and full body. It is named for the Ethiopian town known for its rock-cut churches.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://cigardojo.com/2022/10/black-star-line-lalibela-toro/",
+   "https://halfwheel.com/black-star-line-cigars-new-vitolas-for-lalibela-and-dark-war-witch-head-to-stores/437860/"
+  ],
+  "notes": "The Toro and Gordo are the core sizes. The Robusto and Lancero arrived in 2024 in small runs of 2,000 and 3,000 cigars.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. About reworded: 'strongest blend' was a reviewer's 2022 remark, before later lines came out."
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "Mr. Fahrenheit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "cinnamon",
+   "coffee",
+   "red pepper",
+   "cocoa",
+   "leather"
+  ],
+  "about": "A shaggy-foot Connecticut Broadleaf cigar made at Tabacalera La Isla in the Dominican Republic. Owner Aric Bey is a retired Chicago firefighter, and part of the proceeds go to the firefighter charity Ignite the Spirit.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://halfwheel.com/black-star-lines-mr-fahrenheit-corona-gorda-begins-shipping/428068/",
+   "https://cigardojo.com/2023/10/black-star-line-mr-fahrenheit-corona/"
+  ],
+  "notes": "The maker calls the 6 x 46 a Corona. A 5 x 50 Robusto came first in 2023 as a 1,000-cigar event release. The name is from the Queen song Don't Stop Me Now.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "Rosewood 1923",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "wood"
+  ],
+  "about": "A San Andres-wrapped cigar made at Fabrica Oveja Negra, the Nicaraguan factory behind Black Label Trading Company. It honors the victims of the 1923 Rosewood massacre in Florida and filmmaker John Singleton.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://halfwheel.com/black-star-line-cigars-rosewood-1923/429988/"
+  ],
+  "notes": "The maker does not state a strength. halfwheel found it medium to medium-plus, with a noticeable nicotine kick late in two of three cigars.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "Marun",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "dark chocolate",
+   "espresso",
+   "leather"
+  ],
+  "about": "Black Star Line's fifth anniversary cigar, named for the Yoruba word for five. It was the brand's first cigar made at Espinosa's La Zona factory in Esteli.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://blackstarline.shop/",
+   "https://halfwheel.com/black-star-line-marun-toro/441989/"
+  ],
+  "notes": "Strength and body are from the halfwheel review, as the maker does not state them. A 6.5 x 48 box-pressed Corona Extra was a 70-bundle exclusive for Oak Glen Tobacconist in California.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "Meadowood MLK",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "United States, Brazil, Dominican Republic, Peru",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "cream",
+   "wood",
+   "nuts",
+   "vanilla"
+  ],
+  "about": "A Dominican-made robusto that marks the time Martin Luther King Jr. spent working on a tobacco farm before college. The black and old gold band uses the colors of his fraternity, Alpha Phi Alpha.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/black-star-line-cigars-ships-meadowood-mlk/452863/",
+   "https://halfwheel.com/black-star-line-cigars-meadowood-mlk/454850/",
+   "https://stogiepress.com/cigar_review/cigar-review-black-star-line-meadowood-mlk-robusto-rated-96/"
+  ],
+  "notes": "Limited to 250 boxes of 20. Cigar Coop and Stogie Press also list Nicaraguan tobacco in the filler, which halfwheel leaves out. The company calls it medium-bodied; reviewers found the strength medium to medium-plus.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. About no longer says 'summers' or 'Connecticut farm', which the sources do not state. Note now names who lists the Nicaraguan filler and that two reviews put strength at medium-plus."
+ },
+ {
+  "brand": "Black Star Line",
+  "line": "Eugene Bullard",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A San Andres-wrapped corona gorda made at La Zona in Esteli. It is named for Eugene Bullard, an American who flew for France in World War I and is recognized as the first Black combat fighter pilot.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/black-star-line-pays-tribute-to-eugene-bullard/464637/",
+   "https://cigardojo.com/2026/03/black-star-line-cigars-to-debut-eugene-bullard-cigar-at-pca-2026/"
+  ],
+  "notes": "The first run was 200 bundles of 10 cigars, shipping from May 2026. No strength or tasting notes have been published yet.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Richard",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Vintage Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cream",
+   "apple",
+   "cedar",
+   "wood"
+  ],
+  "about": "The first line from Meerapfel Cigar, the family famous for growing Cameroon wrapper. It is named for the late Richard Meerapfel and comes in a chest with a tray that doubles as an ashtray.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/meerapfel-cigar-announces-first-line/410301/",
+   "https://halfwheel.com/meerapfel-cigar-richard-double-robusto/421332/"
+  ],
+  "notes": "Binder, filler, factory and country are not disclosed. Each size is capped at 613 boxes a year, and only the Double Robusto is confirmed as released out of seven planned sizes. Strength and body are from the halfwheel review.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Meir",
+  "found": true,
+  "officialName": "Meir Master Blend",
+  "wrapperLeaf": "Vintage Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.75,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "floral",
+   "cocoa",
+   "cedar",
+   "cinnamon",
+   "coffee",
+   "white pepper"
+  ],
+  "about": "The second Meerapfel Cigar line, named for Meir Meerapfel, who set up the family's cigar factory in Untergrombach, Germany in 1876. It wears the family's own Cameroon wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/meerapfel-meir-begins-shipping-to-u-s-stores/420001/",
+   "https://halfwheel.com/meerapfel-meir-robusto/423984/",
+   "https://cigardojo.com/2024/07/two-new-vitolas-begin-shipping-form-meerapfel/"
+  ],
+  "notes": "Binder, filler, factory and country are not disclosed. The company says a vintage Cameroon wrapper dresses all its Master Blends, though halfwheel's review lists the wrapper as undisclosed. Each size is capped at 613 boxes a year; it reached U.S. stores in February 2023.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Flavor 'espresso' changed to 'coffee' to match the review. Dropped 'priced as a luxury cigar' from about and trimmed notes to three sentences."
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Ernest",
+  "found": true,
+  "officialName": "Ernest Master Blend",
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.75,
+    "ring": 43
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "wood",
+   "earth",
+   "pepper",
+   "nuts",
+   "honey"
+  ],
+  "about": "The third Meerapfel Cigar line, named for Ernest Meerapfel, who left Germany in the late 1800s to source tobacco abroad. It uses the family's Cameroon wrapper, and the Double Robusto comes in a casket with an ornate ashtray.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/meerapfel-cigar-debuting-new-ernest-line-at-intertabac/429367/",
+   "https://halfwheel.com/meerapfel-cigar-ernest-master-blend-lancero/461551/",
+   "https://cigar-coop.com/2024/08/meerapfel-ernest-corona-gorda-cigar-review.html"
+  ],
+  "notes": "Binder, filler, factory and country are not disclosed. Each size is capped at 613 boxes a year. halfwheel found medium strength with full body, while Cigar Coop found mild to medium strength with medium body.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf changed from 'Vintage Cameroon' to 'Cameroon', which is how halfwheel and Cigar Coop list it for this line. Notes trimmed to three sentences. Other fields confirmed."
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Création Liberté",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "pepper",
+   "nuts"
+  ],
+  "about": "A yearly limited Meerapfel toro sold in two-cigar wooden coffins with a numbered lithograph. Proceeds go to cigar rights groups: several organizations including Cigar Rights of America in 2024, and the Premium Cigar Association in 2025.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/meerapfel-cigar-ships-2025-creation-liberte/454774/",
+   "https://halfwheel.com/meerapfel-cigar-creation-liberte/447766/"
+  ],
+  "notes": "Each year's release is 613 two-count coffins, or 1,226 cigars. Binder, filler, factory and country are not disclosed. Strength and body are from halfwheel's review of the 2024 release.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf changed from 'Vintage Cameroon' to 'Cameroon', as halfwheel lists it. Other fields confirmed."
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Project 18",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Vintage Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate"
+  ],
+  "about": "A 2026 Meerapfel limited edition in one 6 x 50 size, sold in paulownia wood chests of 99 cigars. The plan is one blend a year, made once.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/meerapfel-debuts-project-18-at-intertabac/479635/",
+   "https://cigardojo.com/2026/09/meerapfel-cigar-announces-project-18/"
+  ],
+  "notes": "Limited to 180 chests of 99 cigars, due to ship in the fourth quarter of 2026. Binder, filler, factory and country are not disclosed. The flavor word is the company's own description, as no reviews exist yet.",
+  "verified": true,
+  "verifyNotes": "Removed 'cocoa' from flavors: the company wording is about the chocolate's cocoa content. Other fields confirmed; no strength is published."
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "La Estancia Edición Exclusiva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52",
+    "length": 5.833,
+    "ring": 52
+   },
+   {
+    "name": "56",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "nougat",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The Meerapfel family's personal blend, an extension of their 2014 La Estancia brand and now part of the Family Reserve Blends. It reached U.S. stores in April 2026.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://meerapfel.com/la-estancia/",
+   "https://halfwheel.com/la-estancia-edicion-exclusiva-52/297373/",
+   "https://halfwheel.com/meerapfel-announce-new-u-s-sales-head-brings-family-reserve-blends-stateside/467449/"
+  ],
+  "notes": "The blend, factory and country are not disclosed. The original 2014 La Estancia was made in Honduras and included Cuban filler, but the family has not said the same of this one. Strength is from halfwheel's 2019 review, which found it mild at first and past medium by the end.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Behind the Scenes",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "I",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "II",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "III",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "IV",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "V",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "VI",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "pepper",
+   "cedar"
+  ],
+  "about": "A box-pressed Connecticut-wrapped line in the Meerapfel Family Reserve Blends, sold in boxes of 25. It is one of the family's more affordable cigars and came to U.S. stores in April 2026.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://meerapfel.com/behind-the-scenes",
+   "https://halfwheel.com/meerapfel-announce-new-u-s-sales-head-brings-family-reserve-blends-stateside/467449/"
+  ],
+  "notes": "The binder, factory and country are not disclosed. Size III is 6 x 50 on the maker's page but 6 x 60 in halfwheel's list. No strength is published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Machetero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 3.75,
+    "ring": 50
+   },
+   {
+    "name": "Short Pyramid",
+    "length": 3.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "hay",
+   "toffee",
+   "pink pepper"
+  ],
+  "about": "The lowest-priced line in the Meerapfel Family Reserve Blends, made in Nicaragua and sold unbanded in bundles of 10. It came to U.S. stores in April 2026.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://meerapfel.com/machetero",
+   "https://halfwheel.com/meerapfel-announce-new-u-s-sales-head-brings-family-reserve-blends-stateside/467449/"
+  ],
+  "notes": "The wrapper, binder, filler and factory are not disclosed, and no strength is published. halfwheel calls the 3.75 x 52 a Short Torpedo.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. About reworded slightly."
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Machetero Exclusiva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 3.75,
+    "ring": 50
+   },
+   {
+    "name": "Short Pyramid",
+    "length": 3.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "dark sugar"
+  ],
+  "about": "A banded, boxed sibling of Machetero in the Meerapfel Family Reserve Blends. It is a separate blend with a darker oscuro wrapper, sold in boxes of 10.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://meerapfel.com/machetero-exclusiva",
+   "https://halfwheel.com/meerapfel-announce-new-u-s-sales-head-brings-family-reserve-blends-stateside/467449/"
+  ],
+  "notes": "The binder, filler and factory are not disclosed, and no strength is published. The plain Machetero is made in Nicaragua, but no source says so for the Exclusiva. Its Double Corona is 7 x 52, half an inch shorter than Machetero's.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf shortened to 'Oscuro'. The category is a closest fit only: halfwheel says 'darker oscuro wrapper' and gives no leaf type or origin. Other fields confirmed."
+ },
+ {
+  "brand": "Meerapfel",
+  "line": "Maestranza",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Duque",
+    "length": 6,
+    "ring": 62
+   },
+   {
+    "name": "Marques",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Baron",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Conde",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Vizconde",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "mineral",
+   "spice"
+  ],
+  "about": "A line in the Meerapfel Family Reserve Blends, formerly The Selection, which the maker describes as bold and structured. It comes in sets of 10 with sizes named after Spanish noble titles.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://meerapfel.com/maestranza",
+   "https://halfwheel.com/selection-meerapfel-rebranding-to-the-selection/429102/",
+   "https://cigar-coop.com/2026/04/meerapfel-family-reserve-gets-official-u-s-launch-at-pca-2026-cigar-news.html"
+  ],
+  "notes": "The blend, factory and country are not disclosed, and no strength is published. It is the one Family Reserve line not offered in the U.S.",
+  "verified": true,
+  "verifyNotes": "Removed the note sentence about a RoMa Craft cigar of the same name, which no source supports. Other fields confirmed."
+ }
+]

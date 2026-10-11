@@ -1,0 +1,666 @@
+[
+ {
+  "brand": "Warfighter",
+  "line": "5.56 MM Field Connecticut Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano from Ometepe and Condega), Colombia",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Minutemen",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice",
+   "white pepper",
+   "leather",
+   "cream"
+  ],
+  "about": "The Connecticut Shade blend in Warfighter Tobacco's Field series, one of the six original core lines from the veteran-owned company. It is rolled in Estelí and starts with some spice before finishing smooth.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/5-56-mm-field-reload",
+   "https://halfwheel.com/warfighter-tobacco-heading-retail/163723/",
+   "https://halfwheel.com/warfighter-adding-minutemen-size-to-core-lines/384913/"
+  ],
+  "notes": "The maker does not publish a strength rating. Production moved from a Dominican factory to Plasencia in Estelí in 2017, then to Tabacalera Carreras in March 2020. The company said the blends stayed the same after the 2017 move.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, country, factory and 2016 debut confirmed on the maker page and halfwheel. Reworded the note: the blend-unchanged statement was made about the 2017 move only."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "7.62 MM Field Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano from Estelí and Condega), Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Minutemen",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "leather",
+   "wood",
+   "toasted marshmallow"
+  ],
+  "about": "The Sumatra-wrapped blend in Warfighter Tobacco's Field series, which the company pitches as its everyday cigar. It is one of the six original core lines and is rolled in Estelí.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/762-mm-field-sumatra-cigar",
+   "https://halfwheel.com/warfighter-tobacco-heading-retail/163723/",
+   "https://halfwheel.com/warfighter-adding-minutemen-size-to-core-lines/384913/"
+  ],
+  "notes": "The maker does not publish a strength rating. Production moved from a Dominican factory to Plasencia in Estelí in 2017, then to Tabacalera Carreras in March 2020. The company said the blends stayed the same after the 2017 move.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, country, factory and 2016 debut confirmed on the maker page and halfwheel. Reworded the note: the blend-unchanged statement was made about the 2017 move only."
+ },
+ {
+  "brand": "Warfighter",
+  "line": ".50 Cal Field Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano from Ometepe and Jalapa), Colombia",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Minutemen",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "cocoa",
+   "leather",
+   "wood"
+  ],
+  "about": "The maduro in Warfighter Tobacco's Field series, described by the company as the boldest of the three Field blends. It is one of the six original core lines and is rolled in Estelí.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/50-cal-field-maduro-reload",
+   "https://halfwheel.com/warfighter-tobacco-heading-retail/163723/",
+   "https://halfwheel.com/warfighter-adding-minutemen-size-to-core-lines/384913/"
+  ],
+  "notes": "The maker does not publish a strength rating, only that it is the boldest of the Field line. Production moved from a Dominican factory to Plasencia in 2017, then to Tabacalera Carreras in March 2020.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, sizes, country, factory and 2016 debut confirmed on the maker page and halfwheel; the maker publishes no strength rating."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Garrison Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Honduras (Habano from Jamastran), Nicaragua (Habano from Jalapa, Habano ligero from Estelí)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Minutemen",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cream",
+   "pepper",
+   "spice",
+   "leather",
+   "cocoa"
+  ],
+  "about": "The Corojo-wrapped blend in Warfighter Tobacco's Garrison series, one of the company's six original core lines. It opens creamy, turns spicy, and is rolled in Estelí.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/5-56-mm-garrison-corojo-cigar",
+   "https://halfwheel.com/warfighter-tobacco-heading-retail/163723/",
+   "https://halfwheel.com/warfighter-adding-minutemen-size-to-core-lines/384913/"
+  ],
+  "notes": "Formerly sold as the 5.56 MM Garrison Corojo. The maker does not publish a strength rating. Made at Tabacalera Carreras since March 2020, before that at Plasencia.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, sizes, country, factory and 2016 debut confirmed on the maker page and halfwheel; the maker publishes no strength rating."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Garrison Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano from Jalapa, Ometepe and Estelí)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Rocco",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Minutemen",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice",
+   "toasted nuts",
+   "oak",
+   "brown sugar"
+  ],
+  "about": "A Nicaraguan puro with a Habano Rosado wrapper in Warfighter Tobacco's Garrison series, one of the company's six original core lines. The maker says it smokes stronger than the Field line without being overpowering.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/762-mm-garrison-rosado-cigar",
+   "https://halfwheel.com/warfighter-tobacco-heading-retail/163723/",
+   "https://halfwheel.com/warfighter-adding-minutemen-size-to-core-lines/384913/"
+  ],
+  "notes": "Formerly sold as the 7.62 MM Garrison Rosado. The maker does not publish a strength rating, only that it is stronger than the Field line. Made at Tabacalera Carreras since March 2020, before that at Plasencia.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, sizes, country, factory and 2016 debut confirmed on the maker page and halfwheel; the maker publishes no strength rating."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Garrison Oscuro Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano Oscuro Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Connecticut)",
+  "filler": "Nicaragua (Habano from Ometepe and Estelí, Habano ligero from Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Rocco",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Minutemen",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "oak",
+   "bourbon",
+   "cocoa",
+   "apricot",
+   "butter"
+  ],
+  "about": "The dark maduro in Warfighter Tobacco's Garrison series, one of the company's six original core lines. It uses a Honduran Habano Oscuro Maduro wrapper over Nicaraguan filler and is rolled in Estelí.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/50-cal-garrison-oscuro-maduro",
+   "https://halfwheel.com/warfighter-tobacco-heading-retail/163723/",
+   "https://halfwheel.com/warfighter-adding-minutemen-size-to-core-lines/384913/"
+  ],
+  "notes": "Formerly sold as the .50 Cal Garrison Oscuro Maduro. The maker calls it dark and bold but does not publish a strength rating. Made at Tabacalera Carreras since March 2020, before that at Plasencia.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, sizes, country, factory and 2016 debut confirmed on the maker page and halfwheel; the maker publishes no strength rating."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Night Shift",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "leather",
+   "citrus",
+   "fruit",
+   "cream",
+   "wood"
+  ],
+  "about": "A single-size toro from Warfighter Tobacco made as a tribute to people who work nights. A thin strip of Honduran candela circles the cap as a nod to night vision green.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/warfighter-night-shift",
+   "https://halfwheel.com/warfighter-night-shift/441076/",
+   "https://halfwheel.com/warfighter-launching-night-shift-at-pca-2023/425664/"
+  ],
+  "notes": "The maker calls it medium bodied. halfwheel's review found the body medium but the nicotine strength mild, and one retailer lists it medium-full. Scored 91 at halfwheel and ranked #18 on its 2024 Top 25.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker page and halfwheel; 2023 debut confirmed by halfwheel PCA 2023 and PCA 2025 coverage. Trimmed the note, dropped the release-date aside and added that Cigars Daily lists medium-full."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Dumpster Fire",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "Warfighter Tobacco's mixed filler cigar, made from the cuttings of its core lines with an added long leaf for construction and a Habano wrapper. It was developed in 2020, named for that year, and sold in bundles.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/warfighter-dumpster-fire-cigar",
+   "https://cigarsdaily.com/product/warfighter-dumpster-fire-toro-6x50/"
+  ],
+  "notes": "Mixed filler, not long filler: the maker uses cuttings from its core lines plus a long leaf. The maker calls it mild to medium bodied, while one retailer lists it medium. Countries of origin for the wrapper, binder and filler are not published.",
+  "verified": true,
+  "verifyNotes": "Added a Cigars Daily page as a cross-check and took the size name Toro from it (the maker only gives 6x50). Noted that the retailer lists medium against the maker's mild to medium. Factory left null because no page names it for this cigar."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A single-size toro marking Warfighter Tobacco's first ten years, with a dark Ecuadorian Sumatra wrapper. Unlike most anniversary cigars it is a regular production line.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/warfighter-10th-anniversary",
+   "https://halfwheel.com/warfighter-tobacco-co-begins-shipping-10th-anniversary-and-san-andres/471896/",
+   "https://halfwheel.com/pca-2026-warfighter-tobacco-co/462020/"
+  ],
+  "notes": "The maker calls it medium bodied, while one retailer lists it medium-full. It is regular production despite the anniversary name.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker page and halfwheel. Rewrote the note to add that Cigars Daily lists medium-full."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "A single-size toro from Warfighter Tobacco with a Mexican San Andrés wrapper over Nicaraguan binder and filler. It is the company's former Heroes Sports charity cigar, renamed and made a core line in 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.warfightertobacco.com/products/warfighter-10th-anniversary-copy",
+   "https://halfwheel.com/warfighter-debuting-10th-anniversary-san-andres-and-5th-edition-victory-this-week/467287/",
+   "https://halfwheel.com/pca-2026-warfighter-tobacco-co/462020/"
+  ],
+  "notes": "Same blend and size as the Warfighter Heroes Sports released in 2022; only the name and band changed in 2026. The maker describes it as medium to medium-bold, and one retailer lists it medium-full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker page (its URL slug says 10th-anniversary-copy but the page is the San Andres) and halfwheel. Added to the note that Cigars Daily lists medium-full."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Victory 5th Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua (Habano from Jalapa)",
+  "filler": "Nicaragua (Habano from Jalapa and Estelí, Habano ligero from Estelí)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The fifth release in Warfighter Tobacco's small batch Victory series, a shaggy foot 6 x 54 with a Brazilian Mata Fina wrapper over Nicaraguan tobaccos. It comes in signed and numbered boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.warfightertobacco.com/products/victory-5th-edition-cigar",
+   "https://halfwheel.com/warfighter-debuting-10th-anniversary-san-andres-and-5th-edition-victory-this-week/467287/"
+  ],
+  "notes": "Limited to 350 boxes of 10, each signed and numbered by company president Jon Simons. halfwheel reports the blend is the same as earlier Victory editions. No strength rating or tasting notes are published.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, size, 350 signed boxes and factory confirmed on the maker page and halfwheel; no strength rating is published."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Victory 4th Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The fourth release in Warfighter Tobacco's Victory series, a 6 x 54 toro with a Brazilian Mata Fina wrapper over Nicaraguan binder and filler. It was the first Victory sold through retail shops as well as online.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/warfighters-heroes-sports-victory-4th-edition-shipping-on-friday/414441/",
+   "https://halfwheel.com/pca-2022-warfighter-tobacco-co/410023/",
+   "https://halfwheel.com/warfighter-plans-victory-4th-edition-heroes-sports-for-pca-2022/410014/"
+  ],
+  "notes": "Limited to 2,000 boxes of 10 (20,000 cigars). halfwheel first described it as a 6 x 54 torpedo with a shaggy foot, then as a toro when it shipped. No strength rating or tasting notes are published.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel. Added the earlier halfwheel announcement as a source and noted that it called the shape a torpedo with a shaggy foot, where the shipping report says toro. The maker no longer lists this edition."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Grizzly Puncher Habano Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "6 x 52",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A collaboration between Warfighter Tobacco and Caleb Francis, who went to Estelí to blend it alongside the company. It is a 6 x 52 with a Habano Oscuro wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.warfightertobacco.com/products/grizzly-puncher-habano-oscuro"
+  ],
+  "notes": "The maker does not publish where the wrapper is grown, the factory, a strength rating or whether it is limited. It went on sale on the maker's store in September 2026.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker page, the only source found. Corrected the note: the store page was created August 31 and published September 14, 2026. Trimmed the note."
+ },
+ {
+  "brand": "Warfighter",
+  "line": "Redacted",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An event-only cigar from Warfighter Tobacco introduced on April 1, 2025. It is a 6 x 52 toro that is given away at Warfighter events and is not sold.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/warfighter-introducing-redacted-as-event-only-cigar/447997/",
+   "https://halfwheel.com/pca-2025-warfighter-tobacco-co/449984/"
+  ],
+  "notes": "The blend and the factory are deliberately undisclosed, in keeping with the name. It is never sold, only handed out at Warfighter events.",
+  "verified": true,
+  "verifyNotes": "No changes. halfwheel confirms the company discloses nothing beyond the 6 x 52 size and that it is an event giveaway; halfwheel lists the production number as undisclosed."
+ }
+]

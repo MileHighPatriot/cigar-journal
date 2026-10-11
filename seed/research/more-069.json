@@ -1,0 +1,724 @@
+[
+ {
+  "brand": "Kristoff",
+  "line": "Veinte",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cardamom",
+   "white pepper",
+   "brown sugar",
+   "hazelnut",
+   "coffee"
+  ],
+  "about": "Kristoff's 20th anniversary line, named with the Spanish word for twenty. It pairs a dark Brazilian wrapper with an Indonesian binder and Nicaraguan and Pennsylvania filler.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/kristoff-veinte/",
+   "https://halfwheel.com/kristoff-twentieth-anniversary-begins-arriving-in-stores/437755/",
+   "https://www.neptunecigar.com/kristoff-cigar"
+  ],
+  "notes": "Kristoff rates it 4 out of 5 for strength; Neptune lists it as full. Kristoff only says the wrapper is Brazilian; halfwheel and Neptune name it Arapiraca. Sizes are Kristoff's; halfwheel lists the Toro at 6 1/2 x 54 and the perfecto at 6 x 60.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Kristoff and halfwheel. Added Neptune as a third source (it lists the wrapper as maduro in color and the strength as full) and reworded notes to include that."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Tres Compadres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "almond",
+   "spice",
+   "cream"
+  ],
+  "about": "An all-Nicaraguan blend that Kristoff founder Glen Case made as a tribute to two late friends, factory manager Rolando Villamil and Chuck Finch. It is meant to be sweeter and creamier than the usual peppery Nicaraguan puro.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/tres-compadres_premium-cigar/",
+   "https://halfwheel.com/kristoff-tres-compadres-toro/432402/"
+  ],
+  "notes": "All Nicaraguan tobacco but rolled in the Dominican Republic. Kristoff's site rates it 3 out of 5 for strength; Glen Case told halfwheel at launch it was a 2 out of 5.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "espresso",
+   "peanuts",
+   "leather",
+   "cocoa"
+  ],
+  "about": "Kristoff's Nicaraguan puro, with filler from Condega, Esteli and Jalapa and a Corojo binder that adds spice. It launched alongside Tres Compadres as the stronger, spicier of the two.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/nicaragua_premium-cigar/",
+   "https://halfwheel.com/kristoff-nicaragua-robusto/432223/"
+  ],
+  "notes": "All Nicaraguan tobacco but rolled in the Dominican Republic. Kristoff rates it 4 out of 5 for strength; its site only says the wrapper is Nicaraguan, and halfwheel identifies it as Habano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Guardrail",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Zimbabwe",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "coffee",
+   "cocoa",
+   "cedar",
+   "allspice",
+   "cream"
+  ],
+  "about": "Named for the motorcycle crash into a guardrail that put Kristoff founder Glen Case in the hospital. It is notable for using tobacco from Zimbabwe in the filler under a Brazilian maduro wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/guardrail-_premium-cigar/",
+   "https://halfwheel.com/kristoff-guardrail-robusto/422557/"
+  ],
+  "notes": "Kristoff rates strength 3 out of 5 but describes the cigar as medium-full bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Ligero Criollo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban-seed Honduran Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Dominican Republic (Cuban seed)",
+  "filler": "Dominican Republic, Honduras (Cuban seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toasted nuts",
+   "caramel",
+   "cedar",
+   "spice"
+  ],
+  "about": "A stronger take on Kristoff's Original Criollo, with twice as much ligero leaf in the filler. All of the tobacco is Cuban-seed, grown in Honduras and the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/ligero-criollo_highly-rated-cigar/",
+   "https://www.neptunecigar.com/kristoff-cigar",
+   "https://halfwheel.com/kristoff-creates-limited-edition-exclusive-for-taa/444265/"
+  ],
+  "notes": "Kristoff rates strength 4 out of 5 and calls it full-bodied; Neptune lists it as full strength.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, sizes and strength confirmed on Kristoff; country and full-strength listing on Neptune. The halfwheel link does not name this line; kept only because it states that Tabacalera Von Eicken makes Kristoff's whole portfolio, which is the basis for the factory. No source found for a release year."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Corojo Limitada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Habano seed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano seed)",
+  "filler": "Nicaragua, Dominican Republic (Habano seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "nutmeg",
+   "toasted nuts"
+  ],
+  "about": "Kristoff's nearly all-Nicaraguan blend under a Corojo wrapper, described by founder Glen Case as the spiciest cigar in his range. The Torpedo was Cigar Aficionado's No. 11 cigar of 2012 with 93 points.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/corojo-limitada-premium-cigar/",
+   "https://www.cigaraficionado.com/top25cigar/kristoff-corojo-limitada-torpedo-2012",
+   "https://www.cigaraficionado.com/article/cigar-insider-rates-kristoff-corojo-limitadas-16406"
+  ],
+  "notes": "Despite the name it is a regular production line. Kristoff rates strength 4 out of 5 and Cigar Aficionado calls it medium-full; Neptune lists medium. Older sources name the factory Charles Fairmorn, the former name of Tabacalera Von Eicken.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Kristoff and both Cigar Aficionado pages (No. 11 of 2012, 93 points, came out in 2011). Added to notes that Neptune lists it as medium."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Kristania Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "5.5 x 60",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "7 x 70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "black coffee",
+   "hazelnut",
+   "spice",
+   "cocoa"
+  ],
+  "about": "The maduro version of Kristoff's value-priced Kristania line, swapping the original's Nicaraguan wrapper for Brazilian maduro over Dominican Habano binder and filler.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/kristania-maduro_finest-cigar/",
+   "https://halfwheel.com/kristania-maduro-heading-ipcpr-release/63689/",
+   "https://www.neptunecigar.com/kristoff-cigar"
+  ],
+  "notes": "Kristoff rates strength 3 out of 5. The 2014 announcement named the factory Charles Fairmorn, the former name of Tabacalera Von Eicken.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Kristoff",
+  "line": "685 Woodlawn",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Brazil",
+  "binder": "Brazil (Sumatra)",
+  "filler": "Nicaragua, Dominican Republic (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "coffee",
+   "almond"
+  ],
+  "about": "A small-batch perfecto named for the address of the suburban Chicago house where Kristoff founder Glen Case grew up. It first went to TAA retailers in 2013 before a wider release.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://kristoff.com/product/685-woodlawn_finest-cigar/",
+   "https://halfwheel.com/exclusive-kristoff-adding-685-woodlawn/36286/",
+   "https://www.neptunecigar.com/kristoff-cigar"
+  ],
+  "notes": "Sources disagree. Kristoff lists a Brazilian Sumatra binder, 6.25 x 60 and strength 3 of 5; halfwheel and Neptune list a Nicaraguan binder with one undisclosed filler leaf and 6 1/2 x 60, and Neptune calls it full. Kristoff calls it limited production, but it is still sold.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed notes to under 350 characters and swapped the third source for Neptune, which the notes cite."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "JT Signature Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Vuelta Abajo (HVA)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra",
+  "filler": "Dominican Republic, Mexico (San Andres)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box Pressed Toro",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dried apricot",
+   "chocolate",
+   "spice"
+  ],
+  "about": "A single-size box-pressed toro named for Jarrid Trudeau, Kristoff's executive vice president. It began in 2019 as an event cigar and follows the earlier GC Signature Series named for founder Glen Case.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/jt-signature-series/",
+   "https://halfwheel.com/ipcpr-2019-kristoff/298503/",
+   "https://halfwheel.com/kristoff-pca-2023-signature-series/430596/"
+  ],
+  "notes": "Kristoff rates strength 3 out of 5. Its site does not give the wrapper's country; halfwheel lists it as Ecuador. The binder is described only as Sumatra, with no country given.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Cuban Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut with a sweet tip",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Viajantes",
+    "length": 8.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "butter",
+   "sweetness"
+  ],
+  "about": "A mild, sweet-tipped Connecticut-wrapped cigar from Kristoff, sold in bundles as one of its lower-priced lines.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/cuban-selection_highly-rated/",
+   "https://www.neptunecigar.com/kristoff-cigar"
+  ],
+  "notes": "Sweet tipped, and contains no Cuban tobacco. Kristoff and Neptune both call it mild, though Kristoff's strength chart shows 3 out of 5. Neptune lists the wrapper, binder and filler as all Dominican, which differs from Kristoff's own blend.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Kristoff and Neptune (Dominican Republic, mild, bundles of 20). Reworded about in plainer terms. No source found for a factory or release year."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Premium Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (Natural) or Brazilian Maduro",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador (Natural), Brazil (Maduro)",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Viajantes",
+    "length": 8.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee",
+   "cocoa",
+   "sweetness"
+  ],
+  "about": "Kristoff's value line, sold in two wrappers over the same Dominican binder and Dominican and Nicaraguan filler: a mild, creamy Ecuadorian Connecticut and a richer Brazilian Maduro.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/premium-selection/",
+   "https://www.cigarplace.biz/all-brands/kristoff-cigars/kristoff-premium-selection.html"
+  ],
+  "notes": "Comes in two versions: Natural (Ecuadorian Connecticut, mild and creamy) and Maduro (Brazilian, coffee and cocoa). Kristoff gives one strength rating of 3 out of 5 for both. Sold in bundles.",
+  "verified": true,
+  "verifyNotes": "Set country to Dominican Republic (Cigar Place calls them Dominican cigars; halfwheel says all Kristoff cigars are made there) and added that page as a second source. Wrapper origin now covers both versions; wrapperCategory describes the Natural only. Removed the research remark from notes."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Signature Series PCA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro Extra",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "An annual limited cigar that Kristoff sells only to retailers who order at the PCA trade show, with part of the sales supporting the association. The 2026 edition is a box-pressed Cameroon-wrapped toro extra with a pigtail cap.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-kristoff/465316/",
+   "https://halfwheel.com/kristoff-signature-series-pca-exclusive-2026-coming-next-month/465307/",
+   "https://halfwheel.com/kristoff-signature-series-pca-exclusive-2025-announced/448131/"
+  ],
+  "notes": "Blend details are for the 2026 edition: 500 boxes of 20, rated 3 out of 5 by Kristoff. The series has run every year since 2022 with a different blend each time, for example Brazilian maduro in 2023 and Mexican San Andres in 2024 and 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Kristoff",
+  "line": "TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "five spice",
+   "white pepper",
+   "cream"
+  ],
+  "about": "A limited cigar Kristoff makes only for retailers in the Tobacconists' Association of America. The 2026 edition is a toro with a Connecticut broadleaf maduro wrapper.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/kristoff-announces-taa-2026-exclusive/474726/",
+   "https://halfwheel.com/kristoff-creates-limited-edition-exclusive-for-taa/444265/",
+   "https://halfwheel.com/kristoff-taa-exclusive-2023/428795/"
+  ],
+  "notes": "Details are for the 2026 edition: 500 boxes of 20, due to ship in late October or November 2026. Kristoff calls it medium-plus bodied and gives no separate strength rating. Earlier TAA exclusives were different cigars: a Brazilian maduro cut perfecto in 2024 and an Ecuadorian shade perfecto in 2023.",
+  "verified": true,
+  "verifyNotes": "Moved Medium-Full from strength to body and set strength to null: the only published wording is 'medium-plus bodied' and Kristoff has no page or strength rating for it. Other fields confirmed on halfwheel."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "N49",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Vuelta Abajo (HVA)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra seed (country undisclosed)",
+  "filler": "Dominican Republic (Criollo 99, Olor)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Kristoff robusto made only for the Canadian market, launched in July 2026 through distributor JB Cigar Co. The name refers to the 49th parallel north, which forms much of the border between the United States and Canada.",
+  "released": 2026,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/kristoff-n49-goes-on-sale-in-canada/475322/"
+  ],
+  "notes": "Sold only in Canada, in boxes of 20. The binder's country is not disclosed, and no strength, factory or production limit has been published.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper confirmed on halfwheel; Kristoff's site has no page for it and no source gives the country, factory or strength, so those stay null."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Mildly Pistoff Kristoff",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (Connecticut seed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken S.R.L.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "toffee",
+   "cream"
+  ],
+  "about": "A Connecticut-wrapped version of the Pistoff Kristoff, keeping the same Indonesian binder and Nicaraguan and Pennsylvania broadleaf filler as the San Andres original. Founder Glen Case calls it a Connecticut with an attitude.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/kristoff-announces-mildly-pistoff-kristoff/472938/",
+   "https://halfwheel.com/kristoff-announces-taa-2026-exclusive/474726/"
+  ],
+  "notes": "Glen Case rates it 4 out of 5 for strength, so it is stronger than a typical Connecticut. It goes first to TAA retailers, shipping in late October or November 2026, with a wide release planned for the PCA show in March 2027.",
+  "verified": true,
+  "verifyNotes": "No changes. Confirmed on halfwheel. Not yet shipped as of October 2026; 'regular' rests on halfwheel calling it a new line with a full release in 2027, with no production limit stated."
+ }
+]

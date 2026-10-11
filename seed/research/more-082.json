@@ -1,0 +1,476 @@
+[
+ {
+  "brand": "Partagas",
+  "line": "Y Nada Más Santiago",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Sumatra",
+  "filler": "Piloto, Corojo, Ecuador, Broadleaf",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "white pepper",
+   "sweetness"
+  ],
+  "about": "The first cigar in the Y Nada Mas series from the non-Cuban Partagas brand, named for the Dominican city of Santiago. It is rolled at Tabacalera William Ventura rather than at General Cigar Dominicana, where most Partagas are made.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.partagas.com/cigars/",
+   "https://halfwheel.com/partagas-y-nada-mas-santiago-heads-to-stores/451739/",
+   "https://www.famous-smoke.com/brand/partagas-y-nada-mas-santiago-cigars"
+  ],
+  "notes": "The maker does not say where the Habano 2000 wrapper is grown. The maker rates it medium; Famous Smoke lists medium-full. The 6 x 60 is called Gigante by the maker and Gordo by halfwheel and Famous.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and 2025 release confirmed on partagas.com, halfwheel and Famous. Added the maker's white pepper tasting note. Trimmed notes to three sentences. The maker's single rating is labeled Body, used here as strength."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Y Nada Más Cibao",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra (origin undisclosed)",
+  "filler": "Dominican Habano Vuelta Abajo (HVA), Criollo, Pennsylvania Broadleaf",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "dark wood",
+   "mocha",
+   "white pepper"
+  ],
+  "about": "The second cigar in the Y Nada Mas series from the non-Cuban Partagas brand, named for the Cibao Valley growing region of the Dominican Republic. It is made at Tabacalera La Isla in Santiago and followed the 2025 Santiago blend.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.partagas.com/cigars/",
+   "https://halfwheel.com/stgs-partagas-y-nada-mas-cibao-arriving-at-stores/471045/",
+   "https://www.neptunecigar.com/partagas-y-nada-mas-cibao-cigar"
+  ],
+  "notes": "The maker rates it medium-full; Neptune lists it as medium. Reached stores in May 2026.",
+  "verified": true,
+  "verifyNotes": "Confirmed on partagas.com, halfwheel (shipped May 6, 2026) and Neptune (strength Medium). No changes. The maker's single rating is labeled Body, used here as strength."
+ },
+ {
+  "brand": "Partagas",
+  "line": "de Bronce",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "almonds",
+   "cocoa",
+   "coffee",
+   "black pepper",
+   "caramel"
+  ],
+  "about": "A limited edition non-Cuban Partagas made entirely of Nicaraguan tobacco and rolled at El Titan de Bronze in Miami, the factory the name honors. It came in one corona gorda size, in numbered boxes of 10 signed by the roller.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/partagas-de-bronce/428272/",
+   "https://www.neptunecigar.com/cigars/partagas-de-bronce-corona-gorda",
+   "https://cigar-coop.com/2024/08/partagas-de-bronce-gran-corona-cigar-review.html"
+  ],
+  "notes": "Limited to 5,000 numbered boxes of 10, shipped April 2023. Neptune lists it as medium; halfwheel and Cigar Coop reviews found it starting medium and building to medium-full by the end.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: no maker rating was found, the one retailer opened (Neptune) lists Medium, and halfwheel and Cigar Coop both start it at medium and only reach medium-full late. Added the Cigar Coop review as a source. Dropped the note about the maker's current list. Blend, factory, size and production confirmed."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Serie D No. 5",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "D No. 5 (Petit Robusto)",
+    "length": 4.375,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth"
+  ],
+  "about": "A short, thick Cuban Partagas in the Serie D family, one size down from the well known Serie D No. 4. It began as a 2008 Edicion Limitada and joined the regular range in 2011.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://www.5thavenue.de/marken/habanos/partagas"
+  ],
+  "notes": "Cuban puro. First sold as a 2008 Edicion Limitada, then made a regular size in 2011. Measures 110 mm by 50.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed from 'Cuban (Vuelta Abajo)' to 'Cuban': Habanos and 5th Avenue place the blend (filler and binder) in Vuelta Abajo but no page says where the wrapper is grown. Removed the packaging sentence (boxes of 10 and 25, tubes): none of the listed pages state it. Size, strength and 2008/2011 dates confirmed on Habanos and Hunters & Frankau."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Serie D No. 6",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "D No. 6",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper"
+  ],
+  "about": "The smallest cigar in the Cuban Partagas Serie D family, a 50 ring gauge smoke only 90 mm long. It was made as a quick smoke with the full Partagas character, roughly 15 minutes by the maker's account.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://halfwheel.com/press-release-partagas-serie-d-6-taste-wrap/50613/"
+  ],
+  "notes": "Cuban puro. Announced at the Habanos Festival in February 2014. Launched in boxes of 20 and packs of 5.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed from 'Cuban (Vuelta Abajo)' to 'Cuban': Habanos and 5th Avenue place the blend (filler and binder) in Vuelta Abajo but no page says where the wrapper is grown. Removed 'reached shops in early 2015': not stated on any listed page. Size, strength, 2014 launch and packaging confirmed on Habanos, Hunters & Frankau and the halfwheel press release."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Serie E No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Duke",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "leather",
+   "earth",
+   "honey",
+   "cedar",
+   "espresso"
+  ],
+  "about": "A thick Cuban Partagas in the Duke format, introduced in 2011 as the first of the Serie E line. The E marks its 54 ring gauge.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://halfwheel.com/review-partagas-serie-e-no2/23291/"
+  ],
+  "notes": "Cuban puro. Habanos rates the brand full strength; a 2012 halfwheel review found this cigar medium-plus. A limited Gran Reserva Cosecha 2015 version also exists.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed from 'Cuban (Vuelta Abajo)' to 'Cuban': Habanos and 5th Avenue place the blend (filler and binder) in Vuelta Abajo but no page says where the wrapper is grown. Removed 'the heaviest in the Partagas letter series' from about: not stated by the sources. Gran Reserva Cosecha 2015 confirmed on halfwheel. Size, strength and 2011 date confirmed."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Serie P No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pirámides",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth"
+  ],
+  "about": "The pyramid of the Cuban Partagas range, added in 2005. Habanos says it quickly became a favorite of smokers who like full flavored cigars, and the P stands for Piramide, its factory name.",
+  "released": 2005,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://www.5thavenue.de/marken/habanos/partagas"
+  ],
+  "notes": "Cuban puro. Measures 156 mm by 52. The same pyramid size was first sold as a Partagas limited edition in 2000.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed from 'Cuban (Vuelta Abajo)' to 'Cuban': Habanos and 5th Avenue place the blend (filler and binder) in Vuelta Abajo but no page says where the wrapper is grown. Removed the packaging sentence (boxes of 10 and 25, tubes): not stated on the listed pages. Size, strength and 2005 date confirmed on Habanos and Hunters & Frankau."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Lusitanias",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prominentes (Double Corona)",
+    "length": 7.625,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "earth"
+  ],
+  "about": "The double corona of the Cuban Partagas brand and one of its classic sizes, named by Habanos among the best known Partagas vitolas. It is a long, full flavored smoke sold in cabinets of 50 as well as smaller boxes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://www.5thavenue.de/marken/habanos/partagas"
+  ],
+  "notes": "Cuban puro. Measures 194 mm by 49. A limited Lusitanias Gran Reserva Cosecha 2007 was released in 2013.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed from 'Cuban (Vuelta Abajo)' to 'Cuban': Habanos and 5th Avenue place the blend (filler and binder) in Vuelta Abajo but no page says where the wrapper is grown. Removed 'boxes of 10 and 25' from about: the sources only confirm the cabinet of 50 and smaller quantities. Trimmed notes. Size and strength confirmed; no source gives a launch year, so released stays null."
+ },
+ {
+  "brand": "Partagas",
+  "line": "8-9-8",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Dalias",
+    "length": 6.75,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "earth"
+  ],
+  "about": "A long, slim Cuban Partagas in the Dalia format and one of the classic sizes of the brand. It is named for the way the 25 cigars sit in the box, in rows of eight, nine and eight.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://www.5thavenue.de/marken/habanos/partagas"
+  ],
+  "notes": "Cuban puro. Measures 170 mm by 43. Sold in boxes of 25, packed in rows of eight, nine and eight.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed from 'Cuban (Vuelta Abajo)' to 'Cuban': Habanos and 5th Avenue place the blend (filler and binder) in Vuelta Abajo but no page says where the wrapper is grown. Removed 'a box of 10 was dropped around 2013': no page opened supports it. Size and strength confirmed on Hunters & Frankau; no source gives a launch year, so released stays null."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Maduro No. 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Discretos",
+    "length": 5.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "earth"
+  ],
+  "about": "The first cigar in the Cuban Partagas Linea Maduro, a slightly longer and thicker robusto with a dark, naturally fermented maduro wrapper. It launched in 2015 for La Casa del Habano shops and later became a standard size.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://www.5thavenue.de/marken/habanos/partagas"
+  ],
+  "notes": "Cuban puro, part of the Linea Maduro. Launched in 2015 as a La Casa del Habano and Habanos Specialist exclusive; Habanos now counts it in the standard range, though the UK distributor still limits it to those shops. Measures 130 mm by 52.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed from 'Cuban maduro (Vuelta Abajo)' to 'Cuban maduro': no page says where the wrapper is grown. Size, strength, 2015 launch and La Casa del Habano history confirmed on Habanos, Hunters & Frankau and 5th Avenue."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Maduro No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Pirámides",
+    "length": 4.75,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "pepper",
+   "toast",
+   "berries",
+   "nuts"
+  ],
+  "about": "The only figurado in the Cuban Partagas Linea Maduro, a short pyramid and the shortest and thickest of the three sizes. It was launched in 2018 with a dark, naturally fermented maduro wrapper.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://halfwheel.com/partagas-maduro-no-2-preproduction/260258/"
+  ],
+  "notes": "Cuban puro, part of the Linea Maduro. Measures 120 mm by 55, a size created for this cigar. The pepper, toast, berry and nut notes come from a halfwheel review of preproduction samples.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed to 'Cuban maduro': no page says where the wrapper is grown. Flavor 'black pepper' changed to 'pepper': the halfwheel review says pepper and white pepper. Size, strength and 2018 launch confirmed."
+ },
+ {
+  "brand": "Partagas",
+  "line": "Maduro No. 3",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Maduro No. 3",
+    "length": 5.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "earth"
+  ],
+  "about": "The longest of the three cigars in the Cuban Partagas Linea Maduro, launched in 2018 in a size that was new at the time. Its dark maduro wrapper adds a light sweetness to the usual full Partagas taste.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+   "https://cigars.co.uk/brand/partagas/",
+   "https://www.5thavenue.de/marken/habanos/partagas"
+  ],
+  "notes": "Cuban puro, part of the Linea Maduro. Measures 145 mm by 50; the factory name of the size is also Maduro No. 3.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf trimmed to 'Cuban maduro': no page says where the wrapper is grown. About reworded: sources say the size was new, not that it is exclusive to the line. 145 mm by 50 confirmed on Hunters & Frankau and 5th Avenue; a 2018 halfwheel article lists the ring as 40, which looks like a typo."
+ }
+]

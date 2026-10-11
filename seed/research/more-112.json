@@ -1,0 +1,697 @@
+[
+ {
+  "brand": "Serino",
+  "line": "Royale Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Criollo '98)",
+  "filler": "Nicaragua (Estelí Corojo '99, Jalapa Criollo '98)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Sublime",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "cashew",
+   "lemon zest",
+   "white pepper",
+   "cream"
+  ],
+  "about": "The Ecuadorian Connecticut blend in Serino's original Royale series, made for the Serino family at Omar González-Alemán's La Corona factory in Estelí. It is the mildest of the Royale blends.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/serino-royale-connecticut/",
+   "https://halfwheel.com/aps-distributors-llc-launching-serino-royale-at-ipcpr-2016/117303/",
+   "https://cigar-coop.com/2016/06/cigar-review-serino-royale-connecticut-torpedo.html"
+  ],
+  "notes": "Launched in 2016 as Serino Royale 20th Anniversary in a different set of sizes. The current four sizes came with Serino's 2021 version of the line.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Reworded about (sources say Ecuadorian Connecticut, not shade) and shortened notes. Strength checked against Cigar Coop and Atlantic Cigar (Mild-Medium); Serino publishes none."
+ },
+ {
+  "brand": "Serino",
+  "line": "Royale Medio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Medio",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Criollo '98)",
+  "filler": "Nicaragua (Jalapa Criollo '98 medio tiempo and Corojo '99, Estelí Criollo '98)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Sublime",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "toasted peanut",
+   "milk chocolate",
+   "cinnamon",
+   "raisin"
+  ],
+  "about": "The middle blend of the Serino Royale series, a medium-bodied Nicaraguan cigar under a lighter Ecuadorian Habano wrapper. It is made at La Corona in Estelí.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/serino-royale-medio/",
+   "https://halfwheel.com/aps-distributors-llc-launching-serino-royale-at-ipcpr-2016/117303/",
+   "https://cigar-coop.com/2017/06/cigar-review-serino-royale-medio-robusto-gordo.html"
+  ],
+  "notes": "Early coverage calls the wrapper Ecuadorian Habano claro (Habano 2000 seed). Launched in 2016 as Serino Royale 20th Anniversary; the current three sizes came with Serino's 2021 version of the line.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Shortened notes. Strength checked against Atlantic Cigar (Medium) and Serino's medium-bodied wording."
+ },
+ {
+  "brand": "Serino",
+  "line": "Royale Maduro XX",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Criollo '98)",
+  "filler": "Nicaragua (Jalapa Criollo '98 medio tiempo, Estelí Corojo '99 and Criollo '98)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Sublime",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "black cherry",
+   "leather",
+   "raisin"
+  ],
+  "about": "The strongest blend of the Serino Royale series. It pairs a dark Ecuadorian Habano 2000 wrapper with aged Nicaraguan tobacco from Estelí and Jalapa.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/serino-royale-maduro-xx/",
+   "https://halfwheel.com/serino-royale-20th-anniversary-maduro-xx-sublime/128883/",
+   "https://cigar-coop.com/2016/09/cigar-review-serino-royale-maduro-xx-sublime.html"
+  ],
+  "notes": "The wrapper is a Habano 2000 seed oscuro, not broadleaf. Serino says full-bodied on one page and medium-full on another; Atlantic Cigar lists Full, while halfwheel and Cigar Coop found medium to medium-full. Current sizes came with the 2021 version.",
+  "verified": true,
+  "verifyNotes": "Removed the flagship claim from about; no page I opened says it. Shortened notes. Blend, factory, sizes and strength confirmed."
+ },
+ {
+  "brand": "Serino",
+  "line": "Wayfarer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Corojo '99)",
+  "filler": "Nicaragua (Jalapa Criollo '98 and Corojo '99, Estelí Criollo '98)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "The 109",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Dalia",
+    "length": 6.75,
+    "ring": 43
+   },
+   {
+    "name": "Corona",
+    "length": 5.125,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "pecan",
+   "leather",
+   "cinnamon",
+   "cayenne",
+   "milk chocolate"
+  ],
+  "about": "Carson Serino's personal blend, inspired by the Cuban cigars he smoked on a backpacking trip to Iceland. It is a Nicaraguan cigar aimed at a Cuban-style profile, rolled at La Corona in Estelí.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/wayfarer/",
+   "https://halfwheel.com/serino-wayfarer-corona-gorda/213848/",
+   "https://cigar-coop.com/2018/02/cigar-review-wayfarer-corona-gorda-by-serino-cigar-company.html"
+  ],
+  "notes": "The Dalia and Corona launched as limited sizes of 300 boxes each. A 6 1/2 x 54 Sublime from the 2017 launch is not on Serino's current list. Cigar Aficionado names a Jalapa Criollo '98 binder; Serino's site says Jalapa Corojo '99.",
+  "verified": true,
+  "verifyNotes": "Dropped the unsupported Cuban cap styles claim from about and shortened notes. Binder disagreement confirmed on Cigar Aficionado's Q&A with Carson Serino. Strength checked against Cigar Coop and Atlantic Cigar (Medium)."
+ },
+ {
+  "brand": "Serino",
+  "line": "Taino",
+  "found": true,
+  "officialName": "Taíno",
+  "wrapperLeaf": "Ecuadorian Habano Medio",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí Corojo '99)",
+  "filler": "Nicaragua (Ometepe Criollo '98, Estelí Corojo '99 and Criollo '98, Jalapa Corojo '99)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "marzipan",
+   "white chocolate",
+   "orange peel"
+  ],
+  "about": "A medium-bodied Nicaraguan line from Serino named for the Taíno people of the Caribbean, who are credited with introducing tobacco to Europeans. It is made at La Corona in Estelí.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/taino/",
+   "https://halfwheel.com/taino-toro/289878/",
+   "https://atlanticcigar.com/taino-toro-habano/"
+  ],
+  "notes": "Also sold as Taíno White Label. A 5 1/2 x 44 size called The 44 began as a CigarClub.com exclusive and went nationwide in 2021, but Serino's line page does not list it. halfwheel found strength a little above medium.",
+  "verified": true,
+  "verifyNotes": "Fixed notes: halfwheel reports The 44 became a regular production size in June 2021, not a separate limited release. Blend fields confirmed."
+ },
+ {
+  "brand": "Serino",
+  "line": "Taino Heritage",
+  "found": true,
+  "officialName": "Taíno Heritage",
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Dominican Republic (Piloto Cubano, Olor, Criollo '98), Nicaragua (Criollo '98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Hamaca",
+    "length": 5.125,
+    "ring": 50
+   },
+   {
+    "name": "Yocahú",
+    "length": 6,
+    "ring": 47
+   },
+   {
+    "name": "Manicato",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "honey",
+   "almond",
+   "barnyard",
+   "white pepper"
+  ],
+  "about": "A Dominican-made extension of Serino's Taíno line, blended with Jochy Blanco and rolled at his Tabacalera Palma factory. The three sizes carry Taíno words as names.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/taino-heritage/",
+   "https://halfwheel.com/taino-heritage-hamaca/400247/",
+   "https://serinocigars.com/shop/taino-heritage/"
+  ],
+  "notes": "Announced in 2019 with an Ecuadorian Habano 2000 wrapper, which Serino's line page and some retailers still list. It shipped in June 2021 with Ecuadorian Sumatra. Serino gives no strength; halfwheel found it just under medium, Atlantic Cigar lists medium-full.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Shortened notes. Confirmed Serino publishes no strength and that halfwheel (just under medium) and Atlantic Cigar (Medium-Full) disagree, so strength stays null."
+ },
+ {
+  "brand": "Serino",
+  "line": "Elenor Rose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Rosado (Habano 2000)",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua, Peru, USA (Pennsylvania broadleaf)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lady 48",
+    "length": 5.75,
+    "ring": 48
+   },
+   {
+    "name": "Eagle",
+    "length": 5.625,
+    "ring": 50
+   },
+   {
+    "name": "Revolver",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "honey",
+   "aged tobacco",
+   "cherry",
+   "oak"
+  ],
+  "about": "The first release from Studio Serino, the company's small artisan division. It is a rosado-wrapped Nicaraguan cigar with Peruvian and Pennsylvania tobacco in the filler, named partly as a nod to the Beatles song Eleanor Rigby.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/studio-serino-elenor-rose/",
+   "https://halfwheel.com/serino-expands-elenor-rose-line-with-rpm-45/460863/",
+   "https://cigar-coop.com/2021/12/cigar-news-serino-cigar-company-launches-studio-serino-with-elenor-rose.html"
+  ],
+  "notes": "Sold as Studio Serino Elenor Rose. The Eagle is a perfecto. Serino calls it a medium to full blend, while Atlantic Cigar lists Medium. A 4 1/2 x 45 RPM 45 size was added in 2026 as a 3,000-cigar limited run.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: Serino's shop page (serinocigars.com/shop/studio-serino-elenor-rose-10-count-collectors-box/) calls it a medium to full blend and the brief prefers the maker. Body set to null; no page I opened gives body separately. Shortened notes. halfwheel dates the line to both 2019 and 2021; Cigar Coop's December 2021 launch report supports 2021."
+ },
+ {
+  "brand": "Serino",
+  "line": "Bygone",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Medio",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo '99)",
+  "filler": "Nicaragua (Criollo '98, Corojo '99), Peru",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Hermoso",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "honey",
+   "salted caramel",
+   "vanilla",
+   "oak"
+  ],
+  "about": "A single-size, Cuban-style blend made by the Serino family with David Imber, using five-year-old tobaccos and traditional methods such as slow fermentation, wooden molds and hand bunching. It is rolled at La Corona in Estelí and sold in 10-count boxes.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/bygone/",
+   "https://halfwheel.com/bygone/414321/",
+   "https://atlanticcigar.com/serino-bygone-toro-5-5x48/"
+  ],
+  "notes": "Styled BYGONE. Comes in one size only. halfwheel's review put strength at medium-full; Atlantic Cigar lists it as Medium. Serino does not name the Peruvian filler leaf.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Corrected notes: halfwheel's review says medium-full, not medium rising to medium-full."
+ },
+ {
+  "brand": "Serino",
+  "line": "The Expat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Criollo '98)",
+  "filler": "Nicaragua (Estelí Criollo '98, Jalapa Corojo '99), USA (Pennsylvania broadleaf)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "The Passport",
+    "length": 5.875,
+    "ring": 50
+   },
+   {
+    "name": "Sublime",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "raisin",
+   "coffee",
+   "cinnamon"
+  ],
+  "about": "Serino's value-priced line, first rolled for a family friend's destination wedding and later turned into a regular release. It is made at La Corona in Estelí and sold in paper-wrapped bundles of 10 with a pigtail cap and brushed foot.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/cigars/serino-cigar-co-the-expat/",
+   "https://halfwheel.com/serinos-the-expat-gets-two-new-sizes-as-line-goes-nationwide/403014/",
+   "https://serinocigars.com/shop/serino-cigar-co-the-expat/"
+  ],
+  "notes": "First sold in spring 2021 as a CigarClub.com exclusive, then went national in December 2021 with Pennsylvania broadleaf added to the filler. Serino also sells a newer box-pressed version in Gordo 6 x 58, Sublime 6 x 54 and Robusto Grande 5 x 54.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Serino",
+  "line": "Vintage 2012 A",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "A",
+    "length": 9.25,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "coffee",
+   "hay",
+   "earth",
+   "anise"
+  ],
+  "about": "A limited 9 1/4 inch A-size cigar from Serino built around tobaccos from the 2012 crop, rolled at La Corona in 2016 and then aged before release. It was sold in single coffins.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://serinocigars.com/shop/serino-limited-edition-vintage-2012-a/",
+   "https://halfwheel.com/serino-vintage-2012-a/365686/",
+   "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-serino-vintage-2012-a/"
+  ],
+  "notes": "Limited to 1,000 single coffins. halfwheel found it mild to mild-medium; Developing Palates called it medium. Ring gauge is 47 in the spec tables, though halfwheel's text also says 49.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Serino",
+  "line": "Custom Prominente",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Havana seed (origin not disclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaraguan Corojo '99, Criollo '98, two undisclosed Caribbean tobaccos",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 7.625,
+    "ring": 49
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "aged tobacco",
+   "cinnamon",
+   "cocoa",
+   "oak"
+  ],
+  "about": "A small-batch cigar sold only through Serino's own shop, made with seven-year-aged tobaccos, rolled entubado style and then aged 15 months. It is sold without cellophane in ribbon-tied five-packs.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://serinocigars.com/shop/custom-prominente-blend/"
+  ],
+  "notes": "Sold only through Serino's own shop in small batches. Most of the blend is undisclosed, and Serino does not publish the binder, factory, country or strength. Sizes are given in metric: 49 x 194 mm and 52 x 124 mm.",
+  "verified": true,
+  "verifyNotes": "Removed unbanded from about; the page only says no cellophane and ribbon-tied. Shortened notes. Confirmed Serino publishes no wrapper origin, binder, country, factory or strength. Production kept as limited on the strength of small batches sold only direct; the page does not use the word limited."
+ },
+ {
+  "brand": "Serino",
+  "line": "Vanguard",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa, including medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "La Corona Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.125,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "dark cocoa",
+   "coffee",
+   "earth",
+   "black pepper",
+   "sweetness"
+  ],
+  "about": "A small-batch limited edition robusto sold by Serino, created as a passion project by two friends named Griff and Dave. It is rolled at La Corona in Nicaragua and uses medio tiempo leaf in the blend.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://serinocigars.com/shop/vanguard/"
+  ],
+  "notes": "Sold as Vanguard Limited Edition in boxes of 10, and only Serino's own shop describes it. No release year is given. Serino's wording is medium-full bodied.",
+  "verified": true,
+  "verifyNotes": "Reworded about: Serino calls Griff and Dave longtime cigar lovers and the cigar a passion project by friends, not friends of the company. Shortened notes."
+ },
+ {
+  "brand": "Serino",
+  "line": "Zingotita Morning",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Desflorado Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "vanilla",
+   "oak"
+  ],
+  "about": "One of three Zingotita blends, a small brand of Costa Rican cigars that Serino took over when its founder retired. The three are meant to follow the smoker through the day, and this is the morning one.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/shop/zingotita-robusto-3-pack/",
+   "https://serinocigars.com/shop/zingotita-corona-gordo-toro-2-pack/"
+  ],
+  "notes": "Zingotita is a separate brand name owned and sold by Serino. The maker only says the blends mix Costa Rican and Nicaraguan tobaccos; the factory, binder, filler and release year are not published. Serino describes it as light, with no formal strength given.",
+  "verified": true,
+  "verifyNotes": "Reworded about slightly. Confirmed on both Serino shop pages: wrapper name, Costa Rica, sizes, and that no wrapper origin, binder, filler or factory is published. Serino gives no formal strength, so it stays null."
+ },
+ {
+  "brand": "Serino",
+  "line": "Zingotita Noon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "clove",
+   "aged tobacco"
+  ],
+  "about": "One of three Zingotita blends, a small brand of Costa Rican cigars that Serino took over when its founder retired. The three are meant to follow the smoker through the day, and this is the midday one.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/shop/zingotita-robusto-3-pack/",
+   "https://serinocigars.com/shop/zingotita-corona-gordo-toro-2-pack/"
+  ],
+  "notes": "Zingotita is a separate brand name owned and sold by Serino. The maker only says the blends mix Costa Rican and Nicaraguan tobaccos; the factory, binder, filler and release year are not published. Serino describes it as bold, with no formal strength given.",
+  "verified": true,
+  "verifyNotes": "Reworded about slightly. Confirmed on both Serino shop pages: wrapper name, Costa Rica, sizes, and that no wrapper origin, binder, filler or factory is published. Serino gives no formal strength, so it stays null."
+ },
+ {
+  "brand": "Serino",
+  "line": "Zingotita Night",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "honey",
+   "macadamia",
+   "aged tobacco"
+  ],
+  "about": "One of three Zingotita blends, a small brand of Costa Rican cigars that Serino took over when its founder retired. The three are meant to follow the smoker through the day, and this is the evening one.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://serinocigars.com/shop/zingotita-robusto-3-pack/",
+   "https://serinocigars.com/shop/zingotita-corona-gordo-toro-2-pack/"
+  ],
+  "notes": "Zingotita is a separate brand name owned and sold by Serino. The maker only says the blends mix Costa Rican and Nicaraguan tobaccos; the factory, binder, filler and release year are not published. Serino describes the strength as medium-heavy.",
+  "verified": true,
+  "verifyNotes": "Reworded about slightly. Confirmed on both Serino shop pages: wrapper name, Costa Rica, sizes, and that no wrapper origin, binder, filler or factory is published. Medium-Full is mapped from Serino's wording, medium-heavy in strength."
+ }
+]

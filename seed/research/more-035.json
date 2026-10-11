@@ -1,0 +1,879 @@
+[
+ {
+  "brand": "Espinosa",
+  "line": "Wasabi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto BP",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness",
+   "spice"
+  ],
+  "about": "A green candela-wrapped cigar from Espinosa, finished with a dark Nicaraguan habano cap. It began in 2016 as a lounge-only Backroom Series cigar and later became an ongoing line.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/wasabi/",
+   "https://halfwheel.com/espinosa-ships-wasabi-corona/300227/",
+   "https://halfwheel.com/espinosa-wasabi-2018/265034/"
+  ],
+  "notes": "Not flavored: the name only nods to the green wrapper. Espinosa lists the Corona as 5 x 42, halfwheel and Neptune as 5 x 46. Neptune rates it Medium, but halfwheel's 2018 review found it medium-full to full, so it can hit harder than most candelas.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory and year confirmed on Espinosa's page, halfwheel and Cigar Aficionado. Added halfwheel's stronger strength finding to notes and swapped the Cigar Aficionado link for the halfwheel 2018 review that supports it."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Azucar",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Aveja Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cañita",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "sweetness"
+  ],
+  "about": "A vanilla-flavored, sweet-tipped cigar made with Dominican long filler, and the first flavored cigar from Espinosa. It is made in the Dominican Republic rather than at Espinosa's own factory.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://espinosacigars.com/core-lines/azucar/",
+   "https://halfwheel.com/espinosa-cigars-revamps-zucar-for-tpe-2020/371581/",
+   "https://halfwheel.com/pca-2026-espinosa-premium-cigars/466840/"
+  ],
+  "notes": "Often written @ZUCAR. Debuted in 2016 and was reblended as an all-Dominican cigar in 2020. In 2026 Espinosa said it is being discontinued and replaced by Entice, though Espinosa's site still lists it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Laranja Reserva Azulejo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (sun grown)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cocoa",
+   "allspice",
+   "leather",
+   "toast",
+   "white pepper"
+  ],
+  "about": "The third blend in Espinosa's Laranja family, named for a style of blue tile and dressed in blue bands. It pairs an Ecuadorian Sumatra wrapper with a Brazilian Arapiraca binder and Nicaraguan fillers.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/laranja-azulejo/",
+   "https://halfwheel.com/espinosa-laranja-reserva-azulejo-robusto-grande/402250/"
+  ],
+  "notes": "Espinosa's own site calls it Laranja Azulejo and describes it as medium-plus to full bodied. The cigars are box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Laranja Hybrid",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Brazil",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Churchill",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 addition to Espinosa's Laranja family that swaps the usual Brazilian wrapper for an Ecuadorian habano oscuro leaf and moves the Brazilian tobacco into the filler. It comes in two sizes, with the toro box-pressed.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/espinosa-begins-shipping-laranja-hybrid/478408/",
+   "https://www.neptunecigar.com/cigar/laranja-hybrid"
+  ],
+  "notes": "Strength comes from Neptune only. Neptune lists Brazilian leaf in the binder, while halfwheel and the company put it in the filler.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength Medium rests on Neptune only."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Entice",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Victor Calvo's factory, Estelí",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale BP",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto BP",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro BP",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "vanilla"
+  ],
+  "about": "A vanilla-infused, box-pressed cigar Espinosa introduced in 2026 to replace its Azucar line. It is aimed at newer smokers while still being a handmade cigar.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2026-espinosa-premium-cigars/466840/",
+   "https://halfwheel.com/las-6-provincias-miami-knuckle-sandwich-avant-garde-warhead-12-headline-espinosas-eight-new-pca-releases/466143/",
+   "https://www.neptunecigar.com/cigar/espinosa-entice"
+  ],
+  "notes": "The blend is not disclosed. halfwheel reports it is made at Victor Calvo's factory in Estelí, while Neptune lists La Zona. Neptune lists the Toro as 6 x 52 where halfwheel has 6 x 50.",
+  "verified": true,
+  "verifyNotes": "No changes. Confirmed the blend is undisclosed on both halfwheel and Neptune."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "cream"
+  ],
+  "about": "A core line Espinosa launched in January 2024, and the first Sumatra-wrapped blend made at its La Zona factory. Erik Espinosa describes it as nutty with a spice note.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/espinosa-kicks-off-2024-with-new-sumatra-line/433143/",
+   "https://www.famous-smoke.com/brand-espinosa-sumatra"
+  ],
+  "notes": "Strength is unclear: Famous Smoke describes it as medium bodied and creamy but tags it Full in its spec table.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength stays null: Famous says medium bodied in its text but tags Full, and no maker rating was found."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "CRS",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Three versions: Habano, Connecticut and Maduro",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A value-priced Espinosa bundle whose name stands for Cigars, Ready-to-Smoke. The toros come ten to a resealable humidified bag, styled after military MRE packaging, in Habano, Connecticut or Maduro wrappers.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-espinosa-crs"
+  ],
+  "notes": "Sold in three wrapper versions, so ask which one the guest has. Wrapper origins, binder and factory are not published. Details here come from Famous Smoke only.",
+  "verified": true,
+  "verifyNotes": "No changes. Famous Smoke is the only source found; nothing on Espinosa's site or halfwheel."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "La Zona Factory Selects",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Brawn (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Burl (Toro)",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Bullet (Torpedo)",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Boss (Churchill)",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A budget bundle line from Erik Espinosa sold only through Famous Smoke Shop. It uses an Ecuadorian Habano wrapper over Nicaraguan filler and comes in bundles of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-espinosa-la-zona-factory-selects"
+  ],
+  "notes": "A Famous Smoke Shop exclusive. Famous describes it as medium in body and strength but tags it Full in its spec table. The binder is not published and the factory is not named beyond the line's name.",
+  "verified": true,
+  "verifyNotes": "No changes. Famous Smoke is the only source (store exclusive); its text says medium but its spec tag says Full."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Reggae",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Jamaica (Lengua de Vaca)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Grande",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Short Churchill",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An Espinosa line built around Jamaican Lengua de Vaca tobacco in the filler, first sold to select lounges in 2016 and released nationally in 2017. Its offshoot, Reggae Dread, has a cap of tobacco strands made to look like dreadlocks.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/espinosa-bringing-reggae-ipcpr/156290/",
+   "https://halfwheel.com/espinosa-reggae-dread-2/278110/",
+   "https://www.neptunecigar.com/cigar/espinosa-reggae"
+  ],
+  "notes": "Reggae Dread (6 x 56, with a dreadlock-style cap) is a different, fuller blend: Ecuadorian Habano wrapper with Nicaraguan, Honduran and Jamaican filler. Launched as regular production, but it is no longer on Espinosa's site, so current status is unclear.",
+  "verified": true,
+  "verifyNotes": "Removed the Dread 6 x 56 from sizes because halfwheel says it is a different blend with a Habano wrapper; it stays in notes. Dropped the unconfirmed 'sold out at Neptune' remark."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Warzone",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Honduras",
+  "filler": "Colombia, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Short Churchill",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Rabito",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "black pepper",
+   "earth",
+   "leather",
+   "nuts"
+  ],
+  "about": "A 2019 collaboration between Erik Espinosa and General Cigar, and the first Espinosa blend to use a Cameroon wrapper. Espinosa made it at La Zona and General Cigar handled sales and distribution.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/warzone-toro-2/463266/",
+   "https://halfwheel.com/espinosa-general-cigar-collaborate-for-warzone/368139/",
+   "https://www.neptunecigar.com/cigar/warzone"
+  ],
+  "notes": "Sold by General Cigar rather than Espinosa. Strength varies by source: the launch description says medium to full, Neptune tags it Full, and halfwheel found it medium. Each size was a limited run of 1,500 to 3,000 boxes of 20.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Sensei's Sensational Sarsaparilla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "root beer",
+   "spice",
+   "pepper",
+   "nuts"
+  ],
+  "about": "A collaboration between Espinosa and the Cigar Dojo community, first released in 2014 as a 1,000-bundle store exclusive. It is named for a sarsaparilla root beer note the makers find in the blend.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/senseis-sensational-sarsaparilla-returns-for-national-release/396833/",
+   "https://halfwheel.com/espinosa-cigar-dojo-partner-sarsaparilla/70551/",
+   "https://www.neptunecigar.com/cigar/sensei-s-sensational-sarsaparilla"
+  ],
+  "notes": "Not flavored: the name refers to a natural tasting note. A second version in a 6 x 50 toro came out in 2016, and since 2021 the belicoso has been a seasonal national release in 10-count boxes.",
+  "verified": true,
+  "verifyNotes": "Changed flavor 'black pepper' to 'pepper' to match Neptune's wording."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Murcielago Shikaka",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro (oval pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "cedar",
+   "white pepper",
+   "hay",
+   "vanilla"
+  ],
+  "about": "A 2024 limited edition of Espinosa's Murcielago made for retail members of the Tobacconists' Association of America. It trades the line's usual San Andrés maduro wrapper for a light Ecuadorian Connecticut-seed leaf.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/murcielago-shikaka/447289/",
+   "https://www.neptunecigar.com/cigar/murcielago-shikaka"
+  ],
+  "notes": "TAA exclusive limited to 1,000 boxes of 20. halfwheel found it medium-full in strength despite the light wrapper, while Neptune lists it as Medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Murcielago de Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Claro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo (oval pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A reworked version of Espinosa's Murcielago blend with a lighter San Andrés claro wrapper, released in 2023 as the company's first exclusive for the Tobacconists' Association of America.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-cigars-releasing-murcielago-de-oro-as-taa-exclusive/421041/",
+   "https://halfwheel.com/espinosas-murcielago-de-oro-ships-early-to-taa-retailers/421903/",
+   "https://www.neptunecigar.com/cigar/murcielago"
+  ],
+  "notes": "TAA exclusive limited to 1,500 boxes of 20. Espinosa says it has more body than regular Murcielago but not more strength, and less sweetness. The Medium strength rating comes from Neptune only.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength Medium rests on Neptune's listing only."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich Chef's Special",
+  "found": true,
+  "officialName": "Knuckle Sandwich Chef Special",
+  "wrapperLeaf": "Changes every year (2026: Mexican Claro)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chef's Special 2022 (box-pressed perfecto)",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Chef Special 2023 (box-pressed perfecto)",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Chef Special 2024 (oval-pressed toro)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Chef Special 2025 (box-pressed toro)",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "Chef Special 2026 (pressed toro)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The annual limited edition in Knuckle Sandwich, the brand Guy Fieri runs with Espinosa. Each year brings a new wrapper over Nicaraguan binder and filler, sold in boxes of 10.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/knuckle-sandwich-chef-special-2025/454058/",
+   "https://halfwheel.com/knuckle-sandwich-avant-garde-chef-special-2026-arrive-at-stores/473143/",
+   "https://espinosacigars.com/knuckle-sandwich/chef-special/"
+  ],
+  "notes": "Called Chef's Special in 2022 and Chef Special since. Wrappers per halfwheel: 2022 Ecuadorian Habano Rosado, 2023 Ecuadorian Sumatra, 2024 Connecticut Broadleaf, 2025 Brazilian Mata Fina, 2026 Mexican Claro. Espinosa's own page lists the original as all Nicaraguan. Strength varies by year, so check the band.",
+  "verified": true,
+  "verifyNotes": "Yearly wrappers, sizes, factory and box counts confirmed on halfwheel. 2026 press style relabeled 'pressed' because halfwheel says oval-pressed in one article and box-pressed in another. Added Espinosa's page, which calls the original wrapper Nicaraguan, and noted the disagreement. Strength left null because it changes yearly."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich Off Menu",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro (box pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cocoa",
+   "wood",
+   "leather",
+   "toast"
+  ],
+  "about": "The first Knuckle Sandwich cigar made for the Tobacconists' Association of America, released in late 2025. It is a dark, box-pressed toro with a Pennsylvania Broadleaf wrapper over Nicaraguan tobaccos.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/knuckle-sandwich-off-menu/459291/",
+   "https://www.neptunecigar.com/cigar/espinosa-knuckle-sandwich-off-menu"
+  ],
+  "notes": "TAA exclusive limited to 1,250 boxes of 20. Knuckle Sandwich is Guy Fieri's brand, made and distributed with Espinosa.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich Puro Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (varietal not disclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "An all-Nicaraguan blend added to Guy Fieri's Knuckle Sandwich brand in 2025 as its fourth regular production line. It wears black, silver and red bands with a silver foot ribbon.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/article/an-all-nicaraguan-knuckle-sandwich",
+   "https://halfwheel.com/espinosa-ships-chef-special-2025-knuckle-sandwich-puro-nicaragua-and-warhead-independence-day/452348/",
+   "https://www.neptunecigar.com/cigar/espinosa-knuckle-sandwich-puro-nicaragua"
+  ],
+  "notes": "The company only says the blend is all Nicaraguan and does not disclose regions or varietals. Neptune alone calls the wrapper Nicaraguan Habano. Espinosa describes it as full-bodied and Neptune rates it Full.",
+  "verified": true,
+  "verifyNotes": "Wrapper changed from 'Nicaraguan Habano' to 'Nicaraguan (varietal not disclosed)' and category set to null: only Neptune says Habano and halfwheel reports the company does not disclose varietals. Added body Full from Cigar Aficionado and swapped in that article as a source."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich Avant-Garde",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "cream",
+   "nuts",
+   "earth",
+   "bread",
+   "honey"
+  ],
+  "about": "A 2026 Knuckle Sandwich release meant as a milder, more approachable entry point than the brand's usual strong and spicy cigars. It comes in one toro size in boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/knuckle-sandwich-avant-garde/476806/",
+   "https://halfwheel.com/pca-2026-espinosa-premium-cigars/466840/",
+   "https://www.neptunecigar.com/cigar/espinosa-knuckle-sandwich-limited-edition"
+  ],
+  "notes": "Milder than it looks despite the dark wrapper: halfwheel found it mild to mild-medium, while Neptune lists Medium. Production is undisclosed, and the company says it could become a regular line if demand is there.",
+  "verified": true,
+  "verifyNotes": "Added the Neptune page that the notes cite. No field changes."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich 58",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (oval pressed)",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "nuts",
+   "oak",
+   "black pepper",
+   "cocoa",
+   "leather"
+  ],
+  "about": "The 2026 entry in Knuckle Sandwich's yearly limited edition marking Guy Fieri's birthday, named for the age he turns. It uses the same San Andrés-wrapped blend as the earlier birthday releases in a new oval-pressed size.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/knuckle-sandwich-58/464943/",
+   "https://www.neptunecigar.com/cigar/espinosa-knuckle-sandwich-limited-edition"
+  ],
+  "notes": "Fourth in the birthday series after 55 (2023), 56 (2024) and 57 (2025): same blend, different size each year. halfwheel found it topping out at medium-full, while Neptune lists Medium. Production numbers are undisclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias LHB",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "black pepper",
+   "cream",
+   "citrus",
+   "raisin"
+  ],
+  "about": "The first release in Espinosa's Las 6 Provincias series honoring Cuba's original six provinces, with LHB standing for La Habana. It debuted in 2018 and is known for its artwork and a limited 20-count box that swings on a stand.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/espinosa-las-6-provincias-lhb/280248/",
+   "https://espinosacigars.com/core-lines/las-6-provincias/",
+   "https://www.neptunecigar.com/cigar/espinosa-las-6-provincias-limited"
+  ],
+  "notes": "halfwheel lists the cigar as regular production with only the 300 swinging boxes limited, though some retailers call it a limited edition. halfwheel found it medium-full building to full, while Neptune describes it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias MTZ",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro (box pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "peanuts",
+   "cocoa",
+   "espresso",
+   "cream"
+  ],
+  "about": "The second release in Espinosa's Las 6 Provincias series, honoring the Cuban province of Matanzas. It came out in 2019 as a box-pressed Nicaraguan puro in a box built to look like a stained-glass window.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-las-6-provincias-mtz/368979/",
+   "https://espinosacigars.com/core-lines/las-6-provincias/"
+  ],
+  "notes": "Limited to 1,000 boxes of 10 and 500 boxes of 20, or 20,000 cigars. Unlike LHB, it was made at Espinosa's own La Zona factory.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

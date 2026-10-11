@@ -1,0 +1,986 @@
+[
+ {
+  "brand": "Punch",
+  "line": "Mr. Punch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa seco)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Big Slapper",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cream",
+   "spice"
+  ],
+  "about": "A regular production Punch line named after the brand's puppet mascot, made in Nicaragua with an Ecuadorian Sumatra wrapper over Nicaraguan binder and filler. It comes only in large ring gauges.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/mr-punch/",
+   "https://halfwheel.com/mr-punch-by-punch-cigars-heads-to-stores-this-week/473698/",
+   "https://www.cigarworld.com/cigars/punch/mr-punch/"
+  ],
+  "notes": "Also written as Mr. Punch by Punch Cigars. The 7 x 70 Big Slapper is the largest size Punch has released.",
+  "verified": true,
+  "verifyNotes": "Changed 'jester mascot' to 'puppet mascot' in about: Punch and halfwheel describe Mr. Punch as a puppet character. All other fields match punchcigars.com, Cigar World and halfwheel."
+ },
+ {
+  "brand": "Punch",
+  "line": "Rare Corojo 25th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo, Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "25th Anniversary",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "earth"
+  ],
+  "about": "An all-Honduran toro released to mark 25 years of Punch Rare Corojo. It is made for Punch at the Aladino factory of JRE Tobacco rather than at the brand's usual factory.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/rare-corojo-25th-anniversary/",
+   "https://halfwheel.com/punch-rare-corojo-25th-anniversary/471410/",
+   "https://www.cigarworld.com/cigars/punch/rare-corojo-25th-anniversary/"
+  ],
+  "notes": "A different blend from the regular Rare Corojo, which uses an Ecuadorian Sumatra wrapper. Punch calls it a full-time release, though halfwheel's review labels it a limited edition. Punch rates it medium and halfwheel agreed, but Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added to notes that halfwheel's review labels it a limited edition while Punch and Cigar World call it a full-time release; kept production as regular per the maker."
+ },
+ {
+  "brand": "Punch",
+  "line": "Clásico Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Shade)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Presidente",
+    "length": 8.5,
+    "ring": 52
+   },
+   {
+    "name": "After Dinner",
+    "length": 7.25,
+    "ring": 45
+   },
+   {
+    "name": "Double Corona",
+    "length": 6.75,
+    "ring": 48
+   },
+   {
+    "name": "Grandote",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Pitas",
+    "length": 6.125,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Elites",
+    "length": 5.25,
+    "ring": 45
+   },
+   {
+    "name": "London Club",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Champions",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness",
+   "coffee",
+   "dark chocolate",
+   "cedar",
+   "black pepper"
+  ],
+  "about": "The maduro version of the core Honduran Punch Clásico line, with a dark Connecticut Broadleaf wrapper in place of the Ecuadorian Sumatra. It is known for an earthy, sweet profile.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/clasico-maduro/",
+   "https://www.cigarworld.com/cigars/punch/clasico-maduro/",
+   "https://www.famous-smoke.com/brand-punch-clasico-broadleaf"
+  ],
+  "notes": "Famous Smoke sells it as Clasico Broadleaf, lists a Connecticut Broadleaf binder and rates it full. Punch lists a Connecticut Shade binder and a medium profile.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Gran Puro Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "GPN 7",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "GPN 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "GPN 5",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "GPN 4",
+    "length": 4.875,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness",
+   "apple",
+   "almonds",
+   "cedar",
+   "pepper"
+  ],
+  "about": "A full-bodied extension of the Punch Gran Puro line built on Nicaraguan binder and filler under a Connecticut Broadleaf maduro wrapper. It is regular production from General Cigar.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/gran-puro-nicaragua/",
+   "https://halfwheel.com/punch-gran-puro-nicaragua-5-12-x-54/145326/",
+   "https://www.cigarworld.com/cigars/punch/gran-puro-nicaragua/"
+  ],
+  "notes": "Despite the name it is not a Nicaraguan puro: the wrapper is Connecticut Broadleaf. Halfwheel says it is rolled at STG Danlí in Honduras, while Neptune lists Nicaragua as the origin.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Grand Cru",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Honduras, Nicaragua, Dominican Republic (Piloto Cubano)",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diadema",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Britania",
+    "length": 6.375,
+    "ring": 50
+   },
+   {
+    "name": "No. II EMS",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "No. II Maduro",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Robusto Claro",
+    "length": 5.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "licorice",
+   "wood"
+  ],
+  "about": "A mellower Honduran-made Punch line with a Connecticut Shade wrapper over a broadleaf binder and filler from three countries. Cigar Aficionado named it one of its 25 best cigars of 2010.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/grand-cru/",
+   "https://www.neptunecigar.com/punch-cigar",
+   "https://halfwheel.com/scandinavian-tobacco-group-discontinues-56-skus/448395/"
+  ],
+  "notes": "Punch says the No. II wears an Ecuadorian Sumatra wrapper, and a No. II Maduro is also sold. Halfwheel reported in March 2025 that the Diadema, Britania and Robusto sizes were discontinued, though Punch's site still lists them. Neptune rates the natural mild and the maduro medium.",
+  "verified": true,
+  "verifyNotes": "Added halfwheel's March 2025 report that STG discontinued the Britania EMS, Diademas and Robustos EC sizes; kept the maker's size list since punchcigars.com still shows them. Swapped the Cigar World source for that halfwheel article (Cigar World's medium body rating was confirmed). Dropped the Famous Smoke binder remark from notes to make room."
+ },
+ {
+  "brand": "Punch",
+  "line": "Golden Era",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Havana-seed Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo, Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "tobacco",
+   "nuts"
+  ],
+  "about": "A Honduran puro made with Corojo tobacco grown by the Eiroa family, who roll it for Punch at their Aladino factory. Punch rates it mellow to medium.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/golden-era/",
+   "https://halfwheel.com/punch-golden-era-robusto/427980/",
+   "https://www.cigarworld.com/cigars/punch/golden-era/"
+  ],
+  "notes": "Strength is listed very differently: Punch rates it mellow to medium and halfwheel's review found it mild to medium, but Neptune lists medium and Famous Smoke lists full. The Lancero was added in 2024.",
+  "verified": true,
+  "verifyNotes": "Reworded about to remove marketing words (authentic, balanced, smooth). All fields confirmed; halfwheel's review lists the filler as Honduran Habano only, the maker's Corojo and Habano was kept."
+ },
+ {
+  "brand": "Punch",
+  "line": "Knuckle Buster Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Stubby",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "molasses",
+   "black cherry",
+   "cocoa"
+  ],
+  "about": "The second blend in Punch's budget-priced Knuckle Buster family, with a Connecticut Broadleaf wrapper over an Indonesian binder and Nicaraguan filler. It is made in Honduras.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/knuckle-buster-maduro/",
+   "https://halfwheel.com/punch-knuckle-buster-maduro-coming-to-stores-in-early-march/405170/",
+   "https://www.cigarworld.com/cigars/punch/knuckle-buster-maduro/"
+  ],
+  "notes": "Punch and Neptune rate it medium; Famous Smoke lists it as full. The Stubby size was added in 2024.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Knuckle Buster Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Colombia, Dominican Republic (Olor), Nicaragua (Jalapa), USA (Broadleaf)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Stubby",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "toast",
+   "earth"
+  ],
+  "about": "The third and lightest Knuckle Buster blend, a budget-priced Honduran-made cigar with an Ecuadorian Connecticut Shade wrapper. It uses tobacco from six countries.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.punchcigars.com/products/knuckle-buster-shade/",
+   "https://halfwheel.com/punchs-knuckle-buster-line-grows-with-new-shade-blend-maduro-blend-adds-stubby-vitola/435820/",
+   "https://www.cigarworld.com/cigars/punch/knuckle-buster-shade/"
+  ],
+  "notes": "Punch rates it mellow to medium; Neptune and Famous Smoke both list medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Vintage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (Natural) or Connecticut Broadleaf (Maduro)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#1",
+    "length": 6.25,
+    "ring": 44
+   },
+   {
+    "name": "#20",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "#25",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "#30",
+    "length": 6.875,
+    "ring": 48
+   },
+   {
+    "name": "#35",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "#40",
+    "length": 7.25,
+    "ring": 54
+   },
+   {
+    "name": "#60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "leather",
+   "coffee",
+   "wood",
+   "cedar",
+   "spice"
+  ],
+  "about": "A Honduran-made Punch blend sold by Holt's that is aged in cedar cabinets for more than a year before it ships. Every size comes in a natural and a maduro wrapper.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/punch-vintage.html"
+  ],
+  "notes": "Each size also comes in a Connecticut Broadleaf maduro. Only Holt's lists this line; Punch's own site does not.",
+  "verified": true,
+  "verifyNotes": "Fields match the Holt's page. No maker, halfwheel or Cigar Aficionado page could be found to cross-check, so this rests on one retailer. Trimmed notes."
+ },
+ {
+  "brand": "Punch",
+  "line": "Egg Roll XL",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Sumatra-seed)",
+  "filler": "Colombia, Dominican Republic, Mexico, USA",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "XL Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "blackberry",
+   "earth"
+  ],
+  "about": "The 2026 entry in Punch's Lunar New Year series, a 6 x 60 version of the 2019 Egg Roll with the same blend. It has an unfinished foot and comes in a box styled like a Chinese takeout container.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-egg-roll-xl/464632/",
+   "https://www.cigarworld.com/cigars/punch/egg-roll/"
+  ],
+  "notes": "A larger remake of the original 4.5 x 50 Egg Roll from 2019. Production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Mr. Punch's Wieners",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf)",
+  "filler": "Dominican Republic (including Andullo), Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "dark wood",
+   "spice"
+  ],
+  "about": "Punch's 2025 Father's Day limited edition, packaged to look like a pack of hot dogs. The toro is capped at both ends and one half contains Dominican andullo tobacco, so it smokes differently depending on which end is lit.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-mr-punchs-weiners/454024/",
+   "https://www.cigarworld.com/cigars/punch/mr-punchs-wieners/"
+  ],
+  "notes": "Can be lit from either end. Punch rates it medium to full; Neptune lists it as full. Sold in packs of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Bottle Rockets",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Condega), Dominican Republic (Piloto Cubano), Honduras (Jamastran)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Belicoso",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "pepper",
+   "earth"
+  ],
+  "about": "Punch's 2025 Lunar New Year limited edition, a short belicoso with a Mexican San Andrés wrapper. Each cigar has a wooden stick attached to its cellophane so it looks like a bottle rocket.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-bottle-rocket/448839/",
+   "https://www.cigarworld.com/cigars/punch/bottle-rocket/"
+  ],
+  "notes": "Punch's site says Bottle Rockets; Cigar World and halfwheel call it Bottle Rocket. Punch and Neptune rate it full, but halfwheel's review found the strength mild to medium.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: halfwheel's review put strength at mild to medium, not 'closer to medium'. Other fields confirmed."
+ },
+ {
+  "brand": "Punch",
+  "line": "Dad's Home Movies",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua (Condega, Estelí, Ometepe)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "cream",
+   "nuts"
+  ],
+  "about": "Punch's 2024 Father's Day limited edition, a box-pressed toro with an Ecuadorian Habano wrapper over all-Nicaraguan binder and filler. It comes in packaging styled like a 1980s VHS tape set.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-dads-home-movies/441548/",
+   "https://www.cigarworld.com/cigars/punch/dads-home-movies/"
+  ],
+  "notes": "Punch rates it medium; Neptune lists it as full. Halfwheel's review put the strength a little above medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Dragon Fire",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Honduras (La Entrada), Nicaragua (Estelí), Dominican Republic (Piloto Cubano)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Gordo",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "coffee",
+   "white pepper"
+  ],
+  "about": "Punch's 2024 Lunar New Year limited edition for the Year of the Dragon, a 5 x 60 flat-headed cigar with a dark Mexican wrapper. It is one of the few Punch cigars rolled in Nicaragua.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-dragon-fire/439461/",
+   "https://www.cigarworld.com/cigars/punch/dragon-fire/"
+  ],
+  "notes": "Punch describes the wrapper only as Mexican, without naming a region. Punch rates it full; Neptune lists medium and halfwheel's review landed at medium to medium-full.",
+  "verified": true,
+  "verifyNotes": "Set wrapperCategory to null: Punch, Cigar World and halfwheel only say Mexican and no page opened names San Andrés. Other fields confirmed."
+ },
+ {
+  "brand": "Punch",
+  "line": "Dad Bod",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "USA (Broadleaf)",
+  "filler": "Brazil (Mata Fina), Nicaragua (Condega), Honduras (La Entrada), Dominican Republic (Piloto Cubano)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Champion",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "sweetness"
+  ],
+  "about": "Punch's 2023 Father's Day limited edition, a short, fat perfecto with a Cameroon wrapper and tobacco from six countries. The cigars were packed in reusable cans made to look like a four-pack of beer.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-dad-bod/428647/",
+   "https://www.cigarworld.com/cigars/punch/dad-bod/"
+  ],
+  "notes": "Part of Punch's Father's Day limited edition series. Production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": "Changed 'tins' to 'cans' in about to match Cigar World and halfwheel. Other fields confirmed."
+ },
+ {
+  "brand": "Punch",
+  "line": "Spring Roll",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf)",
+  "filler": "Colombia, Dominican Republic, Mexico, USA (Broadleaf)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "spice",
+   "sweet tobacco"
+  ],
+  "about": "Punch's 2023 Lunar New Year limited edition, a short robusto with a shaggy foot that revisits the original Egg Roll with an Ecuadorian Sumatra wrapper. It was sold in boxes styled like Chinese takeout containers.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-spring-roll/422742/",
+   "https://www.cigarworld.com/cigars/punch/spring-roll/"
+  ],
+  "notes": "Limited to 5,000 boxes of 25. Halfwheel's review found the strength below medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Fu Manchu",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Mexico, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "hazelnut",
+   "cinnamon",
+   "caramel",
+   "black pepper"
+  ],
+  "about": "Punch's 2022 Lunar New Year limited edition for the Year of the Tiger, a box-pressed toro with a Honduran Habano wrapper and a long pigtail cap. It uses tobacco from five countries.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-fu-manchu/407727/",
+   "https://www.cigarworld.com/cigars/punch/fu-manchu/"
+  ],
+  "notes": "Limited to 6,400 boxes of 20.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 7.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dried fruit",
+   "leather",
+   "nuts"
+  ],
+  "about": "A limited double corona released in 2021 to mark the 180th anniversary of the Punch brand. It has a Connecticut Broadleaf wrapper and binder over filler from three countries.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/general-cigar-co-celebrates-punchs-180th-anniversary/399239/",
+   "https://www.cigarworld.com/cigars/punch/aniversario/"
+  ],
+  "notes": "Limited to 3,400 boxes of 10, which General Cigar called its most limited Punch release at the time.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed (country from Neptune and halfwheel's Honduras category). Factory left null: halfwheel tags the article STG Danlí but does not state it in the text. Removed the research remark about the factory from notes."
+ },
+ {
+  "brand": "Punch",
+  "line": "Kung Pow!",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "American (Connecticut) Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Honduras (Habano)",
+  "filler": "Brazil, Dominican Republic, Honduras, Mexico",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "coffee",
+   "leather",
+   "sweetness"
+  ],
+  "about": "Punch's 2021 Lunar New Year limited edition for the Year of the Ox, a toro with a dark broadleaf wrapper over a Honduran Habano binder. It is the third cigar in the series that began with Egg Roll.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-kung-pow/391653/",
+   "https://www.cigarworld.com/cigars/punch/kung-pow/"
+  ],
+  "notes": "Limited to 4,500 boxes of 20.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Punch",
+  "line": "Chop Suey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Panatela",
+    "length": 7,
+    "ring": 37
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "pepper",
+   "spice",
+   "nuts"
+  ],
+  "about": "Punch's 2020 Lunar New Year limited edition, a long, thin panatela with an Ecuadorian Sumatra wrapper. It was packaged with chopsticks and has a fortune printed inside each band.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://www.punchcigars.com/limited/",
+   "https://halfwheel.com/punch-chop-suey/375050/",
+   "https://www.cigarworld.com/cigars/punch/chop-suey/"
+  ],
+  "notes": "Made in the Dominican Republic, unlike most Punch cigars. Limited to 3,650 boxes of 25. Punch rates it medium, but halfwheel's review found it medium-full to full.",
+  "verified": true,
+  "verifyNotes": "Replaced the Neptune brand page with Cigar World's Chop Suey page, which carries the maker's medium rating and tasting notes. Reworded about to what halfwheel states about the packaging. Other fields confirmed."
+ },
+ {
+  "brand": "Punch",
+  "line": "Cigar City Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black cherry",
+   "cocoa",
+   "spice"
+  ],
+  "about": "A collaboration between Punch and Tampa's Cigar City Brewing, blended to pair with the brewery's beers. It is an all-Honduran cigar with a maduro Habano-seed wrapper.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://www.cigarworld.com/cigars/punch/cigar-city-maduro/",
+   "https://halfwheel.com/general-collaborates-with-cigar-city-brewing-for-new-punch/401377/"
+  ],
+  "notes": "Full name is Cigar City Brewing Maduro by Punch. It launched in late 2021 at select liquor chains ahead of a wider rollout. No source says whether it is still in production.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

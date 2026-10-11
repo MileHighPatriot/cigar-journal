@@ -55,3 +55,61 @@ export function searchCigars(cigars: Iterable<Cigar>, query: string): Cigar[] {
     `${a.brand} ${a.line}`.localeCompare(`${b.brand} ${b.line}`, 'en', { sensitivity: 'base' }),
   )
 }
+
+const FILLER = new Set(['the', 'and', 'of', 'de', 'la', 'el', 'by', 'y'])
+
+/** How many letters would have to change to turn one word into the other. */
+function distance(a: string, b: string): number {
+  let row = Array.from({ length: b.length + 1 }, (_, i) => i)
+  for (let i = 1; i <= a.length; i++) {
+    const next = [i]
+    for (let j = 1; j <= b.length; j++) {
+      const swap = (row[j - 1] ?? 0) + (a[i - 1] === b[j - 1] ? 0 : 1)
+      next.push(Math.min(swap, (row[j] ?? 0) + 1, (next[j - 1] ?? 0) + 1))
+    }
+    row = next
+  }
+  return row[b.length] ?? 0
+}
+
+/** True when the typed word is in the name, or is one slip away from a word in it. */
+function near(word: string, haystack: string, tokens: string[]): boolean {
+  if (haystack.includes(word)) return true
+  if (word.length < 5) return false
+  const slips = word.length >= 8 ? 2 : 1
+  return tokens.some(
+    (token) => Math.abs(token.length - word.length) <= slips && distance(word, token) <= slips,
+  )
+}
+
+/**
+ * For a search that found nothing: the cigars that match the most of what was typed, allowing
+ * for a misspelling ("pravada") or an extra word ("flathead habano"). Brand then line order.
+ */
+export function closestCigars(cigars: Iterable<Cigar>, query: string, limit = 24): Cigar[] {
+  const words = fold(query)
+    .split(/\s+/)
+    .filter((word) => word.length > 1 && !FILLER.has(word))
+  if (words.length === 0) return []
+  let best = 0
+  let out: Cigar[] = []
+  for (const cigar of cigars) {
+    if (cigar.deletedAt) continue
+    const haystack = fold(`${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`)
+    const tokens = haystack.split(/[^a-z0-9]+/).filter(Boolean)
+    const hits = words.filter((word) => near(word, haystack, tokens)).length
+    if (hits === 0 || hits < best) continue
+    if (hits > best) {
+      best = hits
+      out = []
+    }
+    out.push(cigar)
+  }
+  // One matching word out of several is too loose to be worth showing.
+  if (best < Math.min(2, words.length)) return []
+  return out
+    .sort((a, b) =>
+      `${a.brand} ${a.line}`.localeCompare(`${b.brand} ${b.line}`, 'en', { sensitivity: 'base' }),
+    )
+    .slice(0, limit)
+}

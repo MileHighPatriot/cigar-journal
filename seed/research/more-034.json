@@ -1,0 +1,1059 @@
+[
+ {
+  "brand": "PDR",
+  "line": "1878 Recordando a Santiago Capa Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown Claro",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Corojo seco and ligero)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "DBL Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "cream",
+   "leather"
+  ],
+  "about": "The sun grown version of PDR's 1878 line, made by Abe Flores at the PDR factory in Tamboril. The line was reblended and renamed Recordando a Santiago in late 2020, in honor of the city where PDR is based.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/pdr-1878/capa-sun-grown/",
+   "https://halfwheel.com/pdr-cigars-reblends-updates-1878-line-to-1878-recordando-a-santiago/384607/",
+   "https://www.neptunecigar.com/cigars/pdr-1878-sun-grown-robusto"
+  ],
+  "notes": "The 2020 date is the Recordando a Santiago reblend and rename; a PDR 1878 Capa Sun Grown existed before that. Neptune rates it medium. When the reblend launched, PDR said production would be capped at 5,000 boxes of each size.",
+  "verified": true,
+  "verifyNotes": "Removed an unsourced Cigar Aficionado medium-full claim from notes. Corrected the production cap wording: halfwheel says 5,000 boxes of each size, not per year."
+ },
+ {
+  "brand": "PDR",
+  "line": "1878 Roast Cafe Dark Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee"
+  ],
+  "about": "A coffee-infused cigar from PDR, built on the maduro blend of the PDR 1878 line. It is the darkest of the three original Roast Cafe cigars that launched in 2018.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/pdr-1878-roast-cafe/dark-roast-coffee-flavor/",
+   "https://halfwheel.com/ipcpr-2018-pdr-cigars/276722/",
+   "https://www.neptunecigar.com/cigar/pdr-1878-cafe-dark-roast"
+  ],
+  "notes": "This is a flavored (coffee-infused) cigar. Strength is Neptune's rating; PDR does not publish one. The 2018 launch blend also had Nicaraguan Criollo 98 in the filler, but PDR now lists all Dominican filler.",
+  "verified": true,
+  "verifyNotes": "Notes now say the strength is a single retailer's rating. Other fields confirmed."
+ },
+ {
+  "brand": "PDR",
+  "line": "1878 Roast Cafe Medium Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown Claro",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98, Corojo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "cream",
+   "wood",
+   "nuts"
+  ],
+  "about": "A coffee-infused cigar from PDR, based on the PDR 1878 Capa Sun Grown blend. It sits in the middle of the three original Roast Cafe cigars that launched in 2018.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/pdr-1878-roast-cafe/medium-roast-coffee-flavor/",
+   "https://halfwheel.com/pdr-1878-medium-roast-cafe-toro/282832/",
+   "https://www.neptunecigar.com/cigar/pdr-1878-cafe-medium-roast"
+  ],
+  "notes": "This is a flavored (coffee-infused) cigar. Halfwheel's 2018 review listed Dominican and Nicaraguan Criollo 98 filler; PDR lists Dominican Criollo 98 and Corojo. Neptune calls it mild, though halfwheel found it reached medium strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "PDR",
+  "line": "1878 Roast Cafe Natural Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee"
+  ],
+  "about": "A coffee-infused cigar from PDR, based on the Connecticut shade blend of the PDR 1878 line. It is the lightest of the three original Roast Cafe cigars that launched in 2018.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/pdr-1878-roast-cafe/natural-roast-coffee-flavor/",
+   "https://halfwheel.com/ipcpr-2018-pdr-cigars/276722/",
+   "https://www.neptunecigar.com/cigar/pdr-1878-cafe-natural-roast"
+  ],
+  "notes": "This is a flavored (coffee-infused) cigar. Strength is Neptune's rating; PDR does not publish one. The 2018 launch blend also had Nicaraguan Criollo 98 in the filler, but PDR now lists all Dominican filler.",
+  "verified": true,
+  "verifyNotes": "Notes now say the strength is a single retailer's rating. Other fields confirmed."
+ },
+ {
+  "brand": "PDR",
+  "line": "1878 French Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian (the 1878 Sun Grown blend)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98, Corojo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "vanilla"
+  ],
+  "about": "A 2025 addition to PDR's flavored 1878 Roast Cafe line. It uses the 1878 Sun Grown blend with a French vanilla infusion.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2025-pdr-cigars/450616/"
+  ],
+  "notes": "This is a flavored cigar and part of the 1878 Roast Cafe line. No strength is published, and it is not on PDR's own website.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and 2025 release confirmed on halfwheel's PCA 2025 page. That page does not state country or factory for this cigar; kept Dominican Republic / PDR Cigars because halfwheel states PDR makes its cigars at its own Dominican factory and lists the Roast Cafe line there. No strength found anywhere; PDR's site does not list the cigar. Removed the flavor 'coffee', which halfwheel does not state for this one."
+ },
+ {
+  "brand": "PDR",
+  "line": "1878 Irish Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98), Nicaragua (Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "mint",
+   "chocolate"
+  ],
+  "about": "A 2025 addition to PDR's flavored 1878 Roast Cafe line, with a Connecticut shade wrapper and a mint chocolate flavor. Halfwheel found it the lightest of the three new roasts.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2025-pdr-cigars/450616/"
+  ],
+  "notes": "This is a flavored cigar and part of the 1878 Roast Cafe line. No strength is published, and it is not on PDR's own website.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and 2025 release confirmed on halfwheel's PCA 2025 page. That page does not state country or factory for this cigar; kept Dominican Republic / PDR Cigars because halfwheel states PDR makes its cigars at its own Dominican factory and lists the Roast Cafe line there. No strength found anywhere; PDR's site does not list the cigar."
+ },
+ {
+  "brand": "PDR",
+  "line": "1878 Velvet Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98), Nicaragua (Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cherry",
+   "coffee"
+  ],
+  "about": "A 2025 addition to PDR's flavored 1878 Roast Cafe line, with a Brazilian maduro wrapper. It is flavored with chocolate, a little cherry and dark roast coffee.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2025-pdr-cigars/450616/"
+  ],
+  "notes": "This is a flavored cigar and part of the 1878 Roast Cafe line. No strength is published, and it is not on PDR's own website.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and 2025 release confirmed on halfwheel's PCA 2025 page. That page does not state country or factory for this cigar; kept Dominican Republic / PDR Cigars because halfwheel states PDR makes its cigars at its own Dominican factory and lists the Roast Cafe line there. No strength found anywhere; PDR's site does not list the cigar."
+ },
+ {
+  "brand": "PDR",
+  "line": "A. Flores 1975 Gran Reserva Sungrown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Sun Grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Corojo), Nicaragua (Habano)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Dbl Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "The Ecuadorian sun grown Habano version of the Gran Reserva line that PDR makes in honor of its blender, Abe Flores. It was added in 2015 as a slightly milder alternative to the original Corojo version.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/a-flores/gran-reserva-sungrown/",
+   "https://halfwheel.com/pca-2025-pdr-cigars/450616/",
+   "https://halfwheel.com/ipcpr-2015-pdr-cigars/92858/"
+  ],
+  "notes": "Renamed Gran Reserva Premier Cru in 2025 with the same blend, a new 4 x 34 Purito and no paper sleeve. Early on it was also called Gran Reserva Habano. PDR's spec line says \"Dominican Corojo & Habano\" filler, but its description and halfwheel say the Habano is Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Removed flavors 'black pepper' and 'leather', which none of the listed sources state. Trimmed notes."
+ },
+ {
+  "brand": "PDR",
+  "line": "A. Flores 1975 Gran Reserva Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Corojo), Nicaragua (Habano)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Dbl Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "The San Andres maduro version of the Gran Reserva line that PDR makes in honor of its blender, Abe Flores. It joined the line in 2018 and is described as medium bodied, rich and creamy despite the dark wrapper.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/a-flores/gran-reserva-maduro/",
+   "https://halfwheel.com/ipcpr-2018-pdr-cigars/276722/",
+   "https://www.neptunecigar.com/cigar/a-flores-1975-gran-reserva-maduro"
+  ],
+  "notes": "Renamed Gran Reserva Premier Cru in 2025 with the same blend, a new 4 x 34 Purito and no paper sleeve. PDR's spec line says \"Dominican Corojo & Habano\" filler, but its description and halfwheel say the Habano is Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. The 2025 Premier Cru rename was confirmed on halfwheel's PCA 2025 page, which is not in the source list."
+ },
+ {
+  "brand": "PDR",
+  "line": "A. Flores 1975 Gran Reserva Desflorado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Desflorado",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Corojo), Nicaragua (Habano)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Dbl Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "The Connecticut-wrapped version of the Gran Reserva line that PDR makes in honor of its blender, Abe Flores. Desflorado means the wrapper comes from plants that had their flowers removed so more nutrients go to the leaves.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/a-flores/gran-reserva-desflorado/",
+   "https://halfwheel.com/a-flores-1975-gran-reserva-deflorado-2016-ipcpr/113416/",
+   "https://www.neptunecigar.com/cigar/a-flores-1975-gran-reserva-desflorado"
+  ],
+  "notes": "Renamed Gran Reserva Premier Cru in 2025 with the same blend and a new 4 x 34 Purito. Sometimes spelled Deflorado. PDR's spec line says \"Dominican Corojo & Habano\" filler, but its own description says the Habano is Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Corrected the note: Neptune's page does not say the Habano is Nicaraguan, only PDR's own description does. The 2025 Premier Cru rename was confirmed on halfwheel's PCA 2025 page, which is not in the source list."
+ },
+ {
+  "brand": "PDR",
+  "line": "A. Flores 1975 Serie Privada Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Habano, Corojo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "SP 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "SP 54",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "SP 58",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "coffee",
+   "cocoa",
+   "cream"
+  ],
+  "about": "A sharply box-pressed line named for PDR blender Abe Flores and his birth year. Under its earlier name, Capa Habano, the SP 52 scored 93 points and was Cigar Aficionado's number 10 cigar of 2014.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/a-flores/serie-privada-natural/",
+   "https://halfwheel.com/press-release-pdr-cigars-announces-release-a-flores-serie-privada/29902/",
+   "https://halfwheel.com/pdr-cigars-updates-serie-privada-blends-and-packaging/292817/"
+  ],
+  "notes": "Called Serie Privada Capa Habano until 2019, when it was renamed and reblended. The original used a Nicaraguan Habano binder with Nicaraguan and Dominican filler; PDR now lists all Dominican. PDR launched it as medium bodied, and Neptune rates it medium strength.",
+  "verified": true,
+  "verifyNotes": "Replaced the Cigar Aficionado source with PDR's 2012 launch release on halfwheel, which is the page that supports the 2012 date and the strength wording; the rating is on PDR's own page. Strength cross-checked against Neptune (medium). Rewrote notes."
+ },
+ {
+  "brand": "PDR",
+  "line": "A. Flores 1975 Serie Privada Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Habano, Corojo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "SP 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "SP 54",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "SP 58",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "cedar",
+   "earth",
+   "dried fruit",
+   "white pepper"
+  ],
+  "about": "The maduro version of the sharply box-pressed Serie Privada line, named for PDR blender Abe Flores and his birth year. It launched alongside the Habano version in 2012.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/a-flores/serie-privada/",
+   "https://halfwheel.com/press-release-pdr-cigars-announces-release-a-flores-serie-privada/29902/",
+   "https://cigar-coop.com/2022/10/agile-cigar-review-a-flores-1975-serie-privada-maduro-sp-52-by-pdr-cigars.html"
+  ],
+  "notes": "PDR launched it in 2012 as medium to full bodied; Cigar Coop's 2022 review of the reblend and Neptune both call it medium. Reblended in 2019: PDR now lists all Dominican binder and filler, while Cigar Coop still lists a Nicaraguan Habano binder and part Nicaraguan filler.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Medium-Full to Medium: PDR's 2012 wording was about body and the original blend, while Cigar Coop's 2022 review of the current blend and Neptune both say medium strength. Rewrote notes."
+ },
+ {
+  "brand": "PDR",
+  "line": "A. Flores 1975 Connecticut Valley Reserve Azul",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Rosado",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Corojo, Criollo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "wood",
+   "pepper"
+  ],
+  "about": "One of PDR's most expensive lines, wrapped in the lighter, lower-priming leaves of Connecticut broadleaf. It first appeared in 2016 under the Flores y Rodriguez name and was reblended and rebranded as A. Flores 1975 in 2022.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/a-flores/connecticut-valley-reserve-azul/",
+   "https://halfwheel.com/pdr-cigars-updates-a-flores-connecticut-valley-reserve-plans-april-release/404584/",
+   "https://cigar-coop.com/2022/08/cigar-review-a-flores-1975-connecticut-valley-reserve-azul-churchill-by-pdr-cigars.html"
+  ],
+  "notes": "PDR lists a Dominican binder and filler, but halfwheel and Cigar Coop report a Nicaraguan Jalapa binder and a filler of Dominican Corojo with some Nicaraguan Criollo. Ongoing production, shipped only a few times a year in boxes of 10. Strength is from Cigar Coop's review.",
+  "verified": true,
+  "verifyNotes": "Reworded 'about': the claim that it is PDR's top-priced line is not supported (PDR now sells dearer cigars)."
+ },
+ {
+  "brand": "PDR",
+  "line": "A. Flores 1975 Connecticut Valley Reserve Roja",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Corojo, Criollo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "One of PDR's most expensive lines, wrapped in the darker, upper-priming maduro leaves of Connecticut broadleaf. It began in 2015 as the Flores y Rodriguez Connecticut Valley Reserve and took the Roja name when the line was reworked in 2020.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/a-flores/connecticut-valley-reserve-roja/",
+   "https://halfwheel.com/pdr-cigars-updates-a-flores-connecticut-valley-reserve-plans-april-release/404584/",
+   "https://halfwheel.com/pdr-cigars-revamping-connecticut-valley-reserve-for-fall/379264/"
+  ],
+  "notes": "PDR lists a Dominican binder and filler, but halfwheel reports a Nicaraguan Jalapa binder and a filler that is about 80 percent Dominican with some Nicaraguan. No strength is published for the current blend.",
+  "verified": true,
+  "verifyNotes": "Reworded 'about' (top-priced claim not supported). Removed the Cigar Coop strength remark from notes because that review is not in the source list; PDR publishes no strength."
+ },
+ {
+  "brand": "PDR",
+  "line": "AFR-75 Edicion Limitada Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Claro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Habano, Criollo 98), USA (Connecticut Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Catador",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Sublime",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Edmundo",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Inmenso",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "toasted nuts",
+   "sweetness"
+  ],
+  "about": "The lighter San Andres version of AFR-75, PDR's top small-batch line named for blender Abraham Flores Rosario and his 1975 birth year. It was added in 2016, three years after the original maduro.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/afr-75/edicion-limitada-claro/",
+   "https://halfwheel.com/pdr-cigars-bringing-back-afr-75-lines-this-summer/466245/",
+   "https://blindmanspuff.com/blind-cigar-review-pdr-afr-75-san-andres-claro-sublime/"
+  ],
+  "notes": "Despite the name it is not a limited edition, just small production. Relaunched in June 2026 with a reworked Dominican and Nicaraguan blend, boxes of 10 and three slightly thinner sizes; the blend and sizes here are the originals still on PDR's site. Older reports give a Nicaraguan Criollo 98 binder.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to under 350 characters. Fields confirmed; blend and sizes are the pre-2026 version still shown on PDR's site."
+ },
+ {
+  "brand": "PDR",
+  "line": "AFR-75 Edicion Limitada Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Habano, Criollo 98), USA (Connecticut Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Catador",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Sublime",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Edmundo",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Inmenso",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "earth",
+   "pepper"
+  ],
+  "about": "The original AFR-75, PDR's top small-batch line named for blender Abraham Flores Rosario and his 1975 birth year. It came out in 2013 and was the first PDR cigar with a San Andres maduro wrapper.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/afr-75/edicion-limitada-maduro/",
+   "https://halfwheel.com/pdr-cigars-bringing-back-afr-75-lines-this-summer/466245/",
+   "https://cigar-coop.com/2013/11/cigar-review-afr-75-by-pdr-cigars.html"
+  ],
+  "notes": "Cigar Coop found the original medium building to medium-full in both strength and body. Relaunched in June 2026 with a reworked blend, boxes of 10 and three slightly thinner sizes; the blend and sizes here are the originals still on PDR's site. Older reports give a Nicaraguan Criollo 98 binder.",
+  "verified": true,
+  "verifyNotes": "Changed body from Full to Medium-Full: Cigar Coop found medium building to medium-full, and PDR only says 'fuller-bodied'. Trimmed notes to under 350 characters. Neptune calls it full strength."
+ },
+ {
+  "brand": "PDR",
+  "line": "El Trovador Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (double binder)",
+  "filler": "Dominican Republic (ligero, viso)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petit Belicoso",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "leather",
+   "black pepper",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "The San Andres maduro version of PDR's El Trovador, whose name means troubadour. It followed the original Ecuadorian rosado blend by a year, arriving in 2017.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/el-trovador/et-maduro/",
+   "https://halfwheel.com/pdr-cigars-adds-el-trovador-corona/400692/",
+   "https://blindmanspuff.com/blind-cigar-review-pdr-el-trovador-maduro-robusto/"
+  ],
+  "notes": "PDR lists an all Dominican binder and filler. Halfwheel reports it began as all Nicaraguan under the wrapper and was changed in 2021 to a half Nicaraguan, half Dominican filler. Strength and body are from a 2020 Blind Man's Puff review of the original blend.",
+  "verified": true,
+  "verifyNotes": "Corrected the note: the Blind Man's Puff review was published in 2020, not 2017. Strength cross-checked against Neptune (medium)."
+ },
+ {
+  "brand": "PDR",
+  "line": "El Criollito",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Dominican Republic (Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Club",
+    "length": 4.25,
+    "ring": 30
+   },
+   {
+    "name": "Purito",
+    "length": 4,
+    "ring": 34
+   },
+   {
+    "name": "Perla",
+    "length": 3.75,
+    "ring": 42
+   },
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 50
+   },
+   {
+    "name": "Short Gordo",
+    "length": 4.25,
+    "ring": 58
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "DBL Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Setenta",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "almonds",
+   "coffee",
+   "cedar",
+   "hay",
+   "cream"
+  ],
+  "about": "A value-priced PDR line built around Criollo tobacco. It was created for the European market in 2016 and reached the United States in 2017.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/el-criollito/",
+   "https://halfwheel.com/el-criollito-double-magnum/150552/",
+   "https://www.neptunecigar.com/cigar/pdr-el-criollito"
+  ],
+  "notes": "Strength varies by source: Neptune says mild, halfwheel found it just short of medium. Halfwheel and Neptune also list Nicaraguan Criollo in the filler; PDR lists Dominican only. Sometimes spelled El Criolito.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to what the listed sources show. Cigar Coop's 2022 review rating it medium was also confirmed."
+ },
+ {
+  "brand": "PDR",
+  "line": "El Vinyet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Habano), USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "RC52 (Robusto Classico)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "BF52 (Belicoso Fino)",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "WC58 (Wide Churchill)",
+    "length": 5.125,
+    "ring": 58
+   },
+   {
+    "name": "DC47 (Double Corona)",
+    "length": 7.625,
+    "ring": 47
+   },
+   {
+    "name": "GS57 (Grand Salomon)",
+    "length": 8,
+    "ring": 57
+   },
+   {
+    "name": "Infante en Tubo",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A PDR line from Abe Flores that comes out in dated yearly batches labeled Cuvee Especial, each rested for a year before release. It debuted in 2023.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2025-pdr-cigars/450616/",
+   "https://halfwheel.com/pca-2026-pdr-cigars/470088/",
+   "https://www.neptunecigar.com/cigar/pdr-el-vinyet"
+  ],
+  "notes": "Released as dated yearly batches. Flores has said the robusto, belicoso and wide Churchill are mainly for the U.S., with the double corona and salomon aimed at Europe. Strength comes from one retailer (Neptune). It is not on PDR's own website.",
+  "verified": true,
+  "verifyNotes": "Removed the 2022 trade show remark from 'about' because it rests on a page not in the source list (halfwheel PCA 2023 does confirm it). Country and factory are not stated for this cigar on the listed pages; kept because halfwheel states PDR makes its cigars at its own Dominican factory. Neptune's page gives strength only in its spec table."
+ },
+ {
+  "brand": "PDR",
+  "line": "Flores y Rodriguez 10th Anniversary Reserva Limitada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Piloto Cubano seco and ligero aged 7 years, viso)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Wide Churchill",
+    "length": 5.125,
+    "ring": 58
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "cedar",
+   "earth",
+   "sweetness"
+  ],
+  "about": "Made to mark ten years of PDR Cigars, the company Abe Flores founded with the Rodriguez family in 2004. It is built around Dominican Piloto Cubano filler aged seven years.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/flores-y-rodriguez/10th-anniversary/",
+   "https://halfwheel.com/pdr-cigars-sends-flores-y-rodriguez-10th-anniversary-millefleurs-corona-to-europe-and-china-coming-to-u-s-in-2024/422197/",
+   "https://cigar-coop.com/2015/11/cigar-review-flores-y-rodriguez-10th-anniversary-reserva-limitada-robusto-by-pdr-cigars.html"
+  ],
+  "notes": "Regular production despite the Reserva Limitada name. The filler originally included Nicaraguan Jalapa leaf, which halfwheel now reports as Dominican-grown Habano. A 5 x 42 Millefleurs Corona was added for Europe in 2023.",
+  "verified": true,
+  "verifyNotes": "Removed two unsupported claims from notes: that the filler change happened in 2021, and that retailers still list Nicaraguan filler."
+ }
+]

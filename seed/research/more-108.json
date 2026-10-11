@@ -1,0 +1,970 @@
+[
+ {
+  "brand": "Casdagli",
+  "line": "Traditional Line",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Cotui",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania Broadleaf), Peru",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.9,
+    "ring": 50
+   },
+   {
+    "name": "Cotton Tail (Figurado, 52-64 ring)",
+    "length": 5,
+    "ring": 64
+   },
+   {
+    "name": "Super Belicoso",
+    "length": 5.7,
+    "ring": 60
+   },
+   {
+    "name": "25 Aniversario (Double Corona)",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Grand Café (Lancero)",
+    "length": 7.5,
+    "ring": 39
+   },
+   {
+    "name": "Grand Café Maduro (Lancero)",
+    "length": 7.5,
+    "ring": 39
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "cocoa",
+   "vanilla",
+   "cedar",
+   "oak",
+   "pepper"
+  ],
+  "about": "The founding Casdagli line, blended by Hendrik Kelner Jr. at the Kelner Boutique Factory to echo the Cuban cigars the brand began with in the 1990s. It is known for classic and unusual shapes such as the Cotton Tail figurado.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/robusto/",
+   "https://casdaglicigars.com/cigar/25-aniversario/",
+   "https://halfwheel.com/casdagli-25th-aniversario/431531/"
+  ],
+  "notes": "Core sizes use Dominican Cotui. Grand Café wears Brazilian Cubra, Grand Café Maduro Ecuadorian Corojo and 25 Aniversario an Ecuadorian wrapper. 25 Aniversario is a limited yearly release.",
+  "verified": true,
+  "verifyNotes": "Removed the 4,000 cigars a year figure for 25 Aniversario: halfwheel gives both 4,000 cigars and 4,000 boxes, and the maker gives no number. Swapped sources for the pages that state the blend, the 2013 start and the limited release. Production rests on the maker's catalog listing; no page states it outright."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Basilica",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra (C #1, C #2); Ecuadorian Corojo (C #3, C #1 Maduro); Dominican Cotui (A)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic, Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Basilica C #1 (Toro)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Basilica C #1 Maduro (Toro)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Basilica C #2 (Lancero)",
+    "length": 7.5,
+    "ring": 39
+   },
+   {
+    "name": "Basilica C #3 (Petit Robusto)",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Basilica A (Toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "dark chocolate",
+   "cocoa",
+   "earth",
+   "pepper",
+   "oak"
+  ],
+  "about": "A Casdagli line honoring family patriarch Emmanuel Casdagli, made at the Kelner Boutique Factory in the Dominican Republic. The cigars have a flared, unfinished foot and were blended to pair with teas and citrus flavors.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/line/basilica-line/",
+   "https://casdaglicigars.com/cigar/basilica-c-1/",
+   "https://casdaglicigars.com/heritage/the-story-of-casdagli-cigars/"
+  ],
+  "notes": "Each size is its own blend, so there is no single wrapper. C #2 and C #3 are rated medium strength, the others medium to full. Basilica A also has Pennsylvania Broadleaf in the filler.",
+  "verified": true,
+  "verifyNotes": "Production rests on the maker's catalog listing; no page states it outright."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Cabinet Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Cotui",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Rosetta), Nicaragua (Romano), Brazil (Ristretto)",
+  "filler": "Dominican Republic (Ristretto adds Nicaragua, Peru)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Rosetta (Pyramide)",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Rosetta Maduro (Pyramide)",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Romano (Petit Corona)",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Ristretto (Petit Robusto)",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "cream",
+   "vanilla",
+   "pepper",
+   "smoked wood"
+  ],
+  "about": "A set of small Casdagli cigars with coffee names, first made for Swedish coffee shops and meant to be smoked with coffee. They are made at the Kelner Boutique Factory with a Cotui wrapper grown by the Kelner family.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/line/cabinet-selection/",
+   "https://casdaglicigars.com/cigar/rosetta/",
+   "https://halfwheel.com/casdaglis-cabinet-selection-rosetta-adding-maduro-version/389105/"
+  ],
+  "notes": "Rosetta Maduro swaps the Cotui wrapper for Ecuadorian Corojo maduro. Ristretto is the strongest, rated medium strength and full body. The maker dates the line to 2016; halfwheel says the Rosetta debuted in 2015.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Club Mareva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra (Gran Mareva, Mareva Especial); Ecuadorian Corojo (Gran Mareva Gold, Mareva Spalato No. 2); Ecuador (Jure)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua; some sizes add USA or Peru",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Jure (Wide Churchill)",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gran Mareva (Petit Corona)",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Gran Mareva Gold (Petit Corona)",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Mareva Especial (Corona Grande)",
+    "length": 6,
+    "ring": 42
+   },
+   {
+    "name": "Mareva Spalato No. 2 (Pyramide)",
+    "length": 6,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "vanilla",
+   "chocolate",
+   "coffee",
+   "almonds"
+  ],
+  "about": "Made in partnership with Cigar Club Mareva in Split, Croatia, home of the Cigar Smoking World Championship. Club founder Marko Bilić selects each blend, and most are made by Hendrik Kelner Jr.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/line/club-mareva-line/",
+   "https://casdaglicigars.com/cigar/gran-mareva/",
+   "https://halfwheel.com/mareva-spalato-no-2/390658/"
+  ],
+  "notes": "Each size is its own blend. Jure is the exception: made at IGM Cigars in Costa Rica with an undisclosed binder and filler. Halfwheel lists Mareva Spalato No. 2 at 5 1/2 x 50; the maker says 6 x 49.",
+  "verified": true,
+  "verifyNotes": "Filler made more exact: Gran Mareva adds USA leaf, Gran Mareva Gold adds Peru and Mareva Especial is all Dominican."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Cypher 3311",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro Colorado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica (Puriscal)",
+  "filler": "Peru, Dominican Republic, third leaf undisclosed",
+  "country": "Costa Rica",
+  "factory": "IGM Cigars",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Boniface (Robusto Gordo)",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Needle (Box-pressed Churchill)",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Enigma (Double Corona)",
+    "length": 7.5,
+    "ring": 49
+   },
+   {
+    "name": "Lorenz (Diademas)",
+    "length": 9.2,
+    "ring": 58
+   },
+   {
+    "name": "Colossus (Toro Gordo)",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "almonds",
+   "marzipan",
+   "baking spices",
+   "honey",
+   "dark chocolate"
+  ],
+  "about": "A Casdagli line made at IGM Cigars in Costa Rica and named for the POW number of Jeremy Casdagli's grandfather, who stitched coded messages into his embroidery during World War II. Part of each sale goes to the Red Cross.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://casdaglicigars.com/line/cypher-3311-line/",
+   "https://casdaglicigars.com/cigar/needle/",
+   "https://halfwheel.com/casdaglis-cypher-3311-line-adds-5-x-54-boniface-vitola/431454/"
+  ],
+  "notes": "Partly secret blend: Enigma and Lorenz disclose only the Ecuadorian wrapper, and the other sizes keep a third filler undisclosed. Capped at 4,000 cigars per size a year. The maker's text calls it mild but its spec table says medium. Halfwheel lists Needle at 7 1/2 inches; the maker says 7.",
+  "verified": true,
+  "verifyNotes": "Added to notes that the maker's own description says mild while its spec table says medium strength."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "D'Boiss",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Claro Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": "IGM Cigars",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "DB52 (Petit Robusto)",
+    "length": 4.6,
+    "ring": 52
+   },
+   {
+    "name": "DB60 (Campana)",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nougat",
+   "baking spices",
+   "honey",
+   "almond",
+   "cedar"
+  ],
+  "about": "Created for the D'Boiss Club Bespoke lounge in Tallinn, Estonia, and made at IGM Cigars in Costa Rica. It was blended to stand in for scarce Cuban cigars, with a sweet honey and almond character.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://casdaglicigars.com/line/dboiss-line/",
+   "https://casdaglicigars.com/cigar/db52/",
+   "https://halfwheel.com/casdagli-expanding-limited-dboiss-line/409213/"
+  ],
+  "notes": "Binder and filler are undisclosed; the maker only says they are rare tobaccos from Costa Rica. Halfwheel describes it as a limited production line. The wrapper variety is not published, only its Claro Colorado shade.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Daughters of the Wind",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica (Puriscal)",
+  "filler": "Peru (Pinar), Dominican Republic (Caramelo, Oscuro Ligero)",
+  "country": "Costa Rica",
+  "factory": "IGM Cigars",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Sabino (Figurado, 60-58 ring)",
+    "length": 6.2,
+    "ring": 60
+   },
+   {
+    "name": "Calico (Pyramide)",
+    "length": 6.1,
+    "ring": 52
+   },
+   {
+    "name": "Dahman (Toro)",
+    "length": 7.1,
+    "ring": 56
+   },
+   {
+    "name": "Rabicano (Salomone, 57-50 ring)",
+    "length": 7.3,
+    "ring": 57
+   },
+   {
+    "name": "Cremello (Lancero)",
+    "length": 7.5,
+    "ring": 39
+   },
+   {
+    "name": "Pony Express (Box-pressed Corona Gorda)",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "cinnamon",
+   "nutmeg",
+   "baking spices",
+   "cedar"
+  ],
+  "about": "A small-production Casdagli line rolled in Costa Rica, named after a 6th century Arabian poem in a nod to the family's history breeding Arabian race horses. It is known for its figurado shapes and Peruvian and Dominican filler.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/calico/",
+   "https://halfwheel.com/daughters-of-the-wind-cremello/374779/",
+   "https://halfwheel.com/bespoke-expanding-aged-offerings-at-ipcpr-2018/265524/"
+  ],
+  "notes": "Pony Express adds a second, Nicaraguan binder. The maker names IGM Cigars as the factory; halfwheel lists Tabacos de la Cordillera and gives the Cremello a Costa Rican wrapper. The maker dates the line to 2018, but halfwheel reported four-year-aged cigars from it that year.",
+  "verified": true,
+  "verifyNotes": "Release year kept at the maker's 2018 but flagged: halfwheel reported four-year-aged Daughters of the Wind cigars in May 2018, so the line is older. Swapped two sources for the halfwheel pages that back the Cremello wrapper, factory and date notes."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Daughters of the Wind Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican Habano Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Costa Rica",
+  "filler": "Costa Rica, Dominican Republic, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "IGM Cigars",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Durra (Box-pressed Piramide)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 7,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Figurado (60-58 ring)",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "baking spices",
+   "perfume",
+   "white pepper"
+  ],
+  "about": "A 2026 offshoot of Casdagli's Daughters of the Wind, made at IGM Cigars in Costa Rica. It uses a sun-grown Habano Rosado wrapper from one of the first harvests on the factory's own farm in Puriscal.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/line/daughters-of-the-wind-rosado-line/",
+   "https://casdaglicigars.com/cigar/durra/",
+   "https://halfwheel.com/casdagli-daughters-of-the-wind-rosado-dominita-corojo-2012-debuting-at-intertabac-2026/479110/"
+  ],
+  "notes": "The Lonsdale swaps the Nicaraguan filler for Peruvian. The wrapper is Habano seed with a rosado color.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Villa Casdagli",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Peru, Dominican Republic, Nicaragua, Ecuador",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pigasus (Figurado, 54-58 ring)",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "white pepper",
+   "vanilla",
+   "oak",
+   "baking spice",
+   "milk chocolate"
+  ],
+  "about": "Named for the Casdagli family's villa in Cairo and made at Tabacos de Costa Rica. The blends use 'mejorado' tobaccos that get a second fermentation of two to four months, and the maker counts them among its strongest cigars.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/line/villa-casdagli-line/",
+   "https://casdaglicigars.com/cigar/toro/",
+   "https://halfwheel.com/villa-casdagli-pigasus/400340/"
+  ],
+  "notes": "The filler mix changes by size. The maker lists only Ecuador for the wrapper and binder; halfwheel lists both as Habano. The Salomone Edición Limitada is a separate limited size. Halfwheel lists the Corona Gorda at 5 1/2 inches; the maker says 5.6.",
+  "verified": true,
+  "verifyNotes": "Wrapper changed from Ecuador (no variety) to Ecuadorian Habano, category Habano, and binder to Ecuador (Habano): the cited halfwheel Pigasus review lists both as Habano. Notes updated to match."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Villa Casdagli Edición Limitada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Dominican Republic, Ecuador, Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Salomone",
+    "length": 7.33,
+    "ring": 57
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "white pepper",
+   "vanilla",
+   "oak",
+   "milk chocolate",
+   "hazelnuts"
+  ],
+  "about": "A limited salomon in the Villa Casdagli line, released in October 2025 to mark the line's two Cigar Journal Cigar Trophy awards. It is based on the Toro blend with extra Nicaraguan Esteli ligero and is made at Tabacos de Costa Rica.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villa-casdagli-edicion-limitada-ships-to-stores/455109/",
+   "https://halfwheel.com/villa-casdagli-edicion-limitada-2025/461737/",
+   "https://casdaglicigars.com/cigar/salomone-edicion-limitada/"
+  ],
+  "notes": "This is one limited size of the Villa Casdagli line: 600 boxes of 10 a year. The maker lists it as Salomone Ed. Limitada. Halfwheel's review found the strength closer to mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Villa Casdagli Petit Exquisitos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua (Nicarita: Esteli Ligero), Peru (Peruvita: Habano Seco)",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nicarita (Petit Exquisito)",
+    "length": 4,
+    "ring": 35
+   },
+   {
+    "name": "Peruvita (Petit Exquisito)",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate",
+   "molasses",
+   "nuts",
+   "wood",
+   "floral"
+  ],
+  "about": "Two small 4 x 35 cigars from Casdagli that each showcase a single filler tobacco from the Villa Casdagli blend. They are mixed-filler smokes of about 25 minutes, made at Tabacos de Costa Rica.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/line/villa-casdagli-petit-exquisitos/",
+   "https://casdaglicigars.com/cigar/nicarita/",
+   "https://halfwheel.com/villa-casdagli-petit-exquisitos-ships/407595/"
+  ],
+  "notes": "Strength differs by cigar: Nicarita (Nicaraguan Esteli ligero) is rated medium to full, Peruvita (Peruvian Habano seco) mild to medium. Both use sandwich filler, a mix of long and short leaf.",
+  "verified": true,
+  "verifyNotes": "Strength left null on purpose: the maker rates Nicarita medium to full and Peruvita mild to medium. Production rests on the maker's catalog listing; no page states it outright."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Dominita Corojo Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo Original",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Corojo Original)",
+  "filler": "Dominican Republic (Corojo Original)",
+  "country": "Dominican Republic",
+  "factory": "Flor de los Reyes",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Petit Exquisito",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "oak",
+   "espresso",
+   "baking spices"
+  ],
+  "about": "The first release in Casdagli's Dominita line, a small 4 x 35 Dominican puro made entirely from Corojo Original leaf grown by the Reyes family in Navarrete. It is a 25 to 30 minute smoke sold in 10-count cartons.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/corojo-original/",
+   "https://casdaglicigars.com/line/dominita-line/",
+   "https://halfwheel.com/casdagli-releasing-dominita-corojo-original-next-month/472065/"
+  ],
+  "notes": "One of two blends in the Dominita line, each a single 4 x 35 size. Halfwheel calls the factory De Los Reyes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Dominita Corojo 2012",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo 2012",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Corojo 2012)",
+  "filler": "Dominican Republic (Corojo 2012)",
+  "country": "Dominican Republic",
+  "factory": "Flor de los Reyes",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petit Exquisito",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "floral",
+   "baking spices",
+   "molasses"
+  ],
+  "about": "The second release in Casdagli's Dominita line, a small 4 x 35 Dominican puro made entirely from Corojo 2012 leaf grown by the Reyes family in Navarrete. It debuted at InterTabac 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/corojo-2012/",
+   "https://casdaglicigars.com/line/dominita-line/",
+   "https://halfwheel.com/casdagli-daughters-of-the-wind-rosado-dominita-corojo-2012-debuting-at-intertabac-2026/479110/"
+  ],
+  "notes": "One of two blends in the Dominita line, each a single 4 x 35 size. Halfwheel calls the factory De Los Reyes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Brothers of the Sabre Brave",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Claro Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.9,
+    "ring": 50
+   },
+   {
+    "name": "Piramide",
+    "length": 6.5,
+    "ring": 53
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "toast",
+   "hazelnuts",
+   "cream"
+  ],
+  "about": "One of the first two blends in Casdagli's Brothers of the Sabre series on Napoleonic-era generals, named for French Marshal Michel Ney. It is the milder, creamy and nutty blend, made by Hendrik Kelner Jr. at the Kelner Boutique Factory.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/brave-robusto/",
+   "https://casdaglicigars.com/line/brothers-of-the-sabre/",
+   "https://halfwheel.com/casdagli-debuting-napoleonic-collection-at-pca-2023/425106/"
+  ],
+  "notes": "The series was first announced as The Napoleonic Collection. The wrapper variety is not published, only its Claro Colorado shade.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Brothers of the Sabre Forrader",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, USA, Zimbabwe",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.9,
+    "ring": 50
+   },
+   {
+    "name": "Piramide",
+    "length": 6.5,
+    "ring": 53
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "oak",
+   "espresso"
+  ],
+  "about": "One of the first two blends in Casdagli's Brothers of the Sabre series, named for Prussian Field Marshal von Blücher, known as Marshal Forward. It is the stronger blend and uses Zimbabwean filler, which is uncommon in cigars, and is made at the Kelner Boutique Factory.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/forrader-robusto/",
+   "https://casdaglicigars.com/line/brothers-of-the-sabre/",
+   "https://halfwheel.com/casdagli-debuting-napoleonic-collection-at-pca-2023/425106/"
+  ],
+  "notes": "The series was first announced as The Napoleonic Collection. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop the maker's word rare."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Brothers of the Sabre Epicurist",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Claro Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Yamasá)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Figurado",
+    "length": 6.25,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "toast",
+   "hazelnuts",
+   "cream",
+   "baking spices"
+  ],
+  "about": "A 2024 addition to Casdagli's Brothers of the Sabre series, named for French cavalry general Antoine Charles Louis de Lasalle. It is a mild to medium, creamy and nutty blend made at the Kelner Boutique Factory.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/epicurist-figurado/",
+   "https://casdaglicigars.com/cigar/epicurist-petit-robusto/",
+   "https://halfwheel.com/casdagli-adding-epicurist-vater-to-brothers-of-the-sabre-series-at-intertabac-2024/442710/"
+  ],
+  "notes": "The series was formerly called The Napoleonic Collection. The wrapper variety is not published, only its Claro Colorado shade.",
+  "verified": true,
+  "verifyNotes": "Production rests on the maker's catalog listing; halfwheel does not state a release type."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Brothers of the Sabre Vater",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, USA, Zimbabwe",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Figurado",
+    "length": 6.25,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "oak",
+   "espresso",
+   "baking spices"
+  ],
+  "about": "A 2024 addition to Casdagli's Brothers of the Sabre series, named for Austrian Field Marshal Radetzky, called Vater (Father) by his troops. It is a medium to full blend with Zimbabwean filler, which is uncommon in cigars, made at the Kelner Boutique Factory.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://casdaglicigars.com/cigar/vater-petit-robusto/",
+   "https://casdaglicigars.com/cigar/vater-figurado/",
+   "https://halfwheel.com/casdagli-adding-epicurist-vater-to-brothers-of-the-sabre-series-at-intertabac-2024/442710/"
+  ],
+  "notes": "The series was formerly called The Napoleonic Collection. Blender Hendrik Kelner Jr. says the Petit Robusto may be the strongest blend the factory has made. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop the maker's word rare. Production rests on the maker's catalog listing; halfwheel does not state a release type."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Brothers of the Sabre Custodian",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, USA, Zimbabwe",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Piramide",
+    "length": 6,
+    "ring": 49
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "espresso",
+   "baking spices",
+   "dark chocolate",
+   "oak"
+  ],
+  "about": "A 2026 addition to Casdagli's Brothers of the Sabre series, named for Sir Hudson Lowe, the British governor of St Helena who guarded the exiled Napoleon. It uses Zimbabwean filler, which is uncommon in cigars, and is made at the Kelner Boutique Factory.",
+  "released": 2026,
+  "production": null,
+  "sources": [
+   "https://casdaglicigars.com/cigar/custodian-toro/",
+   "https://casdaglicigars.com/cigar/custodian-piramide/",
+   "https://halfwheel.com/casdagli-adding-custodian-flamboyant-to-brothers-of-the-sabre-series-at-intertabac-2026/479052/"
+  ],
+  "notes": "The maker rates the Piramide full bodied and the Toro medium to full. Halfwheel lists the release type as undisclosed. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop the maker's word rare."
+ },
+ {
+  "brand": "Casdagli",
+  "line": "Brothers of the Sabre Flamboyant",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Claro Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Piramide",
+    "length": 6,
+    "ring": 49
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "toast",
+   "hazelnuts",
+   "cream",
+   "baking spices"
+  ],
+  "about": "A 2026 addition to Casdagli's Brothers of the Sabre series, named for Joachim Murat, Napoleon's cavalry commander and King of Naples. It is a mild to medium, creamy all-Dominican filler blend made at the Kelner Boutique Factory.",
+  "released": 2026,
+  "production": null,
+  "sources": [
+   "https://casdaglicigars.com/cigar/flamboyant-toro/",
+   "https://casdaglicigars.com/cigar/flamboyant-piramide/",
+   "https://halfwheel.com/casdagli-adding-custodian-flamboyant-to-brothers-of-the-sabre-series-at-intertabac-2026/479052/"
+  ],
+  "notes": "The maker rates the Toro medium bodied and the Piramide medium to full. Halfwheel lists the release type as undisclosed. The wrapper variety is not published, only its Claro Colorado shade.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

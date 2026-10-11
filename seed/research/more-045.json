@@ -1,0 +1,871 @@
+[
+ {
+  "brand": "Oscar Valladares",
+  "line": "2012 by Oscar Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "spice"
+  ],
+  "about": "The fifth blend in the box-pressed 2012 by Oscar line, the first line Oscar Valladares brought to market. It puts an Ecuadorian Sumatra-seed wrapper over Honduran and Nicaraguan tobacco and is made at his factory in Danli, Honduras.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/2012-by-oscar-valladares/2012-connecticut-2/",
+   "https://halfwheel.com/oscar-valladres-adding-leaf-by-oscar-10th-anniversary-criollo-and-2012-by-oscar-sumatra-at-pca-2023/424274/",
+   "https://www.neptunecigar.com/cigars/oscar-2012-sumatra-toro"
+  ],
+  "notes": "All sizes are box-pressed. The maker and Neptune list the Short Robusto at 4 x 50; halfwheel's launch story listed it at 4 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "2012 by Oscar Barber Pole",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro and candela (barber pole)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "pepper",
+   "nuts",
+   "toast",
+   "cinnamon"
+  ],
+  "about": "A barber pole version of the 2012 by Oscar line that twists a dark Mexican San Andrés leaf with a green candela leaf. It began in late 2017 as an exclusive for The Cigar Shop in the Carolinas and later went nationwide.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/2012-by-oscar-valladares/2012-barber-pole/",
+   "https://halfwheel.com/2012-oscar-barber-pole/218886/",
+   "https://halfwheel.com/2012-by-oscar-barber-pole-lancero-2/457596/"
+  ],
+  "notes": "Two wrapper leaves: Mexican San Andrés maduro and a candela leaf whose origin is not disclosed. The Toro is box-pressed; the Lancero was added in 2020.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Leaf by Oscar 10th Anniversary Criollo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Criollo (La Florida Jamastrán farm)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "coffee",
+   "raisin",
+   "red pepper",
+   "nuts"
+  ],
+  "about": "A Honduran puro made to mark ten years of the Leaf by Oscar line, with a criollo-seed wrapper from the company's La Florida Jamastrán farm. Like the rest of the line, each cigar comes wrapped in a tobacco leaf instead of cellophane.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/leaf-by-oscar-valladares/leaf-maduro-2/",
+   "https://halfwheel.com/leaf-by-oscar-10th-anniversary-criollo-toro/429697/",
+   "https://www.neptunecigar.com/cigars/leaf-by-oscar-10th-anniversary-criollo-toro"
+  ],
+  "notes": "The bands are made from processed plantain leaves.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Leaf by Oscar Broadleaf",
+  "found": true,
+  "officialName": "Leaf by Oscar Broadleaf Limited Edition 2025",
+  "wrapperLeaf": "Honduran-grown Connecticut Broadleaf seed, aged three years",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "black pepper",
+   "oatmeal",
+   "cocoa"
+  ],
+  "about": "The first limited edition in the Leaf by Oscar line and the company's first use of a broadleaf wrapper, which was grown in Honduras from Connecticut broadleaf seed. It was a one-time run of 1,500 numbered boxes of 20.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2025-oscar-valladares-tobacco-co/448253/",
+   "https://halfwheel.com/leaf-by-oscar-broadleaf-limited-edition-2025/452666/",
+   "https://www.neptunecigar.com/cigars/leaf-by-oscar-broadleaf-limited-edition-toro-6--52"
+  ],
+  "notes": "The wrapper is broadleaf seed grown in Honduras, not U.S. Connecticut Broadleaf, although Neptune lists it as USA. Neptune also calls it full strength; halfwheel's review found it medium-full.",
+  "verified": true,
+  "verifyNotes": "Flavors: removed cedar and espresso, which the cited pages do not mention, and used words from the halfwheel review and Neptune. Dropped the Cigars Direct mention from notes because it was not a listed source (its page does tag the cigar medium-full). The maker has no page for this cigar."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Leaf by Oscar Limited Edition 2018",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés and Honduran-grown Connecticut Shade (barber pole)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico, Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cinnamon",
+   "leather",
+   "earth",
+   "dark chocolate"
+  ],
+  "about": "A barber pole Leaf by Oscar that was first sold only in Asia from 2018 to 2020. In October 2023 an aged batch came to the United States as an exclusive for the online retailer Cigora, sold in bundles of 20.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/leaf-by-oscar-limited-edition-2018-arrives-at-cigora/430565/",
+   "https://halfwheel.com/the-oscar-connecticut-robusto/430286/"
+  ],
+  "notes": "Two wrapper leaves: Mexican San Andrés and Honduran Connecticut Shade. The U.S. release was a Cigora exclusive. The maker describes it as medium-bodied; no strength rating is published.",
+  "verified": true,
+  "verifyNotes": "The one cited article does not name the factory, so added a halfwheel page stating the company makes its cigars at its own Danli factory. Strength left null: the maker has no page for this cigar and the press release gives body only. Cigora's page could not be opened."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "The Oscar Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "chocolate",
+   "oak",
+   "toast"
+  ],
+  "about": "The original blend of The Oscar line, introduced in 2016. Each cigar is partly covered in a candela leaf that is removed before smoking, and the 11-count boxes are built to look like cigar molds.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/the-oscar-by-oscar-valladares/the-oscar-habano-2/",
+   "https://halfwheel.com/the-oscar-robusto/136706/",
+   "https://www.neptunecigar.com/cigars/the-oscar-habano-toro"
+  ],
+  "notes": "First sold simply as The Oscar; it took the Habano name after the Maduro arrived in 2017. Neptune lists it as medium; the maker says medium to full.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'signature line'. All spec fields matched the maker, halfwheel and Neptune."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "The Oscar Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "spice",
+   "earth",
+   "leather"
+  ],
+  "about": "The second blend in The Oscar line, added in 2017 with a Mexican San Andrés maduro wrapper in place of the Habano. It keeps the line's candela leaf sleeve and cigar-mold style boxes of 11.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/the-oscar-by-oscar-valladares/the-oscar-maduro-2/",
+   "https://halfwheel.com/the-oscar-maduro-adding-corona-tpe-2020-price-increase/371919/",
+   "https://www.neptunecigar.com/cigars/the-oscar-maduro-toro"
+  ],
+  "notes": "The candela leaf covering the cigar is packaging and comes off before smoking. The Corona size was added in 2020.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "The Oscar Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran-grown Connecticut seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cereal",
+   "toast",
+   "wood",
+   "spice",
+   "coffee"
+  ],
+  "about": "The third blend in The Oscar line, released in 2023 with a Connecticut-seed wrapper grown in Honduras. Like the others it comes partly covered in a candela leaf and packed in mold-style boxes of 11.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/the-oscar-by-oscar-valladares/the-oscar-maduro-2-3/",
+   "https://halfwheel.com/the-oscar-connecticut-robusto/430286/",
+   "https://www.neptunecigar.com/cigars/the-oscar-connecticut-robusto"
+  ],
+  "notes": "The maker lists it as mild and halfwheel found the strength mild; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Ciseron Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toast",
+   "bread",
+   "black pepper",
+   "cream",
+   "earth",
+   "wood"
+  ],
+  "about": "A 2018 release named for Honduran painter Elmer Ciserón Bautista, whose work appears on five different box lids. It was the first Oscar Valladares cigar blended without any Honduran tobacco.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://oscartobacco.com/cigars/ciseron-edition/",
+   "https://halfwheel.com/oscar-valladares-ciseron-edition-2/421607/",
+   "https://www.neptunecigar.com/cigars/oscar-valladares-ciseron-2018-black"
+  ],
+  "notes": "Production was 2,500 boxes of 20: 500 boxes for each of five box paintings. The blend is the same in every box. The maker still lists it on its site.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Super Fly Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Super Corona",
+    "length": 5.25,
+    "ring": 45
+   },
+   {
+    "name": "Super Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "sweet tea",
+   "cinnamon",
+   "coffee",
+   "leather",
+   "peanuts",
+   "cedar"
+  ],
+  "about": "The Connecticut follow-up to the 1970s-themed Super Fly, sold in pink boxes. It was introduced at the 2020 TPE show and uses a Honduran-grown Connecticut wrapper over tobacco from three countries.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/super-fly-by-oscar-valladares-family/super-fly-by-oscar-valladares-connecticut/",
+   "https://halfwheel.com/oscar-valladares-super-fly-connecticut/376927/",
+   "https://www.neptunecigar.com/cigar/oscar-valladares-super-fly-connecticut"
+  ],
+  "notes": "The maker lists it as medium; Neptune lists it as mild and halfwheel's first review found it mild to medium. The Super Fly lines were the first Valladares blends to use Dominican tobacco.",
+  "verified": true,
+  "verifyNotes": "Swapped the third source for the Neptune page, since notes quote Neptune's mild rating and no Neptune link was listed. No field changes."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Wild Hunter Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran natural (Copán)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "cream",
+   "pine",
+   "wood"
+  ],
+  "about": "A hunting-themed Honduran puro in camouflage packaging, released in 2019. The Natural uses a wrapper from the Copán region over binder and filler from Valladares's own farms.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/wild-hunter-by-oscar-valladares/wild-hunter-natural/",
+   "https://halfwheel.com/oscar-valladares-wild-hunter-natural/366647/",
+   "https://halfwheel.com/oscar-valladares-adding-wild-hunter-at-ipcpr-2019/360848/"
+  ],
+  "notes": "One of two Wild Hunter blends; the other is the darker Oscuro. The wrapper varietal is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Wild Hunter Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran oscuro (Copán)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "floral",
+   "cedar",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "The dark-wrapper version of Wild Hunter, the hunting-themed Honduran puro Oscar Valladares released in 2019. It uses an oscuro leaf from the Copán region over Honduran binder and filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/wild-hunter-by-oscar-valladares/wild-hunter-oscuro/",
+   "https://halfwheel.com/oscar-valladares-adding-wild-hunter-at-ipcpr-2019/360848/",
+   "https://www.neptunecigar.com/cigars/oscar-valladares-wild-hunter-oscuro-toro"
+  ],
+  "notes": "The maker says medium to full; Neptune lists it as full. The wrapper varietal is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro with a Honduran candela foot wrap",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "cocoa",
+   "chocolate",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "Released in 2022 to mark ten years of Oscar Valladares Tobacco & Co. It pairs a dark Mexican wrapper with a band of green candela at the foot and comes in boxes of 10.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/oscar-valladares-10th-anniversary/",
+   "https://halfwheel.com/oscar-valladares-10th-anniversary-salomon/417306/",
+   "https://www.neptunecigar.com/cigars/oscar-valladares-10th-anniversary-sixty"
+  ],
+  "notes": "Sources disagree on the filler: the maker's site lists Honduras, while halfwheel and retailers list Nicaraguan filler aged at least five years. Neptune calls it medium and halfwheel's reviewer found it mild to medium. The Salomon is 7 inches with a 52/60 ring.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'most premium line'. Filler kept as Honduras per the maker's page; halfwheel and Neptune say Nicaragua, as notes already state."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Raw Dog",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "None (made without a wrapper leaf)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Honduras (Copán)",
+  "filler": "Honduras (Jamastrán, Copán)",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "earth",
+   "leather",
+   "toast",
+   "coffee"
+  ],
+  "about": "A 2022 release rolled with only binder and filler and no wrapper leaf, so it looks like an unfinished bunch. It has no cap and a brushed foot, and it is sold in 50-count cabinets.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://oscartobacco.com/cigars/raw-dog-by-oscar-valladares/",
+   "https://halfwheel.com/oscar-valladares-raw-dog/419083/",
+   "https://www.cigarsdirect.com/products/oscar-valladares-raw-dog-robusto-gordo"
+  ],
+  "notes": "There is no wrapper: the outer leaf is the Honduran binder. With no cap, it does not need to be cut. The maker says mild to medium; Cigars Direct lists it as medium to full.",
+  "verified": true,
+  "verifyNotes": "Swapped the third source for the Cigars Direct page that notes quote. No field changes."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Heaven & Hell",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut (Claro) or Nicaraguan Oscuro (Oscuro)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras (Claro), Nicaragua (Oscuro)",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "leather",
+   "chocolate",
+   "earth",
+   "red pepper"
+  ],
+  "about": "A pair of blends from 2021 sold in white and red boxes, with bands that have fold-out wings. It started as a private label for Santa Clara and JR Cigar before Oscar Valladares took over distribution in 2023.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/oscar-valladares-heaven-hell-claro/423950/",
+   "https://halfwheel.com/oscar-valladares-heaven-hell-getting-widespread-release-at-tpe-2023/420170/",
+   "https://www.cigarsdirect.com/products/oscar-valladares-heaven-and-hell-oscuro-red-toro"
+  ],
+  "notes": "Two different cigars: Claro (Heaven) has a Honduran Connecticut wrapper and is mild to medium; Oscuro (Hell) has a Nicaraguan oscuro wrapper and is medium. Creamy, nutty notes belong to the Claro; chocolate, earth and red pepper to the Oscuro.",
+  "verified": true,
+  "verifyNotes": "Corrected the strengths in notes: halfwheel and Cigars Direct give Claro as mild to medium and Oscuro as medium, not mild and medium to full. Replaced the maker link, which shows only the names with no specs, with the Cigars Direct page the Oscuro flavors come from. Maker publishes no strength."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Santiago Valladares",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "cream",
+   "black pepper",
+   "butterscotch",
+   "earth"
+  ],
+  "about": "A line named for Oscar Valladares's son that debuted in Europe in 2023 and is reblended in small yearly editions. The U.S. version is a 6 x 52 Toro packed in individual coffins, limited to 2,000 boxes of 10.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://oscartobacco.com/cigars/the-oscar-by-oscar-valladares-2/the-oscar-maduro-2-3-2/",
+   "https://halfwheel.com/santiago-valladares-toro-exclusivo-u-s-a/444575/",
+   "https://halfwheel.com/oscar-valladares-releasing-kinich-santiago-valladares-2024-europe-edition-at-intertabac-2024/442642/"
+  ],
+  "notes": "Blend shown is the 2024 U.S. Toro; the 2023 European original (Honduran wrapper, three sizes) is discontinued. Strength is unsettled: the maker's site says mild, but halfwheel's review found it medium-full to full. The 2024 Europe edition uses a Honduran binder.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that Neptune rates it medium: no Neptune page could be found. Trimmed notes to three sentences and dropped 'premium' from about. Strength left null because the maker (mild) and halfwheel (medium-full to full) conflict."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Colaboraciones Casa Carrillo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S.-grown Connecticut Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "One of three 2026 Colaboraciones cigars, in which partner factories built a blend around Oscar Valladares's Honduran tobacco. This one is made by Ernesto Perez-Carrillo's Casa Carrillo factory in the Dominican Republic.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://oscartobacco.com/cigars/colaboracionesbyov/",
+   "https://halfwheel.com/pca-2026-oscar-valladares-tobacco-co/465366/",
+   "https://halfwheel.com/oscar-valladares-works-with-casa-carrillo-and-oliva-for-colaboraciones/465193/"
+  ],
+  "notes": "Limited to 1,500 boxes of 20. Not made in Honduras: it is rolled at Casa Carrillo. The wrapper was first announced as Connecticut Broadleaf and then corrected to Connecticut Habano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Colaboraciones Oliva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Cameroon",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "One of three 2026 Colaboraciones cigars, in which partner factories built a blend around Oscar Valladares's Honduran tobacco. This one is made by Oliva and uses Cameroon leaf for both the wrapper and the binder.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://oscartobacco.com/cigars/colaboracionesbyov/",
+   "https://halfwheel.com/pca-2026-oscar-valladares-tobacco-co/465366/",
+   "https://www.coronacigar.com/oscar-valladares-colaboraciones-tabolisa-toro/"
+  ],
+  "notes": "Limited to 1,500 boxes of 20. Not made in Honduras: it is rolled at Oliva's Tabolisa factory in Nicaragua, and the maker labels this version Tabolisa.",
+  "verified": true,
+  "verifyNotes": "Factory written out in full as halfwheel names it; the maker labels this cigar TABOLISA. No other changes."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Colaboraciones Oscar Valladares Tobacco & Co.",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The in-house entry in the three-cigar 2026 Colaboraciones release, made at Oscar Valladares's own factory in Danli. It puts an Ecuadorian Habano wrapper over Honduran binder and filler.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://oscartobacco.com/cigars/colaboracionesbyov/",
+   "https://halfwheel.com/pca-2026-oscar-valladares-tobacco-co/465366/",
+   "https://www.coronacigar.com/oscar-valladares-colaboraciones-oscar-valladares-tobacco-toro/"
+  ],
+  "notes": "Limited to 1,500 boxes of 20. The other two Colaboraciones cigars are made by Casa Carrillo and Oliva.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Kinich",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Honduras (Copán)",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "spice"
+  ],
+  "about": "A regular production line made only for the European market, introduced at InterTabac 2024. It is named for the first Mayan king of Copán and made at the Oscar Valladares factory in Danli, Honduras.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/oscar-valladares-releasing-kinich-santiago-valladares-2024-europe-edition-at-intertabac-2024/442642/",
+   "https://www.neptunecigar.com/cigar/oscar-valladares-kinich"
+  ],
+  "notes": "Made as a European exclusive, so it is not normally stocked in U.S. shops. The maker has not published a wrapper varietal or strength; Neptune describes it as medium to full. A Robusto also exists; halfwheel lists it at 6 x 50, which could not be confirmed.",
+  "verified": true,
+  "verifyNotes": "Added Neptune's page as a second source and its three flavor words. Softened the statement that U.S. shops do not carry it. Strength left null: the maker has no page for it and only one retailer gives a rating."
+ }
+]

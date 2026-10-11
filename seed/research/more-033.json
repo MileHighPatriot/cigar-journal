@@ -1,0 +1,575 @@
+[
+ {
+  "brand": "Gran Habano",
+  "line": "Gran Reserva #3 2008",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, aged about 8 years, from the La Santa Cruz farm",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Colombia",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "An aged, limited edition of Gran Habano's #3 blend by George Rico. The cigars were rolled in early 2008 from long-aged Nicaraguan and Colombian tobacco and rested about two years before release.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/gran-habano-gran-reserva-3-2008",
+   "https://halfwheel.com/gran-habano-announces-the-gran-reserva-3/2752/",
+   "https://www.cigaraficionado.com/ratings/15725/name/gran-habano-gran-reserva-2008-churchill-churchill"
+  ],
+  "notes": "The maker's spec table lists the wrapper as Colombia, but its 2010 release and Cigar Aficionado both give a Nicaraguan wrapper and binder. The release called it medium to full; the maker's site says medium. 1,200 boxes of each size were made.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, 2010 release and 1,200-box run confirmed against the maker page, the 2010 press release on halfwheel and the Cigar Aficionado rating. Swapped the generic factory page for the Cigar Aficionado page as a source and tightened the notes."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "RISE by Women of PCA",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian sun-grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A single-size toro from Gran Habano made to raise money for the Women of PCA initiative of the Premium Cigar Association. It was shown at the 2026 PCA trade show and comes in boxes of 10.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/gran-habano-rise-benefitting-women-of-pca-initiative/466616/",
+   "https://halfwheel.com/pca-2026-gran-habano/462023/",
+   "https://www.neptunecigar.com/cigar/gran-habano-rise-by-women-of-pca"
+  ],
+  "notes": "One size only. Gran Habano says it donates all of its proceeds from RISE to Women of PCA. halfwheel lists it as regular production, not limited.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Azteca",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andres maduro)",
+  "filler": "Nicaragua, Panama",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Aguila",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Jaguar",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Puma",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "pepper",
+   "earth",
+   "sweetness"
+  ],
+  "about": "Gran Habano's maduro blend, first shown at the 2010 trade show, with a Mexican San Andres wrapper and binder. The maker now sells it as a 20-count bundle.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/gran-habano-azteca/",
+   "https://www.cigarsdirect.com/collections/gran-habano-azteca",
+   "https://halfwheel.com/ipcpr-2010-day-ii-gran-habano/1505/"
+  ],
+  "notes": "The maker lists the binder only as maduro; retailers give San Andres for both wrapper and binder. The maker's table says medium to full, but its blurb says mild to medium and mentions Colombian and Costa Rican filler.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that it was reported discontinued in 2012: no source supports it. Binder confirmed as San Andres maduro on two retailer pages and a Cigar Coop review; notes reworded."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Cabinet Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gordo",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Gran Consul",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Grand Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "nuts"
+  ],
+  "about": "A Nicaraguan puro from Gran Habano with a Corojo wrapper, sold in boxes of 20. Retailers describe it as box-pressed.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://ghcigars.com/gran-habano-cabinet-selection-2/",
+   "https://www.cigarsdirect.com/collections/gran-habano-cabinet-selection",
+   "https://halfwheel.com/weekly-news-august-30-2010/1921/"
+  ],
+  "notes": "The maker rates it medium, though retailers pitch it as a bold smoke. halfwheel reported it discontinued in 2010. The maker's site lists it again, but retailers often show it sold out, so check stock before promising it.",
+  "verified": true,
+  "verifyNotes": "Changed production from regular to null: halfwheel reported it discontinued in 2010, and although the maker's site lists it, the retailers checked show it sold out or unlisted. Notes reworded so they no longer cite a page missing from sources."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "G.R. Specials Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Mexico",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "honey",
+   "almond",
+   "cedar"
+  ],
+  "about": "A mellow, medium value blend from Gran Habano with a Nicaraguan wrapper and binder over Nicaraguan and Mexican filler. It is sold in bundles of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/g-r-specials-red/",
+   "https://ghcigars.com/factory-farms/"
+  ],
+  "notes": "Bundle cigar, 20 per bundle. The maker does not say what type of Nicaraguan wrapper it uses.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "V.I.P.",
+  "found": true,
+  "officialName": "V.I.P. by George Rico",
+  "wrapperLeaf": "Nicaraguan (Natural), Ecuadorian Connecticut (Sweet Tip), Nicaraguan Maduro (Maduro)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "5 x 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "6 x 54",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "7 x 50",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "roasted nuts",
+   "coffee",
+   "cream",
+   "earth",
+   "espresso"
+  ],
+  "about": "A George Rico line from Gran Habano offered in three versions, Natural, Sweet Tip and Maduro, each in boxes of 20. All three use Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/v-i-p-by-george-rico-2/",
+   "https://www.neptunecigar.com/cigar/gran-habano-vip",
+   "https://ghcigars.com/factory-farms/"
+  ],
+  "notes": "Three wrappers, so no single wrapper type: Natural is Nicaraguan, Sweet Tip is Ecuadorian Connecticut with a sweetened cap, Maduro is Nicaraguan maduro and rated medium to full. The maker gives the sizes without names.",
+  "verified": true,
+  "verifyNotes": "Dropped the word 'value' from about, which the maker does not use. Blend fields confirmed against the maker page."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "La Gran Fuma",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Panama, Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban sandwich (mixed filler) cigar from Gran Habano aimed at everyday smoking at a low price. The maker describes it as medium to full with a smooth finish.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/la-gran-fuma/",
+   "https://ghcigars.com/factory-farms/"
+  ],
+  "notes": "Mixed-filler value cigar. The maker lists the wrapper only as Ecuador, without naming the leaf type.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Fumas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "5 x 50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "6 x 50",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "6 1/8 x 52",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "7 x 48",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "Gran Habano's budget bundle cigar, an all-Nicaraguan blend sold 25 to a bundle. A retailer describes the filler as a mix of trimmings and long filler left over from the premium lines.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/gran-habano-fumas/",
+   "https://www.cigarking.com/gran-habano-fumas-toro-6x50-bundle-25/",
+   "https://ghcigars.com/factory-farms/"
+  ],
+  "notes": "Mixed-filler bundle cigar, 25 per bundle. The maker lists sizes without names; Cigar King sells the 6 x 50 as a Toro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "House Bundles",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Corojo), Ecuadorian Connecticut (Connecticut), Nicaraguan sun-grown Corojo (Maduro), Connecticut and Corojo (Barber Pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Costa Rica, Colombia",
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Rothchild",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "Gran Habano's house bundles, sold 25 to a bundle in four versions: Corojo, Connecticut, Maduro and Barber Pole. All share the same four sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/house-bundles-2/",
+   "https://ghcigars.com/factory-farms/"
+  ],
+  "notes": "Four blends, so no single wrapper or strength: Corojo and Maduro are rated full, Connecticut mild to medium, Barber Pole medium. The Barber Pole uses a Nicaraguan Habano binder and Nicaraguan and Costa Rican filler only.",
+  "verified": true,
+  "verifyNotes": "Removed 'unbanded' from about: the maker page does not say it. Blend fields confirmed against the maker page."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Vintage 2002",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "earth",
+   "spice",
+   "nuts"
+  ],
+  "about": "A value bundle blend by George Rico of Gran Habano with an oily Nicaraguan Corojo wrapper, sold in 20-count bundles through retailers. Holt's rates it the strongest of the three Vintage blends.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/gran-habano-vintage-2002.html",
+   "https://www.neptunecigar.com/cigar/gran-habano-vintage-corojo-2002",
+   "https://www.cigarsdirect.com/collections/gran-habano-vintage-2002"
+  ],
+  "notes": "Retailer bundle line that the maker's own site does not list. Retailers disagree on the filler: Holt's says Nicaraguan and Costa Rican, another says Nicaraguan and Dominican, and Neptune lists all three. Neptune calls it Vintage Corojo 2002.",
+  "verified": true,
+  "verifyNotes": "Added binder (Nicaragua) from Neptune and added Neptune as a source. Notes updated: Neptune lists Nicaraguan, Costa Rican and Dominican filler."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Vintage 2004",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cereal",
+   "nuts",
+   "pepper",
+   "bread"
+  ],
+  "about": "The Connecticut Shade version of Gran Habano's Vintage bundle series, blended by George Rico and sold in 20-count bundles. Holt's describes it as a mellow, mild to medium smoke.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/gran-habano-vintage-2004.html"
+  ],
+  "notes": "Retailer bundle line that the maker's own site does not list. The binder and the country the wrapper is grown in are not published.",
+  "verified": true,
+  "verifyNotes": "Only Holt's could be opened for this line; wrapper, country and strength match its spec table. Reworded about so it does not rank it against the 2006, which Holt's rates the same."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Vintage 2006",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "almond",
+   "leather",
+   "coffee",
+   "wood",
+   "nuts"
+  ],
+  "about": "The Ecuador Habano version of Gran Habano's Vintage bundle series, blended by George Rico and sold in 20-count bundles. Holt's describes it as mild to medium.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/gran-habano-vintage-2006.html",
+   "https://www.neptunecigar.com/cigar/gran-habano-vintage-habano-2006"
+  ],
+  "notes": "Retailer bundle line that the maker's own site does not list; binder is not published. Holt's rates it mild to medium, while Neptune calls it medium. Neptune calls it Vintage Habano 2006.",
+  "verified": true,
+  "verifyNotes": "Added Neptune as a second source and noted that it calls the cigar medium while Holt's says mild to medium. Only Holt's states the wrapper is grown in Ecuador."
+ }
+]

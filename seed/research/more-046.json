@@ -1,0 +1,554 @@
+[
+ {
+  "brand": "Room 101",
+  "line": "Chief Cool Arrow",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican ligero",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras (Corojo)",
+  "filler": "Dominican Republic (Piloto Cubano), USA (Pennsylvania ligero), Nicaragua (Estelí ligero)",
+  "country": "Honduras",
+  "factory": "Agroindustria LAEPE S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Filerokee",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Ranflajo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Chingonimo",
+    "length": 8,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "citrus",
+   "earth",
+   "leather",
+   "espresso",
+   "cedar"
+  ],
+  "about": "A 2016 limited run of three perfectos from Matt Booth's Room101, the second cigar in the brand's Artist Collection after Johnny Tobacconaut. It was rolled in Danlí, Honduras, while Davidoff distributed the brand.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://www.room101cigars.com/cigars/the-vault/chief-cool-arrow",
+   "https://halfwheel.com/room101-chief-cool-arrow-chingonomo/139217/",
+   "https://www.cigaraficionado.com/article/room101-releases-limited-edition-chief-cool-arrow-18959"
+  ],
+  "notes": "Limited to 3,500 boxes of 20 in 2016 and now retired. Sizes are from Room101's site; halfwheel and Cigar Aficionado listed the 2016 perfectos as 4 1/2 x 52, 5 1/2 x 50 and 8 x 60. Sources say only that the wrapper is Mexican ligero, not which region.",
+  "verified": true,
+  "verifyNotes": "Shortened notes. Blend, factory and sizes match Room101, halfwheel and Cigar Aficionado. The San Andrés category is inferred from a Mexican wrapper; no source names the region."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Red Rocket",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "USA, Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth"
+  ],
+  "about": "A single-size toro that Room101 made in 2024 with the Massachusetts retailer Sir Louis Cigars. It is rolled at Tabacalera William Ventura and distributed by Forged Cigar Co.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/room101-collaborates-with-sir-louis-cigars-for-red-rocket/438993/",
+   "https://sirlouiscigars.com/products/sir-louis-room-101-louis-red-rocket"
+  ],
+  "notes": "Collaboration with Sir Louis Cigars of Wilbraham, Mass., which sells it as Louis Red Rocket. No strength rating is published. Sir Louis also sells a Connecticut-wrapped Red Rocket, which is a different blend.",
+  "verified": true,
+  "verifyNotes": "Set strength to null: the Sir Louis listing gives no strength and neither does halfwheel. Removed the 5 x 52 robusto, which neither source lists; both show only the 6 x 52 toro. Rewrote notes to match."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Murder Hornet",
+  "found": true,
+  "officialName": "Murder Hornet by Room101",
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Tabacos Raíces Cubanas",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "A Honduran puro corona that Room101 made in 2021 for retailers in the Limited Cigar Association. It is rolled at Raíces Cubanas in Danlí.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/murder-hornet-by-room101-heads-to-lca-retailers/396627/"
+  ],
+  "notes": "Limited Cigar Association exclusive. The leaf varieties and production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Who Shot Ya",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 5 x 52 torpedo that Room101 made in 2021 for Pospiech, the distributor behind Powstanie. It was limited to 250 bundles of 20.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pospiech-releases-room101-who-shot-ya/401971/"
+  ],
+  "notes": "The blend is undisclosed; Pospiech only gave a joke description. Limited to 250 bundles of 20 cigars.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Death Bucket 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "black pepper",
+   "cream",
+   "nuts"
+  ],
+  "about": "The 2020 follow-up to Room101's Death Bucket, named for the band showing Matt Booth's head in a bucket of fried chicken. It is a different blend from the original, made at Joya de Nicaragua and sold through Limited Cigar Association retailers.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/room101-death-bucket-2-goes-on-sale/384614/",
+   "https://halfwheel.com/room101-death-bucket-2/385580/"
+  ],
+  "notes": "Not the same cigar as the 2018 Death Bucket, which was made at Tabacalera William Ventura with an Ecuadorian habano wrapper. halfwheel's review put strength at medium and body at medium-plus. Production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Sfumato in C Major",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut hybrid",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pichardo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "cream",
+   "nuts",
+   "leather"
+  ],
+  "about": "Crowned Heads' exclusive for retailers who ordered at the 2022 PCA trade show, a lighter Connecticut-wrapped blend named after da Vinci's painting technique. It was made in one size at Tabacalera Pichardo in Estelí.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-sfumato-in-c-major-begins-arriving-at-stores/412920/",
+   "https://halfwheel.com/crowned-heads-announces-sfumato-in-c-major-as-pca-2022-exclusive/409726/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-crowned-heads-sfumato-in-c-major/"
+  ],
+  "notes": "PCA 2022 exclusive with 2,500 boxes of 20 made. The C in the name refers to the Connecticut hybrid wrapper. Strength is from the Developing Palates review, since Crowned Heads only called it smooth and approachable.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Paniolo Especiale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Habano)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra (2022)",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Crowned Heads' recurring exclusive for Hawaii, sold through R. Field Wine Co. since 2015 and named for the Hawaiian word for cowboy. Each release is a different blend and size.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-releasing-paniolo-especiale-2022-next-month/413068/",
+   "https://halfwheel.com/paniolo-especiale-2015/84744/",
+   "https://halfwheel.com/crowned-heads-paniolo-especiale-2020-debuting-in-february/370595/"
+  ],
+  "notes": "Blend, size and factory change with each release, so ask which year it is. Details here are the 2022 release (400 boxes of 10, made by E.P. Carrillo). The 2015 was a broadleaf from My Father, 2018 used a San Andrés wrapper, and 2019 and 2020 were broadleaf cigars from Drew Estate.",
+  "verified": true,
+  "verifyNotes": "Changed 'yearly' to 'recurring' in about, since there was no 2021 release. Shortened notes to fit the limit. The 2022 blend and the earlier years check out against halfwheel."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "HGK-76",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Brazil, Mexico, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pichardo",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A 2021 Crowned Heads tribute to Grant Kawasaki, the Hawaiian chef and TV host who emceed the company's Paniolo events and died that year. It was sold only through R. Field Wine Co. in Hawaii.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-pays-tribute-to-grant-kawasaki-with-hgk-76-cigar/402308/"
+  ],
+  "notes": "Limited to 250 boxes of 10, exclusive to R. Field Wine Co. in Hawaii. Part of the sales went to a culinary scholarship in Kawasaki's name. No strength rating was published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Moose Kick",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "D'Hatuey Tabacos S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto (2024)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto (2025)",
+    "length": 4.875,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Crowned Heads' limited edition made only for Canada, developed with its Canadian distributor Brigham Enterprises. The name is a Canadian take on the Four Kicks Mule Kick.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/moose-kick-limited-edition-2025-shipping-next-week/455318/",
+   "https://halfwheel.com/crowned-heads-announces-moose-kick-a-canada-exclusives/444764/"
+  ],
+  "notes": "Canada only. The 2024 release was 300 bundles of 10 and halfwheel named the factory as TacaNicsa; the 2025 release was 500 bundles of 10 from D'Hatuey Tabacos, with the same blend and a pigtail cap. No strength rating was published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Starwood",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "Crowned Heads' event-only cigar introduced in September 2026, named after Nashville's old Starwood Amphitheatre. It takes over the event role from Blood Medicine, which became a regular release.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-adds-starwood-a-new-event-only-cigar/478976/"
+  ],
+  "notes": "Not for sale: it is given in four-packs with a qualifying purchase at Crowned Heads events. halfwheel lists it as regular production rather than a numbered limited run. No strength rating was published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Plan B",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Three versions: Ecuadorian Connecticut Shade, Corojo Habano, or Maduro",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Oscar Valladares' budget bundle line, rolled in Honduras with a mix of short and long filler left over from his premium cigars. It comes as a toro in Connecticut, Habano and Maduro wrappers.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/oscar-valladares-plan-b",
+   "https://www.neptunecigar.com/cigars/oscar-valladares-plan-b-habano-toro"
+  ],
+  "notes": "Mixed-filler bundle cigar sold in 20s, not a long-filler premium. Neptune rates the Connecticut version mild and the Habano and Maduro versions medium. The origin of the Maduro wrapper is not stated.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "CFW Corojo",
+  "found": true,
+  "officialName": "CFW by Oscar Valladares",
+  "wrapperLeaf": "Honduran Corojo Oscuro",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 2024 limited edition Honduran puro that Oscar Valladares made to benefit Operation: Cigars for Warriors, which sends cigars to deployed troops. It comes in 10-count boxes built to look like ammo cans.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oscar-valladares-supporting-cigars-for-warriors-with-new-limited-edition-debuting-at-pca-2024/436226/",
+   "https://www.neptunecigar.com/cigar/cfw-by-oscar-valladares-corojo"
+  ],
+  "notes": "All profits go to Operation: Cigars for Warriors, and only shops registered as CFW donation centers can carry it. halfwheel reported 1,000 cigars made. Strength is from Neptune's listing.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Island Jim Barber Pole",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut-seed and Honduran Corojo (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#2 Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cereal",
+   "black pepper",
+   "cream",
+   "honey",
+   "vanilla",
+   "wood"
+  ],
+  "about": "The fourth Island Jim blend, added in April 2025, with Connecticut and corojo wrappers twisted in a barber pole. Like the rest of the line it is shaped like a #2 pencil with a shaggy foot and is made by Oscar Valladares in Danlí.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/island-jim-barber-pole-two/452545/",
+   "https://halfwheel.com/island-jim-barber-pole-leaf-by-oscar-broadleaf-limited-edition-2025-launching-at-pca-2025/448227/",
+   "https://www.neptunecigar.com/cigar/island-jim-barber-pole"
+  ],
+  "notes": "Binder and filler are undisclosed. Neptune lists an Ecuadorian Connecticut wrapper and 6 1/2 x 52; halfwheel and Cigars Direct say both wrappers are Honduran and the size is 6 x 52. Retailers call it medium, but halfwheel's review found it mild to medium.",
+  "verified": true,
+  "verifyNotes": "Replaced the flavor 'bread' with 'wood', which the halfwheel review actually names. Shortened notes. Medium is confirmed by Neptune and Cigars Direct."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Island Jim Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#2 Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cinnamon",
+   "berries"
+  ],
+  "about": "The third Island Jim blend, introduced in 2023 with a Connecticut-seed wrapper grown in Honduras. It keeps the line's #2 pencil look, with a shaggy foot and a contrasting cap, and is made by Oscar Valladares.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/island-jim-connecticut-two-debuts-at-tpe-2023/420332/",
+   "https://www.neptunecigar.com/cigar/island-jim-connecticut",
+   "https://www.cigarsdirect.com/products/island-jim-by-oscar-torpedo-connecticut"
+  ],
+  "notes": "Binder and filler are undisclosed. Cigars Direct rates it mild-medium and Neptune mild. halfwheel and Cigars Direct give the size as 6 x 52, while Neptune lists 6 1/2 x 52.",
+  "verified": true,
+  "verifyNotes": "Notes: removed the Corona Cigar size claim, which I did not confirm, and credited Cigars Direct for 6 x 52. Smoke Inn also rates it mild-medium, so that strength stands."
+ },
+ {
+  "brand": "Oscar Valladares",
+  "line": "Island Jim San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#2 Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "fruit",
+   "chocolate",
+   "cream",
+   "spice"
+  ],
+  "about": "The maduro version of Island Jim, added in 2018 as the line's first extension, with a San Andrés wrapper over the same Honduran core. It is the #2 pencil shape with a shaggy foot, made by Oscar Valladares.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2018-leaf-by-oscar/272502/",
+   "https://www.neptunecigar.com/cigar/island-jim-san-andres",
+   "https://www.cigarsdirect.com/products/island-jim-by-oscar-torpedo-maduro"
+  ],
+  "notes": "Some shops sell it as Island Jim Maduro, and the head is finished with a lighter Ecuadorian Connecticut leaf. Neptune and Smoke Inn rate it medium, Cigars Direct medium-full. halfwheel gives the size as 6 x 52, while retailers list 6 1/2 x 52.",
+  "verified": true,
+  "verifyNotes": "Replaced the flavor 'leather' with 'spice': Neptune and Cigars Direct name pepper, earth, fruit, chocolate, cream and sweet spice, not leather. Merged two note sentences to keep it to three."
+ }
+]

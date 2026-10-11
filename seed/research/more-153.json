@@ -1,0 +1,812 @@
+[
+ {
+  "brand": "Nasser",
+  "line": "The Goat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Nicaragua (Esteli, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "nuts",
+   "vanilla",
+   "earth",
+   "coffee",
+   "dried fruit"
+  ],
+  "about": "A San Andres wrapped Nicaraguan cigar made by AJ Fernandez for Jeff Nasser, who owns Nasser's Lounge in Petion-Ville, Haiti. It began in 2023 as a shop exclusive and AJ Fernandez started selling it to U.S. stores in September 2024.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://nassercigars.com/",
+   "https://halfwheel.com/nasser-the-goat-robusto/452217/",
+   "https://www.neptunecigar.com/cigar/nasser-the-goat-by-aj-fernandez"
+  ],
+  "notes": "The maker also calls it The Goat Maduro. The maker says medium to full; Neptune and Mike's Cigars list Medium. The maker and halfwheel's 2025 review give the Toro as 6 x 54, while Neptune and earlier halfwheel news say 6 x 52.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full (nassercigars.com says medium to full; halfwheel review agrees). Toro ring changed from 52 to 54 per the maker and halfwheel's review. Filler now includes Condega per the maker. Flavors replaced with the maker's tasting notes. Sources swapped to the maker site and halfwheel's review."
+ },
+ {
+  "brand": "Nasser",
+  "line": "The Goat Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras, Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "nuts",
+   "cedar"
+  ],
+  "about": "The second Nasser blend, made by AJ Fernandez in Esteli with an Ecuadorian Connecticut wrapper and a double binder. It went on sale in March 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://nassercigars.com/",
+   "https://halfwheel.com/nasser-the-goat-connecticut-goes-on-sale/465136/",
+   "https://mikescigars.com/brands/nasser-the-goat-connecticut-by-aj-fernandez"
+  ],
+  "notes": "The maker and Mike's Cigars list the wrapper as Ecuadorian Connecticut; halfwheel calls it an Ecuadorian Connecticut-seed habano. The maker says mild to medium, while Mike's lists Medium.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Mild-Medium (nassercigars.com says mild to medium). wrapperLeaf changed to the maker's wording. Added the maker site as a source and rewrote notes."
+ },
+ {
+  "brand": "Veritas",
+  "line": "Torch Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Nuevo Nica",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan cigar with an Ecuadorian Habano wrapper from Veritas Cigar Co., the company chaired by Chris Weber. Neptune describes it as a mellow, mild to medium smoke.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/veritas-cigar",
+   "https://halfwheel.com/veritas-cigars-names-chris-weber-chairman-ceo-moves-several-lines-fabrica-oveja-negra/146104/",
+   "https://halfwheel.com/veritas-cigars-names-jason-lois-ceo-announces-new-projects/381517/"
+  ],
+  "notes": "Blend details come from one retailer, Neptune, whose description says mild to medium while its spec field says Medium. Only the Toro could be confirmed. The line was on sale by early 2017.",
+  "verified": true,
+  "verifyNotes": "Notes: changed 'on sale in 2016' to 'by early 2017', which is what the halfwheel article supports. No second source for the blend could be opened; the Veritas site is down."
+ },
+ {
+  "brand": "Veritas",
+  "line": "Torch San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Nuevo Nica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The San Andres maduro version of the Veritas Torch, made in Nicaragua over Nicaraguan binder and filler. Neptune describes it as a medium bodied cigar that is bold but smooth.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/veritas-cigar",
+   "https://halfwheel.com/veritas-cigars-names-jason-lois-ceo-announces-new-projects/381517/"
+  ],
+  "notes": "Blend details come from one retailer, Neptune. Only the Toro could be confirmed.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Neptune is the only source for the blend; the Veritas site is down."
+ },
+ {
+  "brand": "Stoic",
+  "line": "Stoic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, USA, undisclosed South American country",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Courage",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Moderation",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Justice",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Wisdom",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "The debut line from Vance Taylor's Stoic Cigars, made at Klaas Kelner's factory in the Dominican Republic. The four sizes are named for the Stoic virtues.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/stoic-cigars-debuting-next-month/444489/",
+   "https://stoiccigars.com/"
+  ],
+  "notes": "One of the filler countries is not disclosed. The maker describes it as full flavored without heavy strength but gives no strength rating.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed stoiccigars.com gives no strength rating."
+ },
+ {
+  "brand": "Stoic",
+  "line": "Equanimity",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic, Ecuador, USA, undisclosed South American country",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Courage",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Moderation",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Justice",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Wisdom",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "clove",
+   "cocoa",
+   "cedar",
+   "nuts",
+   "black pepper",
+   "baking spice"
+  ],
+  "about": "The second line from Stoic Cigars, made at Kelner Cigars in the Dominican Republic with an Ecuadorian corojo wrapper. It shipped to stores in September 2025 in the same four sizes as the original Stoic.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/stoic-cigars-ships-equanimity/454722/",
+   "https://halfwheel.com/stoic-equanimity-moderation/455493/"
+  ],
+  "notes": "One of the filler countries is not disclosed. Strength, body and flavors are from halfwheel's review of the Moderation size, not from the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viso Horny",
+  "line": "555",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Cameroon",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Nica Sueno S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "555",
+    "length": 5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "oak",
+   "nuts",
+   "cocoa",
+   "cinnamon"
+  ],
+  "about": "The second cigar from Tyler Jeffery's Viso Horny brand, made at the Nica Sueno factory that produces RoMa Craft. Every leaf in it comes from the viso priming, the middle of the tobacco plant.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viso-horny-555-debuting-at-pca-2025/448501/",
+   "https://halfwheel.com/viso-horny-555/452249/"
+  ],
+  "notes": "Limited to 500 bundles of 10 (5,000 cigars). The name refers to the 5 x 55 size. Strength, body and flavors are from halfwheel's review, which put strength between medium and medium-plus.",
+  "verified": true,
+  "verifyNotes": "Notes: dropped 'pressed', which no source states, and added that halfwheel's review ends at medium-plus."
+ },
+ {
+  "brand": "Viso Horny",
+  "line": "Ligador Fantasma",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo-seed and Candela barber pole (origin undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Habano seed (origin undisclosed)",
+  "filler": "Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A barber pole robusto from Tyler Jeffery's Viso Horny brand, made at Fabrica Oveja Negra in Esteli. It pairs a corojo-seed leaf with green candela on the wrapper and uses only viso priming fillers.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viso-horny-ligador-fantasma-ships/476153/"
+  ],
+  "notes": "Two-leaf barber pole wrapper, so no single wrapper category applies. Wrapper and binder origins are undisclosed. Limited to 500 bundles of 10.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. No strength is published; halfwheel's spec sheet gives none and visohorny.com is a parked page."
+ },
+ {
+  "brand": "Altezas Reales 1871",
+  "line": "Altezas Reales 1871",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The debut line from Rafael Cifuentes III, whose family once owned the Partagas factory in Havana. It is rolled at El Titan de Bronze in Miami with entubado bunching and a triple cap, and was modeled on 1990s Partagas Serie D No. 4.",
+  "released": 2023,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/altezas-reales-1871-makes-its-debut/429575/",
+   "https://halfwheel.com/altezas-reales-1871-increases-prices/440452/",
+   "https://www.neptunecigar.com/altezas-reales-1871-cigar"
+  ],
+  "notes": "Halfwheel reported each size limited to 1,000 boxes of 10 at launch, but it was still on sale in 2025, so the production status is unclear. Boxes are date stamped. Strength is from one retailer, Neptune.",
+  "verified": true,
+  "verifyNotes": "production changed from regular to null: halfwheel says each size was limited to 1,000 boxes and no source calls it regular production. Notes trimmed to three sentences."
+ },
+ {
+  "brand": "El Credito",
+  "line": "El Perrito",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "El Credito (General Cigar)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Perrito",
+    "length": 5.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweet wood",
+   "coffee",
+   "cream",
+   "chocolate"
+  ],
+  "about": "A small, rough-looking cheroot from General Cigar's El Credito factory, home of La Gloria Cubana. Two factory supervisors came up with it in 2011; it is shaped by hand without a mold and uses two filler leaves.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/el-credito-cigar",
+   "https://halfwheel.com/el-perrito-war-of-flavors/17618/"
+  ],
+  "notes": "Launched as El Perrito War of Flavors. The name means little dog. It is sold unbanded in boxes of 50, and halfwheel notes both ends are open so it needs no cutting.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Fontana",
+  "line": "Vintage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut-seed Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Galileo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Puccini",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Da Vinci",
+    "length": 6.875,
+    "ring": 48
+   },
+   {
+    "name": "Michelangelo",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "white chocolate",
+   "sweetness"
+  ],
+  "about": "A mild Honduran cigar with a Connecticut-seed shade wrapper and a lightly sweetened cap. The brand dates to 1993 and now belongs to the Davidoff group.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/la-fontana-cigar",
+   "https://www.famous-smoke.com/brand/la-fontana-vintage-cigars",
+   "https://mikescigars.com/brands/la-fontana"
+  ],
+  "notes": "The cap is sweetened. Retailers disagree on the binder: Mike's Cigars says Mexican, Neptune says Honduran.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Las Cabrillas",
+  "line": "Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andres)",
+  "filler": "Mexico (San Andres)",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cortez",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Ponce de Leon",
+    "length": 6.625,
+    "ring": 44
+   },
+   {
+    "name": "De Soto",
+    "length": 6.875,
+    "ring": 50
+   },
+   {
+    "name": "Balboa",
+    "length": 7.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "earth"
+  ],
+  "about": "A value-priced Altadis U.S.A. cigar handmade in Honduras, with a Connecticut shade wrapper over Mexican San Andres binder and filler. The sizes are named for Spanish explorers.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/las-cabrillas/las-cabrillas-natural/",
+   "https://www.cigarworld.com/cigars/las-cabrillas/natural/",
+   "https://www.neptunecigar.com/cigar/las-cabrillas"
+  ],
+  "notes": "Strength varies by seller: Cigar World says mellow to medium, Neptune says Mild, Famous says Medium. Neptune marks its sizes as discontinued, though Altadis still lists the line.",
+  "verified": true,
+  "verifyNotes": "Notes: added that Neptune marks its two sizes discontinued while Altadis still lists the line."
+ },
+ {
+  "brand": "Outcast",
+  "line": "Outcast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 47
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "hay",
+   "chocolate"
+  ],
+  "about": "A Miami Cigar & Co. brand that debuted at the 2025 PCA show and shipped that June. It pairs a Brazilian Cuban-seed wrapper with an Ecuadorian Sumatra-seed binder and Dominican filler.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://outcastcigars.com/our-cigars/",
+   "https://halfwheel.com/miami-cigar-co-unveils-details-on-outcast-cigars/449253/",
+   "https://halfwheel.com/outcast-toro/454727/"
+  ],
+  "notes": "Has a sweetened cap and some Black Cavendish pipe tobacco in the filler, per halfwheel. Halfwheel lists the factory as undisclosed, while Neptune says La Aurora. The maker says mild-medium; retailers list Medium.",
+  "verified": true,
+  "verifyNotes": "Notes: added the Black Cavendish pipe tobacco that halfwheel's review reports in the filler."
+ },
+ {
+  "brand": "Rosa Cuba",
+  "line": "Rosa Cuba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Nicaraguan American Cigar S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Angels",
+    "length": 4.5,
+    "ring": 38
+   },
+   {
+    "name": "Herencia",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Flor de Rosa",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Media Noche",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Ortiz y Laboy",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Mille Fleurs",
+    "length": 6.75,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "nuts",
+   "coffee",
+   "cedar"
+  ],
+  "about": "A budget bundle cigar handmade in Esteli, Nicaragua, with an Ecuadorian Sumatra wrapper. It is a Cuban sandwich, meaning it uses mixed short and long filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://mikescigars.com/brands/rosacuba",
+   "https://www.neptunecigar.com/cigar/rosa-cuba",
+   "https://www.holts.com/cigars/all-cigar-brands/rosa-cuba.html"
+  ],
+  "notes": "Mixed-filler Cuban sandwich. Mike's Cigars lists Nicaraguan, Dominican and Honduran filler, while Holt's describes the blend as Nicaraguan. Mike's lists the Herencia at 50 ring; Neptune and Holt's say 52.",
+  "verified": true,
+  "verifyNotes": "Factory name respelled to match Neptune's listing."
+ },
+ {
+  "brand": "Artesano del Tobacco",
+  "line": "El Pulpo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano (AJ Fernandez)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "The Fry",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Belicoso Grande",
+    "length": 5.75,
+    "ring": 58
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "The Squid",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "The Eel Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Octo Ocho Culebra",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "coffee",
+   "nuts",
+   "baking spice",
+   "dark chocolate"
+  ],
+  "about": "The second line from Artesano del Tobacco, made by AJ Fernandez with a San Andres maduro wrapper over Nicaraguan tobacco from his farms. The name means the octopus, and it launched in the U.S. in January 2023.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://artesanodeltobacco.com/cigar-brands/el-pulpo/",
+   "https://www.neptunecigar.com/cigar/el-pulpo-by-artesano-del-tobacco",
+   "https://halfwheel.com/el-pulpo-the-fry/443752/"
+  ],
+  "notes": "The maker names the factory as San Lotano; halfwheel lists Tabacalera AJ Fernandez Cigars de Nicaragua in Esteli and Neptune says Ocotal. Strength and body are from Neptune, since the maker gives no written rating. The Octo Ocho is a three-cigar culebra.",
+  "verified": true,
+  "verifyNotes": "Notes: added that Full strength and body come from one retailer."
+ },
+ {
+  "brand": "El Reloj",
+  "line": "El Reloj",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Havana-seed Sun Grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "USA",
+  "factory": "El Reloj (J.C. Newman)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Ocho",
+    "length": 8,
+    "ring": 53
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "spice"
+  ],
+  "about": "A value-priced cigar from J.C. Newman, made in Tampa and named for the company's El Reloj factory in Ybor City and its four-sided clock tower. It uses an Ecuadorian Havana-seed sun grown wrapper.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/el-reloj-cigar",
+   "https://mikescigars.com/brands/el-reloj",
+   "https://www.jcnewman.com/cigars/"
+  ],
+  "notes": "Not on J.C. Newman's list of current brands, but Neptune and Mike's Cigars still sell the 8 x 53 El Ocho, so its status is unclear. The binder is listed by one retailer only.",
+  "verified": true,
+  "verifyNotes": "production changed from discontinued to null: no source says it was discontinued and Neptune shows it in stock."
+ },
+ {
+  "brand": "Fireball",
+  "line": "Cinnamon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cigarillo",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "Corona",
+    "length": 6.25,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cinnamon"
+  ],
+  "about": "A cinnamon-flavored cigar licensed from Fireball Cinnamon Whisky and made for Scandinavian Tobacco Group in the Dominican Republic. It launched in 2022 through Thompson Cigar before going to other stores.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fireball-cinnamon-whisky-gets-cigar-line-through-meier-dutch/408584/",
+   "https://www.cigarworld.com/news/introducing-fireball-cinnamon-cigars/",
+   "https://www.neptunecigar.com/cigar/fireball"
+  ],
+  "notes": "Cinnamon-flavored cigar; the factory is not disclosed. Neptune lists the Corona at 6 3/8 inches rather than 6 1/4. Strength is from one retailer.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences."
+ }
+]

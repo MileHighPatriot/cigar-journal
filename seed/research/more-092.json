@@ -1,0 +1,836 @@
+[
+ {
+  "brand": "601",
+  "line": "Kryptonite",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "black pepper",
+   "sweetness"
+  ],
+  "about": "An all-Nicaraguan cigar with a habano wrapper, made by Erik Espinosa at the La Zona factory in Esteli as a companion to the 601 Steel line.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-601-kryptonite",
+   "https://www.neptunecigar.com/cigar/601-kryptonite"
+  ],
+  "notes": "Retailers disagree on strength: Famous Smoke Shop lists it as medium, while Neptune describes it as full-bodied and full-strength. Both call the blend all-Nicaraguan; no binder is listed separately and no release year is published.",
+  "verified": false,
+  "verifyNotes": "Not marked verified because the two retailer pages conflict on strength and there is no maker or halfwheel page to settle it. Added Neptune as a second source; it calls the cigar full-bodied and full-strength against Famous's medium, so the conflict is now in notes and the medium-bodied claim was removed from about. Strength left at Medium per Famous, the retailer that stocks it. No maker or halfwheel page found."
+ },
+ {
+  "brand": "601",
+  "line": "Steel",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rod",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Girder",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Spike",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Anvil",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Bolt",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A full-bodied Nicaraguan puro with a dark habano oscuro wrapper, made by Espinosa at the La Zona factory in Esteli. It was created in 2014 as an exclusive for Famous Smoke Shop.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-601-steel",
+   "https://halfwheel.com/espinosa-cigars-forges-new-601-steel-famous-smoke-shop/71246/"
+  ],
+  "notes": "Exclusive to Famous Smoke Shop. The Bolt size was added after the original four.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "601",
+  "line": "Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "hay",
+   "almonds",
+   "toast",
+   "earth",
+   "espresso"
+  ],
+  "about": "Espinosa's fuller take on a Connecticut-wrapped cigar, with an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler. It returned in 2021 as an annual limited edition in a 6 x 50 toro.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-bringing-new-601-black-to-pca-2021-as-annual-limited-edition/394682/",
+   "https://halfwheel.com/601-black-toro-2021/400445/",
+   "https://www.neptunecigar.com/cigar/601-black"
+  ],
+  "notes": "The original 601 Black came from EO Brands, was dropped in 2010 and had a small 2016 reissue; 2021 is the current limited version. It is stronger than the light wrapper suggests: halfwheel found the strength building to near full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "601",
+  "line": "Orange",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 601 blend from Espinosa with a Brazilian wrapper over Nicaraguan binder and filler, made at La Zona. The company describes it as medium to medium-plus.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-expands-601-line-with-limited-edition-601-orange-and-601-yellow/421991/",
+   "https://halfwheel.com/espinosa-cigars-overhauls-601-brand-adds-five-new-lines/127544/"
+  ],
+  "notes": "First shipped in 2016 in very small numbers (about 100 boxes), then reissued in April 2023 as a 6 x 52 toro limited to 500 boxes of 10. The 2016 wrapper was described as Brazilian habano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "601",
+  "line": "Yellow",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 601 blend from Espinosa with a Mexican San Andrés wrapper over Nicaraguan binder and filler, made at La Zona. The company describes it as medium-plus to full.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-expands-601-line-with-limited-edition-601-orange-and-601-yellow/421991/",
+   "https://halfwheel.com/espinosa-cigars-overhauls-601-brand-adds-five-new-lines/127544/"
+  ],
+  "notes": "First shipped in 2016 in very small numbers (about 100 boxes), then reissued in April 2023 as a 6 x 52 toro limited to 500 boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "601",
+  "line": "Blue 20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "leather",
+   "coffee",
+   "black pepper",
+   "cream"
+  ],
+  "about": "A limited edition marking 20 years of the 601 brand, using the same Connecticut broadleaf wrapper type as the regular 601 Blue over Nicaraguan binder and filler. It comes in one oval-pressed 6 3/4 x 56 size made at AJ Fernandez's San Lotano factory in Ocotal.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/601-blue-20th-anniversary-2/473692/",
+   "https://halfwheel.com/espinosas-601-blue-20th-anniversary-la-bomba-warhead-12-arrive-at-stores/472031/",
+   "https://www.neptunecigar.com/601-cigar"
+  ],
+  "notes": "Initial run is 4,000 boxes of 10, which Espinosa says could grow. halfwheel rated strength medium-plus to medium-full; Neptune lists it as full and sells it as 601 Maduro 20th Anniversary.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "601",
+  "line": "La Bomba The Wick",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro (Maduro version) or Ecuadorian Habano (Habano version)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "red pepper",
+   "earth",
+   "toast",
+   "bread"
+  ],
+  "about": "A stronger offshoot of Espinosa's 601 La Bomba, sold in two wrapper versions and named for the extra-long tobacco fuse that hangs from the cap. It debuted at the company's La Zona Palooza event in November 2020.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/601-la-bomba-the-wick-debuting-at-la-zona-palooza/382377/",
+   "https://halfwheel.com/601-la-bomba-the-wick-maduro/386967/"
+  ],
+  "notes": "Two cigars share the name: a San Andrés Maduro and an Ecuadorian Habano, both box-pressed 6 x 52 toros sold in bundles of 10. Very strong; the blend is closer to the La Bomba Sake Bomb than the regular La Bomba. Tasting notes are from the Maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ventura",
+  "line": "PSyKo SEVEN Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Occidental Cigar Factory (Davidoff)",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "espresso",
+   "dark chocolate",
+   "hay",
+   "vanilla"
+  ],
+  "about": "The Connecticut-wrapped member of Ventura Cigar Company's PSyKo SEVEN family, built from seven tobaccos from six countries. It is rolled in the Dominican Republic and is the mildest of the line.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://venturacigar.com/products/psyko-seven/",
+   "https://halfwheel.com/psyko-seven-connecticut-toro/143999/"
+  ],
+  "notes": "The filler is an undisclosed multi-country blend. halfwheel listed the launch Robusto as 4 3/4 x 50, while Ventura's site lists 5.5 x 50.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ventura",
+  "line": "PSyKo SEVEN Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Connecticut (desflorado)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "AgroIndustrial Nicaraguense de Tabacos S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "cream",
+   "earth",
+   "wood"
+  ],
+  "about": "A Nicaraguan puro in Ventura's PSyKo SEVEN family, blended by Indiana Ortez and made at the Ortez family factory in Condega. It uses a Nicaraguan-grown Connecticut wrapper from a 2007 crop.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://venturacigar.com/products/psyko-seven/",
+   "https://halfwheel.com/psyko-seven-nicaragua-toro/368042/",
+   "https://www.neptunecigar.com/cigar/psyko-seven-nicaragua"
+  ],
+  "notes": "Ventura calls it medium to full; Neptune lists medium. Sizes are from Ventura's site; halfwheel listed the launch sizes as 5 x 50, 6 x 50 and 6 x 60.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ventura",
+  "line": "Archetype Dreamstate",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "San Vicente",
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Occidental Cigar Factory (Davidoff)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "fruit",
+   "vanilla",
+   "white pepper"
+  ],
+  "about": "A mild to medium blend from the original five Archetype cigars that Ventura Cigar Company launched in 2016, a line themed on the hero's journey. It was made for Ventura at Davidoff's Occidental factory in the Dominican Republic.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://venturacigar.com/ventura-cigar-will-debut-new-cigar-line-ipcpr/",
+   "https://halfwheel.com/ipcpr-2016-ventura-cigar-co/128008/",
+   "https://www.neptunecigar.com/cigar/archetype-dreamstate"
+  ],
+  "notes": "Ventura and halfwheel call the wrapper Dominican Connecticut; Neptune lists Ecuadorian Connecticut Shade and medium strength. Ventura did not publish the binder or filler; the San Vicente binder is from Neptune. Neptune marks it discontinued.",
+  "verified": true,
+  "verifyNotes": "Binder changed from 'Dominican Republic (San Vicente)' to 'San Vicente': only Neptune names a binder and it gives no country. Removed 'mildest of the five' from about and the multi-country filler claim from notes, as no source states either for Dreamstate."
+ },
+ {
+  "brand": "Ventura",
+  "line": "Slaughterhouse",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano (Natural) or Mexican San Andrés (Maduro)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Mexico (Sumatra)",
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "AgroIndustrial Nicaraguense de Tabacos S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A value-priced bundle cigar from Ventura Cigar Company, sold wrapped in brown butcher paper. It uses mixed filler with long filler at the head and comes in Natural and Maduro versions.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://venturacigar.com/products/slaughterhouse/",
+   "https://halfwheel.com/ventura-begins-shipping-slaughterhouse/140420/"
+  ],
+  "notes": "Wrapper fields describe the Natural; the Maduro uses Mexican San Andrés. The filler is an undisclosed multi-country blend. Shown in 2016, shipped from February 2017.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ventura",
+  "line": "Hugo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A value-priced line from Ventura Cigar Company named for Hugo Cassar, the head of its parent distributor Phillips & King. Ventura lists a single mild blend called The Master.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://venturacigar.com/products/hugo/",
+   "https://halfwheel.com/ipcpr-2017-phillips-king/164973/"
+  ],
+  "notes": "Ventura does not publish the binder, the wrapper's origin or where it is rolled. A 50-ring Hugito is also listed, at 3.5 inches in one place and 3.75 in another. Not the same cigar as the Rocky Patel-made Hugo Chairman.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel page that supports the Hugo Cassar and Hugo Chairman statements. Maker page confirmed to give no binder, wrapper origin, country or factory."
+ },
+ {
+  "brand": "Ventura",
+  "line": "Cuban Rejects",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Natural)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Cigarillo",
+    "length": 3.25,
+    "ring": 20
+   }
+  ],
+  "flavors": [],
+  "about": "An unbanded, low-priced cigar that Ventura Cigar Company says has been sold since 1976. The Natural and Maduro are all Nicaraguan tobacco, and there is also an all-Dominican Connecticut version.",
+  "released": 1976,
+  "production": "regular",
+  "sources": [
+   "https://venturacigar.com/products/cuban-rejects/"
+  ],
+  "notes": "Fields describe the Natural; Maduro (Nicaraguan) and Connecticut (all Dominican tobacco) versions are also sold. Ventura does not publish the factory or the country where it is rolled. Its page lists the Natural Torpedo two ways, 5 x 50 and 6 x 52.",
+  "verified": true,
+  "verifyNotes": "Removed 'bundle' from about (not stated on the maker page) and noted that the maker lists the Torpedo size inconsistently. Maker page confirmed to give no country or factory."
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "Appointment",
+  "found": true,
+  "officialName": "Appointment Cameroon",
+  "wrapperLeaf": "Honduran Cameroon-seed",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Honduras",
+  "binder": "United States (Connecticut Broadleaf)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "earth",
+   "cedar",
+   "cream",
+   "pepper"
+  ],
+  "about": "A regular-production El Rey del Mundo from Forged Cigar Company with a Cameroon-seed wrapper grown by the Eiroa family in Honduras. It is rolled at STG Danlí and priced under 10 dollars.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.elreydelmundocigars.com/our-cigars/",
+   "https://www.cigarworld.com/cigars/el-rey-del-mundo/appointment-cameroon/",
+   "https://halfwheel.com/new-el-rey-del-mundo-appointment-gets-eiroa-grown-wrapper/449451/"
+  ],
+  "notes": "The maker now lists it as Appointment Cameroon. halfwheel's launch story gave Ecuadorian and Nicaraguan fillers and a 6 1/2 x 60 Gordo; the maker lists Nicaraguan and Honduran fillers and a 5 x 60 Gordo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "Appointment Brazil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "hazelnut",
+   "cream",
+   "cinnamon",
+   "dark chocolate"
+  ],
+  "about": "The second cigar in El Rey del Mundo's Appointment series, with an Arapiraca wrapper from Brazil's Alagoas region over Nicaraguan binder and filler. It is rolled at STG Danlí in Honduras.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.elreydelmundocigars.com/our-cigars/",
+   "https://www.cigarworld.com/cigars/el-rey-del-mundo/appointment-brazil/",
+   "https://halfwheel.com/el-rey-del-mundo-appointment-brazil-coming-this-month/467345/"
+  ],
+  "notes": "The maker rates it medium bodied; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "Shade Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut Shade (Talanga Valley)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastran)",
+  "filler": "Honduras (Copan, Jamastran)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "cream",
+   "spice",
+   "hay",
+   "cedar"
+  ],
+  "about": "A Honduran puro from El Rey del Mundo with a Connecticut-seed shade wrapper grown in Honduras' Talanga Valley. It is an affordable, mild to medium everyday cigar made at STG Danlí.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.elreydelmundocigars.com/our-cigars/",
+   "https://www.cigarworld.com/cigars/el-rey-del-mundo/shade-grown/",
+   "https://halfwheel.com/el-rey-del-mundo-shade-grown-shipping-to-stores-on-july-1/424894/"
+  ],
+  "notes": "The maker rates it mellow to medium; Neptune lists it as mild. A 6 1/2 x 44 Lonsdale was a limited run of 500 boxes, and the Churchill was added in 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "King of the World",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino (JRE Tobacco)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "cedar",
+   "spice",
+   "cream",
+   "earth",
+   "almonds"
+  ],
+  "about": "A limited-edition Honduran puro made for El Rey del Mundo by Justo Eiroa of JRE Tobacco at the Aladino factory. It was the first El Rey del Mundo to use habano and corojo tobacco.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/jre-made-el-rey-del-mundo-king-of-the-world-coming-to-stores-this-month/442576/",
+   "https://www.cigarworld.com/cigars/el-rey-del-mundo/king-of-the-world/"
+  ],
+  "notes": "Limited to 2,000 boxes of 16 in one 6 x 50 size. The maker's press release calls it medium strength, while its Cigar World page rates the body medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "King of the World VSOP",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua, Dominican Republic (Habano)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited follow-up to El Rey del Mundo King of the World, rolled in 2021 at STG Estelí and aged for more than four years before release. Unlike the Honduran original, it is made in Nicaragua with an Ecuadorian Sumatra wrapper.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-rey-del-mundo-king-of-the-world-vsop-coming-in-april-with-four-plus-years-of-rest-on-it/464709/",
+   "https://www.neptunecigar.com/el-rey-del-mundo-cigar"
+  ],
+  "notes": "Limited to 2,000 boxes of 16. The maker describes it as medium to full bodied; Neptune lists it as full. A different blend and factory from the 2024 King of the World.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "by AJ Fernandez",
+  "found": true,
+  "officialName": "by AJ",
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "United States (Connecticut Broadleaf)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited-edition El Rey del Mundo blended and made by AJ Fernandez in Estelí for Forged Cigar Company. It is a fuller, Nicaraguan-forward take on a brand better known for Honduran cigars.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-rey-del-mundo-by-aj-arrives-at-stores/408821/",
+   "https://www.neptunecigar.com/el-rey-del-mundo-cigar"
+  ],
+  "notes": "Limited to 3,800 boxes of 10 in a single 6 x 52 toro. The maker's press release names it El Rey del Mundo by AJ; retailers list it as by AJ Fernandez. Full strength is Neptune's rating; the maker only calls it fuller-bodied than the regular line.",
+  "verified": true,
+  "verifyNotes": "Notes now say the Full rating comes from Neptune, since the maker's release only says fuller-bodied."
+ }
+]

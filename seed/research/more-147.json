@@ -1,0 +1,886 @@
+[
+ {
+  "brand": "Cibao",
+  "line": "Cibao",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cream",
+   "butterscotch",
+   "sweetness"
+  ],
+  "about": "The original Cibao line from Jose \"Jochy\" Blanco of Tabacalera Palma, named for the Dominican valley where its binder and filler are grown. It is a mellow, budget-priced Dominican cigar with a Connecticut shade wrapper.",
+  "released": 1985,
+  "production": "regular",
+  "sources": [
+   "https://mikescigars.com/brands/cibao",
+   "https://mikescigars.com/cibao-robusto",
+   "https://halfwheel.com/cibao-brand-relaunched-through-smoke-miami/296861/"
+  ],
+  "notes": "Mike's does not say where the Connecticut shade wrapper is grown; Neptune lists Ecuadorian Connecticut Shade for the brand. halfwheel dates the brand to 1985, Neptune to 1986. Neptune also sells a Cibao Cibaitos cigarillo (4 1/4 x 32).",
+  "verified": true,
+  "verifyNotes": "Rewrote notes: Neptune does list a wrapper origin (Ecuadorian Connecticut Shade) for the brand, and it gives 1986 where halfwheel gives 1985. All other fields confirmed against Mike's and halfwheel."
+ },
+ {
+  "brand": "Cibao",
+  "line": "Seleccion Especial Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut shade version of the Cibao Seleccion Especial, the 2019 relaunch of Jochy Blanco's Cibao brand in the US through Smoke Miami. It uses Dominican binder and filler grown by Blanco and is made at his Tabacalera Palma.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/cibao-brand-relaunched-through-smoke-miami/296861/",
+   "https://www.neptunecigar.com/cigar/cibao"
+  ],
+  "notes": "The company called it medium-bodied at launch. halfwheel does not give the wrapper's country; Neptune's Cibao page lists Ecuadorian Connecticut Shade. Launched in 2019, and current availability is unclear.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cibao",
+  "line": "Seleccion Especial Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Ecuadorian habano version of the Cibao Seleccion Especial, the 2019 relaunch of Jochy Blanco's Cibao brand in the US through Smoke Miami. It uses Dominican binder and filler grown by Blanco and is made at his Tabacalera Palma.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/cibao-brand-relaunched-through-smoke-miami/296861/",
+   "https://www.neptunecigar.com/cigar/cibao"
+  ],
+  "notes": "The company called it medium-bodied at launch. Launched in 2019, and current availability is unclear.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cibao",
+  "line": "Seleccion Especial Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Mexican San Andres maduro version of the Cibao Seleccion Especial, the 2019 relaunch of Jochy Blanco's Cibao brand in the US through Smoke Miami. It uses Dominican binder and filler grown by Blanco and is made at his Tabacalera Palma.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/cibao-brand-relaunched-through-smoke-miami/296861/",
+   "https://www.neptunecigar.com/cigar/cibao"
+  ],
+  "notes": "The company called it medium-to-full bodied at launch, the fullest of the three. Launched in 2019, and current availability is unclear.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Kiki",
+  "line": "Brown Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Estelí Cigar Factory",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Figurado",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "chocolate",
+   "spice"
+  ],
+  "about": "One of the original blends from the late Henry \"Don Kiki\" Berger, now made by Karen Berger's company in Esteli. Today it is sold as a short 4 1/2 x 54 figurado with binder and filler from the family's Nicaraguan farm.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://karenbergercigars.com/don-kiki-brown-label-figurado/",
+   "https://www.neptunecigar.com/cigar/don-kiki-brown-label"
+  ],
+  "notes": "The maker only says the wrapper is Ecuadorian; Neptune calls it Ecuadorian Criollo over a Corojo binder. Neptune rates the strength Full and describes the body as medium to full. A barber pole version (maduro and Connecticut wrappers, same size) was added in 2023.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Full and body set to Medium-Full: Neptune's strength field says Full on both the line and product pages, and its 'medium to full' wording describes body. The maker gives no strength. Notes updated to match."
+ },
+ {
+  "brand": "Don Kiki",
+  "line": "Gold Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Estelí Cigar Factory",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "El Gordo",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "spice",
+   "wood"
+  ],
+  "about": "A full-bodied Nicaraguan puro with a maduro wrapper, blended by the late Kiki Berger and made in Esteli by Karen Berger's company.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://karenbergercigars.com/don-kiki-gold-label-2/",
+   "https://www.neptunecigar.com/cigar/don-kiki-gold-label"
+  ],
+  "notes": "The El Gordo (7 x 70) also comes in a barber pole version.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Kiki",
+  "line": "Platinum Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua (Estelí)",
+  "country": "Nicaragua",
+  "factory": "Estelí Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa"
+  ],
+  "about": "A maduro-wrapped blend from Karen Berger's Esteli Cigar Factory, sold under the Don Kiki name in three large ring gauge sizes. The maker describes it as medium-full and smooth.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://karenbergercigars.com/don-kiki-platinum-label/",
+   "https://karenbergercigars.com/our-cigars-2/"
+  ],
+  "notes": "The maker does not say where the maduro wrapper is grown or name the binder. It describes the filler as all from Esteli.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Kiki",
+  "line": "Black Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "sweetness",
+   "leather"
+  ],
+  "about": "A full-bodied Nicaraguan puro with a maduro wrapper and a pigtail cap, sold under the Don Kiki name.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/don-kiki-black-label",
+   "https://www.neptunecigar.com/don-kiki-cigar"
+  ],
+  "notes": "Neptune is the only source and gives no sizes. The maker's site no longer lists a Black Label and Neptune has no cigars for sale under it, so treat it as discontinued.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gianna",
+  "line": "Havana Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bambino",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "toasted wood",
+   "ginger",
+   "butter",
+   "cream"
+  ],
+  "about": "The original La Gianna Havana, first made in 1994 for David Garofalo of Two Guys Smoke Shop to mark the birth of his daughter Gianna. It is a mild Honduran cigar with an Ecuadorian Connecticut wrapper, sold by his United Cigars.",
+  "released": 1994,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/la-gianna-havana-natural/",
+   "https://halfwheel.com/united-cigar-ships-updated-la-gianna/298480/",
+   "https://cigar-coop.com/2019/04/cigar-news-united-cigar-updates-packaging-for-la-gianna-havana.html"
+  ],
+  "notes": "Neptune lists a US Connecticut Broadleaf wrapper and Nicaraguan origin. The maker says Ecuadorian Connecticut, made in Danli, Honduras, and halfwheel agrees on a Connecticut shade wrapper and the Honduran factory.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: halfwheel says Connecticut shade but does not say Ecuadorian; that detail is from the maker. All fields confirmed."
+ },
+ {
+  "brand": "La Gianna",
+  "line": "Havana Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bambino",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "dark berries",
+   "toasted wood",
+   "cocoa"
+  ],
+  "about": "The maduro version of United Cigars' La Gianna Havana, with a Mexican San Andres wrapper over Honduran binder and filler. It is a medium-bodied cigar made in Danli, Honduras.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/la-gianna-havana-maduro/",
+   "https://halfwheel.com/united-cigar-ships-updated-la-gianna/298480/",
+   "https://cigar-coop.com/2019/04/cigar-news-united-cigar-updates-packaging-for-la-gianna-havana.html"
+  ],
+  "notes": "Neptune lists it as made in Nicaragua. The maker and halfwheel say Danli, Honduras.",
+  "verified": true,
+  "verifyNotes": "Removed 'value-priced' from about. All fields confirmed against the maker, halfwheel and Cigar Coop."
+ },
+ {
+  "brand": "La Gianna",
+  "line": "Havana Angelic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut with a sweetened cap",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Habano Criollo)",
+  "filler": "Dominican Republic (Criollo 98), Honduras (Criollo 98, Aleman seco)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "toasted wood",
+   "ginger",
+   "honey",
+   "cream"
+  ],
+  "about": "The sweet-tipped version of La Gianna Havana from United Cigars, with an Ecuadorian Connecticut wrapper and a sweetened cap. It first appeared in 2001, left the market, and came back in 2021.",
+  "released": 2001,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/la-gianna-havana-angelic/",
+   "https://halfwheel.com/la-gianna-havana-angelic-returns-to-market/398693/",
+   "https://cigar-coop.com/2021/07/cigar-news-united-cigars-brings-back-la-gianna-angelic.html"
+  ],
+  "notes": "The cap is sweetened and carries a thin strip of darker San Andres leaf. The maker calls it medium-bodied; Cigar Coop calls it mild to medium. The maker's page lists the filler simply as Honduran, while halfwheel and Cigar Coop include Dominican Criollo 98.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gianna",
+  "line": "Havana 30th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut and Mexican San Andrés (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador, Mexico",
+  "binder": "Honduras (Habano Criollo)",
+  "filler": "Honduras, Dominican Republic, USA",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited barber pole cigar released in 2024 for the 30th anniversary of La Gianna Havana, twisting the Connecticut wrapper of the Natural with the San Andres wrapper of the Maduro. It comes in one 6 x 54 toro in gold boxes of 20.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://unitedcigargroup.com/la-gianna-30th-anniversary/",
+   "https://halfwheel.com/united-cigars-schedules-la-gianna-havana-30th-anniversary-for-pca-2024/436233/",
+   "https://cigar-coop.com/2024/03/united-cigars-to-launch-la-gianna-havana-30th-anniversary-edition-cigar-news.html"
+  ],
+  "notes": "Two wrappers in a barber pole, so no single wrapper category fits. The blend table on the maker's page lists only an Ecuador Connecticut wrapper with Honduran binder and filler, which conflicts with its own text and with halfwheel. United did not say how many boxes were made.",
+  "verified": true,
+  "verifyNotes": "wrapperCategory set to null: the cigar has two wrappers (Ecuadorian Connecticut and Mexican San Andres) and the notes already said no single category fits. Strength is not published by the maker, halfwheel or Cigar Coop. Notes trimmed."
+ },
+ {
+  "brand": "Miami Beach Sweets",
+  "line": "Chocolate",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Corojo",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "sweetness"
+  ],
+  "about": "A chocolate-flavored cigar from Miami Beach Sweets, a flavored brand distributed by Nick Fusco's El Mago Cigars. It is made in Esteli, Nicaragua, in a single tubed 6 x 44 corona.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/miami-beach-sweets",
+   "https://cigar-coop.com/2025/04/el-mago-to-introduce-miami-beach-sweets-at-pca-2025-cigar-news.html",
+   "https://cigar-coop.com/2025/05/pca-2025-el-mago-cigars.html"
+  ],
+  "notes": "Flavored (infused) cigar. Chocolate is one of four flavors that share the same blend and size. The sources do not say where the Habano wrapper or Corojo binder are grown.",
+  "verified": true,
+  "verifyNotes": "Removed 'long-filler' from about: neither Neptune nor Cigar Coop says it. Blend, strength, size and factory confirmed against Neptune and Cigar Coop; El Mago's own site does not list the brand."
+ },
+ {
+  "brand": "Miami Beach Sweets",
+  "line": "Cognac",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Corojo",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cognac",
+   "sweetness"
+  ],
+  "about": "A cognac-flavored cigar from Miami Beach Sweets, a flavored brand distributed by Nick Fusco's El Mago Cigars. It is made in Esteli, Nicaragua, in a single tubed 6 x 44 corona.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/miami-beach-sweets",
+   "https://cigar-coop.com/2025/04/el-mago-to-introduce-miami-beach-sweets-at-pca-2025-cigar-news.html",
+   "https://cigar-coop.com/2025/05/pca-2025-el-mago-cigars.html"
+  ],
+  "notes": "Flavored (infused) cigar. Cognac is one of four flavors that share the same blend and size. The sources do not say where the Habano wrapper or Corojo binder are grown.",
+  "verified": true,
+  "verifyNotes": "Removed 'long-filler' from about: neither Neptune nor Cigar Coop says it. Blend, strength, size and factory confirmed against Neptune and Cigar Coop; El Mago's own site does not list the brand."
+ },
+ {
+  "brand": "Miami Beach Sweets",
+  "line": "Grape",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Corojo",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "grape",
+   "sweetness"
+  ],
+  "about": "A grape-flavored cigar from Miami Beach Sweets, a flavored brand distributed by Nick Fusco's El Mago Cigars. It is made in Esteli, Nicaragua, in a single tubed 6 x 44 corona.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/miami-beach-sweets",
+   "https://cigar-coop.com/2025/04/el-mago-to-introduce-miami-beach-sweets-at-pca-2025-cigar-news.html",
+   "https://cigar-coop.com/2025/05/pca-2025-el-mago-cigars.html"
+  ],
+  "notes": "Flavored (infused) cigar. Grape is one of four flavors that share the same blend and size. The sources do not say where the Habano wrapper or Corojo binder are grown.",
+  "verified": true,
+  "verifyNotes": "Removed 'long-filler' from about: neither Neptune nor Cigar Coop says it. Blend, strength, size and factory confirmed against Neptune and Cigar Coop; El Mago's own site does not list the brand."
+ },
+ {
+  "brand": "Miami Beach Sweets",
+  "line": "Vanilla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Corojo",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "MGE Cigars Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "sweetness"
+  ],
+  "about": "A vanilla-flavored cigar from Miami Beach Sweets, a flavored brand distributed by Nick Fusco's El Mago Cigars. It is made in Esteli, Nicaragua, in a single tubed 6 x 44 corona.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/miami-beach-sweets",
+   "https://cigar-coop.com/2025/04/el-mago-to-introduce-miami-beach-sweets-at-pca-2025-cigar-news.html",
+   "https://cigar-coop.com/2025/05/pca-2025-el-mago-cigars.html"
+  ],
+  "notes": "Flavored (infused) cigar. Vanilla is one of four flavors that share the same blend and size. The sources do not say where the Habano wrapper or Corojo binder are grown.",
+  "verified": true,
+  "verifyNotes": "Removed 'long-filler' from about: neither Neptune nor Cigar Coop says it. Blend, strength, size and factory confirmed against Neptune and Cigar Coop; El Mago's own site does not list the brand."
+ },
+ {
+  "brand": "Broncano",
+  "line": "Vintage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Corojo seed)",
+  "filler": "Dominican Republic (Criollo 98, Corojo)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "cocoa",
+   "leather",
+   "spice"
+  ],
+  "about": "The cigar Broncano Cigar Co. came to market with: a 6 x 52 toro rolled at La Aurora in March 2004 and aged about 20 years before release. Broncano was founded in 2022 by Marine Corps veteran Martin Smith.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://broncanocigars.com/cigars/",
+   "https://broncanocigars.com/our-story/",
+   "https://cigar-coop.com/2025/02/broncano-cigar-co-launches-classic-toro-line-nationwide-cigar-news.html"
+  ],
+  "notes": "Sold as The Vintage Toro, one size only. The maker says it was produced at La Aurora in March 2004 and aged 20 years. Whiskey Network named it its 2024 Cigar of the Year.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences and the unsupported inference about a single production run removed. All fields confirmed against the maker and Cigar Coop."
+ },
+ {
+  "brand": "Broncano",
+  "line": "Royal Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Monteplata)",
+  "filler": "Dominican Republic (Criollo 98 seco, Corojo), USA (Broadleaf ligero), Africa (seco)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory (KBF)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "sweetness",
+   "cocoa",
+   "leather",
+   "roasted nuts"
+  ],
+  "about": "Part of Broncano's Classic line, a 6 x 52 toro made at Hendrik Kelner Jr.'s Kelner Boutique Factory in the Dominican Republic. It pairs an Ecuadorian Habano wrapper with a Dominican binder and a four-part filler blend.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://broncanocigars.com/cigars/",
+   "https://cigar-coop.com/2025/02/broncano-cigar-co-launches-classic-toro-line-nationwide-cigar-news.html"
+  ],
+  "notes": "Sold as The Royal Blue Toro, one size only. It went nationwide in February 2025 after a soft launch at select retailers. The maker does not publish a strength for this blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Broncano",
+  "line": "Silver",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic (Criollo 98, Corojo)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "earth",
+   "black pepper",
+   "sweetness"
+  ],
+  "about": "Part of Broncano's Classic line, a 6 x 50 toro with a Mexican San Andres wrapper over an Ecuadorian Habano binder and Dominican filler. The maker rates it medium to full.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://broncanocigars.com/cigars/",
+   "https://cigar-coop.com/2025/02/broncano-cigar-co-launches-classic-toro-line-nationwide-cigar-news.html"
+  ],
+  "notes": "Sold as The Silver Toro, one size only. Broncano has not disclosed the factory or country where it is made. It went nationwide in February 2025 after a soft launch at select retailers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Broncano",
+  "line": "Rubí",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic (Criollo 98, Piloto Cubano), Mexico (San Andrés Morron), USA (Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory (KBF)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "cocoa",
+   "earth",
+   "coffee",
+   "leather"
+  ],
+  "about": "The third cigar in Broncano's Classic line, a 6 x 52 toro made at Kelner Boutique Factory in the Dominican Republic. It uses an HVA Ecuador wrapper over a Dominican San Vicente binder and a multi-country filler.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://broncanocigars.com/cigars/",
+   "https://cigar-coop.com/2025/11/broncano-expands-classic-line-with-rubi-toro-cigar-news.html"
+  ],
+  "notes": "Sold as The Rubí Toro, one size only. The maker lists the wrapper as HVA Ecuador without explaining the term; HVA is a Habano-seed variety, so it is filed under Habano. The maker does not publish a strength for this blend.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf changed to 'Ecuadorian HVA' to match the maker and Cigar Coop, neither of which calls it Habano; the Habano category is the closest fit, not a quoted fact. Notes updated."
+ }
+]

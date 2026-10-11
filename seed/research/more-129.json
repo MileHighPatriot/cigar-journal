@@ -1,0 +1,949 @@
+[
+ {
+  "brand": "Valacari",
+  "line": "Neoclassic Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "roasted nuts",
+   "coffee"
+  ],
+  "about": "The original Valacari blend, a Nicaraguan puro with a Habano wrapper from the small company Nimmer Ahmad founded in 2016. It is the medium-bodied core of the Neoclassic family.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://valacari.com/neoclassic/",
+   "https://halfwheel.com/valacari-overhauls-packaging-adds-decimus-for-10th-anniversary/466192/",
+   "https://halfwheel.com/pca-2026-valacari-cigars/466330/"
+  ],
+  "notes": "Valacari moved all production from Tabacalera Pages de Nicaragua to La Tabacaria Cigars in Esteli in fall 2025. Since 2026 every core line comes only as a 5 x 54 robusto and a 6 x 52 toro, in boxes of 20.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on valacari.com and halfwheel. Only reworded the note: halfwheel dates the factory move to fall 2025."
+ },
+ {
+  "brand": "Valacari",
+  "line": "Neoclassic Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Valacari's Connecticut shade cigar, with an Ecuadorian wrapper over Nicaraguan binder and filler. It was sold as The Messenger until the 2026 rebrand put it alongside the Neoclassic Habano.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://valacari.com/neoclassic/",
+   "https://halfwheel.com/valacari-overhauls-packaging-adds-decimus-for-10th-anniversary/466192/",
+   "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-valacari-the-messenger-toro/"
+  ],
+  "notes": "This is The Messenger renamed in 2026; The Messenger first came out in October 2019. Older Messenger specs listed fillers from Jalapa, Condega and Ometepe.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Valacari",
+  "line": "Nobility",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Valacari's maduro core line, a medium to full blend of Nicaraguan binder and filler under a dark wrapper. It is aimed at smokers who want something bolder than the Neoclassic.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://valacari.com/nobility/",
+   "https://halfwheel.com/valacari-overhauls-packaging-adds-decimus-for-10th-anniversary/466192/",
+   "https://cigar-coop.com/2026/04/valacari-announces-limited-edition-decimus-for-10th-anniversary-and-announces-portfolio-rebrand-cigar-news.html"
+  ],
+  "notes": "Sources disagree on the wrapper. Valacari's site lists Mexican San Andres maduro, but halfwheel and Cigar Coop reported in April 2026 that Nobility was reblended with an Ecuadorian maduro wrapper. Check the box.",
+  "verified": true,
+  "verifyNotes": "No changes. The wrapper conflict is real: Valacari's Nobility page (updated May 2026, new sizes) still says Mexican San Andres, while halfwheel, Cigar Coop and Cigar Dojo all report an Ecuadorian maduro reblend. Kept the maker's wording per the brief."
+ },
+ {
+  "brand": "Valacari",
+  "line": "Lumineer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan puro with a Habano 2000 wrapper, introduced by Valacari at the 2025 PCA show after about four years of development.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://valacari.com/lumineer/",
+   "https://halfwheel.com/pca-2025-valacari-cigars/450882/",
+   "https://halfwheel.com/valacaris-new-lumineer-begins-shipping/453548/"
+  ],
+  "notes": "Valacari calls it medium plus. It launched in 2025 as a 5 x 50 robusto, 6 x 52 toro and 6 x 60 gordo; the 2026 lineup is a 5 x 54 robusto and a 6 x 52 toro.",
+  "verified": true,
+  "verifyNotes": "Blend, strength and sizes confirmed. Rewrote about to drop the maker's promotional wording."
+ },
+ {
+  "brand": "Valacari",
+  "line": "Astronomia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "Valacari's broadleaf cigar, with an American-grown Connecticut Broadleaf maduro wrapper over an Ometepe binder and Nicaraguan filler. It joined the core line in late November 2024 and is the fullest of the regular blends.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://valacari.com/astronomia/",
+   "https://valacari.com/release-of-astronomia/",
+   "https://halfwheel.com/valacari-overhauls-packaging-adds-decimus-for-10th-anniversary/466192/"
+  ],
+  "notes": "Sizes above are from Valacari's page. halfwheel reported that from 2026 Astronomia is sold only as a 5 x 54 robusto and a 6 x 52 toro, so the 5 x 50 and corona gorda may be older stock.",
+  "verified": true,
+  "verifyNotes": "No changes. Valacari's Astronomia page was last edited in August 2025, before the 2026 size change, so its three sizes may be out of date; halfwheel lists a 5 x 54 robusto and 6 x 52 toro for 2026. The note already says this."
+ },
+ {
+  "brand": "Valacari",
+  "line": "Decimus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "leather",
+   "black pepper",
+   "nuts",
+   "bread"
+  ],
+  "about": "Valacari's tenth anniversary cigar, named with the Latin word for tenth. It pairs a Mexican San Andres maduro wrapper with all Nicaraguan binder and filler, and Valacari calls it its boldest blend.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://valacari.com/decimus/",
+   "https://halfwheel.com/valacari-decimus/475382/",
+   "https://halfwheel.com/pca-2026-valacari-cigars/466330/"
+  ],
+  "notes": "Limited to 500 boxes of 20 (10,000 cigars) a year. Sold as a single 6 x 52 toro, though Cigar Coop's announcement also listed a 5 x 54 robusto. Strength and flavors are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, size and strength confirmed. Attributed the 'boldest blend' claim to Valacari and tightened the note. halfwheel's review table says regular production, but its news story and Valacari both say limited, so limited stays."
+ },
+ {
+  "brand": "Valacari",
+  "line": "MK-5 Moon Valley",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A limited edition in Valacari's numbered MK series. Valacari lists it among its limited editions but has not published the blend.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://valacari.com/limited-editions/",
+   "https://halfwheel.com/pca-2026-valacari-cigars/466330/"
+  ],
+  "notes": "Confirmed by name only. Valacari has not published the wrapper, blend, size or year.",
+  "verified": true,
+  "verifyNotes": "Name confirmed on Valacari's limited editions page and in halfwheel's PCA 2026 report. Valacari publishes no blend, size or year, and halfwheel, Cigar Coop, Developing Palates and Cigar Dojo have no article on it. Shortened the note. Web search was unavailable, so retailer listings were not checked."
+ },
+ {
+  "brand": "Valacari",
+  "line": "MK-15 Bumblebee",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A limited edition in Valacari's numbered MK series. Valacari lists it among its limited editions but has not published the blend.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://valacari.com/limited-editions/",
+   "https://halfwheel.com/pca-2026-valacari-cigars/466330/"
+  ],
+  "notes": "Confirmed by name only. Valacari has not published the wrapper, blend, size or year.",
+  "verified": true,
+  "verifyNotes": "Name confirmed on Valacari's limited editions page and in halfwheel's PCA 2026 report. Valacari publishes no blend, size or year, and halfwheel, Cigar Coop, Developing Palates and Cigar Dojo have no article on it. Shortened the note. Web search was unavailable, so retailer listings were not checked."
+ },
+ {
+  "brand": "Valacari",
+  "line": "MK-20 Holotype",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A limited edition in Valacari's numbered MK series. Valacari lists it among its limited editions but has not published the blend.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://valacari.com/limited-editions/",
+   "https://halfwheel.com/pca-2026-valacari-cigars/466330/"
+  ],
+  "notes": "Confirmed by name only. Valacari has not published the wrapper, blend, size or year.",
+  "verified": true,
+  "verifyNotes": "Name confirmed on Valacari's limited editions page and in halfwheel's PCA 2026 report. Valacari publishes no blend, size or year, and halfwheel, Cigar Coop, Developing Palates and Cigar Dojo have no article on it. Shortened the note. Web search was unavailable, so retailer listings were not checked."
+ },
+ {
+  "brand": "Valacari",
+  "line": "Neoclassic Grand Tour",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A dated limited edition offshoot of Valacari's Neoclassic line. Valacari's site shows 2023 and 2025 editions in its archive and a 2026 edition as coming soon.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://valacari.com/limited-editions/"
+  ],
+  "notes": "Valacari lists editions dated 2023 and 2025, with 2026 coming soon. It has not published the wrapper, blend or size.",
+  "verified": true,
+  "verifyNotes": "Set released to null: 2023 is only the earliest edition on Valacari's archive list, and no source says it was the first. Name and limited status confirmed on valacari.com; no other outlet covers it. Web search was unavailable, so retailer listings were not checked."
+ },
+ {
+  "brand": "Valacari",
+  "line": "Nereus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan sun grown Habano (Esteli)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Esteli)",
+  "filler": "Nicaragua (Condega, Esteli)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gordito (box-pressed)",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "pepper",
+   "wood",
+   "bread"
+  ],
+  "about": "A 2026 collaboration between Valacari and Lure Cigars, released for the Year of the Horse with a seahorse theme. It is a box-pressed Nicaraguan puro with five-year-old fillers, limited to 2,500 cigars.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/valacari-lure-team-up-for-nereus/462224/",
+   "https://halfwheel.com/nereus/465433/"
+  ],
+  "notes": "A joint Lure and Valacari release, so it may be shelved under either brand. 250 bundles of 10. No official strength: halfwheel's review found two of three cigars mild in nicotine with medium to medium plus body, and the third noticeably stronger.",
+  "verified": true,
+  "verifyNotes": "Set strength to null. The only source is one halfwheel review that called two cigars mild but the third strong enough to bother the reviewer, and neither maker publishes a strength. Blend, factory, size and production confirmed on halfwheel and Cigar Dojo."
+ },
+ {
+  "brand": "Crux",
+  "line": "Epicure",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.375,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Short Salomone",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "caramel",
+   "vanilla",
+   "cedar",
+   "pepper"
+  ],
+  "about": "The first Connecticut shade line from Crux, a Minnesota-founded brand, made for it by Plasencia in Esteli. It reached stores in late 2017 and is the red-banded original of the three Epicure blends.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/epicure/",
+   "https://halfwheel.com/crux-epicure-gordo/382052/",
+   "https://www.neptunecigar.com/cigar/crux-epicure-shade"
+  ],
+  "notes": "Some retailers list it as Epicure Shade. halfwheel's review found mild to medium strength with fuller body; Neptune's spec table says medium. The Short Salomone finished 15th in halfwheel's 2019 Consensus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crux",
+  "line": "Epicure Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Seco",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.375,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "walnut",
+   "espresso",
+   "wood",
+   "earth",
+   "pepper"
+  ],
+  "about": "The third Epicure blend from Crux, a Nicaraguan puro that keeps the Epicure binder and filler and adds a Nicaraguan habano seco wrapper. It shipped in June 2023 and the Toro made halfwheel's Top 25 of 2024 at number 17.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/epicure-habano/",
+   "https://halfwheel.com/crux-epicure-habano-toro/438018/",
+   "https://halfwheel.com/crux-epicure-habano-toro-2/448283/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Swapped the Cigar Coop link for halfwheel's 2025 redux review, which is the page that states the number 17 finish on the 2024 Top 25."
+ },
+ {
+  "brand": "Crux",
+  "line": "Epicure Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.375,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Short Salomone",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "earth",
+   "pepper",
+   "dried fruit",
+   "cedar"
+  ],
+  "about": "The maduro version of Crux Epicure and the brand's first San Andres cigar, with a Mexican maduro wrapper over Nicaraguan binder and filler. It was previewed in 2018 as Epicure Galant and shipped under the Maduro name in May 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/epicure-maduro/",
+   "https://halfwheel.com/crux-epicure-maduro-ships/299103/",
+   "https://cigar-coop.com/2020/07/cigar-review-crux-epicure-maduro-gordo.html"
+  ],
+  "notes": "halfwheel and Cigar Coop say it is made at AJ Fernandez, the one Crux line not from Plasencia at the time; Neptune's spec table lists Plasencia. It was first announced as Epicure Galant, renamed over a trademark concern.",
+  "verified": true,
+  "verifyNotes": "Blend, AJ Fernandez factory, sizes and strength confirmed. Replaced flavors with the ones Cigar Coop's review actually names; chocolate described the wrapper color and baking spice was not there."
+ },
+ {
+  "brand": "Crux",
+  "line": "Bull & Bear",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano from Esteli and Jalapa)",
+  "filler": "Nicaragua (Esteli, Condega, Ometepe, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo Marblehead",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "chocolate",
+   "earth",
+   "pepper"
+  ],
+  "about": "A Nicaraguan puro with a Jalapa habano wrapper and one of the first lines Crux launched in 2014. It leans toward larger ring gauges and was repackaged in 2019.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/bullandbear/",
+   "https://halfwheel.com/crux-cigars-plans-three-new-lines-may/51487/",
+   "https://www.neptunecigar.com/cigar/crux-bull-and-bear"
+  ],
+  "notes": "Neptune describes the wrapper as a Habano maduro. Robusto Extra and Gordo dimensions are from the 2014 launch specs; the Toro was added in 2019 and the Double Corona in 2021. The Gordo has Crux's Marblehead cap, a 109-style head.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and strength confirmed. Toro (6 x 52, 2019) and Double Corona (7 x 54, 2021) confirmed in halfwheel stories 369506 and 396429. Dropped cedar from flavors because no opened source names it."
+ },
+ {
+  "brand": "Crux",
+  "line": "Guild",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Toro Extra Box-Pressed Marblehead",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Short Salomone",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "pepper",
+   "leather",
+   "oak",
+   "coffee"
+  ],
+  "about": "A Crux line with an Ecuadorian habano wrapper over Nicaraguan binder and filler, made at Plasencia in Esteli. It was shown in 2015 and began shipping in May 2016.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/guild/",
+   "https://halfwheel.com/crux-guild-robusto-extra/119647/",
+   "https://blindmanspuff.com/blind-cigar-review-crux-guild-toro/"
+  ],
+  "notes": "Strength reads differently by reviewer: Blind Man's Puff called it medium-strong and Cigar Coop a stronger cigar, while halfwheel found it medium. A 5 1/4 x 54 Robusto Extra was in the original lineup but is not on Crux's current list.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crux",
+  "line": "Du Connoisseur",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Honduras",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "No. 1 Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "No. 2 Short Lancero",
+    "length": 6.5,
+    "ring": 38
+   },
+   {
+    "name": "No. 3 Panatella",
+    "length": 5.625,
+    "ring": 35
+   },
+   {
+    "name": "No. 4 Corona Gorda",
+    "length": 5.375,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "espresso",
+   "earth",
+   "cedar",
+   "baking spice",
+   "pepper"
+  ],
+  "about": "Crux's small ring gauge line, a nod to the Cuban Partagas Serie du Connaisseur, with a Jalapa habano wrapper over a Nicaraguan binder and Honduran filler. It first shipped in January 2016 and came back in new packaging in 2021 after a hiatus.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/du-connoisseur/",
+   "https://halfwheel.com/crux-du-connoisseur-returns-with-new-look/396079/",
+   "https://blindmanspuff.com/crux-du-connoisseur-no-2-2021-blind-cigar-review/"
+  ],
+  "notes": "Announced at the 2015 trade show, so some sources date it 2015. Off the market from late 2019 until June 2021; the blend did not change. Strength and body are from Blind Man's Puff's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crux",
+  "line": "Passport",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Super Selection No. 1",
+    "length": 6,
+    "ring": 42
+   },
+   {
+    "name": "Super Selection No. 2",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Super Selection No. 3",
+    "length": 6.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "espresso",
+   "floral",
+   "cocoa",
+   "sweet spice",
+   "earth"
+  ],
+  "about": "One of the first Crux blends from 2014, dropped before the 2019 rebrand and brought back in January 2026 with a new blend. The current version uses an Ecuadorian habano wrapper over Nicaraguan and Honduran tobaccos in three sizes of 48 ring gauge or less.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/passport/",
+   "https://halfwheel.com/crux-ships-reblended-passport-line/461245/",
+   "https://cigar-coop.com/2026/09/crux-passport-super-selection-no-3-2026-cigar-review.html"
+  ],
+  "notes": "Specs are for the 2026 reblend. The 2014 original had a Jalapa wrapper and binder with Esteli and Jamastran fillers. Reviewers vary on strength: Cigar Coop found medium rising to medium-full, Developing Palates ranged from medium to full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Small wording change in about."
+ },
+ {
+  "brand": "Crux",
+  "line": "Limitada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Enganoso (habano seed, Esteli)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "USA Connecticut Broadleaf",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gunner",
+    "length": 5.375,
+    "ring": 46
+   },
+   {
+    "name": "The Show",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "PB5",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Red Line",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Short Salomone",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "plum",
+   "chocolate",
+   "baking spice"
+  ],
+  "about": "Crux's once-a-year limited line, built around a Nicaraguan Enganoso wrapper the company says is grown only for it, over a Connecticut broadleaf binder. It started with the box-pressed PB5 and has grown to several sizes that share the blend.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://cruxcigars.com/limitada/",
+   "https://halfwheel.com/crux-announces-limitada-pb5-for-ipcpr-2015/90272/",
+   "https://cigar-coop.com/2019/10/cigar-review-crux-limitada-short-salomone-2019.html"
+  ],
+  "notes": "Crux says about 1,000 boxes are made a year. The PB5 was announced in 2015 and first shipped in 2016, so sources give either year. Neptune calls it full-bodied; Cigar Coop found medium strength with medium to full body.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Swapped in halfwheel's 2015 announcement, the page that calls the Enganoso wrapper habano seed. The Dominican and Nicaraguan filler is from halfwheel's 2020 story (halfwheel.com/crux-ships-limited-the-show-2020-pb5/375971/); Cigar Coop lists the filler as undisclosed."
+ },
+ {
+  "brand": "Crux",
+  "line": "Marblehead",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Colorado Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pages de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "wood",
+   "pepper",
+   "spice",
+   "cocoa",
+   "earth"
+  ],
+  "about": "Crux's value-priced line, named for the company's Marblehead cap, a 109-style head between a belicoso and a rounded cap. It was shown at PCA 2025, shipped in January 2026, and is the first Crux cigar made at Tabacalera Pages.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/marblehead/",
+   "https://halfwheel.com/pca-2025-crux-cigars/449291/",
+   "https://cigar-coop.com/2026/10/crux-marblehead-toro-cigar-review.html"
+  ],
+  "notes": "Crux calls it medium-full bodied, but Cigar Coop and Developing Palates both found it medium. Crux lists the binder and filler together as Nicaraguan and Indonesian; halfwheel gives an Indonesian binder and Nicaraguan filler. Also sold as Marblehead Habano.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. The halfwheel link the researcher cited only says Nicaraguan and Indonesian tobacco; the Indonesian binder and Nicaraguan filler split is in halfwheel's PCA 2025 report, so that link replaces it."
+ },
+ {
+  "brand": "Crux",
+  "line": "Marblehead Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pages de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "pepper"
+  ],
+  "about": "The maduro follow-up to Crux's value-priced Marblehead line, with a Mexican San Andres wrapper over Nicaraguan binder and filler. It was announced at PCA 2026 and began shipping in June 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://cruxcigars.com/marbleheadmaduro/",
+   "https://halfwheel.com/crux-shipping-marblehead-maduro-to-stores-june-1/471914/",
+   "https://halfwheel.com/crux-marblehead-maduro-toro/477485/"
+  ],
+  "notes": "Both sizes have the Marblehead cap, Crux's 109-style head. halfwheel's review found full flavor with body and strength building from just under medium to medium plus.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

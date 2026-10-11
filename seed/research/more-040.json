@@ -1,0 +1,1021 @@
+[
+ {
+  "brand": "Villiger",
+  "line": "1888 Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Coronita",
+    "length": 5.75,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "pepper",
+   "chocolate",
+   "honey"
+  ],
+  "about": "Villiger's Nicaraguan-made take on its 1888 brand, rolled at the company's own Esteli factory, which is run in partnership with Joya de Nicaragua. It is priced as an everyday box cigar and uses some Pennsylvania ligero in the filler.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.villigercigars.com/en/product/big-cigars/villiger-1888-nicaragua/",
+   "https://halfwheel.com/review-villiger-1888-nicaragua-gordo/441723/",
+   "https://halfwheel.com/villiger-1888-nicaragua-coming-to-u-s-this-summer/423787/"
+  ],
+  "notes": "Launched in Germany and Switzerland in 2022 and in the U.S. in 2023. Villiger's own pages give the Coronita different lengths; halfwheel and Neptune list the U.S. size as 5 3/4 x 43. A 6 x 58 Perfecto was also shown in 2024.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes only. Villiger rates it 3.5 of 5 and calls it medium-bodied; halfwheel and Neptune say medium."
+ },
+ {
+  "brand": "Villiger",
+  "line": "1888 Gran Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "oak",
+   "dark chocolate",
+   "earth",
+   "leather",
+   "black pepper"
+  ],
+  "about": "A box-pressed 6 x 54 limited edition from Villiger's Esteli factory, released in 2025 as the first cigar in a Gran Reserva program. The program requires tobacco aged at least two years and cigars rested a year after rolling.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villiger-1888-gran-reserva/452984/",
+   "https://halfwheel.com/pca-2025-villiger/448634/"
+  ],
+  "notes": "One size only, 1,000 boxes of 10. Villiger calls it medium-full; Neptune lists it as medium. Villiger also sold an unrelated cigar called 1888 Gran Reserva in 2010.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Villiger",
+  "line": "1888 San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "black pepper",
+   "nuts"
+  ],
+  "about": "A San Andres wrapped addition to Villiger's 1888 brand, made at the company's Esteli factory. It began shipping to U.S. stores in June 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-1888-san-andres-coming-next-week/472834/",
+   "https://www.villigercigars.com/en-us/product/big-cigars/villiger-1888-san-andres/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Added Villiger's U.S. page as a source; it rates the line 4 of 5 and does not mark it limited."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Cuellar Black Forest",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "spice",
+   "leather",
+   "pepper",
+   "cedar"
+  ],
+  "about": "The dark, maduro member of Villiger's Cuellar family, made by Jochy Blanco's Tabacalera Palma in the Dominican Republic. It is named for Germany's Black Forest and is the strongest of the three Cuellar blends.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-cuellar-black-forest-toro-gordo/369706/",
+   "https://halfwheel.com/villiger-adding-lonsdale-to-cuellar-black-forest-kreme-lines/442147/",
+   "https://www.villigercigars.com/en-us/product/big-cigars/villiger-cuellar-black-forest/"
+  ],
+  "notes": "Villiger rates it 4 of 5 and Holt's lists it as medium-full, while Neptune and Famous Smoke's spec table list it as full. Famous lists the Lonsdale as 6 x 44, halfwheel as 6 1/2 x 44.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full: the maker rates it 4 of 5, Holt's and Famous Smoke's own description say medium-full, and halfwheel's review found it just over medium. Swapped the Neptune link for Villiger's page."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Cuellar Connecticut Kreme",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (piloto ligero)",
+  "filler": "Dominican Republic (Cuban-seed, Criollo '98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cream",
+   "bread",
+   "toast",
+   "pepper"
+  ],
+  "about": "The mild Connecticut member of Villiger's Cuellar family, made by Jochy Blanco's Tabacalera Palma in the Dominican Republic. It was built to be an especially creamy Connecticut and is named for Diego Velazquez de Cuellar, the first Spanish governor of Cuba.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-cuellar-kreme-lonsdale/445427/",
+   "https://halfwheel.com/three-new-lines-coming-villiger/47005/",
+   "https://www.neptunecigar.com/cigar/villiger-cuellar-connecticut-kreme"
+  ],
+  "notes": "Villiger bills it as mild-plus and rates it 2 of 5; Neptune lists it as mild. The box spells the name Cuellar Kreme with accents. halfwheel's 2024 list shows the Robusto as 5 x 50, while Villiger and Neptune show 5 x 48.",
+  "verified": true,
+  "verifyNotes": "Replaced the Neptune brand page with the product page that carries the specs. Added Villiger's 2 of 5 rating to notes."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Cuellar Caribe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "nuts",
+   "black pepper",
+   "leather"
+  ],
+  "about": "The third Cuellar blend from Villiger, made at Tabacalera Palma in the Dominican Republic. It is a reworked version of the Villiger TAA Exclusive 2021 and sits between the Kreme and the Black Forest in strength.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-cuellar-caribe-robusto/452037/",
+   "https://www.neptunecigar.com/cigar/villiger-cuellar-caribe"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Replaced the Neptune brand page with the product page that carries the specs. Villiger rates it 3 of 5."
+ },
+ {
+  "brand": "Villiger",
+  "line": "La Capitana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 43
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "almond",
+   "cinnamon",
+   "orange peel",
+   "vanilla"
+  ],
+  "about": "A mild Connecticut-wrapped cigar from Villiger's Esteli factory, with teal packaging showing a woman at the helm of a ship. The name is Spanish for a female captain.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-revamps-la-capitana/448734/",
+   "https://halfwheel.com/pca-2025-villiger/448634/",
+   "https://www.villigercigars.com/en-us/product/big-cigars/la-capitana1/"
+  ],
+  "notes": "This is the 2025 reblend. The earlier La Capitana was a Nicaraguan puro made in the Dominican Republic with red and blue packaging. Villiger calls it mild to medium; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Added the flavors Villiger publishes on its U.S. page and pointed the maker link at that page, which lists all four sizes."
+ },
+ {
+  "brand": "Villiger",
+  "line": "La Libertad",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo (Jalapa)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (Cibao Valley)",
+  "filler": "Nicaragua (Jalapa seco, Esteli viso and ligero)",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "spice",
+   "caramel"
+  ],
+  "about": "A value-priced Villiger line in red, black and white packaging with the slogan Viva La Libertad. Since 2021 it has been made at the company's own factory in Esteli with a Nicaraguan criollo wrapper.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.villigercigars.com/en/product/big-cigars/la-libertad/",
+   "https://halfwheel.com/villiger-to-release-updated-la-libertad-at-tpe-2022/402888/",
+   "https://halfwheel.com/villiger-la-libertad-gordito-shipping-next-week/434322/"
+  ],
+  "notes": "The current blend dates from 2021 and reached the U.S. in January 2022. Older La Libertad cigars used a Brazilian wrapper and were made in Honduras by Plasencia, then at ABAM in the Dominican Republic. Villiger calls it medium-plus and rates it 4 of 5.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes only."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Corrida",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto+",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Toro+",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "pepper",
+   "earth",
+   "leather",
+   "nuts",
+   "coffee"
+  ],
+  "about": "A Villiger family of handmade cigars in carbon-fibre style packaging, sold as four separate blends named for their country: Honduras, Dominican Republic, Nicaragua and Brazil. The sizes are slightly thicker than standard, hence the plus in the names.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.villigercigars.com/en/product/big-cigars/corrida/",
+   "https://www.villigercigars.com/en-us/product/big-cigars/corrida/"
+  ],
+  "notes": "Four different blends share the name, so there is no single wrapper, country or strength. Villiger rates them 2.5 of 5 (Dominican Republic, Ecuador wrapper), 3.5 (Brazil, Arapiraca wrapper), 4 (Honduras) and 5 (Nicaragua).",
+  "verified": true,
+  "verifyNotes": "Confirmed on Villiger's pages that wrapper, country and strength differ by blend, so they stay null. Removed the claim that the Brazil blend is Toro+ only (the U.S. page also lists a Robusto+) and added the two wrappers Villiger does name. Swapped the category page for the U.S. product page."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Villa Dominicana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Piloto), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A mild, lightly spicy Dominican-made cigar from Villiger with an Ecuadorian Connecticut wrapper over an Indonesian binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.villigercigars.com/en/product/big-cigars/villa-dominicana/",
+   "https://www.villigercigars.com/de/produkt/big-cigars/villa-dominicana/"
+  ],
+  "notes": "Villiger rates it 2 of 5 for strength. The English page says the wrapper comes from Indonesia, but the German original makes clear that is the binder. Sizes are converted from Villiger's metric figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Villiger",
+  "line": "1492",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Minuto",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "Perla",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "Campañas",
+    "length": 4.7,
+    "ring": 51
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Perfecto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.4,
+    "ring": 43
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "toast"
+  ],
+  "about": "A mild Dominican-made Villiger line named for the year Columbus reached the New World and brought tobacco back to Europe. It is a European-market cigar that also gets limited Discovery Edition releases.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.villigercigars.com/en/product/big-cigars/villiger-1492/",
+   "https://moodiedavittreport.com/villiger-adds-new-robusto-format-to-1492-cigar-line/",
+   "https://halfwheel.com/villiger-adds-1492-discovery-edition-robusto/443650/"
+  ],
+  "notes": "Villiger rates it 2 of 5 and names only tobaccos from Ecuador, Indonesia and the Dominican Republic; trade press gives the binder as Indonesian. The limited Discovery Edition (2023 Gran Toro, 2024 Robusto) uses a Dominican piloto ligero binder and is not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "The binder had been copied from the limited Discovery Edition. Changed it to Indonesia for the regular line, per Villiger's listed tobacco origins, Moodie Davitt and Cigars Lover. Rewrote notes and added a source."
+ },
+ {
+  "brand": "Villiger",
+  "line": "San'Doro Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva (TABOLISA)",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "espresso",
+   "leather",
+   "earth",
+   "cedar",
+   "cream"
+  ],
+  "about": "The Connecticut-wrapped blend in Villiger's three-part San'Doro line, alongside the Colorado and the Brazilian Maduro. It uses Nicaraguan binder and filler and launched in 2015.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-shipping-sandoro/97762/",
+   "https://halfwheel.com/villiger-announces-opening-of-new-nicaraguan-factory/402096/",
+   "https://www.neptunecigar.com/cigar/villiger-san-doro-claro"
+  ],
+  "notes": "Made at Oliva's TABOLISA factory at its 2015 launch; in 2021 Villiger said the line would move to its own factory in Esteli. Neptune lists it as mild, Villiger rates it 2.5 of 5, and halfwheel's review of a 2020 limited size put it between mild and medium.",
+  "verified": true,
+  "verifyNotes": "Rewrote notes and swapped one source so the 2021 factory move is backed by a listed page. Factory left as the launch factory because no page confirms the move happened. Body comes from halfwheel's March 2020 news item, which calls the Claro medium-bodied."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Limited Release",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (most releases)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexican San Andres (No. 049); Dominican Republic (No. 041, No. 051)",
+  "filler": "Nicaragua (No. 049); Dominican Republic (No. 041, No. 051)",
+  "country": "Nicaragua, Dominican Republic",
+  "factory": "Villiger de Nicaragua (No. 049); ABAM Cigars (No. 041, No. 051)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (2023, box-pressed)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "No. 041 Petit Robusto",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "No. 049 Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 051 Toro Extra",
+    "length": 6.625,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Villiger's Limited Release (VLR) series is a run of small-batch cigars, each with its own blend, aged six months before release and sold through a small group of retailers. The numbers refer to the aging-room shelf where the cigars rested.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villiger-releasing-vlr-no-049-051-next-week/445317/",
+   "https://halfwheel.com/villiger-limited-release-no-041-heads-to-stores/438807/",
+   "https://www.neptunecigar.com/cigar/villiger-limited-release"
+  ],
+  "notes": "Every release is a different blend of about 4,000 to 5,000 cigars. The first, a 2023 Toro, had a Mexican San Andres wrapper; No. 049 uses a habano oscuro wrapper. Red bands mean made in Nicaragua, blue and gold mean made at ABAM in the Dominican Republic.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes only. Strength is Neptune's rating; halfwheel's review of No. 051 found it mild."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Miami",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Desflorado",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "ABAM Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "2022 Laguito No. 1",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "2022 Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "2023 Canonazo",
+    "length": 5.875,
+    "ring": 53
+   }
+  ],
+  "flavors": [
+   "oak",
+   "walnut",
+   "leather",
+   "brown sugar",
+   "almond",
+   "honey"
+  ],
+  "about": "A limited Villiger line that began as the cigar handed to visitors at the company's Miami office. Despite the name it is made in the Dominican Republic, at the ABAM factory under blender Jose Matias Maragoto.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villiger-miami-2022-laguito-no-1/414790/",
+   "https://halfwheel.com/villiger-miami-2023/430184/",
+   "https://www.villigercigars.com/en-us/product/big-cigars/villiger-miami/"
+  ],
+  "notes": "Not made in Miami. The blend shown is the 2022 release (500 boxes of 10 per size); the 2023 Canonazo has an Ecuadorian habano wrapper and some Peruvian filler. Villiger rates it 3 of 5, and halfwheel found the 2022 Laguito closer to medium-full.",
+  "verified": true,
+  "verifyNotes": "Flavors had come from Famous Smoke's copy for a different, habano-wrapped version; replaced with the ones Villiger publishes for the 2022 blend. Swapped two sources for halfwheel's 2022 review and Villiger's page, and trimmed notes."
+ },
+ {
+  "brand": "Villiger",
+  "line": "TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (2024 release)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fabrica de Puros Maya Selva Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "2024 Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "grass",
+   "earth",
+   "coffee",
+   "citrus"
+  ],
+  "about": "Villiger's yearly limited edition for retailers in the Tobacconists' Association of America. The company has a different factory make it each year, so every release is a different blend.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villiger-taa-exclusive-2024/446739/",
+   "https://halfwheel.com/villiger-taa-2023-begins-shipping-next-week/424942/",
+   "https://halfwheel.com/villiger-taa-2020-exclusive/380560/"
+  ],
+  "notes": "Details shown are the 2024 release, a Honduran puro of 500 boxes of 20. Earlier years: 2020 E.P. Carrillo (6 x 54, Ecuadorian Sumatra), 2021 Tabacalera Palma (6 x 54, Ecuadorian habano), 2022 La Zona (6 x 52), 2023 Aganorsa (6 1/4 x 52, Nicaraguan puro).",
+  "verified": true,
+  "verifyNotes": "Trimmed notes only."
+ },
+ {
+  "brand": "Villiger",
+  "line": "de Nicaragua Edicion Limitada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua (Condega, Jalapa), USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "2022 Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "2022 Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "2023 Perfecto",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "2024 Churchill Extra",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "2026 Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "wood",
+   "earth",
+   "spice"
+  ],
+  "about": "A limited edition from Villiger's own factory in Esteli, first released in 2022 and offered in a different size each time. The boxes show the Mombacho volcano, and Villiger says the 2026 release is the last.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villiger-de-nicaragua-edicion-limitada-2026-releasing-tomorrow-in-europe/479520/",
+   "https://www.villigercigars.com/en-us/product/big-cigars/villiger-de-nicaragua/",
+   "https://www.famous-smoke.com/brand/villiger-de-nicaragua-cigars"
+  ],
+  "notes": "The blend shown is the 2026 release (2,000 boxes, U.S. launch set for December 2026); the 2022 and 2023 used the same wrapper and binder. Villiger rates the 2022 Torpedo 4 of 5 and the 2023 Perfecto 3.5, while Famous Smoke lists the Torpedo as full.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full to follow the maker's 4 of 5 rating instead of one retailer. Added Villiger's page as a source and trimmed notes. The 2024 size was confirmed at halfwheel.com/villiger-de-nicaragua-edicion-limitada-2024-goes-on-sale-in-europe/443623/."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Exclusivo USA",
+  "found": true,
+  "officialName": "Exclusivo U.S.A.",
+  "wrapperLeaf": "Nicaraguan Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "2022 Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "2022 Torpedo (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "almond",
+   "coffee",
+   "cocoa",
+   "espresso",
+   "spice"
+  ],
+  "about": "A limited Villiger release made only for U.S. retailers. The 2022 edition is a box-pressed Nicaraguan puro rolled at the La Zona factory in Esteli.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villiger-exclusivo-u-s-a-2022-heads-to-stores/414384/",
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-exclusivo-usa.html"
+  ],
+  "notes": "Blend and sizes shown are the 2022 edition per halfwheel, which says the first edition came out in 2020 from E.P. Carrillo's factory. Holt's closeout listing has a Robusto 5 x 50, Toro 6 x 50 and Gordo 6 x 60 and dates it to 2021; the strength and flavors come from that listing.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, factory and sizes confirmed for the 2022 edition on halfwheel. No page gives a strength for that edition: Medium-Full is Holt's rating for a listing with different sizes, so strength is not confirmed for the blend shown. halfwheel says 500 boxes and Cigar Coop says 250, so the box count was dropped from notes."
+ },
+ {
+  "brand": "Villiger",
+  "line": "125 Habano",
+  "found": true,
+  "officialName": "125",
+  "wrapperLeaf": "Ecuadorian Habano (2009 seco)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa, double binder)",
+  "filler": "Nicaragua (Jalapa, Esteli)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "wood",
+   "spice",
+   "cream"
+  ],
+  "about": "A Nicaraguan-made cigar created in 2013 for Villiger's 125th anniversary, with an Ecuadorian habano wrapper over Nicaraguan tobacco. It is now sold by a few retailers as an inexpensive 20-count bundle.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-125-habano.html",
+   "https://www.famous-smoke.com/brand/villiger-125th-cigars",
+   "https://halfwheel.com/review-villiger-125-lucerne-2/73503/"
+  ],
+  "notes": "Holt's calls it 125 Habano and Famous Smoke calls it 125th. The 2013 release was 30,000 boxed cigars in three 56-ring sizes (Canton 4 1/2, Lucerne 5 1/2, Mondo 6 1/2); the sizes shown are the current bundles. It is unclear whether it is still being made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Villiger",
+  "line": "Do Brasil Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Brazil",
+  "binder": "Brazil",
+  "filler": "Brazil",
+  "country": "Brazil",
+  "factory": "Villiger do Brasil",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "grain",
+   "white pepper",
+   "oak",
+   "citrus"
+  ],
+  "about": "A Brazilian puro from Villiger's own factory in Bahia, wrapped in a Connecticut shade leaf grown in Brazil. It launched in 2020 next to a Maduro version and shares its name with the factory.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-do-brasil-claro-toro/374500/",
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-do-brasil-claro.html"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "No field changes. Regular production is halfwheel's 2020 wording; the line is out of stock at Holt's and missing from Villiger's current U.S. product list, so it may have been dropped."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Do Brasil Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Brazil",
+  "filler": "Brazil",
+  "country": "Brazil",
+  "factory": "Villiger do Brasil",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "graham cracker",
+   "earth",
+   "mesquite"
+  ],
+  "about": "The darker of Villiger's two Brazilian puros, made at the company's factory in Bahia with an Arapiraca wrapper. It launched in 2020 alongside the Claro.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villiger-do-brasil-launching-at-tpe-2020/371686/",
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-do-brasil-maduro.html"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "No field changes. Regular production is halfwheel's 2020 wording; the line is out of stock at Holt's and missing from Villiger's current U.S. product list, so it may have been dropped."
+ }
+]

@@ -1,0 +1,890 @@
+[
+ {
+  "brand": "Padilla",
+  "line": "88 Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Criollo and Corojo, double binder)",
+  "filler": "Nicaragua (Corojo, Criollo, Pelo de Oro)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Figurado",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "pepper",
+   "peanut",
+   "cocoa",
+   "caramel",
+   "earth"
+  ],
+  "about": "A box-pressed Nicaraguan cigar made for Padilla by AJ Fernandez, named for what would have been the 88th birthday of Heberto Padilla, the Cuban poet and father of brand owner Ernesto Padilla. The filler includes Pelo de Oro tobacco.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-88-aniversario",
+   "https://halfwheel.com/padilla-88-aniversario-robusto/390211/",
+   "https://www.cigaraficionado.com/top25cigar/padilla-88-aniversario-robusto-2021"
+  ],
+  "notes": "Maker lists an Ecuadorian Corojo wrapper; halfwheel and Cigar Aficionado call it Ecuadorian Habano. Maker calls it medium; Cigar Aficionado lists medium-full. The Robusto was Cigar Aficionado's No. 21 cigar of 2021 with 92 points.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker, halfwheel and Cigar Aficionado. Trimmed notes and dropped 'rare' from about. halfwheel lists the Robusto at 5 x 50; kept the maker's 5 x 52, which Cigar Aficionado also gives."
+ },
+ {
+  "brand": "Padilla",
+  "line": "For Whom the Bell Tolls",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro (high priming)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Corojo 99; Esteli, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "walnut",
+   "marshmallow",
+   "licorice",
+   "lemon",
+   "cream",
+   "toast"
+  ],
+  "about": "A box-pressed Connecticut Broadleaf maduro with a pigtail cap, made for Padilla by AJ Fernandez in Nicaragua. It is named after the Hemingway novel.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-for-whom-the-bells-tolls",
+   "https://halfwheel.com/padillla-to-release-for-whom-the-bell-tolls-in-september/400224/",
+   "https://www.cigaraficionado.com/ratings/23964/name/padilla-for-whom-the-bells-toll-corona-gorda-toro"
+  ],
+  "notes": "The band, Padilla's site and Cigar Aficionado's rating read For Whom the Bells Toll; Padilla called the band wording a printing error. Launched in 2021 as 400 five-packs in one 5 5/8 x 46 size. Medium is Cigar Aficionado's rating; the maker gives no strength.",
+  "verified": true,
+  "verifyNotes": "Removed officialName: halfwheel and Cigar Aficionado report the name as given and the Bells Toll band as a printing error. Added binder, country, factory, strength and release year from halfwheel and Cigar Aficionado. Replaced the Cigar Aficionado search link, which shows no results, with the rating page."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Finest Hour Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (dual binder)",
+  "filler": "Nicaragua (Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "almond",
+   "white pepper",
+   "nuts"
+  ],
+  "about": "The Connecticut-wrapped blend in Padilla's three-part Finest Hour series, named for Winston Churchill's 1940 speech. It is made for Padilla by AJ Fernandez in Esteli.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-finest-hour-connecticut-1",
+   "https://www.padillacigars.com/products/finest-hour-is-back-in-america",
+   "https://halfwheel.com/padilla-moves-finest-hour-to-aj-fernandez/380033/"
+  ],
+  "notes": "Launched in 2019 at an undisclosed Honduran factory, then moved to AJ Fernandez in late 2020. The maker gives no strength rating but says it is not a mild-mannered Connecticut; Neptune describes it as on the mild side.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker and halfwheel. Rewrote notes: the Blind Man's Puff claim was not in any listed source. The not-mild wording is from padillacigars.com/products/finest-hour-connecticut-5-pack; the mild wording is from neptunecigar.com/cigar/padilla-finest-hour-connecticut."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Finest Hour Sungrown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua (Esteli, Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "red pepper",
+   "cocoa",
+   "sweetness"
+  ],
+  "about": "The red-banded sun grown blend in Padilla's Finest Hour series, named for Winston Churchill's 1940 speech. It is made for Padilla by AJ Fernandez in Esteli.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-finest-hour-sungrown",
+   "https://www.padillacigars.com/products/finest-hour-is-back-in-america",
+   "https://halfwheel.com/padilla-releases-final-hour/290885/"
+  ],
+  "notes": "Launched in 2019 as Finest Hour Habano, a Nicaraguan puro made in Honduras, and moved to AJ Fernandez in late 2020. The maker now lists an Ecuadorian sun grown Habano wrapper, though one Padilla listing calls it Ecuadorian Corojo. Maker says medium-full; Neptune says medium.",
+  "verified": true,
+  "verifyNotes": "Replaced the flavor 'cedar', which the maker does not list, with 'sweetness'. Added the maker's own wrapper inconsistency (padillacigars.com/products/finest-hour-sungrown-robusto-5-pack) and Neptune's medium rating to notes."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Finest Hour Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (dual binder)",
+  "filler": "Nicaragua (Esteli, Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "earth",
+   "molasses",
+   "spice"
+  ],
+  "about": "The black-banded maduro blend in Padilla's Finest Hour series, named for Winston Churchill's 1940 speech. It is made for Padilla by AJ Fernandez in Esteli.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-finest-hour-oscuro",
+   "https://www.padillacigars.com/products/finest-hour-is-back-in-america",
+   "https://halfwheel.com/padilla-releases-final-hour/290885/"
+  ],
+  "notes": "Padilla's main listing, halfwheel and Neptune give a Connecticut Broadleaf wrapper, but Padilla's 2026 relaunch listing says San Andres maduro with Nicaraguan and Honduran filler. Maker calls it medium to full; Neptune says medium. Launched in 2019 in Honduras and moved to AJ Fernandez in late 2020.",
+  "verified": true,
+  "verifyNotes": "Fields kept. Strength is not on the listed pages; it comes from the maker's padillacigars.com/products/padilla-finest-hour-oscuro-a-prerelease (medium-to-full body). Added Neptune's medium rating to notes."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Finest Hour Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (first-generation Cuban seed)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Churchill",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice"
+  ],
+  "about": "A Corojo-wrapped addition to Padilla's Finest Hour series, an all-Nicaraguan blend rolled by AJ Fernandez in Esteli in a 6.5 x 50 short Churchill.",
+  "released": 2026,
+  "production": null,
+  "sources": [
+   "https://www.padillacigars.com/products/the-new-finest-hour-corojo-a-classic-cuban-short-churchill"
+  ],
+  "notes": "New in 2026 and so far sold only as pre-production 5-packs in one size, some wearing plain white prototype bands. The maker says a boxed release will follow at a higher price. The maker describes it as medium-bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Artefacto Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Aganorsa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": "Nicaragua (Aganorsa Corojo, Jalapa, Condega)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A Padilla blend built on Aganorsa-grown Nicaraguan Corojo 99, sold direct through the Padilla website in four sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-artefacto-corojo"
+  ],
+  "notes": "The maker does not publish the binder, factory, strength or tasting notes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Artefacto Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua (Aganorsa Corojo, Condega, Jalapa, Esteli)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 51
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "sweetness"
+  ],
+  "about": "The maduro version of Padilla's Artefacto, pairing a Mexican San Andres wrapper with Nicaraguan fillers that include Aganorsa Corojo. It is sold direct through the Padilla website.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-artefacto-maduro",
+   "https://www.padillacigars.com/products/artefacto-maduro-5-pack"
+  ],
+  "notes": "The maker does not publish the binder, factory or strength. Padilla says it is made in batches and was out of stock for nearly two years while one filler leaf was unavailable.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Miami 8&11",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo (high priming)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Aganorsa; Esteli, Jalapa)",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "espresso",
+   "dark chocolate",
+   "leather",
+   "earth"
+  ],
+  "about": "Padilla's best-known cigar, rolled in small batches at El Titan de Bronze in Miami's Little Havana. It is named for the corner of 8th Street and 11th Avenue, where the original 2005 version was made by Pepin Garcia.",
+  "released": 2005,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-miami-8-11",
+   "https://halfwheel.com/padilla-miami-8-11-2020/379223/",
+   "https://www.neptunecigar.com/cigar/padilla-miami-8-and-11"
+  ],
+  "notes": "The blend and factory have changed several times since 2005; the current El Titan de Bronze version dates to 2020. The maker lists an Ecuadorian Corojo wrapper, while halfwheel and Neptune list a Nicaraguan wrapper. Neptune's description calls it medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Miami Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "earth",
+   "spice",
+   "hazelnut"
+  ],
+  "about": "The San Andres maduro counterpart to the Padilla Miami, with aged Nicaraguan fillers. It was introduced in 2012 as a small-batch cigar rolled at El Titan de Bronze in Miami.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-miami-maduro",
+   "https://www.padillacigars.com/products/padilla-miami-maduro-robusto-5-pack",
+   "https://halfwheel.com/review-padilla-miami-maduro-robusto-prerelease/29668/"
+  ],
+  "notes": "Launched in 2012 at El Titan de Bronze in Miami. Padilla's main listing still says it is rolled in Miami, but another Padilla listing says the blend was reworked in Nicaragua, so check where current stock is made before quoting it.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Country and factory left null because Padilla's own listings disagree on whether current stock is rolled in Miami or Nicaragua; halfwheel and Neptune give USA and El Titan de Bronze for the 2012 version."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Miami Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua (Cuban-seed Corojo)",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "coffee",
+   "cream"
+  ],
+  "about": "A lighter-wrapped edition of the Padilla Miami, keeping the same filler blend under a Habano Claro wrapper. It is rolled in very small batches at El Titan de Bronze in Miami's Little Havana.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.padillacigars.com/products/the-icon-reborn-new-padilla-miami-claro-edition",
+   "https://www.padillacigars.com/products/the-pursuit-of-the-perfect-smoke-5-pack-sampler"
+  ],
+  "notes": "The maker describes it as slightly milder than the regular Miami and calls it an extremely limited release. The wrapper's country of origin and the binder are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Miami Segundo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "leather",
+   "espresso",
+   "baking spice"
+  ],
+  "about": "Factory seconds of the regular Padilla Miami, rolled at El Titan de Bronze in Miami and sold at a discount. The maker says they were set aside only because the wrapper color varied.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-miami-segundo"
+  ],
+  "notes": "Same cigar as the regular Padilla Miami with slight wrapper color variation, aged more than a year, per the maker. A one-time batch sold in 5-packs; the listing gives no size or blend details.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Signature 1932",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Criollo)",
+  "filler": "Nicaragua (Corojo, Criollo)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Perla",
+    "length": 4.5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 6.875,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "leather",
+   "coffee",
+   "espresso",
+   "oak",
+   "spice"
+  ],
+  "about": "Padilla's flagship blend, introduced in 2006 and named for the birth year of Heberto Padilla, the Cuban poet and father of brand owner Ernesto Padilla. The original was made in Miami by Pepin Garcia.",
+  "released": 2006,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/padilla-signature-1932.html",
+   "https://halfwheel.com/padilla-1932-return-meier-dutch-exclusive/46787/",
+   "https://blindmanspuff.com/blind-cigar-review-padilla-signature-1932-lancero/"
+  ],
+  "notes": "Made at several factories since 2006, including Pepin Garcia's in Miami, Raices Cubanas in Honduras and Oliva in Nicaragua (the version Holt's sells), so the blend varies by version. halfwheel says the 2014 Oliva release used an Ecuadorian Habano wrapper. Padilla's recent 1932 small batches are rolled by AJ Fernandez.",
+  "verified": true,
+  "verifyNotes": "Swapped the 2017 halfwheel article for the 2014 one, which is the page that states the Ecuadorian Habano wrapper, the Oliva factory and the 2006 debut. Renamed the 6 x 60 from Double Toro to Gordo to match it. Trimmed notes. Country left null because it differs by version; Holt's lists Nicaragua for the Oliva version."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Signature 1932 Oscuro",
+  "found": true,
+  "officialName": "1932 Oscuro",
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Nicaragua (Corojo)",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A darker-wrapped take on the Padilla 1932 blend. This 6 x 46 Corona Gorda was rolled at El Titan de Bronze in Miami for the 10th anniversary of the retailer Napa Cigars.",
+  "released": 2007,
+  "production": "limited",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-1932-oscuro-6x46-box",
+   "https://www.padillacigars.com/products/rare-padilla-1932-50-cigar-cabinet-only-15-made",
+   "https://halfwheel.com/padilla-1932-oscuro-returning-at-ipcpr-2016/115362/"
+  ],
+  "notes": "First sold in 2007 as 300 humidors of 45 cigars, a Nicaraguan puro from the Pepin Garcia years. Padilla's two listings for this Napa Cigars version disagree: one gives Ecuadorian Habano over Nicaraguan Corojo, the other an Ecuadorian Corojo oscuro wrapper over Nicaraguan Criollo.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker and halfwheel. Notes corrected: halfwheel calls the 2007 original a Nicaraguan puro with a high-priming wrapper and does not name it Corojo. Padilla's listing dates the original to 2005; kept halfwheel's 2007."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Signature 1932 Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "black pepper",
+   "molasses",
+   "dried fruit",
+   "cedar"
+  ],
+  "about": "A small-batch version of the Padilla 1932 blend finished in a Connecticut Broadleaf wrapper and rolled by AJ Fernandez in Esteli. It was released in 2026 as a single lot of 6.5 x 55 Toros.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-signature-1932-broadleaf-small-batch-lote-32-6"
+  ],
+  "notes": "Sold as Small Batch, Lote 32-6; the 6 marks the sixth trial blend. One lot only with no second run promised, and each cigar has a red ribbon on the foot. The maker says it starts medium-full and builds to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "1932 2X",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Broadleaf Maduro (double binder)",
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate",
+   "sweetness"
+  ],
+  "about": "A small-batch 2026 experiment on the Padilla 1932 blend that uses two Broadleaf maduro binders, which is where the 2X name comes from. It was sold direct from Padilla as a 5-pack of Torpedoes.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.padillacigars.com/products/introducing-the-padilla-1932-2x-blend"
+  ],
+  "notes": "The maker does not name the wrapper, filler, factory or strength. Released once as a website-only sampler.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Before Night Falls",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Best Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A 2025 collaboration between Ernesto Padilla and Yaxel Ortiz, rolled at Ortiz's Best Cigars factory in Nicaragua with a dark Corojo wrapper. It is named after the memoir by Cuban writer Reinaldo Arenas.",
+  "released": 2025,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/padilla-returns-with-before-night-falls/449146/",
+   "https://halfwheel.com/pca-2025-padilla/449167/",
+   "https://www.padillacigars.com/products/a-hell-of-a-cigar-is-back-but-you-can-only-have-five"
+  ],
+  "notes": "halfwheel's first report left the wrapper's country undisclosed; its PCA 2025 coverage lists Ecuador. The binder is undisclosed. In October 2026 Padilla said regular production is suspended because the Corojo wrapper is hard to get, with only a few Toro 5-packs left.",
+  "verified": true,
+  "verifyNotes": "Wrapper origin changed from undisclosed to Ecuador per halfwheel's PCA 2025 coverage, added as a source in place of the maker's box listing. Other fields confirmed."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Vintage Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (leaf not specified)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "dark cocoa",
+   "espresso",
+   "charred oak",
+   "black pepper",
+   "sweetness"
+  ],
+  "about": "A small-batch Padilla maduro first released in 2013 and brought back in 2025 as Vintage Reserve 3.0. The current version uses aged Nicaraguan fillers from Esteli and Jalapa under a dark maduro wrapper.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-vintage-reserve-3-0-pre-release-5-pack-38-95",
+   "https://halfwheel.com/padilla-release-padilla-vintage-reserve-2013-ipcpr/38025/",
+   "https://blindmanspuff.com/blind-cigar-review-padilla-vintage-reserve-churchill/"
+  ],
+  "notes": "The 2013 original was made by Oliva in Nicaragua with a Pennsylvania Broadleaf wrapper in Robusto, Torpedo and Churchill, as a numbered limited run. For the current 3.0 pre-release the maker does not name the wrapper leaf, binder, factory or size.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Hybrid",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Golden hybrid-seed wrapper (seed from ASP)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "cream",
+   "espresso",
+   "dark chocolate"
+  ],
+  "about": "Padilla's first line, built around a golden hybrid-seed wrapper from the grower ASP that the maker likens to Connecticut smoothness with Habano bite. It was reintroduced in 2025 as a limited run of Toros sold direct.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.padillacigars.com/products/reintroducing-the-padilla-hybrid",
+   "https://www.cigaraficionado.com/article/q-a-ernesto-padilla-owner-of-padilla-cigar-co"
+  ],
+  "notes": "For the 2025 rerelease the maker does not publish the wrapper's country, binder, filler, factory, strength or exact Toro dimensions.",
+  "verified": true,
+  "verifyNotes": "Reworded wrapperLeaf: the maker says the seed came from ASP, not that ASP grew the leaf. Removed the note that Cigar Aficionado lists it as Hybrid Blend; the linked Q&A only names Hybrid among Padilla's brands. Could not search for specs of the original release."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Lost Chapter",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua (includes Ometepe)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "hazelnut",
+   "toast"
+  ],
+  "about": "A small-batch Padilla blend built around tobacco from Ometepe, the volcanic island in Lake Nicaragua. It is sold direct from Padilla in 5-packs of Robustos.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-lost-chapter-robusto-5-pack"
+  ],
+  "notes": "The maker does not publish the wrapper, binder, factory, strength or exact Robusto dimensions. It comes and goes in batches because the Ometepe tobacco is hard to source.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

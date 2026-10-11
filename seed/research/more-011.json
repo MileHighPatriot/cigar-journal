@@ -1,0 +1,786 @@
+[
+ {
+  "brand": "Drew Estate",
+  "line": "Tabak Especial Red Eye",
+  "found": true,
+  "officialName": "Tabak Especial Limited Red Eye",
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "molasses",
+   "espresso",
+   "nuts",
+   "black pepper",
+   "cream"
+  ],
+  "about": "A stronger take on Drew Estate's coffee-infused Tabak Especial, built on the maduro blend with extra ligero in the filler. It comes in one short robusto size.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/",
+   "https://www.famous-smoke.com/drew-estate-tabak-especial-limited-red-eye-cigars-maduro",
+   "https://www.neptunecigar.com/cigar/tabak-especial-red-eye"
+  ],
+  "notes": "Coffee infused. Famous lists a Connecticut Broadleaf maduro wrapper; Neptune's listing shows Ecuadorian Connecticut Shade but tags the cigar Maduro. Both rate it Medium. Drew Estate lists it as a web exclusive.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Famous, Neptune and the Drew Estate web exclusives page. Notes trimmed. Release year not found."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Tabak Especial Café con Leche",
+  "found": true,
+  "officialName": "Tabak Especial Limited Café con Leche",
+  "wrapperLeaf": "Ecuadorian Connecticut Shade with Connecticut Broadleaf Maduro foot and cap",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "nuts",
+   "cream",
+   "mocha",
+   "cedar",
+   "coffee"
+  ],
+  "about": "A coffee-infused Tabak Especial belicoso with a two-tone wrapper: light Connecticut shade in the middle and dark broadleaf at the foot and cap. It is sold in one size.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/",
+   "https://www.famous-smoke.com/drew-estate-tabak-especial-limited-cafe-con-leche-cigars-natural",
+   "https://www.neptunecigar.com/cigar/tabak-especial-red-eye"
+  ],
+  "notes": "Coffee infused. Drew Estate and Neptune give the size as 5 1/2 x 54; Famous lists 5 1/4 x 54. The two-wrapper detail comes from Famous. Drew Estate lists it as a web exclusive.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Famous, Neptune and the Drew Estate web exclusives page. Release year not found."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Tabak Especial Cafe Corretto",
+  "found": true,
+  "officialName": "Tabak Especial Limited Cafe Corretto",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cafe Corretto",
+    "length": 5.7,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A coffee-infused Tabak Especial cigar that Drew Estate makes as an exclusive for Thompson Cigar. Drew Estate lists it among its web exclusives in one size.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/web-exclusives/"
+  ],
+  "notes": "Sold only through Thompson Cigar. Drew Estate lists the size as 5.7 x 52 and publishes no wrapper, blend or strength for it.",
+  "verified": false,
+  "verifyNotes": "Could not confirm wrapper or strength: Drew Estate's page gives only the name, size and seller, and Thompson Cigar's site refused the request. Country and factory are brand-level (Drew Estate says Tabak Especial is made at La Gran Fabrica), not stated for this cigar. Size name changed from Toro, which no source uses. Notes and about rewritten."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Isla del Sol Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Breve",
+    "length": 4,
+    "ring": 32
+   },
+   {
+    "name": "Gran Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "mocha",
+   "chocolate"
+  ],
+  "about": "The maduro version of Drew Estate's value-priced, coffee-infused Isla del Sol line, with a sweetened tip. It was added in 2018 alongside the original Sumatra-wrapped cigar.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/isla-del-sol/isla-del-sol-maduro/",
+   "https://halfwheel.com/isla-del-sol-maduro-gran-corona/283677/",
+   "https://www.neptunecigar.com/isla-del-sol-maduro-cigar"
+  ],
+  "notes": "Drew Estate's site calls the wrapper a Mexican maduro; halfwheel and Famous list it as Nicaraguan and Neptune as undisclosed. Drew Estate rates it Mellow, while Famous and Neptune say Medium. Coffee infused with a sweet tip.",
+  "verified": true,
+  "verifyNotes": "Wrapper changed from Mexican San Andres Maduro to Mexican Maduro: Drew Estate's page says only Mexican Maduro, so category moved from San Andres to Maduro/Broadleaf. Binder changed from Indonesia and filler from Indonesia, Nicaragua to Nicaragua: no page lists an Indonesian binder, while halfwheel and Neptune list Nicaraguan binder and filler. Neptune page added as a source. Notes rewritten."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Deadwood Leather Rose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (origin not disclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "white pepper",
+   "sweetness",
+   "earth"
+  ],
+  "about": "The fourth cigar in Drew Estate's Deadwood family of sweet-tipped aromatic cigars, launched in 2020 as a torpedo. Drew Estate calls it the spiciest blend in the series.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/deadwood/deadwood-leather-rose/",
+   "https://halfwheel.com/deadwood-leather-rose/380059/",
+   "https://halfwheel.com/drew-estates-deadwood-leather-rose-adding-petite-corona/400768/"
+  ],
+  "notes": "Blend is secret beyond a maduro wrapper and aromatic dark air-cured fillers. Drew Estate rates it Full; halfwheel's review found the strength medium to medium-full. Sweetened cap.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Notes corrected: halfwheel's review put strength at medium to medium-full, not just medium."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Deadwood The Girl With No Name",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres (Lonsdale; other sizes differ)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 7,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Deadwood sub-brand that Drew Estate began in 2022 and uses mostly for sizes made for individual large retailers. The 7 x 44 Lonsdale, added in 2024, is the one size offered to all stores.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/deadwood/deadwood-girl-with-no-name/",
+   "https://halfwheel.com/drew-estate-adds-deadwood-the-girl-with-no-name-lonsdale-nica-rustica-broadleaf-gordo/444345/",
+   "https://halfwheel.com/fox-cigar-bar-receives-limited-edition-deadwood-the-girl-with-no-name-corona/424331/"
+  ],
+  "notes": "Binder and filler are secret. The wrapper changes by size: San Andres on the Lonsdale, maduro on the Cigars International Toro, Sumatra on the Famous Robusto Extra and Connecticut Shade on JR's 5 x 50 Robusto. Drew Estate says body varies by size.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Wrapper field now says it applies to the Lonsdale. Store wrappers checked against Drew Estate's releases at drewestate.prezly.com (Famous Robusto Extra: Sumatra; JR 5 x 50 Robusto: Ecuadorian Connecticut Shade; Cigars International Toro: maduro). Third source swapped for the halfwheel article that gives the store history."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Deadwood Dominicana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexican San Andres",
+  "filler": "Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pequeña",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "fig",
+   "hay",
+   "salt",
+   "butter",
+   "earth"
+  ],
+  "about": "A Deadwood line from 2025 built around Dominican filler tobacco from Jose Mendez & Co., under a Connecticut shade wrapper with a sweetened cap. It was Drew Estate's first blend centered on Dominican tobacco.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/deadwood/deadwood-dominicana/",
+   "https://halfwheel.com/deadwood-dominicana-toro/452880/"
+  ],
+  "notes": "Despite the name it is rolled in Nicaragua; the Dominican part is the filler. It has a sweetened cap. Drew Estate has said production will move to its new Dominican factory once that opens.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Deadwood Dominicana Buenas Noches",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexican San Andres",
+  "filler": "Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "cocoa",
+   "earth",
+   "spice"
+  ],
+  "about": "The darker, broadleaf-wrapped companion to Deadwood Dominicana, released in spring 2026. It keeps the Dominican-leaning filler and the sweetened cap.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/deadwood/deadwood-dominicana-buenas-noches/",
+   "https://halfwheel.com/drew-estates-deadwood-dominicana-buenas-noches-coming-this-month/467355/",
+   "https://halfwheel.com/pca-2026-drew-estate/466736/"
+  ],
+  "notes": "Rolled in Nicaragua despite the name. Drew Estate describes the filler only as a Dominican-forward blend. It has a sweetened cap.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Deadwood Sweet Jane Día de los Muertos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (origin not disclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "sweetness",
+   "leather",
+   "white pepper",
+   "bread"
+  ],
+  "about": "A limited box-pressed toro version of Deadwood Sweet Jane with Day of the Dead packaging. It first appeared in 2019 and returned in 2024 and 2025.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/deadwood-sweet-jane-dia-de-los-muertos-returns-for-2025/455005/",
+   "https://halfwheel.com/deadwood-sweet-jane-dia-de-los-muertos-2024/444773/",
+   "https://drewestate.prezly.com/drew-estate-unveils-its-deadwood-tobacco-co-sweet-jane-limited-edition-dia-de-los-muertos-release-in-celebration-of-the-day-of-the-dead"
+  ],
+  "notes": "Blend is secret beyond a maduro wrapper; it is infused with a very sweet cap. Strength and body are from halfwheel's 2024 review, which found strength mild rising to medium; Drew Estate's release calls it full-bodied. The 2025 cigar is the same as 2024 in new packaging.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Notes clarified: halfwheel's 2024 review gives strength as mild for two thirds, then medium, and body as mild-medium rising to medium."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Kentucky Fire Cured Sweets",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "USA (Kentucky fire-cured), Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Ponies",
+    "length": 4,
+    "ring": 32
+   },
+   {
+    "name": "Chunky",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Fat Molly",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Just a Friend",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "smoke",
+   "maple",
+   "bacon",
+   "bourbon",
+   "barbecue",
+   "wood"
+  ],
+  "about": "A sweet-tipped version of Drew Estate's Kentucky Fire Cured, which blends fire-cured Kentucky tobacco with Nicaraguan filler for a smoky, campfire character. It launched in 2018.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/kentucky-fire-cured/kentucky-fire-cured-sweet/",
+   "https://halfwheel.com/drew-estates-kentucky-fire-cured-sweets-get-limited-release/268389/",
+   "https://www.neptunecigar.com/cigar/kfc-kentucky-fire-cured-sweets"
+  ],
+  "notes": "Drew Estate rates it Mellow; Neptune and Famous rate it Medium. The Joya de Nicaragua factory is as reported at the 2018 launch. It has a sweetened tip.",
+  "verified": true,
+  "verifyNotes": "Binder changed from Ecuador Connecticut Shade to Nicaragua: Drew Estate's page lists no binder, and halfwheel and Neptune both say Nicaraguan. Notes rewritten to drop the unsupported claim."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Pappy Van Winkle Tradition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "leather",
+   "nuts"
+  ],
+  "about": "A non-infused cigar blended by Willy Herrera at Drew Estate and made with the Van Winkle bourbon family. It debuted in 2017 and, unlike the other Pappy cigars, uses no fire-cured tobacco.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/pappy-van-winkle/pappy-van-winkle-tradition/",
+   "https://halfwheel.com/drew-estates-pappy-van-winkle-tradition-becomes-pappy-co-exclusive/373858/",
+   "https://halfwheel.com/pappy-van-winkle-tradition-coronita-2/284223/"
+  ],
+  "notes": "Since 2020 it has been sold only through Pappy & Company, not regular cigar shops. Full is Drew Estate's body rating; halfwheel's review found the strength mild to mild-medium. The 2017 release had seven sizes; Drew Estate's site now lists four.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added to notes that halfwheel's review found the strength mild to mild-medium, against Drew Estate's Full body rating."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "The Egg Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "cream",
+   "pepper",
+   "oak"
+  ],
+  "about": "A novelty egg-shaped cigar from Drew Estate, tapered at both ends and swelling to more than a 100 ring gauge in the middle. This is the Connecticut-wrapped version, sold one to a box.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/the-egg/"
+  ],
+  "notes": "Drew Estate publishes no length, binder, filler or strength rating for The Egg, only that it tops 100 ring gauge at the center. It calls this version mellow. The shape first appeared years ago under its Natural line.",
+  "verified": true,
+  "verifyNotes": "Wrapper confirmed on Drew Estate's page, which publishes no country, factory, size or strength rating. No second source found."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "The Egg Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "sweetness"
+  ],
+  "about": "A novelty egg-shaped cigar from Drew Estate, tapered at both ends and swelling to more than a 100 ring gauge in the middle. This is the maduro-wrapped version, sold one to a box.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/the-egg/"
+  ],
+  "notes": "Drew Estate publishes no length, binder, filler or strength rating for The Egg, only that it tops 100 ring gauge at the center. It calls this version dark and bold. The shape first appeared years ago under its Natural line.",
+  "verified": true,
+  "verifyNotes": "Wrapper confirmed on Drew Estate's page, which publishes no country, factory, size or strength rating. No second source found."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Chateau Real",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "sweetness"
+  ],
+  "about": "One of Drew Estate's first traditional, non-infused cigars, introduced in 2006 and later dropped. It came back in late 2023 as a budget-priced Connecticut shade blend sold through online retailers.",
+  "released": 2006,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/drew-estate-brings-back-chateau-real-as-online-exclusive/431429/",
+   "https://drewestate.prezly.com/drew-estate-resurrects-chateau-real-brand-exclusively-for-online-retailers",
+   "https://www.neptunecigar.com/chateau-real-cigar"
+  ],
+  "notes": "Drew Estate calls it mellow with Nicaraguan binder and filler; Neptune and Famous list a Habano binder and rate it Medium. The current version is sold only through online retailers. Habano and Maduro versions are separate blends.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild-Medium to Mild: Drew Estate's word is mellow, and neither the maker nor the retailers (Medium) say mild-medium."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Chateau Real Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin not disclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness"
+  ],
+  "about": "A Habano-wrapped version of Drew Estate's budget Chateau Real line, released in August 2024. It is made as an exclusive for Cigars International.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/drew-estates-chateau-real-gets-habano-version-for-cigars-international-exclusive/441349/",
+   "https://drewestate.prezly.com/drew-estate-builds-on-chateau-real-brand-with-cigars-international-exclusive-habano-expression"
+  ],
+  "notes": "Sold only through Cigars International. Drew Estate does not say where the Habano wrapper is grown and publishes no strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Ambrosia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Clove Tiki",
+    "length": 4,
+    "ring": 32
+   },
+   {
+    "name": "Nectar",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Mother Earth",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Spice",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "clove",
+   "spice",
+   "sweetness"
+  ],
+  "about": "One of Drew Estate's early infused lines, first released in 2002 and made in Nicaragua. It uses spiced aromatic tobacco for a sweet, clove-like smoke.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/ambrosia-cigar",
+   "https://www.famous-smoke.com/brand/ambrosia-cigars",
+   "https://www.coronacigar.com/brands/drew-estate/ambrosia/"
+  ],
+  "notes": "Retailers disagree on the wrapper: Neptune lists Ecuadorian Connecticut Shade with a Nicaraguan binder, Famous lists it as undisclosed. Famous gives the Spice torpedo as 5 x 54, Neptune and Corona as 6 x 54. Still sold by retailers but no longer shown on Drew Estate's own site.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Neptune, Famous and Corona Cigar. About reworded: the pages say made in Nicaragua, not Esteli specifically."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Java Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 38
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Wafe",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "The 58",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "dark chocolate",
+   "coffee"
+  ],
+  "about": "A cherry, cocoa and coffee infused cigar in the Java by Drew Estate line, added in 2017. Drew Estate makes it in Esteli for Rocky Patel, which owns and distributes the brand.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-announces-java-red/158289/",
+   "https://halfwheel.com/java-red-robusto/208333/",
+   "https://www.famous-smoke.com/brand-java-red"
+  ],
+  "notes": "Java is a Rocky Patel brand made by Drew Estate, so shops may shelve it under either name. The blend is not disclosed: Famous lists a Brazilian Mata Fina wrapper and Neptune lists Corojo maduro. Most sizes are box-pressed and the cap is sweetened.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

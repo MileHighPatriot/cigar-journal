@@ -41,7 +41,10 @@ export interface CigarFilter {
   only: 'all' | 'smoked' | 'mine'
 }
 
-/** Catalog cigars that match, sorted by brand and then line. */
+/**
+ * Catalog cigars that match, sorted by brand and then line. In a search, cigars with every
+ * word in their name come first, ahead of ones that only match in the details.
+ */
 export function filterCigars(
   cigars: Iterable<Cigar>,
   filter: CigarFilter,
@@ -49,6 +52,7 @@ export function filterCigars(
 ): Cigar[] {
   const words = fold(filter.query).split(/\s+/).filter(Boolean)
   const out: Cigar[] = []
+  const byName = new Set<string>()
   for (const cigar of cigars) {
     if (cigar.deletedAt) continue
     if (filter.strength !== null && cigar.strength !== filter.strength) continue
@@ -76,11 +80,18 @@ export function filterCigars(
         .join(' ')
       const folded = fold(haystack)
       if (!words.every((word) => folded.includes(word))) continue
+      const name = fold(`${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`)
+      if (words.every((word) => name.includes(word))) byName.add(cigar.id)
     }
     out.push(cigar)
   }
   const compare = new Intl.Collator('en', { sensitivity: 'base', numeric: true }).compare
-  return out.sort((a, b) => compare(a.brand, b.brand) || compare(a.line, b.line))
+  return out.sort(
+    (a, b) =>
+      Number(byName.has(b.id)) - Number(byName.has(a.id)) ||
+      compare(a.brand, b.brand) ||
+      compare(a.line, b.line),
+  )
 }
 
 export function wrapperOptions(cigars: Iterable<Cigar>): string[] {

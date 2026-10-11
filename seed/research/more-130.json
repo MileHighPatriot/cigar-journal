@@ -1,0 +1,1001 @@
+[
+ {
+  "brand": "El Septimo",
+  "line": "Luxus Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, Honduras, Costa Rica",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rebelde Blue",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Short Dream Amarillo",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Flamingo Amarillo",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Bullet Blue",
+    "length": 3.25,
+    "ring": 56
+   },
+   {
+    "name": "Small Sabor Blue",
+    "length": 3.5,
+    "ring": 54
+   },
+   {
+    "name": "Long Shot Black",
+    "length": 5,
+    "ring": 68
+   },
+   {
+    "name": "Extreme Shot Green",
+    "length": 2,
+    "ring": 56
+   },
+   {
+    "name": "Small Impact Green",
+    "length": 2,
+    "ring": 56
+   },
+   {
+    "name": "Excepcion White",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Precioso Pink",
+    "length": 4.25,
+    "ring": 34
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "orange zest",
+   "raisin",
+   "spice",
+   "dark chocolate"
+  ],
+  "about": "A group of ten El Septimo cigars, most of them short and thick, each with a color in its name. El Septimo is a high-priced brand made in Costa Rica, founded in 2005 and owned by Zaya Younan since 2019.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://el-septimo.com/collection/cigars/luxus-collection/",
+   "https://el-septimo.com/shop/cigars/luxus-collection/rebelde-blue/",
+   "https://halfwheel.com/el-septimo-acquired-by-younan-collection/296840/"
+  ],
+  "notes": "This is a collection of ten different cigars, not one blend. The maker keeps the wrapper undisclosed. Strength varies by cigar: the maker rates Excepcion White 2 of 5, Rebelde Blue and Bullet Blue 4 of 5, and Small Sabor Blue 5 of 5.",
+  "verified": true,
+  "verifyNotes": "Reworded about: removed 'luxury brand' and the unsupported claim that each cigar is named for its band color. Specs match the maker's ten product pages."
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Zaya Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, Honduras, Costa Rica",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Kolosso Amethyst",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Mirifico Sapphire",
+    "length": 6.75,
+    "ring": 58
+   },
+   {
+    "name": "Fabuloso Dark Ruby",
+    "length": 6.25,
+    "ring": 70
+   },
+   {
+    "name": "Excepcion Esmeralda",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Double Shot White",
+    "length": 3.75,
+    "ring": 68
+   },
+   {
+    "name": "Bomba Orange",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Short Dream Topaz",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Bullet Black",
+    "length": 3.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "leather",
+   "licorice",
+   "marzipan",
+   "caramel",
+   "vanilla",
+   "roasted nuts"
+  ],
+  "about": "El Septimo's highest-priced regular range, mostly large ring gauge cigars with five filler leaves each. It shares its name with owner Zaya Younan and is made in Costa Rica.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://el-septimo.com/collection/cigars/zaya-collection/",
+   "https://el-septimo.com/shop/cigars/zaya-collection/kolosso-amethyst/",
+   "https://halfwheel.com/el-septimo-doble-gran-reserva/458489/"
+  ],
+  "notes": "A collection of eight different cigars; the maker keeps the wrapper undisclosed. Several are described as full-bodied, and Bullet Black is rated 4 of 5 in strength. The limited Doble Gran Reserva and Mi Familia are also sold under this collection.",
+  "verified": true,
+  "verifyNotes": "Reworded about (the maker does not say the line is named for the owner) and trimmed notes to three sentences. Specs match the maker's product pages."
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Emperor Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut or maduro depending on the cigar (origin undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Honduras, Dominican Republic, Ecuador",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Augustus Connecticut",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Alexander III Connecticut",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Yao Connecticut",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Yao Maduro",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Napoleon Connecticut",
+    "length": 9,
+    "ring": 55
+   },
+   {
+    "name": "Napoleon Maduro",
+    "length": 9,
+    "ring": 55
+   },
+   {
+    "name": "Empress Sheba",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Empress Sheba Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "nuts",
+   "oak",
+   "espresso",
+   "dark cocoa"
+  ],
+  "about": "A series of El Septimo cigars named for historical rulers, launched in 2022 as the company's first use of Connecticut wrapper alongside maduro versions. It includes some of the brand's lower-priced cigars and is made in Costa Rica.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://el-septimo.com/collection/cigars/emperor-collection/",
+   "https://halfwheel.com/el-septimo-to-release-the-emperor-collection-at-pca-2022/410421/",
+   "https://el-septimo.com/shop/cigars/emperor-collection/alexander-iii/"
+  ],
+  "notes": "A collection of separate cigars in Connecticut and maduro wrappers of undisclosed origin. The maker rates the core cigars 2 of 5 in strength and calls Empress Sheba (added 2023) medium to full-bodied. King Sargon sizes began as humidor-only cigars and Vartan the Dragon is a limited edition.",
+  "verified": true,
+  "verifyNotes": "Changed 'Connecticut-seed' to 'Connecticut': halfwheel and the maker both say Connecticut, not seed. Fixed notes: the maker now sells the King Sargon sizes singly, so they are no longer humidor-only."
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Sacred Arts Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, Ecuador, Nicaragua",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Michelangelo",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Raphael",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Salvador Dali",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Rembrandt",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Da Vinci",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Botticelli",
+    "length": 7.5,
+    "ring": 58
+   },
+   {
+    "name": "Van Gogh",
+    "length": 9,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "black pepper",
+   "oak",
+   "raisin",
+   "vanilla"
+  ],
+  "about": "Seven El Septimo cigars, each named for a famous painter and tied to one of the seven days of creation. Released in 2021 and made in Costa Rica, each size is presented as its own blend.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://el-septimo.com/collection/cigars/sacred-arts-collection/",
+   "https://halfwheel.com/el-septimo-to-introduce-the-sacred-arts-cigar-collection-at-2021-pca/396941/",
+   "https://el-septimo.com/shop/cigars/sacred-arts-collection/da-vinci/"
+  ],
+  "notes": "The maker keeps the wrapper undisclosed, and at launch said each of the seven sizes is a different blend. It rates them 3 of 5 in strength, or medium. The Van Gogh is 9 x 55 per the maker and 9 x 56 per halfwheel.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. The Salvador Dali page says medium strength rather than giving a number; the other six say 3 of 5."
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Alexandra Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, Ecuador",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Marilyn",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Coco Robusto",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "nutmeg",
+   "coffee",
+   "cedar",
+   "floral",
+   "cocoa"
+  ],
+  "about": "A two-cigar El Septimo line introduced in 2019 and marketed toward women who smoke cigars. It was announced a few months after Zaya Younan bought the brand and is made in Costa Rica.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://el-septimo.com/collection/cigars/alexandra-collection/",
+   "https://el-septimo.com/shop/cigars/alexandra-collection/marilyn/",
+   "https://halfwheel.com/el-septimo-announces-alexandra-collection/335906/"
+  ],
+  "notes": "The maker keeps the wrapper undisclosed. It rates Coco 2 of 5 in strength and Marilyn 3 of 5 (medium-bodied). At the 2019 launch halfwheel reported the line was made entirely of Costa Rican tobacco, which differs from the binder and filler the maker lists now.",
+  "verified": true,
+  "verifyNotes": "Reworded about: no source says it was the first new line under Younan, only that it came out in June 2019 after the March 2019 purchase."
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Gilgamesh Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, Ecuador",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Aqua Anu",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sable Shamash",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "King Sargon",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "white pepper",
+   "chili"
+  ],
+  "about": "El Septimo's line of toro-sized cigars named from the Epic of Gilgamesh, launched in 2020 as the brand's first 50 ring gauge cigars at a lower price. King Sargon was added in 2021.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://el-septimo.com/collection/cigars/gilgamesh-collection/",
+   "https://halfwheel.com/gilgamesh-collection-aqua-anu/377239/",
+   "https://halfwheel.com/el-septimo-releasing-two-new-cigars-new-accessory-line-at-tpe-2021/393167/"
+  ],
+  "notes": "Three different blends: the maker rates Aqua Anu 2 of 5 in strength, Sable Shamash 3 of 5 and King Sargon 4 of 5. The maker keeps the wrapper undisclosed. In 2020 halfwheel listed Aqua Anu and Sable Shamash as Costa Rican puros, which differs from what the maker lists now.",
+  "verified": true,
+  "verifyNotes": "Swapped the King Sargon product page for the halfwheel article that supports its 2021 addition. No field values changed."
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Culinary Art Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, Ecuador, Nicaragua, Brazil",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Spain Rioja",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Japan Nigori",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Italy Toscana",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "France Bordeaux",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "oak",
+   "nuts",
+   "coffee"
+  ],
+  "about": "One of El Septimo's lowest-priced lines, released in 2024 in four sizes named for wine regions and a style of sake. It uses an Ecuadorian Connecticut wrapper and tobaccos aged at least five years, and is made in Costa Rica.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://el-septimo.com/collection/cigars/culinary-art-collection/",
+   "https://halfwheel.com/el-septimo-to-release-culinary-art-collection-at-pca-2024/435467/",
+   "https://halfwheel.com/el-septimo-culinary-arts-collection-nigori/442270/"
+  ],
+  "notes": "The maker lists the binder as Ecuadorian Habano 2004; halfwheel reported Habano 2000. halfwheel calls it one blend in four sizes. The maker says some of the Bordeaux size's filler is aged in wine barrels, and it describes the Rioja as full-bodied.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel says one of the lowest-priced lines, not the lowest, and Nigori is a style of sake, not a region."
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Queen Sheba Conquest Edition Series II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, Ecuador, Honduras, Nicaragua",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "dark cocoa",
+   "black coffee",
+   "toasted oak",
+   "spice"
+  ],
+  "about": "A 2026 follow-up to El Septimo's Empress of Sheba from the Emperor Collection, with a new blend in a slimmer 6 x 54 toro. It is a regular production cigar.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/el-septimo-adding-queen-sheba-conquest-edition/466643/",
+   "https://halfwheel.com/pca-2026-el-septimo/466686/",
+   "https://el-septimo.com/shop/cigars/emperor-collection/empress-sheba-toro/"
+  ],
+  "notes": "The wrapper is undisclosed; the maker's description speaks of maduro. The maker's site sells this cigar as Empress Sheba Toro within the Emperor Collection. The original Empress Sheba is a 6 x 60 gordo from 2023.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Doble Gran Reserva 20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian (variety undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, Honduras, Costa Rica",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "leather",
+   "toasted oak",
+   "spice",
+   "nuts"
+  ],
+  "about": "A single-size limited edition marking El Septimo's 20th anniversary in 2025, priced at $125 a cigar. The maker says the tobaccos are aged seven to ten years and that more than 60 people took part in the blending.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-septimo-doble-gran-reserva/458489/",
+   "https://el-septimo.com/shop/cigars/zaya-collection/20th-anniversary-doble-gran-reserva/"
+  ],
+  "notes": "Limited to 1,000 boxes of 14, sold through the top 50 accounts. The maker's site lists the wrapper as undisclosed and Costa Rica in the filler; halfwheel reports an Ecuadorian wrapper and Ecuador in the filler instead of Costa Rica. Strength and body are from halfwheel's review; the maker gives none.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Septimo",
+  "line": "Mi Familia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-seed and maduro versions (origin undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Criollo)",
+  "filler": "Nicaragua, USA (Pennsylvania), Peru",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sherry's Cigar (Lancero)",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Daniel's Cigar (Churchill)",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "William's Cigar (Toro)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Alexandra's Cigar (Grand Robusto)",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Andrew's Cigar (Belicoso)",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "spice",
+   "espresso",
+   "dark chocolate"
+  ],
+  "about": "A 2026 limited edition set from El Septimo owner Zaya Younan, with sizes named for his wife and children. Each of the five sizes comes in both a Connecticut-seed and a maduro wrapper.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-el-septimo/466686/",
+   "https://el-septimo.com/shop/cigars/zaya-collection/mi-familia-limited-edition/"
+  ],
+  "notes": "Sold only as a complete 20-cigar set, two of each size and wrapper, priced at $2,000 and limited to 1,000 boxes. The origin of both wrappers is undisclosed. The maker lists it under the Zaya Collection.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dissident",
+  "line": "Soapbox",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra (origin undisclosed)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of Dissident's two original core lines, first shipped in 2013 and relaunched in 2019 with a new blend made at Fabrica Oveja Negra in Esteli. Dissident is a small punk-themed brand now owned by Cynn and Joshua Coburn.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2022-dissident/409739/",
+   "https://halfwheel.com/dissident-ships-revamped-portfolio/365828/",
+   "https://www.neptunecigar.com/cigar/dissident-soap-box"
+  ],
+  "notes": "The wrapper has changed: the 2019 relaunch used a Brazilian wrapper, and in 2022 it switched to Sumatra because of tobacco availability. Some retailers still describe the Brazilian wrapper. Full strength is Neptune's rating; the 2013 original was a Nicaraguan puro.",
+  "verified": true,
+  "verifyNotes": "Filled strength as Full from Neptune (Famous Smoke's overview also calls it full-bodied) and added Neptune as a source in place of the 2013 review, which still confirms the 2013 debut (halfwheel.com/review-dissident-soapbox-rave-prerelease/40239/)."
+ },
+ {
+  "brand": "Dissident",
+  "line": "Bloc",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box Press Robusto",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Box Press Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Box Press Lonsdale",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cream",
+   "sweet spice"
+  ],
+  "about": "A box-pressed maduro and one of Dissident's two core lines, reworked in 2019 at Fabrica Oveja Negra with a punk rock theme in place of the older video game branding.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/dissident-ships-revamped-portfolio/365828/",
+   "https://www.famous-smoke.com/brand-dissident-bloc",
+   "https://halfwheel.com/review-dissident-bloc-b_a-prerelease/40760/"
+  ],
+  "notes": "First shown in 2013 with a video game theme and a different blend; the current blend dates from 2019. Famous Smoke's brand overview calls it medium to full with a San Andres wrapper, but its line page, Neptune and halfwheel list Ecuadorian maduro, and both retailers rate it full.",
+  "verified": true,
+  "verifyNotes": "Changed released from 2019 to 2013 to match how Soapbox and HOME are dated: halfwheel shows Bloc was introduced at the 2013 trade show, though its October 2013 ship date was tentative. Swapped the Famous Smoke overview (famous-smoke.com/brands/dissident-cigars) for that 2013 review."
+ },
+ {
+  "brand": "Dissident",
+  "line": "Rant",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "molasses",
+   "baking spices"
+  ],
+  "about": "A single-size petite corona with a Pennsylvania broadleaf wrapper, released by Dissident in 2020 alongside Rave and Tirade and made at Fabrica Oveja Negra.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/dissident-rant-rave-and-tirade/382107/",
+   "https://www.famous-smoke.com/brand-dissident-rant",
+   "https://halfwheel.com/dissident-cigars-sold-to-cynn-joshua-coburn/403139/"
+  ],
+  "notes": "Comes in one size only. It started as a small batch release and moved into the core line when the brand changed owners at the end of 2021.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dissident",
+  "line": "Rave",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "leather",
+   "white pepper",
+   "bread",
+   "nuts"
+  ],
+  "about": "Dissident's Connecticut-wrapped cigar, released in 2020 as a box-pressed robusto and joined in 2023 by a smaller round robusto. It is made at Fabrica Oveja Negra in Esteli.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/dissident-adds-rave-non-box-pressed-robusto/420679/",
+   "https://halfwheel.com/dissident-rave/384258/",
+   "https://www.neptunecigar.com/dissident-cigar"
+  ],
+  "notes": "Stronger than a typical Connecticut: halfwheel's review found medium-plus strength with full flavor and body. Neptune lists it as full strength. Both sizes use the same blend.",
+  "verified": true,
+  "verifyNotes": "Notes: removed the unsupported claims that the maker gives no strength rating and that the broadleaf filler explains the strength, and added Neptune's full rating with its page as a source."
+ },
+ {
+  "brand": "Dissident",
+  "line": "Tirade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "nutmeg",
+   "chocolate",
+   "espresso"
+  ],
+  "about": "A single-size corona gorda with a Mexican San Andres wrapper, released by Dissident in 2020 alongside Rant and Rave and made at Fabrica Oveja Negra.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/dissident-rant-rave-and-tirade/382107/",
+   "https://www.famous-smoke.com/brand-dissident-tirade",
+   "https://www.famous-smoke.com/brands/dissident-cigars"
+  ],
+  "notes": "Comes in one size only. Famous Smoke's brand overview describes an Ecuadorian Habano wrapper, but its line page and halfwheel both list Mexican San Andres. It moved from small batch to the core line at the end of 2021.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dissident",
+  "line": "Home",
+  "found": true,
+  "officialName": "HOME",
+  "wrapperLeaf": "Ecuadorian Maduro and Corojo (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Dissident's recurring limited edition, a barber pole cigar with two Ecuadorian wrappers made at Fabrica Oveja Negra. It first appeared in 2015 and has returned in 2019, 2020, 2021 and 2023.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dissident-cigars-brings-back-home-for-2023/419517/",
+   "https://halfwheel.com/dissdent-begins-shipping-home-2021/393405/",
+   "https://halfwheel.com/dissident-bringing-home-to-ipcpr-2015/87846/"
+  ],
+  "notes": "Two wrappers, so no single wrapper type applies. The 2015 original was a 6 x 54 Honduran puro, and the blend was changed completely in 2019. The 2019 release was 6 x 54; 2021 and 2023 were 6 x 52 box-pressed, with production numbers undisclosed.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country, factory, size and release years confirmed on halfwheel. Strength left null: no page I could open states one and the maker's site did not load, so I could not confirm it is unpublished. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Dissident",
+  "line": "Molotov",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Rojiso",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Esteli, Ometepe), Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited edition robusto that was the first new Dissident cigar after Cynn and Joshua Coburn bought the brand. It debuted in 2022 and came back for a second batch in 2024.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dissident-brings-back-the-molotov-for-2024/442665/",
+   "https://halfwheel.com/dissident-molotov-debuting-at-pca-2022/409737/",
+   "https://halfwheel.com/pca-2022-dissident/409739/"
+  ],
+  "notes": "Rojiso is a reddish wrapper shade, filed here under Rosado as the closest type. The 2022 release was limited to 500 boxes of 20; the 2024 quantity was not disclosed. The company calls the profile mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dissident",
+  "line": "ReVolt",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo and Maduro (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "bread",
+   "cocoa",
+   "nuts",
+   "wood"
+  ],
+  "about": "A 2023 limited edition robusto from Dissident, described as a toned-down round version of the HOME blend with the same two Ecuadorian wrappers. It is made at Fabrica Oveja Negra.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dissident-revolt-debuting-at-pca-2023/424548/",
+   "https://halfwheel.com/dissident-revolt/430813/",
+   "https://halfwheel.com/pca-2023-dissident-cigars/424192/"
+  ],
+  "notes": "Two wrappers, so no single wrapper type applies. The company calls the profile \"medium bold\"; halfwheel's review found medium-plus strength, medium-full body and full flavor. Production numbers are not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dissident",
+  "line": "Heretic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro and Rojiso (dual wrapper)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Corona Larga",
+    "length": 6.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "earth",
+   "pepper",
+   "chocolate"
+  ],
+  "about": "A 2024 limited edition from Dissident with two Ecuadorian wrappers, sold as a regular item only by retailers in the Midwest and at events elsewhere. Owner Cynn Coburn made it as a nod to her Midwestern roots.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dissident-launches-heretic-as-exclusive-for-midwestern-u-s-retailers-event-only-release-elsewhere/433626/"
+  ],
+  "notes": "Two wrappers, so no single wrapper type applies. Regular retail sales were limited to stores in ten Midwestern states, with event-only availability elsewhere. Production numbers are not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dissident",
+  "line": "Plasmatic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra-seed and Connecticut-seed (barber pole, origin undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "floral",
+   "earth",
+   "spice",
+   "nuts"
+  ],
+  "about": "A 2024 limited edition barber pole robusto from Dissident, made as a tribute to punk singer Wendy O. Williams of the Plasmatics. It is produced at Fabrica Oveja Negra in Esteli.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dissident-to-honor-punk-rock-legend-wendy-o-williams-with-plasmatic-at-pca-2024/436222/",
+   "https://halfwheel.com/dissident-plasmatic/444542/"
+  ],
+  "notes": "Two wrappers of undisclosed origin, so no single wrapper type applies. Strength and body are from halfwheel's review, which found it mild at the start and just under medium later. Production numbers are not disclosed.",
+  "verified": true,
+  "verifyNotes": "Filled strength (Mild-Medium) and body (Medium) from halfwheel's review, the same way the batch treats Rave and ReVolt. Removed the claim that the company gives no strength rating, which I could not check."
+ }
+]

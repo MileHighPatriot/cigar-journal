@@ -1,0 +1,805 @@
+[
+ {
+  "brand": "Man O' War",
+  "line": "Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "baking spices",
+   "wood",
+   "pepper"
+  ],
+  "about": "The first Man O' War blend, made by AJ Fernandez in Esteli for Cigars International. It pairs an Ecuadorian Habano wrapper with Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/man-o-war.html",
+   "https://www.cigarsdirect.com/products/man-o-war-original-robusto",
+   "https://www.neptunecigar.com/cigar/man-o-war"
+  ],
+  "notes": "Man O' War is a Cigars International house brand blended and rolled by AJ Fernandez.",
+  "verified": true,
+  "verifyNotes": "Confirmed wrapper, binder, filler, country, strength and the three sizes on Holt's, Cigars Direct and Neptune. Added the Neptune page as a source because it is the one that names the factory (it calls it Tabacalera Fernandez, the older name of AJ Fernandez's factory). No release year found, left null."
+ },
+ {
+  "brand": "Man O' War",
+  "line": "Dark Horse",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cigarillo",
+    "length": 4,
+    "ring": 32
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "spice",
+   "earth"
+  ],
+  "about": "A Man O' War blend from AJ Fernandez. The only format confirmed on sale is a 4 x 32 cigarillo sold in tins of 10.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://mikescigars.com/brands/man-o-war-dark-horse",
+   "https://mikescigars.com/man-o-war-dark-horse-cigarillo",
+   "https://blindmanspuff.com/man-o-war-abomination-toro-blind-cigar-review/"
+  ],
+  "notes": "Blend not confirmed. Mike's Cigars describes a San Andres maduro wrapper over Nicaraguan and Brazilian filler with a Habano 2000 binder, medium to full, but its own spec table lists the wrapper as Nicaraguan. Only the cigarillo size was confirmed.",
+  "verified": false,
+  "verifyNotes": "Nothing changed. Opened both Mike's Cigars pages: the description says San Andres maduro wrapper but the spec table says Nicaraguan, so wrapper and strength stay null. Country and the 4 x 32 cigarillo are confirmed there. Cigars International, which owns the brand, blocks automated page loads, so the full line could not be cross-checked."
+ },
+ {
+  "brand": "Man O' War",
+  "line": "Abomination",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Toro Box-Pressed",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "black pepper",
+   "cocoa",
+   "leather",
+   "graham cracker",
+   "dark chocolate"
+  ],
+  "about": "A San Andrés wrapped Man O' War made by AJ Fernandez for Cigars International, introduced in 2021. It is sold as the strongest blend in the Man O' War range.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://blindmanspuff.com/man-o-war-abomination-toro-blind-cigar-review/"
+  ],
+  "notes": "Billed as the strongest Man O' War, but the Blind Man's Puff panel rated it medium in strength with medium-full body, so strength is left blank.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed wrapper, binder, filler, country, factory, 2021 release and all four sizes on Blind Man's Puff. Its panel rated strength medium and body medium-full while the brand bills it as its strongest, so strength stays null. No second source could be opened (Cigars International blocks automated page loads)."
+ },
+ {
+  "brand": "Man O' War",
+  "line": "Valkyrie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "The Connecticut wrapped entry in the Man O' War range, made by AJ Fernandez for Cigars International with Nicaraguan binder and filler.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.cigarsinternational.com/product/man-o-war-valkyrie/MW2-PM.html",
+   "https://blindmanspuff.com/man-o-war-abomination-toro-blind-cigar-review/"
+  ],
+  "notes": "Blend is from the Cigars International listing. Sizes and strength could not be confirmed.",
+  "verified": false,
+  "verifyNotes": "Nothing changed, but not confirmed first hand. The Cigars International page returns 403 to automated loads, and Blind Man's Puff only names Valkyrie as a Man O' War line. A search extract of the CI listing agreed with the wrapper, binder, filler and country here and called it mild to medium, with a 5.2 x 50 robusto and 6.1 x 50 toro; strength and sizes are left blank until someone reads the page."
+ },
+ {
+  "brand": "Man O' War",
+  "line": "Side Projects Damnation",
+  "found": true,
+  "officialName": "Damnation",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1 Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 2 Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A dark wrapped Man O' War from AJ Fernandez, sold in boxes of 20 in three sizes.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.cigarsdirect.com/collections/man-o-war",
+   "https://www.cigarsdirect.com/products/man-o-war-damnation-no-1-robusto"
+  ],
+  "notes": "Cigars Direct lists Damnation as its own Man O' War line, not under Side Projects. It gives a Connecticut Broadleaf wrapper, Nicaraguan Habano binder and Nicaraguan filler at medium-full, but no second source confirmed the blend.",
+  "verified": false,
+  "verifyNotes": "Nothing changed. Confirmed the three sizes, box of 20 and Nicaragua on Cigars Direct, which is the only source found. Cigar Coop lists the Side Projects blends as 52C, Phalanx and Little Devil, with no Damnation, which supports treating it as its own line. Wrapper and strength stay null because one retailer is the only source."
+ },
+ {
+  "brand": "Man O' War",
+  "line": "Side Projects Phalanx",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Fernandez",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "cream",
+   "milk chocolate",
+   "dried fruit",
+   "espresso"
+  ],
+  "about": "One of the small Man O' War Side Projects blends by AJ Fernandez, a single 6.5 x 56 toro gordo with a Pennsylvania Broadleaf maduro wrapper.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://blindmanspuff.com/man-o-war-phalanx-side-projects/",
+   "https://cigar-coop.com/2012/09/cigar-review-man-o-war-side-project-html.html"
+  ],
+  "notes": "Single size sold in boxes of 12 through Cigars International. It was on the market by 2012; current availability was not confirmed.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed wrapper, binder, filler, country, factory, size and strength (medium-strong) on Blind Man's Puff, and the Side Projects background, box of 12 and 2012 date on Cigar Coop."
+ },
+ {
+  "brand": "Ozgener Family",
+  "line": "Firsat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "F52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "F55",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "F60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "F54",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "leather",
+   "oak",
+   "cream",
+   "earth"
+  ],
+  "about": "A mild to medium line from OZ Family Cigars, Tim Ozgener's company, made at Ernesto Perez-Carrillo's Casa Carrillo factory. Firsat is Turkish for opportunity.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://ozfamilycigars.com/firsat/",
+   "https://halfwheel.com/firsat-f52/445345/",
+   "https://www.neptunecigar.com/cigar/ozgener-firsat"
+  ],
+  "notes": "Box-pressed. The maker calls it mild to medium; Neptune lists it as mild. The company now goes by OZ Family Cigars and is part of Crowned Heads.",
+  "verified": true,
+  "verifyNotes": "Reworded about: no source says this is the company's mildest line, so it now just says mild to medium. Everything else confirmed on the maker's page, halfwheel and Neptune."
+ },
+ {
+  "brand": "Ozgener Family",
+  "line": "Karatoba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "meat",
+   "maple"
+  ],
+  "about": "The fourth regular line from OZ Family Cigars and its first made at NACSA in Nicaragua. The name joins the Turkish word for dark with Lake Toba in Sumatra, a nod to the wrapper.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://ozfamilycigars.com/karatoba/",
+   "https://halfwheel.com/oz-family-cigars-releasing-karatoba-in-may/448761/",
+   "https://www.neptunecigar.com/cigar/ozgener-karatoba"
+  ],
+  "notes": "The maker rates it medium to full; Neptune lists it as medium. Tim Ozgener describes the flavor as a hearty bolognese with a maple finish.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed blend, factory, sizes and 2025 release on halfwheel, the maker's medium to full rating on ozfamilycigars.com, and Neptune's medium."
+ },
+ {
+  "brand": "Ozgener Family",
+  "line": "Maracana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Honduras, Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "My Father Cigars Honduras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "wood",
+   "earth",
+   "espresso",
+   "leather",
+   "nuts"
+  ],
+  "about": "Tim Ozgener's modern take on CAO Brazilia, named for the Maracana stadium in Rio. It is made at My Father's Honduran factory with a Brazilian Arapiraca wrapper.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/maracana-robusto-extra/477883/",
+   "https://www.neptunecigar.com/cigar/ozgener-maracana",
+   "https://www.cigarsdirect.com/products/oz-family-maracana-toro"
+  ],
+  "notes": "Box-pressed. Neptune lists it as full strength and made in Nicaragua; halfwheel and Cigars Direct say Honduras, and Cigars Direct says medium-full. Said to be the first My Father made cigar to use Brazilian tobacco.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed wrapper, binder, filler, Honduras, factory, sizes and June 2026 release on halfwheel. Neptune does list origin Nicaragua and strength full, and Cigars Direct says Honduras and medium-full, as the note says. halfwheel's reviewer found the strength medium."
+ },
+ {
+  "brand": "Ozgener Family",
+  "line": "Limited Edition World Cup 2026",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Brazil, Ecuador, Honduras, Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "earth",
+   "cream",
+   "coffee",
+   "chocolate"
+  ],
+  "about": "A one-time 6 x 50 toro from OZ Family Cigars for the 2026 World Cup, made by My Father in Esteli. The blend draws on tobacco from several countries that played in the tournament.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oz-family-cigars-limited-edition-world-cup-2026/475916/",
+   "https://www.neptunecigar.com/cigar/ozgener-world-cup-le",
+   "https://www.cigarsdirect.com/products/oz-family-cigars-2026-world-cup-toro-limited-edition"
+  ],
+  "notes": "2,026 boxes of 10. halfwheel says the binder is undisclosed; Neptune lists it as Nicaraguan. Neptune rates it full and Cigars Direct medium-full, while halfwheel's reviewer found the strength mild to medium.",
+  "verified": true,
+  "verifyNotes": "Added the Cigars Direct page as a source because the note and the medium-full strength rely on it. Wrapper, filler, country, factory, size and box count confirmed on halfwheel; Neptune's full rating and Nicaraguan binder confirmed."
+ },
+ {
+  "brand": "Ozgener Family",
+  "line": "Pi Synesthesia Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza (Casa Carrillo)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "red pepper",
+   "sweetness"
+  ],
+  "about": "The second release in Ozgener's annual Pi Synesthesia limited series, named for a set of paintings by CAO founder Cano Ozgener. It was blended to be spicier than the first release.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pi-synesthesia-red-begins-shipping/430029/",
+   "https://www.neptunecigar.com/cigars/ozgener-pi-synesthesia-red",
+   "https://www.cigarsdirect.com/products/crowned-heads-ozgener-limited-edition-pi-synesthesia-red-toro"
+  ],
+  "notes": "2,500 boxes of 12. It follows the 2022 original (yellow ribbon), which was made in Nicaragua. Neptune's spec table says medium, but its description says medium to full and Cigars Direct says medium-full.",
+  "verified": true,
+  "verifyNotes": "Rewrote notes to flag that Neptune's spec table says medium while its own description and Cigars Direct say medium to full, and dropped the remark about Neptune's stock status. Added Cigars Direct as a source. Wrapper, binder, filler, country, factory, size and box count confirmed on halfwheel."
+ },
+ {
+  "brand": "Ozgener Family",
+  "line": "Pi Synesthesia Brown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "cocoa"
+  ],
+  "about": "The third release in the annual Pi Synesthesia limited series from OZ Family Cigars, announced in October 2024. It is a 6 x 52 toro made at Casa Carrillo.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigars/ozgener-pi-synesthesia-brown-le-2024",
+   "https://cigar-coop.com/2024/10/oz-family-cigars-announces-pi-synesthesia-brown-cigar-news.html"
+  ],
+  "notes": "Follows Yellow (2022) and Red (2023). The blend details come from Neptune's listing only.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Wrapper, binder, filler, factory, country, medium strength and the 6 x 52 size confirmed on Neptune; Cigar Coop confirms it is the third release, announced October 2024, but gives no blend. No halfwheel page found for it."
+ },
+ {
+  "brand": "AVO",
+  "line": "Expresivo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua (Jalapa)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "leather",
+   "spice",
+   "dried fruit"
+  ],
+  "about": "A 2026 regular line from Davidoff's AVO brand and the first AVO made outside the Dominican Republic. It is rolled at the Honduran factory best known for Camacho.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://us.davidoffgeneva.com/discover/AVO/AVO-EXPRESIVO",
+   "https://halfwheel.com/avo-expresivo-robusto/476596/",
+   "https://www.neptunecigar.com/cigar/avo-expresivo"
+  ],
+  "notes": "Davidoff does not name the wrapper variety. Neptune lists it as medium; Cigars Direct says medium-full.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed blend, factory, sizes and June 2026 release on halfwheel; Davidoff's page confirms Honduras and the Ecuadorian wrapper without naming the variety. Neptune says medium and Cigars Direct medium-full, as the note says."
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro Caribe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Special Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "peanuts",
+   "leather",
+   "espresso",
+   "anise",
+   "dark chocolate"
+  ],
+  "about": "The fourth blend in AVO's Syncro series, released in 2021. It uses a Dominican wrapper over an Ecuadorian binder with Dominican and Nicaraguan filler.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/avo-syncro-caribe-toro/401503/",
+   "https://www.neptunecigar.com/cigar/avo-syncro-caribe"
+  ],
+  "notes": "The wrapper variety is not named. Neptune describes the wrapper color as maduro.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed blend, factory, three sizes and August 2021 release on halfwheel, and medium strength on Neptune. The Davidoff link in the input loads but shows no specs to an automated reader."
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro Nicaragua 10th Anniversary Limited Edition",
+  "found": true,
+  "officialName": "Syncro 10th Anniversary Limited Edition",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diadema",
+    "length": 6.625,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "cream",
+   "coffee"
+  ],
+  "about": "A 2025 limited edition marking ten years of AVO Syncro Nicaragua. It is a box-pressed diadema with a modified version of the Syncro Nicaragua blend.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/avo-syncro-10th-anniversary-limited-edition/452316/",
+   "https://halfwheel.com/avo-syncro-10th-anniversary-limited-edition-shipping-in-april/448203/",
+   "https://www.neptunecigar.com/cigar/avo-syncro-nicaragua"
+  ],
+  "notes": "Single size, 6 5/8 x 50. 3,400 boxes of 20 were released for the U.S. The blend is not identical to the regular Syncro Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed blend, factory, size, April 2025 release and 3,400 U.S. boxes of 20 on halfwheel; Neptune and Cigars Direct both list it as medium."
+ },
+ {
+  "brand": "AVO",
+  "line": "Expressions Limited Edition 2024",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "caramel",
+   "nuts",
+   "wood",
+   "bread",
+   "coffee"
+  ],
+  "about": "A 2024 AVO limited edition made with hip-hop DJ D-Nice. It is a 6 1/2 x 50 toro extra with an Ecuadorian wrapper, Mexican binder and Dominican and U.S. filler.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/avo-expressions-limited-edition-2024/439838/",
+   "https://us.davidoffgeneva.com/product/avo-expressions-le-2024",
+   "https://www.neptunecigar.com/cigar/avo-expressions"
+  ],
+  "notes": "6,900 boxes of 15 worldwide. One of the filler tobaccos was aged in used bourbon barrels.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed blend, factory, size, 2024 release and 6,900 boxes of 15 on halfwheel; Neptune and Cigars Direct both list it as medium. halfwheel's reviewer found the strength mild."
+ },
+ {
+  "brand": "AVO",
+  "line": "Seasons Limited Edition 2023",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Varies by season: Ecuadorian Corojo (Spring, Summer), Mexican San Andrés Maduro (Fall), Ecuadorian Connecticut (Winter)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic (Mexico on Summer)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diadema",
+    "length": 6.625,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cream",
+   "coffee",
+   "dried fruit",
+   "nuts",
+   "baking spices"
+  ],
+  "about": "A 2023 AVO limited series of four different blends, one for each season, all in the same 6 5/8 x 50 diadema shape. Each uses some filler aged up to 14 years.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/avo-announces-seasons-limited-edition-series-2023/420671/",
+   "https://halfwheel.com/avo-seasons-limited-edition-2023-fall/437684/",
+   "https://www.neptunecigar.com/cigar/avo-seasons"
+  ],
+  "notes": "Four separate cigars: Spring, Summer, Fall and Winter, each with its own wrapper, so ask which season is in the box. 4,000 boxes of 10 of each.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed all four blends, the shared 6 5/8 x 50 size, factory and 4,000 boxes of 10 each on halfwheel; Neptune lists the line as medium."
+ },
+ {
+  "brand": "AVO",
+  "line": "Regional",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Varies by edition: Ecuadorian (East, West), Dominican (North), Ecuadorian Connecticut (South)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic (East, West, North), Ecuador (South)",
+  "filler": "Dominican Republic, plus Nicaragua (East), Honduras (West), Honduras and Peru (South)",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "East Edition Perfecto",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "West Edition Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "North Edition Perfecto",
+    "length": 6.625,
+    "ring": 50
+   },
+   {
+    "name": "South Edition Torpedo",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "AVO's first regional series: four limited blends that were each sold only to stores in one part of the U.S. East and West came out in 2019, North and South in 2020.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/avo-regional-east-edition/366330/",
+   "https://halfwheel.com/avo-regional-north-south-debuting-in-august/372735/",
+   "https://www.neptunecigar.com/cigar/avo-regional"
+  ],
+  "notes": "Four different cigars, not one blend. Davidoff called West the stronger of the first pair. Neptune lists East at 6 x 53; halfwheel says 6 x 55.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed all four blends, sizes and release years on halfwheel. Neptune lists the line as medium and does show East at 6 x 53."
+ }
+]

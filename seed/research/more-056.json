@@ -1,0 +1,1161 @@
+[
+ {
+  "brand": "Esteban Carreras",
+  "line": "Cashmere",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "spice",
+   "cream",
+   "nuts"
+  ],
+  "about": "A Connecticut-wrapped cigar over Nicaraguan binder and filler, made by Esteban Carreras at its own factory in Esteli. It arrived quietly in stores in August 2020.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://halfwheel.com/esteban-carreras-cashmere-churchill/381377/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-cashmere"
+  ],
+  "notes": "The maker calls it medium to full-bodied, but Neptune lists it as medium and reviews by halfwheel and Cigar Coop found it mild to medium in strength. A 4 x 38 tin size was added in 2026.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and 2020 release confirmed on the maker, halfwheel and Neptune pages. Added Cigar Coop's mild to medium finding to the strength note."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Chupacabra Hellcat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Hellcatito",
+    "length": 4.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Sesenta",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "espresso",
+   "dark chocolate",
+   "nuts",
+   "earth",
+   "dried fruit"
+  ],
+  "about": "A box-pressed offshoot of the Chupacabra line with a Mexican San Andrés wrapper over Nicaraguan binder and filler. It debuted at the 2016 trade show, and the small Hellcatito size followed in 2018.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://halfwheel.com/esteban-carreras-unleashes-chupacabra-hellcatito/255860/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-chupacabra-hellcat"
+  ],
+  "notes": "The maker's site lists it simply as Hellcat. Neptune rates it medium, Atlantic medium to full. The line is box-pressed.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker, halfwheel, Cigar Coop, Neptune and Atlantic. Reworded about: Atlantic says it shares the Chupacabra binder and filler but Cigar Coop quotes the owner calling it a completely new blend, so the 'same' claim was removed."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Taken From The Dictator's Hand Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "coffee",
+   "earth",
+   "cream",
+   "pepper"
+  ],
+  "about": "The maduro version of the Dictator's Hand line, built around a corojo-seed wrapper given a long, low-heat extra fermentation. The story behind it is corojo seed smuggled out of Cuba in the 1990s by the man who now runs the Esteban Carreras factory.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://halfwheel.com/esteban-carreras-taken-from-the-devils-hand-corojo-maduro-sixty/431401/",
+   "https://halfwheel.com/esteban-carreras-taken-from-the-hand-of-the-devil-renamed-to-taken-from-the-hand-of-the-dictator/442481/"
+  ],
+  "notes": "Launched in 2023 as Taken From the Devil's Hand Corojo Maduro and renamed in 2024 after a trademark dispute. The maker lists an Ecuadorian corojo maduro wrapper, but Atlantic calls it Nicaraguan. Neptune and Cigar Coop rate it medium, Atlantic medium to full, and halfwheel found it mild.",
+  "verified": true,
+  "verifyNotes": "Wrapper, factory, sizes and 2023 release confirmed on the maker and halfwheel pages. Strength and body of medium confirmed on Neptune and Cigar Coop's review. Shortened notes to fit the limit."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Unforsaken",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "President's Own",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sesenta",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Wrecking Ball",
+    "length": 6,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "wood",
+   "leather",
+   "coffee",
+   "spice",
+   "cocoa",
+   "earth"
+  ],
+  "about": "A barrel-aged blend from Esteban Carreras: the tobacco and then the finished cigars rest in barrels that held Flor de Cana 18 year rum. It includes the company's first 70 ring gauge size.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://halfwheel.com/esteban-carreras-unforgiven-toro-grande/366453/",
+   "https://atlanticcigar.com/esteban-carreras-unforsaken-toro-grande-6x52/"
+  ],
+  "notes": "Released in 2019 as Unforgiven and renamed Unforsaken in 2020. Strength varies by source: Atlantic says medium to full, Neptune full, and Cigar Coop's review medium. The maker lists four sizes with the toro at 6 x 50, while halfwheel and Atlantic list it as 6 x 52.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and 2019 release confirmed on halfwheel, Cigar Coop and Atlantic. Removed the flavor 'citrus', which no source page lists, and added 'earth'. Added the strength disagreement to notes: Neptune says full and Cigar Coop medium."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Mr. Brownstone Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Condega, Estelí)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Chuchy",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "citrus",
+   "dried fruit",
+   "sweetness"
+  ],
+  "about": "The natural-wrapper follow-up to Mr. Brownstone, an all-Nicaraguan blend under a Nicaraguan Habano wrapper. It was added at the 2018 trade show.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2018-esteban-carreras/272952/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-mr-brownstone",
+   "https://atlanticcigar.com/esteban-carreras-mr-brownstone-habano-toro-6x52/"
+  ],
+  "notes": "The maker's site shows the Maduro's broadleaf blend under this name, which looks like a copy error: halfwheel, Neptune and Atlantic all list a Nicaraguan Habano wrapper. Atlantic sells it as Mr. Brownstone Habano. Neptune rates it medium, Atlantic medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Mr. Brownstone Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto (Speedball)",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro (Smack)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sesenta (Mainline)",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "earth",
+   "pepper",
+   "sweetness"
+  ],
+  "about": "The original Mr. Brownstone, a Connecticut Broadleaf maduro over an Ecuadorian Habano binder and Nicaraguan filler. It launched at the 2017 trade show, with the small Boolit size added in 2018.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://halfwheel.com/ipcpr-2017-esteban-carreras/162441/",
+   "https://atlanticcigar.com/esteban-carreras-mr-brownstone-maduro-smack-toro-6x52/"
+  ],
+  "notes": "Strength is listed differently by source: Neptune says medium, Atlantic medium to full, and Cigar Coop's review called it full. It launched simply as Mr. Brownstone.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Bronze Cross",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "nuts",
+   "sweetness"
+  ],
+  "about": "The second cigar in the Esteban Carreras Cross series, following Black Cross with an Ecuadorian Sumatra wrapper over Nicaraguan tobacco. It was shown at the 2015 trade show.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://cigar-coop.com/2015/07/cigar-news-esteban-carreras-bronze-cross.html",
+   "https://atlanticcigar.com/esteban-carreras-bronze-cross-gordo-6x60/"
+  ],
+  "notes": "The toro's ring gauge differs by source: the maker lists 5 1/2 x 50, Cigar Coop 52 and halfwheel 54. Atlantic and Neptune both call it medium to full. Atlantic says it is box-pressed.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and 2015 release confirmed on the maker, Cigar Coop and halfwheel pages. Corrected the note: Neptune also gives a strength (medium to full), so Atlantic is not the only source."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Black Cross",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Café",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes Jalapa ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Bonita",
+    "length": 4,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Cervantes",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "baking spice",
+   "cherry",
+   "cedar",
+   "pepper",
+   "coffee"
+  ],
+  "about": "The first of the Esteban Carreras Cross series, a Habano Café wrapper over Nicaraguan binder and filler. The name refers to a mark put on the doors of supporters of the brand's namesake during the Cuban revolution.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://cigar-coop.com/2015/08/cigar-review-esteban-carreras-black-cross-corona.html",
+   "https://halfwheel.com/ipcpr-2015-esteban-carreras/91241/"
+  ],
+  "notes": "No source says where the Habano Café wrapper is grown. The Bonita and Cervantes are figurados.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, strength and body confirmed on the maker, Cigar Coop and halfwheel pages. Removed the flavors 'earth' and 'leather', which the cited review does not mention, and replaced them with 'cherry' and 'coffee' from that review."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "10 Year",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A San Andrés-wrapped cigar with Nicaraguan binder and filler, listed in the Esteban Carreras catalog in four sizes sold in boxes of 24.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.estebancarreras.com/about-1",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-10-anos-maduro"
+  ],
+  "notes": "The maker publishes no strength or release year for this line. Neptune lists a 10 Anos Maduro with the same San Andrés over Nicaraguan blend, likely the same cigar, and calls it medium to full bodied. It is a different cigar from the Chupacabra 10 Year Anniversary.",
+  "verified": true,
+  "verifyNotes": "Maker's catalog confirmed. The maker publishes no strength for it. Added a Neptune page for what appears to be the same cigar under the name 10 Anos Maduro and noted its strength wording without filling the field."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Covenant Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Grande",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Doble Corona",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A dark Habano Oscuro-wrapped cigar with Nicaraguan binder and filler. The maker's About page names Covenant alongside Chupacabra as one of its popular lines.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.estebancarreras.com/about-1",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-covenant-maduro"
+  ],
+  "notes": "The maker does not say where the wrapper is grown. Neptune calls the cigar a Nicaraguan puro with a Habano maduro wrapper. Strength is from Neptune, the only source that gives one, and no release year is published.",
+  "verified": true,
+  "verifyNotes": "Maker's catalog confirmed. Filled strength from Neptune (medium to full-bodied), which was null. Reworded about: the maker's About page calls Covenant popular, not a signature line."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Bloodline Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Petite Lancero",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Progeny",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The broadleaf maduro version of the Esteban Carreras Bloodline series, with Nicaraguan binder and filler. It is listed in the maker's catalog in five sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.estebancarreras.com/about-1",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-bloodline-maduro"
+  ],
+  "notes": "The maker does not say where the broadleaf wrapper is grown. Neptune calls the cigar a Nicaraguan puro. Strength is from Neptune, the only source that gives one, and no release year is published.",
+  "verified": true,
+  "verifyNotes": "Maker's catalog confirmed. Filled strength from Neptune (medium to full-bodied), which was null."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Bloodline Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lineage",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gordito",
+    "length": 5.2,
+    "ring": 56
+   },
+   {
+    "name": "Vestage",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Stock",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Stemma",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Progeny",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "nuts"
+  ],
+  "about": "The Nicaraguan puro in the Esteban Carreras Bloodline series, with a Nicaraguan Habano wrapper. Its sizes carry family-tree names such as Lineage, Stemma and Progeny.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.estebancarreras.com/about-1",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-bloodline-habano"
+  ],
+  "notes": "Strength and tasting notes are from Neptune, the only source that gives them, and no release year is published. The maker's catalog spells the 5.2 x 56 size Grodito.",
+  "verified": true,
+  "verifyNotes": "Maker's catalog confirmed. Filled strength (full) and three flavors from Neptune, which were empty."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Bloodline Blondie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Big Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Progeny",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Petite Lancero",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice"
+  ],
+  "about": "The Connecticut-wrapped member of the Esteban Carreras Bloodline series, with Nicaraguan binder and filler. It is listed in the maker's catalog in six sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.estebancarreras.com/about-1",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-bloodline-blondie"
+  ],
+  "notes": "The maker does not say where the Connecticut wrapper is grown. Strength is from Neptune, the only source that gives one. The catalog lists Progeny as 6 x 60 here but 7 x 56 in the other Bloodline blends.",
+  "verified": true,
+  "verifyNotes": "Maker's catalog confirmed. Filled strength (medium) and two flavors from Neptune, which were empty."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Habano Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "4 x 54",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Doble Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice",
+   "caramel",
+   "baking spice",
+   "cedar",
+   "leather"
+  ],
+  "about": "An older Esteban Carreras blend from 2008, a Nicaraguan puro with a natural Habano wrapper. It is the lighter-wrapped partner to the Habano Maduro.",
+  "released": 2008,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://blindmanspuff.com/blind-cigar-review-esteban-carreras-habano-toro/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-habano"
+  ],
+  "notes": "Neptune describes it as medium to full bodied, while Blind Man's Puff's panel called it medium. The release year comes from Blind Man's Puff. Neptune's sampler lists it as 13 Year Aged Habano.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and 2008 release confirmed on the maker, Blind Man's Puff and Neptune pages. Reworded about to drop the unsupported 'one of the original blends', and narrowed the 13 Year Aged claim to Neptune, the only retailer seen using it."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Habano Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "4 x 54",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Doble Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cocoa",
+   "black pepper",
+   "cherry",
+   "coffee",
+   "cedar"
+  ],
+  "about": "The dark-wrapped half of the Esteban Carreras Habano series, a Nicaraguan puro that Neptune and Cigar Coop both rate full strength. It has been on the market since at least 2009.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://cigar-coop.com/2011/05/cigar-review-esteban-carreras-habano.html",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-habano-maduro"
+  ],
+  "notes": "No source gives an exact release year. Neptune sells it in a sampler as 13 Year Aged Habano Maduro. Cigar Coop's 2011 review called the 4 x 54 size the Rothman.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and full strength confirmed on the maker, Cigar Coop and Neptune pages. Reworded about: no source says it is one of the company's strongest cigars, only that it is full strength."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Connecticut White Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Corona",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Connecticut-wrapped cigar from Esteban Carreras with a Nicaraguan binder. Its filler mixes Nicaraguan and Dominican tobacco.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.estebancarreras.com/about-1",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-connecticut-white-label"
+  ],
+  "notes": "The maker does not say where the Connecticut wrapper is grown. Strength is from Neptune, the only source that gives one: it says the cigar starts mild and peaks at medium. No release year is published.",
+  "verified": true,
+  "verifyNotes": "Maker's catalog confirmed. Filled strength from Neptune (starts mild, peaks at medium), which was null. Simplified about."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Las Cañas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "earth",
+   "dark fruit",
+   "black pepper",
+   "wood",
+   "cream"
+  ],
+  "about": "A sweetened Nicaraguan puro with a Habano maduro wrapper. Instead of only sweetening the cap, every leaf is sprayed with sugar water so the sweetness carries through the cigar, and the owner says it is now the company's number two seller.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/esteban-carreras-las-canas-toro/461348/",
+   "https://halfwheel.com/pca-2025-esteban-carreras/449979/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-las-canas"
+  ],
+  "notes": "This is a sweetened cigar, so tell guests up front. Neptune lists it as full, but halfwheel's review found the nicotine strength mild to just under medium with medium-full flavor. The binder and filler regions are not disclosed.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and 2025 release confirmed on halfwheel, Cigar Coop and Neptune. Reworded the best-seller claim in about to match what the owner told halfwheel."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Las Cañas Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Habano)",
+  "filler": "Nicaragua (Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The lighter follow-up to Las Cañas, with an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler. It uses the same method of sweetening every leaf with sugar water.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2026-esteban-carreras/467804/",
+   "https://cigar-coop.com/2026/05/esteban-carreras-launches-las-canas-connecticut-at-pca-2026-cigar-news.html"
+  ],
+  "notes": "This is a sweetened cigar. It was introduced at the 2026 trade show with a May 2026 release date, and no strength rating or tasting notes are published yet.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Soga de Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A small-production San Andrés maduro from Esteban Carreras, named rope of gold for the twist of tobacco it wears in place of a band. The cigars get an extra year of rest in their boxes before shipping.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/esteban-carreras-releases-soga-de-oro-at-tpe-2024/434369/",
+   "https://atlanticcigar.com/esteban-carreras-soga-de-oro-black-maduro-toro-5-3-4x54-10-pack/"
+  ],
+  "notes": "Regular production but limited to about 50 boxes of each size a month. Also sold as Soga de Oro Maduro or Black Maduro. Strength is from Atlantic, and no tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Soga de Oro Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The second Soga de Oro blend, with an Ecuadorian Sumatra wrapper aged three years over Nicaraguan binder and filler. Like the original it wears a twist of tobacco instead of a band and is made by a single pair of rollers.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/esteban-carreras-adds-soga-de-oro-sumatra-at-pca-2024/436928/",
+   "https://atlanticcigar.com/esteban-carreras-soga-de-oro-red-sumatra-toro-5-3-4x54-10-pack/"
+  ],
+  "notes": "Regular production but limited to about 50 boxes of each size a month. Atlantic sells it as Soga de Oro Red Sumatra. Strength is from Atlantic, and no tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "187",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.75,
+    "ring": 52
+   },
+   {
+    "name": "Tins",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "wood",
+   "earth",
+   "chocolate",
+   "salt"
+  ],
+  "about": "An older Esteban Carreras blend, a Nicaraguan puro with a maduro wrapper that came out in 2010. It is still in the portfolio and was one of five lines given a small tin size in 2026.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2010/11/cigar-review-esteban-carreras-187.html",
+   "https://halfwheel.com/pca-2026-esteban-carreras/467804/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-187"
+  ],
+  "notes": "The blend, strength and the toro and torpedo sizes come from a 2010 Cigar Coop review. The maker's current site does not list this line, so those two sizes may no longer be made. Neptune calls it medium bodied, and the 4 x 38 tin was announced for May 2026.",
+  "verified": true,
+  "verifyNotes": "Blend, strength, 2010 release and sizes confirmed on Cigar Coop, and the tin on halfwheel. Added Neptune as a source, which confirms it is made in Nicaragua and calls it medium bodied."
+ }
+]

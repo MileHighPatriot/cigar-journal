@@ -1,0 +1,599 @@
+[
+ {
+  "brand": "Asylum",
+  "line": "Schizo Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "5x50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "6x50",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "6x60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "7x52",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "7x70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "spice",
+   "pepper",
+   "oak"
+  ],
+  "about": "The maduro version of Asylum's budget Schizo bundle line, made in Honduras by CLE Cigar Co. with a mix of short and long filler. It is sold in bundles of 20.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/schizo-maduro-heads-to-retailers/83271",
+   "https://www.neptunecigar.com/cigars/asylum-schizo-maduro-6x50",
+   "https://www.cigarsdirect.com/collections/asylum-schizo-maduro"
+  ],
+  "notes": "Sources disagree on the blend. halfwheel and Cigars Direct say San Andrés wrapper, Neptune says Habano maduro; halfwheel says Honduran filler, Neptune Nicaraguan, Cigars Direct both. It is a mixed short and long filler cigar (Cuban sandwich).",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and year confirmed on halfwheel; medium strength and Nicaraguan binder confirmed on Neptune and Cigars Direct. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Sensorium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras (includes Pinareño and corojo)",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Asen 18 (11/18 perfecto)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Asen 60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "cinnamon",
+   "cloves",
+   "espresso",
+   "red pepper"
+  ],
+  "about": "A high-priced Honduran puro from Asylum built around Pinareño, a disease-prone Cuban-seed tobacco the Eiroa family rarely grows, plus their Jamastran corojo. Each cigar comes in its own coffin.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-going-from-big-ring-gauges-to-big-price-tag-with-sensorium/423099/",
+   "https://halfwheel.com/asylum-sensorium-asen-60/428397/",
+   "https://www.neptunecigar.com/cigars/asylum-sensorium-1118"
+  ],
+  "notes": "Wrapper varietal is not published; Neptune calls it a maduro. Retailers list it as full strength, but halfwheel's review found it just over medium. About 10,000 cigars per size are made each year, and halfwheel also lists the Asen 18 as 6 1/4 x 52/60.",
+  "verified": true,
+  "verifyNotes": "Honduran puro, factory, sizes and 2023 release confirmed on halfwheel; full strength confirmed on Neptune and Cigars Direct. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Asylum",
+  "line": "April Fools'",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "90x9",
+    "length": 9,
+    "ring": 90
+   }
+  ],
+  "flavors": [],
+  "about": "A 9 x 90 Honduran puro that began as an April Fools' Day joke in 2021 and went into production after fans asked for it. It returns each year, since 2023 with Chinese zodiac packaging.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-april-fools-90x9-gets-year-of-the-horse-packaging-for-2026/464695/",
+   "https://halfwheel.com/asylums-april-fools-moves-to-zodiac-themed-packaging/421979/",
+   "https://www.neptunecigar.com/cigars/asylum-april-fools--year-of-the-horse-9--90"
+  ],
+  "notes": "The maker only says Honduran puro; Neptune describes a dark Honduran maduro wrapper and its 2026 listing says Honduran corojo. The blend is the same every year and only the packaging changes (2026 is Year of the Horse). Neptune rates the 2026 release medium, earlier ones full.",
+  "verified": true,
+  "verifyNotes": "Honduran puro, factory, size, 2021 debut and regular production confirmed on halfwheel; full strength confirmed on Neptune's 2023 to 2025 listings and Cigars Direct. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Megalophobia",
+  "found": true,
+  "officialName": "13 Megalophobia",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Megalophobia",
+    "length": 13,
+    "ring": 134
+   }
+  ],
+  "flavors": [],
+  "about": "A 13 x 134 novelty cigar from Asylum, two inches across and holding more tobacco than 15 robustos. It is sold in boxes of two with a lighter.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylums-134-ring-gauge-megalophobia-heads-to-stores/454070/",
+   "https://halfwheel.com/pca-2025-cle-cigar-co-asylum/448600/",
+   "https://www.neptunecigar.com/cigars/asylum-13-megalophobia-13--134"
+  ],
+  "notes": "The company does not disclose the blend. Neptune lists it as full strength with an Ecuadorian wrapper, Honduran binder and Colombian and Honduran filler, which the maker has not confirmed. halfwheel lists it as regular production, while Neptune calls it a limited edition.",
+  "verified": true,
+  "verifyNotes": "Changed production from limited to regular: halfwheel's PCA 2025 report lists it as regular production, and only Neptune's sales copy says limited edition. Swapped one halfwheel source for that report. Blend confirmed undisclosed; country is from Neptune."
+ },
+ {
+  "brand": "Asylum",
+  "line": "PCA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "11/18 (52/60 perfecto)",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "toast",
+   "cream",
+   "leather",
+   "chocolate",
+   "pepper"
+  ],
+  "about": "A yearly Asylum release sold only to shops that order at the PCA trade show. It started in 2021 as a Honduran puro with a habano hybrid wrapper and has come back with a new blend most years since.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-pca-exclusive-50x5/405612/",
+   "https://halfwheel.com/cle-ships-trio-of-pca-2025-exclusives/453299/",
+   "https://www.neptunecigar.com/cigars/asylum-pca-exclusive-2025-52x6-6--52"
+  ],
+  "notes": "The blend changes by year: 2021 and 2022 were Honduran puros with a habano hybrid wrapper, 2023 and 2024 mostly undisclosed with South American tobacco. 2025 is a 6 x 52 only, Honduran habano over Honduran binder and Colombian and Honduran filler. Retailers list it as full; halfwheel found the 2021 medium-plus.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and flavors confirmed against halfwheel's 2021 review, which was not in the source list, so it replaces the 2021 shipping story. Full strength is Neptune's and Cigars Direct's rating. Rewrote notes to three sentences and added the strength disagreement."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Time Capsule",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "11/18 sampler",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "70 x 7 sampler",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "A 13-cigar sampler for Asylum's 13th anniversary holding two aged cigars from each of the six earlier anniversary blends (Seven through 12) plus one new Asylum 13 Anniversary. It closes out the anniversary series.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-time-capsule-ships/454955/",
+   "https://halfwheel.com/asylum-celebrates-13th-anniversary-with-time-capsule/449312/",
+   "https://www.neptunecigar.com/cigars/asylum-time-capsule-limited-edition-11-18-6--48-54-48"
+  ],
+  "notes": "This is a sampler of seven blends, not one blend. The new 13 Anniversary cigar has a Nicaraguan habano wrapper, Honduran binder and Colombian pinareño and Honduran filler; Neptune calls it medium-full. 500 boxes of the 11/18 version and 250 of the 7 x 70.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "12",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "11/18",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "The 2024 limited edition marking Asylum's 12th anniversary, sold in two sizes. It was the first in the anniversary series packed in tubes instead of coffins.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-12-begins-shipping/440929/",
+   "https://halfwheel.com/asylum-12-announced-shipping-next-year/425646/",
+   "https://www.neptunecigar.com/cigars/asylum-twelve-limited-edition-1118"
+  ],
+  "notes": "The blend is undisclosed beyond binder and filler tobacco from CLE's farm in an unnamed South American country. A 2023 preview said the wrapper and filler included pinareño with a corojo-seed binder, but that was not repeated at release. The 11/18 is a perfecto measuring 48/54/48.",
+  "verified": true,
+  "verifyNotes": "Blend confirmed undisclosed on halfwheel; country and factory confirmed on Neptune. Added halfwheel's 2023 preview, which gave blend details not repeated at release, and swapped it in for the spring 2024 story."
+ },
+ {
+  "brand": "Asylum",
+  "line": "11",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Mexican San Andrés and habano",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "11/18",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "The 2023 limited edition for Asylum's 11th anniversary. It is a barber pole with two wrappers twisted together over Honduran binder and filler, each cigar in its own coffin.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-11-begins-shipping/427962/",
+   "https://www.cigarsdirect.com/products/asylum-11-11-18-perfecto",
+   "https://www.neptunecigar.com/cigar/asylum-limited-edition"
+  ],
+  "notes": "Two wrappers: Mexican San Andrés and a habano whose origin is not given. It is a clear break from the earlier anniversary blends, which were Honduran puros. The 11/18 is a perfecto measuring 48/54/48.",
+  "verified": true,
+  "verifyNotes": "Wrappers, binder, filler and country confirmed on halfwheel and Cigars Direct. Neither names the factory, so added Neptune's anniversary series page, which says the series is made at the CLE factory in Honduras. Strength left null: Cigars Direct shows medium in one place and full in another."
+ },
+ {
+  "brand": "Asylum",
+  "line": "10",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "11/18",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "wood",
+   "cream",
+   "cinnamon"
+  ],
+  "about": "The 2022 limited edition for Asylum's 10th anniversary, a Honduran puro sold in two sizes with each cigar in a coffin. 1,300 boxes of 20 were made per size.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-10-11-18/414445/",
+   "https://www.neptunecigar.com/cigars/asylum--ten-limited-edition-70x7",
+   "https://www.cigarsdirect.com/collections/asylum-10"
+  ],
+  "notes": "halfwheel and Cigars Direct call it a Honduran puro; Neptune lists a Nicaraguan maduro wrapper. Strength is disputed: halfwheel found it mild rising to medium, Neptune says medium, Cigars Direct lists both medium and full. Wrapper varietal is not disclosed.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel's review and Neptune. Reworded the note: Cigars Direct shows medium in its text and full in its filters."
+ },
+ {
+  "brand": "Asylum",
+  "line": "9",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "11/18",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "7 x 70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "The 2021 limited edition for Asylum's ninth anniversary, a Honduran puro made in Danlí and sold in two sizes, each cigar in a coffin. 1,000 boxes of 20 were made per size.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-9-begins-shipping/401298/",
+   "https://www.cigarsdirect.com/products/asylum-nine-11-18-perfecto"
+  ],
+  "notes": "Wrapper varietal is not disclosed. Same Honduran puro story as the Asylum 8, but Asylum says the blend is different. Cigars Direct lists the strength as medium-full; the 11/18 is a perfecto measuring 48/54/48.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and box count confirmed on halfwheel. Strength left null because only one retailer rates it; added that rating to notes."
+ },
+ {
+  "brand": "Asylum",
+  "line": "8",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "11/18",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "7 x 70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "white pepper",
+   "leather",
+   "bread",
+   "earth"
+  ],
+  "about": "The 2020 limited edition for Asylum's eighth anniversary, a Honduran puro made in Danlí and sold in two sizes, each cigar in a coffin. 500 boxes of 20 were made per size.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-8-begins-shipping/382778/",
+   "https://halfwheel.com/asylum-8-11-18/385456/"
+  ],
+  "notes": "Wrapper varietal is not disclosed. halfwheel's news story names the factory El Aladino and its review The CLE Factory. Strength and body are from halfwheel's review; the 11/18 is a perfecto measuring 48/54/48.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel's news story and review. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Serenity Now, Insanity Later",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Serenity Now: Connecticut-seed; Insanity Later: Mexican San Andrés habano",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54x6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "Two different Asylum blends sold side by side in one 100-count box, 50 of each. Christian Eiroa blended Serenity Now as the smooth one and Insanity Later as the bold one.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-puts-two-blends-in-one-box-for-serenity-now-insanity-later/436417/",
+   "https://halfwheel.com/asylum-serenity-now-insanity-later-arrive-at-stores/438815/"
+  ],
+  "notes": "Two blends, so no single wrapper. Serenity Now: Connecticut-seed wrapper (origin not given) over Honduran and undisclosed South American tobacco. Insanity Later: Mexican San Andrés habano wrapper over an undisclosed blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "Devil's Night",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "44x5",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "48x7",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Asylum release named for the Detroit tradition on the night before Halloween, created by co-founder Tom Lazuka with part of the proceeds going to Detroit firefighters. It is a Honduran puro.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-devils-night-2022-begins-shipping/414296/",
+   "https://halfwheel.com/asylum-pays-tribute-to-devils-night-with-new-cigar/97757/"
+  ],
+  "notes": "Sizes and the corojo wrapper are from the 2022 release, about 1,000 five-packs per size, sold nationwide. The 2015 original was a Detroit-area exclusive in 6 x 52 and 5 1/2 x 46, made at El Aladino; the 2022 factory is not stated.",
+  "verified": true,
+  "verifyNotes": "Set factory to null: El Aladino is only stated for the 2015 original, while the wrapper and sizes shown are the 2022 release, whose factory halfwheel does not name. Strength is not published."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Friday the 13th",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "46x6",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Figurado",
+    "length": 5.25,
+    "ring": 46
+   },
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Asylum release timed to each Friday the 13th and sold in five-packs. It is a sibling to the Asylum Martes 13, which marks the Latin American version of the superstition.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-friday-the-13th-2021-begins-shipping/399753/"
+  ],
+  "notes": "Asylum does not release any blend information for this one. Sizes shown are the August 2021 release, 700 five-packs per size. The earliest version halfwheel mentions is from November 2020.",
+  "verified": false,
+  "verifyNotes": "halfwheel confirms Asylum releases no blend information, and the sizes and pack counts match. Not marked verified because no page I could open states the country of manufacture, and the maker's site refused the connection."
+ }
+]

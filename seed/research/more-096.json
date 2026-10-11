@@ -1,0 +1,1059 @@
+[
+ {
+  "brand": "Don Pepin Garcia",
+  "line": "Vintage Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cedar",
+   "leather",
+   "baking spices",
+   "cream"
+  ],
+  "about": "A Nicaraguan puro from My Father Cigars with a Corojo 99 wrapper, made to mark 20 years of the Don Pepin Garcia brand. It wears a retro band modeled on one of the earliest Don Pepin bands.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://myfathercigars.com/cigar/don-pepin-vintage-edition/",
+   "https://halfwheel.com/don-pepin-vintage-edition-toro/428219/",
+   "https://www.holts.com/cigars/all-cigar-brands/don-pepin-garcia-vintage.html"
+  ],
+  "notes": "Debuted in May 2023 as a TAA retailer exclusive and opened to all stores in 2024. The Vintage name refers to the retro band, not aged tobacco. Holts lists it medium-full and Neptune full; halfwheel's reviewer found full flavor but only about medium strength.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker, halfwheel and Holts pages. Added Neptune's full strength rating to notes."
+ },
+ {
+  "brand": "Don Pepin Garcia",
+  "line": "E.R.H.",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Rosado Oscuro",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "oak",
+   "cocoa",
+   "anise",
+   "nutmeg"
+  ],
+  "about": "A My Father Cigars line whose initials stand for El Rey de los Habanos, the Garcia family's first Miami factory and brand. The current version pairs a Sumatra rosado oscuro wrapper with Nicaraguan binder and filler.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://myfathercigars.com/cigar/don-pepin-garcia-e-r-h/",
+   "https://halfwheel.com/my-fathers-el-rey-de-los-habanos-returns/444463/",
+   "https://www.holts.com/cigars/all-cigar-brands/don-pepin-garcia-e-r-h.html"
+  ],
+  "notes": "This 2024 blend is new; earlier El Rey de los Habanos cigars used Nicaraguan and then Ecuadorian habano wrappers. The maker calls it medium bodied, Holts says medium-full and Neptune says full. Started as a TAA exclusive in late 2024 and went to all stores in 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Pepin Garcia",
+  "line": "20th Anniversary",
+  "found": true,
+  "officialName": "20th Anniversary Limited Edition",
+  "wrapperLeaf": "Nicaraguan Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes Pelo de Oro)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "coffee",
+   "earth",
+   "toast",
+   "nuts"
+  ],
+  "about": "A limited Nicaraguan puro from My Father Cigars released in 2023 for the 20th anniversary of the Don Pepin Garcia brand. It comes in one 6 1/2 x 52 size and includes some of the family's Pelo de Oro tobacco in the filler.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/don-pepin-garcia-20th-anniversary-limited-edition/432836/",
+   "https://www.holts.com/cigars/all-cigar-brands/don-pepin-garcia-20th-anniversary.html"
+  ],
+  "notes": "Limited to 5,000 boxes of 20, with 3,900 for the U.S. Holts calls it full and describes the wrapper as Cuban-seed oscuro; halfwheel's reviewer found medium to medium-full strength. Two humidor-only versions (Connecticut and Corojo, 6 1/2 x 54) are different blends.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Pepin Garcia",
+  "line": "Series JJ 20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 Rosado",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes Pelo de Oro)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Salomon",
+    "length": 7.25,
+    "ring": 57
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "earth",
+   "wood"
+  ],
+  "about": "A 2025 limited edition from My Father Cigars marking 20 years of the Series JJ line. It is a Nicaraguan puro with a shade-grown Corojo 99 wrapper from the Garcia family's Las Lometas farm.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/don-pepin-garcia-series-jj-20th-anniversary-toro/454357/",
+   "https://halfwheel.com/my-father-cigars-releasing-don-pepin-garcia-series-jj-20th-anniversary-at-pca-2025/449436/",
+   "https://www.neptunecigar.com/cigar/don-pepin-garcia-series-jj-20th-anniversary"
+  ],
+  "notes": "Limited to 2,500 numbered boxes of 17: 16 toros with a lighter rosado wrapper and one salomon with a darker rosado oscuro wrapper. The maker describes the strength as 3/4 to full; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Pepin Garcia",
+  "line": "Clasico 20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes Pelo de Oro)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "espresso",
+   "leather",
+   "earth",
+   "red pepper"
+  ],
+  "about": "A 2026 limited edition from My Father Cigars marking 20 years of the Don Pepin Garcia Cuban Classic, the black label line. It is made entirely of Nicaraguan tobacco from the Garcia family's farms in one 6 1/2 x 52 size.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/don-pepin-garcia-clasico-20th-anniversary/472648/",
+   "https://www.neptunecigar.com/cigar/don-pepin-garcia-clasico-20th-anniversary"
+  ],
+  "notes": "Limited to 2,500 boxes of 20, each with a My Father cutter. Neptune lists it as full; halfwheel's reviewer found medium-full strength that reached full in the final third.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Nestor Miranda",
+  "line": "Special Selection Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Coffee Break",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "black pepper",
+   "toast",
+   "cereal"
+  ],
+  "about": "The Connecticut shade version of Miami Cigar & Co.'s Nestor Miranda Special Selection, rolled by My Father Cigars in Esteli. It was built as Nestor Miranda's morning cigar to go with coffee.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/connecticut-special-selection/",
+   "https://halfwheel.com/nestor-miranda-special-selection-connecticut-toro-2022/412420/",
+   "https://www.neptunecigar.com/cigar/nestor-miranda-special-selection-connecticut"
+  ],
+  "notes": "Debuted in 2012, was phased out in 2014 and returned in 2022 with a blend close to the original. The maker's site lists the same three countries but under binder, with Nicaraguan filler. Neptune rates it mild with medium body; halfwheel's reviewer found it closer to medium with a peppery start.",
+  "verified": true,
+  "verifyNotes": "No field changed. The maker's site lists the three countries under binder with Nicaraguan filler; halfwheel, Neptune and Cigar Coop's 2022 relaunch report all give the values kept. Strength is Neptune's rating only."
+ },
+ {
+  "brand": "Nestor Miranda",
+  "line": "80th Anniversary",
+  "found": true,
+  "officialName": "NM80",
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Ruky (48/52 perfecto)",
+    "length": 5.625,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Danno",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "anise",
+   "peanuts",
+   "cocoa",
+   "cedar",
+   "espresso",
+   "earth"
+  ],
+  "about": "A limited Nicaraguan puro made by My Father Cigars for Miami Cigar & Co. to mark co-founder Nestor Miranda's 80th birthday. It comes in three of his favorite shapes.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/nm80-lancero/438344/",
+   "https://halfwheel.com/miami-cigar-co-ships-nm80/434087/",
+   "https://www.neptunecigar.com/cigar/nestor-miranda-80th-anniversary"
+  ],
+  "notes": "Officially called NM80; some retailers list it as Nestor Miranda 80th Anniversary. Limited to 500 boxes of 10 per size; shown in 2023 and shipped January 2024. The maker only says all Nicaraguan tobacco; Neptune describes the wrapper as maduro.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Reworded the note about the name because the band wording could not be confirmed, and moved the Ruky shape into its size name to keep notes to three sentences."
+ },
+ {
+  "brand": "Nestor Miranda",
+  "line": "Private Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Nicaragua (Criollo 98)",
+  "filler": "Brazil, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 6.75,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "wood",
+   "black pepper",
+   "chocolate",
+   "cream",
+   "baking spices",
+   "earth"
+  ],
+  "about": "A limited lancero from Miami Cigar & Co. with a blend and size chosen by Nestor Miranda himself. It is made at La Aurora in the Dominican Republic.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/nestor-miranda-private-reserve-lancero/392924/",
+   "https://halfwheel.com/nestor-miranda-private-reserve-lancero-shipping/476643/",
+   "https://www.neptunecigar.com/cigar/nestor-miranda-private-reserve"
+  ],
+  "notes": "Released in 2021 as 500 boxes of 10, then repeated in August 2026 with the same blend, size and another 500 boxes. Neptune lists it as medium; halfwheel's reviewer found it building to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Nestor Miranda",
+  "line": "Grand Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "earth",
+   "almonds",
+   "espresso",
+   "cocoa"
+  ],
+  "about": "A limited belicoso made for Miami Cigar & Co. by My Father Cigars in Nicaragua. It has been released three times, in 2011, 2012 and 2024.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/review-nestor-miranda-grand-reserve-2024/442620/",
+   "https://halfwheel.com/nestor-miranda-grand-reserve-2024-begins-shipping/440124/",
+   "https://www.neptunecigar.com/nestor-miranda-cigar"
+  ],
+  "notes": "Blend shown is the 2024 release: a round all-Nicaraguan belicoso, 1,500 boxes of 10, for Miami Cigar's 35th anniversary. The 2012 release was box-pressed with a Connecticut broadleaf wrapper, and Neptune still lists that blend. Strength is from halfwheel's review; the 2024 wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Removed the unconfirmed claim that all three releases were different blends. Noted that strength comes from halfwheel's review, since no maker or retailer rating exists for the 2024 blend."
+ },
+ {
+  "brand": "MBombay",
+  "line": "Kesara",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Desflorado",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Havana seed)",
+  "filler": "Dominican Republic, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Larga",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Pyramid",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "No.4",
+    "length": 5.1,
+    "ring": 44
+   },
+   {
+    "name": "585",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Torpedo No.2",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "A",
+    "length": 9,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "bread",
+   "wood",
+   "earth",
+   "grain",
+   "citrus",
+   "pepper"
+  ],
+  "about": "The fourth line from Mel Shah's Bombay Tobak, a Connecticut-wrapped cigar rolled in Costa Rica with a shaggy unfinished foot. Kesara is the Sanskrit word for saffron.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.bombaytobak.com/kesara-mbombay/",
+   "https://halfwheel.com/mbombay-kesara-toro/81318/",
+   "https://halfwheel.com/mbombay-expands-kesara-mora-in-cans/86055/"
+  ],
+  "notes": "No maker or retailer strength rating was found; halfwheel's reviewer said it leans mild with medium-plus flavor. The maker now says the filler is aged 16 years. Sizes are from the 2014 and 2015 launches and may not all still be offered.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "MBombay",
+  "line": "Gaaja Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina Maduro",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador (HVA Mejorado)",
+  "filler": "Dominican Republic, Ecuador, Peru, Paraguay",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box pressed)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo (box pressed)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "pepper",
+   "spice"
+  ],
+  "about": "The maduro version of Bombay Tobak's box-pressed Gaaja line, swapping in a Brazilian Mata Fina wrapper over the same four-country filler. It is rolled at Tabacos de Costa Rica.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.bombaytobak.com/gaaja-maduro/",
+   "https://halfwheel.com/mbombay-tobacco-grows-gaaja-torpedo-maduro-version/140879/",
+   "https://www.neptunecigar.com/cigar/mbombay-gaaja-maduro"
+  ],
+  "notes": "No published strength rating was found. Gaaja is pronounced GUY-yuh and refers to the elephant in Hindu tradition. The maker now says the filler is aged 16 years.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "MBombay",
+  "line": "MQBA Mayura",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (company farm)",
+  "filler": "Paraguay, Peru, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An extension of Bombay Tobak's MQBA line that keeps the Ecuadorian HVA wrapper from the company's own farm but adds filler from Paraguay, Peru and Nicaragua. Each cigar is packed in a glass tube.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.bombaytobak.com/mqba-mayura/",
+   "https://halfwheel.com/mbombay-adding-mqba-mayura/361445/",
+   "https://halfwheel.com/ipcpr-2019-mbombay/361301/"
+  ],
+  "notes": "Launched in 2019 with a stated run of about 25,000 cigars, though the maker still lists it. The maker says the binder comes from its own farm; one halfwheel trade show report listed a Nicaraguan binder. No strength rating or tasting notes are published; Mayura means peacock in Sanskrit.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker and halfwheel pages. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "MBombay",
+  "line": "M.Esteli",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (HVA)",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "floral",
+   "toast",
+   "cream",
+   "minerals"
+  ],
+  "about": "A value-priced, fuller-strength line from Bombay Tobak sold in bundles of 30. Despite the name it is rolled in Costa Rica, not Esteli, and Nicaraguan leaf is only part of the filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.bombaytobak.com/m-esteli/",
+   "https://halfwheel.com/m-esteli-torpedo/368347/",
+   "https://halfwheel.com/bombay-tobaks-m-esteli-en-route-to-retailers/365527/"
+  ],
+  "notes": "Halfwheel's 2019 reports list the filler as Dominican piloto cubano and Nicaraguan; the maker's site now also lists Peru. Strength is from halfwheel, which called it fuller in strength and measured it at medium-plus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Magna",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee",
+   "earth",
+   "toast",
+   "wood",
+   "spice"
+  ],
+  "about": "The first shade-wrapped Casa Magna, made by Quesada at its own factory in the Dominican Republic rather than by Plasencia in Nicaragua. It is the lightest blend in the Casa Magna family.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-magna-connecticut-toro/416406/",
+   "https://halfwheel.com/quesada-releases-casa-magna-connecticut-petit-corona/452868/",
+   "https://www.neptunecigar.com/cigar/casa-magna-connecticut"
+  ],
+  "notes": "Strength and body are from halfwheel's review, which found it mild to just under medium. Neptune lists it as full, and Quesada describes it as robust for a Connecticut. Neptune's description also mentions Dominican filler; halfwheel lists Nicaraguan only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Magna",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, USA",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso Box Press",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "spice",
+   "earth"
+  ],
+  "about": "A San Andrés-wrapped Casa Magna that Raquel Quesada blended with her father, made at Quesada's TABADEX factory in the Dominican Republic. It is a different blend from the all-Nicaraguan Casa Magna Colorado.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/quesada-adding-casa-magna-maduro-line-in-november/444251/",
+   "https://halfwheel.com/casa-magna-maduro-on-the-way-to-stores/445296/",
+   "https://www.neptunecigar.com/cigar/casa-magna-maduro"
+  ],
+  "notes": "Two more sizes were limited: a 6 x 54 box-pressed toro for TAA retailers (300 boxes) and a 7 x 40 lancero (100 boxes). Strength is from Neptune, which also says the U.S. filler is Pennsylvania leaf.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Magna",
+  "line": "D. Magnus II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Optimus",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Primus",
+    "length": 6.5,
+    "ring": 55
+   },
+   {
+    "name": "Tiberius",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Caligula",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "pepper",
+   "cedar",
+   "nuts"
+  ],
+  "about": "A Nicaraguan puro made by Plasencia for Quesada, the regular production follow-up to the limited 2011 Domus Magnus. Its sizes carry Roman names and come box or oval pressed.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-magna-domus-magnus-ii-begins-shipping/36762/",
+   "https://halfwheel.com/casa-magna-d-magnus-ii-three-new-sizes-2015/75800/",
+   "https://www.neptunecigar.com/cigar/casa-magna-doc-magnus-2"
+  ],
+  "notes": "D. Magnus II is short for Domus Magnus II. halfwheel lists a 2007 sun grown Jalapa wrapper; Neptune calls the wrapper maduro and is the source for strength. Trajan, Hadrian and Marcus Aurelius were shaped sizes added in 2015.",
+  "verified": true,
+  "verifyNotes": "Dropped two flavor words not found in any source. Added Neptune's maduro wrapper description to notes and removed the claim that all three 2015 sizes were limited (only Trajan is confirmed as limited)."
+ },
+ {
+  "brand": "Casa Magna",
+  "line": "XV Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "leather",
+   "cream",
+   "pepper",
+   "wood"
+  ],
+  "about": "A limited edition from Quesada marking 15 years of Casa Magna, the brand whose Colorado Robusto was Cigar Aficionado's top cigar of 2008. It comes in one 6 x 54 size and is made in the Dominican Republic.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/casa-magna-xv-anniversary/433852/",
+   "https://halfwheel.com/casa-magna-xv-anniversary-begins-shipping-in-the-u-s/429944/",
+   "https://www.neptunecigar.com/cigar/casa-magna-xv-anniversary"
+  ],
+  "notes": "Limited to 3,500 boxes of 15. Neptune lists it as full and describes the wrapper as a Habano 2000 maduro; halfwheel lists only Ecuadorian habano and its reviewer found medium to medium-plus strength with fuller flavor.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Tomás",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa shade grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Brazil (Arapiraca)",
+  "filler": "Nicaragua, Dominican Republic (Piloto Cubano)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "leather",
+   "wood",
+   "spice",
+   "sweetness",
+   "salt"
+  ],
+  "about": "A value-priced, Nicaraguan-forward Don Tomás blend from Scandinavian Tobacco Group, built around tobacco from a single Nicaraguan grower under a shade-grown Jalapa wrapper. It launched in Europe before coming to the U.S.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarworld.com/cigars/don-tomas/nicaragua/",
+   "https://halfwheel.com/stg-adds-don-tomas-nicaragua-for-international-markets/86917/",
+   "https://cigar-coop.com/2016/09/cigar-news-don-tomas-nicaragua-launched-for-u-s-market-at-2016-ipcpr.html"
+  ],
+  "notes": "Debuted in 2015 for international markets and was shown to the U.S. market in 2016. General Cigar rates it medium on its single body scale. The Nicaraguan leaf comes from grower Pedro Gurdian's farms in Jalapa, Condega, Pueblo Nuevo and Esteli.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Swapped the Neptune link for the Cigar Coop report, which is the page that states the country and STG Esteli factory, and added the 2016 U.S. showing to notes."
+ },
+ {
+  "brand": "Don Tomás",
+  "line": "Cameroon Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon Sun Grown",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Brazil, Dominican Republic, Mexico",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto #1",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "Perfecto #2",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Perfecto #3",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Perfecto #4",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Perfect Crystals",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood"
+  ],
+  "about": "The Cameroon-wrapped member of General Cigar's Honduran-made Don Tomás family, with Dominican, Mexican and Brazilian filler. It is known for its run of perfecto sizes.",
+  "released": 2000,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarworld.com/cigars/don-tomas/cameroon-collection/",
+   "https://www.neptunecigar.com/cigar/don-tomas-cameroon-collection"
+  ],
+  "notes": "General Cigar describes it as medium to full in body; Neptune lists it as medium. The release year and Honduran origin are from Neptune, and the factory is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Tomás",
+  "line": "Special Edition Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Dominican Republic, Mexico, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 100 (Churchill)",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "No. 200 (Lonsdale)",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "No. 300 (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 400 (Lancero)",
+    "length": 7,
+    "ring": 36
+   },
+   {
+    "name": "No. 500 (Corona)",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "No. 600 (Toro)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 700 (Corona)",
+    "length": 5.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cream",
+   "toast"
+  ],
+  "about": "A mild, Honduran-made Don Tomás with an Ecuadorian Connecticut shade wrapper over Dominican, Mexican and Nicaraguan filler. Its sizes are numbered from No. 100 to No. 700.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-don-tomas-special-edition-connecticut",
+   "https://www.famous-smoke.com/brands/don-tomas-cigars"
+  ],
+  "notes": "Details come from Famous Smoke only; the binder, factory and release year were not found. Famous describes it as mild to medium bodied. General Cigar's own site does not currently list this line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Don Tomás",
+  "line": "Cincuenta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Olancho San Agustin)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras (Jamastran ligero and seco, La Entrada viso)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Honduran puro made at STG Danlí to mark the 50th anniversary of Don Tomás in 2021. Cincuenta means fifty in Spanish.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/don-tomas-cincuenta-launching-in-canada-this-month/400118/"
+  ],
+  "notes": "Launched in Canada in August 2021 with a U.S. release through General Cigar planned for the following year; General Cigar's site does not list it now. No strength rating or tasting notes were found. The wrapper's seed variety is not published.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel. Added that General Cigar's site does not list the line; no maker strength rating exists."
+ }
+]

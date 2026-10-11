@@ -1,0 +1,1062 @@
+[
+ {
+  "brand": "Dapper",
+  "line": "Cubata Cru",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade (desflorado)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Habano)",
+  "filler": "Nicaragua (Condega, Esteli), Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Blimey",
+    "length": 4.5,
+    "ring": 40
+   },
+   {
+    "name": "Blunderbuss",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Bucko",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Bumbo",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "black pepper",
+   "cedar"
+  ],
+  "about": "A sweet-tipped Connecticut Shade cigar from Dapper Cigar Co., reworked from a house blend made for Cigars Ltd. in Fresno. It is rolled at NACSA in Esteli.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/cubata-cru-shade/",
+   "https://halfwheel.com/dapper-cigar-co-debuts-cubata-cru/404679/"
+  ],
+  "notes": "The cap is sweetened, and Dapper's site calls it Cubata Cru Shade. A rum-sweetened Cubata Cru made at La Aurora came out in 2018; this NACSA version launched in 2022. Dapper's site labels the 4 1/2 x 40 Bumbo, halfwheel calls it Blimey.",
+  "verified": true,
+  "verifyNotes": "Notes cut to three sentences."
+ },
+ {
+  "brand": "Dapper",
+  "line": "Desvalido",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado (Rosado Cafe)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (undisclosed)",
+  "filler": "Nicaragua (Jalapa, Esteli), USA (Connecticut Broadleaf), one undisclosed leaf",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Corona Doble",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "honey",
+   "hazelnut",
+   "coffee",
+   "cream",
+   "floral"
+  ],
+  "about": "Dapper Cigar Co.'s fuller blend, developed by founder Ian Reith with Raul Disla of NACSA and Oliva Tobacco Co. The name is Cuban Spanish for those without hope.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/desvalido/",
+   "https://halfwheel.com/desvalido-toro/384879/"
+  ],
+  "notes": "Dapper rates it full in strength; halfwheel's reviewer found it closer to medium. One filler leaf and the binder variety are undisclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "Desvalido Disla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Corona Doble",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "coffee"
+  ],
+  "about": "A remake of Dapper's Desvalido blended by Raul Disla, production manager at NACSA, to suit his own taste. It is described as more Nicaraguan and bolder than the original.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2022-dapper-cigar-co/409950/",
+   "https://halfwheel.com/desvalido-disla-toro/419329/",
+   "https://www.neptunecigar.com/cigar/desvalido-disla"
+  ],
+  "notes": "Dapper has not published the blend. Halfwheel reported Ecuadorian Habano over Nicaraguan binder and filler at the 2022 trade show, then listed it as undisclosed in its review. Neptune shows a USA binder and is the source for strength.",
+  "verified": true,
+  "verifyNotes": "Notes reworded: halfwheel's later review lists the blend as undisclosed."
+ },
+ {
+  "brand": "Dapper",
+  "line": "El Borracho Connecticut Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Jalapa Habano Rosado)",
+  "filler": "Nicaragua (Esteli, Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Edmundo",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "minerals",
+   "cream",
+   "black pepper"
+  ],
+  "about": "The broadleaf-wrapped version of Dapper's El Borracho, built on the original San Andres blend with extra Nicaraguan ligero. All sizes are box-pressed.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/el-borracho-maduro/",
+   "https://halfwheel.com/el-borracho-maduro-robusto/296125/",
+   "https://halfwheel.com/dapper-renaming-el-borracho-lines-adding-box-pressed-belicoso-at-pca-2022/409931/"
+  ],
+  "notes": "Launched as El Borracho Maduro and renamed El Borracho Broadleaf in 2022, so older boxes and some retailers still say Maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "La Madrina Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade (desflorado)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua (Esteli, Jalapa), Dominican Republic (Habano 92), USA",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "white pepper",
+   "citrus",
+   "floral",
+   "spice"
+  ],
+  "about": "The Connecticut Shade follow-up to La Madrina, Dapper's most requested cigar, built on the original blend with a few components changed. It is fuller than a typical shade cigar.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/la-madrina-shade/",
+   "https://halfwheel.com/la-madrina-shade-belicoso/401913/",
+   "https://www.neptunecigar.com/cigar/la-madrina-shade"
+  ],
+  "notes": "Dapper lists the binder as undisclosed; halfwheel and Neptune report Mexican San Andres. Dapper rates it medium-full to full, but halfwheel's reviewer found the nicotine strength mild-medium with full flavor.",
+  "verified": true,
+  "verifyNotes": "Reworded about (removed \"best-selling\"), shortened notes, and added the Neptune page the notes cite to sources."
+ },
+ {
+  "brand": "Dapper",
+  "line": "Siempre Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa and one undisclosed), USA (Connecticut Broadleaf and one undisclosed)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "minerals",
+   "black pepper",
+   "white pepper",
+   "citrus"
+  ],
+  "about": "A bolder extension of Dapper's Siempre Sun Grown, first released through Small Batch Cigar in 2020. It was blended by Ian Reith with Raul Disla at NACSA.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/siempre-rosado/",
+   "https://halfwheel.com/dapper-cigar-co-releases-siempre-rosado-at-small-batch-cigar/380375/",
+   "https://halfwheel.com/dapper-siempre-rosado-corona-2/455484/"
+  ],
+  "notes": "The 5 5/8 x 46 corona gorda is a Small Batch Cigar exclusive; the other three sizes go to all retailers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "Union Break",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade, U.S. Connecticut Broadleaf, or a barber pole of both",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador, USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Connecticut Shade",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Connecticut Broadleaf",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Barberpole",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A small 4 x 38 long-filler cigar from Dapper with a lightly sweetened tip, sold from a 150-count display in three wrapper options. It was made as a quick break-time smoke.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/union-break/",
+   "https://halfwheel.com/dapper-cigar-co-ships-union-break-more-sizes-of-la-madrina-shade/401480/"
+  ],
+  "notes": "One size in three wrappers, so there is no single wrapper type. All three have a sweetened tip. Dapper has not published tasting notes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "Major Mike's Connecticut Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade (desflorado)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Jamastran Valley)",
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "Dapper's budget mixed-filler bundle cigar, named for founder Ian Reith's father, a retired Air Force major. This is the Connecticut Shade version.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/major-mikes/",
+   "https://halfwheel.com/dapper-cigar-co-adding-major-mikes-connecticut-shade-habano-lines-at-pca-2022/410288/",
+   "https://halfwheel.com/pca-2022-dapper-cigar-co/409950/"
+  ],
+  "notes": "Mixed long and short filler made from tobaccos used in Dapper's other blends plus some Honduran leaf; the exact filler is proprietary. Sold unbanded in bundles of 20. The Habano version shares the same binder and filler.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "Major Mike's Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (Cuban-seed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Jamastran Valley)",
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "Dapper's budget mixed-filler bundle cigar in its Ecuadorian Habano wrapper. The artwork honors founder Ian Reith's grandfather, an Army major.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://dappercigars.com/cigars/major-mikes/",
+   "https://halfwheel.com/dapper-cigar-co-adding-major-mikes-connecticut-shade-habano-lines-at-pca-2022/410288/",
+   "https://halfwheel.com/pca-2022-dapper-cigar-co/409950/"
+  ],
+  "notes": "Mixed long and short filler made from tobaccos used in Dapper's other blends plus some Honduran leaf; the exact filler is proprietary. Sold unbanded in bundles of 20. The Connecticut Shade version shares the same binder and filler.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "peanuts",
+   "hay",
+   "espresso",
+   "cedar",
+   "cocoa",
+   "cinnamon"
+  ],
+  "about": "A limited cigar marking Dapper Cigar Co.'s tenth year, aged about a year after rolling. Unlike Dapper's Nicaraguan lines, it is made in the Dominican Republic.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dapper-10th-anniversary-ships/448360/",
+   "https://halfwheel.com/dapper-10th-anniversary-toro-grande/451701/"
+  ],
+  "notes": "Limited to 1,000 boxes of 10. A 4 1/2 x 54 Robusto Grande (200 boxes) was also made; half went to the anniversary party at Cigars Ltd. in Fresno. Strength and flavors are from halfwheel's review, which put strength at medium-plus.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: only half of the 200 Robusto Grande boxes went to the Cigars Ltd. party, not most."
+ },
+ {
+  "brand": "Dapper",
+  "line": "Genesis",
+  "found": true,
+  "officialName": "HolySmoke Genesis",
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "minerals",
+   "cream",
+   "white pepper"
+  ],
+  "about": "A box-pressed perfecto made by Dapper Cigar Co. with HolySmoke, a cigar-themed Bible study group. It was Dapper's first limited edition and first figurado.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dapper-cigar-co-holysmoke-collaborate-on-genesis/424137/",
+   "https://halfwheel.com/holysmoke-genesis/430608/"
+  ],
+  "notes": "Limited to 10,000 cigars in boxes of 12. The perfecto tapers from a 28 ring foot to 52 at its widest. Strength, body and flavors are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Palina",
+  "line": "125 Anos",
+  "found": true,
+  "officialName": "125 Años",
+  "wrapperLeaf": "Nicaraguan (variety undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "dark chocolate",
+   "pepper",
+   "spice"
+  ],
+  "about": "La Palina's 125th anniversary cigar, a Nicaraguan puro made by Oliva from its private stock of vintage tobacco. It debuted in glass jars of 37 and later came in boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project21.html",
+   "https://halfwheel.com/la-palina-125-anos/405764/",
+   "https://halfwheel.com/pca-2022-la-palina/412108/"
+  ],
+  "notes": "La Palina keeps the blend secret beyond saying it is all Nicaraguan. Halfwheel and retailers list the toro at 6 1/2 x 52; La Palina's site shows 6 1/4 x 54. It debuted as 300 jars of 37 and now returns in small boxed batches (500 boxes in 2025), though halfwheel calls it ongoing production.",
+  "verified": true,
+  "verifyNotes": "Notes rewritten and shortened; added that halfwheel calls it ongoing production released in batches. Sizes confirmed against halfwheel, Neptune and Corona Cigar."
+ },
+ {
+  "brand": "La Palina",
+  "line": "1948",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (sun grown)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "dark chocolate",
+   "spice",
+   "black pepper",
+   "cream"
+  ],
+  "about": "A box-pressed line made by Oliva for La Palina to mark chairman Bill Paley's 75th birthday; 1948 is his birth year. The binder and filler come from Oliva's farms.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project28.html",
+   "https://halfwheel.com/la-palina-begins-shipping-new-1948-line/431425/",
+   "https://halfwheel.com/la-palina-1948-diadema/433064/"
+  ],
+  "notes": "La Palina also calls it El Año 1948. Halfwheel lists the three sizes as regular production, but La Palina says it is released yearly in limited quantities. A 6 x 46 Diadema was a 500-box exclusive for retailers at the 2023 trade show.",
+  "verified": true,
+  "verifyNotes": "Notes: added that halfwheel lists the three sizes as regular production."
+ },
+ {
+  "brand": "La Palina",
+  "line": "Classic Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "spice",
+   "coffee"
+  ],
+  "about": "One of the blends in La Palina's value-priced Classic line, with a reddish Honduran wrapper. It arrived when the Classic line was revamped in 2017.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project8.html",
+   "https://halfwheel.com/la-palina-revamps-classic-line/143009/",
+   "https://halfwheel.com/la-palina-revamps-classic-packaging-ships-new-double-digit/369607/"
+  ],
+  "notes": "It launched at General Cigar Dominicana in 2017; by late 2019 halfwheel reported the Classic line was made at STG's Danli factory in Honduras, and Neptune lists Honduras. La Palina calls it medium-bodied while Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Palina",
+  "line": "Double Digit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Raices Cubanas",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice"
+  ],
+  "about": "La Palina's value-priced 6 x 60, sold in boxes of 50. It comes in one size only.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project1.html",
+   "https://halfwheel.com/la-palina-double-digit-shipping-in-august/361426/",
+   "https://www.neptunecigar.com/cigar/la-palina-double-digit"
+  ],
+  "notes": "Blend is from La Palina's site. Halfwheel lists Dominican and Nicaraguan filler with an undisclosed binder. La Palina never named the factory; Honduras and Raices Cubanas come from Neptune's listing only, so treat them as unconfirmed.",
+  "verified": true,
+  "verifyNotes": "Notes reworded to flag that country and factory rest on Neptune alone; halfwheel says La Palina did not disclose the factory."
+ },
+ {
+  "brand": "La Palina",
+  "line": "Family Series Miami",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Babe (Robusto)",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Alison (Torpedo)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Pasha (Churchill)",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "spice",
+   "orange peel"
+  ],
+  "about": "The reblended return of La Palina's first line, rolled at El Titan de Bronze in Miami. The sizes are named for Bill Paley's mother, wife and father.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project9.html",
+   "https://halfwheel.com/la-palina-family-series-returns-at-ipcpr-2015/90242/",
+   "https://www.neptunecigar.com/cigar/la-palina-family-series-miami"
+  ],
+  "notes": "The original Family Series (2009) was made at Graycliff in the Bahamas; the Miami version replaced it in 2015. Halfwheel listed the Pasha at 7 1/4 x 50 at launch; La Palina and Neptune now show 7 x 50. Strength is from Neptune.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Palina",
+  "line": "Family Series Dominican",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Mexico (San Andres)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The first in a new La Palina Family Series of limited editions honoring people the company has worked with over the years. It is made at Hostos Fernandez's Tabacalera La Isla.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-la-palina/468095/",
+   "https://www.neptunecigar.com/cigar/la-palina-family-series-dominican"
+  ],
+  "notes": "Limited to 1,000 boxes of 10 in one size. Strength is from Neptune's listing, which shows Dominican filler only; halfwheel lists Dominican and Nicaraguan. No tasting notes have been published yet.",
+  "verified": true,
+  "verifyNotes": "Notes: added that Neptune lists Dominican filler only."
+ },
+ {
+  "brand": "La Palina",
+  "line": "Fuego Verde",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "tea",
+   "spice"
+  ],
+  "about": "La Palina's green candela-wrapped cigar, whose name means green fire. It comes in a single robusto size and is tied to St. Patrick's Day.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project14.html",
+   "https://halfwheel.com/la-palina-adds-candela-fuego-verde/143101",
+   "https://www.cigaraficionado.com/article/la-palina-fuego-verde-returns-for-st-patrick-s-day"
+  ],
+  "notes": "Made in limited seasonal runs around St. Patrick's Day rather than year-round; the 2018 run was 500 boxes of 20. Strength is from Neptune's listing. Halfwheel reported it as new in 2017, while Cigar Aficionado dates it to 2016.",
+  "verified": true,
+  "verifyNotes": "Notes: added the release-year disagreement (Cigar Aficionado says 2016, halfwheel reported it as new in February 2017)."
+ },
+ {
+  "brand": "La Palina",
+  "line": "KB Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Criollo, double binder)",
+  "filler": "Nicaragua (Corojo, Criollo)",
+  "country": "Honduras",
+  "factory": "Raices Cubanas",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "KB I",
+    "length": 4.25,
+    "ring": 40
+   },
+   {
+    "name": "KB II",
+    "length": 6,
+    "ring": 40
+   },
+   {
+    "name": "KB III",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "KB IV",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "mocha",
+   "apple",
+   "nuts",
+   "leather"
+  ],
+  "about": "La Palina's Kill Bill line, named after owner Bill Paley could not finish the strong first prototype. It began in 2012 as a petit corona in the El Diario line and was relaunched in 2021 as a four-size series.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project11.html",
+   "https://halfwheel.com/la-palina-showcasing-refreshed-kb-series-at-pca-2021/396705/",
+   "https://halfwheel.com/la-palina-kb-series-part-three/405300/"
+  ],
+  "notes": "KB stands for Kill Bill, and Parts Three and Four have extra ligero. La Palina's site calls the wrapper Honduran Rosado, halfwheel Honduran Corojo. Neptune tags it medium but describes it as full strength, and halfwheel's review found it building to full.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf changed from \"Honduran Corojo Rosado\" (no source uses that) to \"Honduran Corojo\" per halfwheel; about corrected (name comes from Bill Paley not finishing the strong first prototype, not a play on his name); notes cut to three sentences."
+ },
+ {
+  "brand": "La Palina",
+  "line": "Mr. Sam",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.625,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "spice",
+   "cedar",
+   "black pepper"
+  ],
+  "about": "Named for La Palina founder Sam Paley, whose factory workers called him Mr. Sam. It is rolled in Miami at El Titan de Bronze.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project18.html",
+   "https://halfwheel.com/la-palina-mr-sam-returns-additional-sizes/51164/",
+   "https://www.neptunecigar.com/cigar/la-palina-mr-sam"
+  ],
+  "notes": "It began in 2013 as a limited 850-box robusto and became regular production in 2014, though output from the small Miami factory stays limited. La Palina calls it medium to full; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Palina",
+  "line": "Silver Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Oscuro (Cuban seed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Costa Rica",
+  "filler": "Honduras, Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": "El Paraiso",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "pepper",
+   "citrus",
+   "cedar"
+  ],
+  "about": "The fullest cigar in La Palina's Label Series, made in Danli, Honduras. It started as a 2019 exclusive for Tobacconists' Association of America shops and went to all retailers in 2020.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project20.html",
+   "https://halfwheel.com/la-palina-ships-silver-label/382553/",
+   "https://www.neptunecigar.com/cigar/la-palina-silver-label"
+  ],
+  "notes": "La Palina describes the wrapper as Cuban-seed Honduran Oscuro; halfwheel called it Honduran habano. The original 2019 TAA release was a single 6 x 52 toro limited to 1,000 boxes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Palina",
+  "line": "White Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Piloto Cubano)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "The mild, creamy entry in La Palina's Label Series. It began in 2021 as a toro exclusive to Tobacconists' Association of America shops and was opened to all retailers in 2022.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://lapalinacigars.com/ajax-work/project13.html",
+   "https://halfwheel.com/la-palina-ships-three-new-cigars/399729/",
+   "https://halfwheel.com/la-palina-creates-white-label-figurado-for-taa-retailers/421694/"
+  ],
+  "notes": "La Palina's site gives the blend above; the 2021 launch version had a Honduran-grown Connecticut wrapper and San Andres binder. Halfwheel placed it at an undisclosed Nicaraguan factory, while Neptune says Honduras. Sizes follow halfwheel, and La Palina's site lists different ones.",
+  "verified": true,
+  "verifyNotes": "Notes cut to three sentences and corrected: halfwheel put the 2021 version at an undisclosed Nicaraguan factory, and only Neptune says Honduras."
+ }
+]

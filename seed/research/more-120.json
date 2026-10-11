@@ -1,0 +1,668 @@
+[
+ {
+  "brand": "Nat Cicco",
+  "line": "HHB Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Corona Extra",
+    "length": 5.25,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6.75,
+    "ring": 58
+   },
+   {
+    "name": "Churchill",
+    "length": 7.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "cedar",
+   "vanilla",
+   "orange peel"
+  ],
+  "about": "The Connecticut Shade version of Nat Cicco's flagship HHB, sold by distributor Zander-Greg in 10-count boxes. It has a pigtail cap and a closed foot and was pitched as an affordable alternative to the Cohiba Behike.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/hhb",
+   "https://halfwheel.com/pca-2021-zander-greg/395109/",
+   "https://www.cigaraficionado.com/ratings/26080/name/nat-cicco-hhb-classic-connecticut-churchill-double-corona"
+  ],
+  "notes": "Launched in 2012 simply as HHB; it became HHB Classic once the Habano-wrapped Gold was added. The maker's site lists the Corona Extra as 6.25 x 50, but halfwheel and retailers list it as 5.25 x 60. The maker and Cigar Aficionado call it medium, while some retailers list it as full.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, strength, sizes and 2012 launch confirmed (maker, halfwheel, Cigar Aficionado). Replaced the factory sentence in notes with the strength disagreement among retailers."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "HHB Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Corona Extra",
+    "length": 5.25,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6.75,
+    "ring": 58
+   },
+   {
+    "name": "Churchill",
+    "length": 7.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "spice",
+   "sweetness"
+  ],
+  "about": "The Habano-wrapped version of Nat Cicco's flagship HHB, released to mark the brand's 50th anniversary. Like the Classic it has a pigtail cap and a closed foot and comes in 10-count boxes.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/hhb",
+   "https://halfwheel.com/nat-cicco-celebrates-50th-anniversary-hhb-gold/76407/",
+   "https://www.neptunecigar.com/cigar/nat-cicco-hhb-gold"
+  ],
+  "notes": "Retailers describe the wrapper as a reddish Habano maduro. The maker's site lists the Corona Extra as 6.25 x 50, but halfwheel and retailers list it as 5.25 x 60. The maker rates it medium, while Neptune and Cigars Direct list it as full.",
+  "verified": true,
+  "verifyNotes": "Blend, country, strength and sizes confirmed. Removed the claim that it was first announced as HHB Habano, which no opened source states; added the retailer strength disagreement."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Aniversario 1965 Liga No. 4",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Habano seed)",
+  "country": "Nicaragua",
+  "factory": "Agroindustrial Nicaraguense de Tabacos S.A. (Agrotabacos)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cocoa",
+   "cedar",
+   "leather"
+  ],
+  "about": "A semi box-pressed, long-filler cigar with a pigtail cap and closed foot, named for the year Nat Cicco was founded. It is made in Nicaragua at Omar Ortez's Agrotabacos factory, and Cigar Aficionado ranked the Churchill No. 18 on its Top 25 of 2018.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/1965-aniversario",
+   "https://www.cigaraficionado.com/top25cigar/nat-cicco-aniversario-1965-liga-no-4-churchill-2018",
+   "https://halfwheel.com/pca-2021-zander-greg/395109/"
+  ],
+  "notes": "The maker calls it medium to full; Neptune lists it as full and describes the wrapper as a Habano maduro. The 2012 launch release described a Nicaraguan Habano-seed wrapper, but the maker now lists Ecuadorian Habano.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against the maker, Cigar Aficionado Top 25 page, halfwheel and Neptune. The maker page says Top 25 of 2019 with 93 points, but the Cigar Aficionado page shows No. 18 of 2018 with 92 points, so the about text stands."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "55th Anniversary Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Indonesia (Java)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Figurado",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed figurado made to mark 55 years of the Nat Cicco brand, blended by the late Rolando Villamil at the Dominican factory that also makes Epic Cigars. It came in 10-count boxes and was among the most expensive cigars the brand has sold.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.natcicco.com/nat-cicco-55th-ann-le",
+   "https://halfwheel.com/nat-cicco-fifty-five-heads-to-retailers/405448/",
+   "https://halfwheel.com/nat-cicco-fifty-five-to-debut-at-2021-pca-convention-trade-show/395672/"
+  ],
+  "notes": "Also called the Nat Cicco Fifty Five. It was shown at the 2021 trade show but did not reach stores until February 2022. The maker's site now marks it discontinued, and production numbers were never disclosed.",
+  "verified": true,
+  "verifyNotes": "Strength was null; set to Medium-Full from the strength scale graphic on the maker's page. Blend, factory and dates confirmed. halfwheel's 2021 trade show list gives a Nicaraguan binder, but the maker and two halfwheel news stories say Indonesian (Java)."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Elephant Ears",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Elephant Ears",
+    "length": 8.5,
+    "ring": 60
+   },
+   {
+    "name": "Baby",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "Juniors",
+    "length": 7.5,
+    "ring": 60
+   },
+   {
+    "name": "Baby Juniors",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Jumbo",
+    "length": 6,
+    "ring": 70
+   },
+   {
+    "name": "Jumbo Juniors",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "brown sugar",
+   "peanuts"
+  ],
+  "about": "A Nicaraguan puro in oversized formats with a flared, shaggy open foot that gives the cigar its name. It wears a reddish maduro wrapper and comes in boxes of 20.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/elephant-ears",
+   "https://halfwheel.com/ipcpr-2017-zander-greg/164634/",
+   "https://www.cigarsdirect.com/collections/nat-cicco-elephant-ears"
+  ],
+  "notes": "The maker and Cigars Direct call it full, while Neptune's description says medium-bodied. The maker lists the Juniors at 7.5 x 60, but Neptune and Cigars Direct list it at 6.5 x 60. The maker does not name the factory.",
+  "verified": true,
+  "verifyNotes": "Fixed notes: Neptune's text says medium-bodied (its spec field says Full), not medium to medium-full. Swapped the Neptune source for the Cigars Direct page, which is where the flavor words and full rating come from."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Casino Real",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Agroindustrial Nicaraguense de Tabacos S.A. (Agrotabacos)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Figurado",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black cherry",
+   "leather",
+   "coffee",
+   "toast",
+   "spice"
+  ],
+  "about": "A value-priced Nicaraguan cigar from Zander-Greg's Nat Cicco brand with an Ecuadorian Habano wrapper, sold in boxes of 24. Cigar Aficionado has rated it 92 points.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-zander-greg/164634/",
+   "https://halfwheel.com/nat-ciccos-casino-real-line-adding-lancero/408579/",
+   "https://www.cigarsdirect.com/collections/nat-cicco-casino-real"
+  ],
+  "notes": "Not shown on the maker's own site. halfwheel says it was introduced in 2016 with a wide release in July 2017. A 7.5 x 40 Lancero was announced for fall 2022.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that Neptune gives 2012 (its page states no year) and the unconfirmed detail that the 92-point rating was for the Double Toro; Cigars Direct cites a 92-point Cigar Aficionado rating without a size and I could not open the rating page. Swapped the Neptune source for Cigars Direct and dropped the flavor 'cream'."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "OG Rejects",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (Natural); Maduro and Candela versions also made",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic (homogenized)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cuban Corona",
+    "length": 6,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5.625,
+    "ring": 49
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "The original Nat Cicco Rejects, the budget cigar from 1965 that started the factory seconds category. It is a mild medium-filler cigar made in the Dominican Republic in Natural, Maduro and Candela wrappers.",
+  "released": 1965,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/og-rejects",
+   "https://halfwheel.com/press-release-cuban-corona-shape-nat-cicco-rejects-repackaged-jamaican-rounds-premium-cigars/37954/",
+   "https://halfwheel.com/press-release-zander-greg-announces-super-premium-cigar-simple-just-compare-it/32488/"
+  ],
+  "notes": "Usually listed simply as Nat Cicco Rejects. The maker lists the Natural wrapper as Connecticut and the Maduro as Jamaican, and rates the Maduro medium; a 2013 company release says Connecticut Broadleaf. Company releases describe machine bunching with a homogenized binder and mixed remnant filler.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker page and the 2012 and 2013 company releases. Notes now say the maker rates the Maduro medium (Natural and Candela are mild)."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Nicaraguan Rejects",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (Natural) or Habano Maduro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Cuban Corona",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Churchill",
+    "length": 7.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A handmade Cuban sandwich style budget cigar added to the Nat Cicco Rejects family in 2016. It pairs Nicaraguan filler with an Indonesian binder and comes in Natural or Maduro Habano wrappers.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/nicaraguan-rejects",
+   "https://halfwheel.com/zander-greg-expands-nat-cicco-rejects-with-nicaragua/131282/"
+  ],
+  "notes": "halfwheel lists it as Rejects Nicaragua. The Natural is rated medium and the Maduro medium to full. The wrapper's country is undisclosed, and the maker does not say where the cigar is rolled.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, sizes and both strength ratings confirmed on the maker page; halfwheel confirms 2016 and the undisclosed wrapper country. Confirmed the maker does not state where it is rolled, so country stays null."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Nicaraguan Long Filler",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A plain-looking bundle cigar from Nat Cicco made entirely of Nicaraguan long-filler tobacco. It was introduced in 2017 as a low-priced, medium to full strength everyday smoke.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/nicaraguan-long-filler",
+   "https://halfwheel.com/ipcpr-2017-zander-greg/164634/"
+  ],
+  "notes": "Also written Nicaraguan Long Fillers. The maker's text says medium to full, but the strength scale on the same page shows full. All three components are Nicaraguan, but the maker does not name the wrapper type or say where the cigar is rolled.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and 2017 confirmed. The maker's text says medium-to-full strength but its scale graphic shows full; added that to notes. Confirmed the maker does not state where it is rolled."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Cuban Legends",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban-seed Rosado (Natural and Maduro); Habano on the Habano version",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Cuban sandwich mixed filler)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 4",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "No. 4 Torpedo",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Habano",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro Habano",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "citrus",
+   "earth",
+   "leather"
+  ],
+  "about": "Nat Cicco's first handmade, all-tobacco value cigar, a Nicaraguan Cuban sandwich blend sold in bundles of 20. It comes in Natural, Maduro and Habano versions.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/cuban-legends",
+   "https://halfwheel.com/press-release-zander-greg-adds-nat-cicco-cuban-legends-habano/41753/",
+   "https://www.cigarsdirect.com/collections/nat-cicco-cuban-legends-natural"
+  ],
+  "notes": "The maker lists the Natural and Maduro wrappers as Cuban Rosado with no country; Cigars Direct calls the Natural Ecuadorian Sumatra. The maker rates the Natural mild to medium and the Maduro and Habano medium. The Habano version was added in 2013.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker page, the 2013 release and Cigars Direct. Trimmed notes to three sentences and added the maker's medium rating for the Maduro and Habano."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Cuban Style",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (Natural and Maduro)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.75,
+    "ring": 49
+   },
+   {
+    "name": "Corona Grande",
+    "length": 6,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A mild budget cigar from Nat Cicco made in the Dominican Republic with picadura (tobacco remnant) filler under a Connecticut broadleaf wrapper. It comes in Natural and Maduro.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/cuban-style"
+  ],
+  "notes": "The maker rates the Natural mild and the Maduro mild to medium. It lists both binder and filler only as picadura, with no countries, and does not name the factory.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, sizes and strength confirmed on the maker page, which is the only source found. Filler set to null because no country is published; the maker describes picadura as medium-length remnants, so 'short filler' was removed."
+ },
+ {
+  "brand": "Nat Cicco",
+  "line": "Jamaican Rounds",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (Natural and Maduro)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Jamaica",
+  "filler": "Jamaica (picadura)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Delights",
+    "length": 5,
+    "ring": 34
+   },
+   {
+    "name": "Palmas",
+    "length": 6.5,
+    "ring": 43
+   },
+   {
+    "name": "Regales",
+    "length": 7.125,
+    "ring": 34
+   },
+   {
+    "name": "Presidente",
+    "length": 7.25,
+    "ring": 43
+   }
+  ],
+  "flavors": [],
+  "about": "A long-running mild budget cigar from Nat Cicco that was first made in Jamaica and is now made in the Dominican Republic. It uses picadura (tobacco remnant) filler and comes in Natural and Maduro in slim, traditional shapes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.natcicco.com/jamaician-rounds",
+   "https://halfwheel.com/press-release-cuban-corona-shape-nat-cicco-rejects-repackaged-jamaican-rounds-premium-cigars/37954/"
+  ],
+  "notes": "The maker's page conflicts with itself: the text says Connecticut broadleaf wrapper, while the spec list calls the wrapper, binder and filler Jamaican. A 2013 company release gave larger sizes (Presidents 7.5 x 46, Regales 7.5 x 34). The Natural is mild and the Maduro mild to medium.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, sizes and strength confirmed against the maker page and the 2013 release. Removed 'short filler' wording; binder and filler kept as the maker lists them, with the page's self-conflict flagged in notes."
+ }
+]

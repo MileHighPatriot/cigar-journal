@@ -1,0 +1,963 @@
+[
+ {
+  "brand": "Villa Zamorano",
+  "line": "Clásica",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Expreso",
+    "length": 3.5,
+    "ring": 52
+   },
+   {
+    "name": "Intenso",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "El Gordo",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "No. 15",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Soberano",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee"
+  ],
+  "about": "The original value-priced Villa Zamorano from Maya Selva Cigars, handmade in Honduras and sold mostly in bundles. It is known as an inexpensive everyday smoke.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/maya-selvas-villa-zamorano-and-vz-reserva-get-new-packaging/442526/",
+   "https://www.neptunecigar.com/villa-zamorano-cigar",
+   "https://www.mayaselvacigars.com/villa-zamorano-collections"
+  ],
+  "notes": "Halfwheel calls the wrapper Sumatra without saying where it is grown; Neptune's spec table lists a Honduran wrapper. A 2014 halfwheel report gave a different blend with a Brazilian Mata Fina binder, so the recipe has changed over time.",
+  "verified": true,
+  "verifyNotes": "No field changes; note shortened. Wrapper, binder, filler, 2002 launch and all eight sizes confirmed on halfwheel; Medium and Honduras confirmed on Neptune. The 2014 Mata Fina blend is at halfwheel.com/maya-selva-gives-villa-zamorano-new-look/76108/."
+ },
+ {
+  "brand": "Villa Zamorano",
+  "line": "Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano (Jamastran)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "San Judas Tadeo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Expreso",
+    "length": 3.5,
+    "ring": 52
+   },
+   {
+    "name": "Intenso",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "El Gordo",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "No. 15",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Soberano",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee",
+   "spice"
+  ],
+  "about": "A step up from the original Villa Zamorano, made by Maya Selva Cigars in Danli with a habano wrapper from the company's own Santa Eulalia farm. It comes in boxes rather than bundles.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/maya-selva-unveils-villa-zamorano-reserva/142832/",
+   "https://halfwheel.com/maya-selvas-villa-zamorano-and-vz-reserva-get-new-packaging/442526/",
+   "https://www.neptunecigar.com/villa-zamorano-reserva-cigar"
+  ],
+  "notes": "Now also sold as VZ Reserva. Halfwheel describes it as a Honduran puro, while Neptune lists Nicaraguan and Honduran filler. It reached Europe in late 2016 and the U.S. in 2018.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, puro blend, San Judas Tadeo factory, 2016 debut and sizes confirmed on halfwheel; Medium confirmed on Neptune."
+ },
+ {
+  "brand": "Villa Zamorano",
+  "line": "Danlí",
+  "found": true,
+  "officialName": "VZ Danlí",
+  "wrapperLeaf": "Honduran Carmelita",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Trojes)",
+  "filler": "Honduras (Jamastran Valley, Azacualpa)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Maya Selva Cigars",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corto 46",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "wood"
+  ],
+  "about": "An all-Honduran blend from Maya Selva Cigars named for Danli, the cigar-making capital of Honduras. It is the third Villa Zamorano line, after the Clasica and Reserva.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/villa-zamorano-vz-danli-toro/451927/",
+   "https://halfwheel.com/maya-selvas-villa-zamorano-vz-danli-corto-46-coming-to-europe-july-1/472892/",
+   "https://www.neptunecigar.com/villa-zamorano-danli-cigar"
+  ],
+  "notes": "The Carmelita wrapper is a variety grown for Maya Selva and fits no standard wrapper category. Neptune lists medium strength; halfwheel's reviewer found it mild to just under medium. The Corto 46 perfecto was added in Europe in July 2026 with no U.S. date yet.",
+  "verified": true,
+  "verifyNotes": "Replaced the general Neptune brand link with Neptune's VZ Danli page. Added to notes that halfwheel's review found less strength than Neptune's Medium. Blend, factory and sizes confirmed on halfwheel."
+ },
+ {
+  "brand": "Volition America",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Connecticut-wrapped toro made in Nicaragua by Gurkha in partnership with the Volition America apparel brand. It is one of three blends in a line that raises money for Folds of Honor scholarships.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://volitionamerica.com/products/volition-america-box-13-connecticut",
+   "https://halfwheel.com/gurkhas-volition-america-lines-get-new-packaging/451665/",
+   "https://www.neptunecigar.com/volition-america-cigar"
+  ],
+  "notes": "Made by Gurkha, which has not said where the wrapper is grown or which factory makes it. Neptune lists an Ecuadorian Connecticut Shade wrapper and names Tabacalera Las Villas as the manufacturer. Sold in boxes of 13, with 13 percent of revenue going to Folds of Honor.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf simplified to Connecticut (undisclosed origin stays in notes). Swapped one halfwheel link for Neptune, which confirms Mild; the maker page says smooth, mild draw. Added Neptune's wrapper and manufacturer claims to notes."
+ },
+ {
+  "brand": "Volition America",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A habano-wrapped toro made in Nicaragua by Gurkha in partnership with the Volition America apparel brand. It is one of three blends in a line that raises money for Folds of Honor scholarships.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://volitionamerica.com/products/volition-america-box-13-habano",
+   "https://halfwheel.com/gurkhas-volition-america-lines-get-new-packaging/451665/",
+   "https://www.neptunecigar.com/volition-america-cigar"
+  ],
+  "notes": "Made by Gurkha, which has not said where the wrapper is grown or which factory makes it. Neptune names Tabacalera Las Villas as the manufacturer. Sold in boxes of 13, with 13 percent of revenue going to Folds of Honor.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf simplified to Habano. Swapped one halfwheel link for Neptune, which confirms Medium; the maker page says balanced, medium profile. Added Neptune's manufacturer claim to notes."
+ },
+ {
+  "brand": "Volition America",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A maduro-wrapped toro made in Nicaragua by Gurkha in partnership with the Volition America apparel brand. It is one of three blends in a line that raises money for Folds of Honor scholarships.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://volitionamerica.com/products/volition-america-box-13-maduro",
+   "https://halfwheel.com/gurkhas-volition-america-lines-get-new-packaging/451665/",
+   "https://www.neptunecigar.com/volition-america-cigar"
+  ],
+  "notes": "Made by Gurkha; wrapper origin and factory are undisclosed, though Neptune names Tabacalera Las Villas as the manufacturer. Medium strength is Neptune's rating; the maker only calls it bold and rich. Boxes of 13, with 13 percent of revenue going to Folds of Honor.",
+  "verified": true,
+  "verifyNotes": "strength changed from null to Medium, from Neptune's listing (the only rating found; the maker gives none). wrapperLeaf simplified to Maduro. Swapped one halfwheel link for Neptune."
+ },
+ {
+  "brand": "Bellatto Premium Cigars",
+  "line": "Edition Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Connecticut shade cigar from Tony Bellatto's company that began as a private blend of Dominican cigar maker William Ventura. The Edition name marks Gene Bellatto's 50 years in the cigar business.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/bellatto-edition-brazil-connecticut-begin-shipping/429955/",
+   "https://halfwheel.com/pca-2022-bellatto-premium-cigars/409329/",
+   "https://www.smokingpipes.com/cigars/bellatto/moreinfo.cfm?product_id=515411"
+  ],
+  "notes": "Binder and filler are undisclosed; William Ventura has not told even Bellatto. Strength is Smokingpipes' rating of 3 out of 5; there is no maker rating. It was shown in 2022 but did not ship until September 2023 because of the Tabacalera William Ventura fire.",
+  "verified": true,
+  "verifyNotes": "strength changed from null to Medium, from the Smokingpipes product page (3/5), the only rating found. Smokingpipes link changed to the product page that carries the specs. Wrapper, sizes, El Maestro factory confirmed on halfwheel; Smokingpipes lists the Lonsdale as 6 x 46 against halfwheel's 6 x 48, and that line was dropped from notes for length."
+ },
+ {
+  "brand": "Bellatto Premium Cigars",
+  "line": "Edition Brazil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca (dark)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almonds",
+   "oak",
+   "cinnamon",
+   "espresso",
+   "earth",
+   "leather"
+  ],
+  "about": "A dark Brazilian-wrapped cigar from Bellatto Premium Cigars that started as William Ventura's private blend for friends and family. It is meant to recall old-school Dominican cigars.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/bellatto-edition-brazil-lonsdale/431338/",
+   "https://halfwheel.com/bellatto-edition-brazil-connecticut-begin-shipping/429955/",
+   "https://halfwheel.com/pca-2022-bellatto-premium-cigars/409329/"
+  ],
+  "notes": "Binder and filler are undisclosed. Shown in 2022 but not shipped until September 2023 after the Tabacalera William Ventura fire moved production to the family's El Maestro factory. Strength and flavors are from halfwheel's review; there is no maker rating.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, El Maestro factory, sizes, September 2023 release and the review's medium-plus strength and medium body confirmed on halfwheel."
+ },
+ {
+  "brand": "Bellatto Premium Cigars",
+  "line": "Knockaround",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto 550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro 650",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo 660",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "toast",
+   "cream",
+   "earth"
+  ],
+  "about": "The first line released under the Bellatto Premium Cigars name, built by Tony Bellatto as an affordable everyday cigar. Every size launched at under $10.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/knockaround-robusto-550/416773/",
+   "https://halfwheel.com/bellattos-knockaround-debuting-at-pca-2022/409324/",
+   "https://halfwheel.com/pca-2022-bellatto-premium-cigars/409329/"
+  ],
+  "notes": "No maker strength rating is published. Halfwheel's reviewer found it mild to medium in strength with medium body. Tabacalera William Ventura burned in September 2022 and many Bellatto lines moved to the family's El Maestro factory.",
+  "verified": true,
+  "verifyNotes": "No field changes. Added the factory fire to notes, since the listed factory was destroyed two months after launch. Blend, sizes and July 2022 release confirmed on halfwheel."
+ },
+ {
+  "brand": "Blend Bar Cigars",
+  "line": "Dominicano",
+  "found": true,
+  "officialName": "BLEND Dominicano",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cream"
+  ],
+  "about": "A house cigar made for the BLEND Bar with Davidoff Cigars lounges by Klaas Kelner's Kelner Cigars factory in Santiago, Dominican Republic. It launched in August 2024 in four sizes, in boxes of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://stogiepress.com/cigar-news-blend-bar-with-davidoff-cigars-blend-announces-blend-dominicano/",
+   "https://cigar-coop.com/2024/07/blend-bar-teams-with-kelner-cigars-for-blend-dominicano-cigar-news.html",
+   "https://blendbarcigar.com/pages/dominicano"
+  ],
+  "notes": "Full name is BLEND Dominicano La Familia 2023 Edition. Limited to 20,000 cigars (2,000 boxes of 10). The lounge's announcement calls it medium-bodied and says the tobaccos were aged at least three years.",
+  "verified": true,
+  "verifyNotes": "Researcher left the blend empty. Filled wrapper, binder, filler, country, factory, strength, sizes, flavors, year and production from the lounge's 2024 announcement as carried by Stogie Press and Cigar Coop, which agree. Neither is on the brief's preferred list and no halfwheel or retailer page was found."
+ },
+ {
+  "brand": "Blend Bar Cigars",
+  "line": "Exclusive Salomones",
+  "found": true,
+  "officialName": "BLEND Exclusive Salomones",
+  "wrapperLeaf": "Ecuadorian 702 (five years old)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente Mejorado seco)",
+  "filler": "Dominican Republic (San Vicente Mejorado seco, San Vicente visus, Piloto visus, Piloto seco, Yamasá visus)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomones",
+    "length": 8.5,
+    "ring": 57
+   }
+  ],
+  "flavors": [],
+  "about": "A very large salomones made by Davidoff exclusively for the BLEND Bar lounges. It was developed over five years and comes in red lacquered boxes of 10.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-announces-blend-exclusive-salomones/384177/",
+   "https://blendbarcigar.com/products/blend-exclusive-salamone-cigar"
+  ],
+  "notes": "Limited to 1,000 boxes of 10 and sold only at BLEND Bar locations. Launched at $95 a cigar; the lounge's site now lists it at $124.99. The 702 wrapper comes from a growing region Davidoff keeps to itself.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, binder, filler, size, 1,000 boxes and $95 price confirmed on halfwheel (Nov. 2020); halfwheel separately quotes Davidoff calling 702 a Habano wrapper from Ecuador. Neither halfwheel nor the lounge's page states country, factory or strength, so those stay null."
+ },
+ {
+  "brand": "Blend Bar Cigars",
+  "line": "10 Year Anniversary Exclusive Edition",
+  "found": true,
+  "officialName": "10 Year Anniversary Davidoff BLEND Exclusive Edition",
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Davidoff",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cocoa",
+   "pepper"
+  ],
+  "about": "A Davidoff toro made to mark ten years of BLEND's Indianapolis lounge. It is sold in boxes of 10 through the lounge.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://blendbarcigar.com/products/davidoff-blend-10-year-anniversary-exclusive-edition",
+   "https://cigardojo.com/2023/11/blend-bar-celebrates-10th-anniversary-with-davidoff-exclusive/",
+   "https://stogiepress.com/cigar-news-blend-bar-and-davidoff-announce-the-blend-10-year-exclusive-edition/"
+  ],
+  "notes": "Limited to 1,000 boxes of 10 at $599 a box. Cigar Dojo reports a Dominican wrapper, Ecuadorian binder and five Dominican fillers aged at least five years; the lounge's own page does not break the blend out. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Added wrapper, binder and filler from Cigar Dojo (binder and filler also in the Stogie Press copy of the announcement), release year 2023, flavors from the announcement and two sources. Country, factory and 6 x 50 size confirmed on the lounge's page, which publishes no strength."
+ },
+ {
+  "brand": "Ceniza Fina",
+  "line": "Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Criollo 98, HVA, Piloto Cubano), Nicaragua (Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Box Pressed Robusto Gordo",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "vanilla",
+   "roasted nuts",
+   "marshmallow",
+   "graham cracker",
+   "pepper"
+  ],
+  "about": "The debut blend from Ceniza Fina, the brand started by Sam and Rosie Lopez of Fine Ash Cigars in Glendale, Arizona. It is blended by Hostos Fernandez Quesada and made in Santiago, Dominican Republic.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://cenizafinacigars.com/corojo-blend/",
+   "https://halfwheel.com/ceniza-fina-corojo-corona-gorda/437849/",
+   "https://halfwheel.com/ceniza-fina-adds-box-pressed-robusto-gordo-increases-prices/442156/"
+  ],
+  "notes": "Ceniza Fina means fine ash in Spanish. Only the Robusto Gordo is box-pressed in this blend.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory and sizes confirmed on halfwheel; Medium strength and Medium-Full body confirmed on the maker's page."
+ },
+ {
+  "brand": "Ceniza Fina",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Corojo, Criollo 98, HVA), Nicaragua (Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "vanilla",
+   "oak",
+   "sourdough",
+   "white pepper"
+  ],
+  "about": "The second Ceniza Fina blend, a mellow box-pressed Connecticut made at Tabacalera La Isla for the owners of Fine Ash Cigars in Arizona. It launched at the 2025 PCA trade show.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cenizafinacigars.com/connecticut-blend/",
+   "https://halfwheel.com/ceniza-fina-connecticut-corona/454476/",
+   "https://halfwheel.com/pca-2026-ceniza-fina/467895/"
+  ],
+  "notes": "All four sizes are box-pressed. Early Corona cellophane and boxes were mislabeled 5 x 42; the cigar is 5 1/2 x 48.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory, sizes and the mislabeled Corona confirmed on halfwheel; Mild-to-Medium strength and Medium body confirmed on the maker's page."
+ },
+ {
+  "brand": "Ceniza Fina",
+  "line": "CT Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico",
+  "filler": "Piloto Cubano, Criollo 98, HVA, Nicaragua (Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "BP Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "BP Corona",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "BP Robusto Gordo",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "BP Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "dark chocolate",
+   "molasses",
+   "espresso",
+   "black pepper"
+  ],
+  "about": "The third Ceniza Fina blend and the strongest of the three, a box-pressed Connecticut broadleaf made at Tabacalera La Isla in Santiago. It began shipping in July 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://cenizafinacigars.com/connecticut-broadleaf-blend/",
+   "https://halfwheel.com/ceniza-finas-ct-broadleaf-begins-shipping/473844/",
+   "https://halfwheel.com/pca-2026-ceniza-fina/467895/"
+  ],
+  "notes": "Sold only in box-pressed sizes. The maker calls it the brand's richest and darkest cigar so far.",
+  "verified": true,
+  "verifyNotes": "Reworded about slightly. Blend, factory, sizes and July 2026 shipping confirmed on halfwheel; Medium-to-Full strength and body confirmed on the maker's page."
+ },
+ {
+  "brand": "Civil Pleasures",
+  "line": "CP1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo (Jalapa)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Joya de Nicaragua",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "oak",
+   "marzipan",
+   "white pepper"
+  ],
+  "about": "The first cigar from Civil Pleasures, a New York City brand started by four friends. It is a box-pressed robusto made by Joya de Nicaragua with five-year-old filler.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.civilpleasures.com/product/civil-pleasures-cp1",
+   "https://halfwheel.com/civil-pleasures-debuts-in-new-york-city/431467/"
+  ],
+  "notes": "Launched at $30 a cigar; the brand's site now lists singles at $25.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler, factory, size and $30 launch price confirmed on halfwheel; medium strength, medium to full body and flavors confirmed on the maker's page."
+ },
+ {
+  "brand": "Civil Pleasures",
+  "line": "Sport!",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A boxed cigar from New York brand Civil Pleasures, sold on its site alongside the CP1.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.civilpleasures.com/product/civl-pleasures-sport",
+   "https://www.civilpleasures.com/shop"
+  ],
+  "notes": "Civil Pleasures has not published the blend, size or factory. The product page text is the CP1 description reused, so do not quote those details for Sport!. Listed at $149.99 a box.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that the company calls it an everyday smoke; that wording is not on the product, shop or home pages. Confirmed the maker's page carries only the CP1 text, so no blend details are published for it."
+ },
+ {
+  "brand": "Civil Pleasures",
+  "line": "Zaidi's NYC x Civil Pleasures Classic",
+  "found": true,
+  "officialName": "Zaidi's NYC x Civil Pleasures Classic Cigar",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A collaboration cigar between Civil Pleasures and Zaidi's NYC, sold in packs of three on the Civil Pleasures site.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.civilpleasures.com/product/zaidis-nyc-x-civil-pleasures-classic-cigar-pack-of-3",
+   "https://www.civilpleasures.com/shop"
+  ],
+  "notes": "The blend, size and factory are not published. The product page text is the CP1 description reused, so do not quote those details for this cigar. Listed at $30 for a pack of three.",
+  "verified": true,
+  "verifyNotes": "Removed the sentence about the band, which no page text supports. Confirmed the maker's page carries only the CP1 text, so no blend details are published for it."
+ },
+ {
+  "brand": "Edgar Hoill",
+  "line": "OSOK One Shot One Kill",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (maduro shade)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Callejero",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Travieso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Desmadroso",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Cabroncito",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A Nicaraguan puro from photographer Edgar Hoill, released in 2013 through Christian Eiroa's Fabricas Unidas and CLE. It came in perfecto and shaggy-foot shapes wrapped in Hoill's artwork.",
+  "released": 2013,
+  "production": "discontinued",
+  "sources": [
+   "https://www.neptunecigar.com/osok-cigar",
+   "https://halfwheel.com/revamped-osok-shot-kill-debut-ipcpr-2013/38175/",
+   "https://halfwheel.com/ipcpr-2014-cle-cigarsfabricas-unidas/66030/"
+  ],
+  "notes": "Not the same cigar as the 2012 Room101 OSOK. The maduro shade, full strength and size measurements come from Neptune's listing; halfwheel only calls it a Nicaraguan puro from an undisclosed factory and gave different pre-release dimensions. A 4 x 44 Cabroncito was added in 2014.",
+  "verified": true,
+  "verifyNotes": "Added the 4 x 44 Cabroncito from halfwheel's 2014 trade show report and that source. The three original sizes rest on Neptune alone and differ from halfwheel's pre-release figures; said so in notes. Neptune's text also says made in Honduras in one place, against its own Nicaragua spec and halfwheel."
+ },
+ {
+  "brand": "Edgar Hoill",
+  "line": "OSOK San Andres",
+  "found": true,
+  "officialName": "OSOK San Andrés",
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Mexico (San Andrés)",
+  "country": "Mexico",
+  "factory": "Casa Turrent",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "nuts",
+   "cream",
+   "paprika"
+  ],
+  "about": "A Mexican puro from Edgar Hoill made entirely of San Andrés tobacco at the Turrent family's Casa Turrent factory. It is one of very few cigars using the leaf for wrapper, binder and filler.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/osok-san-andres/297975/",
+   "https://halfwheel.com/ipcpr-2019-eh-cigars/363259/",
+   "https://halfwheel.com/osok-san-andres-shipping-oct-1/281502/"
+  ],
+  "notes": "Strength and flavors are from halfwheel's review, which called it an earth bomb. A small 4 x 44 Cabronsito was added in 2019 as a limited release sold to only 50 retailers.",
+  "verified": true,
+  "verifyNotes": "Removed the Cabronsito from sizes because halfwheel calls it a limited production release; it stays in notes. Blend, Casa Turrent factory, 5 1/4 x 54 size and 2018 release confirmed on halfwheel."
+ },
+ {
+  "brand": "Edgar Hoill",
+  "line": "Los Tejanos by OSOK x Rojas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Corojo, Somoto Valley)",
+  "filler": "Nicaragua (Somoto Valley)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Flor de San Luis",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mareva",
+    "length": 5.125,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "toast",
+   "nuts",
+   "cocoa",
+   "black pepper",
+   "earth"
+  ],
+  "about": "A joint line from Edgar Hoill of OSOK and Noel Rojas of Rojas Cigars, named for Texans of Mexican descent. It pairs a Mexican wrapper with Nicaraguan tobacco from the Somoto Valley.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/los-tejanos-by-osok-x-rojas-ships/380822/",
+   "https://halfwheel.com/osok-and-rojas-cigars-partner-up-for-los-tejanos/379700/",
+   "https://halfwheel.com/los-tejanos-by-osok-x-rojas-toro/381824/"
+  ],
+  "notes": "Noel Rojas calls it medium-bodied; halfwheel's review found it slightly stronger than medium. At launch the Lancero was rolled at Rojas's shop in Richardson, Texas, and the other sizes at Tabacalera Flor de San Luis. Rojas opened his own Esteli factory in 2021, so current production may differ.",
+  "verified": true,
+  "verifyNotes": "No field changes. Added to notes that the launch factory arrangement may no longer apply, per halfwheel's 2024 redux review. Blend, sizes and August 2020 release confirmed on halfwheel."
+ }
+]

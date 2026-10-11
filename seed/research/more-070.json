@@ -1,0 +1,656 @@
+[
+ {
+  "brand": "Macanudo",
+  "line": "Ecuadorian Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf)",
+  "filler": "Dominican Republic (Piloto Cubano, Olor), Nicaragua (Condega, Esteli)",
+  "country": "Nicaragua",
+  "factory": "STG Esteli",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "honey",
+   "cream"
+  ],
+  "about": "A box-pressed Macanudo with an Ecuadorian shade wrapper, launched in April 2026 alongside the Sumatra version of the same blend. Unlike most Macanudos it is rolled in Esteli, Nicaragua.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/legacy/macanudo-ecuadorian-shade/",
+   "https://halfwheel.com/macanudo-getting-ecuadorian-shade-and-sumatra-versions/467404/",
+   "https://www.neptunecigar.com/cigar/macanudo-ecuadorian-shade"
+  ],
+  "notes": "All sizes are box-pressed. Macanudo rates it Mellow to Medium in body and gives no separate strength; Neptune lists it as Medium.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf changed from \"Ecuadorian Shade (Connecticut seed)\" to the maker's wording; no source says \"Connecticut seed\" (Neptune calls it Ecuadorian Connecticut Shade). All other fields match macanudo.com, halfwheel and Neptune."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf)",
+  "filler": "Dominican Republic (Piloto Cubano, Olor), Nicaragua (Condega, Esteli)",
+  "country": "Nicaragua",
+  "factory": "STG Esteli",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "oak",
+   "dark wood",
+   "earth",
+   "chocolate",
+   "pepper"
+  ],
+  "about": "A box-pressed Macanudo with an Ecuadorian Sumatra wrapper, launched in April 2026 as the richer partner to the Ecuadorian Shade. It shares that cigar's binder and filler and is rolled in Esteli, Nicaragua.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/legacy/macanudo-sumatra/",
+   "https://halfwheel.com/macanudo-sumatra-robusto/474478/",
+   "https://www.neptunecigar.com/cigar/macanudo-sumatra"
+  ],
+  "notes": "All sizes are box-pressed. Macanudo rates it Medium in body and gives no separate strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Vintage Maduro",
+  "found": true,
+  "officialName": "Vintage Maduro 2013",
+  "wrapperLeaf": "Connecticut Broadleaf Maduro (2013 crop)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Honduras (Olancho San Agustin)",
+  "filler": "Brazil (Mata Fina), Nicaragua (Jalapa), Dominican Republic (Piloto Cubano seco and ligero)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "fruit",
+   "spice",
+   "earth"
+  ],
+  "about": "A Macanudo built around a Connecticut broadleaf wrapper from the hot, wet 2013 growing season, aged about ten years. General Cigar began shipping it in July 2023.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/legacy/macanudo-vintage-maduro-2013/",
+   "https://halfwheel.com/macanudo-vintage-maduro-2013-begins-shipping/425407/",
+   "https://www.neptunecigar.com/cigar/macanudo-vintage-maduro-2013"
+  ],
+  "notes": "2013 is the wrapper's crop year, not the release year. Macanudo rates it Medium in body and gives no separate strength rating.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Country rests on Neptune only (\"handmade in the Dominican Republic\"); the maker page and halfwheel do not state where it is rolled."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Heritage Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (natural)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "leather",
+   "wood",
+   "caramel",
+   "spice"
+  ],
+  "about": "A Macanudo made with Honduran wrapper and binder over aged Honduran and Nicaraguan filler, rested two years after rolling. It is not on Macanudo's own site and only turns up at a few retailers.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/macanudo-heritage-reserve",
+   "https://www.cigarplace.biz/macanudo-heritage-reserve-robusto-pack-of-5-cigars.html"
+  ],
+  "notes": "Retailer information only; the maker does not list it. Neptune's spec table says Dominican Republic, but its own description and Cigar Place both say it is made in Honduras. Neptune marks it discontinued.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed on Neptune and Cigar Place only; not on macanudo.com, and no maker, halfwheel or Cigar Aficionado page could be found (web search was unavailable). Treat as retailer-only data."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Inspirado Jamao",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Jamao (Habano seed from Jamastran, Honduras, grown in Mao)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "herbal",
+   "wood",
+   "cream",
+   "salt"
+  ],
+  "about": "A limited Inspirado whose wrapper is a Honduran Jamastran habano seed grown in the Mao region of the Dominican Republic. The name joins Jamastran and Mao.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.macanudo.com/cigars/inspirado/jamao/",
+   "https://halfwheel.com/macanudo-inspirado-jamao-toro/413175/",
+   "https://www.neptunecigar.com/cigar/macanudo-inspirado-jamao"
+  ],
+  "notes": "Limited edition; halfwheel reports 46,000 cigars in total. Pronounced hah-mau. Macanudo rates it Medium in body and gives no separate strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Inspirado Tercio-Aged",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Besuki)",
+  "filler": "Dominican Republic (Piloto Cubano seco and ligero), Colombia (seco)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "nuts"
+  ],
+  "about": "A limited Inspirado built around Dominican piloto filler aged six months in tercios, bales wrapped in royal palm bark. It shipped in April 2023.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.macanudo.com/cigars/inspirado/tercio-aged/",
+   "https://halfwheel.com/macanudo-inspirado-tercio-aged-shipping-next-month/420861/",
+   "https://www.neptunecigar.com/cigar/macanudo-inspirado-tercio-aged"
+  ],
+  "notes": "Limited to 1,700 boxes of 10 per size in the U.S. Macanudo rates it Medium in body and gives no separate strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Inspirado Year of the Rabbit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade (U.S. grown)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, Mexico",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Lunar New Year edition of Macanudo Inspirado made for markets in Europe and Asia, not for the U.S. It came in one 6 x 50 toro.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/macanudo-inspirado-year-of-the-rabbit-heading-to-europe-and-asia/416427/"
+  ],
+  "notes": "Not a U.S. release: 3,900 boxes of 10 for France, Spain, the UAE, Macau and other markets. Announced December 2022, on sale from early January 2023. No strength rating was published.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Halfwheel is the only source and gives no strength; the cigar is not on macanudo.com."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "M by Macanudo Espresso with Cream",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian shade and Indonesian maduro (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": "Philippines",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Tambor",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cream",
+   "tobacco"
+  ],
+  "about": "A flavored Macanudo with a two-tone barber pole wrapper, infused with espresso and cream flavor. It launched in August 2021.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/m-by-macanudo/espresso-with-cream/",
+   "https://halfwheel.com/m-by-macanudo-espresso-arriving-in-early-august/398883/",
+   "https://www.neptunecigar.com/cigar/m-by-macanudo-espresso"
+  ],
+  "notes": "Flavored (infused) cigar; launched as M by Macanudo Espresso. Macanudo rates it Medium in body, while Neptune lists it as Full. Factory is as halfwheel reported at the 2021 launch.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Note that a 2026 halfwheel article says the M flavored lines are made at General Cigar Dominicana, which conflicts with its 2021 launch report (Tabacalera Tambor, Nicaragua); Neptune also says Nicaragua."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "M by Macanudo Bourbon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "bourbon",
+   "cherry",
+   "bitters",
+   "oak"
+  ],
+  "about": "A flavored Macanudo modeled on the Old Fashioned cocktail, with bourbon, cherry and bitters flavoring over an Ecuadorian Connecticut wrapper. It launched in August 2019.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/m-by-macanudo/bourbon/",
+   "https://halfwheel.com/general-cigar-co-announces-m-bourbon-by-macanudo-at-ipcpr-2019/361780/",
+   "https://www.neptunecigar.com/cigar/m-bourbon-by-macanudo"
+  ],
+  "notes": "Flavored cigar, also sold as M Bourbon by Macanudo. Launched with a Toro (6 x 50) and Churchill (7 x 47); Macanudo now lists only the Robusto. Where it is rolled is unclear: Neptune says Nicaragua, halfwheel says the M flavored lines are made at General Cigar Dominicana.",
+  "verified": true,
+  "verifyNotes": "Notes: \"retailers say Nicaragua\" narrowed to Neptune, the one retailer checked. Country left null: the maker does not publish it and the sources disagree."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "M by Macanudo Irish Cream",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Honduras (Olancho San Agustin)",
+  "filler": "Dominican Republic (Piloto Cubano, Olor)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "chocolate",
+   "caramel",
+   "vanilla"
+  ],
+  "about": "A flavored Macanudo with Irish cream flavoring over a Cameroon wrapper, one of three M by Macanudo flavors added in March 2025. It comes in one robusto size.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/m-by-macanudo/irish-cream/",
+   "https://halfwheel.com/general-adding-three-new-m-by-macanudo-flavors/447691/",
+   "https://www.cigarplace.biz/m-by-macanudo-irish-cream-robusto.html"
+  ],
+  "notes": "Flavored (infused) cigar. Halfwheel lists the factory as General Cigar Dominicana, while retailer Cigar Place says it is made in Nicaragua. Macanudo rates it Medium in body.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Halfwheel names General Cigar Dominicana only as an article tag, but Neptune also lists this cigar as Dominican, so country and factory are kept."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "M by Macanudo Vanilla Bourbon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Honduras (Olancho San Agustin)",
+  "filler": "Dominican Republic (Piloto Cubano, Olor)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "bourbon",
+   "caramel",
+   "oak"
+  ],
+  "about": "A flavored Macanudo with vanilla and bourbon flavoring over a Cameroon wrapper, one of three M by Macanudo flavors added in March 2025. It comes in one robusto size.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/m-by-macanudo/vanilla-bourbon/",
+   "https://halfwheel.com/general-adding-three-new-m-by-macanudo-flavors/447691/",
+   "https://www.cigarplace.biz/m-by-macanudo-vanilla-bourbon-robusto.html"
+  ],
+  "notes": "Flavored (infused) cigar; separate from the older M Bourbon. Halfwheel lists the factory as General Cigar Dominicana, while retailer Cigar Place says it is made in Nicaragua. Macanudo rates it Medium in body.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Halfwheel names General Cigar Dominicana only as an article tag, but Neptune also lists this cigar as Dominican, so country and factory are kept."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "M by Macanudo Honey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Olancho San Agustin)",
+  "filler": "Dominican Republic (Piloto Cubano, Olor)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "honey",
+   "citrus",
+   "fruit",
+   "vanilla"
+  ],
+  "about": "A flavored Macanudo with honey flavoring, one of three M by Macanudo flavors added in March 2025. It comes in one robusto size.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/m-by-macanudo/honey/",
+   "https://halfwheel.com/general-adding-three-new-m-by-macanudo-flavors/447691/",
+   "https://www.cigarplace.biz/m-by-macanudo-honey-robusto.html"
+  ],
+  "notes": "Flavored (infused) cigar. Macanudo and Cigar Place list an Ecuadorian Connecticut wrapper; halfwheel's launch report said Cameroon for all three 2025 flavors. Halfwheel lists General Cigar Dominicana as the factory, while Cigar Place says Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Halfwheel names General Cigar Dominicana only as an article tag, but Neptune also lists this cigar as Dominican, so country and factory are kept."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "M by Macanudo Myers's Rum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "oak",
+   "molasses",
+   "spice",
+   "fruit"
+  ],
+  "about": "A flavored Macanudo made in partnership with Sazerac's Myers's Rum, a nod to both brands' Jamaican roots. It began shipping in April 2026 in one robusto size.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/m-by-macanudo/myerss-rum/",
+   "https://halfwheel.com/m-by-macanudo-myerss-rum-shipping-next-week/467393/"
+  ],
+  "notes": "Flavored cigar. Halfwheel reports it is flavored to go with rum rather than infused with actual rum. Macanudo rates it Mellow to Medium in body and gives no separate strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Emissary España",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Broadleaf Claro (aged 5 years)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Dominican Republic (Piloto), Colombia, Nicaragua, Spain",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "almond",
+   "caramel"
+  ],
+  "about": "The first Macanudo Emissary, released in March 2024, built around 10-year-old filler tobacco grown near Riolobos, Spain. It blends tobaccos from five countries and is rolled in Honduras.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/emissary/espana/",
+   "https://halfwheel.com/macanudo-emissary-espana-perfecto/439635/",
+   "https://www.neptunecigar.com/cigar/macanudo-emissary-espana"
+  ],
+  "notes": "The wrapper is a lighter claro broadleaf, though Neptune lists it as maduro. The Perfecto tapers from 40 to 54 ring. A limited box-pressed Torpedo (6 x 52, 1,500 boxes of 16) shipped in October 2024.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed from four sentences to three; facts unchanged."
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Emissary France",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (aged 10 years)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf)",
+  "filler": "Dominican Republic (Piloto), USA (Broadleaf), Brazil (Arapiraca), France",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "salt",
+   "dried fruit",
+   "berries",
+   "fruit"
+  ],
+  "about": "The second Macanudo Emissary, released in March 2025, featuring four-year-old French filler tobacco grown in the Mugron valley between Bordeaux and the Spanish border. It is rolled in Honduras with tobaccos from five countries.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.macanudo.com/cigars/emissary/france/",
+   "https://halfwheel.com/newest-macanudo-emissary-gets-french-tobacco/447948/",
+   "https://www.neptunecigar.com/cigar/macanudo-emissary-france"
+  ],
+  "notes": "Every leaf is aged four to ten years; the French leaf is the youngest at four. Macanudo rates it Medium in body and gives no separate strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

@@ -1,0 +1,499 @@
+[
+ {
+  "brand": "Casa 1910",
+  "line": "Cuchillo Parado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Sumatra, aged 3 years",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (Negro San Andrés, aged 5 years)",
+  "filler": "Mexico (Negro San Andrés, aged 5 years)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "bread",
+   "white pepper",
+   "wood",
+   "cream",
+   "black pepper",
+   "earth"
+  ],
+  "about": "The first Casa 1910 cigar and its flagship, a Mexican puro with a Sumatra-seed wrapper over San Andrés Negro binder and filler. It is named for the Chihuahua town where the Mexican Revolution began.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.casa1910.com/en/products/cuchillo-parado",
+   "https://halfwheel.com/casa-1910-cuchillo-parado/408401/",
+   "https://halfwheel.com/pca-2026-casa-1910/464461/"
+  ],
+  "notes": "The factory, in the San Andrés Valley of Veracruz, is not disclosed. It launched as a 5 x 50 robusto only; the Corona and Toro were added in April 2026.",
+  "verified": true,
+  "verifyNotes": "Notes: removed the unsupported town name San Andrés Tuxtla (the maker says only Valle de San Andrés, Veracruz) and a sentence about where the flavor notes came from. Blend, strength, sizes and release year confirmed on the maker page and halfwheel."
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Tierra Blanca",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro maduro, aged 5 years",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (Negro San Andrés, aged 5 years)",
+  "filler": "Mexico (Negro San Andrés, aged 5 years)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "pepper",
+   "spice"
+  ],
+  "about": "A Mexican puro made entirely of San Andrés Negro tobacco under a five-year-aged maduro wrapper. It is the stronger sibling of Cuchillo Parado, named for a Pancho Villa victory in the Mexican Revolution.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.casa1910.com/en/products/tierra-blanca",
+   "https://halfwheel.com/casa-1910-adding-four-new-cigars-at-pca-2022/410205/",
+   "https://www.neptunecigar.com/cigars/casa-1910-tierra-blanca-robusto-5--50"
+  ],
+  "notes": "The maker now lists it as Full; at its 2022 launch it was described as medium to full. It debuted as a 6 x 54 toro extra, which became a 6 x 52 Toro in the 2026 lineup. The factory is not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "El Ébano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Colorado Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Claro, aged 5 years)",
+  "filler": "Mexico (aged 5 years)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A third core line from Casa 1910, a Mexican puro with a San Andrés Colorado Maduro wrapper over a San Andrés Claro binder. It is named for the city of Ébano, site of a 1915 battle.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.casa1910.com/en/products/el-ebano",
+   "https://halfwheel.com/casa-1910-announces-portfolio-makeover-focus-on-mexican-cigars-for-2026/464432/",
+   "https://halfwheel.com/pca-2026-casa-1910/464461/"
+  ],
+  "notes": "Announced in 2024 and delayed more than once; it was last scheduled for Q3 2026 and the maker's site still showed it as Coming Soon in October 2026, so it may not be on shelves yet. No tasting notes are published. The factory is not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Mexigars Colorado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro Colorado Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (Habano, San Andrés Negro)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "almonds",
+   "earth",
+   "raisin",
+   "black pepper"
+  ],
+  "about": "One of two blends in Casa 1910's lower-priced Mexigars bundle line, made entirely of Mexican tobacco. The band is applied upside down so it looks like a volcano erupting as the cigar burns.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-1910-mexigars-colorado/453036/",
+   "https://halfwheel.com/pca-2026-casa-1910/464461/",
+   "https://www.neptunecigar.com/cigars/casa-1910-mexigars-colorado-toro-6--52"
+  ],
+  "notes": "Shown in 2024 as Mexigars MX-1 and renamed Colorado before shipping in April 2025. The Gordo was added in April 2026. The factory is not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Mexigars Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (Habano Mexico Especial, San Andrés Negro)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate"
+  ],
+  "about": "One of two blends in Casa 1910's lower-priced Mexigars bundle line, a Mexican puro with a Mexican-grown habano wrapper. It is sold in bundles of 25 alongside the Mexigars Colorado.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-1910-mexigars-colorado/453036/",
+   "https://www.neptunecigar.com/cigars/casa-1910-mexigars-hba-toro-6--52",
+   "https://halfwheel.com/pca-2026-casa-1910/464461/"
+  ],
+  "notes": "Shown in 2024 as Mexigars MX-2; some retailers list it as HBA. halfwheel's trade show listings give the wrapper as San Andrés Negro, while its news stories and the retailers say Mexican Habano. The factory is not disclosed.",
+  "verified": true,
+  "verifyNotes": "Sources: swapped the Cigar Coop link for halfwheel's PCA 2026 page, because none of the listed pages showed the 6 x 60 Gordo or the conflicting wrapper listing. The coffee and chocolate flavors come from the Cigar Coop 2024 launch report (cigar-coop.com/2024/05/casa-1910-launches-mexigars-at-pca-2024-cigar-news.html), which I confirmed. Strength rests on Neptune alone."
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Cavalry Edition Lucero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua (Jalapa, Ometepe, Estelí)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "leather",
+   "spice",
+   "sweetness"
+  ],
+  "about": "A 6 x 54 torpedo from Casa 1910's Nicaraguan-made Cavalry Edition, with an Ecuadorian habano wrapper over a Mexican San Andrés binder. It is named for the white-starred mare ridden by Pancho Villa.",
+  "released": 2022,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/casa-1910-adding-four-new-cigars-at-pca-2022/410205/",
+   "https://www.neptunecigar.com/cigars/casa-1910-cavalry-edition-lucero",
+   "https://halfwheel.com/casa-1910-announces-portfolio-makeover-focus-on-mexican-cigars-for-2026/464432/"
+  ],
+  "notes": "One of three Cavalry Edition cigars, each sold in a single size; it is a close relative of the As de Oro toro. Neptune lists it as Medium while the company called the line medium to full bodied. Discontinued in 2026 and the factory was never disclosed.",
+  "verified": true,
+  "verifyNotes": "Notes: changed 'Retailers list it as Medium' to name Neptune, the only retailer page that states it. Everything else confirmed."
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Cavalry Edition As de Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua (Estelí ligero, Jalapa seco and viso, Ometepe viso)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "cedar",
+   "leather",
+   "white pepper",
+   "cream"
+  ],
+  "about": "A 6 x 54 toro extra from Casa 1910's Nicaraguan-made Cavalry Edition, with an Ecuadorian habano wrapper, Mexican San Andrés binder and Nicaraguan filler. It is named for Emiliano Zapata's horse.",
+  "released": 2022,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/casa-1910-cavalry-edition-as-de-oro/414891/",
+   "https://halfwheel.com/casa-1910-ships-calvary-edition-tierra-blanca/413248/",
+   "https://halfwheel.com/casa-1910-announces-portfolio-makeover-focus-on-mexican-cigars-for-2026/464432/"
+  ],
+  "notes": "One of three Cavalry Edition cigars, each sold in a single size; it is a close relative of the Lucero torpedo. The halfwheel review found medium strength with medium-full to full body. Discontinued in 2026 and the factory was never disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Cavalry Edition Jilguero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Jalapa seco and viso, Estelí ligero)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice",
+   "earth"
+  ],
+  "about": "A 6 x 60 gordo from Casa 1910's Nicaraguan-made Cavalry Edition, with a Mexican San Andrés maduro wrapper over Nicaraguan binder and filler. It is named for one of Pancho Villa's horses, a dark stallion.",
+  "released": 2022,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/casa-1910-adding-four-new-cigars-at-pca-2022/410205/",
+   "https://www.neptunecigar.com/cigars/casa-1910-cavalry-edition-jilguero",
+   "https://halfwheel.com/casa-1910-announces-portfolio-makeover-focus-on-mexican-cigars-for-2026/464432/"
+  ],
+  "notes": "One of three Cavalry Edition cigars, each sold in a single size, and the only one with a San Andrés wrapper. Neptune lists it as Medium while describing it as medium to full bodied. Discontinued in 2026 and the factory was never disclosed.",
+  "verified": true,
+  "verifyNotes": "Flavors: removed cocoa and pepper, which none of the listed pages mention; Neptune gives sweet, spicy and earthy. Notes: named Neptune instead of 'Retailers'."
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Soldadera Edition La Coronela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca)",
+  "filler": "Dominican Republic, Mexico",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Majestuoso",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "A thick 5 1/2 x 58 cigar from Casa 1910's Dominican-made Soldadera Edition, with an Ecuadorian habano wrapper and Brazilian Arapiraca binder. It honors Amelia Robles, who fought in Zapata's army disguised as a man.",
+  "released": 2023,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/casa-1910-soldadera-edition-to-debut-at-total-product-expo-2023/416237/",
+   "https://www.neptunecigar.com/cigars/casa-1910-soldadera-edition-la-coronela-majestuoso",
+   "https://halfwheel.com/casa-1910-announces-portfolio-makeover-focus-on-mexican-cigars-for-2026/464432/"
+  ],
+  "notes": "Strength varies by source: Neptune describes it as medium to full but tags it Full, and another retailer says Medium. It is one of three Soldadera cigars, each its own blend in a single size. Discontinued in 2026.",
+  "verified": true,
+  "verifyNotes": "Notes: removed 'No tasting notes are published', which is wrong; Cigar Coop's December 2023 review lists earth, fruit, caramel, wood and cedar (flavors left empty because that page is not among the three sources). No maker strength exists; Medium-Full follows Neptune's description."
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Soldadera Edition Sampetrina",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Mexico",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "cocoa",
+   "sweetness",
+   "earth"
+  ],
+  "about": "A 5 x 50 robusto from Casa 1910's Dominican-made Soldadera Edition, with a Connecticut shade wrapper over Dominican binder. It honors Petra Herrera, who fought with Pancho Villa's forces and later led a brigade of women.",
+  "released": 2023,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/casa-1910-soldadera-edition-to-debut-at-total-product-expo-2023/416237/",
+   "https://www.neptunecigar.com/cigars/casa-1910-soldadera-edition-sampetrina-robusto",
+   "https://halfwheel.com/casa-1910-announces-portfolio-makeover-focus-on-mexican-cigars-for-2026/464432/"
+  ],
+  "notes": "The company calls it medium strength; Neptune's description says medium to full. halfwheel names the wrapper only as Connecticut, and retailers specify Ecuadorian Connecticut Shade. One of three Soldadera cigars, each its own blend in one size; discontinued in 2026.",
+  "verified": true,
+  "verifyNotes": "About: removed the unsupported claim that it is the only Connecticut-wrapped cigar the brand has offered. Notes: trimmed to three sentences. Sources: replaced the Luxury Cigar Club link with halfwheel's 2026 makeover story, which is the page that supports the discontinuation."
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Soldadera Edition Teniente Angela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Mexico, Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "wood",
+   "nuts",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A 6 x 52 toro from Casa 1910's Dominican-made Soldadera Edition, with a habano wrapper over a double binder of Mexican and Dominican leaf. It is named for a woman soldier from Oaxaca who fought with both Villa and Zapata.",
+  "released": 2023,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/casa-1910-soldadera-edition-to-debut-at-total-product-expo-2023/416237/",
+   "https://www.neptunecigar.com/cigars/casa-1910-soldadera-edition-teniente-angela-toro",
+   "https://halfwheel.com/casa-1910-announces-portfolio-makeover-focus-on-mexican-cigars-for-2026/464432/"
+  ],
+  "notes": "The company did not disclose where the habano wrapper is grown; Neptune lists it as Ecuadorian Habano maduro. The company calls it medium to full, and Neptune tags it Full. One of three Soldadera cigars, each its own blend in one size; discontinued in 2026.",
+  "verified": true,
+  "verifyNotes": "Notes: trimmed to three sentences. Sources: replaced the Luxury Cigar Club link with halfwheel's 2026 makeover story, which is the page that supports the discontinuation."
+ },
+ {
+  "brand": "Casa 1910",
+  "line": "Cuchillo Parado Reserva 2020",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (San Andrés Negro)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited aged version of the Cuchillo Parado robusto, using cigars rolled in 2020 from 2015 tobacco and rested three more years in cedar. Only 50 boxes of 50 were released, 2,500 cigars in all.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/casa-1910s-cuchillo-parado-reserva-2020-begins-shipping-to-stores/428638/",
+   "https://halfwheel.com/pca-2023-casa-1910/426310/"
+  ],
+  "notes": "Same blend as the regular Cuchillo Parado, which the maker rates Medium; no separate strength or tasting notes are published for the Reserva. It came only as a 5 x 50 robusto at $18. The factory is not disclosed.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Strength stays null: neither halfwheel nor Cigar Coop gives one and the maker's site does not list this release."
+ }
+]

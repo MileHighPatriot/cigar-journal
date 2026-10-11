@@ -1,0 +1,269 @@
+[
+ {
+  "brand": "Warped",
+  "line": "Sky Moon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Corojo 99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo 99, Criollo 98, Jalapa medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Nortena S.A. (AGANORSA Leaf)",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "earth",
+   "nuts",
+   "cream",
+   "bread"
+  ],
+  "about": "A limited Nicaraguan puro from Warped that combines elements of its Sky Flower and Moon Garden blends, made by AGANORSA Leaf in Esteli. It comes in one corona size with a rounded 109-style head.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/sky-moon/428813/",
+   "https://halfwheel.com/warped-sky-moon-to-debut-in-july/425127/",
+   "https://halfwheel.com/pca-2023-warped-cigars/424847/"
+  ],
+  "notes": "Limited to 500 boxes of 50. No maker strength is published; the strength here comes from halfwheel's review, which found it mild to just under medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "New Day",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Rosado",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Canonazo",
+    "length": 5.875,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cocoa",
+   "coffee",
+   "earth",
+   "cedar",
+   "spice"
+  ],
+  "about": "A limited Warped release whose blend and size were chosen by a vote of retailers who smoked three test blends. It is made at Tabacalera La Isla in the Dominican Republic and was sold through only 12 shops.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/new-day/447386/",
+   "https://neptunecigar.com/cigars/warped-new-day-toro",
+   "https://atlanticcigar.com/warped-new-day-toro-5-7-8x52/"
+  ],
+  "notes": "Limited to 1,000 boxes of 15. The official size is 5 7/8 x 52; Neptune lists it as a 6 x 52 toro. No maker strength is published: halfwheel and Neptune say medium, Atlantic Cigar says medium-full.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, size and release confirmed on halfwheel. Added the retailer strength split to notes (Neptune Medium, Atlantic Medium-Full) and swapped the duplicate halfwheel news link for the Atlantic page."
+ },
+ {
+  "brand": "Warped",
+  "line": "Upper Realm",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo 2012, Esteli)",
+  "filler": "Nicaragua (Esteli Criollo 98, Jalapa Corojo 99, Condega Corojo 99)",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Nortena S.A. (AGANORSA Leaf)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "chocolate",
+   "oak",
+   "earth",
+   "cream",
+   "leather"
+  ],
+  "about": "A limited Nicaraguan puro from Warped built on AGANORSA tobacco from Esteli, Jalapa and Condega, with Esteli criollo 98 as the main filler leaf. It was sold only in numbered 200-count boxes.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/upper-realm/419760/",
+   "https://halfwheel.com/warpeds-upper-realm-arrives-at-stores/416133/"
+  ],
+  "notes": "Limited to 250 numbered boxes of 200 cigars. No maker strength is published; strength and body come from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "Bits of Havana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Nortena S.A. (AGANORSA Leaf)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Seleccion de Capital (box-pressed toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Warped line that began as an exclusive for DROP Cigar Club, Kyle Gellis's own shop. The store release, Seleccion de Capital, is a box-pressed toro with a Mexican San Andres wrapper over AGANORSA Nicaraguan tobacco.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/warped-ships-bits-of-havana-seleccion-de-capital/424297/",
+   "https://cigardojo.com/2024/07/bits-of-havana-seleccion-de-capital-now-shipping/",
+   "https://dropcigarclub.com/products/bits-of-havana-robusto"
+  ],
+  "notes": "Details are for Seleccion de Capital, the store release: 500 boxes of 25 in 2023 and again in 2024. Strength is from Warped calling it full bodied. The earlier DROP-only Bits of Havana Robusto (5 x 48) is a different blend, a medium Nicaraguan puro with a Corojo 99 wrapper.",
+  "verified": true,
+  "verifyNotes": "Cleared flavors: none of the listed pages give tasting notes for Seleccion de Capital. Strength Full rests only on the press release wording \"full bodied\" (Cigar Dojo); said so in notes."
+ },
+ {
+  "brand": "Warped",
+  "line": "Seleccion Domain",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Cotui)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "4546 (Rothschild)",
+    "length": 4.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "espresso",
+   "black pepper",
+   "red pepper"
+  ],
+  "about": "A three-part Warped series with one blend from each factory the company works with: El Titan de Bronze, Tabacalera La Isla and AGANORSA. The 4546, made at La Isla with a Dominican corojo wrapper, is the one that went to stores.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/warpeds-seleccion-domain-4546-heads-to-store/421133/",
+   "https://www.cigaraficionado.com/ratings/24681/name/warped-seleccion-domain-4546-robusto",
+   "https://blindmanspuff.com/warped-announces-seleccion-domain-4546-cigar-news/"
+  ],
+  "notes": "Details are for the Seleccion Domain 4546 (red band), which shipped to stores in March 2023. The series has three different blends by band color: green from El Titan de Bronze (sold through DROP Cigar Club in 2022), red from La Isla, black from AGANORSA. Strength is from Cigar Aficionado.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "R/WASTE",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Connecticut Broadleaf and Ecuadorian Desflorada",
+  "wrapperCategory": null,
+  "wrapperOrigin": "USA, Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-pressed Torpedo",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An event-only Warped cigar whose name is short for Radioactive Waste. It is a box-pressed torpedo with two wrappers rolled in a barber pole pattern, made at NACSA in Nicaragua.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/warped-announces-r-waste-as-event-only-cigar/448536/"
+  ],
+  "notes": "Sold only in three-pack boxes at Warped events. It has two wrappers (dark broadleaf and lighter Ecuadorian leaf), so no single wrapper category applies. No strength or tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gellis Family",
+  "line": "Corona Extra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Extra",
+    "length": 5.625,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cream",
+   "floral",
+   "caramel",
+   "hazelnut",
+   "black pepper"
+  ],
+  "about": "An early Gellis Family Cigars release from Warped founder Kyle Gellis, sold through his DROP Cigar Club shop in boxes of 10. It has a closed foot, a Dominican corojo wrapper, and a year of cedar aging after being rolled in 2022.",
+  "released": 2023,
+  "production": null,
+  "sources": [
+   "https://dropcigarclub.com/products/gellis-family-domain"
+  ],
+  "notes": "Sold only through Kyle Gellis's DROP Cigar Club shop, in boxes of 10, and now sold out. The shop lists strength as Medium+. Gellis Family Cigars is a separate brand, distributed by Warped.",
+  "verified": true,
+  "verifyNotes": "Single source (the DROP listing); every blend field matches it. Released 2023 is not stated outright: the page says rolled in 2022 and aged one year, and the listing went live in September 2023. Trimmed research-diary wording from notes."
+ }
+]

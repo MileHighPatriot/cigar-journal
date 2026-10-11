@@ -1,0 +1,1111 @@
+[
+ {
+  "brand": "Zino",
+  "line": "Honduras",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras (Jamastran Valley, Copan)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "rosewood",
+   "orange",
+   "cream",
+   "oak",
+   "almond"
+  ],
+  "about": "A value-priced Davidoff line launched as the follow-up to Zino Nicaragua, built on Honduran tobaccos under an Ecuadorian wrapper. It is rolled at the Camacho factory in Honduras and sold in boxes, fresh packs and tins, some of them pre-cut.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://us.davidoffgeneva.com/discover/zino",
+   "https://halfwheel.com/zino-honduras-robusto/478174/",
+   "https://www.neptunecigar.com/cigar/zino-honduras"
+  ],
+  "notes": "Davidoff and halfwheel give an Ecuadorian wrapper; Neptune lists it as Honduran. The wrapper type is not published. Some fresh packs hold pre-cut cigars.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Zino",
+  "line": "Platinum Crown Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Connecticut",
+  "filler": "Dominican Republic, Peru",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Barrel",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Chubby Especial",
+    "length": 5.875,
+    "ring": 61
+   },
+   {
+    "name": "Rocket",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "roasted nuts",
+   "cedar",
+   "earth",
+   "leather"
+  ],
+  "about": "The larger-format tier of Davidoff's Zino Platinum brand, made in the Dominican Republic with Dominican and Peruvian filler under an Ecuadorian wrapper. It is known for big ring gauges, tubed sizes and a high price.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/zino-platinum-crown-series",
+   "https://www.holts.com/cigars/all-cigar-brands/zino-platinum-crown.html",
+   "https://halfwheel.com/zino-platinum-crown-series-limited-edition-2020/385394/"
+  ],
+  "notes": "Neptune rates it Medium, Holt's Medium-Full. Neptune's spec table gives a US Connecticut binder while its own description says Ecuadorian Connecticut.",
+  "verified": true,
+  "verifyNotes": "Checked against Neptune and Holt's; blend, country and sizes hold. Trimmed the note to drop the unconfirmed debut-year remark. No maker page lists this line now."
+ },
+ {
+  "brand": "Zino",
+  "line": "Platinum Scepter Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Dominican Republic, Peru",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chubby",
+    "length": 4.875,
+    "ring": 54
+   },
+   {
+    "name": "Grand Master",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "roasted nuts",
+   "cedar",
+   "cream"
+  ],
+  "about": "The milder, smaller-format tier of Davidoff's Zino Platinum brand, made in the Dominican Republic with an Ecuadorian Connecticut shade wrapper over Dominican and Peruvian filler. It sells at a high price.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/zino-platinum-scepter-series",
+   "https://halfwheel.com/zino-platinum-crown-series-limited-edition-2020/385394/"
+  ],
+  "notes": "Binder is unclear: Neptune's spec table says Connecticut, its description says Dominican. Neptune rates it Mild and describes it as mild to medium. The Grand Master also comes in a tube.",
+  "verified": true,
+  "verifyNotes": "Checked against Neptune; all fields hold. Reworded about to remove sales language."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Signature Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Cameroon-seed (THT-EKE 03/17 blend; PLdM wrapper undisclosed)",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "PLdM 5 1/2 x 46",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "PLdM 4 1/2 x 50",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "PLdM 6 x 52",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "PLdM 6 x 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "THT-EKE 50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "THT-EKE 54x6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "THT-EKE 60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "THT-EKE 11/18",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cocoa",
+   "cream",
+   "nuts",
+   "oak",
+   "bread"
+  ],
+  "about": "Christian Eiroa's flagship line for CLE. It started in 2014 with the PLdM (Primera Liga de Miami) blend rolled in Miami, and a second blend, THT-EKE 03/17, made in Honduras, was added in 2021.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cle-signature-series-pldm-robusto/71084/",
+   "https://halfwheel.com/cle-signature-tht-eke-03-17-taa-11-18/401493/",
+   "https://halfwheel.com/cle-removes-five-lines-from-price-list/447774/"
+  ],
+  "notes": "Two blends share this name. PLdM was rolled in Miami and its blend is undisclosed; THT-EKE 03/17 is made in Honduras with a Honduran-grown Cameroon-seed wrapper, the rest undisclosed. Taken off CLE's price list in March 2025 and now made to order, not discontinued.",
+  "verified": true,
+  "verifyNotes": "Researcher mixed two blends. Wrapper \"Honduran\" and the 11/18 size belong to THT-EKE 03/17 (2021, made in Honduras), not the Miami-rolled PLdM, whose blend is undisclosed. Wrapper set to the Honduran Cameroon-seed leaf halfwheel reports, country changed from United States to Honduras, factory added, body cleared, sizes labelled by blend, Neptune source swapped for the THT-EKE review."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "PCA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Cameroon-seed (2025 edition)",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Colombia, Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "bread",
+   "peanut butter",
+   "white pepper",
+   "cream",
+   "leather"
+  ],
+  "about": "A yearly limited cigar that CLE sells only to retailers who order at the PCA trade show, with a new blend each year. The 2025 edition is a 6 x 52 toro with a Cameroon-seed wrapper grown in Honduras.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cle-pca-exclusive-2025/454840/",
+   "https://www.neptunecigar.com/cigar/cle-pca-exclusive",
+   "https://halfwheel.com/cle-pca-2023-exclusive-highlights-companys-new-south-american-farm/425163/"
+  ],
+  "notes": "The blend changes every year, so ask which year is on the shelf. Details here are the 2025 edition; the 2023 and 2024 editions used Connecticut wrappers.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory and strength confirmed against halfwheel and Neptune. Set released to 2023: halfwheel says the 2021 and 2022 PCA exclusives were Eiroa-branded and 2023 was the first under CLE. Swapped the 2024 news source for the 2023 one and trimmed the note."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Exclusivo Regionales",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Criollo-seed (Austria 2026 edition)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Colombia, Honduras",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Austria",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "France 11/18",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A series of one-off CLE cigars made for the company's distributor in a single country. It began in 2024 with an Eiroa Classic 11/18 for Bulgaria, followed by France in 2025 and Austria in 2026.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cle-exclusivo-regionales-austria-goes-on-sale/471526/",
+   "https://halfwheel.com/cle-exclusivo-regionales-france-goes-on-sale/456258/",
+   "https://halfwheel.com/bulgaria-gets-eiroa-classic-11-18/440047/"
+  ],
+  "notes": "Each country gets a different blend and these are not sold in the US. Blend shown is Austria (500 boxes of 10). France used a Honduran-grown Cameroon-seed wrapper with the rest undisclosed (250 boxes of 10).",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "All Saints",
+  "line": "Dedicación Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mitre",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Huge",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cashew",
+   "cedar",
+   "espresso",
+   "leather",
+   "hay",
+   "cinnamon"
+  ],
+  "about": "The Habano-wrapped follow-up to All Saints' Dedicación, with the same Nicaraguan binder and filler tobaccos in different proportions. It is made for Micky Pegg's company at Rocky Patel's TAVICUSA factory in Estelí.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.allsaintscigars.com/cigars/",
+   "https://halfwheel.com/all-saints-dedicacion-habano-berkey/405884/",
+   "https://halfwheel.com/all-saints-announces-discontinuations-reduced-prices/454255/"
+  ],
+  "notes": "All Saints calls it mild-medium; halfwheel's review put it at medium. Sizes were standardized in September 2025, so older boxes may carry the earlier names and sizes (Berkey 5 1/2 x 50, Commandant 6 1/2 x 52, Coach 7 x 48).",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "All Saints",
+  "line": "St. Francis Colorado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Colorado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mitre",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Huge",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "toast",
+   "nuts",
+   "bread"
+  ],
+  "about": "A lighter-wrapped version of All Saints' St. Francis that swaps the Ecuadorian oscuro leaf for an Ecuadorian Habano Colorado over Nicaraguan binder and filler. It is made at Rocky Patel's TAVICUSA factory and smokes a step milder than the original.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.allsaintscigars.com/cigars/",
+   "https://halfwheel.com/all-saints-st-francis-colorado-robusto/404897/",
+   "https://halfwheel.com/all-saints-announces-discontinuations-reduced-prices/454255/"
+  ],
+  "notes": "All Saints only says it is lower in strength than the medium-full original; halfwheel's review landed between medium and medium-full. Sizes were standardized in September 2025, so older boxes may be 5 1/2 x 50, 6 1/2 x 52 or 7 x 48.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "All Saints",
+  "line": "St. Patrick's Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Nicaraguan candela and Ecuadorian oscuro",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Nicaragua, Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A green and dark barber-pole short robusto with a long pigtail fuse, blended by All Saints for United Cigars' Firecracker series. It came out for St. Patrick's Day 2023 in a run of 300 boxes of 20.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/all-saints-st-patricks-firecracker-debuting-at-tpe-2023/419845/",
+   "https://halfwheel.com/all-saints-st-patricks-firecracker-begins-shipping/420962/"
+  ],
+  "notes": "Blended by All Saints but sold by United Cigars as part of its Firecracker series. It has two wrappers twisted together, so it is not a pure candela.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "God of Fire",
+  "line": "Serie Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Serie Aniversario 54",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "Serie Aniversario 56",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Serie Aniversario 60",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "spice",
+   "leather",
+   "coffee",
+   "black pepper"
+  ],
+  "about": "A trio of figurados made by Arturo Fuente for Prometheus to mark ten years of the God of Fire brand. Prometheus describes them as the smoothest cigars in the God of Fire range.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.godoffire.com/aniversario",
+   "https://halfwheel.com/god-of-fire-aniversario-56/99118/",
+   "https://www.neptunecigar.com/cigar/god-of-fire-serie-aniversario"
+  ],
+  "notes": "The wrapper type is not published beyond Ecuadorian. Prometheus calls it medium bodied; Neptune says medium to full. The bands read 2012, but the cigars did not reach stores until 2015.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against Prometheus, halfwheel and Neptune. Trimmed the note to three sentences."
+ },
+ {
+  "brand": "God of Fire",
+  "line": "KKP Special Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Very Special Wrapper (VSW), lower priming, Chateau de la Fuente",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Extra 54",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro 56",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Piramide 58",
+    "length": 5.25,
+    "ring": 58
+   },
+   {
+    "name": "Diadema 54",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "Diadema 56",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Diadema 60",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wood",
+   "cocoa",
+   "coffee",
+   "white pepper",
+   "citrus"
+  ],
+  "about": "A Dominican puro made by Arturo Fuente for Prometheus, wrapped in lower-priming leaf from the Chateau de la Fuente farm. It was announced for God of Fire's 15th anniversary, first shipped in late 2022, and is named for Prometheus founder Keith K. Park.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.godoffire.com/kkp-special-reserve",
+   "https://halfwheel.com/god-of-fire-kkp-special-reserve-gran-toro-56/447253/"
+  ],
+  "notes": "An ongoing line, but Prometheus ships it to select retailers in very small quantities. The three Diadema sizes were added in 2026. Strength and body are from halfwheel's review; the maker gives none.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "God of Fire",
+  "line": "KKP Never Back Down",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Very Special Wrapper (VSW), top priming, Chateau de la Fuente",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra 54",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro 56",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Piramide 58",
+    "length": 5.25,
+    "ring": 58
+   },
+   {
+    "name": "Diadema 54",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "Diadema 56",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Diadema 60",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Dominican puro made by Arturo Fuente for Prometheus to mark God of Fire's 20th anniversary in 2024. It uses the top priming of the same Chateau de la Fuente wrapper found on the KKP Special Reserve.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.godoffire.com/kkp-never-back-down",
+   "https://halfwheel.com/prometheus-ships-god-of-fire-never-back-down-toro-extra-54/453126/"
+  ],
+  "notes": "Sister blend to the KKP Special Reserve, using higher-priming wrapper leaf. No strength rating or tasting notes are published by the maker. The Toro Extra 54 arrived in 2025 and the three Diademas in 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cain",
+  "line": "Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban-seed Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Oliva factory, Estelí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "654 Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "toasted nuts",
+   "black pepper",
+   "gingerbread",
+   "nutmeg"
+  ],
+  "about": "A full-strength Cain blend made by Oliva in Estelí with Nicaraguan long filler under a Cuban-seed Nicaraguan wrapper. It is a value-priced line sold through Holt's.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/cain-black.html"
+  ],
+  "notes": "Appears to be sold only by Holt's. The binder and the exact wrapper variety are not published.",
+  "verified": true,
+  "verifyNotes": "Confirmed against Holt's. Factory reworded to what the page says (Oliva factory in Esteli); note reworded."
+ },
+ {
+  "brand": "Cain",
+  "line": "Connecticut CT",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Oliva factory, Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "460",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "650",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "654 Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "cayenne",
+   "cashew",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The mildest Cain, made by Oliva in Estelí with an Ecuadorian Connecticut wrapper over all-Nicaraguan binder and filler. It keeps some of the brand's pepper while staying around medium.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/cain-ct.html",
+   "https://www.neptunecigar.com/cigar/cain-connecticut"
+  ],
+  "notes": "Holt's sells it as Cain Connecticut CT; Neptune lists it as Cain Connecticut. Holt's rates it Medium, while Neptune describes it as medium to slightly full.",
+  "verified": true,
+  "verifyNotes": "Confirmed against Holt's and Neptune. Factory reworded to what the pages say."
+ },
+ {
+  "brand": "Henry Clay",
+  "line": "Henry Clay",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Brevas",
+    "length": 5.5625,
+    "ring": 42
+   },
+   {
+    "name": "Brevas a la Conserva",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Brevas Finas",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Rothchilde",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The classic core Henry Clay, an old Cuban brand name now made by Altadis U.S.A. in the Dominican Republic. It pairs a rustic Connecticut Broadleaf maduro wrapper with Dominican binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/henry-clay/henry-clay-hc/",
+   "https://www.neptunecigar.com/cigar/henry-clay"
+  ],
+  "notes": "Altadis lists all-Dominican filler; Neptune also lists Brazilian filler. The brand dates to 1840s Cuba, and the box art shows the old Havana factory.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Henry Clay",
+  "line": "War Hawk Rebellious",
+  "found": true,
+  "officialName": "War Hawk Rebellious Limited Edition",
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "pepper",
+   "earth",
+   "chocolate",
+   "vanilla"
+  ],
+  "about": "A limited Nicaraguan puro in the Henry Clay War Hawk series, made by AJ Fernandez with Rafael Nodal for Altadis U.S.A. It comes in one 6 x 54 toro, first released in 2020 and brought back in late 2024.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://www.altadisusa.com/cigars/henry-clay/henry-clay-war-hawk-rebellious/",
+   "https://halfwheel.com/henry-clay-war-hawk-rebellious-limited-edition/381134/",
+   "https://halfwheel.com/henry-clay-war-hawk-rebellious-returning-next-month/445054/"
+  ],
+  "notes": "Altadis's launch press release called it medium bodied; Neptune rates it Full and calls the wrapper a Habano maduro. The 2020 run was 1,200 boxes of 20 and the 2024 return was 3,000 boxes.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. The \"medium-bodied\" wording comes from the Altadis press release quoted in halfwheel's June 2020 news story, not the Altadis product page; note reworded to say so."
+ },
+ {
+  "brand": "Cornelius & Anthony",
+  "line": "Aerial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness"
+  ],
+  "about": "A Connecticut-wrapped blend from Stephen Bailey's Cornelius & Anthony, rolled at Erik Espinosa's La Zona factory in Estelí. It uses the company's proprietary American binder over Nicaraguan filler.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-cornelius-anthony/152817/",
+   "https://www.neptunecigar.com/cigar/cornelius-and-anthony-aerial",
+   "https://halfwheel.com/cornelius-anthony-the-gent-gordo-redux-3/473239/"
+  ],
+  "notes": "Cornelius & Anthony went quiet after the owning family's cigarette company was sold in 2018, so what is on shelves is leftover stock. Neptune lists the American binder as US Connecticut.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Note corrected: the company sold in 2018 was the owning family's cigarette business (S&M Brands), not a parent of the cigar brand."
+ },
+ {
+  "brand": "Cornelius & Anthony",
+  "line": "Senor Esugars",
+  "found": true,
+  "officialName": "Señor Esugars",
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "caramel",
+   "cocoa",
+   "spice",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A San Andrés maduro from Cornelius & Anthony named after owner Stephen Bailey's dachshund, who appears on the box. It was rolled at La Zona in Estelí with an American binder and Nicaraguan filler.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/cornelius-anthony-senor-esugars-robusto/209611/",
+   "https://www.neptunecigar.com/cigar/cornelius-and-anthony-senor-esugars",
+   "https://halfwheel.com/cornelius-anthony-the-gent-gordo-redux-3/473239/"
+  ],
+  "notes": "The name is pronounced ee-shoog-urs. Cornelius & Anthony went quiet after the owning family's cigarette company was sold in 2018, so what is on shelves is leftover stock.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Note corrected: the company sold in 2018 was the owning family's cigarette business (S&M Brands), not a parent of the cigar brand."
+ },
+ {
+  "brand": "Ashton",
+  "line": "Premium House Selection Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "US Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "United States",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A mild Dominican house-selection toro sold under the Ashton name with a Connecticut shade wrapper. Neptune Cigar lists it as made by Fuente and sells it in single sticks and boxes of 100.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/ashton-premium-house-selection-natural"
+  ],
+  "notes": "Only found at Neptune Cigar; it does not appear on Ashton's own site, so treat the blend details as the retailer's listing. No tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ashton",
+  "line": "Premium House Selection Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A medium Dominican house-selection toro sold under the Ashton name with an Ecuadorian sun grown Habano wrapper. Neptune Cigar lists it as made by Fuente.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/ashton-premium-house-selection-sun-grown"
+  ],
+  "notes": "Only found at Neptune Cigar; it does not appear on Ashton's own site, so treat the blend details as the retailer's listing. No tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Recluse",
+  "line": "Amadeus Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Proprietary MBC seed",
+  "filler": "Dominican Republic (ligero, viso, seco), USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Leyendas Cubanas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Tarantula",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Sidewinder #3",
+    "length": 7,
+    "ring": 57
+   },
+   {
+    "name": "Kanu #3",
+    "length": 8,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut shade blend from Recluse, the house brand of Iconic Leaf Cigar Company, also known as the Amadeus White Label. It is rolled entubado in the Dominican Republic, and the robusto and toro are box-pressed.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.iconicleafcigar.com/recluse-amadeus-white-1",
+   "https://halfwheel.com/recluse-plans-amadeus-habano-reserva-for-ipcpr-2015/87473/",
+   "https://www.neptunecigar.com/cigar/recluse-amadeus-connecticut"
+  ],
+  "notes": "Also sold as Recluse Amadeus White or simply Amadeus. The binder is a proprietary leaf the maker calls MBC, with no origin given. No specific tasting notes are published.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against the maker, halfwheel and Neptune. About reworded: Neptune says only the robusto and toro are box-pressed."
+ },
+ {
+  "brand": "Recluse",
+  "line": "Amadeus Los Cabos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra",
+  "filler": "Dominican Republic (ligero, viso, seco)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Leyendas Cubanas",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "Tarantula",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Sidewinder #3",
+    "length": 7,
+    "ring": 57
+   },
+   {
+    "name": "Kanu #3",
+    "length": 8,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "nuts",
+   "cocoa"
+  ],
+  "about": "A San Andrés-wrapped Recluse blend from Iconic Leaf Cigar Company, rolled in the Dominican Republic. It was first shown in 2016 and given a national release in 2018.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.iconicleafcigar.com/recluse-amadeus-los-cabos",
+   "https://halfwheel.com/amadeus-los-cabos-slated-for-national-release-at-ipcpr-2018/266242/",
+   "https://www.neptunecigar.com/cigar/recluse-amadeus-los-cabos"
+  ],
+  "notes": "The maker calls it full bodied; Neptune calls it medium. Halfwheel and Neptune also list Nicaraguan Criollo 98 in the filler, which the maker's page omits. The country the Sumatra binder is grown in is not given.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Removed the unsourced claim in about that it is named for the Mexican resort town."
+ }
+]

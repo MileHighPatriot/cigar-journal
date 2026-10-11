@@ -1,0 +1,640 @@
+[
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Shriner",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Brazil (Arapiraca), Nicaragua (Habano Jalapa, Habano Ometepe), Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "floral",
+   "cocoa",
+   "cedar",
+   "earth"
+  ],
+  "about": "A core line from the Freemason-themed Hiram & Solomon brand, blended with tobaccos from five countries under an Ecuadorian Sumatra wrapper. Part of the proceeds goes to Shriners Hospitals for Children.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://hiramandsolomoncigars.com/core-line/shriner/",
+   "https://halfwheel.com/ipcpr-2018-hiram-solomon/272105/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-shriner"
+  ],
+  "notes": "Made at Plasencia in Esteli, Nicaragua until the brand moved all production to PDR Cigars in the Dominican Republic in 2022, so older boxes are Nicaraguan-made. Neptune and Atlantic currently list only the robusto, toro and gran toro.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that Neptune lists a 5 x 42 Petit Corona: its page shows only robusto, toro and gran toro. Petit Corona kept at 5.5 x 42 per halfwheel. 2016 release confirmed at https://stogiepress.com/shriner-hiram-solomon-cigars-cigar-review/."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Veiled Prophet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Brazil",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Habano Esteli, Habano Jalapa ligero), Paraguay",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Monarch",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Grand Monarch",
+    "length": 7,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "caramel",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A core Hiram & Solomon line with a Brazilian Arapiraca wrapper, named for a Masonic order. It began as the 7 x 60 Grand Monarch and later added a toro and a lancero.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://hiramandsolomoncigars.com/core-line/veiled-prophet/",
+   "https://halfwheel.com/hiram-solomon-veiled-prophet-lancero/378715/",
+   "https://stogiepress.com/hiram-and-solomon-veiled-prophet-cigar-review/"
+  ],
+  "notes": "The maker gives no strength; halfwheel's review put it at medium-plus to medium-full, while Neptune lists it as Mild. Made at Plasencia in Nicaragua until production moved to PDR Cigars in 2022. The 6 x 54 Monarch launched in 2018 as a 500-box run.",
+  "verified": true,
+  "verifyNotes": "No field changes; note trimmed to three sentences. Neptune currently lists only the 7 x 60 Grand Monarch; the move to PDR is confirmed by halfwheel's June 2022 article and Neptune's page."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Grand Architect",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa seco habano)",
+  "filler": "Paraguay, Nicaragua (Esteli ligero, Jalapa ligero)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "cinnamon",
+   "cedar",
+   "leather",
+   "vanilla",
+   "coffee"
+  ],
+  "about": "A regular production Hiram & Solomon line with a Nicaraguan Corojo wrapper and Paraguayan tobacco in the filler. The name refers to the Masonic term for the Creator.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://hiramandsolomoncigars.com/core-line/grand-architect/",
+   "https://halfwheel.com/hiram-solomon-cigars-releases-the-grand-architect/336125/",
+   "https://atlanticcigar.com/hiram-solomon-grand-architect-toro/"
+  ],
+  "notes": "The maker calls it medium to full and Atlantic lists Medium-Full, while Neptune lists Medium. Launched from Plasencia in Nicaragua; production moved to PDR Cigars in the Dominican Republic in 2022.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: the maker says medium to full and Atlantic lists Medium-Full; only Neptune says Medium. Swapped the Neptune source for Atlantic, which shows all three sizes and PDR."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Unity",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 52 toro from Hiram & Solomon made at PDR Cigars with an undisclosed blend. It was first sold only in the brand's four-cigar Unity sampler and got its own 20-count boxes in 2023.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-hiram-solomon/424818/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-unity",
+   "https://hiramandsolomoncigars.com/core-line/unity-pack/"
+  ],
+  "notes": "The blend is undisclosed. It was part of the Unity Pack sampler before standalone boxes arrived in July 2023; the original release year is not published. Neptune now marks the standalone toro as discontinued, and the maker's site shows only the Unity Pack.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend confirmed undisclosed by halfwheel; strength and factory are from Neptune only."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Ashlar",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Hybrid Premium Connecticut (habano and Connecticut-seed hybrid, origin undisclosed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "HVA seco, HVA ligero, broadleaf (origins undisclosed)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "dark chocolate",
+   "espresso",
+   "roasted nuts"
+  ],
+  "about": "The limited edition marking Hiram & Solomon's 10th anniversary, a 6 x 52 toro with a hybrid habano and Connecticut-seed wrapper. It was shown in 2025 but did not ship until April 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/ashlar/",
+   "https://halfwheel.com/hiram-solomon-ashlar/477873/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-the-ashlar-10th-anniversary"
+  ],
+  "notes": "The maker has not disclosed the factory or where the wrapper and filler were grown; Neptune lists it as made by PDR in the Dominican Republic. The wrapper is a habano and Connecticut-seed hybrid, not a classic Connecticut Shade. 1,025 boxes of 10, including 25 collector's boxes with a knife.",
+  "verified": true,
+  "verifyNotes": "No field changes; note reworded slightly. Country and factory left null because halfwheel lists both as undisclosed."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Cornerstone",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Brazil, Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "floral",
+   "chocolate",
+   "cream",
+   "spice"
+  ],
+  "about": "A limited 6 x 52 toro in Hiram & Solomon's Grand Lodge series, made at PDR Cigars for the Grand Secretary of Masons in Arkansas. It uses an Indonesian Sumatra wrapper.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/cornerstone/",
+   "https://halfwheel.com/hiram-solomon-releasing-limited-edition-cornerstone-at-pca-2024/436498/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-cornerstone"
+  ],
+  "notes": "Limited to 1,000 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "No changes. Binder and filler come from the maker's page; halfwheel's launch story listed them as undisclosed."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Curamus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico",
+  "filler": "Dominican Republic (corojo seco and ligero, criollo 98 ligero), USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "coffee",
+   "cream",
+   "dark chocolate",
+   "fruit"
+  ],
+  "about": "A limited 6 x 52 toro made for a Grand Master of Masons in New Jersey, with a dark Pennsylvania Broadleaf wrapper. The name is Latin for 'we care', and it was the first Hiram & Solomon cigar made at PDR Cigars.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/curamus/",
+   "https://halfwheel.com/hiram-solomon-curamus/401424/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-curamus"
+  ],
+  "notes": "The maker calls it medium to full body; halfwheel found the strength a solid medium. Halfwheel reported 450 boxes of 20 at launch and 500 in its later review.",
+  "verified": true,
+  "verifyNotes": "No changes. Atlantic lists strength as Full, but halfwheel's review and Neptune both say Medium."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Revival",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "USA (Pennsylvania Broadleaf), Dominican Republic (FDR2 corojo seco and ligero)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 52 toro made at PDR Cigars for the Grand Master of Masons in North Carolina, named for his hope of a Masonic revival after the pandemic. It pairs an Ecuadorian Habano Claro wrapper with Dominican and Pennsylvania Broadleaf filler.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/revival/",
+   "https://halfwheel.com/hiram-solomon-to-release-three-new-lines-at-tpe-2022/404490/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-revival"
+  ],
+  "notes": "The maker gives no strength. Neptune lists Medium; Atlantic's spec table says Full but its description says moderate strength. No production number has been published.",
+  "verified": true,
+  "verifyNotes": "No field changes. Note updated after cross-checking strength at Atlantic."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Mystic Tie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Ecuadorian Connecticut and Mexican San Andrés Maduro",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador, Mexico",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (seco piloto), Paraguay",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "cream",
+   "toast",
+   "black pepper",
+   "leather"
+  ],
+  "about": "A limited 6 x 52 barber pole toro made at PDR Cigars for a Grand Master of Masons in New Jersey. Its two wrappers, a light Ecuadorian Connecticut and a dark San Andrés, are meant to stand for duality and connection.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/mystic-tie/",
+   "https://halfwheel.com/hiram-solomon-mystic-tie/475943/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-mystic-tie"
+  ],
+  "notes": "Two wrappers, so no single wrapper category applies. Halfwheel's review found it medium-full building to full, while Neptune lists it as Medium. Limited to 1,000 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength follows halfwheel's review (medium-full rising to full)."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Fraternal Flame",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Claro Amarillo",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "USA (Broadleaf), Dominican Republic (ligero, seco, seco HVA)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 6 x 52 toro made at PDR Cigars for a Past Grand Master of Masons in Pennsylvania, built around the theme 'Ignite the Light Within'. It wears a light Ecuadorian claro wrapper.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/fraternal-flame/",
+   "https://halfwheel.com/pca-2026-hiram-solomon/464926/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-fraternal-flame"
+  ],
+  "notes": "Strength is from Neptune only; the maker does not give one. Limited to 1,000 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength and the PDR factory are stated only by Neptune; no second retailer listing could be opened."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Heart & Soul",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic (seco, ligero)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cedar",
+   "mineral"
+  ],
+  "about": "A limited 6 x 52 toro made at PDR Cigars for a Grand Master of Masons in New Jersey. It uses an Ecuadorian Habano wrapper over Ecuadorian binder and Dominican filler.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/heart-soul/",
+   "https://stogiepress.com/cigar-news-hiram-solomon-cigars-announces-the-limited-edition-heart-soul/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-heart-and-soul"
+  ],
+  "notes": "Announced in December 2023 as 1,000 boxes of 10. Neptune now lists it as discontinued.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength is from Neptune only."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "High Twelve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra seed)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 6 x 52 toro in Hiram & Solomon's Grand Lodge series, made at PDR Cigars in tribute to a Grand Master of Masons in New Jersey. It uses an Ecuadorian Criollo wrapper.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hiram-solomon-releases-high-twelve/447611/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-high-twelve"
+  ],
+  "notes": "Limited to 1,000 boxes of 10. Strength is from Neptune only, which now lists the cigar as discontinued.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength is from Neptune only."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "The Patriot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (ligero, seco)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 6 x 52 toro honoring the 91st Grand Master of Masons in Massachusetts. It is made in the Dominican Republic with an Ecuadorian Habano Claro wrapper over Dominican binder and filler.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hiram-solomon-releases-patriot-cigar-in-honor-of-grand-master-of-masons-in-massachusetts/448639/",
+   "https://halfwheel.com/pca-2025-hiram-solomon/448671/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-the-patriot"
+  ],
+  "notes": "Halfwheel and the maker's release call it Patriot Cigar. The factory was not disclosed, though Neptune lists PDR. The maker calls it medium to full bodied, Neptune lists Medium; limited to 1,000 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full to follow the maker's press release (medium-to-full-bodied); Neptune's Medium is kept in the note."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "The Sublime Prince",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (criollo 98 ligero and seco)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "dried fruit",
+   "white pepper",
+   "vanilla"
+  ],
+  "about": "A 6 x 52 toro made at PDR Cigars and named for the 32nd degree of the Scottish Rite. It was created for the Scottish Rite Northern Masonic Jurisdiction, with sales supporting its charities.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/the-sublime-prince/",
+   "https://halfwheel.com/hiram-solomon-to-release-three-new-lines-at-tpe-2022/404490/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-the-sublime-prince"
+  ],
+  "notes": "Halfwheel calls it Sublime Prince 32. The 2022 launch gave a Habano Rosado wrapper and Dominican binder, while the maker's page now says Habano Claro. The page is off the maker's menu and Neptune marks boxes as discontinued.",
+  "verified": true,
+  "verifyNotes": "Found the maker's page, which names it The Sublime Prince, so officialName cleared. Wrapper leaf set to Ecuadorian Habano because maker sources disagree on Rosado or Claro. Production set to null (no source says limited). Strength now confirmed by the maker; flavors added from its page."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Châbal",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Criollo Morron",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (corojo seco and ligero)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "dark chocolate",
+   "citrus",
+   "nuts",
+   "spice"
+  ],
+  "about": "A 6 x 52 toro made at PDR Cigars for the Grand Master of Masons in Georgia. The name comes from a Hebrew word meaning to bind or join together.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://hiramandsolomoncigars.com/special-editions/chabal/",
+   "https://halfwheel.com/hiram-solomon-to-release-three-new-lines-at-tpe-2022/404490/",
+   "https://www.neptunecigar.com/cigar/hiram-and-solomon-chabal"
+  ],
+  "notes": "The maker calls it a medium body cigar, while Neptune lists it as Full. Its page is off the maker's site menu but still up, and Neptune still sells it. No source says whether it is limited or discontinued.",
+  "verified": true,
+  "verifyNotes": "Found the maker's page. Strength changed from Full (Neptune only) to Medium per the maker, body set to Medium, flavors replaced with the maker's, maker page added to sources, note corrected."
+ },
+ {
+  "brand": "Hiram & Solomon",
+  "line": "Live2Serve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico",
+  "filler": "Dominican Republic (corojo ligero and seco, criollo 98 ligero), Panama (broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 6 x 52 toro made at PDR Cigars as a collaboration with Operation: Cigars for Warriors. All profits went to the charity, which sends cigars to deployed troops.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hiram-solomon-and-cigars-for-warriors-collaborate-on-live2serve/392895/",
+   "https://halfwheel.com/hiram-solomon-moving-all-production-to-pdr-cigars/409844/"
+  ],
+  "notes": "Limited to 500 boxes of 20 and sold only through Cigars for Warriors donation center retailers. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. Halfwheel and the Stogie Press copy of the release give no strength."
+ }
+]

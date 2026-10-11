@@ -1,0 +1,632 @@
+[
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Habano Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa, Namanji)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Monarch",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "El Jefe",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "coffee bean",
+   "molasses",
+   "cream",
+   "cedar",
+   "spice"
+  ],
+  "about": "A La Aroma de Cuba blend from Ashton, rolled by the Garcia family at My Father in Estelí with an Ecuadorian Habano Rosado wrapper over Nicaraguan tobaccos from their own farms. It is made in small yearly batches.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-habano-reserve",
+   "https://halfwheel.com/la-aroma-de-cuba-habano-reserve-gets-full-release/454385/",
+   "https://halfwheel.com/ashton-adds-la-aroma-de-cuba-habano-reserve-el-jefe/473412/"
+  ],
+  "notes": "First sold in a sampler in March 2025, then in boxes that September, with 2025 production capped at 3,000 boxes of 25. The 7 x 58 El Jefe was added in June 2026, first in a sampler with boxes planned for later in 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Small Batch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (high priming)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa, Namanji)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cedar",
+   "nutmeg",
+   "dates",
+   "black pepper",
+   "red pepper"
+  ],
+  "about": "A black-banded La Aroma de Cuba from Ashton, made at My Father with a high-priming Ecuadorian Habano wrapper over five-year-old Nicaraguan tobaccos from the Garcia family farms. Ashton calls it the rarest cigar in the brand.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-small-batch",
+   "https://halfwheel.com/la-aroma-de-cuba-small-batch/459993/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-aroma-de-cuba-small-batch.html"
+  ],
+  "notes": "One size only, a 6 x 52 toro in 24-count boxes. The first release in November 2025 was 2,000 boxes at about $25 a cigar. Ashton rates it full, but halfwheel's review found the strength closer to medium-plus.",
+  "verified": true,
+  "verifyNotes": "Rewrote about: Ashton calls it the rarest in the brand but never says fullest. Added to notes that halfwheel's review found strength below Ashton's Full rating."
+ },
+ {
+  "brand": "Toraño",
+  "line": "Signature",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Maduro (sun grown)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Broadleaf",
+  "filler": "Dominican Republic, Nicaragua (Cuban-seed ligero)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "sweet spice",
+   "wood"
+  ],
+  "about": "A Toraño maduro made in Nicaragua with a dark Brazilian Arapiraca wrapper over Dominican and Nicaraguan ligero fillers. The retailer that lists it rates it full strength.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-carlos-torano-signature",
+   "https://www.famous-smoke.com/brands/torano-cigars"
+  ],
+  "notes": "Sold as Carlos Toraño Signature. Specs come from one retailer, which does not name the factory, the release year or the origin of the broadleaf binder.",
+  "verified": true,
+  "verifyNotes": "Rewrote about to drop 'long-running' and 'value-priced', which no page states. Blend, country and strength match Famous Smoke, but no maker, halfwheel or Cigar Aficionado page could be opened to cross-check, so this rests on one retailer."
+ },
+ {
+  "brand": "Toraño",
+  "line": "Reserva Decadencia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Toraño cigar sold as a dessert-style smoke, with tobacco said to be aged in oak barrels that previously held sweet wine. It is listed by one retailer in a single robusto size.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://mikescigars.com/brands/carlos-torano-exodus-1959-finite",
+   "https://mikescigars.com/torano-reserva-decadencia-robusto"
+  ],
+  "notes": "Only one retailer lists it, so the blend is left blank. That shop calls it a mild Dominican-made cigar with a Connecticut wrapper, and its own pages disagree on whether the barrels held port or a chocolate dessert wine.",
+  "verified": false,
+  "verifyNotes": "Trimmed notes. Still only on Mike's Cigars, whose two pages disagree with each other; no maker, halfwheel or listed-retailer page could be found, so wrapper, country and strength stay null and unconfirmed."
+ },
+ {
+  "brand": "Sancho Panza",
+  "line": "Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Nicaragua (Condega, Estelí, Somoto)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva S.A. (TABOLISA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A one-size limited release for the non-Cuban Sancho Panza brand, blended by Matt Booth and Justin Andrews with Oliva and rolled at Oliva's factory in Estelí. It shipped in 10-count boxes.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/sancho-panza-limited-edition-heads-to-stores/429783/",
+   "https://www.neptunecigar.com/cigars/sancho-panza-limited-edition-toro"
+  ],
+  "notes": "Made for the brand by Oliva at its TABOLISA factory in Estelí. The number of cigars made was not disclosed. Launch price was $12.99.",
+  "verified": true,
+  "verifyNotes": "Rewrote notes: dropped the claim about which factories make the regular Sancho Panza lines, which the sources do not state."
+ },
+ {
+  "brand": "Sancho Panza",
+  "line": "TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastran Valley)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A 5 x 50 robusto made in 2023 only for retailers in the Tobacconists' Association of America. It was the first Sancho Panza rolled in Nicaragua, credited to Justin Andrews and Matt Booth.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/first-sancho-panza-taa-exclusive-shipping-in-june/421668/"
+  ],
+  "notes": "Limited to 750 boxes of 10 and sold only at TAA member shops. Launch price was $8.99. The maker did not publish a strength or the wrapper's seed type.",
+  "verified": true,
+  "verifyNotes": "Rewrote notes to drop research-diary wording. Strength stays null: halfwheel gives none and the maker's line-up page does not list this cigar at all."
+ },
+ {
+  "brand": "Balmoral",
+  "line": "Añejo XO Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Brazil (Cuban seed)",
+  "filler": "Dominican Republic (Olor), Nicaragua (Estelí), Brazil (Mata Norte)",
+  "country": "Dominican Republic",
+  "factory": "Royal Agio Cigars factory (San Pedro de Macorís)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto FT",
+    "length": 4.25,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 5.875,
+    "ring": 42
+   },
+   {
+    "name": "Rothschild Masivo",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo Mk52",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "pepper",
+   "sweetness"
+  ],
+  "about": "The fourth blend in Royal Agio's Balmoral Añejo XO family, a Dominican-made cigar with a Nicaraguan Habano wrapper and the brand's stalk-cut Brazilian Mata Norte in the filler. It reached US stores in 2019.",
+  "released": 2019,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/royal-agio-ships-balmoral-anejo-xo-nicaragua/365124/",
+   "https://www.neptunecigar.com/balmoral-cigar",
+   "https://halfwheel.com/stg-discontinuing-agios-balmoral-san-pedro-de-macoris-in-the-u-s/375838/"
+  ],
+  "notes": "Scandinavian Tobacco Group bought Royal Agio in 2020 and pulled Balmoral from the US, so what is on shelves is leftover stock. The brand name may still be used outside the US.",
+  "verified": true,
+  "verifyNotes": "Added factory from halfwheel, which tags the release with Royal Agio's own factory and places that factory in San Pedro de Macorís."
+ },
+ {
+  "brand": "Balmoral",
+  "line": "Serie Signaturas Paso Doble",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Brindis",
+    "length": 7,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "nuts"
+  ],
+  "about": "A collaboration between Boris Wintermans of Royal Agio and Litto Gomez of La Flor Dominicana, rolled at La Flor's factory with an Ecuadorian Habano wrapper over Dominican binder and filler. It was the second and last cigar in the Serie Signaturas.",
+  "released": 2019,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/agio-ships-balmoral-serie-signaturas-paso-doble/366715/",
+   "https://halfwheel.com/balmoral-serie-signaturas-paso-doble-brindis/376615/",
+   "https://www.neptunecigar.com/balmoral-cigar"
+  ],
+  "notes": "Balmoral left the US in 2020 after Scandinavian Tobacco Group bought Royal Agio, which ended this series. The Brindis is a 7 x 55 double perfecto with a pigtail cap. Sold in boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Removed 'Dominican filler from Gomez's farms' from about; no source opened says whose farms the filler came from."
+ },
+ {
+  "brand": "Onyx",
+  "line": "Bold Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "caramel",
+   "floral",
+   "sweet wood"
+  ],
+  "about": "An Altadis U.S.A. line made by AJ Fernandez in Estelí with a dark Mexican San Andrés wrapper over Nicaraguan tobaccos. Retailers rate it full strength.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/onyx/",
+   "https://halfwheel.com/onyx-bold-nicaragua-robusto/381940/",
+   "https://www.famous-smoke.com/brand-onyx-bold-nicaragua"
+  ],
+  "notes": "Altadis says the Nicaraguan tobaccos are aged more than four years. One retailer also lists Dominican leaf in the filler, but the maker and halfwheel say Nicaraguan only.",
+  "verified": true,
+  "verifyNotes": "Rewrote about: no source calls it the boldest Onyx. Small wording fix in notes to match Altadis."
+ },
+ {
+  "brand": "Onyx",
+  "line": "Vintage Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (2019 harvest)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "cocoa"
+  ],
+  "about": "A Nicaraguan puro from Altadis U.S.A., made by AJ Fernandez in Estelí and topped with a Habano-seed wrapper from the 2019 harvest. The same factory makes Onyx Bold Nicaragua.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/onyx-vintage-nicaragua-ships/429821/",
+   "https://www.famous-smoke.com/brand-onyx-vintage-nicaragua",
+   "https://www.altadisusa.com/cigars/onyx/"
+  ],
+  "notes": "The wrapper is tied to the 2019 crop. One retailer says later runs will use wrapper from other harvests once that stock is gone.",
+  "verified": true,
+  "verifyNotes": "Rewrote about: halfwheel says the same factory makes Onyx Bold Nicaragua but does not call this the second AJ Fernandez-made Onyx."
+ },
+ {
+  "brand": "Fonseca",
+  "line": "Edition MX",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Cedros",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark chocolate",
+   "spice"
+  ],
+  "about": "The second Fonseca blend made by the Garcia family since My Father bought the US rights to the brand. It swaps the original's Nicaraguan Corojo wrapper for a Mexican San Andrés maduro over Garcia-grown Nicaraguan binder and filler.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://myfathercigars.com/cigar/fonseca-mexico-edition/",
+   "https://halfwheel.com/fonseca-edition-mx-robusto/440764/",
+   "https://www.famous-smoke.com/brand-fonseca-edition-mx"
+  ],
+  "notes": "My Father calls it full bodied but gives no strength. Retailers range from medium to full, and halfwheel's review put strength at medium-plus. The maker's page also shows a Corojo 99 wrapper in its spec line, which conflicts with its own San Andrés description.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "San Cristobal",
+  "line": "Golden Hour",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa, Namanji)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Magico",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Bonito",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Angelico",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "Dorado",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Ocaso",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Pacifico",
+    "length": 6.5,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "coffee bean",
+   "molasses",
+   "spice"
+  ],
+  "about": "The newest San Cristobal from Ashton, rolled by the Garcia family at My Father in Estelí with a Cuban-seed Ecuadorian wrapper over Nicaraguan tobaccos from their farms. It began shipping in July 2026 as a regular line.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ashton-ships-san-cristobal-golden-hour/474197/",
+   "https://www.holts.com/cigars/all-cigar-brands/san-cristobal-golden-hour.html"
+  ],
+  "notes": "Four sizes are box-pressed. The two thickest, Ocaso and Pacifico, are round. Dorado is a pyramid. Ashton rates the blend medium-full.",
+  "verified": true,
+  "verifyNotes": "Removed the unsupported line about the wrapper looking mild from notes. Ashton's own San Cristobal site would not load, so this rests on halfwheel and Holt's."
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (Cuban seed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Sumatra",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Camacho factory (Davidoff)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "King",
+    "length": 8.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cedar",
+   "sweet spice",
+   "roasted nuts",
+   "cocoa"
+  ],
+  "about": "A fuller take on the mild, sweet-capped Baccarat, made in Honduras for Davidoff with a Habano wrapper and Nicaraguan filler. It keeps the brand's sweetened cap.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-baccarat-nicaragua",
+   "https://www.holts.com/cigars/all-cigar-brands/baccarat-nicaragua.html",
+   "https://www.smokingpipes.com/cigars/baccarat/moreinfo.cfm?product_id=567006"
+  ],
+  "notes": "The cap is sweetened, so tell guests before they light it. Retailers disagree on where the wrapper is grown: one lists Nicaragua and another the Dominican Republic. No maker spec sheet was found.",
+  "verified": true,
+  "verifyNotes": "Removed the Churchill ring-gauge conflict from notes: both retailers opened list it at 7 x 48. Factory comes from one retailer (Smokingpipes) only."
+ }
+]

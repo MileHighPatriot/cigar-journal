@@ -1,0 +1,770 @@
+[
+ {
+  "brand": "Dunbarton",
+  "line": "Mi Querida Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf No. 1 Darks",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua, Honduras, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "SakaKhan",
+    "length": 7.25,
+    "ring": 54
+   },
+   {
+    "name": "PapaSaka",
+    "length": 5.625,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "coffee",
+   "black pepper"
+  ],
+  "about": "The third blend in Steve Saka's Mi Querida broadleaf family, which adds Honduran habano-seed filler to the recipe. It is made at NACSA in Esteli in small yearly runs.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/mi-querida-black/",
+   "https://halfwheel.com/mi-querida-black-papasaka/430542/",
+   "https://halfwheel.com/mi-querida-black-sakakhan/415411/"
+  ],
+  "notes": "Ongoing but limited: about 3,500 boxes of 10 per size per year. Maker rates strength 8 of 10; halfwheel found the flavor full but the nicotine closer to medium. First sold in 2021 as a JR Cigar 50th anniversary exclusive.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop \"top blend\". Trimmed notes from four sentences to three. All blend, size, factory and strength fields matched the maker page and both halfwheel reviews."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Sobremesa Solita Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (dark rosado, grade one)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Solita Red",
+    "length": 6.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "coffee",
+   "cream",
+   "black pepper"
+  ],
+  "about": "A bolder, year-aged take on the original Sobremesa Solita blend, sold in one 6 1/4 x 46 size. Steve Saka built it to replace his discontinued Cervantes Fino vitola.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/sobremesa-solita-red/451614/",
+   "https://www.dunbartoncigars.com/marca/sobremesa/",
+   "https://www.neptunecigar.com/cigars/sobremesa-solita-red"
+  ],
+  "notes": "One size within the Sobremesa Solita line, with the blend tuned a touch stronger. The maker calls it a special limited production, while halfwheel lists it as regular production. Maker rates Solita 5 of 10 and Neptune lists Medium; halfwheel found the Red finishing medium-full.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: the maker rates the Solita page 5 of 10 and only calls Red \"a touch stronger\", and Neptune lists Medium; Medium-Full was one reviewer's final third. Production changed from regular to limited to follow the maker (\"special limited production\"); Neptune also says limited quantities. Added the Neptune page as a source."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Sobremesa Tapa Negra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed shade (G2BW) with a Nicaraguan sun-grown Cuban-seed cap section",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (Matacapan Negro de Temporal)",
+  "filler": "Nicaragua (Esteli hybrid ligero, Condega, La Joya Esteli Criollo 98, Pueblo Nuevo criollo)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "cream",
+   "pepper",
+   "honey",
+   "bread"
+  ],
+  "about": "A two-wrapper offshoot of Sobremesa Brulee: the body wears Ecuadorian Connecticut shade while the cap and top inch are dark Nicaraguan sun-grown leaf. Made for Dunbarton by Joya de Nicaragua.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/sobremesa-tapa-negra-corona-gorda/478643/",
+   "https://www.dunbartoncigars.com/marca/sobremesa-brulee/",
+   "https://www.neptunecigar.com/cigar/sobremesa-tapa-negra"
+  ],
+  "notes": "Tapa Negra means black lid: the dark leaf only covers the head, so the pepper lands on the lips. Steve Saka calls it a mild smoke and rates the base Brulee blend 3 of 10; Neptune lists Medium and halfwheel found it reaching medium at the end.",
+  "verified": true,
+  "verifyNotes": "No field changes. Swapped the duplicate halfwheel news link for the maker's Sobremesa Brulee page, which is where the 3 of 10 rating in the notes comes from. The maker has no Tapa Negra page yet."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Umbagog Bronzeback",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf 2LS",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bronzeback (Rothschild)",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Bronzeback Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "black pepper",
+   "spice"
+  ],
+  "about": "A variation on Dunbarton's bundled Umbagog that swaps in a lower-priming 2LS Connecticut broadleaf wrapper for a less sweet, more peppery smoke. Steve Saka made it as a nod to the Henry Clay cigars of the 1980s and 1990s.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/umbagog/",
+   "https://halfwheel.com/umbagog-bronzeback/440593/",
+   "https://halfwheel.com/umbagog-bronzeback-robusto-shipping-this-week/452079/"
+  ],
+  "notes": "The maker lists a San Andrés Negro binder for Umbagog; halfwheel lists the binder as Nicaraguan. Maker rates Umbagog 7 of 10 and calls Bronzeback the stronger version. Sold in 10-count bundles; the Robusto was added in 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Red Meat Lovers Fritanga",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Fritanga",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A spicier, bolder version of the Red Meat Lovers maduro blend in a 6 x 52 box-pressed toro. It is named for Nicaraguan open-flame street grilling and first appeared at a Red Meat Lovers Club dinner in March 2025.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/red-meat-lovers-fritanga-heads-to-stores/453541/",
+   "https://www.dunbartoncigars.com/marca/red-meat-lovers/"
+  ],
+  "notes": "One size of the Red Meat Lovers line with a tweaked, stronger blend. Halfwheel calls it a regular production size; the maker calls it a special limited production. Maker rates the base line 7 of 10 and describes it as full-bodied.",
+  "verified": true,
+  "verifyNotes": "Production changed from regular to limited to follow the maker, which calls Fritanga a special limited production; halfwheel calls it a regular production size (kept in notes). Other fields matched."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka Exclusivo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua (Jalapa, Condega, Ometepe, Esteli)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Exclusivo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "cream",
+   "pepper"
+  ],
+  "about": "The first Muestra de Saka release, a 6 x 52 toro Steve Saka blended around filler from all four of Nicaragua's main growing regions, each aged at least five years. It comes in an individual cedar coffin.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/muestra-de-saka/",
+   "https://halfwheel.com/muestra-de-saka-exclusivo/149819/",
+   "https://www.neptunecigar.com/cigar/muestra-de-saka"
+  ],
+  "notes": "Still made, in small batches. The maker lists a San Andrés Negro binder; halfwheel's 2017 review listed a Nicaraguan binder. The maker calls it medium bodied (5 of 10), while Neptune lists it as Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka Nacatamale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sungrown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (single farm in Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nacatamale",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "earth",
+   "chocolate"
+  ],
+  "about": "The second Muestra de Saka, a 6 x 48 built the old way with all of its filler from one farm in Jalapa. Steve Saka calls it one of his personal favorites.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/muestra-de-saka/",
+   "https://halfwheel.com/muestra-de-saka-nacatamale/216231/",
+   "https://www.neptunecigar.com/cigars/muestra-de-saka-nacatamale"
+  ],
+  "notes": "Wrapper sources disagree: the maker lists Nicaraguan sun-grown, while halfwheel lists Ecuadorian habano. Maker rates strength 8 of 10 and Neptune says Full, but halfwheel found it fairly subdued. Still made, in small batches.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: Neptune does not back the maker on the wrapper. Its description says sun-grown but its spec panel says Ecuadorian Habano, so Neptune was removed from that sentence. Wrapper kept as the maker lists it."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka #NLMTHA",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#NLMTHA (Lancero)",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "wood",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A 7 x 38 lancero that Steve Saka, no fan of the format, made after years of requests. The name is a hashtag for Now Leave Me The Hell Alone.",
+  "released": 2019,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/muestra-de-saka/",
+   "https://halfwheel.com/muestra-de-saka-nlmtha/299004/",
+   "https://halfwheel.com/dunbarton-stops-production-on-muestra-de-saka-nlmtha-and-sin-compromiso-varita-majica/428504/"
+  ],
+  "notes": "Production stopped in August 2023, though the maker's site still lists it. The blend was undisclosed at launch; the leaf listed here is from the maker's current page. Maker rates strength 4 of 10, while Neptune lists it as Medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka Unstolen Valor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Sungrown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic, USA (Connecticut)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Unstolen Valor",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "white pepper",
+   "cedar",
+   "sweet"
+  ],
+  "about": "The first Muestra de Saka not blended by Steve Saka: it was created by Raul Disla of the NACSA factory after Saka challenged him to make a personal blend. A 6 x 52 toro built around layered pepper notes.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/muestra-de-saka/",
+   "https://halfwheel.com/muestra-de-saka-unstolen-valor/377356/",
+   "https://www.neptunecigar.com/cigars/muestra-de-saka-unstolen-valor"
+  ],
+  "notes": "The maker lists the wrapper as Habano 2000 Sungrown without an origin; halfwheel and Neptune say it is Ecuadorian. Early coverage wrongly called the cigar a Nicaraguan puro. Maker rates strength 9 of 10, the strongest Muestra de Saka.",
+  "verified": true,
+  "verifyNotes": "wrapperOrigin changed from null to Ecuador and wrapperLeaf updated: halfwheel corrected its review in 2021 to say the cigar is not a Nicaraguan puro and lists Ecuador (Habano 2000), and Neptune also says Ecuadorian Habano 2000 sun-grown. About changed from \"the only\" to \"the first\" not blended by Saka. Notes rewritten to match."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka The Bewitched",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano (grade 1)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (Cultivo Tonto San Andrés Negro)",
+  "filler": "Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Bewitched",
+    "length": 6.625,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "caramel",
+   "cedar",
+   "spice"
+  ],
+  "about": "A box-pressed 6 5/8 x 48 with a spiral pigtail cap, first blended as the Owl Shop of Worcester's 75th anniversary cigar and then released nationally in 2022.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/muestra-de-saka/",
+   "https://halfwheel.com/muestra-de-saka-the-bewitched-2/431264/",
+   "https://www.neptunecigar.com/cigar/muestra-de-saka"
+  ],
+  "notes": "The maker calls it medium-plus (6 of 10) and Neptune lists Medium; halfwheel found it building toward full in the second half. Still made, in small batches.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka Krakatoa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano (grade A1)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (sun grown)",
+  "filler": "Nicaragua (broadleaf, criollo, corojo ligero)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Krakatoa",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "peanuts",
+   "cinnamon",
+   "dark chocolate",
+   "pepper",
+   "sweet"
+  ],
+  "about": "A 6 x 48 finished with a spiral cap shaped like a volcano. Steve Saka spent more than three years on the blend, which pairs an Ecuadorian habano wrapper with Nicaraguan-grown broadleaf, criollo and corojo filler.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/muestra-de-saka/",
+   "https://halfwheel.com/muestra-de-saka-krakatoa/431941/",
+   "https://www.neptunecigar.com/cigar/muestra-de-saka"
+  ],
+  "notes": "Maker rates strength 7 of 10 and halfwheel found it finishing medium-full; Neptune lists it as Full. First planned for 2021 and delayed until September 2023. Still made, in small batches.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka Unicorn",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Plantation Select Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (Cultivo Tonto San Andrés Negro)",
+  "filler": "Nicaragua (five tobaccos)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Unicorn (Diademas)",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark chocolate"
+  ],
+  "about": "Steve Saka's experiment in sparing no expense on a single cigar: a 6 1/4 x 60 double perfecto rolled in molds he carved himself. It retails for about $100 a cigar and is made in very small yearly runs.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/unicorns/",
+   "https://halfwheel.com/muestra-de-saka-unicorn/252067/",
+   "https://www.neptunecigar.com/cigar/muestra-de-saka"
+  ],
+  "notes": "The maker lists a San Andrés Negro binder; halfwheel's 2018 review listed a Nicaraguan binder. Maker rates strength 7 of 10, while halfwheel put it just over medium. Unicorn versions of Sobremesa Brulee Blue and Mi Querida Black are separate cigars.",
+  "verified": true,
+  "verifyNotes": "Reworded about in plainer words. Trimmed notes from four sentences to three. Blend, size, factory and strength matched the maker page and halfwheel."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka Lengua de Suegra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lengua de Suegra (Culebra)",
+    "length": 7.25,
+    "ring": 40
+   }
+  ],
+  "flavors": [],
+  "about": "Dunbarton's first culebra, a bundle of thin cigars twisted together, shown at the 2026 PCA trade show. The name is Spanish for mother-in-law's tongue, a nickname for the snake plant.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-dunbarton-tobacco-trust/462355/",
+   "https://halfwheel.com/muestra-de-saka-lengua-de-suegra-debuting-at-pca-2026/459806/",
+   "https://www.neptunecigar.com/cigar/muestra-de-saka"
+  ],
+  "notes": "Scheduled to ship in October 2026 at $60 per culebra, in boxes of three. Halfwheel lists the size as 7 1/4 x 40 and Neptune as 7 x 40. Production numbers and strength have not been published.",
+  "verified": true,
+  "verifyNotes": "About reworded: no source says how many cigars are in this culebra. Removed the Neptune backorder remark from notes. Strength left null: neither halfwheel nor Neptune gives one and the maker site does not list the cigar yet."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka Chubby Unicorn",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chubby Unicorn (Perfecto)",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A shorter, fatter 5 x 60 perfecto sibling to the Muestra de Saka Unicorn, teased by Steve Saka for years and finally shown at the 2026 PCA trade show.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dunbarton-tobacco-trust-teases-muestra-de-saka-chubby-unicorn-for-pca-2026/465116/",
+   "https://halfwheel.com/pca-2026-dunbarton-tobacco-trust/462355/"
+  ],
+  "notes": "Scheduled to ship in October 2026 at $50 a cigar in 12-count boxes, offered only to retailers who placed PCA orders. The leaf listed is from halfwheel's show coverage; Saka had not confirmed a full blend, production numbers or strength.",
+  "verified": true,
+  "verifyNotes": "About changed from \"teased since 2019\" to \"teased for years\": halfwheel dates the first tease to late 2018 and the photos to 2019. Strength left null: not published, and the maker site does not list the cigar yet."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star Aromatic No. 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro (high priming)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus Black Cavendish, Golden Virginia and Burley pipe tobaccos",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweet"
+  ],
+  "about": "One of the four original StillWell Star cigars, which blend Cornell & Diehl pipe tobacco into a handmade Nicaraguan cigar. This is the sweet aromatic one, finished with a sweetened cap.",
+  "released": 2021,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/stillwell-star/",
+   "https://halfwheel.com/stillwell-star-debuting-this-friday/401880/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-revamping-stillwell-star-line-for-pca-2026/462561/"
+  ],
+  "notes": "Retired under this name in the 2026 StillWell Star revamp: the same blend continues as StillWell Star Aromatic Dulce Maduro in a toro and a petit robusto. The maker calls it mild-medium (4 of 10), while Neptune lists it as Full. Pipe tobacco blended by Jeremy Reeves of Cornell & Diehl.",
+  "verified": true,
+  "verifyNotes": "No changes. The Neptune strength in the notes was confirmed at neptunecigar.com/cigar/stillwell-star, which is not in the sources list because three are already needed."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star Aromatic No. 22",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus Cavendish Burley and Virginia pipe tobaccos",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweet"
+  ],
+  "about": "The StillWell Star Holiday 2022 limited edition brought back in 2024 as a regular offering under a new name. An aromatic pipe-tobacco cigar without the sweetened cap used on Aromatic No. 1.",
+  "released": 2024,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/stillwell-star/",
+   "https://halfwheel.com/stillwell-star-le-holiday-y2022-returns-as-aromatic-no-22/436338/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-revamping-stillwell-star-line-for-pca-2026/462561/"
+  ],
+  "notes": "Same blend as the 2022 Holiday release. It is not part of the 2026 revamped StillWell Star line, and Saka said the earlier blends will not be remade once stock is gone. Maker rates it 4 of 10; halfwheel found the Holiday 2022 version medium-plus to medium-full.",
+  "verified": true,
+  "verifyNotes": "Notes reworded: halfwheel says the pre-2026 blends will not be remade but does not name No. 22, so the note now says it is not in the revamped line. Trimmed to three sentences. The halfwheel Y2022 strength was confirmed at halfwheel.com/stillwell-star-le-holiday-y2022/418684/ and the Neptune rating at neptunecigar.com/cigar/stillwell-star."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star English No. 27",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro (high priming)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus Burley, Turkish and Cypriot Latakia pipe tobaccos",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "berries"
+  ],
+  "about": "One of the four original StillWell Star cigars, built around an English-style pipe mixture heavy on Cypriot Latakia. Steve Saka has said the English style is his personal favorite.",
+  "released": 2021,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/stillwell-star/",
+   "https://halfwheel.com/stillwell-star-english-no-27/403127/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-revamping-stillwell-star-line-for-pca-2026/462561/"
+  ],
+  "notes": "Dropped in the 2026 StillWell Star revamp; a tweaked version with a sweetened cap replaced it as English Dulce Maduro. The maker's launch sheet called it medium-full (6 of 10 on its site), but halfwheel found the nicotine at medium or less, with the pipe tobacco showing as an accent.",
+  "verified": true,
+  "verifyNotes": "About reworded slightly: Saka's \"personal favorite\" quote was about the English style. Other fields matched the maker page and halfwheel review."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star Bayou No. 32",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro (high priming)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus Bright Virginia, Red Virginia and St. James Parish Perique pipe tobaccos",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "One of the four original StillWell Star cigars, pairing a Virginia and Perique pipe mixture with Nicaraguan cigar leaf. It starts as the mildest of the set and turns spicy late as the Perique comes through.",
+  "released": 2021,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/stillwell-star/",
+   "https://halfwheel.com/stillwell-star-debuting-this-friday/401880/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-revamping-stillwell-star-line-for-pca-2026/462561/"
+  ],
+  "notes": "Dropped in the 2026 StillWell Star revamp with no direct replacement; it will not be remade once stock is gone. The maker's launch sheet called it medium-plus and its site rates it 7 of 10, while Neptune lists it as Full.",
+  "verified": true,
+  "verifyNotes": "No changes. The Neptune strength in the notes was confirmed at neptunecigar.com/cigar/stillwell-star; the maker launch wording is quoted in the halfwheel English No. 27 review."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star Navy No. 1056",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro (high priming)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Dark air-cured cigar leaf, plus stoved Red and Golden Virginia, Oriental and Latakia pipe tobaccos",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "One of the four original StillWell Star cigars, using a navy-style crumble cake of stoved Virginias with Orientals and Latakia alongside dark cigar leaf.",
+  "released": 2021,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/stillwell-star/",
+   "https://halfwheel.com/stillwell-star-debuting-this-friday/401880/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-revamping-stillwell-star-line-for-pca-2026/462561/"
+  ],
+  "notes": "Dropped in the 2026 StillWell Star revamp with no direct replacement; it will not be remade once stock is gone. The maker calls it medium (5 of 10), while Neptune lists it as Full.",
+  "verified": true,
+  "verifyNotes": "No changes. The Neptune strength in the notes was confirmed at neptunecigar.com/cigar/stillwell-star; the maker launch wording is quoted in the halfwheel English No. 27 review."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star Holiday",
+  "found": true,
+  "officialName": "StillWell Star LE Holiday",
+  "wrapperLeaf": "Ecuadorian Connecticut-seed shade (2023 onward; the 2022 edition used Ecuadorian Habano)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus aromatic pipe tobaccos that change by year (Cavendish Burley and Virginias)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (Y2022 to Y2024)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Y2025",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "sweet"
+  ],
+  "about": "A yearly limited StillWell Star made for the holidays since 2022, following the pipe world's habit of one-off holiday mixtures. Each year's cigar is a mild, aromatic pipe-tobacco blend, labeled by year (Y2022, Y2023 and so on).",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/stillwell-star/",
+   "https://halfwheel.com/stillwell-star-le-holiday-y2025-ships/456230/",
+   "https://halfwheel.com/stillwell-star-limited-edition-holiday-y2023-begins-shipping/431792/"
+  ],
+  "notes": "The blend and wrapper change by year. Y2022 had a habano wrapper and later became Aromatic No. 22; halfwheel found it medium-full. Shade-wrapped editions since 2023 are milder: the maker rates Y2024 3 of 10 and Neptune lists 2023 and 2025 as Mild.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes from four sentences to three. The Y2022 strength was confirmed in the halfwheel Y2022 review (418684) and the Neptune ratings at neptunecigar.com/cigar/stillwell-star."
+ }
+]

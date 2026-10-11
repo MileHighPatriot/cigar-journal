@@ -1,0 +1,558 @@
+[
+ {
+  "brand": "Nica Libre",
+  "line": "Aganorsa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "TABSA (Aganorsa Leaf)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "coffee",
+   "chocolate"
+  ],
+  "about": "A Nicaraguan puro made by Aganorsa Leaf for the value-priced Nica Libre brand. It has a Nicaraguan Corojo wrapper over Nicaraguan binder and filler.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/nica-libre-aganorsa",
+   "https://blindmanspuff.com/blind-cigar-review-nica-libre-x-aganorsa-robusto/"
+  ],
+  "notes": "Also written Nica Libre x Aganorsa. Made by Aganorsa Leaf at its TABSA factory. Four sizes launched in 2020, but one retailer now lists only the 6 x 60 Titan.",
+  "verified": true,
+  "verifyNotes": "Cross-checked the single retailer against Blind Man's Puff. Added factory (TABSA), release year (2020) and the three other launch sizes; replaced the duplicate Neptune link; reworded about and notes, which wrongly said the factory was unpublished."
+ },
+ {
+  "brand": "Oliveros",
+  "line": "Gran Retorno Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut (grown by Plasencia)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Banjo",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Swing",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Fiddle",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A 2020 release from Rafael Nodal's Oliveros brand, part of the Aging Room family, made at Plasencia. The tobacco was aged two years, the cigars rested six months, then sat boxed for nearly three more years before shipping.",
+  "released": 2020,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/oliveros-gran-retorno-returning-this-month/379657/",
+   "https://www.neptunecigar.com/cigar/oliveros-gran-retorno-connecticut"
+  ],
+  "notes": "One of three Gran Retorno blends, with Habano and Maduro. An older Gran Retorno made by El Galan was a different cigar. The 2020 run was 400,000 cigars across all three blends.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Neptune lists only Banjo and Swing; Fiddle is from halfwheel. Notes trimmed slightly."
+ },
+ {
+  "brand": "Red Anchor",
+  "line": "Red Anchor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Monte Plata)",
+  "filler": "Dominican Republic (Habano 92, San Vicente), USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Captain",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "The Admiral",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gunner",
+    "length": 6.5,
+    "ring": 43
+   },
+   {
+    "name": "Commodore",
+    "length": 7,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cedar",
+   "earth",
+   "leather",
+   "bread",
+   "black pepper"
+  ],
+  "about": "United Cigars' revival of a Dutch cigar brand that dates to the 1770s and went out of business in 1937. The new version is made by Hendrik Kelner Jr.'s factory with tobacco from the Kelner family farms.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/red-anchor-2/",
+   "https://halfwheel.com/red-anchor-commodore-begins-shipping/432050/",
+   "https://halfwheel.com/united-cigars-relaunching-red-anchor-at-pca-2022/408921/"
+  ],
+  "notes": "The 2022 debut size, The Admiral, was limited to 250 boxes before the line grew in 2023. A 4 1/2 x 43 Cooper is sold at events only. United's launch release called it medium in strength and medium-plus in body; its site now says medium to full bodied.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. The strength wording was not on any listed source, so the Admiral review link was swapped for the halfwheel launch article that quotes it. Notes reworded."
+ },
+ {
+  "brand": "Secret Blend of Cuba",
+  "line": "Secret Blend of Cuba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "ABAM S.A.",
+  "strength": "Mild",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Mareva",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A low-priced mixed filler handmade from the ABAM factory in the Dominican Republic, run by blender Jose Matias Maragoto. It is sold only by Neptune Cigar as an everyday value cigar.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/secret-blend-of-cuba-cigar",
+   "https://www.neptunecigar.com/cigars/secret-blend-of-cuba-robusto"
+  ],
+  "notes": "Mixed filler, not long filler. Despite the name it contains no Cuban tobacco. It is a Neptune Cigar exclusive, so that retailer is the only source for the blend.",
+  "verified": true,
+  "verifyNotes": "Filler corrected: Neptune lists Dominican Republic and Nicaragua, not Dominican only. Neptune states the line is its exclusive, so no second source exists; added the size page that says so and reworded about and notes."
+ },
+ {
+  "brand": "The Circus",
+  "line": "The Circus",
+  "found": false,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": null,
+  "released": null,
+  "production": null,
+  "sources": [],
+  "notes": "The Circus is not its own brand. It is a line of El Viejo Continente (EVC), made in Nicaragua. EVC lists an Ecuador Claro wrapper, Jalapa binder, Jalapa, Esteli and Pennsylvania filler, and medium strength. File it under El Viejo Continente.",
+  "verified": true,
+  "verifyNotes": "Left as not found. Confirmed on elviejocontinente.com that The Circus is one of EVC's cigar families, and confirmed the blend and strength in the note against its Cannon and Harlequin pages. Neptune's listing shows other wrappers on some sizes."
+ },
+ {
+  "brand": "The Repeater",
+  "line": "The Repeater",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "100",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "200",
+    "length": 6,
+    "ring": 43
+   },
+   {
+    "name": "Havana Twist",
+    "length": 7,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cream"
+  ],
+  "about": "A budget mixed filler handmade from Honduras, tied to the Baccarat family in the Davidoff group and finished with a sweetened cap. It is sold as an inexpensive everyday cigar.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/the-repeater-cigar",
+   "https://www.neptunecigar.com/cigar/the-repeater"
+  ],
+  "notes": "Mixed filler with a sweet cap. The one retailer that lists it rates it mild in its specs but calls it spicy and medium to full in its text, so strength is left blank. It marks the 200 and Havana Twist as discontinued.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country and sizes match Neptune, the only source that could be opened. Strength is not settled: that page contradicts itself and no maker or second retailer page was reachable. Wrapper category Colorado rests on Neptune's color label only."
+ },
+ {
+  "brand": "1966 Cigars",
+  "line": "Skeletós",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Oscuro (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras (Habano)",
+  "filler": "Honduras (Broadleaf)",
+  "country": "Honduras",
+  "factory": "La Pequeña Vega",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "sweetness",
+   "chocolate",
+   "black pepper"
+  ],
+  "about": "The first cigar from 1966 Cigars, a Honduran company started by Roberto Argueta and named for the year his father was born. It is a single toro made in Danli that debuted at the 2024 PCA trade show.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/1966-cigars-debuting-at-pca-2024-with-skeletos/436759/"
+  ],
+  "notes": "No published strength rating was found. Flavor words come from the brand owner's own description.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country, factory, size and year all match halfwheel. Strength stays null: halfwheel gives none and no maker site could be reached to confirm whether one is published."
+ },
+ {
+  "brand": "Chogui",
+  "line": "Dos77 Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Sun Grown Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Piloto Mejorado, media tiempo)",
+  "country": "Dominican Republic",
+  "factory": "Manufactura Rivas",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Rogusto",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "nuts",
+   "leather",
+   "wood",
+   "cream"
+  ],
+  "about": "A Dominican puro that marked the return of Victor Nicolas' Chogui brand in 2022. It replaced the original Dos77 with a sun grown corojo wrapper over tobacco from grower Leo Reyes.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/chogui-dos77-corojo-goes-on-sale/407946/",
+   "https://halfwheel.com/chogui-dos77-corojo-rogusto/409278/",
+   "https://halfwheel.com/chogui-dos77-corojo-rogusto-2/439961/"
+  ],
+  "notes": "The brand is properly spelled Chogüí. Strength is from halfwheel: medium-plus, touching medium-full, in 2022 and mild-medium to medium on a 2024 revisit. The single size is called Rogusto, a blend of robusto and gusto.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: halfwheel's two reviews mostly say medium-plus or lower, with medium-full reached only at the end of some 2022 samples. Other fields confirmed."
+ },
+ {
+  "brand": "Guaimaro",
+  "line": "Guaimaro",
+  "found": true,
+  "officialName": "Guáimaro",
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Brazil (Arapiraca Castaño)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos NicaSueño S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "caramel",
+   "white pepper",
+   "leather",
+   "floral"
+  ],
+  "about": "A cigar made in honor of Esteban Disla, co-owner of the NicaSueño factory best known for RoMa Craft Tobac. The name is a nickname his mentor Sergio Cuevas gave him, and the line is distributed by Pospiech Inc.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/guaimaro-rothschild-planned-for-ipcpr-2019/297310/",
+   "https://halfwheel.com/guaimaro-corona/140701/",
+   "https://halfwheel.com/guaimaro-debuts-nationally/134061/"
+  ],
+  "notes": "Made at the RoMa Craft factory but not sold through RoMa Craft. Strength is from halfwheel's review; no maker rating was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Kelner",
+  "line": "LE 80",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Diadema Fina",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "pepper",
+   "wood",
+   "leather",
+   "bread"
+  ],
+  "about": "A limited edition made for the 80th birthday of Hendrik \"Henke\" Kelner, the longtime Davidoff cigar maker, blended by him and his son Klaas. It is a single 7 x 50 double-tapered perfecto.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/kelner-le-80/462160/",
+   "https://halfwheel.com/kelner-le-80-celebrates-henkes-80th-birthday/456452/"
+  ],
+  "notes": "Binder and filler are undisclosed beyond some Dominican tobacco from Yamasa. Limited to 2,000 boxes of 10, with 1,500 for the U.S. Strength and body are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Nelson",
+  "line": "Nelson",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Ilustre",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "black pepper",
+   "bread",
+   "earth"
+  ],
+  "about": "A limited line from Nelson Alfonso's Selected Tobacco, the company behind Byron and Atabey, blended with his sons. The cigars are rolled in Costa Rica and then aged four years in cedar-lined rooms in Spain.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/selected-tobacco-releases-new-nelson-line-debuting-with-commemorative-gift-set/451837/",
+   "https://halfwheel.com/nelson-ilustre/453152/"
+  ],
+  "notes": "Debuted only in a gift set of five tubed cigars with an ashtray. Production numbers were not disclosed. Strength and body are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Removed the U.S. distributor claim from notes because neither source states it."
+ },
+ {
+  "brand": "Queen of the West",
+  "line": "Bel D'Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Desflorada",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Nicaragua, USA",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The first release in Queen of the West, the house brand of Cincinnati retailer Creekside Cigar Co. It is a single toro made at Hostos Fernandez Quesada's La Isla factory in the Dominican Republic.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://creeksidecigarco.com/products/creekside-queen-of-the-west-bel-doro",
+   "https://halfwheel.com/creekside-launching-queen-of-the-west-a-new-cigar-brand/476286/"
+  ],
+  "notes": "Queen of the West is a nickname for Cincinnati. Creekside lists the strength as medium and describes it as a medium-plus cigar. It says this is the first of three core lines.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Notes reworded: Creekside says medium-plus cigar, not medium-plus body."
+ },
+ {
+  "brand": "Venture 1492",
+  "line": "Gran Corona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Cotui)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Corona",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "cedar",
+   "cocoa",
+   "anise",
+   "black pepper"
+  ],
+  "about": "The house cigar of Venture 1492, the sister company Kyle Gellis of Warped Cigars set up to help new brands with distribution and branding. It is a single 5 1/2 x 48 size made in Santiago, Dominican Republic.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/venture-1492-gran-corona/423032/",
+   "https://halfwheel.com/venture-1492-gran-corona-begins-shipping-nationwide/419544/"
+  ],
+  "notes": "Gran Corona is the only size of the Venture 1492 line. Strength and body are from halfwheel's review, which found it building to medium-full by the end.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

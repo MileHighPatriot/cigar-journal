@@ -1,0 +1,1004 @@
+[
+ {
+  "brand": "JRE",
+  "line": "Aladino Habano Vintage Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Elegante",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toasted bread",
+   "leather",
+   "espresso",
+   "earth",
+   "cocoa"
+  ],
+  "about": "A Honduran puro from the Eiroa family's JRE Tobacco with a Habano wrapper over Corojo binder and filler, all grown on their own farm. The first cigars were rolled in 2015 and 2016 and aged four to five years before release.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aladino-habano-vintage-selection-rothschild/382532/",
+   "https://halfwheel.com/aladino-vintage-selection-gets-two-new-vitolas/393753/",
+   "https://www.neptunecigar.com/cigar/aladino-habano"
+  ],
+  "notes": "Retailers sell it as Aladino Habano or Aladino Vintage Selection. halfwheel found it closer to mild-medium, building to medium; Neptune and Famous list it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Habano, Corojo)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Elegante",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cashew",
+   "cocoa",
+   "espresso",
+   "cedar",
+   "earth",
+   "leather"
+  ],
+  "about": "A Honduran puro from JRE Tobacco built on Habano-seed leaf instead of the Corojo the Eiroa family is known for. JRE says the Habano makes it a more medium blend than its Corojo lines.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aladino-classic-robusto/412964/",
+   "https://halfwheel.com/jre-adding-aladino-classic-elegante/425681/",
+   "https://www.neptunecigar.com/cigar/aladino-classic"
+  ],
+  "notes": "The Habano wrapper is a dark shade that Neptune describes as maduro. Neptune's description lists a Habano-seed filler; halfwheel lists Habano and Corojo.",
+  "verified": true,
+  "verifyNotes": "Reworded the filler note: the Habano-only filler comes from Neptune's description, not from early reports."
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino Fuma Noche",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (variety and origin undisclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Super Toro",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "pepper",
+   "cocoa",
+   "coffee",
+   "dried fruit"
+  ],
+  "about": "A fuller-bodied Aladino blend made by JRE Tobacco in Honduras; the name is Spanish for night smoke. It comes in one size with a maduro wrapper JRE will not identify over Eiroa-grown Honduran binder and filler.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aladino-fuma-noche-super-toro/439772/",
+   "https://halfwheel.com/jre-tobacco-co-launching-aladino-fuma-noche/436408/",
+   "https://www.famous-smoke.com/aladino-fuma-noche-toro-cigars-maduro"
+  ],
+  "notes": "JRE only calls the wrapper maduro and does not disclose its variety or origin; Famous Smoke lists it as Honduran. Sold in boxes of 16.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that it is the strongest Aladino: JRE says fuller-bodied and Famous says boldest, neither says strongest."
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino 85 Aniversario Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Pinareño",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Pinareño)",
+  "filler": "Honduras (Pinareño)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "nuts",
+   "floral",
+   "spice"
+  ],
+  "about": "A Honduran puro made for Julio Eiroa's 85th birthday using only Pinareño-seed tobacco, a delicate, low-yield Cuban-seed variety, rather than the family's usual Corojo. It comes in yellow boxes showing Julio's Buick.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/jre-ships-aladino-85-aniversario-reserva-camp-aladino/451637/",
+   "https://halfwheel.com/aladino-85-aniversario-reserva-robusto/453515/",
+   "https://www.neptunecigar.com/cigar/aladino-85-aniversario-reserva"
+  ],
+  "notes": "Regular production, but retailers can order only four boxes of each size per month. A Lancero was shown at PCA 2026 for release late in 2026. Pinareño does not fit a standard wrapper category.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cashew",
+   "cedar",
+   "earth",
+   "leather",
+   "cocoa",
+   "caramel"
+  ],
+  "about": "An Aladino blend wrapped in Sumatra-seed leaf the Eiroas began planting on their Honduran farm in 2016. The binder and filler are undisclosed varieties from the same farm.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aladino-sumatra-toro/432362/",
+   "https://halfwheel.com/aladino-sumatra-heads-to-stores/430247/",
+   "https://www.neptunecigar.com/cigar/aladino-sumatra"
+  ],
+  "notes": "halfwheel lists it as regular production while Neptune calls it a limited production release and shows it sold out. Neptune describes the wrapper as a maduro shade.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino Candela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo-seed candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "honey",
+   "nuts",
+   "citrus",
+   "black pepper",
+   "earth",
+   "wood"
+  ],
+  "about": "A green candela-wrapped Honduran puro that JRE Tobacco ships in small batches early each year ahead of St. Patrick's Day. It honors Julio Eiroa's past as a major candela grower.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aladino-candela-robusto/423644/",
+   "https://halfwheel.com/aladino-candela-toro-debuting-at-tpe-2024/433935/",
+   "https://www.neptunecigar.com/cigar/aladino-candela"
+  ],
+  "notes": "halfwheel rated the strength medium while Neptune lists it as mild. The Robusto was the 2023 batch and the Toro followed in 2024; the 2025 Toro was 6 x 52. A 2025 sales sheet lists the blend as undisclosed.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Strength kept at medium from halfwheel's review; Neptune is the only retailer checked and says mild."
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino Cameroon Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Cameroon-seed",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Cameroon-seed)",
+  "filler": "Honduras (Cameroon-seed)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "pepper",
+   "nuts",
+   "orange"
+  ],
+  "about": "Billed as the first cigar made entirely of Cameroon-seed tobacco grown in Honduras, from wrapper to filler. JRE Tobacco ships it in limited yearly batches in boxes of 12.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aladino-cameroon-reserva-returns-for-2025/452626/",
+   "https://halfwheel.com/review-aladino-cameroon-reserva/444094/",
+   "https://www.neptunecigar.com/cigar/aladino-cameroon-reserva"
+  ],
+  "notes": "Not the same as the regular Aladino Cameroon, which pairs the Cameroon-seed wrapper with Corojo binder and filler. halfwheel found the strength a little under medium.",
+  "verified": true,
+  "verifyNotes": "Dropped the word allocated from about, which no source uses. halfwheel's 2024 review listed it as regular production; its 2025 report calls it limited, so limited is kept."
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Cameroon-seed",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "cocoa",
+   "cedar",
+   "cashew",
+   "leather",
+   "black pepper"
+  ],
+  "about": "A limited Aladino toro with a Honduran-grown Cameroon-seed wrapper over undisclosed Honduran tobaccos aged five to six years. It debuted as a 2023 PCA trade show exclusive and returned in a larger batch in 2024.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aladino-limited-edition/429530/",
+   "https://halfwheel.com/aladino-limited-edition-shipping-next-week/444572/",
+   "https://www.neptunecigar.com/cigar/aladino-limited-edition-cameroon"
+  ],
+  "notes": "Neptune sells it as Aladino Limited Edition Cameroon. The 2023 run was 600 boxes of 20 and the 2024 run was 1,200 boxes. Binder and filler varieties are not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino 250th",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "peanut",
+   "bread",
+   "wood",
+   "cream",
+   "pepper",
+   "earth"
+  ],
+  "about": "A limited Aladino toro made for the 250th anniversary of the United States, packed in boxes of 13 for the original colonies. JRE says it is made entirely of tobacco the company grew but will not name the leaves.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aladino-250th-shipping-tomorrow/472919/",
+   "https://halfwheel.com/aladino-250th/478243/",
+   "https://www.neptunecigar.com/cigar/aladino-declaration"
+  ],
+  "notes": "Blend is undisclosed. It was announced as Aladino Declaration and renamed over a trademark concern. Limited to 1,000 boxes of 13.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Aladino Year of the Horse 2026 Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "JRE Tobacco's first Chinese zodiac cigar, a torpedo made of Honduran tobaccos grown by the Eiroa family. It is sold only in Asia.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aladino-year-of-the-horse-2026-limited-edition-goes-on-sale/458147/"
+  ],
+  "notes": "Asia exclusive that JRE says will not be sold in the U.S. Limited to 600 boxes of 20; it went on sale in December 2025. Leaf varieties and strength are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "#Chargerash by Aladino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A Honduran puro lancero that JRE Tobacco made for Limited Cigar Association retailers in 2021. It was tied to a longest ash contest with a customized Dodge Charger as the prize.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/limited-cigar-association-announces-chargerash-by-aladino-as-next-release/392984/"
+  ],
+  "notes": "Limited Cigar Association release with an initial run of 8,000 cigars. Filler varieties were not disclosed and no strength rating was published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Camp Aladino 1962",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The 2026 entry in JRE Tobacco's Camp Aladino series, which is reserved for shops that have visited the company's farms and factory in Honduras. It is a single toro with an undisclosed blend.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/camp-aladino-1962-toro-heads-to-stores/474089/",
+   "https://halfwheel.com/pca-2026-jre-tobacco-co/463846/",
+   "https://www.neptunecigar.com/cigar/camp-aladino-1962"
+  ],
+  "notes": "JRE has not disclosed anything about the blend. For its first year it is sold only by retailers that have visited JRE in Honduras. Medium strength is Neptune's listing.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Gorbusto by Aladino Gori",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran maduro (per Neptune; not disclosed by JRE)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Gorbusto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "One of three short, thick Gorbusto cigars from JRE Tobacco, each named for a primate character. Gori the gorilla is pitched as the bold, full-bodied one.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rebranded-gorbusto-by-aladino-launching-in-april/465518/",
+   "https://halfwheel.com/pca-2026-jre-tobacco-co/463846/",
+   "https://www.neptunecigar.com/cigar/aladino-gorbusto"
+  ],
+  "notes": "This is one of the three 2025 Camp Aladino blends (Cameroon, Corojo, Maduro) renamed in 2026. JRE will not say which blend each primate is and does not disclose the blend. Neptune lists Gori with a maduro wrapper and full strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Gorbusto by Aladino Chimp",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (variety not disclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gorbusto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "One of three short, thick Gorbusto cigars from JRE Tobacco, each named for a primate character. Chimp the chimpanzee is pitched as the refined, complex one.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rebranded-gorbusto-by-aladino-launching-in-april/465518/",
+   "https://halfwheel.com/pca-2026-jre-tobacco-co/463846/",
+   "https://www.neptunecigar.com/cigar/aladino-gorbusto"
+  ],
+  "notes": "This is one of the three 2025 Camp Aladino blends (Cameroon, Corojo, Maduro) renamed in 2026. JRE will not say which blend each primate is and does not disclose the blend. Neptune lists Chimp as medium with a natural-shade Honduran wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Gorbusto by Aladino Orang",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (variety not disclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gorbusto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "One of three short, thick Gorbusto cigars from JRE Tobacco, each named for a primate character. Orang the orangutan is pitched as the creative one with unexpected flavors.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rebranded-gorbusto-by-aladino-launching-in-april/465518/",
+   "https://halfwheel.com/pca-2026-jre-tobacco-co/463846/",
+   "https://www.neptunecigar.com/cigar/aladino-gorbusto"
+  ],
+  "notes": "This is one of the three 2025 Camp Aladino blends (Cameroon, Corojo, Maduro) renamed in 2026. JRE will not say which blend each primate is and does not disclose the blend. Neptune lists Orang as medium with a natural-shade Honduran wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Camp Aladino Cameroon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Cameroon-seed",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gorbusto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "One of three 2025 Camp Aladino cigars from JRE Tobacco, all in a short 60-ring Gorbusto size and told apart by wrapper. This one wears a Honduran-grown Cameroon-seed wrapper.",
+  "released": 2025,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/pca-2025-jre-tobacco-co/448402/",
+   "https://halfwheel.com/rebranded-gorbusto-by-aladino-launching-in-april/465518/",
+   "https://www.neptunecigar.com/cigar/camp-aladino-cameroon"
+  ],
+  "notes": "Sold under this name only in 2025, at shops that had visited JRE in Honduras. In 2026 the same blend was renamed as one of the Gorbusto by Aladino cigars. Binder and filler are not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Camp Aladino Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gorbusto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "nuts",
+   "bread",
+   "earth",
+   "cream",
+   "black pepper"
+  ],
+  "about": "One of three 2025 Camp Aladino cigars from JRE Tobacco, all in a short 60-ring Gorbusto size and told apart by wrapper. This one wears the Eiroa family's Honduran Corojo wrapper.",
+  "released": 2025,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/camp-aladino-corojo-gorbusto/453111/",
+   "https://halfwheel.com/rebranded-gorbusto-by-aladino-launching-in-april/465518/",
+   "https://www.neptunecigar.com/cigar/camp-aladino-corojo"
+  ],
+  "notes": "Sold under this name only in 2025, at shops that had visited JRE in Honduras. In 2026 the same blend was renamed as one of the Gorbusto by Aladino cigars. Binder and filler are not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Camp Aladino Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gorbusto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "One of three 2025 Camp Aladino cigars from JRE Tobacco, all in a short 60-ring Gorbusto size and told apart by wrapper. This one wears a Honduran maduro wrapper and is the strongest of the three.",
+  "released": 2025,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/pca-2025-jre-tobacco-co/448402/",
+   "https://halfwheel.com/rebranded-gorbusto-by-aladino-launching-in-april/465518/",
+   "https://www.neptunecigar.com/cigar/camp-aladino-maduro"
+  ],
+  "notes": "Sold under this name only in 2025, at shops that had visited JRE in Honduras, then renamed in 2026 as one of the Gorbusto by Aladino cigars. Binder and filler are not disclosed. Full strength is Neptune's listing.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences."
+ },
+ {
+  "brand": "JRE",
+  "line": "Rancho Luna Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice",
+   "wood"
+  ],
+  "about": "One of JRE Tobacco's original value lines, a Honduran cigar with a Habano-seed wrapper grown on the Eiroa farms. JRE took it off its price list in 2022 and brought it back in 2025 as a $6 mixed-filler toro sold in bundles of 20.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/jre-brings-back-rancho-luna-aladino-candela-toro/446795/",
+   "https://halfwheel.com/jre-tobacco-co-announces-price-increase-puts-rancho-luna-on-hiatus/403974/",
+   "https://www.neptunecigar.com/cigar/rancho-luna-habano"
+  ],
+  "notes": "The 2025 version is mixed filler made from trimmings of JRE's other cigars, and no strength is published for it. The earlier long-filler version had a Corojo binder and Neptune rated it medium. It is the red-banded one; the 7 x 64 and 7 x 70 sizes are the separate Rancho Luna Grandes line.",
+  "verified": true,
+  "verifyNotes": "Binder and filler reduced to Honduras: the Corojo binder and Habano and Corojo filler describe the pre-2022 long-filler blend, not the 2025 mixed-filler version whose size is listed. Strength set to null because Neptune's medium rating is for the earlier version. Replaced the JRE page with the halfwheel 2022 hiatus report; the 2015 debut is confirmed at halfwheel.com/julio-justo-eiroa-launch-jre-tobacco-co/105480/."
+ },
+ {
+  "brand": "JRE",
+  "line": "Rancho Luna Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The blue-banded half of JRE Tobacco's reworked Rancho Luna value line, with a Connecticut-seed wrapper grown on the Eiroa farms in Honduras. It is a $6 mixed-filler toro sold in bundles of 20.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/jre-brings-back-rancho-luna-aladino-candela-toro/446795/"
+  ],
+  "notes": "Mixed filler made with trimmings from JRE's other cigars, under a whole-leaf wrapper and binder. No strength rating or tasting notes are published. 2025 is the relaunch date for the line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Rancho Luna Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Habano, Corojo)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Cazador",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "mocha",
+   "black pepper"
+  ],
+  "about": "A maduro version of JRE Tobacco's Rancho Luna, blended by Julio and Justo Eiroa and introduced at the 2016 trade show. JRE took Rancho Luna off its price list in 2022, and the 2025 relaunch did not include the Maduro.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-jre-tobacco/127801/",
+   "https://halfwheel.com/jre-tobacco-co-announces-price-increase-puts-rancho-luna-on-hiatus/403974/",
+   "https://www.neptunecigar.com/cigar/rancho-luna-maduro"
+  ],
+  "notes": "Sources disagree on the wrapper: halfwheel's show report and Neptune say Mexican San Andrés, while halfwheel's earlier announcement said Honduran maduro. The 2025 Rancho Luna relaunch has only Habano and Connecticut.",
+  "verified": true,
+  "verifyNotes": "Reworded about to match the sources: JRE took Rancho Luna off its price sheet in January 2022 and the 2025 relaunch lists only Habano and Connecticut. Swapped the pre-show halfwheel announcement (halfwheel.com/jre-tobacco-co-adds-rancho-luna-maduro-tatascan-yellow-label/123382/, the page that says Honduran maduro) for the 2022 hiatus report. Wrapper kept as San Andres on the later halfwheel show report plus Neptune."
+ },
+ {
+  "brand": "JRE",
+  "line": "Tatascan Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo, Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Mild",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Gran Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "pepper",
+   "caramel"
+  ],
+  "about": "An affordable everyday Honduran puro from Julio and Justo Eiroa's JRE Tobacco, with a Habano wrapper over Corojo binder and a Corojo and Habano filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/tatascan-habano",
+   "https://www.jretobacco.com/portfolio/tatascan/",
+   "https://halfwheel.com/ipcpr-2016-jre-tobacco/127801/"
+  ],
+  "notes": "halfwheel reports that Tatascan cigars come with a sweetened tip, apart from the Yellow Series. Launch year is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "JRE",
+  "line": "Tatascan Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "An affordable everyday cigar from the Eiroa family's JRE Tobacco, made in Honduras with a Connecticut Shade wrapper and a sweetened cap. The name is said to mean head boss, a nod to Julio Eiroa.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/tatascan-connecticut",
+   "https://halfwheel.com/ipcpr-2016-jre-tobacco/127801/",
+   "https://blindmanspuff.com/blind-cigar-review-tatascan-connecticut-robusto/"
+  ],
+  "notes": "Sources disagree on where the wrapper is grown: halfwheel says Honduras, Neptune and Cigar Coop say Ecuador. Neptune's text says mild-medium but its spec table says medium. It has a sweetened cap.",
+  "verified": false,
+  "verifyNotes": "Wrapper origin set to null and wrapperLeaf reduced to Connecticut Shade: halfwheel's 2016 booth report says Honduran Connecticut, but Neptune and Cigar Coop both say Ecuadorian, and JRE's own page gives no origin. Released set to null: sources disagree on whether the Connecticut was the 2015 original or was added in 2016. Removed 'the original Tatascan' from about. Strength mild-medium confirmed by Neptune's text and Blind Man's Puff. Replaced the JRE page, which has no blend detail, with the Blind Man's Puff review."
+ },
+ {
+  "brand": "JRE",
+  "line": "Tatascan Yellow Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo, Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice"
+  ],
+  "about": "JRE Tobacco's budget bundle cigar, a mixed-filler Honduran puro with a Habano wrapper. Unlike the other Tatascan cigars it does not have a sweetened tip.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-jre-tobacco/127801/",
+   "https://halfwheel.com/jre-tobacco-co-adds-rancho-luna-maduro-tatascan-yellow-label/123382/",
+   "https://www.neptunecigar.com/cigar/tatascan-yellow-series"
+  ],
+  "notes": "Introduced in 2016 as Tatascan Yellow Label. Mixed filler, sold in bundles of 20. Neptune describes the wrapper as a Habano maduro.",
+  "verified": true,
+  "verifyNotes": "Gordo corrected from 6.5 x 60 to 6 x 60, per Neptune's listing and Cigar Coop's 2018 size list (cigar-coop.com/2018/07/cigar-news-jre-tobacco-introduces-new-banding-for-tatascan-yellow.html). The 6 1/2 x 60 figure came from halfwheel's 2016 list, which repeats the sizes of the regular Tatascan line."
+ }
+]

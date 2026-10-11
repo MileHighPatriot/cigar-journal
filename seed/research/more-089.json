@@ -1,0 +1,812 @@
+[
+ {
+  "brand": "Surrogates",
+  "line": "Bone Crusher",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bone Crusher",
+    "length": 5.25,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "pepper"
+  ],
+  "about": "A thick broadleaf-wrapped robusto and one of the two original Surrogates cigars, created by Dan Welsh of New Havana Cigars and now part of Tatuaje. It is built on a ligero-heavy Nicaraguan filler and is meant to be strong.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.latelierimports.com/surrogates.html",
+   "https://halfwheel.com/surrogates-cigars-bone-crusher-skull-breaker/",
+   "https://www.famous-smoke.com/surrogates-bone-crusher-cigars-maduro-box-of-20"
+  ],
+  "notes": "Each Surrogates name is a single size with its own blend. It launched in 2011 as 5 1/4 x 54; the maker and retailers now list 5 1/4 x 55. Skull Breaker is the belicoso sibling.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Animal Cracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Animal Cracker",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Animal Cracker AC550",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "spice",
+   "dried fruit",
+   "espresso",
+   "leather"
+  ],
+  "about": "A 6 x 60 Surrogates cigar with a dark Ecuadorian habano oscuro wrapper over Nicaraguan tobacco, made at My Father for Tatuaje's Surrogates brand. A 5 x 50 robusto called AC550 was added in 2016.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.latelierimports.com/surrogates.html",
+   "https://halfwheel.com/surrogates-animal-cracker-ac550/113168/",
+   "https://www.famous-smoke.com/surrogates-animal-cracker-cigars-maduro"
+  ],
+  "notes": "Famous and Holt's list it as full; Famous's own description calls it medium-full. Cracker Crumbs is the same blend in a 4 1/2 x 38 size.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Satin Glove",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Satin Glove",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Satin Glove SG654",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweetness"
+  ],
+  "about": "A box-pressed 7 x 47 churchill with a Mexican San Andrés wrapper over Nicaraguan tobacco, made at My Father for the Surrogates brand. A 6 x 54 toro called SG654 followed in 2018.",
+  "released": 2014,
+  "production": "discontinued",
+  "sources": [
+   "https://www.latelierimports.com/surrogates.html",
+   "https://halfwheel.com/tatuaje-discontinues-22-skus-in-u-s-market/419538/",
+   "https://www.famous-smoke.com/surrogates-satin-glove-cigars-natural"
+  ],
+  "notes": "Tatuaje retired the 7 x 47 from its U.S. list in February 2023, though some retailers still show stock. Retailers disagree on strength: Famous lists medium and describes it as medium to full, Corona Cigar lists full.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and the 2023 retirement confirmed. Strength is a middle reading: the maker gives none, Famous lists medium, Corona Cigar lists full. Note now cites Corona Cigar (opened) instead of Cigars Direct (page not found). Swapped one halfwheel link for the maker page."
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Eight Baller",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Eight Baller",
+    "length": 5.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "bread",
+   "nuts",
+   "cocoa",
+   "cinnamon",
+   "cherry",
+   "white pepper"
+  ],
+  "about": "A box-pressed 5 3/4 x 56 Surrogates cigar that takes the Crystal Baller blend and swaps its Ecuadorian habano wrapper for Connecticut broadleaf. It is made at My Father in Nicaragua for Tatuaje.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/surrogates-eight-baller/279496/",
+   "https://halfwheel.com/latelier-imports-adding-surrogates-eight-baller-satin-glove-sg654/270383/",
+   "https://www.famous-smoke.com/surrogates-eight-baller-cigars-maduro"
+  ],
+  "notes": "One size only. Halfwheel's review put strength at medium-full with full body; Famous lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Cracker Crumbs",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Cracker Crumbs",
+    "length": 4.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toast",
+   "nuts",
+   "cocoa",
+   "earth",
+   "pepper"
+  ],
+  "about": "A small 4 1/2 x 38 version of the Surrogates Animal Cracker blend, sold pre-cut in five-count soft packs. It is made at My Father in Nicaragua.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/surrogates-cracker-crumbs/79744/",
+   "https://halfwheel.com/surrogates-cracker-crumbs-2/174755/",
+   "https://www.famous-smoke.com/surrogates-cracker-crumbs-5-cigars-maduro"
+  ],
+  "notes": "Same blend as Animal Cracker in a small size. Halfwheel's reviews put strength around medium with full flavor and body; Famous lists it as full. It was shown in 2014 and shipped in January 2015.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surrogates",
+  "line": "AKC",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (two binder leaves)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "AKC",
+    "length": 5,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "A 5 x 55 robusto gordo with a San Andrés wrapper and a double Nicaraguan binder, named for Surrogates co-founder Dan Welsh's late dog Kenji. Welsh set out to make it the fullest cigar in the Surrogates range.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/surrogates-akc-releasing-this-week/368909/",
+   "https://www.famous-smoke.com/surrogates-akc-cigars-maduro"
+  ],
+  "notes": "AKC stands for 'A Kenji Cigar'. It launched in 2019 as a limited production sold through select Surrogates accounts, but retailers such as Famous still stock it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Big Ten",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "bread",
+   "almond",
+   "cream",
+   "toffee",
+   "pepper"
+  ],
+  "about": "Made for the tenth anniversary of the Surrogates brand, with an Ecuadorian habano wrapper over Nicaraguan binder and filler. It began in 2022 as a limited perfecto and became a regular robusto in 2023.",
+  "released": 2022,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/surrogates-big-ten-going-regular-production-with-new-vitola-this-summer/421062/",
+   "https://halfwheel.com/tatuaje-discontinues-16-skus-announces-price-increase/469847/",
+   "https://www.neptunecigar.com/cigar/l-atelier-surrogates-big-ten"
+  ],
+  "notes": "Tatuaje retired the 5 1/4 x 52 robusto in April 2026; retailers still have stock. Limited sizes were the 5 3/8 x 48 Britanicas Extra (2022) and 6 3/4 x 42 Lonsdale Extra (2024). Retailers disagree on strength: Neptune says medium, Famous says full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Closing Time",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 shade grown",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Mexico",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cashew",
+   "cedar",
+   "earth",
+   "spice"
+  ],
+  "about": "A 6 x 50 toro in the Surrogates range, named because it became the last cigar of the night for co-founder Dan Welsh. It pairs a Nicaraguan corojo 99 wrapper with tobacco from Nicaragua, Mexico and the U.S.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/tatuaje-shipsnew-cojonus-surrogates-closing-time/439572/",
+   "https://www.neptunecigar.com/cigar/l-atelier-surrogates-closing-time",
+   "https://www.famous-smoke.com/surrogates-closing-time-cigars-natural"
+  ],
+  "notes": "The blend also has U.S. leaf: Famous places Connecticut broadleaf in the binder, Neptune lists USA in the filler. Famous files it under Ecuadorian Sumatra, but halfwheel and Neptune say Nicaraguan corojo. Both retailers list full strength, though Famous's description says medium-bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Backline",
+  "found": true,
+  "officialName": "Back Line",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "EL454",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "EL554",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "herbs",
+   "cream",
+   "nuts",
+   "pepper",
+   "leather"
+  ],
+  "about": "A limited Surrogates release from Tatuaje inspired by guitar amplifier tubes, with a stepped cap and brushed foot. Each 20-count box holds ten 4 x 54 and ten 5 x 54 cigars in the same Ecuadorian habano blend.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/surrogates-back-line-el454/454397/",
+   "https://www.neptunecigar.com/cigar/l-atelier-surrogates-backline",
+   "https://cigar-coop.com/2025/11/surrogates-back-line-el554-by-tatuaje-cigars-cigar-review.html"
+  ],
+  "notes": "Planned as an annual series with changing blends; the 2025 run was about 10,000 of each size. Neptune's spec and Cigar Coop say medium; Neptune's description says medium-full and halfwheel found medium-plus. Neptune says the EL554 wrapper is one priming higher.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "1844 Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Flor de Copan S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cocoa",
+   "spice",
+   "vanilla",
+   "cream",
+   "cedar"
+  ],
+  "about": "The Connecticut shade entry in Altadis U.S.A.'s non-Cuban H. Upmann 1844 family, with an Ecuadorian wrapper over Honduran binder and filler. It is made in Honduras at Flor de Copan.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-1844-classic/",
+   "https://halfwheel.com/h-upmann-1844-classic-robusto/400411/",
+   "https://www.neptunecigar.com/cigar/h-upmann-1844-classic"
+  ],
+  "notes": "Altadis lists the Churchill at 7 x 50; halfwheel's launch coverage had it at 7 x 54. Halfwheel's review found the nicotine strength milder than medium.",
+  "verified": true,
+  "verifyNotes": "Removed Famous from the Churchill size note because that page was not opened. All fields confirmed against Altadis, halfwheel and Neptune."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "The Banker Daytrader",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Whale",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "cream",
+   "sweet tobacco"
+  ],
+  "about": "A finance-themed extension of H. Upmann The Banker from Altadis U.S.A., blended by the Grupo de Maestros at Tabacalera de García. It comes in ten-count boxes made to look like a laptop.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-the-banker-daytrader/",
+   "https://halfwheel.com/h-upmann-the-banker-daytrader-toro/431029/",
+   "https://www.neptunecigar.com/cigar/h-upmann-the-banker-daytrader"
+  ],
+  "notes": "Altadis only says the wrapper is Ecuadorian and rates strength 6; Neptune and Cigar Coop call it Sumatra and medium. Halfwheel's review found it stronger, medium-full to full with full body.",
+  "verified": true,
+  "verifyNotes": "Removed the small ongoing batches claim from about: halfwheel lists regular production while Cigar Coop calls it small batch. Note now cites Cigar Coop (opened) instead of Famous (not opened) for the Sumatra wrapper. Other fields confirmed."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Nicaragua AJ Fernandez Heritage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "espresso",
+   "sweet spice",
+   "earth"
+  ],
+  "about": "The second H. Upmann line made by AJ Fernandez in Estelí for Altadis U.S.A. It puts a triple-fermented Brazilian Mata Fina wrapper over binder and filler grown on Fernandez's Nicaraguan farms.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-nicaragua-aj-fernandez-heritage/",
+   "https://halfwheel.com/h-upmann-nicaragua-aj-fernandez-heritage-toro/408131/",
+   "https://www.neptunecigar.com/cigar/h-upmann-nicaragua-aj-fernandez-heritage"
+  ],
+  "notes": "Altadis calls it medium to full; Neptune lists medium. Altadis's spec table says the filler is Nicaraguan and Brazilian, but its own description and halfwheel say all Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Dropped the Famous strength claim from notes because that page was not opened. All fields confirmed against Altadis, halfwheel and Neptune."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "by AJ Fernandez Sunrise",
+  "found": true,
+  "officialName": "Nicaragua by AJ Fernandez Sunrise",
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "coffee",
+   "cream",
+   "spice"
+  ],
+  "about": "A Connecticut-wrapped H. Upmann made by AJ Fernandez in Estelí for Altadis U.S.A., with an Ecuadorian wrapper over Nicaraguan tobacco. It arrived in 2026 as a regular production line.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/h-upmann-nicaragua-by-aj-fernandez-sunrise-toro/475508/",
+   "https://halfwheel.com/h-upmann-nicaragua-by-aj-fernandez-sunrise-announced/463888/",
+   "https://www.neptunecigar.com/cigar/h-upmann-by-aj-fernandez-sunrise"
+  ],
+  "notes": "Halfwheel calls it H. Upmann Nicaragua by AJ Fernandez Sunrise; Neptune drops the word Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Removed Famous from the naming note because that page was not opened. All fields confirmed against halfwheel and Neptune."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "by AJ Fernandez Heritage Finca Providencia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Finca Providencia)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "earth",
+   "sweet tobacco"
+  ],
+  "about": "A limited single-farm H. Upmann from AJ Fernandez and Altadis U.S.A., made entirely from 2021 and 2022 harvest tobacco grown on Fernandez's Finca Providencia in Nicaragua. It comes in one 6 x 55 size.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/altadis-u-s-a-releasing-h-upmann-by-aj-fernandez-heritage-finca-at-pca-2025/448387/",
+   "https://cigardojo.com/2025/03/h-upmann-unveils-limited-heritage-finca-providencia/",
+   "https://www.famous-smoke.com/h-upmann-nicaragua-by-aj-fernandez-heritage-finca-providencia-cigars-maduro"
+  ],
+  "notes": "Limited to 8,250 boxes of 20 at $20 a cigar. The wrapper variety and the exact factory are not published. Altadis describes it as medium to full; Famous lists full.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full: the press release (via Cigar Dojo) says medium to full, and Cigar Coop's review agrees. Factory set to null: no source names it and Cigar Coop says Altadis has not said which facility. Size name changed to Toro Grande per halfwheel's PCA listing and the press release. Added Cigar Dojo source."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "180th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan medio tiempo",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "dried fruit",
+   "leather",
+   "cocoa",
+   "white pepper"
+  ],
+  "about": "A limited Nicaraguan puro made by AJ Fernandez for Altadis U.S.A. to mark 180 years of the H. Upmann name. Its wrapper is medio tiempo, the small top leaves found above the ligero on some plants.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/h-upmann-180th-anniversary-toro/448081/",
+   "https://www.neptunecigar.com/cigar/h-upmann-180th-anniversary",
+   "https://www.famous-smoke.com/brand-h-upmann-180th-anniversary"
+  ],
+  "notes": "5,000 boxes of 10 Churchills; a 6 x 50 Toro was sold only in 180 humidors of 50. Neptune and Famous list full strength; halfwheel's review of the Toro found medium-full. The wrapper seed variety is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "The Banker Ingot",
+  "found": true,
+  "officialName": "The Banker Ingot Arbitrage",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Ingot Arbitrage",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "coffee",
+   "pepper",
+   "nuts",
+   "leather"
+  ],
+  "about": "A limited H. Upmann from Altadis U.S.A. sold in a box shaped like a gold bar, a nod to founder Hermann Upmann's banking career. The current version is the 7 x 56 Ingot Arbitrage released in late 2024.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/h-upmann-ingot-arbitrage-shipping-later-this-month/444613/",
+   "https://cigardojo.com/2024/11/h-upmann-to-release-limited-edition-banker-ingot-cigar/",
+   "https://www.neptunecigar.com/cigar/h-upmann-the-banker-ingot"
+  ],
+  "notes": "The blend shown is the third Ingot (2024, 5,000 boxes of 12); the 2016 and 2017 Ingots were different blends and sizes. Altadis's release lists Dominican and Nicaraguan filler; halfwheel and Neptune list Nicaraguan only.",
+  "verified": true,
+  "verifyNotes": "Filler changed from Nicaragua to Dominican Republic, Nicaragua: the Altadis press release (via Cigar Dojo) and Cigar Coop both list Dominican and Nicaraguan filler. Notes trimmed and the Famous claim replaced with the press release. Swapped the 2016 review link for the Cigar Dojo press release."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "1844 Special Edition Barbier",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade and Ecuadorian Sumatra (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Java)",
+  "filler": "Dominican Republic, Nicaragua, undisclosed broadleaf",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "citrus",
+   "sweetness",
+   "spice"
+  ],
+  "about": "A barber pole cigar in the H. Upmann 1844 family from Altadis U.S.A., twisting a light Connecticut shade leaf and a darker Sumatra leaf together as the wrapper. Barbier is German for barber, a nod to the founder's roots.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/h-upmann-1844-special-edition-barbier-belicoso/423436/",
+   "https://www.neptunecigar.com/cigar/h-upmann-1844-special-edition-barbier",
+   "https://www.famous-smoke.com/h-upmann-1844-se-barbier-toro-cigars-barber-pole"
+  ],
+  "notes": "Two wrapper leaves, so no single wrapper type applies. Despite the Special Edition name, halfwheel lists it as regular production. Halfwheel's review found it mild to medium in strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Hispaniola by Jose Mendez",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Pilotico, Andullo), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "toast"
+  ],
+  "about": "An H. Upmann from Altadis U.S.A. built around Dominican tobacco from grower Jose Mendez & Co., including pilotico and andullo leaf, under an Ecuadorian Sumatra wrapper. The name refers to the island the Dominican Republic shares with Haiti.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/h-upmann-hispaniola-by-jose-mendez-belicoso/367717/",
+   "https://www.neptunecigar.com/cigar/h-upmann-hispaniola-by-jose-mendez",
+   "https://cigar-coop.com/2020/09/cigar-review-h-upmann-hispaniola-by-jose-mendez.html"
+  ],
+  "notes": "No longer on Altadis's current H. Upmann lineup, but no discontinuation notice was found. Neptune lists it as full; halfwheel and Cigar Coop reviews put it around medium. Cigar Coop calls the wrapper Ecuadorian habano; halfwheel and Neptune say Sumatra.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Notes rewritten: removed unconfirmed stock claims, added that Cigar Coop names the wrapper as Ecuadorian habano. Added Cigar Coop review as a source."
+ }
+]

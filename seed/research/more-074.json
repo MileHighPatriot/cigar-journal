@@ -1,0 +1,568 @@
+[
+ {
+  "brand": "Graycliff",
+  "line": "Crystal",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (sun grown)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Honduras, Costa Rica, Greece",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "PG",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Pirate",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Presidente",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Uncut Pirate",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Taco",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "earth",
+   "cocoa",
+   "coffee",
+   "vanilla"
+  ],
+  "about": "One of the core Graycliff blends, rolled in Nassau with an Ecuadorian wrapper and a small amount of Greek leaf in the mix. It is also known as the White Label.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/ratings/21215/name/graycliff-crystal-toro",
+   "https://www.coronacigar.com/brands/graycliff/graycliff-crystal/",
+   "https://halfwheel.com/graycliff-double-espresso-one-minute-review/9567/"
+  ],
+  "notes": "Cigar Aficionado listed an Ecuadorian binder with Nicaraguan, Honduran, Costa Rican and Greek filler through 2020, then an Indonesian binder with Costa Rican, Dominican and Nicaraguan filler in late 2025. It rated the cigar medium earlier and full in 2025. Corona Cigar lists Brazilian, Nicaraguan and Honduran filler.",
+  "verified": true,
+  "verifyNotes": "Removed the PGX 6 x 50 size, which no opened page lists. Trimmed notes. Wrapper, country and strength confirmed on Cigar Aficionado, Corona Cigar and Cigars Direct."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Double Espresso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Costa Rica",
+  "filler": "Ecuador, Nicaragua",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Espresso",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "leather",
+   "cream"
+  ],
+  "about": "A stronger take on the Graycliff Espresso, made by adding extra ligero to the blend. It began as a single short, thick size sold through Cigars International and is now counted among the core Graycliff lines.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/graycliff-double-espresso-one-minute-review/9567/",
+   "https://halfwheel.com/review-graycliff-double-espresso-elegante/6781/",
+   "https://halfwheel.com/graycliffs-new-tasters-sampler-offers-six-quick-smokes/465611/"
+  ],
+  "notes": "The filler is described as Cuban-seed Corojo, Ecuadorian ligero and Nicaraguan leaf. The 4 1/2 x 54 size comes from a 2010 review, so current sizes may differ. No strength rating is published. The regular Espresso is sold as full bodied.",
+  "verified": true,
+  "verifyNotes": "Blend, country and size confirmed on halfwheel. Reworded notes: the 4 1/2 x 54 size is the regular size in a 2010 review, not a confirmed 2010 debut. Graycliff publishes no strength."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Triple Espresso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Costa Rica",
+  "filler": "Ecuador, Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Toro Uncut",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "Pirate",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The strongest version of the Graycliff Espresso blend, introduced at the 2019 IPCPR trade show as a step up from the Double Espresso.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2019-graycliff/363308/"
+  ],
+  "notes": "No strength rating or tasting notes are published. It is billed as stronger than the Double Espresso. The source does not say where it is rolled, though Graycliff's own factory is in Nassau, Bahamas.",
+  "verified": true,
+  "verifyNotes": "Set country and factory to null: the only source (halfwheel IPCPR 2019) does not say where it is rolled. Blend, sizes, year and production confirmed there."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Chateau Grand Cru",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Ecuador",
+  "filler": "Honduras, Costa Rica, Nicaragua",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "PG",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Presidente",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cedar",
+   "leather",
+   "chocolate",
+   "coffee",
+   "almond"
+  ],
+  "about": "A core Graycliff line rolled in Nassau, sometimes spelled Chateau Gran Cru. It is the milder relative of the Heritage Royale.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://stogiepress.com/graycliff/",
+   "https://www.coronacigar.com/brands/graycliff/graycliff-heritage/",
+   "https://halfwheel.com/graycliffs-new-tasters-sampler-offers-six-quick-smokes/465611/"
+  ],
+  "notes": "The blend and sizes come from a January 2015 review, before Graycliff reworked its blends and cut sizes later that year, so treat them as unconfirmed. That review called it medium. No current strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Removed the Salomon size: Stogie Press gives 7 1/8 x 48, not 54, and the Corona Cigar pages now return 404. Removed the unverifiable Habano wrapper remark. Fixed the Stogie Press link. The blend rests on one January 2015 review that predates Graycliff's 2015 reblend, so it is not confirmed."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Heritage Royale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": "Full",
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "chocolate",
+   "coffee"
+  ],
+  "about": "A full-bodied Graycliff line introduced in 2010, described as similar to the Chateau Grand Cru but a bit stronger.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.coronacigar.com/brands/graycliff/graycliff-heritage/",
+   "https://halfwheel.com/graycliffs-new-tasters-sampler-offers-six-quick-smokes/465611/"
+  ],
+  "notes": "Corona Cigar says the blend uses tobacco from Costa Rica, Ecuador, Honduras and Nicaragua but does not say which is wrapper, binder or filler. Sizes were not confirmed.",
+  "verified": true,
+  "verifyNotes": "Set wrapper, wrapper origin, filler and sizes to null or empty: Corona Cigar only names the four tobacco countries without saying which leaf is which, and lists no sizes. Year, strength and flavors confirmed there."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "50th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Condega, Jalapa, Ometepe)",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Uncut",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Pirate Uncut",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "butterscotch",
+   "cream",
+   "black pepper",
+   "wood",
+   "toast"
+  ],
+  "about": "Released in 2022 to mark 50 years since the Garzaroli family bought the Graycliff property in Nassau in 1973. It is a regular production line, not an anniversary of the cigar company itself, which dates to 1997.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/graycliff-50th-anniversary-salomon/421201/",
+   "https://halfwheel.com/pca-2022-graycliff/409304/",
+   "https://www.coronacigar.com/graycliff-50th-anniversary-salamon/"
+  ],
+  "notes": "Corona Cigar lists the strength as medium. Corona lists its Uncut Toro at 5 3/4 x 54, which differs from the 7 x 52 halfwheel gives.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Graycliff",
+  "line": "30th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (ligero, medio tiempo)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pirate Uncut",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Nicaraguan puro marking 30 years since Graycliff began making cigars in 1997. It comes in one size and was capped at 3,000 cigars.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2025-graycliff/449064/"
+  ],
+  "notes": "Limited to 125 boxes of 24 in a single 6 x 52 size. No published strength rating, tasting notes or factory details were found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Predator Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (ligero, seco)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Shark Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Shark Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Barracuda PGXL",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A regular production Graycliff line from 2025 named for the predators found in Bahamian waters, with sizes called Shark and Barracuda.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2025-graycliff/449064/"
+  ],
+  "notes": "No published strength rating, tasting notes or factory details were found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Platinum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A Graycliff-branded line sold by Cigars Direct, described there as a limited annual release made in Honduras rather than at the Nassau factory.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.cigarsdirect.com/collections/graycliff-platinum"
+  ],
+  "notes": "Only one retailer lists it, so the blend is left blank. Cigars Direct describes an Ecuadorian Habano sun grown wrapper over Nicaraguan binder and filler, medium to full, made in Honduras, in Robusto, PGX, Pirate and Presidente sizes. Graycliff does not list it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Silver",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Costa Rica, Honduras, Nicaragua, Philippines",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pirate",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "54 (Toro)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "floral",
+   "wood",
+   "spice"
+  ],
+  "about": "Introduced in 2012 and packed in a box styled like a bar of silver, with tobacco aged at least five years. It is rolled in Nassau and, unlike most Graycliff sizes, has a trimmed foot.",
+  "released": 2012,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/press-release-2012-brings-vision-blends-graycliff-cigar-company/29964/",
+   "https://www.coronacigar.com/graycliff-silver-toro/",
+   "https://halfwheel.com/ipcpr-2015-graycliff-cigar-company/93030/"
+  ],
+  "notes": "Graycliff launched it in 2012 as a limited edition and still showed it in 2015, so its current status is unclear. The 2012 press release includes Philippine filler, which Corona Cigar leaves out. Corona calls it medium to full.",
+  "verified": true,
+  "verifyNotes": "Set production to null: the only stated status is the maker's 2012 'limited edition', and no source calls it regular. Reworded notes to match."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Bahiba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "One of the five cigar brands the Graycliff Cigar Company in Nassau says it produces. The maker gives no blend or size details for it.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.graycliff.com/graycliff-cigar-company/"
+  ],
+  "notes": "Graycliff names this brand on its site but publishes no blend, strength or sizes, and no retailer listing was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Cabinet Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "One of the five cigar brands the Graycliff Cigar Company in Nassau says it produces. The maker gives no blend or size details for it.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.graycliff.com/graycliff-cigar-company/"
+  ],
+  "notes": "Graycliff names this brand on its site but publishes no blend, strength or sizes, and no retailer listing was found.",
+  "verified": true,
+  "verifyNotes": "Set officialName to null: the given name is right and 'by Graycliff' only repeats the brand."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "B-Cuz",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, Honduras",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Company",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Triple Robusto",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A lower-priced Graycliff blend launched in 2012 as an entry point to the brand, sold in bright orange boxes of 21.",
+  "released": 2012,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/press-release-2012-brings-vision-blends-graycliff-cigar-company/29964/",
+   "https://halfwheel.com/ipcpr-2012-graycliff/30687/",
+   "https://www.graycliff.com/graycliff-cigar-company/"
+  ],
+  "notes": "Launched at $7.50 to $7.95 a cigar. Graycliff still names it on its site, but no current retailer listing was found, so availability is unclear.",
+  "verified": true,
+  "verifyNotes": "Set officialName to null: the given name is right and 'by Graycliff' only repeats the brand. Blend, strength, sizes and year confirmed in the 2012 press release."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Boss of the Block",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (aged four years)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador",
+  "filler": "Costa Rica, Honduras, Nicaragua",
+  "country": null,
+  "factory": "Graycliff Cigar Company",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Duro",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Cangri",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Bull",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Big Boss",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "white pepper",
+   "spice",
+   "leather",
+   "coffee"
+  ],
+  "about": "A collaboration between Graycliff and the DJ and musician P La Cangri, who picked the blend in a blind tasting at the Graycliff hotel. It debuted at the 2022 PCA trade show and is made by Graycliff.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2022-graycliff/409304/",
+   "https://www.bossoftheblock.com/",
+   "https://halfwheel.com/pca-2025-graycliff/449064/"
+  ],
+  "notes": "Sold as Boss of the Block by Graycliff. It is P La Cangri's own brand, made and shown by Graycliff, with its own blend. No published strength rating was found.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

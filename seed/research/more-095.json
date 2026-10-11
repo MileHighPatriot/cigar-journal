@@ -1,0 +1,977 @@
+[
+ {
+  "brand": "Bolivar",
+  "line": "Cofradia Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuadorian Sumatra",
+  "filler": "Dominican Habano Seco, Nicaraguan Habano Viso, Honduran Habano Seco",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordo Extra",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "spice",
+   "coffee",
+   "chocolate"
+  ],
+  "about": "The broadleaf-wrapped version of Bolivar Cofradia, made by Scandinavian Tobacco Group in Honduras for the non-Cuban Bolivar brand. It swaps the regular Cofradia's wrapper and binder and is priced as a value cigar.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.bolivarcigars.com/cigars/",
+   "https://halfwheel.com/bolivar-cofradia-oscuro-heads-to-stores/438372/",
+   "https://www.famous-smoke.com/bolivar-cofradia-robusto-oscuro-cigars-oscuro"
+  ],
+  "notes": "This is the non-Cuban Bolivar from STG. The same published blend first appeared in 2022 as the limited Cofradia by Lost & Found Oscuro. The maker gives no strength; Famous Smoke lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Bolivar",
+  "line": "Gran Republica",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazilian Arapiraca",
+  "filler": "Brazilian Mata Fina, Colombian, Nicaraguan Condega, Nicaraguan Esteli",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "spice",
+   "earth",
+   "wood"
+  ],
+  "about": "A regular production line for the non-Cuban Bolivar brand, made by Scandinavian Tobacco Group in Honduras. The blend leans on South American tobaccos, a nod to the countries tied to Simon Bolivar.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.bolivarcigars.com/cigars/",
+   "https://halfwheel.com/bolivar-gran-republica-debuting-june-1/423739/",
+   "https://www.famous-smoke.com/brand-bolivar-gran-republica"
+  ],
+  "notes": "This is the non-Cuban Bolivar from STG. Famous Smoke lists it as medium-full while Neptune lists it as full; the maker only calls it bold.",
+  "verified": true,
+  "verifyNotes": "Set body to null: no source gives body separately (Famous Smoke lists strength only). Flavors corrected to the maker's and Famous Smoke's words; coffee and fruit were not on any page. Confirmed Neptune lists full."
+ },
+ {
+  "brand": "Bolivar",
+  "line": "Cofradia by Lost & Found",
+  "found": true,
+  "officialName": "Cofradia Lost & Found EMS",
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Connecticut Broadleaf (USA)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A 2022 collaboration between Robert Caldwell of Lost & Found and STG, released under the Bolivar Cofradia name in five-packs. It used Ecuadorian Sumatra and Connecticut broadleaf leaf that had been aged five to eight years.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/bolivar-cofradia-lost-found-heads-to-stores/404901/",
+   "https://www.cigaraficionado.com/article/robert-caldwell-collaborates-with-stg-for-bolivar-cofradia-lost-found",
+   "https://www.neptunecigar.com/cigar/bolivar-cofradia-by-lost-and-found"
+  ],
+  "notes": "Non-Cuban Bolivar from STG. This is the EMS (natural) version; the Oscuro flips the wrapper and binder. Strength is blank because sources disagree: Cigar Aficionado says it was blended to be mild to medium, while Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "Strength kept null, but the note was incomplete: Cigar Aficionado says this blend was meant to be mild to medium, which contradicts Neptune's full. Added that article as a source (it also names the HATSA factory) and trimmed the note to three sentences."
+ },
+ {
+  "brand": "Bolivar",
+  "line": "Cofradia by Lost & Found Oscuro",
+  "found": true,
+  "officialName": "Cofradia Lost & Found Oscuro",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuadorian Sumatra",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The broadleaf-wrapped half of the 2022 Bolivar Cofradia collaboration between Robert Caldwell of Lost & Found and STG, sold in five-packs. It used Connecticut broadleaf and Ecuadorian Sumatra leaf aged five to eight years.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/bolivar-cofradia-lost-found-heads-to-stores/404901/",
+   "https://www.cigaraficionado.com/article/robert-caldwell-collaborates-with-stg-for-bolivar-cofradia-lost-found",
+   "https://www.neptunecigar.com/cigar/bolivar-cofradia-by-lost-and-found-oscuro"
+  ],
+  "notes": "Non-Cuban Bolivar from STG. The same published blend became the regular Cofradia Oscuro line in 2024. Cigar Aficionado calls it the stronger of the two Lost & Found blends and Neptune lists it as full, but no maker rating exists.",
+  "verified": true,
+  "verifyNotes": "Strength kept null. Added Cigar Aficionado as a source (it calls this the stronger of the two blends and names the HATSA factory) and trimmed the note to three sentences."
+ },
+ {
+  "brand": "Bolivar",
+  "line": "Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazilian Arapiraca",
+  "filler": "Argentina, Brazil, Colombia, Paraguay",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited edition toro from Scandinavian Tobacco Group marking what it counts as more than 130 years of the Bolivar name. The filler includes uncommon Argentine and Paraguayan tobacco, and it comes in boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/bolivar-aniversario-shipping-this-week/464308/",
+   "https://www.neptunecigar.com/cigar/bolivar-aniversario"
+  ],
+  "notes": "This is the non-Cuban Bolivar from STG, one size only. Neptune lists it as full, with no second source for strength. STG dates the brand idea to 1895; Habanos cites 1902.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Barba",
+  "line": "Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Corojo",
+  "filler": "Dominican Habano and Corojo",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "spice",
+   "graham cracker",
+   "chocolate",
+   "marshmallow",
+   "cedar",
+   "raisin"
+  ],
+  "about": "The first cigar from Tony Bellatto and Craig Rossi's La Barba brand. It was first made in Honduras and was reworked in 2016 around Dominican tobacco with a Dominican corojo wrapper, rolled at Tabacalera William Ventura.",
+  "released": 2013,
+  "production": "discontinued",
+  "sources": [
+   "http://labarbacigars.com/the-lineup/",
+   "https://halfwheel.com/caldwell-bellatto-discontinuing-several-lines-following-the-fire-at-tabacalera-william-ventura/414655/",
+   "https://www.neptunecigar.com/cigar/la-barba-red"
+  ],
+  "notes": "Discontinued in October 2022 after the fire at Tabacalera William Ventura, though the maker's site still shows it. The maker calls it medium plus; Neptune lists it as full. The blend given is the 2016 Dominican version; the original was made in Honduras.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that the original used Honduran corojo: no page states the original blend, only that it was made in Honduras. Dominican corojo wrapper and the 2016 rework confirmed at https://halfwheel.com/la-barba-red-purple-siempre-getting-updates-for-2016-ipcpr/122261/ and the 2013 launch at https://cigar-coop.com/2014/07/cigar-news-la-barba-purple-coming-this.html."
+ },
+ {
+  "brand": "La Barba",
+  "line": "Siempre",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Corojo Ligero, Dominican Habano Vuelta Abajo (HVA) Seco",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perla",
+    "length": 4,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "vanilla",
+   "cream",
+   "salt",
+   "earth"
+  ],
+  "about": "A Connecticut-wrapped Dominican cigar from Tony Bellatto of La Barba, built around a crop of tobacco he was shown at Tabacalera William Ventura. It was made in small batches as an everyday smoke.",
+  "released": 2015,
+  "production": null,
+  "sources": [
+   "http://labarbacigars.com/the-lineup/",
+   "https://halfwheel.com/siempre-tamboril-robusto/87368/",
+   "https://halfwheel.com/ipcpr-2016-la-barba-cigar-co/126021/"
+  ],
+  "notes": "First released in 2015 as Siempre Tamboril, without the La Barba name. The maker describes the strength as light plus. It launched as regular production, but La Barba was wound down in 2022 and no source confirms it is still made.",
+  "verified": true,
+  "verifyNotes": "Production changed from regular to null: regular production is only stated in 2015 and 2016 coverage, La Barba was wound down in 2022, and the line is absent from the La Barba page at Smokingpipes, so current status is unclear."
+ },
+ {
+  "brand": "La Barba",
+  "line": "One & Only",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro (2016)",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Super Toro (2018)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "mineral",
+   "earth",
+   "cream",
+   "wood"
+  ],
+  "about": "La Barba's limited edition series built on small lots of well-aged tobacco under an Ecuadorian habano wrapper. Each edition came in one size and a different blend.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "http://labarbacigars.com/the-lineup/",
+   "https://halfwheel.com/la-barba-oneonly-2018-super-toro/285448/",
+   "https://halfwheel.com/ipcpr-2016-la-barba-cigar-co/126021/"
+  ],
+  "notes": "Binder is undisclosed and the filler shown is the 2018 edition's; the 2016 blend was not published. 2016 was 500 boxes of 10 and 2018 was 2,000 boxes. The maker calls it full body, while Neptune calls it medium strength.",
+  "verified": true,
+  "verifyNotes": "Trimmed the note to three sentences. Confirmed Neptune calls it medium strength and the maker's site says full body."
+ },
+ {
+  "brand": "La Barba",
+  "line": "Ricochet Crü Mexi-Sol",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Sun Grown",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Coronita",
+    "length": 4.25,
+    "ring": 44
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "mineral",
+   "spice",
+   "earth",
+   "leather",
+   "oak",
+   "black pepper"
+  ],
+  "about": "The second Ricochet blend from La Barba, created by Tony Bellatto, a trained sommelier, with Left Bank Bordeaux wine in mind. It pairs a Mexican sun grown wrapper with an Indonesian binder.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/la-barba-ricochet-cru-mexi-sol-5-1-2-x-54/367371/",
+   "https://cigar-coop.com/2020/12/cigar-review-la-barba-cru-mexi-sol-gran-robusto.html",
+   "https://halfwheel.com/caldwell-bellatto-discontinuing-several-lines-following-the-fire-at-tabacalera-william-ventura/414655/"
+  ],
+  "notes": "Launched as regular production; whether it is still made is unclear, and Smokingpipes sells its remaining stock as Last Call. After the 2022 fire at Tabacalera William Ventura, halfwheel reported Ricochet production moving to the Ventura family's El Maestro factory. Cigar Coop describes the wrapper as natural San Andres leaf.",
+  "verified": true,
+  "verifyNotes": "Removed the unsupported claim that Smokingpipes' parent distributes La Barba. Added halfwheel's October 2022 report that Ricochet production moved to the El Maestro factory and swapped that article in for the Smokingpipes link. Size names, medium strength and medium body confirmed at Cigar Coop."
+ },
+ {
+  "brand": "La Barba",
+  "line": "Ricochet Crü Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (HVA), Nicaragua (Criollo), USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cafe",
+    "length": 4,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Ricochet blend from La Barba dressed in an Ecuadorian Connecticut shade wrapper. halfwheel described it as the final La Barba release as founder Tony Bellatto moved to his Bellatto Premium Cigars company.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/pca-2022-bellatto-premium-cigars/409329/",
+   "https://www.smokingpipes.com/cigars/la-barba/moreinfo.cfm?product_id=505229",
+   "https://halfwheel.com/caldwell-bellatto-discontinuing-several-lines-following-the-fire-at-tabacalera-william-ventura/414655/"
+  ],
+  "notes": "Launched as regular production; Smokingpipes now sells remaining stock as Last Call, but no source states it is discontinued. Strength comes only from Smokingpipes, which rates it 2 out of 5. After the 2022 fire at Tabacalera William Ventura, halfwheel reported Ricochet production moving to the Ventura family's El Maestro factory.",
+  "verified": true,
+  "verifyNotes": "Reworded the about sentence, since halfwheel only says it believes this was the final La Barba release. Added halfwheel's October 2022 report that Ricochet production moved to El Maestro, with that article as a third source. Strength rests on Smokingpipes alone (2 out of 5)."
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Tabacales",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchilde",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "natural tobacco",
+   "cream",
+   "coffee",
+   "baking spice",
+   "earth"
+  ],
+  "about": "A value-priced Saint Luis Rey line from Altadis U.S.A. that is made in the Dominican Republic instead of Honduras, where the brand has traditionally been made. It is rolled at Tabacalera de Garcia in La Romana.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/saint-luis-rey/saint-luis-rey-tabacales/",
+   "https://halfwheel.com/altadis-u-s-a-announces-dominican-made-saint-luis-rey-tabacales/452867/",
+   "https://www.neptunecigar.com/cigar/saint-luis-rey-tabacales"
+  ],
+  "notes": "This is the non-Cuban Saint Luis Rey from Altadis U.S.A. The maker does not name the wrapper variety or give a strength; Neptune and Cigar Coop both put it at medium.",
+  "verified": true,
+  "verifyNotes": "Softened the about sentence: halfwheel calls it a departure from making the brand in Honduras, not the brand's first Dominican cigar. Medium strength confirmed at Neptune and Cigar Coop."
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Carenas Ultramar",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "La Flor de Copan",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 45
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "natural tobacco",
+   "honey",
+   "earth",
+   "baking spice",
+   "pepper"
+  ],
+  "about": "A follow-up to the Saint Luis Rey Carenas line from Altadis U.S.A., built around extra-aged tobacco and rolled at La Flor de Copan in Honduras. The name refers to Puerto Carenas, the old name for the Port of Havana.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/saint-luis-rey/saint-luis-rey-carenas-ultramar/",
+   "https://halfwheel.com/saint-luis-rey-carenas-ultramar-now-shipping/439675/",
+   "https://www.neptunecigar.com/cigar/saint-luis-rey-carenas-ultramar"
+  ],
+  "notes": "Non-Cuban Saint Luis Rey from Altadis U.S.A. Sources disagree under the wrapper: the maker says Nicaraguan binder and Honduran filler, halfwheel adds Nicaraguan filler, and Neptune and Cigar Coop list a Honduran binder. Neptune rates it medium; Cigar Coop found it building to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Marrón",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua, Peru",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchilde",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Titan",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate",
+   "cedar",
+   "leather",
+   "black pepper"
+  ],
+  "about": "The maduro version of the core Honduran-made Saint Luis Rey from Altadis U.S.A., wrapped in dark Mexican San Andres leaf. It is sold as a bold, budget-friendly cigar in two thick sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/saint-luis-rey/saint-luis-rey-maduro/",
+   "https://www.famous-smoke.com/brand-saint-luis-rey-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/saint-luis-rey.html"
+  ],
+  "notes": "This is the non-Cuban Saint Luis Rey from Altadis U.S.A. The maker calls it bold without rating strength; Famous Smoke lists it as full while Holt's lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Wrapper spelling corrected to the maker's San Andres Marron (Famous Smoke spells it Morron). Confirmed Famous Smoke lists full, Neptune's description says full-bodied and Holt's lists medium."
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Serie G Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Connecticut Broadleaf",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchilde",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "No. 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "A big ring gauge maduro from the non-Cuban Saint Luis Rey brand, made in Honduras by Altadis U.S.A. It uses Connecticut broadleaf for both the wrapper and the binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/saint-luis-rey/saint-luis-rey-serie-g-maduro/",
+   "https://www.famous-smoke.com/brand-saint-luis-rey-serie-g-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/saint-luis-rey-serie-g.html"
+  ],
+  "notes": "This is the non-Cuban Saint Luis Rey from Altadis U.S.A. The maker calls it fuller-bodied without rating strength; Famous Smoke lists it as full and Holt's lists the Serie G line as medium-full. Famous Smoke's description also mentions Honduran filler, which the maker does not list.",
+  "verified": true,
+  "verifyNotes": "Added a strength disagreement the researcher missed: Holt's lists the Serie G line as medium-full while Famous Smoke lists full. Added the Holt's page as a source."
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Eiroa 30th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Colombian Pinareño",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Colombia",
+  "binder": "Honduran Corojo",
+  "filler": "Honduran Corojo, Honduran Pinareño",
+  "country": "Honduras",
+  "factory": "The CLE Factory (Danli)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchilde",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "roasted nuts",
+   "leather"
+  ],
+  "about": "A 2026 release marking 30 years of the non-Cuban Saint Luis Rey, made for Altadis U.S.A. by Christian Eiroa, who blended the original 1996 Honduran version with his father. It aims to recall that first cigar's profile.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saint-luis-rey-eiroa-30th-anniversary-slated-for-upcoming-release/466383/",
+   "https://halfwheel.com/pca-2026-altadis-u-s-a/463892/",
+   "https://cigardojo.com/2026/09/saint-luis-rey-eiroa-30th-anniversary-toro/"
+  ],
+  "notes": "Altadis describes it as medium to full; Cigar Dojo found medium-plus strength and Neptune lists it as medium. Sold only through brick-and-mortar shops. Pinareno is a seed variety that fits none of the wrapper categories; Neptune lists the wrapper color as Colorado.",
+  "verified": true,
+  "verifyNotes": "Filler corrected: halfwheel's table lists both the corojo and the Pinareno filler as Honduran, not Colombian. Wrapper category changed from Colorado to null because Pinareno is a seed variety that fits no category. Removed baking spice from flavors (not in Cigar Dojo's notes). Note rewritten to cite pages in the source list."
+ },
+ {
+  "brand": "Eiroa",
+  "line": "Dark 30th",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory (Danli)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "11/18",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "54x6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "peanut",
+   "cereal",
+   "black pepper",
+   "toast",
+   "wood"
+  ],
+  "about": "The reblended replacement for the 2019 Eiroa Dark from Christian Eiroa's CLE Cigar Co., which he pulled after running short of the tobacco it needed. The 30th in the name marks his 30 years in the cigar business.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eiroa-dark-30th-50x5/477605/",
+   "https://halfwheel.com/revamped-eiroa-dark-30th-arrives-at-stores/473457/",
+   "https://www.neptunecigar.com/cigar/eiroa-dark-30th-anniversary"
+  ],
+  "notes": "The blend is undisclosed; Eiroa has only said it mixes Honduran tobacco with leaf from his Colombian farm, where the original Eiroa Dark was all Honduran corojo. halfwheel found it medium-plus to medium-full, while Neptune lists it as medium. The 11/18 is a 48/54/48 figurado.",
+  "verified": true,
+  "verifyNotes": "Trimmed the note to three sentences. Undisclosed blend, factory and strength range confirmed in halfwheel's review."
+ },
+ {
+  "brand": "Eiroa",
+  "line": "Jamastran",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino (CLE)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "11/18 (52/60 figurado)",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "dried fruit",
+   "earth",
+   "citrus"
+  ],
+  "about": "A Honduran puro from Christian Eiroa's CLE Cigar Co., named after the Jamastran Valley, where the Eiroa family has grown tobacco for more than 50 years. It comes in triangular boxes that echo the old Camacho Diploma.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eiroa-jamastran-11-18/365157/",
+   "https://halfwheel.com/cle-removes-five-lines-from-price-list/447774/",
+   "https://www.neptunecigar.com/cigar/eiroa-jamastran"
+  ],
+  "notes": "CLE took it off its price list in March 2025 and now makes it only to order, so it is not discontinued but can be hard to find. Neptune rates it medium; halfwheel found the 2019 version medium-plus to medium-full, and CLE said a stronger version would follow in 2020. The 11/18 began as a TAA retailer exclusive.",
+  "verified": true,
+  "verifyNotes": "Removed oak and cinnamon from flavors (not in halfwheel's review or Neptune's description). Set body to null because Neptune says medium bodied while halfwheel found medium-full to nearly full. Reworded the about sentence: sources say it is named after the valley where the Eiroas grow tobacco, not that the leaf comes from the family farm. Added that CLE announced a stronger version for 2020 (https://halfwheel.com/stronger-eiroa-jamastran-coming-in-2020/369991/)."
+ },
+ {
+  "brand": "Eiroa",
+  "line": "The First 20 Years Colorado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino (CLE)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "40x4",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Prensado 46x6",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "54x6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "roasted nuts",
+   "cream",
+   "white pepper",
+   "earth"
+  ],
+  "about": "A box-pressed Honduran puro from Christian Eiroa's CLE Cigar Co., following his First 20 Years anniversary cigar. Its corojo wrapper is aged more than five years to reach the reddish Colorado shade the line is named for.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eiroa-first-20-years-colorado-50-x-5/155934/",
+   "https://www.neptunecigar.com/cigar/eiroa-the-first-20-years-colorado",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-eiroa-first-20-years-colorado-robusto/"
+  ],
+  "notes": "Colorado here is the wrapper color, not a place. Neptune's spec lists it as full while its description says medium to full; halfwheel found medium-plus strength. The 4 x 40 size appears at Neptune but not in the 2017 launch list.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Eiroa",
+  "line": "PCA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory (Danli)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "11/18 (52/60 figurado)",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A yearly Eiroa release from CLE Cigar Co. sold only to retailers who place orders at the PCA trade show. The blend, shapes and packaging change from one year to the next.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/eiroa-pca-exclusive-2023-11-18/431544/",
+   "https://halfwheel.com/cle-ships-trio-of-pca-2025-exclusives/453299/",
+   "https://www.neptunecigar.com/cigar/eiroa-pca-exclusive"
+  ],
+  "notes": "Ask which year it is, because the wrapper changes: Honduran-grown Cameroon seed in 2021 and 2022, Honduran corojo in 2023, an undisclosed maduro in 2024, Mexican San Andres in 2025. Binder and filler are mostly undisclosed. The 2025 edition came only as a 6 x 52 toro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Eiroa",
+  "line": "50/10",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory (Danli)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Giant Robusto",
+    "length": 10,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "baking spice",
+   "graham cracker",
+   "earth",
+   "cream",
+   "pepper",
+   "wood"
+  ],
+  "about": "A 10 inch by 50 ring gauge cigar from CLE Cigar Co. marking Christian Eiroa's 50th birthday and the company's 10th anniversary. Only 600 boxes of nine were made.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/eiroa-50-10/423736/"
+  ],
+  "notes": "The blend is officially undisclosed, though it was reported to be the same Honduran puro blend as Eiroa Classic. halfwheel found strength starting just under medium and ending just shy of full over a smoke of about five hours.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

@@ -1,0 +1,465 @@
+[
+ {
+  "brand": "Wildfire",
+  "line": "Dead Drift",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra-seed (origin not published)",
+  "filler": "Nicaragua (Criollo 98, Corojo)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "baking spice",
+   "toasted bread",
+   "white pepper",
+   "wood"
+  ],
+  "about": "A one-time limited toro from Jeremy McDonald's Wildfire Cigar Co., named after a fly fishing term. It was the first of the company's monthly made-to-order releases and shipped in March 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://wildfirecigars.com/our-cigars/dead-drift/",
+   "https://halfwheel.com/wildfire-dead-drift/471316/",
+   "https://cigardojo.com/2026/03/dead-drift-debuts-from-wildfire-cigar-company/"
+  ],
+  "notes": "The factory is undisclosed; Wildfire says only that it is made in the Dominican Republic. Production numbers were not announced. The maker says it starts medium and finishes full, while halfwheel's reviewer found the strength below medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Wildfire",
+  "line": "The Fault Line",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "India (Sumatra-seed)",
+  "filler": "Ecuador (Habano), Nicaragua (Criollo 98), Corojo",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "sweet earth",
+   "red pepper",
+   "white pepper"
+  ],
+  "about": "A limited robusto extra from Wildfire Cigar Co. with a San Andrés wrapper and an unusual Sumatra-seed binder grown in India. It was the second of the company's monthly made-to-order releases, shipping in April 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://wildfirecigars.com/our-cigars/the-fault-line/",
+   "https://halfwheel.com/pca-2026-wildfire-cigar-co/465002/",
+   "https://luxurycigarclub.com/products/wildfire-fault-line"
+  ],
+  "notes": "The maker lists the filler as Criollo 98, Ecuadorian and Corojo; halfwheel lists Ecuadorian habano and Nicaraguan Criollo 98. Halfwheel says the Sumatra-seed binder was grown in India, while one retailer lists it as Indonesian. Production numbers were not announced.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against the maker page and halfwheel. Added a note that Luxury Cigar Club lists the binder as Indonesian where halfwheel says India, and added that page as a source."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "Radio-Octave",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo (aged five years)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra-seed (origin undisclosed)",
+  "filler": "Nicaragua, Criollo 98, Corojo ligero",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "roasted peanut",
+   "leather",
+   "sweet spice"
+  ],
+  "about": "A limited corona gorda from Wildfire Cigar Co. built around a five-year-old Ecuadorian corojo wrapper and meant to show the lighter side of the company's blending. It shipped in July 2026 as part of the monthly made-to-order series.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://wildfirecigars.com/our-cigars/radio-octave/",
+   "https://halfwheel.com/wildfire-cigar-co-ships-radio-octave/473823/",
+   "https://cigardojo.com/2026/07/wildfire-cigar-co-ships-new-limited-production-radio-octave/"
+  ],
+  "notes": "The maker writes the name with a hyphen; halfwheel and Cigar Dojo write Radio Octave. A one-and-done run made to the number of retailer orders, with the total not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Wildfire",
+  "line": "Off-Grid",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra-seed)",
+  "filler": "Ecuador (Corojo), Nicaragua (Estelí), HVA (origin undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cinnamon",
+   "wood",
+   "floral",
+   "sweet tang"
+  ],
+  "about": "The October 2026 release in Wildfire Cigar Co.'s monthly made-to-order limited series, a single robusto extra themed around unplugging from phones and screens. Its band shows a towable camper like the one in the company's trade show booths.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/wildfire-cigar-co-introduces-off-grid/481145/",
+   "https://cigardojo.com/2026/10/wildfire-cigar-co-releases-off-grid/",
+   "https://luxurycigarclub.com/products/wildfire-off-grid"
+  ],
+  "notes": "Fifth release in the series Wildfire informally calls the Camp Counselor Enrollment Program. The maker has not published a strength rating. One retailer calls it medium-bodied and lists it as 5 1/2 x 54, while halfwheel and Cigar Dojo give 5 1/4 x 54.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and size confirmed on halfwheel and Cigar Dojo. Strength left null: the maker's site does not list this cigar and no source rates strength. Added a note on the retailer's differing size and added that page as a source."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "The Revivalist",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Claro",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra-seed)",
+  "filler": "USA (Connecticut Broadleaf, Pennsylvania), Nicaragua (Habano), Italy (aged)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "cream",
+   "roasted coffee",
+   "charred oak"
+  ],
+  "about": "Wildfire Cigar Co.'s first regular production line from 2021, since discontinued and brought back in August 2026 as a reworked limited edition. The new version is a box-pressed toro made in the Dominican Republic with a different filler blend.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/wildfires-the-revivalist-returns/476536/",
+   "https://halfwheel.com/wildfire-cigar-co-ships-debut-releases/400835/",
+   "https://cigardojo.com/2026/08/wildfire-cigar-co-brings-back-the-revivalist-limited-release/"
+  ],
+  "notes": "Details shown are the 2026 limited version. The original 2021 line was made at Joya de Nicaragua in Corona Gorda (5 5/8 x 46), Robusto (5 1/4 x 50) and Toro (6 1/4 x 52), also with a Mexican claro wrapper, and is discontinued. Wildfire calls the new one medium-bodied.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength is null because the maker's site does not list this cigar and sources give body only. Halfwheel's 2021 and 2026 articles disagree on the original line's binder and filler; the record describes the 2026 version."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "The Single",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Dark Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "peanut",
+   "roasted coffee",
+   "cedar",
+   "hay",
+   "honey",
+   "black pepper"
+  ],
+  "about": "The debut limited edition from Jeremy McDonald's Wildfire Cigar Co., a single Churchill made at Joya de Nicaragua. It shipped in September 2021 and was limited to 750 boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/the-single/402576/",
+   "https://halfwheel.com/wildfire-cigar-co-ships-debut-releases/400835/",
+   "https://developingpalates.com/news/cigar-news/cigar-news-wildfire-cigar-co-launches-with-two-lines/"
+  ],
+  "notes": "Limited to 7,500 cigars. Strength, body and flavors come from halfwheel's review, which found it below medium strength until the final third. It scored 89 there.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength is a reviewer's reading from halfwheel (below medium until the final third, then medium); no maker or retailer rating was found."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "B-Sides",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano-seed",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Churchill from Wildfire Cigar Co. shown at PCA 2024 and made at Joya de Nicaragua. Wildfire says it uses the same tobaccos as The Single in different positions and proportions to show how much that changes a cigar.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/wildfire-releasing-b-sides-the-hook-at-pca-2024/436564/"
+  ],
+  "notes": "Limited to 500 boxes of 10. Wildfire says the components match The Single, though The Single's binder was originally listed as Nicaraguan. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. No maker or retailer strength rating exists; the maker's site does not list this cigar."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "The Hook",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador (Connecticut-seed)",
+  "filler": "Dominican Republic (Piloto), Mexico (San Andrés), USA (Pennsylvania Broadleaf)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A limited corona gorda from Wildfire Cigar Co. released at PCA 2024 and made in Danlí, Honduras. It is the second part of a three-part series modeled on the parts of a rock song, following The Intro.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/wildfire-releasing-b-sides-the-hook-at-pca-2024/436564/"
+  ],
+  "notes": "Limited to 500 boxes of 10. The wrapper is listed only as Dominican, with no seed type given. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. No maker or retailer strength rating exists; the maker's site does not list this cigar."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "The Intro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Corojo (origin not published)",
+  "filler": "USA (Pennsylvania), Nicaragua (Estelí, Jalapa)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A limited corona gorda from Wildfire Cigar Co. introduced at TPE 2023 and made in Danlí, Honduras. It is the first part of a three-part series modeled on the parts of a rock song: intro, hook and breakdown.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/wildfire-debuting-the-intro-wanderer/420223/",
+   "https://halfwheel.com/wildfire-ships-the-intro-wanderer/421689/"
+  ],
+  "notes": "Limited to 700 boxes of 10. It was Wildfire's first cigar from the Honduran factory best known for Cavalier Genève. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. No maker or retailer strength rating exists; the maker's site does not list this cigar."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "Wanderer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Dominican Republic (Piloto), USA (Pennsylvania Broadleaf), Nicaragua (Jalapa), Paraguay",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "bread",
+   "cream",
+   "nuts",
+   "earth",
+   "white pepper",
+   "wood"
+  ],
+  "about": "A three-size line from Wildfire Cigar Co. introduced in 2023 and made in Danlí, Honduras, notable for including Paraguayan tobacco in the filler. It launched as regular production but Wildfire has since stopped offering regular lines.",
+  "released": 2023,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/wanderer-robusto/424639/",
+   "https://www.cigarslover.com/wildfire-wanderer-corona-gorda/",
+   "https://halfwheel.com/wildfire-cigar-co-introduces-off-grid/481145/"
+  ],
+  "notes": "Strength and body come from halfwheel's review of the Robusto, which found it mild to just under medium. Cigars Lover rated the Corona Gorda medium. Halfwheel reports Wildfire no longer has regular production offerings.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and sizes confirmed on halfwheel. Added the Cigars Lover review, which rates strength medium where halfwheel found it below medium, and noted the disagreement. The Off-Grid article does not name Wanderer but is kept as the source for the discontinued status; the maker's site no longer lists the line."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "Artaios",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A three-size line from Wildfire Cigar Co. launched at PCA 2023 and made at Joya de Nicaragua. The name is a Celtic word tied to a bear god, a nod to the bear in the company's trade show booth.",
+  "released": 2023,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/wildfires-artaios-getting-pca-2023-launch/424726/",
+   "https://halfwheel.com/pca-2023-wildfire-cigar-co/424731/",
+   "https://halfwheel.com/wildfire-cigar-co-introduces-off-grid/481145/"
+  ],
+  "notes": "Launched as regular production in 2023; halfwheel reports Wildfire no longer has regular production offerings. No strength rating or tasting notes were found.",
+  "verified": true,
+  "verifyNotes": "No changes. Discontinued status rests on halfwheel's statement that Wildfire no longer has regular production offerings and on the maker's site no longer listing the line; that article does not name Artaios."
+ },
+ {
+  "brand": "Wildfire",
+  "line": "Ammunition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Manufactura Rivas",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited toro made as a collaboration between Wildfire Cigar Co. and Caldwell Cigar Co., created to pair with Ammunition Whiskey. It was a PCA 2023 exclusive that reached stores in November 2023.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/wildfire-caldwell-team-up-for-ammunition/431593/"
+  ],
+  "notes": "A Wildfire and Caldwell collaboration, limited to 300 boxes of 10 at about 15 stores. The binder and fillers are from the Dominican Republic and Nicaragua, but which is which was not published. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. No strength rating was published and the maker's site does not list this cigar."
+ }
+]

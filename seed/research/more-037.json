@@ -1,0 +1,864 @@
+[
+ {
+  "brand": "CAO",
+  "line": "Gold Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "butter"
+  ],
+  "about": "The maduro version of CAO Gold. It keeps that line's Nicaraguan binder and filler and swaps the Ecuadorian Connecticut wrapper for a dark Brazilian maduro leaf.",
+  "released": 2007,
+  "production": null,
+  "sources": [
+   "https://www.caocigars.com/cigars/gold-maduro/",
+   "https://www.neptunecigar.com/cigar/cao-gold-maduro",
+   "https://www.cigaraficionado.com/article/cao-releasing-concept-cigar-to-public-2598"
+  ],
+  "notes": "CAO rates it mild to medium, while Neptune lists it as medium. Neptune marks its three sizes as discontinued, though CAO's site still lists the line, so its current status is unclear.",
+  "verified": true,
+  "verifyNotes": "Added release year 2007 from Cigar Aficionado. Set production to null: Neptune flags all three of its sizes as discontinued and Holt's shows them sold out, but CAO still lists the line and I found no STG notice. Reworded about (CAO Gold's wrapper is Ecuadorian Connecticut). Swapped sources to match."
+ },
+ {
+  "brand": "CAO",
+  "line": "Gold Honey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 42
+   },
+   {
+    "name": "Cigarillos",
+    "length": 4,
+    "ring": 30
+   }
+  ],
+  "flavors": [
+   "honey",
+   "sweetness"
+  ],
+  "about": "A flavored cigar from the CAO Flavours family, infused with honey that CAO says comes from Florida orange blossom nectar. It is a mild smoke with a Cameroon wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.caocigars.com/cigars/gold-honey/",
+   "https://www.holts.com/cigars/all-cigar-brands/cao-flavours.html",
+   "https://halfwheel.com/stg-discontinues-21-skus/472715/"
+  ],
+  "notes": "Sold by retailers as CAO Flavours Gold Honey. It is an infused cigar, not part of the regular CAO Gold line. STG discontinued the 4 x 40 Petit Corona in June 2026. Holt's says it is made in the Dominican Republic, while Neptune lists the Corona as Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Removed the 4 x 40 Petit Corona from sizes: halfwheel reported STG discontinued it in June 2026. Replaced the dead Neptune cigarillos link. Country kept as Dominican Republic per Holt's, but Neptune's line page says Nicaragua for the Corona, so treat country with caution. No release year found."
+ },
+ {
+  "brand": "CAO",
+  "line": "Cherrybomb",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 42
+   },
+   {
+    "name": "Tubo",
+    "length": 4.75,
+    "ring": 30
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "Cigarillos",
+    "length": 4,
+    "ring": 30
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "black currant",
+   "vanilla",
+   "citrus",
+   "sweetness"
+  ],
+  "about": "A flavored cigar from the CAO Flavours family, infused with cherry and black currant over a vanilla base. It is a mild smoke with a Cameroon wrapper and Dominican filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.caocigars.com/cigars/cherrybomb/",
+   "https://www.neptunecigar.com/cigars/cao-flavours-cherrybomb-corona",
+   "https://www.holts.com/cigars/all-cigar-brands/cao-flavours.html"
+  ],
+  "notes": "Sold by retailers as CAO Flavours Cherrybomb. It is an infused cigar.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "OSA Sol",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Olancho San Agustin",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "HATSA",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lot 58",
+    "length": 6.5,
+    "ring": 58
+   },
+   {
+    "name": "Lot 54",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "pepper",
+   "sweetness",
+   "earth"
+  ],
+  "about": "Introduced in 2011 as one of the first new CAO lines after General Cigar took over the brand. It is named for its wrapper leaf from the Olancho San Agustin valley in Honduras.",
+  "released": 2011,
+  "production": "discontinued",
+  "sources": [
+   "https://www.caocigars.com/cigars/osa-sol/",
+   "https://halfwheel.com/stg-discontinues-cao-osa-sol-cao-session-diesel-grind-others/444909/",
+   "https://halfwheel.com/2011newcigars/"
+  ],
+  "notes": "STG discontinued the line in November 2024 per halfwheel, though CAO's site still lists it. CAO rates it mellow to medium while Neptune and Holt's say medium. Both retailers list Lot 54 as 6 x 54, not CAO's 5.75 x 54.",
+  "verified": true,
+  "verifyNotes": "Factory changed from STG Danli to HATSA, the name halfwheel's 2011 release list gives; no page I opened ties this line to the STG Danli name. About changed from 'the first' to 'one of the first' General-era CAO lines, matching halfwheel. Dropped '(sun grown)' from wrapperLeaf to match CAO's wording. Swapped the Neptune link for the halfwheel 2011 list."
+ },
+ {
+  "brand": "CAO",
+  "line": "Flathead Steel Horse",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano Grueso",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Arapiraca)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bullneck",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Roadkill",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Apehanger",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "coffee",
+   "spice",
+   "pepper",
+   "chocolate",
+   "leather"
+  ],
+  "about": "A motorcycle-themed spin-off of CAO Flathead that debuted in 2015. It keeps the flat head but uses a different blend, with a Connecticut-grown Habano wrapper over a Brazilian Arapiraca binder.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.caocigars.com/cigars/steel-horse/",
+   "https://halfwheel.com/cao-flathead-steel-horse-apehanger/95272/",
+   "https://halfwheel.com/stg-raises-prices-for-2025-discontinues-34-items/453460/"
+  ],
+  "notes": "CAO now calls it simply Steel Horse. The small Handbrake (4.5 x 50) was discontinued in August 2025 per halfwheel. Sizes have changed since launch, when Apehanger was 5.5 x 58 and Bullneck 6.5 x 66.",
+  "verified": true,
+  "verifyNotes": "Replaced the Famous Smoke link, which would not load, with the halfwheel report that confirms the Handbrake was discontinued in August 2025. Removed the unconfirmed Famous Smoke strength remark from notes."
+ },
+ {
+  "brand": "CAO",
+  "line": "Flathead Speed Shop",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "V654 Crankshaft",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "V660 Carb",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Big Block",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "earth",
+   "hay",
+   "wood",
+   "nuts"
+  ],
+  "about": "A 2026 addition to CAO's car-themed Flathead family, box pressed with the flat head the line is named for. It swaps the original's broadleaf wrapper for Ecuadorian Habano over a San Andrés binder and is pitched as the everyday, medium-bodied Flathead.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.caocigars.com/cigars/speed-shop/",
+   "https://halfwheel.com/cao-flathead-speed-shop-habano-v654-crankshaft/465088/",
+   "https://halfwheel.com/cao-flathead-speed-shop-habano-shipping-in-february/459717/"
+  ],
+  "notes": "Press coverage calls it Flathead Speed Shop Habano. The 6.5 x 54 Crankshaft is a new size for Flathead.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Flathead V19",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Camshaft V19",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Carb V19",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "leather",
+   "sweet tobacco"
+  ],
+  "about": "A 2019 limited edition built as a fuller-bodied take on the original CAO Flathead, box pressed with a flat head. Both the broadleaf wrapper and the habano binder are grown in Connecticut.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/v19/",
+   "https://halfwheel.com/cao-flathead-v19-camshaft/368093/"
+  ],
+  "notes": "Production was 2,350 boxes of 20 in each size. It was rolled in Honduras at STG Danlí, per halfwheel.",
+  "verified": true,
+  "verifyNotes": "Notes: dropped the 'unlike most Flatheads' comparison, which the sources do not state."
+ },
+ {
+  "brand": "CAO",
+  "line": "Flathead V21",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic (ligero), Nicaragua (ligero)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Carb V21",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Big Block V21",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dried fruit",
+   "leather",
+   "nuts"
+  ],
+  "about": "The 2021 limited edition in CAO's Flathead series, a soft box press sold only in two large ring gauges. It uses a Mexican San Andrés wrapper where the original Flathead uses Connecticut Broadleaf.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/flathead-v21/",
+   "https://halfwheel.com/cao-flathead-v21-carb/401631/"
+  ],
+  "notes": "CAO's spec table lists a Honduran Habano binder, but its own description and halfwheel both say Connecticut Broadleaf. Each size was limited to 2,000 boxes of 27.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Flathead V23",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Jamastran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Brazil (Mata Fina), Honduras (Jamastran viso), Nicaragua (Jalapa viso, Estelí ligero)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "MK1 660",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "raisin",
+   "pepper"
+  ],
+  "about": "A 2023 limited edition Flathead made to mark 100 years of the 24 Hours of Le Mans, with packaging modeled on the Ford GT40 in Gulf racing colors. It is a single box-pressed 6 x 60 with a Honduran wrapper.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/flathead-v23/",
+   "https://halfwheel.com/cao-flathead-v23-pays-tribute-to-the-24-hours-of-le-mans/428436/"
+  ],
+  "notes": "CAO rates it medium to full but also describes it as a full-bodied blend. Production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Vision",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "nuts",
+   "sweetness",
+   "spice",
+   "leather"
+  ],
+  "about": "The 2020 remake of CAO Vision, a cigar best known for its white box with built-in blue LED lighting. This version is a single Churchill with a Cameroon wrapper, the first Cameroon blend from CAO blender Rick Rodriguez.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/vision/",
+   "https://halfwheel.com/cao-vision-2020/385067/",
+   "https://www.neptunecigar.com/cigars/cao-vision-churchill"
+  ],
+  "notes": "The original 2007 Vision was a different, Dominican-wrapped blend made at La Aurora. The 2020 run was 4,500 boxes of 20. CAO's spec table lists a Dominican binder and three-country filler, but its own description, halfwheel and Neptune give the blend shown here.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Vision 2022",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Jamastran (Habano)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "charred wood",
+   "pepper",
+   "raisin",
+   "cinnamon"
+  ],
+  "about": "The third CAO Vision release, a 6 x 52 toro made entirely of habano-seed tobacco with a Honduran wrapper over Nicaraguan binder and filler. It came in a 30-count humidor-style box with two touch-opened drawers and orange LED lights.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/vision-2022/",
+   "https://halfwheel.com/cao-vision-2022/418096/",
+   "https://www.neptunecigar.com/cigars/cao-vision-toro"
+  ],
+  "notes": "Strength is left blank because sources conflict: CAO calls it mellow, while halfwheel's review found medium-full to full strength and Neptune's spec says full. Limited to 2,700 boxes of 30.",
+  "verified": true,
+  "verifyNotes": "Removed the '1,700 for the U.S.' figure, which is not on any cited page. Strength is deliberately left null: I confirmed CAO lists Mellow, halfwheel's review reports medium-full to full, and Neptune's spec says Full."
+ },
+ {
+  "brand": "CAO",
+  "line": "Orellana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Brazil (Bragança, Fuma em Corda), Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "dark fruit",
+   "leather",
+   "black cherry",
+   "pepper"
+  ],
+  "about": "The fourth cigar in CAO's Amazon series, released in 2019 and named for Francisco de Orellana, the first European to travel the length of the Amazon. Like the others it has a twisted tobacco rope in place of a paper band.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/orellana/",
+   "https://halfwheel.com/cao-orellana/368581/",
+   "https://www.holts.com/cigars/all-cigar-brands/cao-orellana.html"
+  ],
+  "notes": "Cubra is a Cuban-seed leaf grown in Brazil. CAO's spec table says full, but its description and Holt's say medium to full. Holt's describes the filler as Dominican, Nicaraguan, Brazilian and Colombian, which differs from CAO's list.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Amazon Anaconda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Bahiano Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Brazil (Bragança, Fuma em Corda), Colombia, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "citrus",
+   "raisin",
+   "espresso",
+   "cinnamon"
+  ],
+  "about": "The third cigar in CAO's Amazon trilogy, released in 2017. It combines the Bragança tobacco from Amazon Basin with the rope-fermented Fuma em Corda leaf from the second release, under a Brazilian Habano wrapper.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/cao-amazon-anaconda/209803/",
+   "https://www.neptunecigar.com/cigars/cao-amazon-anaconda"
+  ],
+  "notes": "Neptune lists it as discontinued and it is no longer on CAO's site. Strength is left blank: Neptune rates it full, while halfwheel's review found it about medium. Neptune says it was made in Honduras, but halfwheel lists STG Estelí in Nicaragua.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Amazon Basin Extra Añejo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Brazil (Bragança), Colombia, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "fruit"
+  ],
+  "about": "The regular CAO Amazon Basin blend, built around Brazilian Bragança tobacco from the Amazon, with the finished cigars rested for about two extra years in cedar aging rooms. It keeps the tobacco rope band of the original.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/amazon-basin-extra-anejo/",
+   "https://halfwheel.com/cao-amazon-basin-extra-anejo/422396/",
+   "https://halfwheel.com/cao-amazon-basin-extra-anejo-returning-for-2026/480368/"
+  ],
+  "notes": "First released January 2023 at 5,000 boxes of 18. A second release shipped October 2026 using cigars rolled in 2024.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Pilón Añejo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (Cuban-seed)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 5.875,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "toast",
+   "spice",
+   "caramel"
+  ],
+  "about": "A follow-up to CAO Pilón that ferments its tobacco in round pilón stacks, then ages the rolled cigars for two more years. It is a different blend from the original Pilón.",
+  "released": 2022,
+  "production": "discontinued",
+  "sources": [
+   "https://www.caocigars.com/cigars/pilon-anejo/",
+   "https://halfwheel.com/cao-pilon-anejo-returning-to-store-shelves-as-a-full-time-line/425661/",
+   "https://halfwheel.com/scandinavian-tobacco-group-discontinues-56-skus/448395/"
+  ],
+  "notes": "A 2022 limited edition made regular in 2023; halfwheel reported STG discontinued it in March 2025, though CAO's site still lists it. CAO's spec table says Ecuadorian Habano wrapper with Nicaraguan binder and filler, but its own description and halfwheel give the blend shown here.",
+  "verified": true,
+  "verifyNotes": "About: removed 'small', which the sources do not say about the pilones."
+ },
+ {
+  "brand": "CAO",
+  "line": "Arcana Mortal Coil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Shade)",
+  "filler": "Dominican Republic (Andullo, Piloto Cubano), Honduras (Jamastran), Nicaragua (Estelí)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "cocoa",
+   "dark cherry"
+  ],
+  "about": "The first release in CAO's Arcana series, which showcases unusual tobacco processing methods. Its filler includes Dominican andullo, leaf fermented by being bound tightly into long palm pod rolls instead of stacked in piles.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/mortal-coil/",
+   "https://halfwheel.com/cao-arcana-mortal-coil/391009/",
+   "https://halfwheel.com/cao-arcana-mortal-coil-returning-aug-1/427771/"
+  ],
+  "notes": "Original run was 5,000 boxes of 20 in 2021. It returned in August 2023 with the same blend and size. CAO's site rounds the size to 6 x 50.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Arcana Firewalker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Masatepe)",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "dried fruit",
+   "white pepper"
+  ],
+  "about": "The second release in CAO's Arcana series, from 2022. Its Nicaraguan filler was cured with chincagre, an old local method in which the tobacco piles are buried in hot volcanic soil for two months before a second fermentation.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/firewalker/",
+   "https://halfwheel.com/cao-arcana-firewalker/407721/",
+   "https://www.neptunecigar.com/cigars/cao-arcana-firewalker"
+  ],
+  "notes": "Strength ratings vary widely: CAO's site says mellow, Neptune medium, Holt's full, and halfwheel's review found medium-plus. CAO's story text names a Honduran Corojo wrapper, but its spec table and halfwheel say Ecuadorian Habano Rosado. Limited to 5,000 boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to under 350 characters. Strength kept as Medium (Neptune, and close to halfwheel's medium-plus), but note that CAO's own table says Mellow and Holt's says Full."
+ },
+ {
+  "brand": "CAO",
+  "line": "Arcana Thunder Smoke",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Olancho San Agustin",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Cameroon, South Africa, Zimbabwe",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "herbs",
+   "cocoa",
+   "hazelnut",
+   "raisin"
+  ],
+  "about": "The third release in CAO's Arcana series, from 2024, with a filler made entirely of African tobacco from Cameroon, South Africa and Zimbabwe. The name comes from the local name for Victoria Falls, the smoke that thunders.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/thunder-smoke/",
+   "https://halfwheel.com/cao-arcana-thunder-smoke/445506/",
+   "https://halfwheel.com/new-cao-thunder-smoke-uses-tobacco-from-three-african-countries/441636/"
+  ],
+  "notes": "Unlike most CAOs it is made in the Dominican Republic, not Nicaragua. General billed it as the first premium cigar with South African and Zimbabwean tobacco. Production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "Arcana Stokk",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "US Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (Andullo), Cyprus (Latakia), Honduras",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cocoa",
+   "earth",
+   "smoke"
+  ],
+  "about": "The fourth Arcana release, from 2025, made with pipe tobacco house Peter Stokkebye, a sister company under Scandinavian Tobacco Group. The filler is split so the first half smokes on Dominican andullo and the second half on fire-cured Latakia from Cyprus.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/stokk/",
+   "https://halfwheel.com/cao-arcana-stokk/454552/",
+   "https://halfwheel.com/cao-peter-stokkebye-collaborate-for-stokk/453277/"
+  ],
+  "notes": "Size is disputed: CAO's site says 6 x 50, the launch announcement said 6.5 x 52, and halfwheel measured its samples at 6 x 52. Limited to 3,500 boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Notes: removed the Famous Smoke size reference, which I could not open; the 6.5 x 52 launch size is confirmed by halfwheel."
+ },
+ {
+  "brand": "CAO",
+  "line": "FASA Sol",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Olancho San Agustin",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic (Piloto Cubano), Nicaragua (Jalapa, Estelí, Condega)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "toast",
+   "almonds",
+   "spice"
+  ],
+  "about": "A regular production CAO line introduced at the 2024 PCA trade show alongside FASA Noche. The two share a Cameroon binder and the same fillers, and Sol wears the Honduran Olancho San Agustin wrapper CAO first used on OSA Sol.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.caocigars.com/cigars/fasa-sol/",
+   "https://halfwheel.com/cao-fasa-sol-and-fasa-noche-debuting-at-pca-2024/436769/"
+  ],
+  "notes": "FASA Sol is made in Honduras at STG Danlí, while its sibling FASA Noche is made in Nicaragua at STG Estelí.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

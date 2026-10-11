@@ -1,0 +1,1126 @@
+[
+ {
+  "brand": "Rocky Patel",
+  "line": "Freedom Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cocoa",
+   "spice"
+  ],
+  "about": "A maduro version of Rocky Patel's Freedom line, made as a Nicaraguan puro at the company's own factory in Esteli. It was created for the distributor Santa Clara Inc.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-freedom-maduro-created-for-santa-clara-inc/403439/",
+   "https://www.neptunecigar.com/cigar/rocky-patel-freedom-maduro",
+   "https://www.cigarplace.biz/rocky-patel-freedom-maduro-toro.html"
+  ],
+  "notes": "Sold as a maduro, but the wrapper is a dark Nicaraguan habano oscuro leaf rather than broadleaf. Distributed exclusively through Santa Clara Inc. Neptune rates it full, while Cigar Place lists it medium-full.",
+  "verified": true,
+  "verifyNotes": "All blend fields confirmed. Reworded about to drop an unsupported 'stronger' claim. Added Cigar Place as a source and noted its medium-full rating against Neptune's full."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "TAA Exclusivo",
+  "found": true,
+  "officialName": "TAA Exclusivo 2020",
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "spice",
+   "sweetness"
+  ],
+  "about": "Rocky Patel's 2020 exclusive for retailers in the Tobacconists' Association of America. It is a single toro with a Mexican San Andres wrapper over Nicaraguan tobacco.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-taa-exclusivo-2020-arrives-at-stores/375801/",
+   "https://www.neptunecigar.com/cigar/rocky-patel-taa-exclusivo"
+  ],
+  "notes": "Limited to 1,000 boxes of 20 and sold only through TAA member shops.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "America 250",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "spice",
+   "floral"
+  ],
+  "about": "A single toro made to mark the 250th anniversary of the United States. The cigars were rolled in early 2025 and aged at Rocky Patel's Esteli factory before release.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-america-250-coming-in-september/476310/"
+  ],
+  "notes": "Limited to 2,000 boxes of 20. It was first offered to shops at summer 2026 road show events, with shipping expected in mid to late September 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Decade Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "El Paraiso",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra (box-pressed)",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A version of the Decade that swaps the usual Ecuadorian Sumatra wrapper for a Honduran habano leaf. It was Rocky Patel's 2022 exclusive for Tobacconists' Association of America shops.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-decade-habano-box-pressed-selected-as-taa-2022-exclusive/408321/"
+  ],
+  "notes": "TAA 2022 exclusive, limited to 1,000 boxes of 20 in one box-pressed size. No published strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, factory, size and the 1,000-box limit confirmed on halfwheel. No page I could open states a strength and rockypatel.com was returning errors, so strength stays null and could not be confirmed either way."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Decade Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon-seed",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "El Paraiso",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A take on the Decade made for the distributor Phillips & King's Reserve Collection. It uses a Cameroon-seed wrapper grown in Ecuador in place of the regular Decade's Sumatra-seed leaf.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/phillips-king-showing-off-rocky-patel-decade-reserve-at-tpe-2025/446439/"
+  ],
+  "notes": "Sold through the distributor Phillips & King as part of its Reserve Collection. No published strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, factory and size confirmed on halfwheel. No page I could open states a strength and rockypatel.com was returning errors, so strength stays null and could not be confirmed either way."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Big Shoulders",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente (Plasencia)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "sweetness"
+  ],
+  "about": "A 6 x 60 Connecticut-wrapped cigar made for the Chicago-area distributor Arango Cigar Co. The name comes from Carl Sandburg's nickname for Chicago, the City of Big Shoulders.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/arango-cigar-co-adds-rocky-patel-broad-shoulders/439530/"
+  ],
+  "notes": "Exclusive to the distributor Arango Cigar Co. It is made at Plasencia's Tabacos de Oriente in Danli rather than at Rocky Patel's own factories.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Empire",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras (Jamastran Valley)",
+  "country": "Honduras",
+  "factory": "El Paraiso",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "nuts",
+   "leather",
+   "white pepper",
+   "bread"
+  ],
+  "about": "A Honduran puro toro made for the New York Tobacconist Association to help fund its work on New York cigar tax and licensing bills. Rocky Patel said it would donate the proceeds to the group.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/nyta-rocky-patel-empire/409170/",
+   "https://halfwheel.com/rocky-patel-creates-cigar-to-support-new-york-retailers/403352/"
+  ],
+  "notes": "Sold as the NYTA Rocky Patel Empire; first run of 1,000 boxes of 10. halfwheel's review lists an all-Honduran blend, though its launch story said Honduran and Nicaraguan tobaccos. The review had it starting at medium strength and finishing full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Seed to Smoke",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Maduro (Classic) or Honduran-grown Connecticut-seed (Shade)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua (short filler)",
+  "country": "Honduras",
+  "factory": "El Paraiso",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "hay",
+   "spice"
+  ],
+  "about": "Rocky Patel's low-priced bundle line, made at El Paraiso in Honduras. It is a Cuban sandwich style cigar with a whole-leaf wrapper and binder over short filler.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-seed-to-smoke-arrives-at-store/431043/",
+   "https://www.famous-smoke.com/brands/rocky-patel-cigars/rocky-patel-seed-to-smoke"
+  ],
+  "notes": "Comes in two wrappers: Classic (Honduran maduro) and Shade (Connecticut-seed grown in Honduras). Uses short filler, not long filler. Famous Smoke calls the line medium-bodied and the Shade mild.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "The 1865 Project",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras, Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "coffee",
+   "cocoa",
+   "espresso",
+   "cloves",
+   "earth"
+  ],
+  "about": "A San Andres-wrapped line made at Rocky Patel's Nicaraguan factory, with part of the proceeds going to The Juneteenth Foundation. The name refers to June 19, 1865.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-the-1865-project-toro/421700/",
+   "https://www.cigarsdirect.com/products/rocky-patel-juneteenth-1865-project-toro",
+   "https://www.cigarplace.biz/rocky-patel-the-1865-project-toro.html"
+  ],
+  "notes": "A portion of sales goes to The Juneteenth Foundation. halfwheel's review found it medium in strength, while Cigars Direct, Mike's Cigars and Cigar Place list it medium-full. Cigars Direct lists the Toro at 6 x 52, but halfwheel and Cigar Place give 6 1/2 x 52.",
+  "verified": true,
+  "verifyNotes": "No field changes. Swapped the halfwheel shipping story for a Cigar Place page and expanded the note: three retailers list medium-full against halfwheel's medium."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Catch 22 Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "cocoa"
+  ],
+  "about": "The Connecticut-wrapped version of Rocky Patel's value-priced Catch 22 line, made in Honduras. It was introduced at the 2016 IPCPR trade show.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-rocky-patel-premium-cigars/127896/",
+   "https://www.neptunecigar.com/cigar/rocky-patel-catch-22-connecticut",
+   "https://www.cigarsdirect.com/products/rocky-patel-catch-twenty-two-connecticut-double-corona"
+  ],
+  "notes": "The binder and filler are undisclosed. Neptune describes it as mild, while Cigars Direct, Mike's Cigars and Cigar Place all list it as medium.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Mild to Medium: three of the four retailers checked list medium and only Neptune says mild."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "USA Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Super Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "espresso",
+   "cocoa"
+  ],
+  "about": "A medium-strength Rocky Patel line with a Connecticut Broadleaf maduro wrapper over a Nicaraguan binder and Honduran and Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/rocky-patel-broadleaf",
+   "https://www.cigarsdirect.com/products/rocky-patel-broadleaf-toro",
+   "https://www.cigarplace.biz/rocky-patel-broadleaf-toro.html"
+  ],
+  "notes": "Neptune and Cigar Place say it is made in Honduras with Honduran and Nicaraguan filler, while Cigars Direct says Nicaragua with Nicaraguan filler. Cigar Place lists a Honduran binder; the other two say Nicaraguan. No factory or release year is published.",
+  "verified": true,
+  "verifyNotes": "Honduras and the Honduran and Nicaraguan filler now have a second retailer (Cigar Place) behind them. Added the Torpedo size listed by Cigar Place. Removed an unsupported 'lesser-known line' sentence from about."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Flor de San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "spice",
+   "leather"
+  ],
+  "about": "A medium-strength Rocky Patel line with a Mexican San Andres maduro wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/rocky-patel-flor-de-san-andres",
+   "https://www.cigarsdirect.com/products/rocky-patel-flor-de-san-andres-toro"
+  ],
+  "notes": "Retailers disagree on where it is rolled: Neptune says Honduras, Cigars Direct says Nicaragua. No factory or release year is published.",
+  "verified": true,
+  "verifyNotes": "Blend, strength and sizes confirmed. Country is disputed between the two retailers (Neptune Honduras, Cigars Direct Nicaragua) and I could not open a third. Removed an unsupported 'lesser-known line' sentence from about."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Flor de San Andres Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweetness"
+  ],
+  "about": "A companion to Rocky Patel's Flor de San Andres with a dark Mexican San Andres maduro wrapper over Nicaraguan binder and filler. It is made in Honduras.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/rocky-patel-flor-de-san-andres-black",
+   "https://www.cigarsdirect.com/products/rocky-patel-flor-de-san-andres-black-toro",
+   "https://www.cigarsdirect.com/collections/rocky-patel-flor-de-san-andres-black"
+  ],
+  "notes": "Cigars Direct calls it a stronger, box-pressed follow-up to Flor de San Andres, though its spec table and Neptune both rate it medium. Also sold as a 52-ring Toro and Torpedo, but Cigars Direct gives their length as both 6 1/4 and 6 1/2 inches. No factory or release year is published.",
+  "verified": true,
+  "verifyNotes": "Removed the Toro and Torpedo from sizes: Cigars Direct shows 6.25 in its spec table and 6.50 in its description for both, and no second source lists them. Rewrote the note, which wrongly said sources do not say how the Black differs."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Royal Vintage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "espresso",
+   "earth"
+  ],
+  "about": "A medium-strength Honduran-made Rocky Patel with an Ecuadorian Sumatra-seed wrapper and a Honduran binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/rocky-patel-royal-vintage",
+   "https://www.cigarsdirect.com/products/rocky-patel-royal-vintage-robusto"
+  ],
+  "notes": "Neptune rates it medium and lists Nicaraguan and Honduran filler, while Cigars Direct rates it medium-full and lists Nicaraguan filler only. Also sold in Churchill and Torpedo.",
+  "verified": true,
+  "verifyNotes": "No field changes. Added the strength disagreement to the note (Neptune medium, Cigars Direct medium-full) and removed an unsupported 'lesser-known line' sentence from about."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "HR500 by Gary Sheffield",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Ecuadorian Habano-seed",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Jamastran)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "coffee"
+  ],
+  "about": "A single toro blended to mark baseball player Gary Sheffield's 500th home run. It comes in a box made to look and feel like a baseball.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/press-release-rocky-patel-hr500-honor-gary-sheffield/29702/",
+   "https://halfwheel.com/ipcpr-2012-rocky-patel/30676/",
+   "https://www.cigarsdirect.com/products/rocky-patel-hr500-by-gary-sheffield-toro"
+  ],
+  "notes": "Rocky Patel called it a limited special edition at its 2012 launch, but it is still sold by retailers today. HR500 stands for Homerun 500.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "American Market Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "white pepper",
+   "spice"
+  ],
+  "about": "A mild Connecticut-wrapped Rocky Patel made in Honduras and sold through Famous Smoke Shop. It is often shortened to AMS.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brands/rocky-patel-cigars/rocky-patel-american-market",
+   "https://www.famous-smoke.com/rocky-patel-american-market-selection-toro-cigars-natural",
+   "https://www.neptunecigar.com/cigar/rocky-patel-american-market-selection"
+  ],
+  "notes": "Famous's spec table and Neptune both call it mild, though Famous's description also says mellow to medium. The Nicaraguan binder comes from Neptune; Famous does not list one. A cheaper Fumas bundle version is also sold.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Mild-Medium to Mild (Famous spec table and Neptune agree). Filled binder as Nicaragua from Neptune, which the researcher had as unpublished."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Honduran Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "caramel",
+   "leather",
+   "coffee",
+   "pepper"
+  ],
+  "about": "A value-priced, box-pressed Rocky Patel made in Honduras with Honduran and Nicaraguan long filler, sold through Famous Smoke Shop.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-rocky-patel-honduran-classic",
+   "https://www.famous-smoke.com/rocky-patel-honduran-classic-toro-cigars-natural"
+  ],
+  "notes": "Famous says the line comes in Corojo or Maduro wrappers, but only the Nicaraguan Corojo version is listed now. The binder is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Nicaraguan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cream"
+  ],
+  "about": "A value-priced Rocky Patel in big ring gauges with a Nicaraguan Habano wrapper over Nicaraguan filler, sold through Famous Smoke Shop.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-rocky-patel-nicaraguan",
+   "https://www.famous-smoke.com/rocky-patel-nicaraguan-toro-cigars-natural"
+  ],
+  "notes": "Despite the name, Famous lists the country of origin as Honduras. The binder is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (reddish rosado shade)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "nuts",
+   "cinnamon",
+   "cream"
+  ],
+  "about": "A Rocky Patel line named for its reddish Ecuadorian Sumatra wrapper, sold by Famous Smoke Shop as an exclusive. It is made in Honduras with Dominican and Nicaraguan long filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brands/rocky-patel-cigars/rocky-patel-rosado",
+   "https://www.famous-smoke.com/rocky-patel-rosado-toro-cigars-natural",
+   "https://www.neptunecigar.com/cigar/rocky-patel-rosado"
+  ],
+  "notes": "Famous calls it an exclusive. Rosado describes the reddish color; the leaf itself is Ecuadorian Sumatra. The Dominican binder comes from Neptune; Famous does not list one. A cheaper Rosado Fumas bundle version is also sold.",
+  "verified": true,
+  "verifyNotes": "Filled binder as Dominican Republic from Neptune, which the researcher had as unpublished. Everything else confirmed on Famous."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A full-strength Rocky Patel with a thick Mexican San Andres maduro wrapper over a core of Nicaraguan tobacco, sold through Famous Smoke Shop as RP San Andres.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-rocky-patel-san-andres",
+   "https://www.famous-smoke.com/rp-san-andres-toro-cigars-maduro"
+  ],
+  "notes": "Listed at Famous as RP San Andres. The binder is not published and no tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Xtreme",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Sumatra Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "espresso",
+   "pepper",
+   "sweetness"
+  ],
+  "about": "A value-priced Rocky Patel sold through Famous Smoke Shop, with a reddish Ecuadorian Sumatra wrapper, a Honduran binder and Nicaraguan and Honduran filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-rocky-patel-xtreme",
+   "https://www.famous-smoke.com/rocky-patel-xtreme-toro-cigars-natural"
+  ],
+  "notes": "Famous's spec table says full strength, but its description says medium-bodied and medium to full in strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Ocean Club",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cream",
+   "earth",
+   "spice"
+  ],
+  "about": "A medium-bodied Honduran-made Rocky Patel sold through Holt's, with a Nicaraguan wrapper, Mexican binder and Dominican and Nicaraguan long filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/rocky-patel-ocean-club.html"
+  ],
+  "notes": "Sold through Holt's. Holt's gives the wrapper only as Nicaraguan, with no leaf type.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Velvet Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "nuts",
+   "oak",
+   "coffee"
+  ],
+  "about": "A Connecticut-wrapped Rocky Patel sold through Holt's, made in Honduras with aged Nicaraguan tobacco.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/rocky-patel-velvet-edition.html"
+  ],
+  "notes": "Sold through Holt's, which rates it medium. The binder is not published.",
+  "verified": true,
+  "verifyNotes": "No field changes. Dropped the word 'smooth' from about."
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Mulligans",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Hook",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Slice",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Fat Shot",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Shank (Torpedo)",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Whiff",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "toast",
+   "cedar",
+   "leather",
+   "spice"
+  ],
+  "about": "A golf-themed bundle line made by Rocky Patel for Holt's. Holt's says the blend was modeled on the Rocky Patel Decade and that it bought the entire production.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/rocky-patel-mulligans.html"
+  ],
+  "notes": "Holt's exclusive, sold in bundles of 20. Holt's does not publish the binder, filler or country. Several spin-off Mulligans blends exist, such as Eagle Reserve and Fairway Edition.",
+  "verified": true,
+  "verifyNotes": "Wrapper and strength confirmed on Holt's. Holt's is the only seller and its page gives no country, binder or filler, so those stay null."
+ }
+]

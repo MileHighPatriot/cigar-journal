@@ -1,0 +1,560 @@
+[
+ {
+  "brand": "Blackbird",
+  "line": "Unkind",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Criollo 98, Habano, Corojo, Pennsylvania (USA)",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Doble Toro",
+    "length": 7,
+    "ring": 60
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "One of Blackbird Cigar Co.'s core lines, a medium-bodied Dominican cigar with a dark Cuban-seed Brazilian wrapper. It is made at the company's own factory in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://blackbirdcigar.com/cigars/unkind/",
+   "https://www.neptunecigar.com/cigar/blackbird-unkind",
+   "https://www.cigarsdirect.com/products/blackbird-unkind-corona"
+  ],
+  "notes": "The maker lists the filler only by leaf type (Criollo 98, HBA, Corojo, Pennsylvania), not by country. The maker's page shows three sizes; the Corona is in retailer listings. Neptune calls the wrapper a Brazilian maduro and rates it medium; Atlantic Cigar rates it medium-full.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory, strength and all four sizes confirmed. Replaced the Cigars Direct collection link (first page does not show Unkind) with the Unkind Corona product page that states 6 x 44. Added Atlantic's medium-full rating to notes."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Jackdaw",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, USA, Corojo",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "white pepper"
+  ],
+  "about": "Blackbird's Connecticut-wrapped core line and one of the lightest blends in its portfolio. It debuted at the 2019 IPCPR trade show and is made at the company's Dominican factory.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://blackbirdcigar.com/cigars/jackdaw/",
+   "https://halfwheel.com/ipcpr-2019-blackbird-cigar-co/363655/",
+   "https://www.neptunecigar.com/cigar/blackbird-jackdaw"
+  ],
+  "notes": "The maker spells it JackDaw and calls it mild to medium bodied; Neptune lists it as mild. The maker lists Corojo 99, USA and Dominican filler, while halfwheel's 2019 listing gave Dominican, USA and Nicaraguan. The Corona (6 x 44) is listed by Cigars Direct and Smokingpipes, not by the maker.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed. Notes now name the retailers that list the Corona, since none of the three listed sources shows it."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Superb",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Box Pressed",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "earth",
+   "chocolate",
+   "cream"
+  ],
+  "about": "A core line introduced in 2024 and the first regular Blackbird cigar with a habano wrapper. It is made at the company's Dominican factory, and a box-pressed toro and a lancero were added in 2025.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/blackbird-superb-robusto-gordo/439102/",
+   "https://www.neptunecigar.com/cigar/blackbird-superb",
+   "https://cigar-coop.com/2025/03/blackbird-cigars-adding-two-new-sizes-to-superb-line-cigar-news.html"
+  ],
+  "notes": "The binder and filler are undisclosed. Retailers describe the wrapper as an Ecuadorian Habano maduro; halfwheel lists it simply as Ecuadorian habano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Cactus Wren",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Cuban-seed)",
+  "filler": "Corojo, Criollo 98, Olor Ligero",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "sweet",
+   "wood",
+   "nuts",
+   "pepper"
+  ],
+  "about": "A San Andres maduro-wrapped Blackbird cigar named after Arizona's state bird. Retailers describe it as a short-run, limited release made at the company's factory in the Dominican Republic.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigars/blackbird-cactus-wren-toro",
+   "https://www.cigarsdirect.com/products/blackbird-cactus-wren-robusto",
+   "https://www.smokingpipes.com/cigars/blackbird-cigars/moreinfo.cfm?product_id=602122"
+  ],
+  "notes": "Retailers call this a short-run or limited-edition cigar, so supply can be spotty. The filler is published only by leaf type, not by country. Neptune calls it medium bodied; Smokingpipes says medium-full bodied.",
+  "verified": true,
+  "verifyNotes": "Changed production from regular to limited: Neptune calls it a short run cigar and Smokingpipes a limited edition. Replaced flavors taken from customer review tags with the words in Neptune's own description. Swapped sources for the product pages that state the short run and the 5 x 50 Robusto. Maker site has no page for this line."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Meadowlark",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A single-size toro with a Brazilian Arapiraca wrapper, shown at the 2025 PCA trade show as part of Blackbird's limited Short Run Line. It is made at the company's factory in the Dominican Republic.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://cigar-coop.com/2025/03/blackbird-cigars-to-introduce-meadowlark-cigar-news.html",
+   "https://www.neptunecigar.com/cigar/blackbird-meadowlark",
+   "https://atlanticcigar.com/blackbird-meadowlark-toro-6x52/"
+  ],
+  "notes": "The binder and filler are undisclosed. It was announced as a limited Short Run Line release with an initial run of 500 boxes of 20. Neptune rates it medium; Atlantic Cigar rates it medium-full.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed. Trimmed the stock remark from notes and added the retailer strength disagreement with an Atlantic source."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Nest Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Doble Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Presidente",
+    "length": 8,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "coffee",
+   "cream"
+  ],
+  "about": "The Connecticut Shade version of Blackbird's value-priced Nest line, sold in bundles of 25. It is a mild to medium cigar made at the company's Dominican factory.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/blackbird-nest-connecticut",
+   "https://cigarsdaily.com/product/blackbird-nest-connecticut-toro-6x50/",
+   "https://atlanticcigar.com/blackbird-nest-connecticut-presidente-8x52/"
+  ],
+  "notes": "Nest is Blackbird's bundle line, in Connecticut and Maduro versions. Neptune rates it mild; Atlantic and Cigars Daily say mild to medium. Atlantic lists an Indonesian binder and mixed filler; Neptune and Cigars Daily list a Dominican binder.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Mild to Mild-Medium: two of three retailers (Atlantic, Cigars Daily) say mild to medium and only Neptune says mild; the maker site has no Nest page. Added the 8 x 52 Presidente listed by Atlantic. Added two cross-check sources and noted the binder disagreement."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Nest Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, USA (Pennsylvania), Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Presidente",
+    "length": 8,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "espresso",
+   "chocolate"
+  ],
+  "about": "The San Andres maduro version of Blackbird's value-priced Nest line, sold in bundles of 25. It is a medium-strength cigar made at the company's Dominican factory.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/blackbird-nest-maduro",
+   "https://cigarsdaily.com/product/blackbird-nest-maduro-toro-6x50/",
+   "https://atlanticcigar.com/blackbird-nest-maduro-presidente-8x52/"
+  ],
+  "notes": "Nest is Blackbird's bundle line, in Connecticut and Maduro versions. Neptune and Cigars Daily rate it medium; Atlantic says medium-full. Atlantic lists an Indonesian binder and mixed filler; Neptune and Cigars Daily list a Dominican binder.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory and Medium strength confirmed on Neptune and Cigars Daily. Added the 8 x 52 Presidente listed by Atlantic, two cross-check sources, and the retailer disagreements on strength and binder. Maker site has no Nest page."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "GLITCH Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut-wrapped blend in Blackbird's value-priced GLITCH line, which shipped in June 2023. The line grew out of a factory mix-up in which mislabeled tobacco produced a blend the team decided to keep.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-blackbird-cigar-co/427479/",
+   "https://atlanticcigar.com/blackbird-glitch-connecticut-toro-6x52/",
+   "https://www.smokingpipes.com/cigars/blackbird-cigars/moreinfo.cfm?product_id=541795"
+  ],
+  "notes": "One of three GLITCH blends (Claro, Habano, Oscuro) that share the same two sizes. The maker publishes no strength: Atlantic Cigar rates it mild and Smokingpipes 3 out of 5. Atlantic sells it as GLITCH Connecticut and lists a Dominican binder; halfwheel reports Mexican.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, release and regular production confirmed on halfwheel. Strength left null because the maker site has no GLITCH page and the two retailers disagree. Removed the stock remark from notes and replaced two sources with the retailer pages used for the strength check."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "GLITCH Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The habano-wrapped blend in Blackbird's value-priced GLITCH line, which shipped in June 2023. It uses the same binder and filler as the Claro with an Ecuadorian habano wrapper.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-blackbird-cigar-co/427479/",
+   "https://atlanticcigar.com/blackbird-glitch-natural-toro-6x52/",
+   "https://www.smokingpipes.com/cigars/blackbird-cigars/moreinfo.cfm?product_id=541798"
+  ],
+  "notes": "One of three GLITCH blends (Claro, Habano, Oscuro) that share the same two sizes. Strength comes from retailer listings (Atlantic Cigar, Smokingpipes), not the maker. Atlantic sells it as GLITCH Natural and lists a Dominican binder; halfwheel reports Mexican.",
+  "verified": true,
+  "verifyNotes": "Set strength to Medium (was null): Atlantic lists Medium and Smokingpipes 3 of 5; the maker site has no GLITCH page. Blend, sizes, release and regular production confirmed on halfwheel. Removed the stock remark and replaced two sources with the retailer pages."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "GLITCH Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The San Andres-wrapped blend in Blackbird's value-priced GLITCH line, which shipped in June 2023. Unlike the other two GLITCH blends, it uses a Dominican binder instead of a Mexican one.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-blackbird-cigar-co/427479/",
+   "https://atlanticcigar.com/blackbird-glitch-maduro-toro-6x52/",
+   "https://www.smokingpipes.com/cigars/blackbird-cigars/moreinfo.cfm?product_id=541800"
+  ],
+  "notes": "One of three GLITCH blends (Claro, Habano, Oscuro) that share the same two sizes. Strength comes from retailer listings (Atlantic Cigar, Smokingpipes), not the maker. Atlantic sells it as GLITCH Maduro.",
+  "verified": true,
+  "verifyNotes": "Set strength to Medium (was null): Atlantic lists Medium and Smokingpipes 3 of 5; the maker site has no GLITCH page. Blend, sizes, release and regular production confirmed on halfwheel. Removed the stock remark and replaced two sources with the retailer pages."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Pura Raza de Quisqueya",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Robles",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "hay",
+   "oak",
+   "toasted bread",
+   "white pepper",
+   "honey",
+   "leather"
+  ],
+  "about": "A box-pressed toro released in April 2026 as the first of three cigars marking Blackbird's 10th anniversary. It honors the company's master blender, known as Papo \"El Caballo\", and is planned as an annual limited release.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/blackbird-pura-raza-de-quisqueya/476651/",
+   "https://halfwheel.com/blackbird-cigar-co-kicks-off-10th-anniversary-celebration-with-pura-raza-de-quisqueya/467233/"
+  ],
+  "notes": "The binder and filler are undisclosed, and the 2026 run is 500 boxes of 10 at $16 per cigar. The company calls it mild to medium bodied; halfwheel found the strength reached medium by the end. halfwheel names the factory as Tabacalera Robles in Tamboril, the company's own factory.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed against the halfwheel review and news story. Added a line explaining the Tabacalera Robles factory name, since retailers list Blackbird Dominicana."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Macaw",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian (Cuban-seed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (Corojo, Criollo 98, Piloto Cubano), USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Gordo (box-pressed)",
+    "length": 5.125,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "white pepper",
+   "cream",
+   "coffee",
+   "black pepper",
+   "citrus"
+  ],
+  "about": "Blackbird's first limited edition, a box-pressed robusto gordo that shipped in August 2021 after being announced as the \"Unknown Limited Edition\". The company says it uses the best versions of tobaccos found in its other blends.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/blackbird-macaw/401581/",
+   "https://halfwheel.com/blackbird-cigar-co-ships-macaw/400105/"
+  ],
+  "notes": "Limited to 500 boxes of 14 (7,000 cigars) in one size. The wrapper is a Cuban-seed Brazilian leaf similar to the one on Unkind and Cuco. Strength and body are halfwheel's review ratings, not the maker's.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Hawk",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Brazil",
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed 6 x 54 toro made by Blackbird as a collaboration with The Cigar Culture, shipped in November 2021. It was the second cigar in The Cigar Culture's series.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/the-cigar-culture-and-blackbird-cigar-co-partner-for-new-cigar/402212/",
+   "https://www.neptunecigar.com/cigar/blackbird-hawk-cigar-culture",
+   "https://cigar-coop.com/2021/11/cigar-news-the-cigar-culture-and-blackbord-cigar-company-to-release-hawk.html"
+  ],
+  "notes": "This is a collaboration release for The Cigar Culture, made by Blackbird; Neptune sells it as Blackbird Hawk Cigar Culture. Limited to 600 boxes of 14 in one size. Neptune lists the wrapper shade as natural.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

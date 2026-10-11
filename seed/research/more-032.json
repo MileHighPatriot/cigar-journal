@@ -1,0 +1,818 @@
+[
+ {
+  "brand": "Fratello",
+  "line": "Arlequin",
+  "found": true,
+  "officialName": "Arlequín",
+  "wrapperLeaf": "Mexican San Andrés maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Peru",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "baking spice",
+   "wood",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A box-pressed San Andrés-wrapped line made for Fratello at Joya de Nicaragua. It first appeared in a 2019 sampler and became a regular line in 2020 after smokers picked it over the Sorella blend.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/fratello-arlequin",
+   "https://halfwheel.com/fratello-arlequin-corona-gorda-scheduled-for-june-release/419597/",
+   "https://halfwheel.com/fratello-arlequin-prensado-toro-2/424407/"
+  ],
+  "notes": "The sizes are box-pressed and were launched under the name Prensado. halfwheel lists the Toro at 6 1/2 x 54, Neptune at 6 1/4 x 54. Neptune rates it medium in strength and calls it medium to full bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Arlequin Connecticut",
+  "found": true,
+  "officialName": "Arlequín Connecticut",
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Peru",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "sweetness",
+   "floral"
+  ],
+  "about": "The Connecticut-wrapped version of the Arlequín, made at Joya de Nicaragua. It keeps the same Ecuadorian binder and Nicaraguan and Peruvian fillers under a lighter Ecuadorian wrapper.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-arlequin-connecticut-heads-to-stores/438736/",
+   "https://www.neptunecigar.com/cigar/fratello-edizione-di-carnevale"
+  ],
+  "notes": "Strength and flavor notes come from Neptune, which calls it mild to medium bodied. A 7 x 50 Churchill is sold only in the mixed Edizione di Carnevale box.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Navetta Inverso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.875,
+    "ring": 46
+   },
+   {
+    "name": "Boxer",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "sweetness"
+  ],
+  "about": "A space-themed line from Fratello that flips the make-up of the original Navetta, putting a Nicaraguan wrapper over an Ecuadorian binder. It is made at Joya de Nicaragua.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/fratello-navetta-inverso",
+   "https://halfwheel.com/fratello-navetta-inverso-boxer-shipping-in-july/336370/",
+   "https://halfwheel.com/fratello-dropping-four-cigars-from-its-portfolio/423298/"
+  ],
+  "notes": "Fratello ended production of the Corona Gorda size in May 2023, though some retailers still have it. The Boxer is a box-pressed torpedo added in 2019.",
+  "verified": true,
+  "verifyNotes": "Swapped the 2018 announcement link for halfwheel's Boxer article, since no listed source covered the Boxer size. Flavors checked against halfwheel's review at https://halfwheel.com/fratello-navetta-inverso-corona-gorda/289698/."
+ },
+ {
+  "brand": "Fratello",
+  "line": "The Texan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra",
+  "filler": "Dominican Republic (Piloto Cubano ligero, andullo), Nicaragua (Estelí ligero), USA (Pennsylvania ligero)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Texan",
+    "length": 7.125,
+    "ring": 58
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A large, ligero-heavy cigar made for Fratello at La Aurora. It launched in 2019 as a Texas-only release and went nationwide in 2021.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-creates-texas-exclusive/361421/",
+   "https://halfwheel.com/fratello-the-texan-toro-boxes-begin-shipping/428374/",
+   "https://www.neptunecigar.com/cigar/fratello-the-texan"
+  ],
+  "notes": "Sources disagree on strength: founder Omar de Frias described it as full bodied at launch, while Neptune lists it as medium. The Toro was sampler-only until boxes shipped in 2023.",
+  "verified": true,
+  "verifyNotes": "Cleared flavors: no maker description or published tasting notes found, only customer comments on Neptune. Strength kept as Full from the founder's 'full body' quote; Neptune says medium."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Sorella",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro (international)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Joya de Nicaragua-made blend that debuted alongside the Arlequín in a 2019 sampler. It was kept for markets outside the U.S. from 2020 until the 6 x 50 Toro returned to American stores in 2023.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-sorella-toro-returning-to-u-s-shelves/424604/",
+   "https://halfwheel.com/fratello-sorella-gets-full-release-in-october/379877/",
+   "https://halfwheel.com/pca-2023-fratello/424612/"
+  ],
+  "notes": "Only the 6 x 50 Toro is sold in the U.S. The Robusto and the 6 1/2 x 54 Toro are international sizes. No published strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country, factory and sizes confirmed on halfwheel. Strength could not be confirmed: no source gives one and the maker's site would not load. Notes reworded."
+ },
+ {
+  "brand": "Fratello",
+  "line": "1821 Dominican Republic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cream",
+   "black pepper",
+   "cedar",
+   "earth",
+   "charred wood"
+  ],
+  "about": "A Dominican puro made at La Aurora and the first release in Fratello's Puro Collection of single-country cigars. The name marks the year the Dominican Republic gained independence from Spain.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-1821-dominican-republic/471079/",
+   "https://halfwheel.com/fratello-begins-shipping-1821-dominican-republic/463116/",
+   "https://www.neptunecigar.com/cigar/fratello-puro-collection"
+  ],
+  "notes": "Fratello calls it medium to full bodied, while Neptune lists it as medium and halfwheel's reviewer found it milder. Shown at PCA 2025 but first shipped in February 2026, in batches of 3,000 cigars. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences and the halfwheel review's milder strength reading added."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Bianco Nero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Riserva",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "chocolate",
+   "cream",
+   "wood"
+  ],
+  "about": "A reworked take on Fratello's Bianco line with a new binder and filler under the same San Andrés wrapper. It is made at Joya de Nicaragua in one box-pressed perfecto size.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-bianco-nero-begins-shipping/445551/",
+   "https://halfwheel.com/fratello-bianco-nero-riserva/451552/",
+   "https://www.neptunecigar.com/cigar/fratello-bianco-nero"
+  ],
+  "notes": "Limited to 500 boxes of 10, with 400 for the U.S. The only size is the Riserva, a 6 x 58 box-pressed perfecto.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Vice Versa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice"
+  ],
+  "about": "A Churchill capped at both ends and blended to be smoked from either one, starting milder from one end and stronger from the other. It was made at La Aurora as a one-time release.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratellos-viceversa-shipping-next-week/419952/",
+   "https://www.neptunecigar.com/cigar/fratello-vice-versa",
+   "https://halfwheel.com/fratello-smooth-and-strong-ships/473329/"
+  ],
+  "notes": "Fratello styles the name ViceVersa. One-time release of 2,000 packs of 12, followed in 2026 by Smooth and Strong. Neptune lists it as full, but the strength depends on which end is lit.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Smooth and Strong",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The follow-up to Vice Versa: a double-capped Churchill made at La Aurora that can be smoked from either end, with a milder end and a stronger end.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-smooth-and-strong-ships/473329/",
+   "https://halfwheel.com/pca-2026-fratello/463982/",
+   "https://www.neptunecigar.com/cigar/fratello-smooth-and-strong"
+  ],
+  "notes": "12,000 cigars were made for 2026, sold in six-packs, and Fratello says it plans to release it annually. No single strength is published because it depends on which end is lit. The darker cap marks the stronger end.",
+  "verified": false,
+  "verifyNotes": "Cleared flavors: none are published on the listed pages. Blend, country, factory and size confirmed. Strength left null: Neptune shows N/A and the maker's site would not load to confirm."
+ },
+ {
+  "brand": "Fratello",
+  "line": "USA 250",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "USA (Pennsylvania)",
+  "filler": "Dominican Republic, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "oak",
+   "black pepper",
+   "dark chocolate",
+   "leather",
+   "raisin"
+  ],
+  "about": "A limited toro made at Joya de Nicaragua for the 250th anniversary of the United States. It comes in boxes of 13 as a nod to the original colonies.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-usa-250/481152/",
+   "https://halfwheel.com/fratello-usa-250-ships/472925/",
+   "https://www.neptunecigar.com/cigar/fratello-usa-250th"
+  ],
+  "notes": "Limited to 250 boxes of 13 (3,250 cigars). Neptune's spec table lists a Connecticut Broadleaf binder and Nicaraguan and Pennsylvania filler, while halfwheel lists a Pennsylvania binder and Dominican and Pennsylvania filler. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper changed from 'Nicaraguan Jalapa Habano' to 'Nicaraguan' and category set to null: neither halfwheel nor Neptune names Jalapa or habano. Body changed from Medium-Full to Medium per halfwheel's review. Notes corrected."
+ },
+ {
+  "brand": "Fratello",
+  "line": "The Lunar Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, Nicaragua, Cameroon-seed tobacco",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "One of three moon-themed cigars made at La Aurora to mark the Fratello logo riding on Intuitive Machines' Nova-C lunar lander. This one wears an Ecuadorian Connecticut wrapper.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-fratello/424612/",
+   "https://halfwheel.com/fratello-ships-the-lunar-today/428864/",
+   "https://www.neptunecigar.com/cigar/fratello-lunar"
+  ],
+  "notes": "Sources disagree on the filler: halfwheel lists Dominican, Nicaraguan and Cameroon-seed leaf, while Neptune lists Nicaragua and USA. It was announced as limited, but halfwheel later listed it as regular production.",
+  "verified": true,
+  "verifyNotes": "Cleared flavors: only customer comments on Neptune, no published tasting notes. Notes tightened."
+ },
+ {
+  "brand": "Fratello",
+  "line": "The Lunar Cameroon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian-grown Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, USA",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "leather",
+   "cedar",
+   "honey",
+   "cream",
+   "white pepper"
+  ],
+  "about": "One of three moon-themed cigars made at La Aurora to mark the Fratello logo riding on Intuitive Machines' Nova-C lunar lander. This one uses a Cameroon-seed wrapper.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-the-lunar-cameroon/432583/",
+   "https://halfwheel.com/pca-2023-fratello/424612/",
+   "https://www.neptunecigar.com/cigar/fratello-lunar"
+  ],
+  "notes": "halfwheel's news coverage says the Cameroon wrapper is grown in Ecuador, while its review and Neptune simply say Cameroon. The U.S. filler leaf is listed in some sources and left out in others. It was announced as limited, but halfwheel later listed it as regular production.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "The Lunar Limited Edition",
+  "found": true,
+  "officialName": "The Lunar Limited Edition Humidor",
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The limited cigar in the Lunar trio, a Dominican puro made at La Aurora with tobaccos aged six years. It was sold in an 18-count humidor shaped like the Nova-C lunar lander.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2023-fratello/424612/",
+   "https://halfwheel.com/fratello-ships-the-lunar-today/428864/",
+   "https://www.neptunecigar.com/cigar/fratello-lunar"
+  ],
+  "notes": "Sources disagree on the size: halfwheel lists a 6 x 50 toro, while Neptune lists a 6 1/2 x 50/60 figurado. 200 humidors of 18 were made, with 175 offered for sale. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Cleared flavors: only customer comments on Neptune. Production note corrected to 200 humidors made and 175 sold. Reworded 'top cigar' in about."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Camo Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (origin not disclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "pepper",
+   "spice"
+  ],
+  "about": "The maduro-wrapped cigar in Fratello's value-priced Camo bundle line, made at La Aurora. It wears the blue camouflage band.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/fratello-camo-blue",
+   "https://halfwheel.com/fratello-ships-camo-bundles/377304/"
+  ],
+  "notes": "Also written Blu. Fratello does not officially disclose the Camo blends beyond the wrapper type. The binder and filler shown here come from Neptune.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Camo Rosso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin not disclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper"
+  ],
+  "about": "The habano-wrapped cigar in Fratello's value-priced Camo bundle line, made at La Aurora. It wears the red camouflage band.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/fratello-camo-rosso",
+   "https://halfwheel.com/fratello-ships-camo-bundles/377304/"
+  ],
+  "notes": "Fratello does not officially disclose the Camo blends beyond the wrapper type. The binder and filler shown here come from Neptune.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Camo Verde",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "pepper"
+  ],
+  "about": "The Connecticut-wrapped cigar in Fratello's value-priced Camo bundle line, made at La Aurora. It wears the green camouflage band.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/fratello-camo-verde",
+   "https://halfwheel.com/fratello-ships-camo-bundles/377304/"
+  ],
+  "notes": "Fratello only confirms a Connecticut wrapper. The Ecuadorian origin, binder and filler come from Neptune.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Camo Sweet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut with a sweetened tip (origin not disclosed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweetness"
+  ],
+  "about": "Fratello's first flavored cigar, a sweet-tipped addition to the Camo bundle line made at La Aurora.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/fratello-camo-sweet",
+   "https://halfwheel.com/fratello-camo-sweet-begins-shipping/402025/",
+   "https://halfwheel.com/fratello-camo-nicaragua-debuting-at-tpe-2023/420245/"
+  ],
+  "notes": "The blend is not disclosed. halfwheel lists it among the Camo blends as Connecticut Sweet, and it has a sweetened tip.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel article that names the blend Connecticut Sweet, since the two listed pages do not state the wrapper. Notes reworded to match."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Camo Nicaragua Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut (origin not disclosed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Estelí Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan-made version of the Camo Connecticut bundle cigar, rolled at Karen Berger's Estelí Cigars factory in two larger sizes. The original Camo sizes are still made at La Aurora in the Dominican Republic.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-camo-nicaragua-bundles-begin-shipping/427937/",
+   "https://halfwheel.com/fratello-camo-nicaragua-debuting-at-tpe-2023/420245/"
+  ],
+  "notes": "Fratello does not disclose the blend, so only the wrapper type is known. The founder says the Nicaraguan blends are close to the Dominican Camo versions but not identical. No strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Wrapper type, country, factory, sizes and year confirmed on halfwheel. Strength could not be confirmed: no source gives one and the maker's site would not load."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Camo Nicaragua Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin not disclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Estelí Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan-made version of the Camo Habano bundle cigar, rolled at Karen Berger's Estelí Cigars factory in two larger sizes. The original Camo sizes are still made at La Aurora in the Dominican Republic.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-camo-nicaragua-bundles-begin-shipping/427937/",
+   "https://halfwheel.com/fratello-camo-nicaragua-debuting-at-tpe-2023/420245/"
+  ],
+  "notes": "Fratello does not disclose the blend, so only the wrapper type is known. The founder says the Nicaraguan blends are close to the Dominican Camo versions but not identical. No strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Wrapper type, country, factory, sizes and year confirmed on halfwheel. Strength could not be confirmed: no source gives one and the maker's site would not load."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Camo Nicaragua Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (origin not disclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Estelí Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan-made version of the Camo Maduro bundle cigar, rolled at Karen Berger's Estelí Cigars factory in two larger sizes. The original Camo sizes are still made at La Aurora in the Dominican Republic.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-camo-nicaragua-bundles-begin-shipping/427937/",
+   "https://halfwheel.com/fratello-camo-nicaragua-debuting-at-tpe-2023/420245/"
+  ],
+  "notes": "Fratello does not disclose the blend, so only the wrapper type is known. The founder says the Nicaraguan blends are close to the Dominican Camo versions but not identical. No strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Wrapper type, country, factory, sizes and year confirmed on halfwheel. Strength could not be confirmed: no source gives one and the maker's site would not load."
+ }
+]

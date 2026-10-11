@@ -1,0 +1,546 @@
+[
+ {
+  "brand": "RoMa Craft",
+  "line": "Intemperance WR 1794",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano hybrid (dark, high priming)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Besuki)",
+  "filler": "Nicaragua (criollo and corojo viso from Jalapa, ligero from Estelí), Dominican Republic (ligero from Peñuela)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Hamilton (Petite Corona)",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Jefferson (Short Robusto)",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Husband (Petite Gordo)",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "McFarlane (Short Perfecto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Bradford (Robusto Extra)",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Tully (Gran Toro)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "nuts",
+   "cocoa",
+   "dried fruit",
+   "espresso"
+  ],
+  "about": "The third Intemperance blend from RoMa Craft, named for the Whiskey Rebellion of 1794. It pairs a dark Ecuadorian Habano wrapper with an Indonesian Besuki binder and is rolled with the line's usual brushed foot.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://romacrafttobac.com/intemperance/wr-1794/",
+   "https://halfwheel.com/intemperance-whiskey-rebellion-1794-husband/395007/",
+   "https://www.neptunecigar.com/roma-craft-cigar"
+  ],
+  "notes": "WR stands for Whiskey Rebellion. It debuted in 2016 as a Famous Smoke Shop exclusive made with Cigar Dojo and went to other stores in 2019. Retailers list it as full; halfwheel's review found it closer to medium-full.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend and sizes match the maker's page; factory, 2016 debut and 2019 wider release match halfwheel; Neptune and Cigars Direct both list full. The maker's history page loosely dates the launch to 2014, but halfwheel's June 2016 launch report supports 2016."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Intemperance VO 1920",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra hybrid (maker: dark Ecuador Sumatra/Cameroon/Habano hybrid)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua (ligero from Condega, corojo seco from Jalapa, criollo viso from Pueblo Nuevo), Dominican Republic (corojo seco)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Izzy Einstein (Petite Corona)",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Belle Livingstone (Short Robusto)",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Blind Pig (Petite Gordo)",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Bill McCoy (Short Perfecto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "George Remus (Robusto Extra)",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Fiorello La Guardia (Gran Toro)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "nuts",
+   "black pepper",
+   "leather",
+   "bread"
+  ],
+  "about": "The fourth Intemperance blend from RoMa Craft, named for the Volstead Act that put Prohibition into law in 1920. It uses an Ecuadorian Sumatra hybrid wrapper over a Mexican San Andrés binder, with sizes named after Prohibition figures.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://romacrafttobac.com/intemperance/vo-1920/",
+   "https://halfwheel.com/intemperance-volstead-vo-1920-fiorello-la-guardia/452829/",
+   "https://www.neptunecigar.com/roma-craft-cigar"
+  ],
+  "notes": "VO stands for Volstead. The maker calls the wrapper a Sumatra/Cameroon/Habano hybrid; halfwheel and retailers shorten it to Ecuadorian Sumatra. Retailers list it as medium; halfwheel's review put strength at medium-plus.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend and sizes match the maker's page; factory, 2023 debut and body match halfwheel; Neptune and Cigars Direct both list medium."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Maestranza",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés (Spanish Market Selection)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Brazil",
+  "filler": "Nicaragua (criollo from Condega, Jalapa and Pueblo Nuevo), Dominican Republic (corojo)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Ciutadella Catalonia (Petite Robusto)",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Castillito Murcia (Gordo)",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Caballeria Valencia (Toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "bread",
+   "nuts",
+   "white pepper",
+   "cream",
+   "leather"
+  ],
+  "about": "A regular production RoMa Craft line sold only in the United States, named with a word the company translates as the people around you helping. It has a dark Mexican San Andrés wrapper over a Brazilian binder.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://romacrafttobac.com/maestranza/",
+   "https://halfwheel.com/maestranza-ciutadella-catalonia/445714/",
+   "https://www.neptunecigar.com/roma-craft-cigar"
+  ],
+  "notes": "U.S. only because Meerapfel also sells a cigar named Maestranza; it is the counterpart to the overseas Wunder|Lust. Neptune lists it as medium; Cigars Direct and halfwheel's review say medium-full. Halfwheel and retailers also list Honduran filler, which the maker's page does not.",
+  "verified": true,
+  "verifyNotes": "Removed Honduras from filler because the maker's page does not list it (halfwheel, Neptune and Cigars Direct do); kept the disagreement in notes. Reworded notes on the Meerapfel name clash. Strength checked: Neptune medium, Cigars Direct medium-full, halfwheel review medium-full to medium-plus."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "CroMagnon PA",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Pennsylvania Broadleaf Maduro (high priming)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Ecuador (Sumatra hybrid)",
+  "filler": "Nicaragua (Criollo 98 from Jalapa and Pueblo Nuevo), Dominican Republic (ligeros from La Canela and Santuario)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pestera Muierilor (Petite Corona)",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Knuckle Dragger (Petite Robusto)",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Mandible (Petite Gordo)",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Mode 5 (Short Perfecto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "EMH (Robusto Extra)",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Anthropology (Gran Corona)",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Cranium (Gran Toro)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "wood",
+   "red pepper",
+   "almond",
+   "earth"
+  ],
+  "about": "The reworked version of RoMa Craft's first blend, introduced in 2024 with a Pennsylvania broadleaf wrapper in place of the original Connecticut broadleaf. The binder and filler were changed too, and it comes in the same seven core sizes.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://romacrafttobac.com/cromagnon/cromagnon-pa/",
+   "https://halfwheel.com/roma-craft-tobac-ships-cromagnon-pa-blockhead-craft-maquette-foreign-domestic/448975/",
+   "https://www.holts.com/cigars/all-cigar-brands/cromagnon-pennsylvania.html"
+  ],
+  "notes": "Sold simply as CroMagnon; PA marks the Pennsylvania broadleaf blend that replaced the Connecticut broadleaf original. PA bands have white text, the old blend dark gray. Holt's lists it as medium-full, Neptune as full.",
+  "verified": true,
+  "verifyNotes": "Swapped one halfwheel source for the halfwheel report that states the binder is an Ecuadorian Sumatra hybrid (the maker's page gives no binder; the earlier source only said Sumatra hybrid). Band colors confirmed on halfwheel's March 2024 shipping report. Strength checked: Holt's and Cigars Direct medium-full, Neptune full."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "CRAFT",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "CRAFT 2026 (Gordo)",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "RoMa Craft's occasional showpiece release, started in 2013 to show off what the Nica Sueño rollers can do with patterned multi-leaf wrappers. It has no fixed blend, and each release is a different size and set of tobaccos.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://romacrafttobac.com/craft/",
+   "https://halfwheel.com/craft-2026-heads-to-stores/466260/",
+   "https://www.neptunecigar.com/cigars/roma-craft-craft-2026-5--60"
+  ],
+  "notes": "The blend is undisclosed and changes every release; this is a separate series from CRAFT Maquette. CRAFT 2026 is a 5 x 60 gordo with nine tobaccos from six countries, 2,000 boxes of 10, and every cigar in a box looks different. Neptune and Cigars Direct list the 2026 release as medium.",
+  "verified": true,
+  "verifyNotes": "No blend changes; notes cut to three sentences. Confirmed the maker and halfwheel say the blend is undisclosed; Neptune and Cigars Direct both list CRAFT 2026 as medium. Replaced the Neptune brand page with the CRAFT 2026 product page."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "CRAFT Maquette El Marinero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Dominican Republic (corojo from La Canela), Nicaragua (criollo from Condega, Estelí and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto (box-pressed)",
+    "length": 4.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "wood"
+  ],
+  "about": "A 2026 limited release in RoMa Craft's CRAFT Maquette series, sold in paper bundles of 10 with ribbons instead of bands. It is the company's first cigar to use tobacco from Ometepe and is named in honor of Estelí tobacco man Carlos Sanchez.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/craft-maquette-el-marinero-shipping-next-week/464455/",
+   "https://www.neptunecigar.com/cigars/roma-craft-maquette-el-marinero-43-4--54"
+  ],
+  "notes": "Limited to 1,000 bundles of 10. The blend became the basis for the Marinero bundle line. Neptune's spec lists it as full, though its description says medium to full.",
+  "verified": true,
+  "verifyNotes": "No blend changes. Replaced the Neptune brand page with the product page, which gives the full spec and the flavor words. Dropped the word regular from the note about the Marinero line. Strength comes from Neptune only."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "CRAFT Maquette Scuttlebutt",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Scuttlebutt",
+    "length": 4.875,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited release in RoMa Craft's CRAFT Maquette series, described as a lighter take on the Intemperance Whiskey Rebellion 1794 blend. It comes in paper bundles of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/craft-maquette-scuttlebutt-ships/476962/",
+   "https://halfwheel.com/pca-2026-roma-craft-tobac/466290/",
+   "https://www.neptunecigar.com/cigars/roma-craft-maquette-scuttlebutt-47-8--48"
+  ],
+  "notes": "The blend is undisclosed. Limited to 1,800 bundles of 10 (18,000 cigars). Neptune lists it as medium; no other strength rating was found.",
+  "verified": true,
+  "verifyNotes": "No field changes. Confirmed halfwheel says the blend is undisclosed and gives 4 7/8 x 48. Strength comes from Neptune only, now said in notes. Trimmed the note about the earlier 4 5/8 listing. Replaced the Neptune brand page with the product page."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "CRAFT Maquette Steel Porcupine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Steel Porcupine",
+    "length": 4.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "wood"
+  ],
+  "about": "A 2025 limited release in RoMa Craft's CRAFT Maquette series, a short, thick cigar with an Ecuadorian Connecticut wrapper over a Cameroon binder. It was sold in paper bundles of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/craft-maquette-steel-porcupine-shipping-next-week/453992/",
+   "https://www.neptunecigar.com/cigars/roma-craft-maquette-steel-porcupine-41-2--56"
+  ],
+  "notes": "Limited to 796 bundles of 10. Neptune lists it as medium; Cigars Direct lists it as mild-medium.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, size and 796 bundles match halfwheel; Neptune lists medium and Cigars Direct mild-medium. Replaced the Neptune brand page with the product page, which gives the flavor words."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "CRAFT Maquette Mon Cheri",
+  "found": true,
+  "officialName": "CRAFT Maquette Mon Chéri",
+  "wrapperLeaf": "Ecuadorian Connecticut with Ecuadorian Habano accents (barber pole)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí and Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "toast",
+   "cedar",
+   "black pepper",
+   "coffee",
+   "maple"
+  ],
+  "about": "A 2024 limited release in RoMa Craft's CRAFT Maquette series. It is a corona gorda version of the Aquitaine EMH Frenchy, a barber pole with a Connecticut main wrapper and Habano stripe.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/craft-maquette-mon-cheri/446574/",
+   "https://halfwheel.com/roma-craft-tobac-releasing-mon-cheri-next-week/444596/",
+   "https://www.neptunecigar.com/cigars/roma-craft-maquette-mon-cheri"
+  ],
+  "notes": "Limited to 650 bundles of 10. Halfwheel's review had strength finishing at medium-full; Neptune lists it as full. Halfwheel lists a Nicaraguan binder, Neptune a Cameroon one.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, size, 650 bundles and November 2024 release match halfwheel. Added to notes that Neptune lists a Cameroon binder where halfwheel lists Nicaragua. Replaced the Neptune brand page with the product page."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "CRAFT Maquette Foreign & Domestic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian hybrid (Sumatra-seed)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Besuki)",
+  "filler": "Honduras (corojo and criollo from Jamastrán), Nicaragua (Condega)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona (box-pressed)",
+    "length": 4,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A small box-pressed petite corona in RoMa Craft's CRAFT Maquette series, first released in 2025 and the first Maquette to get a second run. It shares its binder and filler with the Riverside 15th Anniversary and the planned CroMagnon Visigoth, with a slightly different wrapper.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/roma-crafts-foreign-domestic-returning-this-fall/475732/",
+   "https://halfwheel.com/craft-maquette-foreign-domestic-coming-in-february/446858/"
+  ],
+  "notes": "First run was 500 bundles of 10; a second run of 1,200 bundles was announced for fall 2026. The blend was kept secret at launch and disclosed later. No maker strength is published; Cigars Direct lists it as full.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel says the three cigars share binder and filler but use slightly different Ecuadorian hybrid wrappers, and Visigoth is now delayed to 2027. Strength left null: the maker publishes none and only Cigars Direct (full) rates it."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Marinero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Boatswain: Mexican San Andrés. Cockswain: Ecuadorian Connecticut-seed",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Boatswain: Nicaragua (Ometepe). Cockswain: broadleaf",
+  "filler": "Boatswain: Dominican Republic, Nicaragua. Cockswain: not published",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boatswain (Gordo)",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Cockswain (Gordo)",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A bundle line RoMa Craft announced in 2026, built on the CRAFT Maquette El Marinero blend. It comes as one 6 x 60 gordo in two blends, sold in bundles of 25.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/roma-craft-tobac-announces-marinero/473821/"
+  ],
+  "notes": "Two blends, so there is no single wrapper: Boatswain is San Andrés like El Marinero, Cockswain is Ecuadorian Connecticut over a broadleaf binder. Announced in July 2026 for an August launch at two stores, Caribbean Cigars in Miami and Pipe World in Austin, with others to follow. No strength is published.",
+  "verified": true,
+  "verifyNotes": "No blend changes. Halfwheel's 2026 release list still shows both cigars as planned for August 2026, so I could not confirm they have shipped; released is the announcement year. Production kept as regular because halfwheel lists it as a new line, not a limited edition. The maker has no page for it and no strength is published. Shortened notes."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Quinquagenario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "black pepper"
+  ],
+  "about": "A limited robusto made for RoMa Craft co-founder Skip Martin's 50th birthday, blended with Ernesto Perez-Carrillo Jr. and rolled at his factory in the Dominican Republic. It was the first RoMa Craft cigar not made at Nica Sueño.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/quinquagenario/430822/",
+   "https://www.neptunecigar.com/cigar/roma-craft-quinquagenario",
+   "https://halfwheel.com/pca-2026-roma-craft-tobac/466290/"
+  ],
+  "notes": "About 50,000 cigars were made, mostly in boxes of 24. Neptune lists it as medium, Cigars Direct as medium-full. A second Quinquagenario for co-founder Mike Rosales is planned from the Vegas Santiago factory in Costa Rica, with details not yet announced.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, factory, size, September 2023 release and 50,000 cigars match halfwheel; Neptune lists medium. Corrected the note: Cigars Direct tags it medium-full."
+ }
+]

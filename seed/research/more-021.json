@@ -1,0 +1,928 @@
+[
+ {
+  "brand": "La Aurora",
+  "line": "Cazadores Blond",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "cream"
+  ],
+  "about": "A flavored version of La Aurora's budget Cazadores Claro, with an added light vanilla and cream sweetness. It is one of three Cazadores Flavors cigars announced in September 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-aurora-announces-cazadores-flavors/478373/",
+   "https://cigar-coop.com/2026/09/la-aurora-announces-cazadores-flavors-cigar-news.html"
+  ],
+  "notes": "This is a flavored cigar, built on the Cazadores Claro blend. No strength rating has been published. The 6 x 60 Gordo stays exclusive to the unflavored Cazadores lines.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and timing match halfwheel and Cigar Coop; no strength is given there or on the maker's site. Removed the word 'infused' from notes because the sources only say flavored."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Cazadores Brown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cognac"
+  ],
+  "about": "A flavored version of La Aurora's budget Cazadores Maduro, with added cocoa and toasted cognac notes. It is one of three Cazadores Flavors cigars announced in September 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-aurora-announces-cazadores-flavors/478373/",
+   "https://cigar-coop.com/2026/09/la-aurora-announces-cazadores-flavors-cigar-news.html"
+  ],
+  "notes": "This is a flavored cigar, built on the Cazadores Maduro blend. No strength rating has been published. The 6 x 60 Gordo stays exclusive to the unflavored Cazadores lines.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and timing match halfwheel and Cigar Coop; no strength is given there or on the maker's site. Removed the word 'infused' from notes because the sources only say flavored."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Cazadores Caribbean",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "rum",
+   "spice"
+  ],
+  "about": "A flavored version of La Aurora's budget Cazadores Nicaragua, with added rum and tropical spice notes. It is one of three Cazadores Flavors cigars announced in September 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-aurora-announces-cazadores-flavors/478373/",
+   "https://cigar-coop.com/2026/09/la-aurora-announces-cazadores-flavors-cigar-news.html"
+  ],
+  "notes": "This is a flavored cigar, built on the Cazadores Nicaragua blend. No strength rating has been published and the wrapper seed type is not stated. The 6 x 60 Gordo stays exclusive to the unflavored Cazadores lines.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and timing match halfwheel and Cigar Coop; no strength is given there or on the maker's site. Removed the word 'infused' from notes because the sources only say flavored."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Santiago Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "wood"
+  ],
+  "about": "A value-priced bundle cigar from La Aurora's Santiago Collection, brought to the U.S. in August 2026. It is a mixed-filler cigar, combining long filler with smaller pieces of tobacco.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-aurora-adds-santiago-collection-bundles/475653/",
+   "https://cigardojo.com/2026/07/la-aurora-expands-value-line-with-new-santiago-collection/"
+  ],
+  "notes": "Mixed filler, not all long filler like La Aurora's core lines. No strength rating has been published. Sold in bundles, named for Santiago de los Caballeros.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Santiago Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A value-priced bundle cigar from La Aurora's Santiago Collection, scheduled to reach U.S. stores in September 2026. It is a mixed-filler cigar with an Ecuadorian Connecticut-seed wrapper.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-aurora-adds-santiago-collection-bundles/475653/",
+   "https://cigardojo.com/2026/07/la-aurora-expands-value-line-with-new-santiago-collection/"
+  ],
+  "notes": "Mixed filler, not all long filler like La Aurora's core lines. No strength rating has been published. Sold in bundles, named for Santiago de los Caballeros.",
+  "verified": true,
+  "verifyNotes": "All fields match halfwheel and Cigar Dojo. Reworded about: the September 2026 arrival date has passed and I could not confirm it shipped."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "León Jimenes Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Cibao Valley)",
+  "filler": "Dominican Republic (Cibao Valley), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "No. 3",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "No. 4",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "No. 5",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Leyendas",
+    "length": 5.5,
+    "ring": 47
+   },
+   {
+    "name": "Cristal Tubos",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cocoa",
+   "cream",
+   "nuts"
+  ],
+  "about": "The classic Connecticut-wrapped León Jimenes line made by La Aurora in the Dominican Republic. It is a smooth, light cigar that has long sold better abroad than in the U.S.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/leon-jimenes-connecticut-en/?lang=en",
+   "https://www.cigarworld.de/en/zigarren/dominikanische-republik/leon-jimenes-01110",
+   "https://www.neptunecigar.com/cigar/leon-jimenes"
+  ],
+  "notes": "The maker gives no strength word and its strength gauge reads 65 out of 100, but retailers call it mild. Sizes come from a European retailer, where the line is simply called León Jimenes. Launch year is unclear.",
+  "verified": true,
+  "verifyNotes": "Added the Belicoso (6.5 x 52), which the cigarworld listing shows as a current size. Notes now mention the maker's strength gauge (65 of 100), which the researcher missed and which conflicts with retailers calling it mild. Softened the about line on where it sells and trimmed notes."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "León Jimenes Doble Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Cibao Valley)",
+  "filler": "Dominican Republic (Cibao Valley), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Leyendas",
+    "length": 5.5,
+    "ring": 47
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Ambassador",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Sumo (Short Robusto)",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Gigante",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "tropical fruit",
+   "chocolate",
+   "cream",
+   "nuts"
+  ],
+  "about": "A darker, fuller take on León Jimenes from La Aurora, with a Brazilian maduro wrapper and tobacco aged at least three years. It comes in thicker formats than the classic line.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/leon-jimenes-doble-maduro-en/?lang=en",
+   "https://www.cigarworld.de/en/zigarren/dominikanische-republik/leon-jimenes-double-maduro-90011233"
+  ],
+  "notes": "The maker gives no strength word; its strength gauge reads 75 out of 100. The maker lists a Dominican binder and Dominican and Nicaraguan filler, while one European retailer lists a Brazilian binder and four-country filler. Sizes come from that retailer.",
+  "verified": true,
+  "verifyNotes": "Blend and sizes confirmed. Notes now give the maker's strength gauge (75 of 100) instead of saying nothing is published, and were trimmed."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "León Jimenes Prestige",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic (Cibao Valley), Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "cocoa",
+   "nuts",
+   "cinnamon",
+   "red fruit"
+  ],
+  "about": "A León Jimenes blend from La Aurora launched in 2011 to reintroduce the brand in the U.S., originally sold in black and gold tubes. It is a smooth cigar the maker suggests for newer smokers.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/leon-jimenes-prestige-en/?lang=en",
+   "https://halfwheel.com/leon-jimenes-prestige-prerelease-review/17653/"
+  ],
+  "notes": "The maker calls it mild to medium bodied. The maker's current blend (Ecuadorian binder, three-country filler) differs from halfwheel's 2011 prerelease listing of a Dominican and Nicaraguan binder over Dominican filler. Sizes are the three launch sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Aurora",
+  "line": "León Jimenes Series 300",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon (Ecuador)",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (Cibao Valley), Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dried fruit",
+   "spice",
+   "cinnamon"
+  ],
+  "about": "A León Jimenes line La Aurora created in 2007 for the brand's 20th anniversary. The name comes from an extra 300 days of aging.",
+  "released": 2007,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/leon-jimenes-series-300/?lang=en",
+   "https://www.cigarworld.de/en/zigarren/dominikanische-republik/leon-jimenes-series-300-cameroon-90015561"
+  ],
+  "notes": "The maker lists the wrapper as Cameroon (Ecuador). It gives no strength word; its strength gauge reads 60 out of 100. Sizes come from a European retailer, which also shows a limited Gran Toro (6 x 58).",
+  "verified": true,
+  "verifyNotes": "Set officialName to null: the maker's own page is titled León Jimenes Series 300, so the given name is already right. Notes now give the maker's strength gauge (60 of 100)."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Guillermo León",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon, Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Cibao Valley), Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 47
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "15 Minute Break",
+    "length": 3.5,
+    "ring": 42
+   },
+   {
+    "name": "Ambassador",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Preferidos",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cream",
+   "leather",
+   "cedar"
+  ],
+  "about": "The personal blend of La Aurora head Guillermo León, introduced in 2010 and also sold as Guillermo León Family Reserve. It is known for its double binder of Dominican and Cameroon leaf.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/guillermo-leon-en/?lang=en",
+   "https://halfwheel.com/review-guillermo-leon-wcd-126-lancero/41701/",
+   "https://www.neptunecigar.com/cigars/guillermo-leon-belicoso"
+  ],
+  "notes": "Sources disagree on strength: the maker calls it full bodied (80 out of 100 on its gauge), Neptune lists it as medium, and halfwheel's reviews ran from medium to strong. halfwheel and Neptune also list Brazilian leaf in the filler, which the maker does not. Also sold as Guillermo León Family Reserve.",
+  "verified": true,
+  "verifyNotes": "Kept Full because the maker says full body and its gauge reads 80 of 100, but the researcher missed that Neptune lists Medium and halfwheel's reviews ran medium to strong; notes now say so. Swapped the Neptune link for the one that states a strength. Reworded about (the Family Reserve name was used from 2010, not later) and dropped the unsupported 'perfecto' remark."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Fernando León Family Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo (Cibao Valley)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Cibao Valley)",
+  "filler": "Dominican Republic (Cibao Valley), Brazil",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 47
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Preferidos",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "honey"
+  ],
+  "about": "A La Aurora line launched in 2012 to honor Fernando León, who ran the company from the 1950s until 2009. It is based on the personal blend once made only for him, his family and friends.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/fernando-leon-en/?lang=en",
+   "https://halfwheel.com/fernando-leon-family-reserve-preferidos-2/382091/",
+   "https://www.neptunecigar.com/cigar/fernando-leon-family-reserve"
+  ],
+  "notes": "Neptune rates it medium; the maker gives no strength word and its gauge reads 75 out of 100. The maker lists Dominican and Brazilian filler; halfwheel and Neptune add Peru. It is a rebrand of Fernando León's personal Don Fernando cigar. A limited box-pressed 6 x 54 was also made.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and 2012 launch confirmed. Notes now add the maker's strength gauge (75 of 100) beside Neptune's Medium, and drop the Cameroon remark, which halfwheel says applied only to the early personal blend."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Fernando León Legacy Lancero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo (grown in Bonao)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Brazil, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 6.875,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wood",
+   "cream",
+   "leather",
+   "white pepper"
+  ],
+  "about": "A single-size limited lancero from La Aurora released in 2022 for what would have been Fernando León's 100th birthday. Its Dominican corojo wrapper comes from a La Aurora growing project in Bonao, first harvested in 2008.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-aurora-fernando-leon-legacy-lancero/416523/",
+   "https://halfwheel.com/fernando-leon-legacy-lancero-getting-pca-2022-release/409068/"
+  ],
+  "notes": "Limited to 1,000 boxes of 10. It is a separate cigar from the Fernando León Family Reserve and a different blend from the Fernando León Limited Edition. Strength is from the halfwheel review.",
+  "verified": true,
+  "verifyNotes": "All spec fields match halfwheel. Fixed about: halfwheel says the company started the Bonao corojo project shortly before his death, not that he started it. Removed the claim that the maker publishes no strength, which I could not check."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Fernando León Limited Edition Belicoso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo (origin undisclosed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Ecuador",
+  "filler": "Brazil, Dominican Republic, Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "white pepper",
+   "cream",
+   "wood",
+   "toast",
+   "black pepper"
+  ],
+  "about": "A limited belicoso from La Aurora released in 2021 in honor of Fernando León. Its corojo wrapper leaf was bought by León himself before he died in 2009 and sat unused until this project.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fernando-leon-limited-edition-belicoso/407658/",
+   "https://halfwheel.com/three-new-la-aurora-limited-editions-arrive-early/399711/",
+   "https://www.neptunecigar.com/cigar/fernando-leon-limited-edition"
+  ],
+  "notes": "halfwheel reports 150 boxes of 15. It lists the wrapper origin as undisclosed, while Neptune calls it Dominican-grown corojo. Neptune lists it as medium strength, but halfwheel's reviewer found it mild to barely medium. It is a different blend from the Fernando León Family Reserve.",
+  "verified": true,
+  "verifyNotes": "Blend, size, 2021 release and undisclosed wrapper origin confirmed. Strength Medium is Neptune's word; notes now add that halfwheel's reviewer found it mild to barely medium, which the researcher left out."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Imperiales Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic (Cibao Valley)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 37
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "toast",
+   "nuts",
+   "cream"
+  ],
+  "about": "A low-priced, handmade long-filler line from La Aurora with an Ecuadorian Connecticut wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/imperiales-classic-en/?lang=en",
+   "https://www.cigarworld.de/en/zigarren/dominikanische-republik/la-aurora-imperiales-classico-90010276"
+  ],
+  "notes": "The maker gives no strength word; its strength gauge reads 50 out of 100. Sizes come from a European retailer's listing; the maker says there are seven formats but does not name them. That retailer describes the binder as Dominican, where the maker says Ecuador.",
+  "verified": true,
+  "verifyNotes": "Added the Churchill (7 x 50) from the cigarworld listing, which makes the seven formats the maker mentions. Removed 'sold mostly in Europe' from about because no source says it. Notes now give the maker's strength gauge (50 of 100)."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Imperiales Maduros",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic (Cibao Valley)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 37
+   }
+  ],
+  "flavors": [
+   "floral",
+   "cedar",
+   "leather",
+   "cream"
+  ],
+  "about": "The maduro version of La Aurora's low-priced, handmade Imperiales line. The maker describes it as a sweet, creamy, mild cigar suited to beginners.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/imperiales-maduros-en/?lang=en",
+   "https://www.cigarworld.de/en/zigarren/dominikanische-republik/la-aurora-imperiales-maduro-90010281"
+  ],
+  "notes": "The maker lists a Brazilian wrapper and calls it mild bodied, though its strength gauge reads 50 out of 100. One European retailer describes the maduro wrapper as Ecuadorian. Sizes come from that retailer's listing.",
+  "verified": true,
+  "verifyNotes": "Blend and sizes confirmed. Notes now add the maker's strength gauge (50 of 100), which sits oddly beside its 'mild bodied' wording."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Príncipes Claros",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Cibao Valley)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 37
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The handmade, long-filler version of La Aurora's Príncipes, a brand best known in the Dominican Republic for machine-made cigars. It is a budget cigar with a Connecticut-type wrapper grown in Ecuador.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/principe-claros-en/?lang=en",
+   "https://www.cigarworld.de/en/zigarren/dominikanische-republik/la-aurora-principes-claro-90009132"
+  ],
+  "notes": "This is the handmade long-filler Príncipes, not the machine-made Príncipes. The maker gives no strength word; its strength gauge reads 50 out of 100. Sizes come from a European retailer, which calls the binder Dominican where the maker says Indonesia.",
+  "verified": true,
+  "verifyNotes": "Blend and sizes confirmed. Removed 'often flavored' (no source says it), added the maker's strength gauge (50 of 100) and the binder disagreement with cigarworld."
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Príncipes Maduros",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Cibao Valley)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 37
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "nuts"
+  ],
+  "about": "The maduro version of La Aurora's handmade, long-filler Príncipes line. It is a budget cigar with an Indonesian maduro wrapper that adds a little sweetness.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.laaurora.com.do/producto/principes-maduros-en/?lang=en",
+   "https://www.cigarworld.de/en/zigarren/dominikanische-republik/la-aurora-principes-maduro-90010480"
+  ],
+  "notes": "This is the handmade long-filler Príncipes, not the machine-made Príncipes. The maker gives no strength word; its strength gauge reads 50 out of 100. Sizes come from a European retailer's listing.",
+  "verified": true,
+  "verifyNotes": "Added the Petit Corona (4.5 x 37), a current size on the cigarworld listing. Removed 'often flavored' (no source says it) and added the maker's strength gauge (50 of 100)."
+ }
+]

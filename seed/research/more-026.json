@@ -1,0 +1,902 @@
+[
+ {
+  "brand": "Alec Bradley",
+  "line": "Chunk Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf)",
+  "filler": "Dominican Republic, Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "HATSA",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "XL",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "3XL",
+    "length": 4,
+    "ring": 66
+   },
+   {
+    "name": "4XL",
+    "length": 4,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "spice",
+   "cedar"
+  ],
+  "about": "The third blend in Alec Bradley's Chunk series of short, very thick, value-priced cigars, this one with an Ecuadorian Sumatra wrapper. It was scheduled to ship on October 1, 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/chunk-sumatra",
+   "https://halfwheel.com/alec-bradley-chunk-sumatra-coming-oct-1/480379/",
+   "https://www.cigaraficionado.com/article/alec-bradley-chunk-sumatra-arriving-this-week"
+  ],
+  "notes": "Cigar Aficionado names the factory as HATSA, STG's plant in Danlí, Honduras; halfwheel listed it as undisclosed at launch. The maker rates it medium bodied and gives no separate strength.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and Honduras confirmed on the maker page, halfwheel and Cigar Aficionado. Reworded about (ship date was scheduled, not confirmed) and clarified in notes that HATSA is STG's Danli factory."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Chunk Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras (Jamastran)",
+  "filler": "Dominican Republic (Piloto), Nicaragua (Estelí)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "XL",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "3XL",
+    "length": 4,
+    "ring": 66
+   },
+   {
+    "name": "4XL",
+    "length": 4,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "pepper",
+   "nuts"
+  ],
+  "about": "The first stand-alone Chunk line from Alec Bradley, a set of short, very thick cigars with a Mexican maduro wrapper sold at a low price. It is made at STG's factory in Danlí, Honduras.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/chunk-maduro",
+   "https://halfwheel.com/alec-bradley-chunk-maduro-heads-to-stores/444155/",
+   "https://halfwheel.com/stg-raises-prices-for-2025-discontinues-34-items/453460/"
+  ],
+  "notes": "It launched with two extra limited sizes, L (3 x 58) and 2XL (4 x 64 belicoso), which STG discontinued in August 2025. The maker rates it medium bodied and gives no separate strength.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Added the halfwheel August 2025 discontinuation list as a source for the L and 2XL claim. Neptune calls the wrapper Mexican San Andres maduro; maker and halfwheel say only Mexican maduro, so the category was left as is."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Chunk Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut Seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "USA (Broadleaf)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "XL",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "3XL",
+    "length": 4,
+    "ring": 66
+   },
+   {
+    "name": "4XL",
+    "length": 4,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "toast",
+   "hay"
+  ],
+  "about": "The mellow member of Alec Bradley's Chunk series of short, very thick cigars, wrapped in Honduran-grown Connecticut seed leaf. It followed the Chunk Maduro in July 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/chunk-shade",
+   "https://halfwheel.com/alec-bradley-chunk-shade-released/452998/"
+  ],
+  "notes": "The maker calls it mellow bodied and gives no separate strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Thirty Years",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Trojes",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastran), Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa), Honduras (Jamastran, Trojes)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "toast",
+   "pepper",
+   "cinnamon"
+  ],
+  "about": "A line marking Alec Bradley's 30th anniversary in 2026, blended from Honduran and Nicaraguan tobaccos and rolled at Raíces Cubanas in Honduras. Founder Alan Rubin and his sons Alec and Bradley picked the final blend.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/thirty-years",
+   "https://halfwheel.com/alec-bradley-30-years-shipping-next-month/466561/",
+   "https://halfwheel.com/alec-bradley-thirty-years-perfecto/479600/"
+  ],
+  "notes": "Also written as 30 Years. A fourth size, the Perfecto (6 3/4 x 54), is limited to 2,026 boxes of 10 for brick-and-mortar shops. The maker rates it medium to full bodied and does not publish the wrapper seed.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Do Not Disturb",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo)",
+  "filler": "Dominican Republic (Piloto), Mexico (Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "herbal",
+   "grass"
+  ],
+  "about": "A lighter Alec Bradley blend with an Ecuadorian Connecticut wrapper over Dominican and Mexican tobaccos, made in the Dominican Republic. It was introduced in 2025 in three sizes.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/do-not-disturb",
+   "https://www.neptunecigar.com/cigar/alec-bradley-do-not-disturb",
+   "https://cigardojo.com/2025/04/alec-bradley-introduces-do-not-disturb/"
+  ],
+  "notes": "The maker rates it mellow to medium; Neptune lists it as medium. The factory name comes from Neptune and Cigar Dojo, and the maker does not publish it.",
+  "verified": true,
+  "verifyNotes": "Set released to 2025 (Cigar Dojo and Cigar Coop launch coverage, April 2025, shipping June 1). Swapped the Famous Smoke source for Cigar Dojo, which also names the La Isla factory; dropped the Famous limited-release remark because the maker and launch coverage treat it as a regular line."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Safe Keepings",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Jalapa, Condega, Estelí Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.375,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "cocoa"
+  ],
+  "about": "A Nicaraguan puro based on a recipe from founder Alan Rubin's blend book, made for Alec Bradley at the Oliva factory in Estelí. It was the first new line chosen from that book after STG bought the brand.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/safe-keepings",
+   "https://halfwheel.com/alec-bradley-safe-keepings-coming-to-stores-in-june/438599/",
+   "https://halfwheel.com/stg-discontinues-21-skus/472715/"
+  ],
+  "notes": "STG told retailers in June 2026 that the Corona size was discontinued, though the maker's site still lists it. The maker rates it medium to full bodied.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Replaced the halfwheel review link with the June 2026 halfwheel discontinuation list, which is what supports the Corona note."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Post Embargo Blend Code B15",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Trojes Criollo (5th priming)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastran Corojo, Trojes Criollo)",
+  "filler": "Honduras (Jamastran Corojo, Trojes Criollo), Nicaragua (Jalapa Criollo)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "oak",
+   "nuts"
+  ],
+  "about": "A 2023 revival of Alec Bradley's Post Embargo name with a new, mostly Honduran blend and the packaging first designed for the 2015 original. It is rolled at Raíces Cubanas in Honduras and every size has a pigtail cap.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/post-embargo-blend-code-b15",
+   "https://halfwheel.com/alec-bradley-post-embargo-blend-code-b15-heads-to-stores/429535/"
+  ],
+  "notes": "This is a different blend from the original Post Embargo (2015), which was discontinued in March 2021. The maker rates it medium bodied and gives no separate strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Prensado Lost Art",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras, Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Double T",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "leather",
+   "black pepper"
+  ],
+  "about": "A tweaked version of Alec Bradley's Prensado that adds a second, Honduran binder to the blend. The cigars are bunched entubado style, semi-pressed and finished with a triple cap at Raíces Cubanas in Honduras.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/prensado-lost-art",
+   "https://halfwheel.com/alec-bradley-prensado-lost-art-gran-toro/249118/",
+   "https://www.famous-smoke.com/brand/alec-bradley-prensado-lost-art-cigars"
+  ],
+  "notes": "The maker and halfwheel say only that the wrapper is Honduran; Famous Smoke calls it Honduran Corojo. The maker rates it medium to full bodied, while Famous and Neptune list it as full. Halfwheel reported in March 2025 that STG discontinued the Churchill and Torpedo, though the maker still lists them.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and sizes confirmed. Added to notes that STG discontinued the Churchill and Torpedo in March 2025 (https://halfwheel.com/scandinavian-tobacco-group-discontinues-56-skus/448395/), which the researcher missed; sizes left as the maker lists them. Only Famous Smoke names the wrapper as Corojo."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "MAXX",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Costa Rica",
+  "filler": "Colombia, Nicaragua, Mexico, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nano",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Fixx",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Culture",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Freak",
+    "length": 6.375,
+    "ring": 60
+   },
+   {
+    "name": "Super Freak",
+    "length": 8.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "toast",
+   "earth",
+   "sweetness"
+  ],
+  "about": "A large-format Alec Bradley line introduced in 2005 that blends tobacco from five countries. It is made by Plasencia in Honduras and was given new bands in 2015.",
+  "released": 2005,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/maxx",
+   "https://halfwheel.com/alec-bradley-shows-off-new-look-maxx/90718/",
+   "https://www.neptunecigar.com/cigar/alec-bradley-maxx"
+  ],
+  "notes": "The maker rates it medium bodied, but Neptune lists it as full. The maker says only that the wrapper is Nicaraguan; Neptune calls it Nicaraguan Habano. STG discontinued the Nano size in August 2025.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Nano discontinuation confirmed in halfwheel's August 2025 list (https://halfwheel.com/stg-raises-prices-for-2025-discontinues-34-items/453460/); tightened the note."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Medalist",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Shade Grown",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream"
+  ],
+  "about": "A milder, lower-priced Alec Bradley line released in 2018 with a Honduran shade grown wrapper. Its gold medal band and box earned it the nickname People's Champ.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/medalist",
+   "https://halfwheel.com/alec-bradley-medalist-toro/268831/",
+   "https://www.neptunecigar.com/cigar/alec-bradley-medalist"
+  ],
+  "notes": "The maker rates it mellow to medium; Neptune lists it as medium. The wrapper is shade grown in Honduras and looks like a Connecticut, but no source names the seed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Texas Lancero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, Honduras, Costa Rica",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "leather",
+   "nuts"
+  ],
+  "about": "A tongue-in-cheek Alec Bradley release from 2014: one very thick 7 x 70 cigar with a pigtail cap, named as a joke on the slim lancero shape. It is a regular nationwide release, not a Texas exclusive.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://alecbradley.com/cigars/texas-lancero",
+   "https://halfwheel.com/alec-bradley-texas-lancero-coming-june/59670/",
+   "https://www.cigaraficionado.com/article/a-texas-sized-smoke-from-alec-bradley-17637"
+  ],
+  "notes": "Cigar Aficionado and halfwheel report it is made by Plasencia at Tabacos de Oriente in Honduras, though Neptune lists Nicaragua. The maker does not state where it is rolled or the wrapper seed.",
+  "verified": true,
+  "verifyNotes": "Country confirmed: Cigar Aficionado says it is made by Plasencia TDO in Honduras. Swapped the Neptune source for that article and reworded notes."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Occidental Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Colombia, Nicaragua, Honduras",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 6.125,
+    "ring": 43
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 8.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "pepper"
+  ],
+  "about": "Alec Bradley's longest-running brand, a budget-priced, mellow long-filler cigar first made in the Dominican Republic in the early 2000s. The maker says the blend was reworked in 2023.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://alecbradley.com/cigars/occidental-reserve",
+   "https://halfwheel.com/scandinavian-tobacco-group-discontinues-56-skus/448395/",
+   "https://halfwheel.com/stg-discontinues-21-skus/472715/"
+  ],
+  "notes": "The blend shown is the maker's 2023 rework, and the maker does not say where it is rolled; some retailers still list the older Dominican-made version. Halfwheel reports STG discontinued the Corona, Gigante and Torpedo in March 2025 and the Robusto, Toro and Churchill in June 2026, which covers every size listed.",
+  "verified": true,
+  "verifyNotes": "Changed production from regular to null. Halfwheel shows STG discontinued the Corona, Gigante and Torpedo in March 2025 as well as the Robusto, Toro and Churchill in June 2026, so every listed size has been cut, yet the maker still shows the line as current. Replaced the Neptune source with the March 2025 list; the older Dominican blend is on https://www.neptunecigar.com/cigar/alec-bradley-occidental-reserve. Trimmed notes."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Filthy Hooligan",
+  "found": true,
+  "officialName": "Black Market Filthy Hooligan",
+  "wrapperLeaf": "Honduran Candela and Nicaraguan Oscuro (barber pole)",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Honduras, Nicaragua",
+  "binder": "Sumatra",
+  "filler": "Honduras, Panama",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "pepper"
+  ],
+  "about": "Alec Bradley's yearly St. Patrick's Day cigar, an offshoot of the Black Market line with green candela and dark Nicaraguan leaf rolled in a barber pole. It first came out in 2013 with a plain candela wrapper and became a barber pole in 2016.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://alecbradley.com/cigars/filthy-hooligan",
+   "https://halfwheel.com/alec-bradley-filthy-hooligan-shamrock-return-for-2026/459836/",
+   "https://halfwheel.com/alec-bradley-adds-triple-wrapper-shamrock-to-filthy-hooligan-series/293232/"
+  ],
+  "notes": "Released once a year in limited quantities ahead of St. Patrick's Day. Halfwheel has described the binder as Ecuadorian Sumatra. The maker rates it medium bodied and gives no separate strength.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Replaced the 2013 review link with the 2019 halfwheel article, which is the one that calls the binder Ecuadorian Sumatra."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Filthy Hooligan Shamrock",
+  "found": true,
+  "officialName": "Black Market Filthy Hooligan Shamrock",
+  "wrapperLeaf": "Honduran Candela, Nicaraguan Oscuro and Nicaraguan Habano (triple barber pole)",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Honduras, Nicaragua",
+  "binder": "Sumatra",
+  "filler": "Honduras, Panama",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "nuts",
+   "pepper"
+  ],
+  "about": "The three-wrapper version of Alec Bradley's Filthy Hooligan, adding a Nicaraguan habano leaf to the candela and oscuro barber pole. It has been released each year around St. Patrick's Day since 2019, in boxes of 10.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://alecbradley.com/cigars/filthy-hooligan-shamrock",
+   "https://halfwheel.com/alec-bradley-filthy-hooligan-shamrock-return-for-2026/459836/",
+   "https://halfwheel.com/alec-bradley-adds-triple-wrapper-shamrock-to-filthy-hooligan-series/293232/"
+  ],
+  "notes": "Released once a year in limited quantities. The binder and filler are said to match the regular Filthy Hooligan. The maker rates it medium bodied and gives no separate strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Filthy Ghooligan",
+  "found": true,
+  "officialName": "Black Market Filthy Ghooligan",
+  "wrapperLeaf": "US Broadleaf and Ecuadorian Habano (barber pole)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA, Ecuador",
+  "binder": "Indonesia (Besuki)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa), Dominican Republic (Piloto)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "black pepper",
+   "baking spice",
+   "earth"
+  ],
+  "about": "Alec Bradley's Halloween barber pole, a darker spin-off of the Filthy Hooligan that pairs broadleaf and habano wrappers with no candela. It has come out each fall since 2024.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://alecbradley.com/cigars/filthy-ghooligan",
+   "https://halfwheel.com/alec-bradley-filthy-ghooligan-returns-for-2026/478305/",
+   "https://halfwheel.com/alec-bradley-black-market-filthy-ghooligan-shipping-this-month/442329/"
+  ],
+  "notes": "An annual limited release; the 2026 run is 1,950 boxes of 24. The two wrappers are different leaf types, so it does not fit one wrapper category cleanly. The maker rates it medium to full bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Kintsugi Wabi Sabi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "pepper",
+   "cream",
+   "cinnamon"
+  ],
+  "about": "A limited follow-up to Alec Bradley's Kintsugi, named for the Japanese idea of beauty in imperfection. It is a single 6 x 52 toro made by AJ Fernandez in Estelí, limited to 1,500 boxes of 16.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://alecbradley.com/cigars/kintsugi-wabi-sabi",
+   "https://halfwheel.com/alec-bradley-kintsugi-wabi-sabi-coming-in-early-august/453205/",
+   "https://halfwheel.com/alec-bradley-kintsugi-wabi-sabi/454796/"
+  ],
+  "notes": "The maker's site rates it medium to full bodied, while the launch press release called it medium to medium-plus. The maker now lists it among its past releases.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Added that the maker now files it under The Vault (past releases)."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Black Market Estelí Diamond",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras, Nicaragua",
+  "filler": "Nicaragua (with extra ligero)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diamond",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cream",
+   "spice"
+  ],
+  "about": "A limited size of Alec Bradley's Black Market Estelí, pressed into a diamond shape instead of a normal box press and given an extra leaf of ligero. It is made at the Plasencia factory in Estelí.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://alecbradley.com/cigars/black-market-esteli-diamond",
+   "https://halfwheel.com/alec-bradley-black-market-esteli-diamond/384089/",
+   "https://halfwheel.com/alec-bradley-black-market-esteli-diamond-returning-for-2021/391733/"
+  ],
+  "notes": "This is one limited size of the Black Market Estelí line, first shipped in October 2020 and brought back in 2021, each time as 1,500 boxes of 16. The wrapper seed is not published. The maker now lists it among its past releases.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Replaced the 2020 announcement link with the halfwheel 2021 return article that supports the second run; trimmed notes and added that the maker now files it under The Vault (past releases)."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Magic Toast Fifth Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Trojes Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Trojes Criollo), Nicaragua (Estelí Criollo)",
+  "filler": "Honduras (Jamastran Corojo and Criollo), Nicaragua (Jalapa Criollo)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A one-size limited edition from 2023 marking five years since Alec Bradley's Magic Toast line was formally launched. It was made at Raíces Cubanas in Honduras in a run of 2,000 boxes of 10.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/alec-bradleys-magic-toast-fifth-anniversary-heads-to-stores/429694/",
+   "https://www.neptunecigar.com/cigar/alec-bradley-magic-toast"
+  ],
+  "notes": "Limited to 2,000 boxes of 10 in one 7 x 54 size. The medium strength rating is Neptune's alone. Neptune also calls the shape a perfecto where halfwheel says double robusto.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and run size confirmed on halfwheel. Set strength to Medium from Neptune's listing for this cigar (was null) and added that page as a source. The maker has no page for it."
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Trojes Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Estelí Criollo 98), Honduras (Jamastran Criollo 98)",
+  "filler": "Honduras (Jamastran and Trojes Criollo), Nicaragua (Jalapa Criollo 98)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 6 x 52 toro that Alec Bradley made in 2023 for shops belonging to the Tobacconists' Association of America. It was rolled at Raíces Cubanas in Honduras in a run of 500 boxes of 10.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/alec-bradley-taa-exclusive",
+   "https://halfwheel.com/alec-bradley-taa-edition-begins-shipping/431682/"
+  ],
+  "notes": "Halfwheel calls it the Alec Bradley TAA Edition; Neptune sells it as TAA Exclusive LE Toro. Sold only by TAA member shops. Neptune describes the wrapper as a Honduran maduro and lists the binder and filler simply as Honduran; the strength is Neptune's.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "MadCap",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Colombia, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 52 toro blended by Alec and Bradley Rubin for the My Cigar Pack subscription service and its partner shops. The cigars were rolled at Raíces Cubanas in July 2021 and aged before release in 2022.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/my-cigar-pack-gets-madcap-by-alec-bradley/413067/"
+  ],
+  "notes": "Sold as MadCap by Alec & Bradley, an exclusive for My Cigar Pack with 5,000 cigars made for 2022. The maker does not list it or give a strength rating.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country and factory confirmed on halfwheel. Strength left null: the maker has no page for this cigar and the launch coverage gives no rating. Reworded notes."
+ }
+]

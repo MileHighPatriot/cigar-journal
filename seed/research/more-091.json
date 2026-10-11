@@ -1,0 +1,963 @@
+[
+ {
+  "brand": "Te-Amo",
+  "line": "Clasico",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra grown in the San Andrés Valley",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (Negro San Andrés)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Relaxation",
+    "length": 6.6875,
+    "ring": 44
+   },
+   {
+    "name": "Gran Reserva",
+    "length": 6.4375,
+    "ring": 42
+   },
+   {
+    "name": "Magnificos",
+    "length": 6.4375,
+    "ring": 42
+   },
+   {
+    "name": "Piramide",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "No. 7",
+    "length": 5.25,
+    "ring": 35
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 4",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Torito",
+    "length": 4.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "pepper",
+   "spice",
+   "leather"
+  ],
+  "about": "The long-running core Te-Amo line from the Turrent family, a Mexican puro of sun-grown San Andrés tobacco aged about two and a half years. It is the brand's mild to medium classic and comes in a wide range of sizes.",
+  "released": 1966,
+  "production": "regular",
+  "sources": [
+   "https://www.teamocigars.com/te-amoclasico",
+   "https://www.teamocigars.com/about-us",
+   "https://halfwheel.com/te-amo-the-original-san-andres-valley-cigar-magnum/440535/"
+  ],
+  "notes": "The maker's Clasico page says born in 1964, while its About page and halfwheel date the brand to 1966. Gran Reserva and Magnificos are sold in tubes.",
+  "verified": true,
+  "verifyNotes": "Replaced the halfwheel news link, which does not mention 1966 or the Clasico, with halfwheel's Te Amo Magnum review, which states the 1966 debut and Mexican production. Removed the unsupported 'aluminum' tube detail. Wrapper, all nine sizes and the mild-medium scale confirmed on the maker's page and chart images."
+ },
+ {
+  "brand": "Te-Amo",
+  "line": "The Original San Andres",
+  "found": true,
+  "officialName": "The Original San Andrés Valley Cigar",
+  "wrapperLeaf": "Mexican San Andrés Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (San Andrés Habano)",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "wood",
+   "earth",
+   "cream",
+   "toast"
+  ],
+  "about": "A reworked Te-Amo blend made by the Turrent family as a Mexican puro from San Andrés Valley tobacco with a habano-seed wrapper. Altadis U.S.A. launched it in the United States in 2024 in three sizes.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.teamocigars.com/teamo",
+   "https://halfwheel.com/te-amo-the-original-san-andres-valley-cigar-magnum/440535/",
+   "https://www.neptunecigar.com/te-amo-cigar"
+  ],
+  "notes": "Full name is Te Amo, the Original San Andrés Valley Cigar; the maker's site simply calls it Te-Amo. Maker's scale shows medium-full and its text says full bodied, while Neptune lists medium and halfwheel's review found the strength mild to medium.",
+  "verified": true,
+  "verifyNotes": "Note corrected: halfwheel's review put strength at mild rising to medium, not simply mild. All other fields confirmed on the maker page, halfwheel and Neptune."
+ },
+ {
+  "brand": "Te-Amo",
+  "line": "World Selection Series Dominicana Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Criollo '98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": null,
+  "binder": "Corojo",
+  "filler": "Negro San Andrés (Mexico), Corojo '98",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Corto",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "sweet",
+   "pepper"
+  ],
+  "about": "One of five Te-Amo World Selection Series blends from the Turrent family, each built to echo a different cigar country's style. The Dominicana Blend is the mildest of the set, with a Criollo '98 wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.teamocigars.com/te-amo-wss",
+   "https://halfwheel.com/altadis-u-s-a-reviving-te-amo/434067/"
+  ],
+  "notes": "The maker's text calls it medium-bodied while its strength scale shows mild-medium. The maker does not say where the wrapper and binder are grown.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, sizes and strength scale confirmed on the maker's page and size chart. Country rests on halfwheel's brand-level statement that the Turrents make Te-Amo in Mexico; that article does not name the World Selection Series and no other independent page was reachable. Release year not published."
+ },
+ {
+  "brand": "Te-Amo",
+  "line": "World Selection Series Cuban Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo '98 (Cuban seed grown in the San Andrés Valley)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Mexico",
+  "binder": "Corojo",
+  "filler": "Criollo '98, Negro San Andrés, Corojo '98",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Corto",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "spice",
+   "earth"
+  ],
+  "about": "The Cuban-style entry in Te-Amo's World Selection Series, made by the Turrent family with Cuban-seed Corojo and Criollo tobaccos grown in Mexico's San Andrés Valley.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.teamocigars.com/te-amo-wss",
+   "https://halfwheel.com/altadis-u-s-a-reviving-te-amo/434067/"
+  ],
+  "notes": "The maker's strength scale shows medium, but its description calls the blend full-bodied. The band reads Cuba Blend.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, sizes and strength scale confirmed on the maker's page and size chart. Country rests on halfwheel's brand-level statement that the Turrents make Te-Amo in Mexico; that article does not name the World Selection Series and no other independent page was reachable. Release year not published."
+ },
+ {
+  "brand": "Te-Amo",
+  "line": "World Selection Series Honduras Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo San Andrés",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (Negro San Andrés)",
+  "filler": "Honduras",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Corto",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "chocolate",
+   "cocoa",
+   "coffee",
+   "pepper"
+  ],
+  "about": "The Honduran-style entry in Te-Amo's World Selection Series from the Turrent family. It pairs Honduran filler with a San Andrés Corojo wrapper and a Negro San Andrés binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.teamocigars.com/te-amo-wss",
+   "https://halfwheel.com/altadis-u-s-a-reviving-te-amo/434067/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, sizes and strength scale confirmed on the maker's page and size chart. Country rests on halfwheel's brand-level statement that the Turrents make Te-Amo in Mexico; that article does not name the World Selection Series and no other independent page was reachable. Release year not published."
+ },
+ {
+  "brand": "Te-Amo",
+  "line": "World Selection Series Mexico Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "H. Criollo San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (H. Criollo San Andrés)",
+  "filler": "Mexico (H. Criollo San Andrés)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Corto",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "wood",
+   "dark chocolate",
+   "coffee",
+   "vanilla",
+   "spice",
+   "cedar"
+  ],
+  "about": "The all-Mexican entry in Te-Amo's World Selection Series, a dark-wrapped puro of San Andrés Valley tobacco from the Turrent family. It is the strongest blend in the series on the maker's scale.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.teamocigars.com/te-amo-wss",
+   "https://halfwheel.com/altadis-u-s-a-reviving-te-amo/434067/"
+  ],
+  "notes": "The maker's spec lists an H. Criollo San Andrés wrapper, but its description says San Andrés Negro. Its strength scale shows full while the text says medium to full-bodied.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, sizes and strength scale confirmed on the maker's page and size chart. Country rests on halfwheel's brand-level statement that the Turrents make Te-Amo in Mexico; that article does not name the World Selection Series and no other independent page was reachable. Release year not published."
+ },
+ {
+  "brand": "Te-Amo",
+  "line": "World Selection Series Nicaragua Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "H. Criollo San Andrés (Cuban-seed Criollo)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (Maduro San Andrés)",
+  "filler": "Nicaragua",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Corto",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice",
+   "vanilla",
+   "caramel",
+   "cedar"
+  ],
+  "about": "The Nicaraguan-style entry in Te-Amo's World Selection Series from the Turrent family. It uses Nicaraguan long filler under a Mexican-grown Criollo wrapper and a San Andrés maduro binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.teamocigars.com/te-amo-wss",
+   "https://halfwheel.com/altadis-u-s-a-reviving-te-amo/434067/"
+  ],
+  "notes": "Strength comes from the maker's dot scale; the description gives no strength word.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend, sizes and strength scale confirmed on the maker's page and size chart. Country rests on halfwheel's brand-level statement that the Turrents make Te-Amo in Mexico; that article does not name the World Selection Series and no other independent page was reachable. Release year not published."
+ },
+ {
+  "brand": "Te-Amo",
+  "line": "Atelier",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut (Mexican-grown)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (Negro San Andrés)",
+  "filler": "Mexico (Negro San Andrés Oscuro, Negro San Andrés Claro, Habano Claro)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A Te-Amo line from the Turrent family that nods to the small hand-rolling shops once found across the San Andrés Valley. The maker describes it as made entirely of Mexican tobacco under a Connecticut wrapper.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.teamocigars.com/atelier-te-amo",
+   "https://halfwheel.com/altadis-u-s-a-reviving-te-amo/434067/"
+  ],
+  "notes": "The maker calls it Atelier Te-Amo and publishes no sizes, tasting notes or release date, and does not say if it is regular or limited. Strength comes from the maker's dot scale.",
+  "verified": true,
+  "verifyNotes": "Set production to null: the maker's page does not say whether it is regular or limited and no other source was found. Wrapper, binder, filler and the medium-full scale confirmed on the maker page. Country rests on halfwheel's brand-level statement that Te-Amo is made in Mexico; that article does not name Atelier."
+ },
+ {
+  "brand": "Nub",
+  "line": "Mexico",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "460",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "464T",
+    "length": 4,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "earth",
+   "fruit",
+   "sweet",
+   "spice"
+  ],
+  "about": "The newest core Nub line from Oliva, putting a Mexican wrapper over Nicaraguan binder and filler in the brand's short, thick format. It debuted at InterTabac 2026 and reached U.S. stores in October 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.nubcigar.com/nub-mexico",
+   "https://halfwheel.com/nub-mexico-arriving-at-stores/481210/",
+   "https://www.holts.com/cigars/all-cigar-brands/nub-mexico.html"
+  ],
+  "notes": "The maker only says the wrapper is Mexican; Holt's names it as San Andrés. The 464T torpedo is exclusive to U.S. retailers.",
+  "verified": true,
+  "verifyNotes": "No changes. Maker lists a Mexican wrapper; Holt's and Neptune both name it San Andrés and list medium strength. Factory, sizes and release confirmed on halfwheel."
+ },
+ {
+  "brand": "Nub",
+  "line": "Nuance Single Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "354",
+    "length": 3.75,
+    "ring": 54
+   },
+   {
+    "name": "438",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "460",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "espresso",
+   "coffee",
+   "cedar",
+   "cream"
+  ],
+  "about": "A coffee-infused Nub from Oliva, originally launched in 2014 as Nub Café Cappuccino and later renamed. It is the lightest of the three Nuance roasts, with a Connecticut wrapper.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.nubcigar.com/copy-of-nub-cain-f",
+   "https://www.neptunecigar.com/nub-cigar",
+   "https://halfwheel.com/oliva-adds-fall-harvest-winter-blend-to-nub-nuance/121001/"
+  ],
+  "notes": "Flavored cigar, formerly Nub Café Cappuccino. halfwheel and Neptune say it is made in the Dominican Republic by General Cigar for Oliva, while Holt's lists Nicaragua. Maker lists Nicaraguan filler; Neptune lists Dominican and Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Swapped the 2014 halfwheel link for halfwheel's 2016 article, which names General Cigar Dominicana, the rename to Nuance and the 2014 launch. Note corrected: Neptune lists Dominican and Nicaraguan filler. The 438 size is on Holt's (https://www.holts.com/cigars/all-cigar-brands/nub-nuance.html); Neptune stocks only 354 and 460."
+ },
+ {
+  "brand": "Nub",
+  "line": "Nuance Triple Roast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "354",
+    "length": 3.75,
+    "ring": 54
+   },
+   {
+    "name": "438",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "460",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "cocoa",
+   "earth",
+   "toast"
+  ],
+  "about": "A coffee-infused Nub from Oliva, originally launched in 2014 as Nub Café Espresso and later renamed. It is the darkest of the three Nuance roasts, with a Sumatra wrapper.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.nubcigar.com/copy-of-nub-nuance-double-roast",
+   "https://www.neptunecigar.com/nub-cigar",
+   "https://halfwheel.com/oliva-adds-fall-harvest-winter-blend-to-nub-nuance/121001/"
+  ],
+  "notes": "Flavored cigar, formerly Nub Café Espresso. halfwheel and Neptune say it is made in the Dominican Republic by General Cigar for Oliva, while Holt's lists Nicaragua. Maker lists Nicaraguan filler; Neptune lists Dominican and Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Swapped the 2014 halfwheel link for halfwheel's 2016 article, which names General Cigar Dominicana, the rename to Nuance and the 2014 launch. Note corrected: Neptune lists Dominican and Nicaraguan filler. The 438 size is on Holt's (https://www.holts.com/cigars/all-cigar-brands/nub-nuance.html); Neptune stocks only 354 and 460."
+ },
+ {
+  "brand": "Nub",
+  "line": "Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "460",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "464 Torpedo",
+    "length": 4,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "red pepper",
+   "leather",
+   "cocoa",
+   "nuts"
+  ],
+  "about": "A Corojo-wrapped Nub made at Oliva's factory in Estelí with Nicaraguan binder and filler. Holt's sells it in the usual 4 x 60 and 4 x 64 torpedo Nub shapes.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/nub-corojo.html",
+   "https://www.holts.com/cigars/nub"
+  ],
+  "notes": "Only Holt's lists this cigar; it is not on the maker's current site, so it may be a retailer exclusive or no longer made. Holt's does not say where the Corojo wrapper is grown.",
+  "verified": true,
+  "verifyNotes": "No changes. Holt's is the only page found; it confirms the Corojo wrapper, Nicaragua, medium strength and both sizes, and shows it out of stock. Holt's says only 'the Oliva factory in Esteli'; the factory name is from halfwheel's NUb coverage. It is not on the maker's site."
+ },
+ {
+  "brand": "Patina",
+  "line": "Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra oscuro",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut broadleaf)",
+  "filler": "USA, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Precipitation",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Rustic",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Copper",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Bronze",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "earth",
+   "black pepper",
+   "dark chocolate",
+   "dried fruit"
+  ],
+  "about": "The fourth core line from Mo Maali's Patina Cigars, introduced at PCA 2022 and made at NACSA in Estelí. It wraps a broadleaf binder and U.S. and Nicaraguan fillers in an Ecuadorian Sumatra oscuro leaf.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.patinacigars.com/cigars/",
+   "https://halfwheel.com/patina-sumatra-arrives-at-stores/412802/",
+   "https://halfwheel.com/patina-sumatra-copper/414336/"
+  ],
+  "notes": "The maker calls it a medium-full blend; halfwheel's review of the Copper size found it closer to medium.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory, sizes and 2022 release confirmed on halfwheel; medium-full wording confirmed on the maker's page."
+ },
+ {
+  "brand": "Patina",
+  "line": "Oro de Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian habano oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua, USA (Connecticut broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petite Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Extra",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "wood",
+   "toast",
+   "nuts",
+   "leather",
+   "earth",
+   "white pepper"
+  ],
+  "about": "A core Patina line released in 2024 and made at NACSA in Estelí. Owner Mo Maali revived the name from a dormant Chicago shop exclusive that helped spark his interest in boutique cigars.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.patinacigars.com/cigars/",
+   "https://halfwheel.com/patina-cigars-newest-core-line-oro-de-nicaragua-heads-to-stores/435779/",
+   "https://halfwheel.com/patina-oro-de-nicaragua-petite-robusto/451606/"
+  ],
+  "notes": "The earlier Oro de Nicaragua was made by My Father for Casa de Montecristo in Chicago; this is a different blend. Patina billed it as its fullest cigar at launch, and reviews put the strength between medium and medium-full.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory and five sizes confirmed on halfwheel. No source gives a single strength word: the maker calls it its fullest cigar, halfwheel rated it medium-plus and Developing Palates between medium and medium-full."
+ },
+ {
+  "brand": "Patina",
+  "line": "Red Pill",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut broadleaf)",
+  "filler": "Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "5 x 54 BP",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "6 x 54 BP",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cocoa",
+   "earth",
+   "espresso",
+   "nuts",
+   "cinnamon"
+  ],
+  "about": "A regular-production Patina line launched in October 2025 and made at NACSA in Estelí. It was the company's first box-pressed cigar, with a round toro added in April 2026.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/patina-prepares-to-ship-red-pill-releases-additional-details/455335/",
+   "https://halfwheel.com/patina-red-pill-5-x-54-bp/457998/",
+   "https://halfwheel.com/patinas-red-pill-line-addding-toro-vitola-in-early-april/464766/"
+  ],
+  "notes": "Patina bills it as the fullest profile in its lineup, but halfwheel and Developing Palates reviews rated the strength around medium with full flavor. BP means box-pressed. A Red Pill Sumatra version has been teased.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory and three sizes confirmed on halfwheel. Medium strength matches the halfwheel and Developing Palates reviews; the Red Pill Sumatra tease is confirmed at https://halfwheel.com/patina-plans-red-pill-sumatra/474344/."
+ },
+ {
+  "brand": "Patina",
+  "line": "Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "USA, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "cocoa",
+   "coffee",
+   "black pepper",
+   "leather"
+  ],
+  "about": "Patina's first limited edition, released in 2023 to mark the company's first five years. It was also the brand's first Connecticut broadleaf wrapped cigar and was named Developing Palates' top cigar of 2023.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/patina-anniversary-shipping-to-stores-next-week/422057/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-patina-anniversary/",
+   "https://cigar-coop.com/2024/05/pca-2024-patina-cigars.html"
+  ],
+  "notes": "Limited to 500 numbered boxes of 10 (5,000 cigars) in one 6 x 52 toro size.",
+  "verified": true,
+  "verifyNotes": "Replaced the maker link, which carries no specs, with the Cigar Coop page that confirms the Developing Palates number one cigar of 2023 claim. Blend, factory, size and 500 boxes of 10 confirmed on halfwheel; medium-full strength confirmed on the Developing Palates review."
+ },
+ {
+  "brand": "Patina",
+  "line": "LE 2024",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "USA, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "toast",
+   "nuts",
+   "black pepper",
+   "cedar"
+  ],
+  "about": "Patina's 2024 limited edition, a 5 x 54 robusto made at NACSA in Estelí that began shipping in November 2024. It uses the same broadleaf over San Andrés leaf pairing as the earlier Patina Anniversary.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/patina-cigars-begins-shipping-le-2024/444538/",
+   "https://halfwheel.com/patina-le-2024/445701/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-patina-le-2024/"
+  ],
+  "notes": "Limited to 500 boxes of 10 (5,000 cigars). Reviewers rated the strength from medium to medium-full.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory, size and 500 boxes of 10 confirmed on halfwheel and Developing Palates."
+ },
+ {
+  "brand": "Patina",
+  "line": "Verdigris",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cream",
+   "earth",
+   "black pepper",
+   "wood",
+   "smoke"
+  ],
+  "about": "A limited collaboration between Mo Maali of Patina Cigars and Tyler Jeffery of Viso Horny, blended together at NACSA in Estelí and released in July 2025. It came unbanded with a green foot ribbon in bundles of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/patina-y-viso-verdigris-heads-to-stores/453273/",
+   "https://halfwheel.com/patina-y-viso-verdigris/454618/"
+  ],
+  "notes": "Sold as Patina y Viso Verdigris, a joint release with Viso Horny. Limited to 300 bundles of 10 and shipped to only 10 stores. Strength and body are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory, size, 300 bundles and the 10 stores confirmed on halfwheel; strength and body are from its review."
+ },
+ {
+  "brand": "Patina",
+  "line": "Leprechaun Dust",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The second limited collaboration between Patina Cigars and Viso Horny, a green candela-wrapped robusto extra made at NACSA in Estelí. It shipped in March 2026 ahead of St. Patrick's Day.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/patina-y-viso-horny-leprechaun-dust-ships/464106/",
+   "https://halfwheel.com/patina-y-viso-leprechaun-dust-shipping-next-month/460579/"
+  ],
+  "notes": "Sold as Patina y Viso Horny Leprechaun Dust. Limited to 200 bundles of 10. The binder and filler are described only as grown by Oliva Tobacco Co., with no countries given.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, factory, size and 200 bundles confirmed on halfwheel. No source publishes strength, binder or filler origins."
+ }
+]

@@ -1,0 +1,802 @@
+[
+ {
+  "brand": "Cusano",
+  "line": "18",
+  "found": true,
+  "officialName": "18 Double Connecticut",
+  "wrapperLeaf": "US Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "US Connecticut Shade",
+  "filler": "Dominican Republic (Piloto Ligero, San Vicente Olor, Oro Seco aged 18 years)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Gordo",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 50
+   },
+   {
+    "name": "Tubo",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "A mild Dominican cigar that uses Connecticut Shade leaf for both wrapper and binder over filler that includes tobacco aged 18 years. It is made for Cusano, now a Davidoff brand, by Hendrik Kelner.",
+  "released": 2003,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/cusano-18",
+   "https://mikescigars.com/brands/cusano-18-double-connecticut",
+   "https://www.neptunecigar.com/tips/cusano-cigars"
+  ],
+  "notes": "Sold as Cusano 18 Double Connecticut. Neptune lists it as mild, Mike's Cigars as mild to medium. halfwheel reported in 2016 that Davidoff's new Dominican lines would replace the 18 Series, but retailers still stock it.",
+  "verified": true,
+  "verifyNotes": "Swapped the Mike's single-size link for its line page, which shows all five sizes including the Tubo. Notes now mention halfwheel's 2016 report that the 18 Series was to be replaced; dropped the factory remark."
+ },
+ {
+  "brand": "Cusano",
+  "line": "18 Paired Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "US Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": null,
+  "filler": "Dominican Republic (Olor, Piloto, Oro aged 18 years)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Gordo",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "smoke",
+   "sweetness"
+  ],
+  "about": "The maduro counterpart to Cusano 18, pairing a dark Connecticut Broadleaf wrapper with Brazilian Mata Fina and Dominican filler that includes tobacco aged 18 years. It is made in the Dominican Republic for Cusano, a Davidoff brand.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/cusano-18-paired-maduro",
+   "https://mikescigars.com/cusano-18-paired-maduro-robusto",
+   "https://mikescigars.com/brands/cusano-18-paired-maduro"
+  ],
+  "notes": "Sources disagree on the Mata Fina: Neptune's description puts a Brazilian Mata Fina leaf under the Broadleaf wrapper, while the spec tables at Neptune and Mike's Cigars list a Dominican binder with Brazilian leaf in the filler. Neptune lists it as medium, Mike's as medium to full.",
+  "verified": true,
+  "verifyNotes": "Added Mike's line page as the source for the Gordo size, which Neptune does not list. Corrected the note: Neptune's own spec table sides with Mike's on the binder and filler, only its description differs."
+ },
+ {
+  "brand": "Cusano",
+  "line": "CC",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian sun grown (Colorado shade)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "606",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "spice"
+  ],
+  "about": "A bundled cigar from Cusano's Celebrity Series, blended as a Cuban-style smoke with an Ecuadorian wrapper over Dominican binder and filler. CC stands for Cusano Cubans.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://mikescigars.com/brands/cusano-cc",
+   "https://www.neptunecigar.com/cigar/cc",
+   "https://www.neptunecigar.com/tips/cc-cigars"
+  ],
+  "notes": "Neptune's guide and Mike's spec table say medium to full, Neptune's product listing says medium, and Mike's description calls it mellow. It uses mixed short and long filler. Part of the value-priced Celebrity Series with M1, MC and P1.",
+  "verified": true,
+  "verifyNotes": "Swapped the Mike's single-size link for its line page, which is the only source for the 606 size. Notes now show the full spread of strength ratings and that the filler is mixed."
+ },
+ {
+  "brand": "Cusano",
+  "line": "M1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "606",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "hay",
+   "toffee",
+   "coffee",
+   "cream"
+  ],
+  "about": "The first cigar in Cusano's Celebrity Series, a mild bundled Dominican with a Connecticut Shade wrapper. It was made as a low-cost alternative for fans of mild Connecticut cigars.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://mikescigars.com/cusano-m1-robusto",
+   "https://www.neptunecigar.com/cigar/m1",
+   "https://halfwheel.com/cusano-bundle-selection-ships-today/119212/"
+  ],
+  "notes": "Wrapper origin disagrees: Mike's Cigars and halfwheel say Ecuadorian Connecticut, Neptune lists US Connecticut Shade. Neptune calls it mild, Mike's medium. It uses mixed short and long filler. The 2016 M1 Connecticut bundles came in Robusto, Churchill 7 x 48 and Gordo 6 x 60.",
+  "verified": true,
+  "verifyNotes": "Fields kept. The 606 size is confirmed on Mike's line page (mikescigars.com/brands/cusano-m1), not on the three listed sources. halfwheel's Ecuadorian wrapper refers to the 2016 M1 Connecticut, which it called a new line. Reworded notes and added the mixed filler."
+ },
+ {
+  "brand": "Cusano",
+  "line": "MC",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "606",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "A bundled Dominican cigar from Cusano's Celebrity Series with a Connecticut Shade wrapper over Dominican binder and filler. It is sold as a creamy everyday smoke at a low price.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://mikescigars.com/cusano-mc-robusto",
+   "https://mikescigars.com/brands/cusano-mc",
+   "https://www.neptunecigar.com/tips/cusano-cigars"
+  ],
+  "notes": "Neptune describes it as a medium Connecticut; Mike's Cigars lists medium to full. Mike's says it is made at Hendrik Kelner's Tabadom factory. The wrapper's country of origin is not stated.",
+  "verified": true,
+  "verifyNotes": "Added Mike's line page, which is where the five sizes are listed. No field changes."
+ },
+ {
+  "brand": "Cusano",
+  "line": "P1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "606",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness"
+  ],
+  "about": "The maduro member of Cusano's Celebrity Series, a bundled Dominican cigar with a dark wrapper over Dominican binder and filler. It is made for Cusano by Hendrik Kelner of Davidoff.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://mikescigars.com/cusano-p1-robusto",
+   "https://www.neptunecigar.com/cigar/cusano-p1",
+   "https://halfwheel.com/cusano-bundle-selection-ships-today/119212/"
+  ],
+  "notes": "Neptune calls it medium; Mike's Cigars lists medium to full. The wrapper origin is not given for the original. The 2016 P1 Maduro bundle line uses a Mexican wrapper, Ecuadorian Connecticut binder and Dominican filler.",
+  "verified": true,
+  "verifyNotes": "Fields kept. The five sizes are confirmed on Mike's line page (mikescigars.com/brands/cusano-p1), not on the three listed sources; Neptune currently has no P1 in stock. Reworded the note, since halfwheel called the 2016 P1 Maduro a new line, not a reissue."
+ },
+ {
+  "brand": "Cusano",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": "Dominican Connecticut",
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Connecticut)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Occidental Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "spice",
+   "coffee",
+   "cream"
+  ],
+  "about": "A value-priced Dominican cigar with an Ecuadorian Connecticut wrapper, launched in 2016 as the first new Cusano since Davidoff bought the brand in 2009.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-kicks-off-cusano-revamp-with-new-dominican-connecticut/105768/",
+   "https://www.cigarworld.com/cigars/cusano/cusano-connecticut/"
+  ],
+  "notes": "Launched as Cusano Dominican Connecticut. halfwheel reports an Ecuadorian Connecticut binder; Cigar World lists the binder as Dominican.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cusano",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Dominican Maduro",
+  "wrapperLeaf": "Mexican San Andrés Negro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Connecticut)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Occidental Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "wood",
+   "spice",
+   "earth",
+   "sweetness"
+  ],
+  "about": "A value-priced Dominican maduro with a Mexican San Andrés wrapper, released in 2016 alongside the Dominican Connecticut as part of Davidoff's Cusano relaunch.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cusano-dominican-maduro-shipping-next-month/110429/",
+   "https://www.cigarworld.com/cigars/cusano/cusano-maduro/"
+  ],
+  "notes": "Launched as Cusano Dominican Maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "SuperEgo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (Criollo 98 viso, Corojo ligero, Piloto seco), Nicaragua (Jalapa seco)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "toffee",
+   "cedar",
+   "cream",
+   "pepper"
+  ],
+  "about": "The debut line from Freud Cigar Co., named for Sigmund Freud's concept of the superego. It was blended with Wiber Ventura and is made at Tabacalera William Ventura in the Dominican Republic.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://freudcigars.com/cigars/superego",
+   "https://halfwheel.com/freud-superego-robusto-extra/413592/",
+   "https://halfwheel.com/freud-cigar-co-s-superego-line-gets-belicoso/432427/"
+  ],
+  "notes": "The maker's spec list shows a Dominican corojo-seed wrapper, but the blender's quote on the same page and halfwheel both say Ecuadorian. The blender calls strength medium to medium-strong; halfwheel's review found mild strength with medium body. The Magnum went on hiatus in late 2023 when the Belicoso was added.",
+  "verified": true,
+  "verifyNotes": "Added to notes that halfwheel's review rated the strength mild. No field changes."
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "AlterEgo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (Pelo de Oro, Corojo, Havana 92, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Diaz Cabrera",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "nuts",
+   "leather",
+   "floral",
+   "cream"
+  ],
+  "about": "Freud's second regular line and its first core cigar from Eladio Diaz's Tabacalera Diaz Cabrera. The blend is known for including Pelo de Oro, a rarely used tobacco.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://freudcigars.com/cigars/alterego",
+   "https://halfwheel.com/freud-alterego-toro/423382/"
+  ],
+  "notes": "The maker describes it as between medium and full bodied. halfwheel's review put strength at medium and body at medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "Agape",
+  "found": true,
+  "officialName": "Agape Limited Edition",
+  "wrapperLeaf": "Dominican (variety undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Diaz Cabrera",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "floral",
+   "cream",
+   "spice",
+   "cocoa",
+   "oak"
+  ],
+  "about": "Freud's first limited edition, a Dominican puro blended by Eladio Diaz and rolled at his Tabacalera Diaz Cabrera factory. The name is Greek for the highest form of love.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://freudcigars.com/cigars/agape",
+   "https://halfwheel.com/freud-cigars-agape-limited-edition/416570/"
+  ],
+  "notes": "The full blend is not disclosed beyond being all Dominican with seven tobaccos. Limited to 3,500 boxes of 10. The follow-up in 2025 was respelled Agapi and is a different blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "Agapi",
+  "found": true,
+  "officialName": "Agapi Limited Edition 2025",
+  "wrapperLeaf": "Mexican Habano/Negro San Andrés hybrid",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Corojo 99)",
+  "filler": "Dominican Republic, Mexico",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Diaz Cabrera",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "charred meat",
+   "oak",
+   "coffee",
+   "nutmeg",
+   "honey"
+  ],
+  "about": "The second release in Freud's Eladio Diaz limited edition series, a single torpedo with a Mexican wrapper over a Dominican binder. It follows the 2022 Agape under a new spelling.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://freudcigars.com/cigars/agapi/",
+   "https://halfwheel.com/freud-cigar-co-now-shipping-agapi-limited-edition-2025/453680/",
+   "https://halfwheel.com/freud-releases-elvis-themed-cigar/461780/"
+  ],
+  "notes": "Limited to 300 boxes of 10. Renamed from Agape because people mispronounced it. halfwheel gave two different filler lists for it, so only the countries are recorded here.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "Sigmund",
+  "found": true,
+  "officialName": "Limited Edition Sigmund: Chapter One - The Disruptor",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Diaz Cabrera",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "walnut",
+   "cocoa"
+  ],
+  "about": "A limited edition released in 2023 for Sigmund Freud's birthday, blended by Eladio Diaz and made at his Tabacalera Diaz Cabrera factory in a single 7 1/2 x 50 size.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://freudcigars.com/cigars/sigmund",
+   "https://halfwheel.com/freud-limited-edition-sigmund-chapter-one-the-disruptor/428488/"
+  ],
+  "notes": "The blend is undisclosed. The company says only that it uses seven tobaccos, five of them in the filler. Limited to 3,500 boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "Elvis",
+  "found": true,
+  "officialName": "Elvis by Freud Cigars",
+  "wrapperLeaf": "Dominican Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Sumatra",
+  "filler": "Dominican Republic (Broadleaf, Criollo 98 viso, Piloto), Ecuador (Corojo viso)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Panatela",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A licensed Elvis Presley cigar from Freud Cigar Co., made at Tabacalera William Ventura in a slender 7 x 38 size. The first edition launched in early 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://freudcigars.com/cigars/elvis/",
+   "https://halfwheel.com/freud-releases-elvis-themed-cigar/461780/"
+  ],
+  "notes": "First edition was 1,000 boxes of 10. The company has said it plans to make Elvis a regular release. halfwheel calls the size a lancero.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "Carlos & Maria Amorio",
+  "found": true,
+  "officialName": "Carlos & Maria Amorío",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Nicaragua (seco), Ecuador (Habano viso), Dominican Republic (San Vicente ligero), Criollo 98 viso of undisclosed origin",
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "wood",
+   "floral",
+   "grape",
+   "salt"
+  ],
+  "about": "The first line in Freud Cigar Co.'s Carlos & Maria brand, which carries no Freud branding. It was blended by Wiber Ventura and is rolled at El Maestro, a small factory run by Tabacalera William Ventura.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://freudcigars.com/carlos-maria/amorio/",
+   "https://halfwheel.com/carlos-maria-amorio-corona-gorda/437615/",
+   "https://halfwheel.com/freuds-carlos-maria-amorio-begins-shipping/429872/"
+  ],
+  "notes": "No strength rating is published by the maker. halfwheel's review found strength on the milder side of medium with fuller flavor.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Freud Cigar Co.",
+  "line": "Carlos & Maria Orgasmo",
+  "found": true,
+  "officialName": "Carlos & Maria Orgasmo Limited Edition",
+  "wrapperLeaf": "Ecuadorian (variety not stated)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "chocolate",
+   "cream",
+   "pepper",
+   "caramel"
+  ],
+  "about": "The second Carlos & Maria release from Freud Cigar Co., a limited 6 x 60 blended by Wiber Ventura and made at Tabacalera William Ventura.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://freudcigars.com/carlos-maria/orgasmo",
+   "https://halfwheel.com/freud-cigar-co-s-carlos-maria-orgasmo-limited-edition-arriving-in-stores/439527/",
+   "https://halfwheel.com/carlos-maria-orgasmo-limited-edition-debuting-at-pca-2024/436154/"
+  ],
+  "notes": "Limited to 500 boxes of 10. The maker calls the size a Magnum. It is a different blend from the regular Amorío.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel announcement, which is the page that says it is a different blend from Amorio. No field changes."
+ }
+]

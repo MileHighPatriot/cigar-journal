@@ -1,0 +1,1072 @@
+[
+ {
+  "brand": "Domain",
+  "line": "Neutron",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua (Condega, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Revlent",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Box Press Toro Gordo",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Box Press Correlation",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Box Press Neural Plasticity",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso Shaggy His Excellency",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Simulation",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "cedar",
+   "macadamia",
+   "cocoa",
+   "earth"
+  ],
+  "about": "One of the two debut lines from Domain Cigars, the company started by Esteban Disla and Daniel Lance. It is the milder of the pair, a San Andrés wrapped Nicaraguan blend made at Domain's own factory in Estelí.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://domaincigars.com/project/neutron/",
+   "https://halfwheel.com/domain-cigars-debut-lines-head-to-stores/437756/",
+   "https://cigar-coop.com/2024/10/domain-neutron-toro-cigar-review.html"
+  ],
+  "notes": "Maker calls it medium intensity. Sold in nine sizes, three of them box pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Domain",
+  "line": "Negentropy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua (Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Revlent",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Box Press Toro Gordo",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Box Press Correlation",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Box Press Neural Plasticity",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso Shaggy His Excellency",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Simulation",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "eucalyptus",
+   "molasses",
+   "clove",
+   "black pepper",
+   "leather",
+   "hickory"
+  ],
+  "about": "One of the two debut lines from Domain Cigars, made at the company's own factory in Estelí. It pairs an Ecuadorian habano wrapper with Nicaraguan binder and filler and is pitched as the bolder of the two.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://domaincigars.com/project/negentropy/",
+   "https://halfwheel.com/domain-negentropy-robusto-extra/440059/"
+  ],
+  "notes": "The maker gives no strength rating, only \"impactful intensity\". halfwheel's review found the nicotine strength a little under medium with medium-plus body, so do not promise a powerhouse.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Domain",
+  "line": "Entropy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Belicoso Shaggy His Excellency",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "sweet cream",
+   "espresso",
+   "milk chocolate",
+   "fig",
+   "raisin",
+   "red pepper"
+  ],
+  "about": "Domain's third line, a Connecticut broadleaf wrapped cigar over Nicaraguan binder and ligero-heavy filler. The company says about 90 percent of the blend comes from Negentropy, and it grew out of the No7B prototype.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://domaincigars.com/project/entropy/",
+   "https://halfwheel.com/domain-cigars-begins-shipping-entropy/445526/",
+   "https://cigar-coop.com/2025/09/domain-entropy-robusto-gordo-cigar-review.html"
+  ],
+  "notes": "Maker gives no strength rating. Cigar Coop's review put strength and body at medium rising to medium-full. A 5 x 42 Corona Heritage Cabinet size was added in 2026 for select retailers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Domain",
+  "line": "Attenuation",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed claro",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (including Vanguard Aegis hybrid)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "His Eminence",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "honeysuckle",
+   "pine nuts",
+   "cardamom",
+   "butter"
+  ],
+  "about": "Domain's first Connecticut-seed wrapped line, released in 2026 and made at the company's factory in Estelí. The filler includes Vanguard Aegis, a corojo and criollo 98 cross that Domain says it developed.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://domaincigars.com/project/attenuation/",
+   "https://halfwheel.com/domain-cigars-begins-shipping-attenuation/471878/",
+   "https://halfwheel.com/domain-attenuation-toro-extra/476411/"
+  ],
+  "notes": "Maker calls it medium-bodied and gives no strength rating; halfwheel's review landed around medium. His Eminence is a belicoso with a shaggy foot.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Domain",
+  "line": "No7B",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A prototype blend from Domain Cigars that first went to retailers in a 2024 launch sampler and became the basis for the Entropy line. The prototype batch was about 2,000 cigars, and what was left was sold through 18 retailers in plain white Limited Factory Sample bands.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/domain-cigars-announces-entropy-as-newest-line-releases-no7b-prototypes/444297/",
+   "https://cigar-coop.com/2024/10/domain-cigars-releasing-n7b-prototype-and-entropy-line-cigar-news.html"
+  ],
+  "notes": "Also written N7B. Entropy is the finished version: it uses a different broadleaf crop and one changed filler leaf. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel says the whole prototype batch was about 2,000 cigars and only the remainder was sold. Factory and country are not stated for the prototype by name; halfwheel ties it to Domain's own factory."
+ },
+ {
+  "brand": "German Engineered Cigars",
+  "line": "RVGN Rauchvergnügen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian hybrid seed",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Piloto), Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "InterCigar S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Panatela",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "herbs",
+   "mint",
+   "coffee",
+   "ginger",
+   "pepper"
+  ],
+  "about": "The first line from German Engineered Cigars, a Hamburg company led by co-founders Oliver Nickels and Jan Klaas Mahler. It launched in 2016 and is made in the Dominican Republic, with sizes also labeled by their volume in cubic centimeters.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://cigarengineers.com/",
+   "https://halfwheel.com/pca-2025-german-engineered-cigars/450584/",
+   "https://halfwheel.com/rvgn-rauchvergnugen-64/299044/"
+  ],
+  "notes": "The size lineup was reworked in 2025; older sizes such as #18, #36 and #64 differ from the current four. The maker's single rating is given as body: medium.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel and Cigar Coop name a third original founder, so it no longer says the company was founded by two people only."
+ },
+ {
+  "brand": "German Engineered Cigars",
+  "line": "RVGN Extrem",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican, Cuban seed (variety undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor, Jacagua)",
+  "filler": "Dominican Republic (Piloto, Criollo 98), Nicaragua (Condega)",
+  "country": "Dominican Republic",
+  "factory": "InterCigar S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "pine",
+   "espresso",
+   "dark cocoa",
+   "cherry",
+   "white pepper"
+  ],
+  "about": "A bolder take on the RVGN line that German Engineered Cigars released in 2026 for its 10th anniversary. It is made in the Dominican Republic and was the company's first cigar with an NFC chip in the band.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://cigarengineers.com/",
+   "https://halfwheel.com/german-engineered-cigars-releasing-rvgn-extrem-at-pca-2026/462637/",
+   "https://halfwheel.com/german-engineered-cigars-announces-akut-pill-like-packaging-for-cigars/465323/"
+  ],
+  "notes": "The maker does not name the wrapper seed, so it is not confirmed as San Andrés. The 4 x 50 size is sold in the AKUT blister pack.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "German Engineered Cigars",
+  "line": "Raumzeit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Connecticut shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Nicaragua (Jalapa), Dominican Republic (Piloto)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Tambor",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Panatela",
+    "length": 5,
+    "ring": 37
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "honey",
+   "malt",
+   "white pepper",
+   "clove"
+  ],
+  "about": "The second line from German Engineered Cigars, introduced in 2022. It is the mildest in the range, with a Connecticut-seed wrapper grown in Nicaragua, and is made in Estelí.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://cigarengineers.com/",
+   "https://cigar-coop.com/2023/02/cigar-review-raumziet-robusto-by-german-engineered-cigars.html",
+   "https://halfwheel.com/german-engineered-cigars-adds-21-panatela-pigtail-for-three-lines/429168/"
+  ],
+  "notes": "Sizes are the maker's current list; the 2022 launch sizes were different.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "German Engineered Cigars",
+  "line": "Weltschmerz",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Tambor",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Panatela",
+    "length": 5,
+    "ring": 37
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "grass",
+   "hazelnut",
+   "toast",
+   "oak",
+   "vanilla",
+   "blueberry"
+  ],
+  "about": "A Nicaraguan-made line from German Engineered Cigars with an Ecuadorian habano oscuro wrapper, first released in late 2022. Apart from the wrapper it is all Nicaraguan tobacco.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://cigarengineers.com/",
+   "https://cigar-coop.com/2022/10/cigar-news-german-engineered-cigars-announce-weltschmerz.html",
+   "https://halfwheel.com/german-engineered-cigars-adds-21-panatela-pigtail-for-three-lines/429168/"
+  ],
+  "notes": "The maker's single rating is given as body: medium. The 2022 announcement listed the perfecto as 5 1/2 x 54; the maker now lists 5 x 54.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "German Engineered Cigars",
+  "line": "Kraftwerk",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Piloto, Olor, Corojo)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "black pepper",
+   "dark wood",
+   "clove",
+   "cherry"
+  ],
+  "about": "The fullest blend from German Engineered Cigars, released in 2025. It uses Mexican San Andrés for both wrapper and binder over Dominican filler and was blended by Hostos Fernández.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarengineers.com/",
+   "https://halfwheel.com/pca-2025-german-engineered-cigars/450584/",
+   "https://halfwheel.com/german-engineered-cigars-announces-akut-pill-like-packaging-for-cigars/465323/"
+  ],
+  "notes": "At launch halfwheel also listed a Toro (6 1/4 x 52) and Gordo (6 x 60); the maker's site now shows only the two robusto sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Hermanos de Armas",
+  "line": "Cataclysm",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Ometepe, Condega)",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "One of three core lines from Hermanos de Armas (HDA Cigars), a veteran-owned brand founded by Andray McCuien and Zack Van Ginkel. It has an Ecuadorian habano wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://hdacigars.com/hda-cigars-our-cigars/",
+   "https://halfwheel.com/hermanos-de-armas-cigars-moves-production-to-rojas-cigars/472387/",
+   "https://hdacigars.com/about-us/"
+  ],
+  "notes": "Made at Fabrica Oveja Negra until mid 2026, then moved to Rojas Cigars; the company says the blend was matched. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Added the maker's about page as a source for the founders and veteran ownership. Maker publishes no strength."
+ },
+ {
+  "brand": "Hermanos de Armas",
+  "line": "Descending Shadows",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Condega, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "One of three core lines from Hermanos de Armas (HDA Cigars), a veteran-owned brand. It has an Ecuadorian sun grown wrapper over Nicaraguan binder and filler, and the maker says flavor and strength build as it burns.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://hdacigars.com/hda-cigars-our-cigars/",
+   "https://halfwheel.com/hermanos-de-armas-cigars-moves-production-to-rojas-cigars/472387/",
+   "https://hdacigars.com/about-us/"
+  ],
+  "notes": "Made at Fabrica Oveja Negra until mid 2026, then moved to Rojas Cigars; the company says the blend was matched. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Added the maker's about page as a source for the founders and veteran ownership. Maker publishes no strength."
+ },
+ {
+  "brand": "Hermanos de Armas",
+  "line": "Veiled Mutiny",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro in the three-line core range from Hermanos de Armas (HDA Cigars), a veteran-owned brand. It has an Ecuadorian maduro wrapper over Nicaraguan binder and filler, and the maker points to a touch of sweetness.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://hdacigars.com/hda-cigars-our-cigars/",
+   "https://halfwheel.com/hermanos-de-armas-cigars-moves-production-to-rojas-cigars/472387/",
+   "https://hdacigars.com/about-us/"
+  ],
+  "notes": "Made at Fabrica Oveja Negra until mid 2026, then moved to Rojas Cigars; the company says the blend was matched. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Added the maker's about page as a source for the founders and veteran ownership. Maker publishes no strength."
+ },
+ {
+  "brand": "Hermanos de Armas",
+  "line": "Phantom Fury",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The first limited edition from Hermanos de Armas (HDA Cigars), released in 2025 in a single robusto size. It used an Indonesian Sumatra wrapper over Nicaraguan binder and filler.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://hdacigars.com/hda-cigars-our-cigars/",
+   "https://halfwheel.com/hermanos-de-armas-ships-sentinel/476998/"
+  ],
+  "notes": "A one-time 2025 release that the maker says is gone. No strength rating or tasting notes are published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Hermanos de Armas",
+  "line": "Sentinel",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Jalapa, Condega, Estelí)",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "sweetness",
+   "spice"
+  ],
+  "about": "The 2026 limited edition from Hermanos de Armas (HDA Cigars), a 6 x 50 toro blended with Lee Marsh of Stolen Throne and made at the Rojas factory in Estelí. The name nods to U.S. surveillance aircrews.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hermanos-de-armas-ships-sentinel/476998/",
+   "https://hdacigars.com/hda-cigars-our-cigars/"
+  ],
+  "notes": "Limited to 600 boxes of 20. The maker's page calls the 6 x 50 a robusto; halfwheel lists it as a toro. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Factory name changed from Rojas Cigar Factory to Rojas Cigars so it matches the other HDA lines; same factory."
+ },
+ {
+  "brand": "Regius",
+  "line": "Black Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (shade grown)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.125,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Grandido",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Lord Madsen",
+    "length": 6,
+    "ring": 38
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Aluminum Tins",
+    "length": 4.375,
+    "ring": 32
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "cocoa",
+   "nuts",
+   "leather",
+   "oak"
+  ],
+  "about": "The original Regius of London line from the British brand owned by Akhil Kapacee, a Nicaraguan puro made by Plasencia. It was sold in the U.K. first and reached U.S. stores in late 2011.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/regius-robusto/21696/",
+   "https://cigar-coop.com/2014/05/cigar-review-regius-of-london-black.html"
+  ],
+  "notes": "Often just called Regius or Regius of London; Black Label is the band color. halfwheel found the robusto a solid medium and the corona milder; Cigar Coop had the corona at medium, rising late. The U.K. launch year is not confirmed.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes: removed the line about the maker's website and added the strength spread between reviews. Regular production per 2011 and 2014 sources; maker site is offline, so current availability is not confirmed."
+ },
+ {
+  "brand": "Regius",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (origin undisclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.125,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Grandido",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "earth",
+   "espresso",
+   "leather",
+   "oak",
+   "vanilla"
+  ],
+  "about": "A maduro-wrapped Regius line that the company says builds on the Black Label with an updated blend. It went into wide release in March 2018 in five sizes, sold in 25-count boxes.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/regius-maduro-corona/269995/",
+   "https://cigar-coop.com/2018/03/cigar-news-regius-maduro-heads-for-widespread-release.html"
+  ],
+  "notes": "Regius did not disclose the wrapper origin, binder, filler or factory. No official strength; halfwheel's review of the corona found it just under medium.",
+  "verified": true,
+  "verifyNotes": "Reworded about: the maker described an updated blend built on Black Label, not the same blend with a maduro wrapper. Blend, country and factory confirmed as undisclosed on halfwheel. Current availability not confirmed."
+ },
+ {
+  "brand": "Regius",
+  "line": "Exclusivo U.S.A.",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (including Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Fat Perfecto",
+    "length": 5.75,
+    "ring": 60
+   },
+   {
+    "name": "Pressed Perfecto",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Lancero Extra",
+    "length": 7.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The first Regius Exclusivo U.S.A., known as the red label, a Nicaraguan puro made by Plasencia. It debuted at Casa de Montecristo in Illinois in May 2014 and began shipping nationally at the end of that August.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/regius-exclusivo-u-s-ships-nationwide/70083/",
+   "https://cigar-coop.com/2014/09/cigar-news-regius-exclusivo-usa-heading.html",
+   "https://cigar-coop.com/2014/12/cigar-news-regius-adds-toro-and-robusto.html"
+  ],
+  "notes": "Described as medium bodied. Sizes disagree: halfwheel lists Pressed Perfecto 6 1/2 x 54 and Toro Extra 6 1/2 x 46, Cigar Coop lists both as 6 1/2 x 56. The Fat Perfecto tapers from 60 to 54 ring.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel says national shipping began at the end of August 2014, not September. Maker gives body only, no strength. Current availability not confirmed."
+ },
+ {
+  "brand": "Regius",
+  "line": "White Label Exclusivo U.S.A.",
+  "found": true,
+  "officialName": "Claro Especial Exclusivo U.S.A.",
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Fat Perfecto",
+    "length": 5.75,
+    "ring": 60
+   },
+   {
+    "name": "Pressed Perfecto",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Lancero Extra",
+    "length": 7.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "fruit",
+   "black pepper",
+   "wood"
+  ],
+  "about": "The second Regius Exclusivo U.S.A. release, a Nicaraguan puro with a white and silver band that launched in September 2014. It shares the six sizes of the red label version.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/second-regius-exclusivo-u-s-coming/70239/",
+   "https://cigar-coop.com/2014/09/cigar-review-regius-of-london-claro.html",
+   "https://cigar-coop.com/2014/12/cigar-news-regius-adds-toro-and-robusto.html"
+  ],
+  "notes": "White Label is the band; the formal name is Claro Especial Exclusivo U.S.A. It is not the Dominican-made Regius White Label from 2012. Strength and body are from Cigar Coop's review. Cigar Coop lists two sizes as 6 1/2 x 56 where halfwheel has 54 and 46 ring.",
+  "verified": true,
+  "verifyNotes": "Rewrote notes to warn about the separate Dominican-made Regius White Label from 2012. Current availability not confirmed."
+ },
+ {
+  "brand": "Regius",
+  "line": "Exclusivo U.S.A. Oscuro Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Fat Perfecto",
+    "length": 5.75,
+    "ring": 60
+   },
+   {
+    "name": "Pressed Perfecto",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Lancero Extra",
+    "length": 7.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark chocolate",
+   "leather",
+   "hay",
+   "espresso",
+   "black pepper"
+  ],
+  "about": "The third and last Regius Exclusivo U.S.A. blend, with a blue band and a dark San Andrés wrapper over Nicaraguan tobacco. It was released in early 2016 and is made by Plasencia.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/regius-exclusivo-u-s-a-oscuro-especial-pressed-perfecto/112212/",
+   "https://cigar-coop.com/2016/11/cigar-review-regius-exclusivo-u-s-a-oscuro-especial-robusto.html"
+  ],
+  "notes": "Billed as the strongest Regius at the time, but both halfwheel and Cigar Coop found it about medium. Cigar Coop lists the Pressed Perfecto and Toro Extra as 6 1/2 x 56; halfwheel has 6 1/2 x 54 and 6 1/2 x 46.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

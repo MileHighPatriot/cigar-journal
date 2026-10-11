@@ -1,0 +1,809 @@
+[
+ {
+  "brand": "Camacho",
+  "line": "Connecticut BXP",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras, Dominican Republic, USA (Pennsylvania Broadleaf)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "sweetness"
+  ],
+  "about": "A box-pressed version of the Camacho Connecticut, made by Davidoff's Camacho factory in Honduras. Pennsylvania broadleaf was added to the filler to give the blend more intensity.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/camacho-announces-bxp/139133/",
+   "https://www.cigaraficionado.com/article/camacho-cigars-get-box-pressed-19199",
+   "https://www.neptunecigar.com/cigar/camacho-connecticut-bxp"
+  ],
+  "notes": "Neptune lists the wrapper as USA Connecticut Shade, but Cigar Aficionado and Cigar Coop both say Ecuadorian Connecticut.",
+  "verified": true,
+  "verifyNotes": "Added Dominican Republic to the filler and Corojo to the binder, per Cigar Aficionado. Replaced the Holt's link, which covers the regular Camacho Connecticut and never mentions the BXP, with Cigar Aficionado's BXP article. Rewrote notes to match."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Corojo BXP",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo), USA (Pennsylvania Broadleaf ligero)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "spice",
+   "leather",
+   "oak",
+   "nuts"
+  ],
+  "about": "A box-pressed version of the Camacho Corojo, the all-Honduran corojo blend the brand is known for. Pennsylvania broadleaf ligero was added to the filler for extra punch.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/camacho-corojo-bxp-toro/144524/",
+   "https://halfwheel.com/camacho-announces-bxp/139133/",
+   "https://www.neptunecigar.com/cigar/camacho-corojo-bxp"
+  ],
+  "notes": "Retailers list it as full strength, but halfwheel's review called it medium-plus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Ecuador BXP",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Dominican Republic, USA (Pennsylvania Broadleaf)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "leather"
+  ],
+  "about": "A box-pressed version of the Camacho Ecuador, made by Davidoff's Camacho factory in Honduras. Pennsylvania broadleaf was added to the filler to make the blend more intense.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/article/camacho-cigars-get-box-pressed-19199",
+   "https://www.neptunecigar.com/cigar/camacho-ecuador-bxp",
+   "https://mikescigars.com/brands/camacho-ecuador-bxp"
+  ],
+  "notes": "Sources disagree on strength: Mike's Cigars lists it as medium to full, Neptune lists it as full. It launched in three sizes, but Neptune now shows only the Toro.",
+  "verified": true,
+  "verifyNotes": "Replaced the 2014 press release for the regular Camacho Ecuador, which does not mention the BXP, with Cigar Aficionado's BXP article and the Mike's Cigars listing that supports medium to full. Rewrote notes to match."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Factory Unleashed",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "leather",
+   "cedar",
+   "cream",
+   "white pepper",
+   "earth"
+  ],
+  "about": "The first release in Camacho's limited Factory Unleashed series, a toro with an unfinished shaggy foot so the filler burns on its own before the wrapper. It was sold in 10-count bundles and 100-count crates.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-factory-unleashed/399197/",
+   "https://www.neptunecigar.com/cigars/camacho-factory-unleashed-toro"
+  ],
+  "notes": "Limited to 125,000 cigars. Halfwheel's review put strength at medium-full; Neptune lists it as full. Each Factory Unleashed release is a different blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Factory Unleashed 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "bread",
+   "wood",
+   "black pepper",
+   "earth",
+   "espresso"
+  ],
+  "about": "The second Factory Unleashed release, a shaggy-foot toro with a completely different blend from the first: an Ecuadorian Connecticut wrapper over corojo fillers. It was sold in 10-count bundles and 100-count crates.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-factory-unleashed-2/409593/",
+   "https://www.neptunecigar.com/cigars/camacho-factory-unleashed-2-toro"
+  ],
+  "notes": "Limited to 125,000 cigars. Sources disagree on strength: Neptune lists it as full, but halfwheel's review found it mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Factory Unleashed 3",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "leather",
+   "espresso",
+   "black pepper",
+   "earth"
+  ],
+  "about": "The third Factory Unleashed release, a shaggy-foot toro with a Mexican San Andres wrapper. Like the first two, it was sold in 10-count bundles and 100-count crates.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-factory-unleashed-3/428021/",
+   "https://www.neptunecigar.com/cigars/camacho-factory-unleashed-3-toro"
+  ],
+  "notes": "Limited to 125,000 cigars. Halfwheel's review had it starting at medium and finishing just under full; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Liberty Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "11/18 Perfecto",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "Camacho's annual limited edition, released around the Fourth of July from 2002 through 2021 and usually sold in individual coffins. Most years used the brand's 11/18 perfecto shape.",
+  "released": 2002,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-liberty-series-2021/400079/",
+   "https://halfwheel.com/camacho-liberty-250-now-available-at-select-events/473135/",
+   "https://www.neptunecigar.com/cigar/camacho-liberty"
+  ],
+  "notes": "This is a series, not one blend: the blend changed with each year's release, so there is no single wrapper or strength. The 11/18 perfecto measures 6 x 48/54/48. Davidoff called the 2021 release the last, then brought the name back in 2026 with the Liberty 250.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Liberty 250",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "USA",
+  "wrapperCategory": null,
+  "wrapperOrigin": "USA",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras, USA",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 return of the Camacho Liberty name, made for the 250th anniversary of the United States. It comes in red, white or blue bundles of 10, all holding the same cigar.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-liberty-250-now-available-at-select-events/473135/",
+   "https://halfwheel.com/pca-2026-davidoff/464417/",
+   "https://us.davidoffgeneva.com/discover/camacho"
+  ],
+  "notes": "Not sold at retail: it is only handed out at Davidoff's Red, White & Beef Experience events, with a pairing or a qualifying purchase. The type of American wrapper leaf and the production number have not been published.",
+  "verified": true,
+  "verifyNotes": "Added Davidoff's Camacho page, which promotes the cigar but gives no blend or strength, so strength stays null."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Limited Edition 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "spice",
+   "nuts",
+   "earth",
+   "wood"
+  ],
+  "about": "The first cigar in Camacho's Limited Edition series, which launched after the Liberty Series ended. It is a single toro packed in aluminum tins and dedicated to the blenders at the Camacho factory.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-limited-edition-2025/454077/",
+   "https://www.neptunecigar.com/cigars/camacho-limited-edition-2025-toro-6--52"
+  ],
+  "notes": "Production numbers were not disclosed. Halfwheel's review had strength building from medium-plus to full by the end.",
+  "verified": true,
+  "verifyNotes": "Reworded about: sources say the series is new, not that it formally replaced the Liberty Series."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Limited Edition 2026",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "11/18 Perfecto",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate",
+   "cedar",
+   "earth",
+   "pepper"
+  ],
+  "about": "The second release in Camacho's yearly Limited Edition series, with a new blend in the brand's 11/18 perfecto shape. It is dedicated to the master blenders at the Camacho factory.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-limited-edition-2026-coming-in-early-september/477115/",
+   "https://us.davidoffgeneva.com/product/camacho-limited-edition-2026",
+   "https://www.neptunecigar.com/cigars/camacho-limited-edition-2026-perfecto-6--56"
+  ],
+  "notes": "Limited to 60,000 cigars in boxes of 15. Davidoff calls it medium intensity and the press release says medium-plus. The exact wrapper varietal is not published, only that it is Ecuadorian.",
+  "verified": true,
+  "verifyNotes": "Changed the flavor 'black pepper' to 'pepper' to match Neptune's description. Davidoff's product page shows only a one-line summary (medium intensity, made in Honduras); blend details are from halfwheel and Neptune."
+ },
+ {
+  "brand": "La Galera",
+  "line": "Imperial Jade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic (Criollo, Jacagua)",
+  "filler": "Dominican Republic (Piloto Cubano from Jacagua, Criollo 98 from La Canela)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Piramide",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Chiquito Perfecto",
+    "length": 4,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "earth",
+   "spice"
+  ],
+  "about": "La Galera's first Cameroon-wrapped line, made by Jochy Blanco at Tabacalera Palma with Dominican binder and filler from the family's own farms. It wears a jade green biodegradable band.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-imperial-jade-robusto/404823/",
+   "https://halfwheel.com/la-galera-imperial-jade-arriving-at-retailers/401490/",
+   "https://www.neptunecigar.com/la-galera-cigar"
+  ],
+  "notes": "Halfwheel lists the Robusto at 5 1/2 x 50; Neptune lists it at 5 1/8 x 50. The Chiquito Perfecto is 4 x 40/52 and was added in 2022.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "Anemoi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic (Corojo, Jacagua)",
+  "filler": "Dominican Republic (Criollo 98 and Piloto Cubano from La Canela)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boreas",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Notus",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Eurus",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Zephyrus",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Anemoi",
+    "length": 6.375,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "oak",
+   "coffee",
+   "leather",
+   "nuts",
+   "cinnamon"
+  ],
+  "about": "A Connecticut broadleaf line from Jochy Blanco's Tabacalera Palma, named for the Greek gods of the wind. Four of the five sizes are named for the north, south, east and west winds.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-anemoi-eurus/369367/",
+   "https://halfwheel.com/la-galera-anemoi-shipping-to-retailers-on-sept-23/366244/",
+   "https://www.neptunecigar.com/cigars/la-galera-anemoi-eurus"
+  ],
+  "notes": "At launch the four wind-named sizes were each sold only in matching regions of the U.S., with the Anemoi size available nationwide.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "90th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo (Jacagua)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Piloto Cubano, Gurabo)",
+  "filler": "Dominican Republic (Corojo ligero from Jacagua, Criollo 98 ligero from La Canela, Criollo 98 seco from Gurabo, Piloto Cubano seco from La Canela)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lector",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "Nanan",
+    "length": 6.75,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "La Galera's first Dominican puro, made for the 90th anniversary of the Blanco family's factory, registered in 1936. All of the tobacco, including the wrapper, comes from the company's own farms, and both sizes are box-pressed.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-90th-anniversary-heads-to-stores/476491/",
+   "https://halfwheel.com/pca-2026-la-galera/470361/",
+   "https://www.neptunecigar.com/la-galera-cigar"
+  ],
+  "notes": "Regular production despite the anniversary name. The Nanan is a new box-pressed perfecto that halfwheel lists at 6 3/4 x 44/58; Neptune lists it as 62 ring and calls the Lector a Toro. Strength is from Neptune only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "85th Anniversary Jochy's Blend",
+  "found": true,
+  "officialName": "85th Anniversary Jochy Blanco's Blend",
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Criollo 98, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "wood",
+   "black pepper",
+   "raisin",
+   "nutmeg"
+  ],
+  "about": "One of two toros made for Tabacalera Palma's 85th anniversary, this one blended by owner Jochy Blanco and inspired by his father's love of Connecticut wrapper. It was sold in a shared box with his son's blend.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-galera-85th-anniversary-jochys-blend/408835/",
+   "https://halfwheel.com/la-galera-celebrates-85-years-with-new-cigars/397086/",
+   "https://www.neptunecigar.com/cigars/la-galera-85th-anniversary-limited-edition-toro-box"
+  ],
+  "notes": "One half of the 85th Anniversary release: 2,021 boxes of 20, with 10 of each blend. Announced in 2021 but reached stores in January 2022. Halfwheel found it mild to mild-medium; Neptune lists the box as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "85th Anniversary Jose Manuel's Blend",
+  "found": true,
+  "officialName": "85th Anniversary Jose Manuel Blanco's Blend",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Criollo 98, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "spice",
+   "cedar",
+   "coffee",
+   "bread",
+   "leather"
+  ],
+  "about": "One of two toros made for Tabacalera Palma's 85th anniversary, this one blended by Jochy Blanco's son Jose Manuel, his first blend sold to the public. It uses a Connecticut broadleaf wrapper and came in a shared box with his father's blend.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-galera-85th-anniversary-jose-manuels-blend/408775/",
+   "https://halfwheel.com/la-galera-celebrates-85-years-with-new-cigars/397086/",
+   "https://www.neptunecigar.com/cigars/la-galera-85th-anniversary-limited-edition-toro-box"
+  ],
+  "notes": "One half of the 85th Anniversary release: 2,021 boxes of 20, with 10 of each blend. Announced in 2021 but reached stores in January 2022.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "Year of the Dragon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "toast",
+   "black pepper",
+   "smoke",
+   "earth",
+   "wood"
+  ],
+  "about": "La Galera's first Chinese New Year cigar, a toro with a coiled bun cap and covered foot released for 2024. The Dominican tobaccos come from the company's Canela and Jacagua farms and were aged at least five years.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cigar-review-la-galera-year-of-the-dragon/440994/",
+   "https://www.neptunecigar.com/cigars/la-galera-year-of-the-dragon-toro"
+  ],
+  "notes": "Limited to 2,024 boxes of 10. Sources disagree on strength: Neptune lists it as full, but halfwheel's review found it mild to medium. The Dominican binder and filler include criollo 98 and piloto cubano.",
+  "verified": true,
+  "verifyNotes": "Filler cut back to Dominican Republic: halfwheel names criollo 98 and piloto cubano for the binder and filler together, and Neptune puts them in the binder. Changed 'pigtail cap' to 'coiled bun cap', which is how halfwheel describes it."
+ },
+ {
+  "brand": "La Galera",
+  "line": "Year of the Snake",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Criollo 98, Olor, Pelo de Oro, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   }
+  ],
+  "flavors": [],
+  "about": "La Galera's 2025 Chinese New Year release, a Churchill with a Mexican San Andres wrapper over Dominican tobaccos. Each 10-count box came with a two-cigar leather case.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-galera-year-of-the-snake-goes-on-sale/446612/",
+   "https://halfwheel.com/pca-2025-la-galera/448511/"
+  ],
+  "notes": "Limited to 2,025 boxes of 10, with 1,000 sent to Asia and about 700 to the U.S. No strength rating or tasting notes have been published.",
+  "verified": false,
+  "verifyNotes": "Wrapper, blend, size, country and production confirmed on halfwheel. Strength is not stated on any page opened and La Galera's own site could not be reached, so it stays null and unverified. Swapped the Year of the Horse review link for halfwheel's PCA 2025 La Galera report, which lists this cigar's specs."
+ },
+ {
+  "brand": "La Galera",
+  "line": "Year of the Horse",
+  "found": true,
+  "officialName": "Year of the Horse Limited Edition 2026",
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Criollo 98, Olor, Pelo de Oro, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "oak",
+   "dark chocolate",
+   "coffee",
+   "earth",
+   "almonds",
+   "black pepper"
+  ],
+  "about": "La Galera's 2026 Chinese New Year release and its third zodiac cigar, a 6 x 56 toro with a Brazilian Arapiraca wrapper. It comes in an ornate 12-count box that also holds a cutter, lighter and ashtray.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-galera-year-of-the-horse-limited-edition-2026/465723/",
+   "https://halfwheel.com/la-galera-year-of-the-horse-heads-to-stores/461728/",
+   "https://www.neptunecigar.com/cigars/la-galera-year-of-the-horse-limited-edition-2026"
+  ],
+  "notes": "Limited to 2,026 numbered boxes of 12. Arapiraca is a Brazilian leaf, not Mata Fina; Neptune lists the wrapper color as Colorado.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "Al Majles",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A La Galera toro with a pigtail cap and covered foot, made as a regional exclusive for the Middle East. The name refers to the majlis, the sitting room at the center of Arab hospitality.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-al-majles-goes-on-sale-in-the-middle-east/445555/"
+  ],
+  "notes": "Sold only in the Middle East, starting with Bahrain, Qatar and the UAE, so guests are unlikely to find it in the U.S. It is not a limited edition. No strength rating or tasting notes were found.",
+  "verified": false,
+  "verifyNotes": "Wrapper, blend, size and country confirmed on halfwheel, the only source found. Strength is not stated there and La Galera's own site could not be reached, so it stays null and unverified."
+ }
+]

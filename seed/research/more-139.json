@@ -1,0 +1,882 @@
+[
+ {
+  "brand": "Cayman Cigar Company",
+  "line": "Sovereign No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Habano 2000)",
+  "filler": "Dominican Republic (Criollo 98 and 2020)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sandalwood",
+   "nuts",
+   "vanilla"
+  ],
+  "about": "The Connecticut-wrapped cigar in Cayman Cigar Company's core range, described by the maker as smooth, creamy and approachable. The company gives all of its net profits to charity.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.caymancigars.com/cigars/",
+   "https://halfwheel.com/cayman-cigar-co-launches-overhauled-core-lines/454467/",
+   "https://www.caymancigars.com/cigar-portfolio-design-core-line-strategy/"
+  ],
+  "notes": "Halfwheel calls it Sovereign II. Reblended in 2025; before that it was made in the Cayman Islands. U.S. stock is now made at Tabacalera La Isla in the Dominican Republic, and the maker publishes no strength rating.",
+  "verified": true,
+  "verifyNotes": "Binder changed from 'Habano 2000' to add the country: the maker lists Habano 2000 and halfwheel reports a Dominican binder. Notes trimmed to three sentences and the earlier-wrapper detail dropped because none of the listed sources state it. Strength left null: the maker's current pages give no rating."
+ },
+ {
+  "brand": "Cayman Cigar Company",
+  "line": "Monarch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Dominican Republic (Criollo 98 and 2020)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "spice",
+   "oak",
+   "black cherry",
+   "leather"
+  ],
+  "about": "A core line from Cayman Cigar Company with a Brazilian Arapiraca wrapper over a Nicaraguan binder and Dominican filler. The company gives all of its net profits to charity.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.caymancigars.com/cigars/",
+   "https://halfwheel.com/cayman-cigar-co-launches-overhauled-core-lines/454467/",
+   "https://www.caymancigars.com/cigar-portfolio-design-core-line-strategy/"
+  ],
+  "notes": "Reblended and resized in 2025. U.S. stock is made at Tabacalera La Isla in the Dominican Republic, while Cayman and U.K. stock is rolled in the Cayman Islands. The maker calls it bold but balanced and gives no formal strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cayman Cigar Company",
+  "line": "Mariner",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Sumatra)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "spice",
+   "earth",
+   "nuts",
+   "vanilla"
+  ],
+  "about": "A corojo-wrapped core line from Cayman Cigar Company, pitched as the medium to full step up from the Sovereign No. 2. The company gives all of its net profits to charity.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://caymancigars.ky/cigars/",
+   "https://halfwheel.com/cayman-cigar-co-launches-overhauled-core-lines/454467/",
+   "https://www.caymancigars.com/cigar-portfolio-design-core-line-strategy/"
+  ],
+  "notes": "Sources disagree on the blend: the maker lists Nicaraguan Corojo over a Nicaraguan Sumatra binder, while halfwheel's 2025 relaunch report gave Ecuadorian corojo over a Dominican binder. U.S. stock is made in the Dominican Republic. The maker's U.S. cigars page does not list it.",
+  "verified": true,
+  "verifyNotes": "Notes shortened. Blend, sizes and strength confirmed against the maker's .ky page and blog; the halfwheel disagreement on wrapper and binder is real."
+ },
+ {
+  "brand": "Cayman Cigar Company",
+  "line": "Doubloon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A San Andrés-wrapped Nicaraguan cigar blended by Esteban Disla and made at his factory in Estelí for Cayman Cigar Company. It was the company's first line from that factory.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.caymancigars.com/cigars/",
+   "https://halfwheel.com/cayman-cigar-co-ships-the-doubloon/454014/",
+   "https://www.caymancigars.com/cigar-portfolio-design-core-line-strategy/"
+  ],
+  "notes": "Halfwheel and the box call it The Doubloon. The maker describes it as full-bodied, spicy and rich.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cayman Cigar Company",
+  "line": "Broadside",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto BXP",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro BXP",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Gordo BXP",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "black pepper",
+   "wood",
+   "sweetness",
+   "cedar",
+   "toast"
+  ],
+  "about": "A box-pressed Connecticut Broadleaf cigar with a pigtail cap, made for Cayman Cigar Company at Esteban Disla's factory in Estelí. It joined the core range at the 2026 PCA show.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.caymancigars.com/broadside-cayman-cigar-core-line/",
+   "https://halfwheel.com/cayman-cigar-co-broadside-robusto-bxp/471976/",
+   "https://halfwheel.com/cayman-turns-to-familia-disla-for-two-new-lines/466508/"
+  ],
+  "notes": "The maker calls it full-bodied. Halfwheel's review found full flavor but strength finishing at medium-full and body around medium-plus. All three sizes are box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cayman Cigar Company",
+  "line": "Tortuga",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés with Ecuadorian Connecticut-seed accents",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico and Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Familia Disla S.A.",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cream",
+   "pepper",
+   "almond",
+   "earth",
+   "wood"
+  ],
+  "about": "A limited 6 x 58 perfecto from Cayman Cigar Company with two contrasting wrappers and a shaggy decorative head, made by Esteban Disla in Estelí. The name nods to Las Tortugas, the name Columbus gave the Cayman Islands.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cayman-cigar-co-tortuga/472879/",
+   "https://halfwheel.com/cayman-turns-to-familia-disla-for-two-new-lines/466508/",
+   "https://www.caymancigars.com/tortuga-limited-release-cayman-cigar/"
+  ],
+  "notes": "Limited to 250 boxes of 10, sold through brick-and-mortar shops only. It uses two wrappers, a dark San Andrés and a lighter Connecticut-seed. The maker pitches it as bold and spicy, but halfwheel's review found strength mild to just under medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cayman Cigar Company",
+  "line": "Cutlass 2024",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano-seed",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "allspice",
+   "cedar",
+   "cinnamon"
+  ],
+  "about": "A limited 5 x 50 robusto with a habano-seed wrapper, the first cigar Cayman Cigar Company sold that was made in Nicaragua. Only 2,500 cigars were produced.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cayman-cutlass-2024-goes-on-sale/447939/",
+   "https://www.caymancigars.com/limited-release-cigars-what-makes-them-worth-it-introducing-tortuga/"
+  ],
+  "notes": "The company did not disclose the blend or the factory and calls it medium to medium-plus. Limited to 250 bundles of 10. Halfwheel reported it going on sale in March 2025, though the maker refers to it as a 2024 release.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences. Release year kept at 2025 from halfwheel's dated report; the maker's later blog says 2024."
+ },
+ {
+  "brand": "Eladio Diaz",
+  "line": "Before & After",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Habano 2000)",
+  "filler": "Dominican Republic (Habano 2000, Piloto Cubano, Habano 92, Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "My Family",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Pasion",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Legado",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness",
+   "spice",
+   "wood",
+   "cedar",
+   "espresso"
+  ],
+  "about": "The first regular production line from Eladio Díaz, the former Davidoff production chief who now runs his family's Tabacalera Díaz Cabrera. The name refers to his career before and after leaving to work with his children.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eladio-diaz-before-after-debuting-at-pca-2024/436800/",
+   "https://halfwheel.com/eladio-diaz-before-after-pasion/439820/"
+  ],
+  "notes": "The company describes it as medium to full-bodied. Halfwheel's review of the Pasion found full flavor with strength closer to medium to medium-plus. Distributed in the U.S. by Arango Cigar Co.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Eladio Diaz",
+  "line": "La Diana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Corojo, Criollo 98, Negrito), Peru (Pelo de Oro)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Brevas",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Biloria",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Vencosme",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness",
+   "spice"
+  ],
+  "about": "The second core line from Eladio Díaz, named for the small Dominican factory where he started working with tobacco at age seven. Two sizes are named for his first mentor, Francisco Biloria Vencosme.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eladio-diazs-la-diana-heads-to-stores/452862/",
+   "https://halfwheel.com/eladio-diaz-announces-la-diana-as-second-core-line/452322/",
+   "https://www.cigaraficionado.com/article/eladio-diaz-releasing-la-diana"
+  ],
+  "notes": "Cigar Aficionado reports it is meant to be full-bodied, and Díaz calls it the strongest and most complex blend he has made. It starts creamy and sweet before building. Distributed in the U.S. by Arango Cigar Co.",
+  "verified": true,
+  "verifyNotes": "Strength changed from null to Full: Cigar Aficionado's launch report says it is intended to be a full-bodied cigar and one of the strongest Diaz has made. Added that page as a source and rewrote notes to match."
+ },
+ {
+  "brand": "Eladio Diaz",
+  "line": "Mi Vieja",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Habano 2000, Piloto Cubano, Criollo 98), Peru (Pelo de Oro)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "ENB",
+    "length": 4.75,
+    "ring": 43
+   },
+   {
+    "name": "El Ejido",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "M.Santiago",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "cream",
+   "earth",
+   "pine"
+  ],
+  "about": "A Connecticut-seed wrapped line Eladio Díaz made in honor of his mother, whose family nickname gives the cigar its name. It uses tobacco from the southern Dominican Republic along with Peruvian pelo de oro.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eladio-diaz-honors-his-mother-with-new-mi-vieja-line/476476/"
+  ],
+  "notes": "Announced in August 2026 with a debut at InterTabac in September and U.S. shipping expected in early November 2026, so it may not be on shelves yet. Díaz describes it as a pleasant medium body. Pricing had not been set at announcement.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Eladio Diaz",
+  "line": "70 Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill Extra",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "cream",
+   "earth",
+   "honey"
+  ],
+  "about": "A limited 7 x 52 cigar marking Eladio Díaz's 70th birthday and the first of his long-running private birthday cigars to be sold. It was first meant only for Europe before Arango brought part of the run to the U.S.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/arango-cigar-co-to-distribute-eladio-diaz-70-aniversario-in-the-u-s/432059/",
+   "https://halfwheel.com/eladio-diaz-70-aniversario/437945/"
+  ],
+  "notes": "Limited to 1,400 boxes of 14, with 300 boxes for the U.S. The blend uses seven tobaccos but the leaf varieties were not published. Strength and flavors here come from halfwheel's review, which found it just under medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Eladio Diaz",
+  "line": "71 Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Corojo, Habano 92, barrel-aged HVA)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "wood",
+   "spice",
+   "nuts",
+   "sweetness"
+  ],
+  "about": "The limited cigar for Eladio Díaz's 71st birthday, a 6 x 54 toro built to show off tobacco from San Juan de la Maguana and Las Matas de Farfán in the southern Dominican Republic.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/eladio-diaz-71-aniversario-begins-shipping-to-stores/444634/",
+   "https://halfwheel.com/eladio-diaz-71-aniversario/446717/"
+  ],
+  "notes": "Limited to 2,000 numbered boxes of 10. Díaz calls it medium to full in strength. Distributed in the U.S. by Arango Cigar Co.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Eladio Diaz",
+  "line": "72 Anniversary North and South Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican sun-grown Corojo-seed, aged four years",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (San Andrés Negro seed)",
+  "filler": "Dominican Republic (Criollo 98, HVA, Corojo 99, Piloto Cubano, Negrito)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cream",
+   "coffee",
+   "cocoa",
+   "almond"
+  ],
+  "about": "The limited cigar for Eladio Díaz's 72nd birthday, an all-Dominican blend that combines tobacco from the country's established northern fields and its revived southern growing region.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/eladio-diaz-72-anniversary-north-and-south-edition-heads-to-stores/451825/",
+   "https://halfwheel.com/eladio-diaz-72-anniversary-north-and-south-edition-scheduled-for-july/446828/"
+  ],
+  "notes": "Limited to 2,500 boxes of 12. Díaz rates its strength 7 out of 10; no other strength rating was found. The binder is Mexican San Andrés Negro seed grown in the Dominican Republic, and the wrapper comes from the south of the country.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Eladio Diaz",
+  "line": "73 Aniversario Unforgettable Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo-seed",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Sumatra seed and San Andrés Negro seed)",
+  "filler": "Dominican Republic (barrel-aged Habano 2000, Corojo 99, Criollo 98, Corojo 06, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "pepper",
+   "earth",
+   "bread",
+   "graham cracker"
+  ],
+  "about": "The limited cigar for Eladio Díaz's 73rd birthday, an all-Dominican blend of eight tobaccos with a double binder and a wrapper from the southern part of the country.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/eladio-diaz-73-aniversario-unforgettable-edition-heads-to-stores/472601/",
+   "https://halfwheel.com/eladio-diaz-73-aniversario-unforgettable-edition-toro/475739/"
+  ],
+  "notes": "Limited to 2,000 boxes of 11, each holding ten toro extras and a single robusto. Strength and flavors here come from halfwheel's review, which found strength running from mild up to medium-plus by the end.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Griff & Dave",
+  "line": "Vanguard",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Estelí, Jalapa Medio Tiempo)",
+  "country": "Nicaragua",
+  "factory": "La Corona",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.125,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "molasses",
+   "black pepper",
+   "chocolate"
+  ],
+  "about": "The first boxed cigar from Griff Howie and Dave Imber, a closed-foot robusto blended with Tony and Carson Serino and Omar González Alemán at the La Corona factory in Estelí. It is named for the university newspaper where the two founders met.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://griffanddave.com/products/vanguard",
+   "https://griffanddave.com/blogs/news/griff-and-dave-launch-vangaurd-as-first-boxed-cigar",
+   "https://halfwheel.com/griff-and-daves-vanguard-goes-on-sale/438830/"
+  ],
+  "notes": "The blend includes a quarter leaf of medio tiempo. No strength rating is published. The maker says it is released once a year; a 4.5 x 50 Founders Select version was a one-off run of 200 cigars.",
+  "verified": true,
+  "verifyNotes": "Added halfwheel's launch report as a third source; it confirms the cigar is made at La Corona in Nicaragua and says it is released once a year. Notes updated with that."
+ },
+ {
+  "brand": "Griff & Dave",
+  "line": "El Barrio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "USA",
+  "factory": "Cremo Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "toast",
+   "floral",
+   "pepper",
+   "cream",
+   "cinnamon"
+  ],
+  "about": "Griff & Dave's first Miami-made cigar, a closed-foot Connecticut robusto rolled at the Cremo factory in the Overtown neighborhood. It was sold in small-batch 10-packs.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://griffanddave.com/products/el-barrio"
+  ],
+  "notes": "Sold out on the maker's site. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Notes reworded to drop the research-diary phrasing. Release year rests on the maker's store listing date (May 2023), not a statement on the page."
+ },
+ {
+  "brand": "Griff & Dave",
+  "line": "1202",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic, Connecticut Broadleaf",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "cinnamon",
+   "earth",
+   "coffee",
+   "black pepper"
+  ],
+  "about": "A small-batch 5 x 50 from Griff & Dave named for the founders' birth months, December and February. The cigars rested in the factory aging room for 24 months before release.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://griffanddave.com/products/1202"
+  ],
+  "notes": "Sold out on the maker's site. The factory, country and wrapper origin are not published. The maker says it worked with Barrel King on the release, without spelling out the process.",
+  "verified": true,
+  "verifyNotes": "Filler: removed 'USA', which the maker does not state; the page says only Nicaragua, Dominican and Connecticut Broadleaf. Notes reworded to drop research-diary phrasing. Release year rests on the store listing date (March 2023)."
+ },
+ {
+  "brand": "Griff & Dave",
+  "line": "Navidad",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua, Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "5.5 x 50",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cinnamon",
+   "clove",
+   "nutmeg",
+   "molasses"
+  ],
+  "about": "A holiday blend from Griff & Dave with a San Andrés maduro wrapper over aged Nicaraguan and Dominican fillers, built around Christmas spice flavors.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://griffanddave.com/products/navidad"
+  ],
+  "notes": "Sold out on the maker's site. The binder, factory, country and strength are not published.",
+  "verified": true,
+  "verifyNotes": "Notes reworded to drop the research-diary phrasing."
+ },
+ {
+  "brand": "Griff & Dave",
+  "line": "House Blend No. 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "5.25 x 46",
+    "length": 5.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "The first blend Griff & Dave sold, a 5.25 x 46 made from Dominican and Nicaraguan tobaccos and meant as an everyday smoke.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://griffanddave.com/products/house-blend-no-1"
+  ],
+  "notes": "The maker says only that it blends Dominican and Nicaraguan tobaccos and is full of flavor but low on strength. The wrapper, factory and country are not published. Sold out on the maker's site.",
+  "verified": true,
+  "verifyNotes": "Notes reworded to drop the research-diary phrasing. Strength Mild rests on the maker's phrase 'low on strength'."
+ },
+ {
+  "brand": "Griff & Dave",
+  "line": "Contraband Vol. 1",
+  "found": true,
+  "officialName": "Contraband Vol. 1 (Test Blend Series)",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "4.5 x 44",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "The first release in Griff & Dave's unbanded test blend series, a 4.5 x 44 made in the Dominican Republic and sold in very small quantities.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://griffanddave.com/products/untitled-aug24_17-52"
+  ],
+  "notes": "The blend is deliberately undisclosed: the maker says only that it is handmade in the Dominican Republic. Sold in unbanded 10-count bundles and listed as sold out.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Griff & Dave",
+  "line": "Contraband Vol. 2",
+  "found": true,
+  "officialName": "Contraband Vol. 2 (Test Blend Series)",
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Corona",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The second release in Griff & Dave's unbanded test blend series, a 6 x 52 toro with a habano wrapper made at the La Corona factory in Estelí.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://griffanddave.com/products/contraband-vol-2-test-blend-series"
+  ],
+  "notes": "The wrapper's country of origin is not published. Sold in unbanded 10-count bundles and listed as sold out.",
+  "verified": true,
+  "verifyNotes": "Notes reworded to drop the research-diary phrasing."
+ }
+]

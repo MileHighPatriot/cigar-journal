@@ -1,0 +1,811 @@
+[
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Classic Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Soberano",
+    "length": 8,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.75,
+    "ring": 49
+   },
+   {
+    "name": "Charlemagne",
+    "length": 7.25,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Glorias Extra",
+    "length": 6.25,
+    "ring": 46
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Wavell",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "leather",
+   "cedar"
+  ],
+  "about": "The maduro version of La Gloria Cubana's original Classic line. It keeps the Dominican and Nicaraguan fillers and Nicaraguan binder and swaps in a dark Connecticut Broadleaf wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/classic-maduro/",
+   "https://www.famous-smoke.com/la-gloria-cubana-dr-wavell-cigars-maduro",
+   "https://halfwheel.com/la-gloria-cubana-gran-legado-arrives/441049/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Removed the note that retailers call it Classic Broadleaf: no page opened says so (Famous lists it as Classic (DR) Wavell, Maduro). Wrapper, binder, filler, sizes and Medium strength match the maker page; Famous confirms Dominican Republic. Factory rests on halfwheel's brand-wide statement that La Gloria Cubana is rolled at General Cigar Dominicana; no page names the factory for this line specifically."
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie R Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana (El Credito)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 8",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "No. 7",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "No. 6",
+    "length": 5.875,
+    "ring": 60
+   },
+   {
+    "name": "No. 5",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 4",
+    "length": 4.875,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "spice",
+   "earth",
+   "wood"
+  ],
+  "about": "The Connecticut Broadleaf maduro version of Serie R, the large ring gauge line La Gloria Cubana introduced in 1999. Dominican and Nicaraguan fillers sit under a Nicaraguan binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/serie-r-maduro/",
+   "https://halfwheel.com/stg-adds-la-gloria-cubana-serie-r-no-8-maduro/418088/",
+   "https://www.famous-smoke.com/la-gloria-cubana-serie-r-no-5-cigars-maduro"
+  ],
+  "notes": "Strength varies by source: the maker's scale puts it between medium and full, Famous Smoke lists Full and Holt's lists Medium.",
+  "verified": true,
+  "verifyNotes": "Swapped the Holt's link for a halfwheel article that states the blend and the General Cigar Dominicana factory. All fields confirmed; Holt's Medium rating was also checked."
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie R Esteli",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa Sol",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 64",
+    "length": 6.25,
+    "ring": 64
+   },
+   {
+    "name": "No. 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "No. 54",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "nuts",
+   "floral",
+   "leather"
+  ],
+  "about": "A Nicaraguan puro extension of Serie R, rolled in Esteli with ligero and viso from several farms under an oily Jalapa wrapper. It launched in 2013 as one of the brand's first two Nicaraguan-made lines.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/serie-r-esteli/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-gloria-cubana-serie-r-esteli.html",
+   "https://halfwheel.com/la-gloria-cubana-adding-maduro-versions-to-serie-r-esteli-and-serie-r-black/118208/"
+  ],
+  "notes": "The maker's scale and Famous Smoke say Full; Holt's lists Medium-Full. It launched as a brick-and-mortar exclusive.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie R Esteli Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 64",
+    "length": 6.25,
+    "ring": 64
+   },
+   {
+    "name": "No. 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "No. 54",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "nuts",
+   "dark chocolate",
+   "earth",
+   "raisin"
+  ],
+  "about": "The Serie R Esteli blend of Nicaraguan binder and fillers finished in a Connecticut Broadleaf maduro wrapper. It shipped in July 2016 alongside a maduro version of Serie R Black.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/serie-r-esteli-maduro/",
+   "https://halfwheel.com/la-gloria-cubana-serie-r-esteli-maduro-no-54/129419/",
+   "https://www.famous-smoke.com/la-gloria-cubana-serie-r-esteli-maduro-no-60-cigars"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie R Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa ligero",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Estelí)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 48",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "No. 52",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "nuts",
+   "floral"
+  ],
+  "about": "A Nicaraguan puro in the Serie R family with a dark Jalapa ligero wrapper that was fermented for a year and aged two and a half more. It debuted in 2013 as one of the brand's first Nicaraguan-made cigars.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/serie-r-black/",
+   "https://halfwheel.com/press-release-la-gloria-cubana-launch-nicaraguan-cigars/37199/",
+   "https://www.famous-smoke.com/brand/la-gloria-cubana-serie-r-black-cigars"
+  ],
+  "notes": "It launched as a catalog and internet exclusive in No. 58, No. 60 and No. 64. The maker now lists No. 48, No. 52 and No. 60.",
+  "verified": true,
+  "verifyNotes": "Flavors trimmed to the maker's tasting notes: earth and pepper are not on any listed page for this line."
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie R Black Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 56",
+    "length": 7,
+    "ring": 56
+   },
+   {
+    "name": "No. 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "No. 54",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "coffee",
+   "cocoa",
+   "cream"
+  ],
+  "about": "Serie R Black's Nicaraguan binder and fillers under an aged Connecticut Broadleaf maduro wrapper. It was added in July 2016.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/serie-r-black-maduro/",
+   "https://halfwheel.com/ipcpr-2016-general-cigar-co/128060/",
+   "https://www.famous-smoke.com/la-gloria-cubana-serie-r-black-maduro-no-60-cigars"
+  ],
+  "notes": "It launched in No. 58, No. 60 and No. 64 as a catalog and internet exclusive. The maker now lists No. 54, No. 56 and No. 60.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie S",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Presidente",
+    "length": 7,
+    "ring": 56
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "earth",
+   "spice"
+  ],
+  "about": "A large ring gauge line that was the first La Gloria Cubana to use a Mexican San Andrés wrapper, over a Nicaraguan binder and Dominican and Nicaraguan fillers. It began shipping in August 2022.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/serie-s/",
+   "https://halfwheel.com/la-gloria-cubana-serie-s-shipping-on-aug-1/412579/",
+   "https://www.famous-smoke.com/la-gloria-cubana-serie-s-gigante-cigars-maduro"
+  ],
+  "notes": "The maker places it between medium and full; Famous Smoke lists it as Full. The wrapper is San Andrés but not a maduro leaf; the darker version is Serie S Maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie S Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana (El Credito)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Presidente",
+    "length": 7,
+    "ring": 56
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness",
+   "leather",
+   "spice",
+   "molasses"
+  ],
+  "about": "The second Serie S blend, using a longer-matured Mexican San Andrés maduro wrapper over a Nicaraguan binder and Nicaraguan and Dominican fillers. It launched July 1, 2023 in the same three sizes as Serie S.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/serie-s-maduro/",
+   "https://halfwheel.com/la-gloria-cubana-serie-s-maduro-launching-on-july-1/425058/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "8th Street",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro (2022 release)",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "2023 release",
+    "length": 6.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "cream",
+   "leather",
+   "spice"
+  ],
+  "about": "A Miami-made limited edition named for Calle Ocho, rolled at El Titan de Bronze across the street from the brand's original El Credito factory. It came out in 2022 and returned in 2023 with the same blend in a new size.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/2023-8th-street/",
+   "https://halfwheel.com/la-gloria-cubana-8th-street/417701/",
+   "https://halfwheel.com/pca-2023-forged-cigar-co/424416/"
+  ],
+  "notes": "The maker calls the wrapper Ecuadorian Habano Maduro; halfwheel lists Ecuadorian habano. 2022 was 5,000 boxes of 10 and 2023 was 3,500 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that halfwheel's launch news said oscuro: the listed halfwheel pages do not use that word (Cigar Aficionado's launch article does)."
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Society Cigar II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana (El Credito)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "hazelnut",
+   "coffee"
+  ],
+  "about": "The second limited edition blended with input from La Gloria Cubana's fan community, the La Gloria Cubana Society. It is a single 6 x 50 toro that shipped in November 2023.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-gloria-cubana-society-cigar-ii-heads-to-stores-tomorrow/431623/",
+   "https://www.lagloriacubana.com/our-cigars/2023-society-cigar/"
+  ],
+  "notes": "The maker's site lists it as the 2023 Society Cigar. Sold in boxes of 10; production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Gran Legado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomon",
+    "length": 7.75,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "cocoa",
+   "sweet tobacco",
+   "spice"
+  ],
+  "about": "A limited salomon made as a tribute to the brand's workers, rolled by 20 rollers and bunchers who each have at least 15 years of experience. It uses higher-priming fillers under a Connecticut Broadleaf wrapper.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/gran-legado/",
+   "https://halfwheel.com/la-gloria-cubana-gran-legado/445419/"
+  ],
+  "notes": "Limited to 1,900 boxes of 10. A secondary band carries the signature of the person who made each cigar.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Los Gloriosos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa, Estelí)",
+  "filler": "Nicaragua (Jalapa, Condega), Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Grandioso",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "espresso",
+   "spice",
+   "cocoa",
+   "earth"
+  ],
+  "about": "A regular production line made for the brand by Ernesto Perez-Carrillo Jr., whose family built La Gloria Cubana at El Credito before selling it in 1999. It is rolled at his Casa Carrillo factory and shipped in April 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/los-gloriosos/",
+   "https://halfwheel.com/la-gloria-cubana-los-gloriosos-gigante/452884/"
+  ],
+  "notes": "The maker lists the binder as Jalapa and Esteli; halfwheel lists Jalapa only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Intención",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Estelí ligero and viso), Honduras (Jamastran viso, La Entrada ligero)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "leather",
+   "spice"
+  ],
+  "about": "A value-priced four-country blend released in April 2026 and pitched as a return to the brand's bolder blends and larger ring gauges. It is made at STG Estelí in Nicaragua.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.lagloriacubana.com/our-cigars/intencion/",
+   "https://halfwheel.com/la-gloria-cubana-intencion-coming-this-month/467517/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Corojo de Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Corojo de Oro hybrid, grown in Mao)",
+  "filler": "Brazil (Mata Fina), Dominican Republic (Piloto Cubano), Nicaragua (Ometepe)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana (El Credito)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "citrus",
+   "white pepper"
+  ],
+  "about": "A limited edition built around a proprietary hybrid of corojo 97-98 and pelo de oro grown in Mao, Dominican Republic. It had a small preview release in March 2023 and a wider second release in February 2024.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-gloria-cubana-corojo-de-oro-gets-second-release-now-available-at-more-retailers/434578/",
+   "https://www.neptunecigar.com/cigars/la-gloria-cubana-corojo-de-oro-toro"
+  ],
+  "notes": "The cigar is named for its binder, not its wrapper: the Corojo de Oro leaf is the binder under an Ecuadorian habano wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Criollo de Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican sun grown Criollo de Oro (grown in Mao)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "earth",
+   "citrus",
+   "cedar",
+   "spice"
+  ],
+  "about": "A 2021 limited edition wrapped in a proprietary hybrid of criollo 98 and pelo de oro grown in Mao, Dominican Republic. It came in two sizes with 3,100 boxes made in total.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-gloria-cubana-criollo-de-oro-toro/403339/",
+   "https://halfwheel.com/la-gloria-cubana-criollo-de-oro-slated-for-next-month/400761/",
+   "https://www.neptunecigar.com/cigars/la-gloria-cubana-criollo-de-oro-toro"
+  ],
+  "notes": "The wrapper is a hybrid seed, a cross of criollo 98 and pelo de oro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Spirit of the Lady",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Olancho San Agustín, aged seven years",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic, Mexico, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "cedar",
+   "cinnamon"
+  ],
+  "about": "A box-pressed 2021 limited edition honoring the rollers of the El Credito room, and the first release under Forged Cigar Co. It uses a seven-year-old Honduran wrapper over a Cameroon binder.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-gloria-cubana-spirt-of-the-lady-toro/392637/",
+   "https://halfwheel.com/la-gloria-cubana-spirit-of-the-lady-shipping-this-week/390621/",
+   "https://www.neptunecigar.com/cigars/la-gloria-cubana-spirit-of-the-lady-toro"
+  ],
+  "notes": "Limited to 600 boxes of 20 per size. Neptune describes the wrapper as a maduro leaf; halfwheel does not.",
+  "verified": true,
+  "verifyNotes": "Added the Neptune maduro description to notes. Strength Medium and the box press confirmed on Neptune; blend, factory and box count confirmed on halfwheel."
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "TAA Exclusive 2023",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Habano)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": "HATSA (STG Danlí)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 7.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice",
+   "coffee",
+   "cream"
+  ],
+  "about": "A single-size 2023 release sold only through Tobacconists' Association of America member shops. The cigars were rolled in 2019 and aged four years before release.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aged-la-gloria-cubanas-become-taa-exclusive/421669/",
+   "https://www.cigaraficionado.com/article/taa-exclusives-2023-the-complete-list",
+   "https://www.neptunecigar.com/cigars/la-gloria-cubana-taa-2023-double-robusto"
+  ],
+  "notes": "Limited to 850 boxes of 10. halfwheel lists Dominican and Honduran fillers; Cigar Aficionado and Neptune say Dominican and Nicaraguan. The maker gave no strength; Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": "Filled country (Honduras) and factory (HATSA) from Cigar Aficionado and Neptune, strength Medium and flavors from Neptune, and named the size Double Robusto. Filler changed from Dominican Republic, Honduras to the version two of three sources give. Added both pages as sources."
+ }
+]

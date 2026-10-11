@@ -1,0 +1,460 @@
+[
+ {
+  "brand": "Falto",
+  "line": "Edición Especial ELH Hato Viejo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "cream",
+   "molasses",
+   "dried fruit"
+  ],
+  "about": "A single-size Cameroon-wrapped cigar from Luis Falto of Puerto Rico, rolled at La Aurora in small numbers. Hato Viejo is the Dominican farm that grew most of the tobacco and ELH are the grower's initials.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://halfwheel.com/pca-2021-falto/394563/",
+   "https://www.cigaraficionado.com/articles/new-cigars-from-falto-coming-later-this-month"
+  ],
+  "notes": "Limited to 100 boxes of 20. First announced in 2020 as a 25th anniversary cigar called Edición ELH Hato Viejo 2018 with a Corojo wrapper in a different size; the cigar that shipped in 2021 is the 6 x 47 Cameroon blend. Cigar Aficionado calls the size a toro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "Lonsdale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "A slim lonsdale from Falto, the Puerto Rico based boutique brand whose cigars are all rolled at La Aurora in the Dominican Republic. The maker describes it as medium bodied and not overly complex.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://www.faltocigars.com/en/historia"
+  ],
+  "notes": "Falto makes each blend in one size only. The maker lists the same tobaccos for the Lonsdale and the Robusto, and calls this one medium bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "Robusto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "pepper"
+  ],
+  "about": "A 5 x 50 robusto from Falto, the Puerto Rico based boutique brand whose cigars are all rolled at La Aurora in the Dominican Republic. The maker describes it as medium to full bodied with a touch of pepper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://www.faltocigars.com/en/historia"
+  ],
+  "notes": "Falto makes each blend in one size only. The maker lists the same tobaccos for the Robusto and the Lonsdale, and calls this one medium to full bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "Reserva Especial Tres Luises",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon (shade)",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Belicoso",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood"
+  ],
+  "about": "A petit belicoso with a Cameroon wrapper from Falto, the Puerto Rico based boutique brand made at La Aurora. The maker describes it as smooth and rich with a woody note.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://www.faltocigars.com/en/historia"
+  ],
+  "notes": "Made in one size only. The maker does not publish a strength for it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "Prominente Gran Reserva Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 4.5,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "tobacco"
+  ],
+  "about": "A short perfecto from Falto with a Cameroon wrapper over Dominican tobaccos, rolled at La Aurora. The maker says it is made from a single mold dating to 1923, with a closed head and foot.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://halfwheel.com/ipcpr-2017-tabacalera-falto/162920/"
+  ],
+  "notes": "The ring gauge tapers: 42 at the head and 47 at the foot. The maker calls it medium to full flavored but gives no strength.",
+  "verified": true,
+  "verifyNotes": "Blend and size confirmed on the maker's page and halfwheel. Removed the note sentence about the FDA grandfather date: halfwheel uses the term loosely and it is not needed for a guest."
+ },
+ {
+  "brand": "Falto",
+  "line": "Perla Reserva Especial Seleccionada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazil",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee"
+  ],
+  "about": "A 4 x 40 petit corona from Falto with a Brazilian wrapper, rolled at La Aurora. Luis Falto made it as a short smoke with a lot of flavor for when time is limited.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://www.faltocigars.com/en/historia"
+  ],
+  "notes": "The maker lists the wrapper only as Brazil, with no leaf type. It calls the cigar full flavored but gives no strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "Selección Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Republic",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Brazil, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A 5 3/4 x 48 corona gorda sold under the Tabacalera Falto, Inc. name, with a Dominican wrapper over an Indonesian Sumatra binder. The maker describes it as medium bodied and built on well-aged tobacco.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://www.faltocigars.com/en/historia"
+  ],
+  "notes": "The maker labels it Tabacalera Falto, Inc. \"Selección Especial\" and gives the wrapper only as Dominican Republic, with no leaf type.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "Legado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaragua",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "tobacco"
+  ],
+  "about": "A 5 1/2 x 47 corona gorda that Luis Falto blended for the tenth anniversary of Tabacalera Falto, with a Nicaraguan wrapper. It is rolled at La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://www.faltocigars.com/en/historia"
+  ],
+  "notes": "Blended for the company's tenth anniversary; the company dates itself to 1995, but no source gives the release year. The maker lists the wrapper only as Nicaraguan and gives no strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "La Obra Azojuano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A La Obra cigar listed on Falto's own site, shown with a purple band and a cedar sleeve. Falto cigars are rolled at La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros",
+   "https://www.faltocigars.com/en/historia",
+   "https://halfwheel.com/pca-2023-falto-cigars/427027/"
+  ],
+  "notes": "The maker lists it, but the text and specs under it are a copy of the Legado entry, so no blend or size is confirmed. Halfwheel covered a 2023 limited La Obra Babalú Ayé (5 1/2 x 52, Ecuadorian HVA wrapper, 100 boxes of 15); no source says whether Azojuano is that cigar.",
+  "verified": true,
+  "verifyNotes": "Confirmed the maker lists it with a photo (purple La Obra band, cedar sleeve) but the text under it is the Legado entry, so no blend, size or strength is published. Found no other page naming Azojuano. Added the maker's history page as the source for country and factory."
+ },
+ {
+  "brand": "Falto",
+  "line": "Los Menesteres",
+  "found": true,
+  "officialName": "Los Menesteres 30th Anniversary",
+  "wrapperLeaf": "Dominican Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Cameroon, Mexico (San Andrés)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Los Menesteres 30th Anniversary",
+    "length": 6.375,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The cigar Luis Falto made to mark 30 years of Falto Cigars, with a Dominican Criollo 98 wrapper over a double binder. It is rolled at La Aurora and comes in one size.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/falto-shipping-los-menesteres-30th-anniversary-to-retailers/454688/",
+   "https://halfwheel.com/pca-2025-falto-cigars/450878/",
+   "https://www.faltocigars.com/en/cigarros"
+  ],
+  "notes": "Regular production but only 160 boxes of 20 a year. Falto says the name means duties, or to him the opportunity to work. The maker's site entry currently shows the Legado text and specs by mistake.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "La Pureza Lancero",
+  "found": true,
+  "officialName": "La Pureza",
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 6.875,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "wood",
+   "floral",
+   "nutmeg",
+   "cinnamon",
+   "cedar",
+   "earth"
+  ],
+  "about": "A lancero blended for the 25th anniversary of Tabacalera Falto and rolled at La Aurora. It is made in this one size only.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros-3",
+   "https://halfwheel.com/falto-la-pureza-lancero/378954/",
+   "https://cigar-coop.com/2020/11/cigar-review-falto-la-pureza.html"
+  ],
+  "notes": "Sources disagree on the wrapper: the maker says Dominican Corojo, halfwheel's 2020 news and Cigar Coop said Ecuadorian HVA over a Dominican Criollo 98 binder, and halfwheel's review table says Ecuadorian Corojo. Regular production, about 100 boxes per run.",
+  "verified": true,
+  "verifyNotes": "Maker wrapper, size, factory, 2020 release, strength (Cigar Coop medium, halfwheel medium-plus) and body confirmed. Added halfwheel's third wrapper version to the notes and dropped 'known for being inexpensive' from about."
+ },
+ {
+  "brand": "Falto",
+  "line": "El Surco Cosechero",
+  "found": true,
+  "officialName": "El Surco Cosecheros",
+  "wrapperLeaf": "Ecuadorian HVA (Havana Vuelta Arriba)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 6.875,
+    "ring": 40
+   }
+  ],
+  "flavors": [],
+  "about": "A lancero that Luis Falto dedicated to tobacco growers, rolled at La Aurora. The name refers to the growers and to the furrow cut before planting.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/articles/new-cigars-from-falto-coming-later-this-month",
+   "https://halfwheel.com/pca-2021-falto/394563/",
+   "https://cigar-coop.com/2021/09/cigar-news-falto-cigars-announces-falto-el-surco-cosecheros-release.html"
+  ],
+  "notes": "Sold only in Puerto Rico before its 2021 US release. Ongoing but about 100 boxes of 25 per run. Halfwheel's spec list adds Nicaragua to the filler; Cigar Aficionado and Cigar Coop say Dominican only. The maker's site entry shows the Hato Viejo text by mistake.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Falto",
+  "line": "LJF Reserva del Fundador",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habana 92",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box Pressed Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "spice"
+  ],
+  "about": "Falto's first box-pressed cigar, made for the company's 23rd anniversary and rolled at La Aurora. LJF stands for Luis Juan Falto and the name means Founder's Reserve.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.faltocigars.com/en/cigarros-3",
+   "https://halfwheel.com/falto-cigars-adding-ljf-reserva-del-fundador/260526/"
+  ],
+  "notes": "Regular production, but each run is limited to 100 boxes of 20. The maker says it starts medium flavored and builds to full flavored, without giving a strength.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

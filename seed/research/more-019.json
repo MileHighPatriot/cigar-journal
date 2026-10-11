@@ -1,0 +1,967 @@
+[
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Lost City",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican, summer-grown at Chateau de la Fuente",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Double Robusto Tubo",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Piramide",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.75,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Carlito's A",
+    "length": 9.25,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "oak",
+   "spice",
+   "cream"
+  ],
+  "about": "An OpusX offshoot made with wrapper from an off-season summer crop that Carlito Fuente planted in 2004 so Andy Garcia could film The Lost City on the farm. It is sold through Prometheus as part of the Fuente Aged Selection, with part of each sale funding a scholarship for Cigar Family school graduates.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/ffox-the-lost-city",
+   "https://www.holts.com/cigars/all-cigar-brands/fuente-fuente-opus-x-lost-city.html",
+   "https://halfwheel.com/prometheus-ships-opusx-lost-city-carlitos-a-opus-holiday-samplers/432861/"
+  ],
+  "notes": "Prometheus describes it as medium-to-full; Holt's lists it as Full. Holt's lists the Piramide at 5 3/4 x 52, Prometheus at 6 x 52. The Carlito's A was added in 2023 to mark the line's 15th anniversary.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX BBMF",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Chateau de la Fuente Sun Grown Rosado (Natural); a Maduro version is also made",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "BBMF",
+    "length": 6.5,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "nuts",
+   "espresso",
+   "spice"
+  ],
+  "about": "A large, bulb-footed figurado in the OpusX blend, one of the best known of the rare OpusX shapes. It is sold in Natural and Maduro through Prometheus in the Heaven and Earth series, in travel humidors of 10.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/bbmf",
+   "https://halfwheel.com/review-opus-x-forbidden-x-bbmf-natural/9384/",
+   "https://halfwheel.com/prometheus-expanding-fuente-heaven-earth-series/272271/"
+  ],
+  "notes": "This is one special shape of OpusX, not a separate blend. Blend shown is for the Natural; the wrapper of the Maduro version is not published. The shape predates the Heaven and Earth series, which began in 2017.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Big B",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (regular OpusX blend)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Big B",
+    "length": 6,
+    "ring": 74
+   }
+  ],
+  "flavors": [],
+  "about": "A very thick 6 x 74 OpusX perfecto with a flat cap, named for Barry Herbst of BLH Industries, who makes cigar molds for Fuente. It first appeared in 2013 and joined the Heaven and Earth series in 2023, sold in travel humidors of six.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/cigar/big-b",
+   "https://halfwheel.com/opusx-bigb-returns-for-2023-fuente-aged-selection-releases/423117/",
+   "https://halfwheel.com/prometheus-begins-shipping-opusx-bigb-humidors/425047/"
+  ],
+  "notes": "This is one special shape of OpusX. No separate blend is published; halfwheel describes it with the regular all-Dominican OpusX blend. In 2013 only 500 were sold, one in each Opus22 10th release humidor.",
+  "verified": true,
+  "verifyNotes": "Reworded wrapperLeaf and notes: no source states a blend for this size; halfwheel presents it as a size of the regular all-Dominican OpusX blend. Confirmed 2013 debut, 6 x 74 and the Opus22 detail on halfwheel."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX El Escorpion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (Natural), with a maduro strip at the foot; a Maduro version is also made",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Escorpion",
+    "length": 6.375,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "pepper",
+   "spice",
+   "leather",
+   "cinnamon"
+  ],
+  "about": "A sharply box-pressed OpusX perfecto with a very pointed head and a contrasting strip of wrapper at the foot. It comes in Natural and Maduro and is sold through Prometheus in the Heaven and Earth series, in travel humidors of 10.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/el-escorpion",
+   "https://halfwheel.com/opus-x-el-scorpion-natural/9698/"
+  ],
+  "notes": "This is one special shape of OpusX, not a separate blend. Blend shown is for the Natural; the wrapper of the Maduro version is not published. The scorpion refers to the birth sign of founder Arturo Fuente.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Purple Rain",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican, grown at Chateau de la Fuente",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6.875,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "white pepper",
+   "mineral",
+   "toast"
+  ],
+  "about": "A dark-wrapped OpusX lonsdale with an unusual open torpedo head, sold through Prometheus in the Heaven and Earth series since late 2018. It comes in travel humidors of 10 and a share of sales goes to the Cigar Family Charitable Foundation.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/cigar/purple-rain",
+   "https://halfwheel.com/opusx-purple-rain/365171/",
+   "https://halfwheel.com/prometheus-ships-diademas-for-opusx-rare-black-rare-purple-god-of-fire-never-back-down-special-reserve/478561/"
+  ],
+  "notes": "Prometheus says the name is not taken from the Prince song. Three diademas in the same blend arrived in 2026 but are branded Carlito's X Rare Purple (7 1/2 x 54, 6 1/4 x 56, 5 1/2 x 60). Early reviews listed the blend as undisclosed.",
+  "verified": true,
+  "verifyNotes": "Set wrapperCategory to null: sources only say a Dominican wrapper from Chateau de la Fuente and describe it as very dark, so the type is not known."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Rare Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican, grown at Chateau de la Fuente",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6.875,
+    "ring": 44
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.625,
+    "ring": 49
+   },
+   {
+    "name": "Diadema 54",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "Diadema 56",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Diadema 60",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "nuts",
+   "leather",
+   "caramel",
+   "espresso",
+   "cocoa"
+  ],
+  "about": "An OpusX blend with black bands sold through Prometheus in the Heaven and Earth series. It began in 2019 as a lonsdale with an open torpedo head, gained a Double Corona in 2021 and three diademas in 2026.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/cigar/rare-black",
+   "https://halfwheel.com/opusx-rare-black/365027/",
+   "https://halfwheel.com/prometheus-ships-diademas-for-opusx-rare-black-rare-purple-god-of-fire-never-back-down-special-reserve/478561/"
+  ],
+  "notes": "The binder and filler have not been disclosed. Strength is taken from halfwheel's review, which had it finishing just under full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Scorpio",
+  "found": true,
+  "officialName": "Fuente Fuente OpusX Scorpio Maduro",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Scorpio Maduro",
+    "length": 5.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "dark chocolate",
+   "earth",
+   "toast"
+  ],
+  "about": "A thick double robusto with OpusX fillers under a Connecticut Broadleaf maduro wrapper, named for the birth sign of founder Arturo Fuente. The Scorpio shape first appeared in 2007 in a Prometheus humidor and the Maduro is now sold in the Heaven and Earth series in travel humidors of 10.",
+  "released": 2007,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/cigar/scorpio-maduro",
+   "https://halfwheel.com/review-opus-scorpio-maduro/22882/"
+  ],
+  "notes": "The Heaven and Earth series lists only the Scorpio Maduro. Blend, size and strength are from halfwheel's 2012 review of that cigar, which had it finishing at full strength.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel dates the Scorpio shape to 2007 but does not say the Maduro version existed then."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente Fuente OpusX Tauros the Bull",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tauros the Bull",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A special OpusX shape named for Taurus, the birth sign shared by Carlito Fuente and his father Carlos Fuente Sr. It comes in Natural and Maduro and is sold through Prometheus in the Heaven and Earth series, in travel humidors of 10.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.fuenteagedselection.com/tauros-the-bull",
+   "https://halfwheel.com/prometheus-expanding-fuente-heaven-earth-series/272271/",
+   "https://halfwheel.com/opusx-purple-rain-returns-to-stores-rare-black-added-to-heaven-and-earth-series/298956/"
+  ],
+  "notes": "This is one special shape of OpusX, sold in Natural and Maduro. No blend is published for this size; standard OpusX is all Dominican tobacco from the Fuente farm. It was already in Prometheus sets by 2011.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Destino al Siglo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano-seed sun grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "de Amistad",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "de Amor",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "de Familia",
+    "length": 6.125,
+    "ring": 47
+   },
+   {
+    "name": "de Pasion",
+    "length": 6.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "Fuente's 100th anniversary cigar, also called Don Arturo Gran AniverXario Destino al Siglo; the name means destiny of the century. It was planned for 2012 but, after a 2011 fire, shipped at the end of 2013 in book-style boxes, using a Habano-seed Dominican wrapper instead of the seed used for OpusX.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/destino-al-siglo/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-destino-al-siglo",
+   "https://halfwheel.com/review-arturo-fuente-don-arturo-aniversario-destino-al-siglo-double-robusto-prerelease/33686/"
+  ],
+  "notes": "Fuente has not published the binder or filler. Fuente calls it full-flavored and Neptune lists Full, while halfwheel's early review found medium-full. Not a limited edition, but supply is small and stores often cap purchases.",
+  "verified": true,
+  "verifyNotes": "Changed production from limited to regular: halfwheel lists it as regular production and Fuente still catalogs it, though supply is small. Dropped Neptune's binder and filler from notes because its spec table contradicts its own text on the wrapper. Swapped the halfwheel news link for the halfwheel review used for strength."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Rare Pink",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian (Holt's lists it as Ecuador Habano Rosado)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Story",
+    "length": 4,
+    "ring": 49
+   },
+   {
+    "name": "Queen of Hearts",
+    "length": 4.125,
+    "ring": 60
+   },
+   {
+    "name": "Work of Art",
+    "length": 4.875,
+    "ring": 60
+   },
+   {
+    "name": "Happy Ending",
+    "length": 5.5,
+    "ring": 53
+   },
+   {
+    "name": "Signature",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Sophisticated Hooker",
+    "length": 7.25,
+    "ring": 53
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "oak",
+   "black pepper",
+   "baking spices"
+  ],
+  "about": "A line of perfectos in Hemingway shapes, launched in December 2020 and led by Liana Fuente to raise money and awareness for breast cancer research. The full name is Rare Pink Vintage 1960's, a nod to the decade that shaped Carlito Fuente.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/rare-pink/",
+   "https://halfwheel.com/arturo-fuente-ships-2022-batch-of-rare-pinks-including-two-new-sizes/414912/",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-rare-pink.html"
+  ],
+  "notes": "halfwheel's 2021 review listed a Dominican binder; its 2022 report and Neptune say Nicaraguan. halfwheel and Neptune list Queen of Hearts at 3 3/4 x 54, while Fuente's site and Holt's say 4 1/8 x 60. Not a limited edition, but it ships only in small batches.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Rare Pink Black Pink",
+  "found": true,
+  "officialName": "Rare Pink Vintage 1960's Black Pink",
+  "wrapperLeaf": "Habano-seed grown in Connecticut",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": null,
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Work of Art",
+    "length": 4.875,
+    "ring": 60
+   },
+   {
+    "name": "Happy Ending",
+    "length": 5.5,
+    "ring": 53
+   },
+   {
+    "name": "Signature",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Black Panther",
+    "length": 6.625,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "A darker spin on Fuente's Rare Pink line, with a Connecticut-grown habano-seed wrapper over Dominican fillers. It was teased at the 2024 trade show and began shipping in March 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/arturo-fuente-ships-rare-pink-black-pink-line/464702/",
+   "https://halfwheel.com/arturo-fuente-rare-pink-vintage-1960s-black-pink-slated-for-late-2025-arrival/455572/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-rare-pink"
+  ],
+  "notes": "The binder has not been published. It launched as an exclusive for Tobacconists' Association of America stores for about six months. Strength is from Neptune only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Unnamed Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sun Grown Rosado, origin undisclosed",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Unnamed Reserve 2021",
+    "length": 5.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "white pepper",
+   "earth",
+   "cream"
+  ],
+  "about": "A series of occasional limited releases from Fuente that began in December 2012, with new versions in 2013, 2014 and 2015 and a return in 2021. The 2021 cigars were rolled in 2016 and limited to 1,000 boxes of 20.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/arturo-fuente-unnamed-reserve-2021/402481/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-unnamed-reserve",
+   "https://halfwheel.com/arturo-fuente-unnamed-reserve-2012/55580/"
+  ],
+  "notes": "Each release has its own size, and Fuente says the blend varies from year to year without giving details. Details shown are for the 2021 release, which matches the 2012 size.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Fuente y Padron Legends",
+  "found": true,
+  "officialName": "Fuente y Padrón Legends",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "nuts",
+   "cedar",
+   "hay",
+   "earth",
+   "dried fruit"
+  ],
+  "about": "A collaboration between Carlito Fuente and Jorge Padrón in which each made a 7 x 50 Churchill honoring the other's father. It reached stores in March 2024 in boxes of 40, 20 of each cigar, at $7,115 a box, with profits going to the two families' charities.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fuente-y-padron-legends-arturo-fuente/445793/",
+   "https://halfwheel.com/fuente-y-padron-legends-padron/445844/",
+   "https://www.holts.com/cigars/all-cigar-brands/fuente-y-padron-legends.html"
+  ],
+  "notes": "Both blends are undisclosed. Country, factory and tasting notes are for the cedar-wrapped cigar Fuente made; the box-pressed Padrón cigar is rolled in Nicaragua at Tabacos Cubanica. Holt's lists Medium-Full, Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Especiales",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Conquistadores",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Cazadores",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Emperador",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "spice",
+   "sweetness"
+  ],
+  "about": "Fuente's value-priced line, made with medium-length aged Dominican filler under a reddish-brown Ecuador Habano wrapper. It arrived in 2012 and comes in three sizes sold in boxes of 30.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/medium-filler/",
+   "https://halfwheel.com/fuente-ships-especiales-emperador/32686/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-especiales"
+  ],
+  "notes": "This is a medium filler (mixed filler) cigar, not long filler. Fuente calls it medium-bodied; Holt's lists it as Mild-Medium. The binder is from Neptune only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Seleccion d'Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Imperial",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Seleccion Privada No. 1",
+    "length": 6.75,
+    "ring": 44
+   },
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "coffee",
+   "cedar",
+   "cream",
+   "spice"
+  ],
+  "about": "The golden Connecticut Shade version of Fuente's Gran Reserva, made with Dominican long filler. It comes in three of the longer Gran Reserva sizes and is known as a mellow, creamy smoke.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/gran2/",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-seleccion-d-oro.html",
+   "https://www.neptunecigar.com/cigars/arturo-fuente-seleccion-d-oro-corona-imperial"
+  ],
+  "notes": "Fuente lists D'Oro as a wrapper option within Gran Reserva, not as a separate line. Fuente does not say where the wrapper is grown: Neptune says USA Connecticut Shade, Famous says Ecuadorian-grown. Holt's and Famous list Medium, Neptune lists Mild; the binder is from Neptune only.",
+  "verified": true,
+  "verifyNotes": "Set wrapperOrigin from Ecuador to null: Neptune says USA Connecticut Shade, Famous's text says Ecuadorian-grown, Holt's and Fuente do not say. Filled binder from Neptune. Replaced the Famous link with the Neptune product page."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Gran Reserva Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Cuban Corona",
+    "length": 5.25,
+    "ring": 45
+   },
+   {
+    "name": "Flor Fina 8-5-8",
+    "length": 6,
+    "ring": 47
+   },
+   {
+    "name": "Spanish Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Corona Imperial",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Seleccion Privada No. 1",
+    "length": 6.75,
+    "ring": 44
+   },
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 48
+   },
+   {
+    "name": "Canones",
+    "length": 8.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "dark chocolate",
+   "pepper"
+  ],
+  "about": "The maduro version of Fuente's flagship Gran Reserva, with a Connecticut Broadleaf wrapper over aged Dominican tobaccos. It is offered in the same core sizes as the natural Cameroon version.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/gran2/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-gran-reserva.html"
+  ],
+  "notes": "This is the Maduro wrapper option of Gran Reserva, not a separate blend family. Retailers also file Curly Head Deluxe, Brevas Royales, Exquisitos and Cubanitos Maduro under it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Gran Reserva Candela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Flor Fina 8-5-8",
+    "length": 6,
+    "ring": 47
+   },
+   {
+    "name": "Spanish Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Curly Head",
+    "length": 6.5,
+    "ring": 43
+   },
+   {
+    "name": "Corona Imperial",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Seleccion Privada No. 1",
+    "length": 6.75,
+    "ring": 44
+   },
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "grass",
+   "green tea",
+   "nuts",
+   "toast",
+   "cream"
+  ],
+  "about": "The green-wrapped version of Fuente's Gran Reserva, using a candela leaf over Dominican tobaccos. It is a mellow, grassy alternative offered in a handful of the Gran Reserva sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/gran2/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-candela",
+   "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-claro.html"
+  ],
+  "notes": "Holt's and Famous sell it as Claro and list Medium; Neptune lists Mild. Fuente does not say where the candela leaf is grown: Neptune says Ecuador, Famous lists Connecticut. The binder is from Neptune only, and the Curly Head size comes from retailers, not Fuente's size chart.",
+  "verified": true,
+  "verifyNotes": "Changed wrapperLeaf from Ecuadorian Candela to Candela and wrapperOrigin from Ecuador to null: only Neptune says Ecuador, Famous lists Connecticut, Fuente and Holt's do not say."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Gran Reserva Rosado Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Rosado Sun Grown",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Flor Fina 8-5-8 Rosado Sun Grown",
+    "length": 6,
+    "ring": 47
+   },
+   {
+    "name": "King T Rosado Sun Grown",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "hay",
+   "espresso",
+   "earth",
+   "cocoa",
+   "floral"
+  ],
+  "about": "Fuente cigars dressed in an Ecuadorian rosado sun grown wrapper over Dominican tobaccos, best known on the Flor Fina 8-5-8. That cigar first appeared in 2002 in a tiny run, returned in 2009 and 2018, and remains hard to find.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/gran2/",
+   "https://halfwheel.com/arturo-fuente-flor-fina-8-5-8-rosado-sun-grown-2018/282534/",
+   "https://www.neptunecigar.com/cigar/arturo-fuente-sun-grown"
+  ],
+  "notes": "Fuente lists Rosado Sun Grown as a wrapper option on the 8-5-8, and King T Rosado Sungrown sits in its Chateau Fuente series. It ships in small batches and is hard to find. halfwheel measured the 2018 8-5-8 at 6 1/4 x 47; the binder is from Neptune only.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and added that Fuente files King T Rosado Sungrown under its Chateau Fuente series."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Curly Head Deluxe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Curly Head Deluxe",
+    "length": 6.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "sweetness",
+   "spice"
+  ],
+  "about": "Fuente's long-running budget lonsdale, made with medium-length Dominican filler and sold in boxes of 25. It is a smooth, mild everyday cigar that also comes in a Maduro version.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/medium-filler/",
+   "https://www.famous-smoke.com/arturo-fuente-curly-head-deluxe-cigars-natural",
+   "https://www.neptunecigar.com/cigars/arturo-fuente-curly-head-deluxe"
+  ],
+  "notes": "Fuente's site says the wrapper is Connecticut shade, but Famous and Neptune both list the natural version as Cameroon. It is a medium filler (mixed filler) cigar; the binder is from Neptune only. Neptune lists Mild; Famous lists Medium but describes it as mild.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Wrapper kept as the maker states it; Famous and Neptune both say Cameroon, so treat it as disputed."
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Brevas Royales Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Brevas Royales Maduro",
+    "length": 5.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "sweetness",
+   "vanilla",
+   "toast",
+   "nuts"
+  ],
+  "about": "The maduro version of Fuente's Brevas Royales, an inexpensive corona made with medium-length Dominican filler. It is a small everyday smoke with a Connecticut Broadleaf wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://arturofuente.com/our-cigars/medium-filler/",
+   "https://www.neptunecigar.com/cigars/arturo-fuente-maduro-brevas-royale",
+   "https://www.famous-smoke.com/a-fuente-brevas-maduro-cigars"
+  ],
+  "notes": "This is the Maduro wrapper version of the single-size Brevas Royales, a medium filler (mixed filler) cigar. Retailers spell it Brevas Royale. The binder is from Neptune only.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

@@ -1,0 +1,508 @@
+[
+ {
+  "brand": "Viaje",
+  "line": "Farmer Bill Hatchet Holiday Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "hay",
+   "leather",
+   "earth",
+   "dark chocolate",
+   "cedar",
+   "cinnamon"
+  ],
+  "about": "A Christmas-themed offshoot of Viaje's Farmer Bill Hatchet, the character from its Thanksgiving Stuffed Turkey story. It is its own blend and is sold in 25-count bundles wrapped in holiday paper.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-farmer-bill-holiday-edition/405119/",
+   "https://halfwheel.com/viaje-holiday-blend-candy-cane-and-farmer-bill-hatchet-holiday-edition-coming-this-month/432302/",
+   "https://www.hilandscigars.com/shop/cigars/viaje/viaje-holiday-blend/viaje-holiday-edition-farmer-bill-hatchet-6x54-bundle-of-25/"
+  ],
+  "notes": "Viaje has not disclosed the blend, factory or country; it is a different blend from the regular Farmer Bill Hatchet. Halfwheel found it medium, while one retailer lists it as medium-full. Shipped in December 2021 and again in December 2023.",
+  "verified": true,
+  "verifyNotes": "Halfwheel confirms blend, factory and country are undisclosed and strength medium. Added the retailer strength disagreement to notes and swapped one halfwheel news link for the retailer page."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Farmhand Andre",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Churchill (box-pressed)",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "bread",
+   "cream",
+   "earth",
+   "leather",
+   "black pepper",
+   "chocolate"
+  ],
+  "about": "A Thanksgiving-season Viaje release named for founder Andre Farkas, who appears on the band as the helper to Farmer Bill Hatchet. It comes as a single box-pressed 7 x 52.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-farmhand-andre/372100/",
+   "https://halfwheel.com/viaje-shipping-farmhand-andre-and-zombie-farmhand-andre-for-thanksgiving-releases/431621/",
+   "https://cigar-coop.com/2020/11/cigar-review-viaje-farmhand-andre-2019.html"
+  ],
+  "notes": "Viaje keeps the blend, factory and country secret. Halfwheel rated it medium-plus in strength with full body; Cigar Coop called it medium in both. Released in 2019 and again in 2023 with the same blend.",
+  "verified": true,
+  "verifyNotes": "No changes. Halfwheel and Cigar Coop both list the blend, factory and country as undisclosed."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Cache",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA), the Aganorsa factory in Estelí",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Five Fifty Two Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Six Fifty Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "black pepper",
+   "coffee",
+   "nuts",
+   "spice"
+  ],
+  "about": "A San Andrés-wrapped Viaje made with Aganorsa tobacco in Estelí. It is known for its box: 20 round cigars on top and a hidden compartment of five box-pressed cigars underneath.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-cache-furiosa-returning-for-2024/439779/",
+   "https://halfwheel.com/viaje-cache-six-fifty-toro-2018/261896/",
+   "https://halfwheel.com/review-viaje-cache/71478/"
+  ],
+  "notes": "Released in 2014 (5 x 52 only), 2018 (5 x 52 and 6 x 50) and 2024. Blend and factory are from 2014 and 2018; Viaje did not confirm the blend or sizes for 2024. Halfwheel found the 2014 medium-full and the 2018 toro closer to medium.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel. Added the strength difference between the 2014 and 2018 reviews to notes."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Furiosa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica de Tabacos Raíces Cubanas S. de R.L.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Fury",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Imperator",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Toro Extra (2016)",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "white pepper",
+   "wood",
+   "cedar",
+   "sweetness",
+   "floral"
+  ],
+  "about": "A small-batch Viaje named for Imperator Furiosa from the Mad Max films. It debuted in 2016 as a Nicaraguan puro of corojo and criollo tobaccos and came back in 2024 in two new sizes, sold in 51-count boxes.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-cache-furiosa-returning-for-2024/439779/",
+   "https://halfwheel.com/viaje-adds-furiosa-plans-2016-c4-tnt/118643",
+   "https://cigar-coop.com/2016/11/cigar-review-viaje-furiosa.html"
+  ],
+  "notes": "Blend, factory and country are from the 2016 release; Viaje did not disclose them for the 2024 Fury and Imperator. The Corojo 99 wrapper detail comes from Cigar Coop; halfwheel says only that it uses corojo and criollo tobaccos.",
+  "verified": true,
+  "verifyNotes": "Removed a claim that Cigar Coop lists the Fury as 5 x 50: the cited Cigar Coop page is a 2016 review and does not mention that size. Other fields confirmed for the 2016 release."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Holiday Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Holiday Blend",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Christmas Tree",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wood",
+   "black pepper",
+   "earth",
+   "cream"
+  ],
+  "about": "Viaje's Christmas release, shipped most Decembers since 2009 in gift-wrapped cigars. It was a Nicaraguan criollo-wrapped blend for years and switched to a corojo 99 maduro wrapper in 2022.",
+  "released": 2009,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-holiday-blend-returns-with-new-wrapper-honey-hand-grenades-getting-new-vitola/416707/",
+   "https://halfwheel.com/viaje-holiday-blend-christmas-tree-2022/421065/",
+   "https://www.hilandscigars.com/shop/cigars/viaje-holiday-blend-5x54-box-of-30/"
+  ],
+  "notes": "Blend shown is the 2022 version; earlier years used a Nicaraguan criollo wrapper. Viaje has not said where the 2022 version is made. Halfwheel found it medium, while a retailer lists it as full, and sizes change from year to year.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel. Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Holiday Blend Candy Cane",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of two wrappers; Brazilian Arapiraca and Ecuadorian Habano on the 2015 edition",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cereal",
+   "cream",
+   "pepper"
+  ],
+  "about": "The barber pole version of Viaje's Holiday Blend, with two wrapper leaves striped like a candy cane. It first shipped in 2012 and returns some Decembers as a 6 x 54.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-holiday-blend-candy-cane-edicion-limitada-2018/296688/",
+   "https://halfwheel.com/viaje-holiday-blend-candy-cane-edicion-limitada-2015/107151/",
+   "https://halfwheel.com/review-viaje-holiday-blend-candy-cane/33372/"
+  ],
+  "notes": "The blend changes by year and Viaje has not disclosed recent ones. The 2012 was made at Raíces Cubanas in Honduras and the 2015 at PDR Cigars in the Dominican Republic. Strength varies: halfwheel found the 2015 medium-full to full and the 2018 mild to medium.",
+  "verified": true,
+  "verifyNotes": "Strength set to null: no source gives one rating, halfwheel found the 2015 medium-full to full and the 2018 mild to medium, and a retailer lists 2023 as medium-full. Changed black pepper to pepper, swapped a news link for the 2015 review, trimmed notes."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Satori",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf), Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Karma",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Nirvana",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Zen",
+    "length": 6.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "coffee",
+   "leather",
+   "black pepper",
+   "dark chocolate",
+   "earth"
+  ],
+  "about": "A limited Viaje that started in 2010 as an exclusive for retailers who attended the trade show. The name is a Japanese word for sudden enlightenment, and since 2011 it has worn a Mexican San Andrés wrapper over Nicaraguan tobacco.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-satori-returning-this-month/428350/",
+   "https://halfwheel.com/viaje-satori-karma-2011/19203/",
+   "https://www.hilandscigars.com/shop/cigars/viaje-satori-karma-5-x-52-box-of-25/"
+  ],
+  "notes": "The 2010 debut was a Nicaraguan puro with an oscuro wrapper. Releases through 2014 were made at Raíces Cubanas in Honduras; the 2023 release was made by Aganorsa Leaf in Estelí. Strength is from a single retailer listing.",
+  "verified": true,
+  "verifyNotes": "About said it was a gift to retailers; halfwheel says it was an exclusive sold to retailers at the trade show. Notes trimmed, and flagged that strength rests on one retailer."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Friends and Family",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "La Cadeau",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Le Joueur",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Bel Air",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Merci",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "leather",
+   "earth",
+   "cedar",
+   "red pepper"
+  ],
+  "about": "Originally founder Andre Farkas's private blend for handing to friends and family, which he compared to his own Cohiba. It reached stores in 2012 and comes in small batches in boxes of 15, soft-pressed with a covered foot.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-friends-and-family-merci-returns-this-month/413921/",
+   "https://halfwheel.com/viaje-friends-and-family-merci/81877/",
+   "https://halfwheel.com/review-viaje-friends-family/24676"
+  ],
+  "notes": "Viaje keeps the blend, factory and country secret. Each release is usually a single size; the most recent one covered was the Merci in 2022.",
+  "verified": true,
+  "verifyNotes": "No changes. Halfwheel confirms Viaje does not disclose the blend, factory or country."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Pina",
+  "found": true,
+  "officialName": "Piña",
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Makana",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Nohea",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "red pepper",
+   "citrus"
+  ],
+  "about": "A Hawaiian-themed Viaje (piña is Spanish for pineapple) made at Ernesto Perez-Carrillo's factory in the Dominican Republic. It has a Mexican San Andrés wrapper over an Ecuadorian binder and Nicaraguan filler.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-pina-slated-to-return-this-month/413851/",
+   "https://www.cigaraficionado.com/article/viaje-brings-back-mexican-wrapped-pina",
+   "https://cigar-coop.com/2017/10/cigar-review-viaje-pina-bohea.html"
+  ],
+  "notes": "First released in 2017 as part of Viaje's White Label Project, then brought back in 2022 with its own pineapple band, limited to 350 boxes of 24 per size. Strength and flavors are from a Cigar Coop review of the 2017 release; the maker says the 2022 run is a little sweeter.",
+  "verified": true,
+  "verifyNotes": "No changes. Confirmed against halfwheel, Cigar Aficionado and Cigar Coop."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Late Harvest",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "LH 550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "LH 648",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "espresso",
+   "nuts",
+   "dark chocolate",
+   "earth"
+  ],
+  "about": "Viaje's nod to late harvest wine: a Nicaraguan puro built mostly from the highest primings, the leaves that stay on the plant longest. It comes with a pigtail cap in crate-style boxes of 35.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-ships-farmer-bill-hatchet-holiday-edition-two-late-harvest-releases/402981/",
+   "https://halfwheel.com/review-viaje-late-harvest-lh-648-2012/27087/",
+   "https://halfwheel.com/review-viaje-late-harvest-lh-550-2012/27399/"
+  ],
+  "notes": "Blend is from the 2011 and 2012 releases, which were made at Raíces Cubanas in Honduras. Viaje did not disclose the blend or factory for the 2021 return. Viaje says the line is blended for seasoned smokers.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that Cigar Coop lists TABSA for the 2021 Late Harvest: the Cigar Coop page I could open covers only the Hang Time. Other fields confirmed on halfwheel."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Late Harvest Hang Time",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, higher priming",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "LH 550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "LH 648",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "fig",
+   "mocha",
+   "burnt sugar",
+   "black pepper",
+   "dried fruit",
+   "nuts"
+  ],
+  "about": "The stronger sibling of Viaje's Late Harvest, added in 2013. It uses a wrapper from a higher priming than the original, meaning leaf that hung on the stalk longer, for a more intense smoke.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-ships-farmer-bill-hatchet-holiday-edition-two-late-harvest-releases/402981/",
+   "https://halfwheel.com/review-viaje-late-harvest-hang-time-lh-648/42800/",
+   "https://cigar-coop.com/2022/11/agile-cigar-review-viaje-late-harvest-hang-time-lh550-2021.html"
+  ],
+  "notes": "Blend is from the 2013 release, made at Raíces Cubanas in Honduras. Viaje did not disclose the blend or factory for the 2021 return; Cigar Coop lists TABSA in Nicaragua for that run. Strength rating is from Cigar Coop's review of the 2021 release.",
+  "verified": true,
+  "verifyNotes": "No changes. Confirmed against halfwheel and the Cigar Coop review of the 2021 release."
+ }
+]

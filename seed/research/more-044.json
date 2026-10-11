@@ -1,0 +1,969 @@
+[
+ {
+  "brand": "Crowned Heads",
+  "line": "Tennessee Waltz",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "OG",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "CG",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "espresso",
+   "leather",
+   "earth",
+   "baking spices"
+  ],
+  "about": "A Connecticut broadleaf cigar made for Crowned Heads by My Father Cigars, created in 2014 as an exclusive for the company's home state of Tennessee. It became a nationwide regular line with three sizes in late 2025.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.crownedheads.com/cigars/tennessee-waltz/",
+   "https://halfwheel.com/tennessee-waltz-cg/465216/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-tennessee-waltz"
+  ],
+  "notes": "Sold only in Tennessee from 2014 until November 2025, when it went nationwide and gained the CG and Toro sizes. The maker calls it medium to full bodied; Neptune lists it as medium and halfwheel's review found it around medium.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and dates confirmed on halfwheel; maker page confirms medium to full bodied. Swapped the halfwheel news post for Neptune's page, which the notes cite, and added halfwheel's strength finding to the notes."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Four Kicks Mule Kick",
+  "found": true,
+  "officialName": "Four Kicks Mule Kick Limited Edition",
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo (formerly Tabacalera La Alianza S.A.)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.875,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An occasional limited edition offshoot of Four Kicks, made by Ernesto Perez-Carrillo's factory in the Dominican Republic. It always comes in one 5 7/8 x 52 size, but the wrapper and blend change from release to release.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-revamps-mule-kick-for-2025/446577/",
+   "https://halfwheel.com/four-kicks-mule-kick-2023-debuting-at-pca-2023/425237/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-four-kicks-mule-kick-le"
+  ],
+  "notes": "The blend changes by year, so no single strength applies. Fields show LE 2025 (2,500 boxes of 10). LE 2023 used an Ecuadorian Sumatra wrapper over a Dominican binder; the 2012 original used a darker Ecuadorian habano wrapper.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory, size and box counts confirmed on halfwheel. Strength stays null: Neptune shows Medium, but its spec table still describes the 2023 blend, and the maker gives no rating."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Four Kicks Capa Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo (formerly Tabacalera La Alianza S.A.)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "leather",
+   "white pepper",
+   "spice"
+  ],
+  "about": "A version of Four Kicks with an Ecuadorian Sumatra wrapper, made by Ernesto Perez-Carrillo's factory in the Dominican Republic. It is based on a runner-up blend from the original 2011 Four Kicks development.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/four-kicks-capa-especial-corona-gorda-2/410091/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-four-kicks-capa-especial",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-crowned-heads-four-kicks-capa-especial-robusto/"
+  ],
+  "notes": "halfwheel and Developing Palates found medium to medium-plus strength with an all-Nicaraguan filler. Neptune lists it as full, says the filler is Dominican and Nicaraguan, and marks the Corona Gorda size as discontinued.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel and Neptune. Added Developing Palates as a third source for strength and noted that Neptune marks the Corona Gorda discontinued."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "CHC Serie E",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Ometepe, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pichardo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Edmundo",
+    "length": 4.375,
+    "ring": 52
+   },
+   {
+    "name": "5150",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Hermoso No. 2",
+    "length": 6.125,
+    "ring": 48
+   },
+   {
+    "name": "Sublime",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "nuts",
+   "cocoa",
+   "spice",
+   "earth"
+  ],
+  "about": "A Nicaraguan-made follow-up to Crowned Heads Court Reserve XVIII with an Ecuadorian habano oscuro wrapper. CHC stands for Crowned Heads Court and the E is for Eruption, the Eddie Van Halen guitar solo.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/chc-serie-e-hermoso-no-2/402189/",
+   "https://www.neptunecigar.com/cigar/chc-serie-e"
+  ],
+  "notes": "Launched in 2021 as regular production, but Neptune now marks its sizes as discontinued, so it may no longer be made. The maker described it as medium-plus bodied.",
+  "verified": true,
+  "verifyNotes": "Factory changed to plain Tabacalera Pichardo, as halfwheel lists it. The D'Hatuey rename is not confirmed for this line: Neptune names Luciano Tobaccos, and halfwheel reported it was unclear whether the line stayed at that factory. Production left null."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Belgian Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "TacaNicsa (also called D'Hatuey Tabacos S.A.; formerly Tabacalera Pichardo)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "LE 2024 Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "LE 2025 Double Robusto (box-pressed)",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "coffee",
+   "chocolate"
+  ],
+  "about": "A yearly limited edition from Crowned Heads with a Mexican San Andrés wrapper, made in Estelí, Nicaragua. Its filler is 75 percent ligero, which makes it one of the company's stronger blends.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-belgian-blue-returning-for-2025/455514/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-belgian-blue-le-2024",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-crowned-heads-belgian-blue-le-2025/"
+  ],
+  "notes": "Same blend each year in a different size: 2,000 boxes of 12 in 2024 and 2,500 boxes of 12 in 2025. Neptune lists it as full; Developing Palates' review of the 2025 found it closer to medium.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and strength confirmed. Factory reworded: halfwheel and Neptune use both TacaNicsa and D'Hatuey for the same Pichardo factory. Swapped one halfwheel post for the Developing Palates review the notes cite."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Blood Medicine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Connecticut seed)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "TacaNicsa (also called D'Hatuey Tabacos S.A.; formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "LE 2024 Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "LE 2025 Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "LE 2025 Gordo",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "LE 2025 Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "wood",
+   "nuts",
+   "cream"
+  ],
+  "about": "A limited edition from Crowned Heads with an Ecuadorian habano wrapper, made in Estelí, Nicaragua. It began as an event-only cigar and is named after a 19th-century building in Nashville.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-expands-blood-medicine-for-2025/448659/",
+   "https://halfwheel.com/blood-medicine-limited-2024/445677/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-blood-medicine"
+  ],
+  "notes": "The 2015 original was an event-only cigar made by My Father, first announced as Snake Oil. It came back in 2022 from Eradio Pichardo's factory, still event-only, and first went on retail sale in 2024 (1,500 boxes of 12). 2025 had three sizes at 700 boxes of 21 each.",
+  "verified": true,
+  "verifyNotes": "Blend, country, strength and sizes confirmed (2025 size names are Neptune's). Factory reworded to cover both names in use. Removed the claim that the current blend dates to 2022, which the sources do not state."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Blood Medicine B-Positive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador (Connecticut seed)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "TacaNicsa (also called D'Hatuey Tabacos S.A.; formerly Tabacalera Pichardo)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "LE 2025 Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "LE 2026 Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "LE 2026 Gordo",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "LE 2026 Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "leather",
+   "earth",
+   "nuts"
+  ],
+  "about": "A limited edition version of Blood Medicine that swaps the Ecuadorian habano wrapper for a Nicaraguan corojo leaf. It is made in Estelí, Nicaragua, and was blended to be darker and more intense than the original.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/blood-medicine-b-positive-coming-next-month/453801/",
+   "https://halfwheel.com/blood-medicine-b-positive-le-2026-5-1-2-x-56/471667/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-blood-medicine-limited-edition-2026"
+  ],
+  "notes": "Same binder and filler as Blood Medicine. 2025 was a single toro (2,400 boxes of 12); 2026 has three sizes at 800 boxes of 21 each. halfwheel found strength from medium to full across samples; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "Blend, country, sizes and box counts confirmed. Factory reworded to cover both names in use. Replaced one halfwheel news post with the Neptune page that carries the full rating and the size names."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Broadway",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Epicure",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "toast",
+   "pepper",
+   "cedar"
+  ],
+  "about": "A regular production Connecticut broadleaf line made at NACSA in Estelí, named for Nashville's Lower Broadway. It was the first Crowned Heads cigar to wear the company's 2025 rebranded bands.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-broadway-epicure/453947/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-broadway",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-crowned-heads-broadway-epicure/"
+  ],
+  "notes": "halfwheel and Developing Palates both found medium strength with a fuller body. Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Coroneta Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Earl",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Duke",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Baron",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "cream",
+   "coffee"
+  ],
+  "about": "One of two Coroneta blends launched together in 2024, each from a different factory. The Habano is made at NACSA in Nicaragua with an Ecuadorian habano wrapper over Nicaraguan tobaccos.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-turns-to-casa-carrillo-nacsa-for-coroneta/436169/",
+   "https://halfwheel.com/crowned-heads-ships-coroneta-habano/439705/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-coroneta-habano"
+  ],
+  "notes": "Sister blend to Coroneta Maduro, which is made in the Dominican Republic at Casa Carrillo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Coroneta Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Connecticut seed)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Earl",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Duke",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Baron",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "pepper",
+   "earth"
+  ],
+  "about": "One of two Coroneta blends launched together in 2024, each from a different factory. The Maduro is made by Ernesto Perez-Carrillo's Casa Carrillo in the Dominican Republic with a Mexican San Andrés wrapper.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-turns-to-casa-carrillo-nacsa-for-coroneta/436169/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-coroneta-maduro",
+   "https://cigardojo.com/2024/10/crowned-heads-coroneta-maduro-earl/"
+  ],
+  "notes": "Sister blend to Coroneta Habano, which is made in Nicaragua at NACSA. Strength is disputed: Neptune lists it as full, while Cigar Dojo's review rated it medium. No maker rating was found.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and sizes confirmed. Strength kept at Neptune's Full, but Cigar Dojo's review rated it medium, so the dispute is now in the notes and the Dojo review replaces a halfwheel post about the Habano."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "La Vereda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown (Jalapa)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo (formerly Tabacalera La Alianza S.A.)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "No. 50",
+    "length": 5.375,
+    "ring": 50
+   },
+   {
+    "name": "No. 52",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 54",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "No. 56",
+    "length": 6.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice",
+   "earth"
+  ],
+  "about": "A Crowned Heads line made by Ernesto Perez-Carrillo's factory in the Dominican Republic, launched in 2023 as the company's most expensive line to that point. It uses a shade-grown Nicaraguan Jalapa wrapper and fillers aged at least three years.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-introducing-la-vereda-most-expensive-line-to-date/425463/",
+   "https://halfwheel.com/la-vereda-no-54/431238/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-la-vereda"
+  ],
+  "notes": "The wrapper is shade grown, not sun grown; no seed type is published. halfwheel found medium-full strength with a full body, while Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed. Reworded about: sources only say it was the most expensive line when it launched in 2023, not that it still is."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Le Pâtissier",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Costa Rica, Nicaragua (Ometepe, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 50",
+    "length": 4.375,
+    "ring": 50
+   },
+   {
+    "name": "No. 54",
+    "length": 5.375,
+    "ring": 54
+   },
+   {
+    "name": "Canonazo",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "Senadores",
+    "length": 6.125,
+    "ring": 48
+   },
+   {
+    "name": "No. 2",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "chocolate",
+   "leather",
+   "pepper",
+   "cream"
+  ],
+  "about": "A Connecticut broadleaf line whose name is French for pastry chef, known for its use of Costa Rican filler. It started as a 2021 limited edition and became a regular Crowned Heads line in 2022.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/crowned-heads-moving-le-patissier-production-to-nasca/414826/",
+   "https://halfwheel.com/le-patissier-no-2-shipping-to-stores-tomorrow/430998/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-le-patissier"
+  ],
+  "notes": "Moved from Tabacalera Pichardo to NACSA in late 2022. It became regular production in 2022, but Neptune now marks every size discontinued and lists the regular sizes as made by Casa Carrillo in the Dominican Republic; no other source confirms either. The No. 2 belicoso was a limited run.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and medium strength confirmed. Production changed from regular to null: Neptune now marks all five sizes discontinued and I could not confirm current status elsewhere (last regular-production mention found is a December 2024 Cigar Coop review). Notes rewritten."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Mil Días Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Condega, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "TacaNicsa (also called D'Hatuey Tabacos S.A.; formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Edmundo",
+    "length": 5.375,
+    "ring": 52
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Topes",
+    "length": 4.875,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "baking spices",
+   "black pepper",
+   "cedar",
+   "espresso",
+   "earth"
+  ],
+  "about": "A Connecticut broadleaf extension of the Mil Días line, made at Eradio Pichardo's factory in Estelí, Nicaragua. It is a new blend built from scratch, not the original Mil Días with a different wrapper.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/mil-dias-maduro-sublime/438447/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-mil-dias-maduro"
+  ],
+  "notes": "halfwheel found medium strength that rises to medium-full in the final third. Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed. Factory reworded: halfwheel's review lists TacaNicsa, and both names are in use for the same Pichardo factory."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Moonflower",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí, Jalapa), double binder",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "cream",
+   "cedar",
+   "nuts",
+   "mint"
+  ],
+  "about": "A Nicaraguan puro made by My Father Cigars with tobacco grown on the Garcia family's own farms. It is the first new regular Crowned Heads line from My Father in a decade and is a riff on the discontinued Las Mareas.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/moonflower-robusto/478923/",
+   "https://cigardojo.com/2026/03/crowned-heads-introduces-moonflower-first-new-my-father-collaboration-in-a-decade/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-moonflower"
+  ],
+  "notes": "halfwheel's review found medium to medium-plus strength and a medium body. Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Thunderkiss",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "TacaNicsa (also called D'Hatuey Tabacos S.A.; formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "coffee"
+  ],
+  "about": "A lower-priced regular production cigar from Crowned Heads, sold in bundles of 10 in a single 5 x 54 size. It is made in Estelí, Nicaragua and named after the White Zombie song Thunder Kiss '65.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-releases-thunderkiss/457810/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-thunderkiss"
+  ],
+  "notes": "Strength is Neptune's listing; no maker rating was found.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed; strength is Neptune's only. Factory reworded to cover both names in use."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Yellow Rose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo (box-pressed)",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "orange citrus",
+   "espresso",
+   "leather",
+   "earth",
+   "baking spices"
+  ],
+  "about": "A box-pressed torpedo made by My Father Cigars as a Crowned Heads exclusive for retailers in Texas. It shares its Connecticut broadleaf blend with Tennessee Waltz.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/yellow-rose-2/118236/",
+   "https://halfwheel.com/crowned-heads-tennessee-waltz-yellow-rose-return-to-shelves/416167/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-yellow-rose"
+  ],
+  "notes": "Texas regional exclusive, occasionally offered to other retailers. It was off shelves from 2019 to 2022 because of a broadleaf shortage, so supply can be spotty.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Connecticut seed)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "TacaNicsa (also called D'Hatuey Tabacos S.A.; formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "TAA Exclusive 2024 Toro Extra",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "TAA Exclusive 2025 Robusto Extra",
+    "length": 5.625,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The yearly Crowned Heads cigar sold only through Tobacconists' Association of America member shops. Since 2024 it has carried this plain name in place of The Angel's Anvil and The Lost Angel.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-taa-exclusive-2025-coming-in-november/455157/",
+   "https://halfwheel.com/crowned-heads-taa-exclusive-2024-slated-for-november/443638/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-taa-exclusive"
+  ],
+  "notes": "The blend changes each year. Fields show 2025 (750 boxes of 10). The 2024 was made at Casa Carrillo in the Dominican Republic with an Ecuadorian HVA wrapper, Ecuadorian binder and Nicaraguan and Pennsylvania broadleaf fillers (500 boxes of 20).",
+  "verified": true,
+  "verifyNotes": "2025 and 2024 details confirmed on halfwheel; medium strength confirmed on Neptune. Factory reworded to cover both names in use. No 2026 release was found."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "The Lost Angel",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra hybrid (C9)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic, Mexico, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo (formerly Tabacalera La Alianza S.A.)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "2021 Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "2022 Robusto Extra",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "2023 Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "earth",
+   "pepper"
+  ],
+  "about": "The name Crowned Heads used from 2021 to 2023 for its yearly cigar sold only through Tobacconists' Association of America shops. It was billed as a prequel to the earlier Angel's Anvil releases.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-returns-to-tabacalera-la-alianza-for-the-lost-angel-2023/421037/",
+   "https://halfwheel.com/the-lost-angel-2021/399215/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-the-lost-angel"
+  ],
+  "notes": "The blend changed every year. Fields show 2023 (1,000 boxes of 20). The 2021 (San Andrés wrapper) and 2022 (Ecuadorian habano wrapper) were made at Tabacalera Pichardo in Nicaragua. The name was dropped in 2024 for Crowned Heads TAA Exclusive.",
+  "verified": true,
+  "verifyNotes": "2023 blend, factory and all three sizes confirmed on halfwheel. Strength and flavors come from Neptune's 2023 listing, which was not cited, so it replaces the 2022 news post (the 2022 size was still checked against that post)."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Las Calaveras Décimo Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Décimo Aniversario Toro (2024)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Décimo 2026 D50",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Décimo 2026 D52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Décimo 2026 D54",
+    "length": 5.625,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "almond",
+   "cinnamon",
+   "bread",
+   "wood"
+  ],
+  "about": "A limited edition made by My Father Cigars in 2024 to mark ten years of the Las Calaveras series. The blend recalls the original 2014 Las Calaveras and came back in 2026 in three sizes.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/las-calaveras-decimo-aniversario/446039/",
+   "https://halfwheel.com/las-calaveras-decimo-returning-for-2026-release/476967/",
+   "https://www.neptunecigar.com/cigar/las-calaveras-decimo-aniversario"
+  ],
+  "notes": "2024 was one 6 x 52 toro, 2,500 boxes of 10. The 2026 return is sold as Décimo 2026 in three sizes. halfwheel gives the D54 as 5 5/8 x 54, while Neptune lists it as 6 x 54.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Azul y Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "nuts",
+   "black pepper",
+   "bread",
+   "orange"
+  ],
+  "about": "A 2022 limited edition toro made at NACSA in Estelí, Nicaragua, the second Crowned Heads blend from that factory. The name means blue and gold and nods to a favorite blended whisky of tobacco man Gustavo Cura.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-ships-azul-y-oro/416163/",
+   "https://halfwheel.com/azul-y-oro/419883/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-crowned-heads-azul-y-oro/"
+  ],
+  "notes": "Single size, limited to 2,500 boxes of 12. halfwheel found medium to medium-plus strength with a medium-full body.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

@@ -1,0 +1,881 @@
+[
+ {
+  "brand": "Apostate",
+  "line": "The Initiatory",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice",
+   "caramel"
+  ],
+  "about": "Apostate No. 1, one of the three blends the Salt Lake City brand launched with in 2021. It is made under Jochy Blanco at Tabacalera Palma and is meant as the introduction to the lineup.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/apostate-cigars-announces-launch-debuting-with-three-lines/402271/",
+   "https://luxurycigarclub.com/products/apostate-cigars-the-initiatory"
+  ],
+  "notes": "The maker does not publish a strength; retailers list it as medium. The 4.5 x 44 Petite Corona is part of The Eight Witnesses, the same small size made in all eight core blends.",
+  "verified": true,
+  "verifyNotes": "Blend, size, factory and 2021 launch confirmed on the maker page and halfwheel. Strength set from null to Medium: Luxury Cigar Club lists Medium, Smokingpipes 3 out of 5, and a Stogie Press review says medium. Swapped one halfwheel link for the retailer page and reworded notes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "The Deseret",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "fruit",
+   "toasted marshmallow"
+  ],
+  "about": "Apostate No. 2, named for a Mormon scriptural word for honeybee and blended with tobaccos chosen for sweetness. It is made at Tabacalera Palma and was one of the brand's three launch blends.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/apostate-cigars-announces-launch-debuting-with-three-lines/402271/",
+   "https://halfwheel.com/apostate-cigars-adding-4-1-4-x-44-vitola-to-regular-production-lines/448765/"
+  ],
+  "notes": "The maker does not publish a strength. halfwheel describes the wrapper as San Andrés maduro, with Ecuadorian Connecticut stripes and a stinger-style cap. The 4.5 x 44 size is part of The Eight Witnesses set.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory and year confirmed on the maker page and halfwheel; the maker publishes no strength. Retailer Smokingpipes gives a blanket 3 out of 5 to all eight blends, so strength stays null without a second retailer. No changes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "The Liahona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Paraguay, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 45
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "Apostate No. 3, a slim torpedo shaped to suggest a compass needle and named for the compass in Mormon scripture. The maker pitches it as its most versatile blend, made at Tabacalera Palma.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/apostate-cigars-announces-launch-debuting-with-three-lines/402271/",
+   "https://halfwheel.com/apostate-cigars-adding-4-1-4-x-44-vitola-to-regular-production-lines/448765/"
+  ],
+  "notes": "The maker lists the torpedo at 6 x 45; halfwheel's launch story gave 6 1/4 x 45. No strength or tasting notes are published by the maker.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory and year confirmed on the maker page and halfwheel; the maker publishes no strength. Retailer Smokingpipes gives a blanket 3 out of 5 to all eight blends, so strength stays null without a second retailer. No changes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "The Feathered Serpent",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "Apostate No. 4, a candela-wrapped cigar named after Quetzalcoatl. Its green wrapper is Dominican-grown corojo seed, which is unusual for a candela, and it is made at Tabacalera Palma.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/apostate-cigars-adding-feathered-serpent-to-lineup-at-pca-2022/409555/",
+   "https://halfwheel.com/apostate-cigars-adding-4-1-4-x-44-vitola-to-regular-production-lines/448765/"
+  ],
+  "notes": "The maker does not publish a strength. halfwheel calls the 6.5 x 46 size a corona extra; the maker calls it a corona gorda.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory and year confirmed on the maker page and halfwheel; the maker publishes no strength. Retailer Smokingpipes gives a blanket 3 out of 5 to all eight blends, so strength stays null without a second retailer. No changes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "The Sword of Laban",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 47
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "Apostate No. 5, a long Churchill with an Ecuadorian corojo wrapper that the maker describes as the softer side of corojo. It is made at Tabacalera Palma and debuted at the 2023 PCA show.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/pca-2023-apostate-cigars/427466/",
+   "https://halfwheel.com/apostate-cigars-adding-4-1-4-x-44-vitola-to-regular-production-lines/448765/"
+  ],
+  "notes": "No strength or specific tasting notes are published by the maker.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory and year confirmed on the maker page and halfwheel; the maker publishes no strength. Retailer Smokingpipes gives a blanket 3 out of 5 to all eight blends, so strength stays null without a second retailer. No changes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "The Zarahemla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic, Mexico",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "Apostate No. 6, the brand's first box-pressed cigar, pairing a Pennsylvania broadleaf wrapper with an African Cameroon binder. It is made at Tabacalera Palma and debuted at the 2023 PCA show.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/pca-2023-apostate-cigars/427466/",
+   "https://halfwheel.com/apostate-cigars-adding-4-1-4-x-44-vitola-to-regular-production-lines/448765/"
+  ],
+  "notes": "No strength or specific tasting notes are published by the maker.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory and year confirmed on the maker page and halfwheel; the maker publishes no strength. Retailer Smokingpipes gives a blanket 3 out of 5 to all eight blends, so strength stays null without a second retailer. No changes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "Moroni's Trumpet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic, USA (Connecticut Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "spice",
+   "cream"
+  ],
+  "about": "Apostate No. 7, the darkest cigar in the core range, with a San Andrés oscuro wrapper on a thick torpedo. It is made at Tabacalera Palma and shipped in September 2024 as one of the final two core blends.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/apostate-cigars-adding-moronis-trumpet-the-endowment-at-pca-2024/432766/",
+   "https://halfwheel.com/apostate-cigars-shipping-moronis-trumpet-the-endowment-today/443664/"
+  ],
+  "notes": "The maker does not publish a strength. The maker lists the US filler only as USA; halfwheel identifies it as Connecticut broadleaf.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory and year confirmed on the maker page and halfwheel; the maker publishes no strength. Retailer Smokingpipes gives a blanket 3 out of 5 to all eight blends, so strength stays null without a second retailer. No changes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "The Endowment",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Desflorado",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Mexico, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "roasted peanuts",
+   "toast",
+   "cedar",
+   "white pepper",
+   "cocoa",
+   "cinnamon"
+  ],
+  "about": "Apostate No. 8, the last of the eight core blends, which the maker calls its most complex. It wraps an Ecuadorian Connecticut Desflorado leaf over a broadleaf binder and is made at Tabacalera Palma.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.apostatecigars.com/ourcigars",
+   "https://halfwheel.com/apostate-the-endowment-petite-corona/471114/",
+   "https://halfwheel.com/apostate-cigars-shipping-moronis-trumpet-the-endowment-today/443664/"
+  ],
+  "notes": "Strength, body and tasting notes come from halfwheel's review of the 4.5 x 44 Petite Corona (scored 91), not from the maker. The maker itself describes a rich body and long finish.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and factory confirmed on the maker page; strength, body and flavors confirmed in the halfwheel review. No changes."
+ },
+ {
+  "brand": "Apostate",
+  "line": "Death Mask",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "Fábrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "Apostate's first limited edition and its first cigar made outside Tabacalera Palma, rolled at Oveja Negra in Estelí. It is a single 5.5 x 48 robusto limited to 250 boxes of 20, or 5,000 cigars.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.apostatecigars.com/general-8",
+   "https://halfwheel.com/apostate-death-mask-on-the-way-to-stores/480935/",
+   "https://cigardojo.com/2026/08/apostate-death-mask-sells-out-ahead-of-october-release/"
+  ],
+  "notes": "The maker calls it The Death Mask 2026 Special Edition and publishes no strength. The maker and Cigar Dojo list Nicaraguan and US filler; halfwheel lists Nicaraguan only. It shipped October 1, 2026 at $20 each.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the maker page, halfwheel and Cigar Dojo; the maker publishes no strength. Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Hell",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (Criollo 98 ligero, Olor viso, seco), USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Zauberberg",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Panatela",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Chisel",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Super Gordo",
+    "length": 4,
+    "ring": 70
+   },
+   {
+    "name": "Bavaros",
+    "length": 5,
+    "ring": 29
+   }
+  ],
+  "flavors": [
+   "cream",
+   "light wood",
+   "cocoa",
+   "earth",
+   "spice"
+  ],
+  "about": "The mild house line of Saarbrücken retailer Salih Dalay, a round long-filler with a light Ecuadorian Connecticut Shade wrapper. It is rolled in the Dominican Republic and sold as an affordable everyday cigar.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Dominikanische-Republik-Hell",
+   "https://www.dalayzigarren.de/Dalay-Hell-Robusto",
+   "https://www.dalayzigarren.de/dalay"
+  ],
+  "notes": "\"Hell\" is German for light, as in the pale wrapper. The maker rates the sizes very mild to mild. There is also a small 4 x 25 Minutos; sizes are converted from millimetres.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and all ten sizes confirmed against the maker product pages (seven sizes rated very light, four light). Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Dunkel",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (Criollo 98 ligero, Olor viso, seco), USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Zauberberg",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Petite Corona",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Chisel",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Super Gordo",
+    "length": 4,
+    "ring": 70
+   },
+   {
+    "name": "11x90 Big Smoke",
+    "length": 11,
+    "ring": 90
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "spice",
+   "sweetness"
+  ],
+  "about": "The maduro counterpart to Dalay Hell, the house brand of Saarbrücken retailer Salih Dalay. It is a sweet, chocolatey medium cigar with a Mexican San Andrés maduro wrapper, made at the company's Zauberberg factory in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Dominikanische-Republik-Dunkel",
+   "https://www.dalayzigarren.de/Dalay-Dunkel-Robusto",
+   "https://www.noblego.de/dalay-dunkel-zigarren/"
+  ],
+  "notes": "\"Dunkel\" is German for dark. The maker says the line is moving from box-pressed to round during the year. Retailer Noblego lists a different blend (Ecuador maduro wrapper, Dominican binder, Dominican and Brazilian filler).",
+  "verified": true,
+  "verifyNotes": "Blend, factory, strength and all nine sizes confirmed against the maker product pages. Notes reworded to drop the research remark."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Honduras Hell",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Honduras (Jamastran Corojo), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Zauberberg",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Presidente",
+    "length": 8.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "floral",
+   "honey",
+   "caramel",
+   "fruit",
+   "chocolate",
+   "cream"
+  ],
+  "about": "A Dalay house line blended by Michael Grossklos around Honduran corojo-seed tobacco from the Jamastran valley, under an Ecuadorian Connecticut Shade wrapper. Every size uses the same blend, so the small formats smoke noticeably stronger than the large ones.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Honduras-Hell",
+   "https://www.dalayzigarren.de/Dalay-Honduras-Hell-Robusto-5-x-50",
+   "https://www.noblego.de/dalay-hell-honduras-robusto-zigarren/"
+  ],
+  "notes": "Despite the name it is rolled in the Dominican Republic at Zauberberg in Santiago; Honduras refers to the Jamastran filler leaf. The maker rates it medium, Noblego calls it mild to medium, with the Half Corona the strongest and the Presidente the mildest.",
+  "verified": true,
+  "verifyNotes": "Blend, strength and four sizes confirmed on the maker pages; Zauberberg in Santiago and Dominican origin confirmed on Noblego. No changes."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Honduras Dunkel",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Zauberberg",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sechzig",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cocoa",
+   "black tea",
+   "brown sugar",
+   "molasses",
+   "leather"
+  ],
+  "about": "A Dalay house line blended by Michael Grossklos to recall the sweet, chocolatey maduros of the 1990s cigar boom. It uses a US broadleaf wrapper over a Dominican binder and filler from three countries.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Honduras-Dunkel-Half-Corona-35-x-44",
+   "https://www.dalayzigarren.de/dalay",
+   "https://www.noblego.de/dalay-dunkel-honduras-zigarren/"
+  ],
+  "notes": "Despite the name it is made in the Dominican Republic, not Honduras. The maker rates it medium; Noblego calls it mild to medium. The maker says the Half Corona scored 93 points in Zigarren Magazin.",
+  "verified": true,
+  "verifyNotes": "Blend, strength and four sizes confirmed on the maker product pages; Dominican origin on Noblego. The listed pages did not name the factory, so sources now include the maker brand page that states Zauberberg and the pages carrying the 93 point and mild to medium claims."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Istanbul",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Pennsylvania)",
+  "filler": "Dominican Republic, Turkey, USA",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Zauberberg",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Principe",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "black tea",
+   "earth",
+   "wood",
+   "sweetness",
+   "herbs"
+  ],
+  "about": "Salih Dalay's tribute to his birth city, blended by Michael Grossklos with Turkish pipe tobacco aged over twelve months in the filler. The band and box carry artwork by Istanbul micro-painter Hasan Kale.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Istanbul-Toro",
+   "https://blog.dalayzigarren.de/dalay-istanbul-ein-herzensprojekt-mit-kunstwert/",
+   "https://www.dalayzigarren.de/dalay"
+  ],
+  "notes": "The maker only describes the wrapper as a rustic leaf from Ecuador, with no leaf type. The maker says the Toro scored 90 points in Cigar Journal. Retailer Noblego lists the Toro at 152 mm and the Principe at 120 mm, against the maker's 139 mm and 114 mm.",
+  "verified": true,
+  "verifyNotes": "Blend, strength, sizes and 2023 release confirmed on the maker pages, blog and Noblego. Factory is only stated on the maker brand page, so that link replaced the category page. Notes cut to three sentences and the Toro length difference at Noblego added."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Corojo '98",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca), Ecuador (H2000)",
+  "filler": "Nicaragua (Pueblo Nuevo, Jalapa, Estelí, Masatepe)",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "toast",
+   "leather",
+   "cocoa",
+   "pepper",
+   "wood",
+   "cinnamon"
+  ],
+  "about": "The first Dalay cigar made in Nicaragua, developed by Salih Dalay and Michael Grossklos with Luciano Meirelles and rolled at his factory in Estelí. It has a double binder and an all-Nicaraguan filler from four regions.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Nicaragua",
+   "https://www.dalayzigarren.de/Dalay-Nicaragua-Toro",
+   "https://www.noblego.de/dalay-nicaragua-zigarren/"
+  ],
+  "notes": "Planned as a limited edition but turned into a regular series once enough tobacco was available. The filler includes Masatepe leaf fermented underground. The maker says the Toro scored 90 points in Cigar Journal.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, strength and four sizes confirmed on the maker pages and Noblego. Notes cut to three sentences."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Sevilla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Zauberberg",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mareva Extra",
+    "length": 4.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Super Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "stewed dark fruit",
+   "honey",
+   "cream"
+  ],
+  "about": "A Dalay line whose Dominican filler tobaccos are fermented in used casks from the company's own Andalusian brandy. The dark Ecuadorian wrapper gets an extra fermentation that leaves it visibly marbled.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Sevilla",
+   "https://www.dalayzigarren.de/Dalay-Sevilla-Robusto",
+   "https://www.noblego.de/dalay-sevilla-super-churchill-zigarren/"
+  ],
+  "notes": "There is also a limited Robusto Especial (5 5/8 x 54) sold in a ceramic jar of 20, limited to 360 jars. The Super Churchill ring gauge of 54 comes from retailer Noblego, as the maker's page omits it. Sizes are converted from millimetres.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, strength and sizes confirmed on the maker pages; Super Churchill ring gauge confirmed on Noblego. Notes no longer say the line began as the jar edition, which no page states."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Oase",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador (dark selected)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Zauberberg",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Robusto",
+    "length": 3.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "honey",
+   "dark chocolate",
+   "cream",
+   "spice"
+  ],
+  "about": "A short Dalay cigar for a half-hour break, blended by Michael Grossklos and made at the company's Zauberberg factory. It is themed on the Turkish folk figure Nasreddin Hodja and sold in paper-wrapped bundles of five with one of his stories inside.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Oase",
+   "https://www.dalayzigarren.de/Dalay-Oase_1",
+   "https://blog.dalayzigarren.de/dalay-oase-releaseparty-2026-zwischen-cay-rauch-und-geschichten/"
+  ],
+  "notes": "Single size, 95 mm x 48, sold as the Petite Robusto. The maker's spec sheet says medium, while its text calls the line mild to medium and mild in character. It premiered in Saarbrücken on May 15, 2026, and the maker does not name the wrapper leaf type.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, strength and size confirmed on the maker pages and Noblego. The May 15, 2026 premiere was not on any listed page; found it on the maker blog and added that link in place of Noblego. Notes cut to three sentences."
+ },
+ {
+  "brand": "Dalay Zigarren",
+  "line": "Limitada 2023",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Republic",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (including Flor de Carbonell, 20/20 seed and Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Altagracia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Belicoso",
+    "length": 6.0625,
+    "ring": 57
+   }
+  ],
+  "flavors": [
+   "wood",
+   "leather",
+   "nuts",
+   "cream",
+   "coffee"
+  ],
+  "about": "A limited Dominican puro in Dalay's occasional Limitada series, blended by Michael Grossklos from tobaccos aged up to 15 years. It comes in one Gran Belicoso size and uses a wrapper given an extra fermentation.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.dalayzigarren.de/Dalay-Limitada",
+   "https://www.dalayzigarren.de/Dalay-Limitada-2023-Gran-Belicoso",
+   "https://www.noblego.de/dalay-limitada-2023-gran-belicoso-zigarren/"
+  ],
+  "notes": "One size only, 154 mm x 57. Noblego reports 350 boxes of 20, or 7,000 cigars, and the tasting notes come from Noblego. The maker does not name the wrapper leaf type and says the blend uses the last of its 2008 crop Criollo 98.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, strength and size confirmed on the maker pages; box count and flavors confirmed on Noblego. Notes cut to three sentences."
+ }
+]

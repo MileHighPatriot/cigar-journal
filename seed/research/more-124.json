@@ -1,0 +1,537 @@
+[
+ {
+  "brand": "Emilio",
+  "line": "L.J.Z",
+  "found": true,
+  "officialName": "LJZ",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "baking spice",
+   "cedar",
+   "cocoa"
+  ],
+  "about": "A tribute to Louis J. Zucca, founder of the family company that owns Emilio. It is blended by James Brown of Black Label Trading Co. and rolled at his Fabrica Oveja Negra in Esteli.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://halfwheel.com/emilio-ljz-2021-ships-adds-new-lonsdale-vitola/401368/",
+   "https://blindmanspuff.com/blind-cigar-review-emilio-ljz-robusto/"
+  ],
+  "notes": "Maker's line page lists an Ecuadorian Habano wrapper, but its 2020 and 2021 releases were limited editions with dual Nicaraguan Habano and Sun Grown wrappers in a barber pole. The 2017 original had an Ecuadorian Habano binder and Nicaraguan filler. A 6 1/2 x 42 Lonsdale was added in 2021.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, country and factory match the maker's page. The maker gives no strength, only 'medium bodied'; Medium kept because Blind Man's Puff and Cigar Coop both rate it medium. Swapped the third source for the Blind Man's Puff review that states the strength."
+ },
+ {
+  "brand": "Emilio",
+  "line": "Suave",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "Emilio's Connecticut-wrapped core line and the milder entry in the portfolio. It was reblended and redesigned in 2019 by James Brown and is made at Fabrica Oveja Negra in Esteli.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-to-release-suave-and-la-musa-at-ipcpr-2019",
+   "https://halfwheel.com/updated-emilio-suave-coming-to-ipcpr-2019/360637/"
+  ],
+  "notes": "First released in 2012 as Emilio AF Suave; the current blend and look date from 2019. The maker calls the wrapper Connecticut without saying where it is grown, and does not publish a strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Emilio",
+  "line": "Suave Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro version of Emilio's Suave, added to the core line in 2022. James Brown blended it and describes it as medium in both body and strength.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-releases-new-limited-edition-audiophile-and-suave-maduro",
+   "https://halfwheel.com/emilio-releases-audiophile-suave-maduro/413613/"
+  ],
+  "notes": "Maker's line page lists Nicaraguan filler only, while its 2022 press release says Nicaragua and Dominican. Halfwheel's 2022 news called the wrapper Ecuadorian habano; the maker says Ecuador Maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Emilio",
+  "line": "Side 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "A core Emilio line with a Mexican San Andres wrapper over Nicaraguan binder and filler, made at Fabrica Oveja Negra in Esteli. Its artwork shows a vinyl record labeled Side 1.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-af1-and-af2-press-release"
+  ],
+  "notes": "Maker lists sizes by dimensions only; the size names are borrowed from the Emilio AF1, which has the same wrapper and sizes. The maker does not say Side 1 is a renamed AF1 and publishes no strength for it.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's page. 6 x 58 renamed Grand Toro, the maker's spelling for the AF1 size. Reworded about and notes. No halfwheel or other press coverage of this name exists, so release year stays null."
+ },
+ {
+  "brand": "Emilio",
+  "line": "Side 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "A core Emilio line with an Ecuadorian Habano wrapper over Nicaraguan binder and filler, made at Fabrica Oveja Negra in Esteli. Its artwork shows a vinyl record labeled Side 2.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-af1-and-af2-press-release"
+  ],
+  "notes": "Maker lists sizes by dimensions only; the size names are borrowed from the Emilio AF2, which has the same wrapper and sizes. The maker does not say Side 2 is a renamed AF2 and publishes no strength for it.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's page. 6 x 58 renamed Grand Toro, the maker's spelling for the AF2 size. Reworded about and notes. No halfwheel or other press coverage of this name exists, so release year stays null."
+ },
+ {
+  "brand": "Emilio",
+  "line": "Cavatina",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "black pepper",
+   "honey",
+   "cedar",
+   "chocolate",
+   "espresso"
+  ],
+  "about": "Launched at the 2016 IPCPR show as one of Emilio's first new blends after Gary Griffith left, made at James Brown's Fabrica Oveja Negra. The name is a musical term for a simple song or melody.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://blindmanspuff.com/blind-cigar-review-emilio-cavatina-toro/",
+   "https://cigar-coop.com/2016/09/cigar-news-emilio-cavatina-launched-at-2016-ipcpr.html"
+  ],
+  "notes": "Maker's page shows the small size as 4.55 x 48; reviews list it as a 4 1/2 x 48 Rothschild. Blind Man's Puff (2018) listed the wrapper as Ecuadorian Habano Maduro with an Ecuadorian binder; the maker now lists a Nicaraguan Habano binder.",
+  "verified": true,
+  "verifyNotes": "Blend and sizes match the maker's page; strength Medium confirmed in the Blind Man's Puff review. Reworded about: sources call it one of the first post-Griffith blends, not the first Emilio made at Oveja Negra."
+ },
+ {
+  "brand": "Emilio",
+  "line": "Suave Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweetness"
+  ],
+  "about": "A limited Sumatra-wrapped version of Emilio's Suave, shown at the 2026 PCA show and shipped in August 2026. It is blended by James Brown and made at Fabrica Oveja Negra.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-now-shipping-new-limited-edition-suave-sumatra",
+   "https://halfwheel.com/emilio-suave-sumatra-heads-to-stores/477849/"
+  ],
+  "notes": "Limited to 5,000 cigars per size (250 boxes of 20). The maker only says Sumatra; halfwheel reports the leaf is grown in Indonesia. The maker does not publish a strength.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and dates confirmed. Notes now say that Indonesia as the wrapper origin comes from halfwheel, not the maker."
+ },
+ {
+  "brand": "Emilio",
+  "line": "Static",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo and Ecuadorian Maduro (dual wrapper)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A 2025 limited edition from Emilio with two wrappers rolled in a barber pole pattern. James Brown blended it at Fabrica Oveja Negra and calls it bold and spice forward.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-debuts-limited-edition-static-at-pca",
+   "https://halfwheel.com/limited-edition-emilio-static-debuting-at-pca-2025/449350/"
+  ],
+  "notes": "Barber pole of Ecuadorian Corojo and Ecuadorian Maduro wrappers, so it is not a single-wrapper cigar. Limited to 250 boxes of 20 per size. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Emilio",
+  "line": "Grimalkin",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "cedar",
+   "baking spice"
+  ],
+  "about": "First released by Emilio in 2011 and named after an old word for a cat. James Brown remade it at Fabrica Oveja Negra in 2018, and it now comes back as a limited Halloween release.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-announces-release-of-grimalkin-seasonal-edition-hand-crafted-at-fabrica-oveja-negra",
+   "https://halfwheel.com/emilio-grimalkin-robusto-2018/269162/"
+  ],
+  "notes": "Maker's page shows the 2018 Nicaraguan puro in two sizes. The 2023 and 2025 Seasonal Editions are a 5 x 50 robusto with an Ecuador Maduro and Corojo barber pole wrapper; the maker calls the 2025 medium strength. The original 2011 blend was renamed Mousa in the La Musa series in 2012.",
+  "verified": true,
+  "verifyNotes": "Wrapper and sizes match the maker's page, but Medium is the maker's word for the 2025 dual-wrapper edition; halfwheel found the 2018 puro mild to just under medium. Removed unsupported 'put Emilio on the map', 'Scottish folklore', the 'cream' and 'spice' flavors and the medium-full review claim. Trimmed notes."
+ },
+ {
+  "brand": "Emilio",
+  "line": "La Musa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "nuts",
+   "cedar",
+   "hay",
+   "cocoa"
+  ],
+  "about": "A limited Nicaraguan puro from Emilio, remade by James Brown at Fabrica Oveja Negra. The name dates to 2012, when the original Grimalkin was renamed La Musa.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-to-release-suave-and-la-musa-at-ipcpr-2019",
+   "https://halfwheel.com/emilio-la-musa-robusto-2020/375279/"
+  ],
+  "notes": "The maker's 2019 release calls the wrapper Nicaraguan Sun Grown; halfwheel lists it as Nicaraguan habano. The Oveja Negra version was shown in 2019 and shipped in March 2020, 250 boxes of 25 per size. A 2021 store-exclusive lancero used an Ecuadorian maduro wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Emilio",
+  "line": "Papa Joe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "pepper",
+   "baking spice"
+  ],
+  "about": "A small-production Emilio blend made at Fabrica Oveja Negra, with an Ecuadorian Habano wrapper over Nicaraguan and Dominican tobaccos. It is made in very small quantities and is one of the lesser known Emilio lines.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://halfwheel.com/pca-2021-emilio/396824/",
+   "https://blindmanspuff.com/quick-cigar-review-emilio-papa-joe/"
+  ],
+  "notes": "Maker lists it under limited releases in a single 5 x 50 size; halfwheel in 2021 called it regular production in very small quantities. A 4 1/2 x 46 Corona Extra was announced in 2021. No launch year or strength is published; it was already being made by early 2019.",
+  "verified": true,
+  "verifyNotes": "Blend and size match the maker's page. Reworded about: no source supports 'little marketing' or 'word of mouth'. Blind Man's Puff lists Ecuadorian and Nicaraguan binder and filler; the maker's blend is kept."
+ },
+ {
+  "brand": "Emilio",
+  "line": "Audiophile",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.25,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "oak",
+   "black pepper",
+   "cream",
+   "nuts",
+   "leather"
+  ],
+  "about": "A limited edition from Emilio that debuted in 2022 as a single robusto and returned in 2023 in three sizes. James Brown blended it at Fabrica Oveja Negra as a stronger, earthier cigar than the rest of the Emilio range.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/pages/emilio-cigars",
+   "https://ovejanegracigars.com/blogs/news/emilio-cigars-will-debut-limited-edition-audiophile-at-pca",
+   "https://halfwheel.com/emilio-audiophile/416811/"
+  ],
+  "notes": "Strength ratings vary: halfwheel called the 2022 release medium-full building to full, while Cigar Coop and Developing Palates put the 2023 release at medium or just under. The maker only says it is a step up in strength from the rest of Emilio. The 2023 run was 200 boxes of 20 per size.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and factory confirmed. Blind Man's Puff has no audiophile review, so that citation was replaced with Developing Palates. Medium-Full is halfwheel's reading for most of the cigar, not a maker rating. One maker release lists the short robusto as 4.25 x 54; the maker's page and halfwheel say 4.25 x 48."
+ }
+]

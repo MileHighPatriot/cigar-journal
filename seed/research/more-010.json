@@ -1,0 +1,820 @@
+[
+ {
+  "brand": "Gurkha",
+  "line": "Pure Evil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Cigars",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "spice"
+  ],
+  "about": "A Nicaraguan-made Gurkha with an Ecuadorian Habano wrapper over Nicaraguan binder and filler. It is a 2022 relaunch of an older limited release, with the blend reworked by Damian Tapanes of American Caribbean Cigars.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/pure-evil/",
+   "https://halfwheel.com/gurkha-pure-evil-gets-full-release/413942/",
+   "https://halfwheel.com/pca-2022-gurkha/409851/"
+  ],
+  "notes": "Gurkha lists strength as Full but describes it as medium to full bodied. The original Pure Evil was a limited release around 2006; this regular-production version came back in 2022. Not the same cigar as Gurkha Evil, which has a Brazilian maduro wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Ghost Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua, Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Shadow",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Asura",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Exorcist",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "white pepper",
+   "graham cracker",
+   "coffee",
+   "nuts"
+  ],
+  "about": "The third blend in Gurkha's Ghost family, wrapped in Ecuadorian-grown Connecticut seed leaf and made for Gurkha by PDR Cigars in the Dominican Republic. It debuted at the TPE show in 2023.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ghost-series/ghost-connecticut/",
+   "https://halfwheel.com/gurkha-ghost-connecticut-asura/423434/",
+   "https://halfwheel.com/gurkha-unveils-ghost-connecticut-grand-age-ii-at-tpe-2023/420404/"
+  ],
+  "notes": "Strength varies by source: Gurkha says Medium, halfwheel's review found it mild in strength with medium body, and Neptune lists it as Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Ghost Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, Nicaragua, USA",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Shadow",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Asura",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Exorcist",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cinnamon",
+   "sweetness"
+  ],
+  "about": "An extension of Gurkha's Ghost line that swaps the original Brazilian Arapiraca wrapper for Ecuadorian Habano. It launched in 2018 and is made in the Dominican Republic.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ghost-series/ghost-gold/",
+   "https://halfwheel.com/gurkha-adding-ghost-gold-at-ipcpr-2018/269874/",
+   "https://www.neptunecigar.com/cigar/gurkha-ghost-gold"
+  ],
+  "notes": "Binder is unclear: Gurkha's spec list says Mexican, its own description says Criollo 98, and the 2018 launch announcement said Criollo 97. Gurkha's site shows all three sizes as 6x54, which looks like a typo; the sizes here are from halfwheel and Neptune.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "HMR",
+  "found": true,
+  "officialName": "His Majesty's Reserve (HMR)",
+  "wrapperLeaf": "15-year aged Connecticut Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic (12-year aged)",
+  "filler": "Dominican Republic (12-year aged)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cognac"
+  ],
+  "about": "A cognac-infused Gurkha first released in 1996 and long marketed as one of the most expensive cigars in the world. It has an aged Connecticut maduro wrapper over aged Dominican binder and filler and comes in one Churchill size.",
+  "released": 1996,
+  "production": "limited",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/hmr/",
+   "https://halfwheel.com/gurkha-announces-maharaja-premium-release-yet/73922/",
+   "https://www.neptunecigar.com/cigar/gurkha-hmr"
+  ],
+  "notes": "This is an infused cigar: Gurkha says the tobacco is aged with a bottle of cognac, which halfwheel identifies as Louis XIII. Gurkha says only 75 boxes are made a year. Gurkha rates it mild to medium, while Neptune calls it full-bodied.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'showpiece'. Notes no longer say each box gets its own bottle, which no source states. Added Neptune as a source and its full-bodied description."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Maharaja",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Maharaja",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An ultra-expensive limited Gurkha announced in late 2014, sold in mahogany humidors of 10 individually coffined cigars. Gurkha describes it only as a maduro wrapper over Dominican binder and filler.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/maharaja/",
+   "https://halfwheel.com/gurkhas-2000-maharaja-coming-to-ipcpr-2015/89470/",
+   "https://halfwheel.com/gurkha-announces-maharaja-premium-release-yet/73922/"
+  ],
+  "notes": "The blend is secret beyond a maduro wrapper and Dominican binder and filler, and Gurkha would not name the factory. It was announced in November 2014 at $2,000 a cigar in 100 humidors of 10 and shown at the July 2015 trade show. Gurkha's site now quotes $6,000 a cigar.",
+  "verified": true,
+  "verifyNotes": "Set released to null: halfwheel confirms a November 2014 announcement and a July 2015 trade show display, but no page confirms the year it actually shipped."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Black Dragon Tubo",
+  "found": true,
+  "officialName": "Black Dragon Special Edition Tubo",
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tubo",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee"
+  ],
+  "about": "A large Dominican-made Gurkha maduro with a Cameroon binder and Dominican filler, sold in frosted glass tubes in a velvet-covered box. It comes in one size.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/black-dragon-tubo/",
+   "https://www.neptunecigar.com/cigar/gurkha-black-dragon-special-edition-tubo",
+   "https://mikescigars.com/gurkha-black-dragon-special-edition-tubo"
+  ],
+  "notes": "Sources disagree on the wrapper: Gurkha lists Ecuadorian maduro, while Neptune and Mike's Cigars describe an aged Connecticut Broadleaf. Gurkha rates it Medium; Neptune says Full and Mike's says medium to full. Mike's also lists it as 7 x 52 and made in Honduras.",
+  "verified": true,
+  "verifyNotes": "Set production to null: no page says regular or limited, and Gurkha calls it one of its rarest. Added Mike's Cigars as a source with its differing strength, size and country."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Triad Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "10-year aged Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (7-year aged)",
+  "filler": "Nicaragua, Honduras (7-year aged)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Triad Natural",
+    "length": 7.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The lighter-wrapped of Gurkha's two high-priced Triad cigars, built on aged tobaccos under an Ecuadorian Connecticut wrapper. Gurkha says only 300 boxes were made.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/triad-natural/",
+   "https://halfwheel.com/gurkha-triad-platinum/17698/"
+  ],
+  "notes": "Gurkha lists the size as 7.25 x 52; a 2011 halfwheel review gave both Triad cigars as 7 x 52. Triad Platinum is a separate maduro blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Triad Platinum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "10-year aged Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Cameroon (8-year aged)",
+  "filler": "Dominican Republic (8-year aged)",
+  "country": "Nicaragua",
+  "factory": "Tabacos San Rafael S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Triad Platinum",
+    "length": 7.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro member of Gurkha's Triad pair, with an aged Connecticut maduro wrapper, Cameroon binder and Dominican filler. It was priced around $100 a cigar and limited to 300 boxes.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/triad-platinum/",
+   "https://halfwheel.com/gurkha-triad-platinum/17698/"
+  ],
+  "notes": "Factory and 2011 release date come from halfwheel's 2011 review, which listed the size as 7 x 52 rather than Gurkha's 7.25 x 52 and found the strength medium. Gurkha calls the wrapper Connecticut Maduro; halfwheel calls it Connecticut Broadleaf. Triad Natural is a separate blend.",
+  "verified": true,
+  "verifyNotes": "Set wrapperOrigin to null: neither Gurkha nor halfwheel states where the wrapper is grown. Trimmed notes."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Royal Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Royal Reserve",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cognac"
+  ],
+  "about": "A cognac-infused Gurkha made in the Dominican Republic. Gurkha describes it as a triple-infused step up from its Grand Reserve cognac cigar.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/royal-reserve/",
+   "https://www.neptunecigar.com/cigar/gurkha-royal-reserve"
+  ],
+  "notes": "The blend is secret: Gurkha lists wrapper, binder and filler as proprietary. This is an infused cigar. Neptune describes it as a Connecticut maduro wrapper over Dominican binder and filler, infused with Louis XIII cognac.",
+  "verified": true,
+  "verifyNotes": "Set production to null: no page states it. Added Neptune as a second source and its description of the blend to notes."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "25th Anniversary Beauty",
+  "found": true,
+  "officialName": "Beauty 25th Anniversary",
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, Ecuador (Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "6 1/2 x 60",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A 2023 release marking 25 years of the Gurkha Beauty, made at Tabacalera Las Lavas in the Dominican Republic. It trades the original Beauty's Connecticut wrapper for Ecuadorian Corojo and comes in frosted tubes, 25 to a box.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/25th-anniversary-beauty/",
+   "https://halfwheel.com/gurkha-ships-beauty-25th-anniversary/432262/",
+   "https://halfwheel.com/pca-2023-gurkha/424191/"
+  ],
+  "notes": "A different blend from the regular Beauty, which has a Connecticut wrapper. Gurkha called it regular production, but the first run was 1,000 boxes. It comes in one size with no vitola name.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Dragonfly",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra",
+  "filler": "Dominican Republic, Nicaragua (Esteli), Criollo 98",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Tubo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A glass-tubed Gurkha made at Tabacalera El Artista that was sold mainly outside the United States. It came to U.S. stores in a single toro size in April 2025, after a brief appearance in a late 2023 sampler.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/gurkha-dragonfly-returning-to-the-u-s/449061/",
+   "https://halfwheel.com/pca-2025-gurkha/448046/",
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/dragonfly/"
+  ],
+  "notes": "Blend is from Gurkha's 2025 announcement as reported by halfwheel; Gurkha's own web page shows the blend, sizes and strength of its Cellar Reserve 15 Year instead, which looks like a copying error. The first U.S. run was 2,000 boxes of 20. Neptune calls it medium strength.",
+  "verified": true,
+  "verifyNotes": "Set production to null: halfwheel lists a 2,000 box run that may grow, not regular production. Confirmed Gurkha's page duplicates its Cellar Reserve 15 Year page, so strength stays null; added Neptune's medium to notes."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Year of the Dragon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Artista Figurado",
+    "length": 6.75,
+    "ring": 52
+   },
+   {
+    "name": "AJ Fernandez",
+    "length": 6.625,
+    "ring": 52
+   },
+   {
+    "name": "E.P. Carrillo",
+    "length": 6.625,
+    "ring": 54
+   },
+   {
+    "name": "Oliva",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Oscar Valladares",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Gurkha's limited Lunar New Year series for 2024. It began with a figurado from Tabacalera El Artista in December 2023, followed by four different blends made by AJ Fernandez, E.P. Carrillo, Oliva and Oscar Valladares.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/gurkha-schedules-four-year-of-the-dragon-release-for-late-summer/437310/",
+   "https://halfwheel.com/gurkha-year-of-the-dragon-2024-tabacalera-el-artista/438893/",
+   "https://www.neptunecigar.com/cigar/gurkha-year-of-the-dragon"
+  ],
+  "notes": "Five different cigars, not one blend. Wrappers: El Artista undisclosed (DR), AJ Fernandez Ecuador Habano (Nicaragua), E.P. Carrillo San Andrés (DR), Oliva San Andrés per halfwheel but Sumatra per Neptune (Nicaragua), Oscar Valladares Jamastran Corojo (Honduran puro). The four collaborations were 2,000 boxes of 10 each.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Year of Snake",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "E.P. Carrillo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Oliva",
+    "length": 6.625,
+    "ring": 52
+   },
+   {
+    "name": "Oscar Valladares",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Gurkha's limited Lunar New Year release for 2025, made up of three different cigars from Casa Carrillo, Oliva and Oscar Valladares. Each version was limited to 750 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/gurkha-begins-shipping-year-of-snake/448601/",
+   "https://halfwheel.com/gurkha-year-of-snake-by-oscar-valladares/452290/",
+   "https://www.neptunecigar.com/cigar/gurkha-year-of-the-snake"
+  ],
+  "notes": "Three different cigars, not one blend. Casa Carrillo (DR): Ecuadorian Corojo wrapper, Ecuadorian Sumatra binder, Dominican, Mexican and Nicaraguan filler; Oliva (Nicaragua): San Andrés wrapper over Nicaraguan tobacco; Oscar Valladares (Honduras): Habano wrapper of undisclosed origin over Honduran tobacco.",
+  "verified": true,
+  "verifyNotes": "Merged notes into two sentences to meet the three-sentence limit; no facts changed."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Nicaragua Cask Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (part aged in bourbon barrels)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "oak",
+   "vanilla",
+   "whiskey"
+  ],
+  "about": "A Nicaraguan puro introduced in 2026 and made at Nicaragua American Cigars S.A. in Esteli. Some of the filler tobacco was aged in used bourbon barrels before rolling.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/gurkha-adding-nicaragua-cask-collection-ghost-zombie-mini/466062/",
+   "https://halfwheel.com/pca-2026-gurkha/465949/",
+   "https://www.neptunecigar.com/cigar/gurkha-nicaragua-cask-collection"
+  ],
+  "notes": "Only some filler leaf was barrel aged; the finished cigars are not infused. Gurkha has not published a strength: Neptune lists it as medium and Mike's Cigars as medium to full. The wrapper variety is not named.",
+  "verified": true,
+  "verifyNotes": "Removed the '(NACSA)' abbreviation from factory, which the sources do not use."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Tres Decadas",
+  "found": true,
+  "officialName": "Tres Decadas by Gurkha",
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega viso, Esteli ligero, Ometepe seco)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A 2026 limited edition honoring Gurkha sales vice president Juan Lopez's 30 years in the cigar business. It is made in Nicaragua with an Ecuadorian Habano Oscuro wrapper over all-Nicaraguan binder and filler.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/gurkha-sends-tres-decadas-to-stores/477001/",
+   "https://halfwheel.com/pca-2026-gurkha/465949/",
+   "https://www.neptunecigar.com/cigar/gurkha-tres-decadas"
+  ],
+  "notes": "Limited to 1,000 boxes of 10 per size; the factory is undisclosed. Retailers disagree on strength: Neptune says medium, Mike's Cigars says full. Neptune also lists the wrapper as Nicaraguan, against halfwheel's Ecuadorian Habano Oscuro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Fat Boy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "4 x 60",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "5 x 66",
+    "length": 5,
+    "ring": 66
+   },
+   {
+    "name": "6 x 66",
+    "length": 6,
+    "ring": 66
+   }
+  ],
+  "flavors": [],
+  "about": "A big ring gauge line Gurkha began shipping in February 2025, made in Nicaragua with a Habano wrapper. It was created after customers asked for the return of the larger ring gauges Gurkha used to offer.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/gurkha-releases-fat-boy/447523/",
+   "https://www.neptunecigar.com/cigar/gurkha-fat-boy"
+  ],
+  "notes": "Gurkha did not disclose the wrapper's origin, the binder, the filler or the factory. Neptune and Mike's Cigars list an Ecuadorian Habano wrapper over Nicaraguan binder and filler. The sizes have no names, only dimensions.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Tyson 2.0 Undisputed Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, Criollo 98",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo Extra",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "toast",
+   "spice"
+  ],
+  "about": "One of two blends in Gurkha's 2024 collaboration with boxer Mike Tyson's Tyson 2.0 brand, made at Tabacalera El Artista in the Dominican Republic. This one has an Ecuadorian Habano wrapper and comes in a gold box.",
+  "released": 2024,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/gurkha-begins-shipping-tyson-2-0-undisputed/438485/",
+   "https://www.neptunecigar.com/cigar/gurkha-tyson-20-undisputed-habano"
+  ],
+  "notes": "The first run was limited to 2,000 boxes per size, with Gurkha saying it expected the line to become regular production. Gurkha describes it as medium body with full flavor.",
+  "verified": true,
+  "verifyNotes": "Set production to null: halfwheel reports a first run limited to 2,000 boxes per size with regular production only expected later."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Tyson 2.0 Undisputed Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Cameroon",
+  "filler": "T13, Corojo and Broadleaf (origins undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo Extra",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "dark chocolate",
+   "pepper"
+  ],
+  "about": "The maduro half of Gurkha's 2024 collaboration with boxer Mike Tyson's Tyson 2.0 brand, made at Tabacalera El Artista in the Dominican Republic. It has a Mexican San Andrés wrapper and comes in a black box.",
+  "released": 2024,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/gurkha-begins-shipping-tyson-2-0-undisputed/438485/",
+   "https://www.neptunecigar.com/cigar/gurkha-tyson-20-undisputed-maduro"
+  ],
+  "notes": "The first run was limited to 2,000 boxes per size, with Gurkha saying it expected the line to become regular production. Gurkha did not say where the filler tobaccos come from; Neptune lists the broadleaf as USA grown.",
+  "verified": true,
+  "verifyNotes": "Set production to null: halfwheel reports a first run limited to 2,000 boxes per size with regular production only expected later."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "V by Oscar Valladares",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Torpedo",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Honduran puro made for Gurkha by Oscar Valladares as an exclusive for Tobacconists' Association of America member shops. It is a single box-pressed torpedo limited to 1,000 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/gurkha-v-by-oscar-valladares-heads-to-taa-retailers/446925/",
+   "https://halfwheel.com/gurkha-partners-with-oscar-valladares-for-taa-exclusive-gurkha-v-line/444267/",
+   "https://www.neptunecigar.com/cigar/gurkha-v-by-oscar-valladares"
+  ],
+  "notes": "Sold only through TAA member retailers. It was announced in October 2024 as a TAA 2024 exclusive and shipped in January 2025. The maduro wrapper description comes from Neptune; halfwheel says only that the blend is all Honduran.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Grand Reserve Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cognac",
+   "cream",
+   "spice"
+  ],
+  "about": "The maduro version of Gurkha's Grand Reserve, its long-running cognac-infused cigar sold in wax-sealed glass tubes. It is made in the Dominican Republic with Dominican binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/gurkha-grand-reserve-maduro",
+   "https://www.coronacigar.com/gurkha-cognac-maduro-churchill/",
+   "https://mikescigars.com/gurkha-grand-reserve-cognac-torpedo-gugrtp3"
+  ],
+  "notes": "This is an infused cigar and the maduro wrapper option of the Grand Reserve line. Corona Cigar and Mike's Cigars rate it mild to medium while Neptune says medium, and only Neptune names the wrapper as Connecticut Broadleaf. Mike's lists it as made in Honduras and the Churchill as 7.25 inches.",
+  "verified": true,
+  "verifyNotes": "Replaced the Gurkha Grand Reserve source, which covers only the natural version, with the Mike's Cigars maduro torpedo page that supports the torpedo size. Notes now record Mike's differing country and Churchill length."
+ }
+]

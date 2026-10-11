@@ -1,0 +1,857 @@
+[
+ {
+  "brand": "Adrian Magnus",
+  "line": "Original Light",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "honey",
+   "cream",
+   "almond",
+   "cocoa",
+   "wood"
+  ],
+  "about": "The mildest of the three Original blends from Adrian Magnus, made with non-aged tobacco at the company's own factory in the Dominican Republic. It launched at InterTabac 2025 alongside Original Medium and Original Strong.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/original-light-robusto",
+   "https://cigar-coop.com/2025/08/adrian-magnus-originals-announced-cigar-news.html"
+  ],
+  "notes": "Maker's spec table says Ecuador Habano wrapper, but its own description calls the wrapper Ecuadorian Shade and adds Honduras to the filler. Trade press calls the line Originals. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Original Medium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Shade Grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Criollo 98, Jalapa)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "roasted nuts",
+   "spice",
+   "wood",
+   "cream",
+   "cocoa"
+  ],
+  "about": "The middle blend of the three Original cigars from Adrian Magnus, made with non-aged tobacco at the company's own factory in the Dominican Republic. It launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/original-medium-robusto",
+   "https://cigar-coop.com/2025/08/adrian-magnus-originals-announced-cigar-news.html"
+  ],
+  "notes": "Maker's description says the blend is entirely Nicaraguan, but its spec table and Cigar Coop list Nicaraguan and Dominican filler. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Original Strong",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Mexico",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra, Piloto Seco",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "black pepper",
+   "wood",
+   "spice",
+   "cocoa"
+  ],
+  "about": "The strongest of the three Original blends from Adrian Magnus, with a Mexican San Andres wrapper over non-aged tobacco. It is made at the company's own factory in the Dominican Republic and launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/original-strong-robusto",
+   "https://cigar-coop.com/2025/08/adrian-magnus-originals-announced-cigar-news.html"
+  ],
+  "notes": "Maker's strength scale shows medium-strong; Cigar Coop described it as full strength. Maker's description mentions only Nicaraguan filler, while its spec table adds Dominican. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "XSO Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Mexico",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Dominican Republic, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "black pepper",
+   "wood",
+   "leather",
+   "cream"
+  ],
+  "about": "One of three XSO blends from Adrian Magnus, made with non-aged tobacco at the company's own factory in the Dominican Republic. The line launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/xso-blue-toro",
+   "https://cigar-coop.com/2025/08/adrian-magnus-xso-announced-cigar-news.html"
+  ],
+  "notes": "The maker's site lists a San Andres Mexico wrapper, but the launch coverage (Cigar Coop) gave a shade-grown Ecuadorian Habano wrapper and no Pennsylvania filler. Cigar Coop called it medium to full. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "XSO Green",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "coffee",
+   "spice",
+   "wood",
+   "cream"
+  ],
+  "about": "The medium blend of the three XSO cigars from Adrian Magnus, wrapped in a broadleaf leaf over non-aged tobacco. It is made at the company's own factory in the Dominican Republic and launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/xso-green-robusto",
+   "https://cigar-coop.com/2025/08/adrian-magnus-xso-announced-cigar-news.html"
+  ],
+  "notes": "The origin of the broadleaf wrapper is not disclosed. Maker's description says 100% Nicaraguan tobacco from Jalapa, but its spec table and Cigar Coop list Nicaraguan and Dominican filler. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "XSO Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Mexico",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark cocoa",
+   "spice",
+   "earth",
+   "cream",
+   "chocolate",
+   "caramel"
+  ],
+  "about": "The strongest of the three XSO blends from Adrian Magnus, made with non-aged tobacco at the company's own factory in the Dominican Republic. The line launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/xso-black-robusto",
+   "https://cigar-coop.com/2025/08/adrian-magnus-xso-announced-cigar-news.html"
+  ],
+  "notes": "Maker's spec table and Cigar Coop say San Andres Mexico wrapper, but the maker's own description says dark Broadleaf. Maker's strength scale shows medium-strong; Cigar Coop called it full. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Montego Sereno",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano Criollo)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "vanilla",
+   "honey",
+   "spice"
+  ],
+  "about": "The mildest of the three blends in Montego, a value-priced line from Adrian Magnus. It is made at the company's own factory in the Dominican Republic and launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/montego-mntg-sereno-robusto",
+   "https://cigar-coop.com/2025/08/adrian-magnus-cigars-to-launch-montego-line-cigar-news.html"
+  ],
+  "notes": "The maker labels the line Montego MNTG. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Montego Prestigio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "caramel",
+   "nuts",
+   "spice",
+   "toasted wood",
+   "cream"
+  ],
+  "about": "The middle blend of the three in Montego, a value-priced line from Adrian Magnus. It is made at the company's own factory in the Dominican Republic and launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/montego-mntg-prestigio-robusto",
+   "https://cigar-coop.com/2025/08/adrian-magnus-cigars-to-launch-montego-line-cigar-news.html"
+  ],
+  "notes": "Maker's spec table and Cigar Coop say Ecuadorian Habano wrapper; the maker's description calls it Ecuadorian Shade. Maker's strength scale shows medium while its text and Cigar Coop say medium to full. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Montego Oro Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Mexico",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark cocoa",
+   "chocolate",
+   "spice",
+   "earth",
+   "cream"
+  ],
+  "about": "The top blend of the three in Montego, a value-priced line from Adrian Magnus, with a Mexican San Andres wrapper over Nicaraguan filler. It is made at the company's own factory in the Dominican Republic and launched at InterTabac 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/montego-mntg-oro-reserva-robusto",
+   "https://www.adrianmagnus.com/products/montego-mntg-oro-reserva-toro",
+   "https://cigar-coop.com/2025/08/adrian-magnus-cigars-to-launch-montego-line-cigar-news.html"
+  ],
+  "notes": "The maker's Robusto page lists a Nicaraguan binder, while its Toro and Belicoso pages and Cigar Coop say Indonesian. The maker rates it 3 out of 5 (medium); Cigar Coop described it as the boldest Montego. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Millennium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano Criollo 98)",
+  "filler": "Honduras, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.1,
+    "ring": 52
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.08,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "nuts",
+   "herbs",
+   "cedar",
+   "leather"
+  ],
+  "about": "The youngest of the aged lines from Adrian Magnus, made with long-filler tobacco the maker says is aged five years. It is rolled in the Dominican Republic and was shown to US retailers at the 2025 PCA trade show.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/millennium-robusto",
+   "https://stogiepress.com/cigar_review/cigar-review-adrian-magnus-geneva-millennium-5-years-robusto-rated-94/",
+   "https://luxurycigarclub.com/products/adrian-magnus-millennium"
+  ],
+  "notes": "Wrapper is agreed as Ecuadorian Connecticut. The maker lists an Ecuadorian binder with Honduran, Dominican and Nicaraguan filler; Stogie Press and a retailer list Dominican binder with Dominican and Nicaraguan filler. Strength is disputed: the maker's scale shows light, Stogie Press says medium, and one retailer sells it as full.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to under 350 characters and added that Luxury Cigar Club lists the profile as full. Blend, strength and sizes match the maker's pages."
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Supremos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano HVA)",
+  "filler": "Ecuador, Nicaragua, Honduras",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.08,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cedar",
+   "coffee"
+  ],
+  "about": "A line from Adrian Magnus built on tobacco the maker says is aged seven years. It is rolled in the Dominican Republic and sits between Millennium and Imperials in the range.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/supremos-robusto",
+   "https://luxurycigarclub.com/products/adrian-magnus-supremos"
+  ],
+  "notes": "The maker lists an Ecuadorian wrapper and binder with Ecuadorian, Nicaraguan and Honduran filler; one retailer instead lists Dominican binder and Dominican, Nicaraguan and Peruvian filler, and calls it medium to full. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'premium'. Added to notes that the retailer rates it medium to full against the maker's medium."
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Imperials",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano Criollo 98)",
+  "filler": "Ecuador, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Wide Churchill",
+    "length": 5.1,
+    "ring": 55
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.08,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "nuts",
+   "coffee"
+  ],
+  "about": "A line from Adrian Magnus built on long-filler tobacco the maker says is aged ten years. It is rolled in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/imperials-robusto",
+   "https://luxurycigarclub.com/products/adrian-magnus-imperial"
+  ],
+  "notes": "The maker's scale shows medium, but one retailer sells it as full bodied and lists Dominican and Nicaraguan binder with Dominican, Nicaraguan and Peruvian filler. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'premium'. Fields match the maker's pages."
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Black-Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Ecuadorian Habano HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Ecuador, Nicaragua, Dominican Republic, Brazil",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.08,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "wood",
+   "coffee"
+  ],
+  "about": "A cigar from the top tier of the Adrian Magnus range, made with long-filler tobacco the maker says is aged twelve years. It is the only cigar the maker rates at full strength and is rolled in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/black-black",
+   "https://luxebible.com/adrian-magnus-launches-exclusive-xo-cognac-infused-cigar-collection/"
+  ],
+  "notes": "The blend is taken from the maker's own site only; no independent spec sheet was found. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'ultra-premium'. Fields match the maker's pages; country comes from the Luxe Bible article."
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "XO Cognac Infused",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano HVA)",
+  "filler": "Ecuador, Peru, Dominican Republic, Brazil",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.08,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cognac",
+   "caramel",
+   "oak",
+   "leather",
+   "cinnamon"
+  ],
+  "about": "An infused cigar from Adrian Magnus: long-filler tobacco the maker says is aged twelve years and infused with Hennessy XO cognac. It is rolled in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/xo-cognac-infused-cigars",
+   "https://stogiereview.com/2023/12/16/adrian-magnus-xo/",
+   "https://luxebible.com/adrian-magnus-launches-exclusive-xo-cognac-infused-cigar-collection/"
+  ],
+  "notes": "This is an infused cigar, so store it apart from others. A 2023 review said the maker labeled it full while it smoked medium; the maker's site now shows medium. One article says only 5,000 boxes are made a year. Sizes converted from millimeters.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Royal Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Cibao Valley)",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.08,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "nuts",
+   "floral"
+  ],
+  "about": "The flagship cigar from Adrian Magnus, made with tobacco the maker says is aged fifteen years. It is rolled in the Dominican Republic and sold as a limited edition.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.adrianmagnus.com/products/royal-limited-edition-15-years-aged",
+   "https://luxebible.com/adrian-magnus-launches-exclusive-xo-cognac-infused-cigar-collection/"
+  ],
+  "notes": "The maker calls it a limited edition but publishes no production count. Its Toro page shows medium-strong on the strength scale while the Petit Corona page shows medium. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "Leyenda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano Criollo 98)",
+  "filler": "Honduras, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "nuts",
+   "herbs"
+  ],
+  "about": "A limited edition toro from Adrian Magnus made with tobacco the maker says is aged twelve years. It is rolled in the Dominican Republic and comes in a dedicated limited-edition box.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.adrianmagnus.com/products/leyenda-toro-limited-edition-12-years-aged",
+   "https://cigar-coop.com/2025/08/adrian-magnus-originals-announced-cigar-news.html"
+  ],
+  "notes": "The blend is taken from the maker's own site only; no independent source was found. The maker publishes no production count. Size converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": "Added the Cigar Coop article as the source for the Dominican factory, since the maker's product page does not state where the cigar is rolled. Other fields match the maker's page."
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "El Rey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano HVA)",
+  "filler": "Nicaragua, Ecuador, Honduras",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cedar",
+   "coffee"
+  ],
+  "about": "A limited edition toro from Adrian Magnus made with tobacco the maker says is aged eleven years. The maker says it is limited to 5,000 hand-numbered boxes.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.adrianmagnus.com/products/el-rey-toro-limited-edition-11-years-aged-1",
+   "https://cigar-coop.com/2025/08/adrian-magnus-originals-announced-cigar-news.html"
+  ],
+  "notes": "The blend is taken from the maker's own site only; no independent source was found. The maker's text speaks of Dominican origins, but its spec table lists no Dominican leaf. Size converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": "Added the Cigar Coop article as the source for the Dominican factory, since the maker's product page does not state where the cigar is rolled. Other fields match the maker's page."
+ },
+ {
+  "brand": "Adrian Magnus",
+  "line": "1808",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Ecuador, Peru, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.1,
+    "ring": 52
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.08,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "honey"
+  ],
+  "about": "A sweet-leaning cigar from Adrian Magnus that the maker groups with its infused cigars and describes as organically sweet. It is rolled in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.adrianmagnus.com/products/1808-robusto-cigars",
+   "https://www.adrianmagnus.com/products/1808-toro",
+   "https://cigar-coop.com/2025/08/adrian-magnus-originals-announced-cigar-news.html"
+  ],
+  "notes": "The maker lists 1808 under Infused and titles the Toro 'Organically Sweet Premium Cigars', but does not say how it is sweetened. The blend is taken from the maker's own site only. Sizes converted from the maker's millimeter figures.",
+  "verified": true,
+  "verifyNotes": "Added the Cigar Coop article as the source for the Dominican factory, since the maker's product page does not state where the cigar is rolled. Other fields match the maker's page."
+ }
+]

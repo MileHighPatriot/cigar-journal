@@ -1,0 +1,692 @@
+[
+ {
+  "brand": "Casa Turrent",
+  "line": "Serie 1973",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Habano Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Mexico (San Andrés Habano Criollo), Nicaragua",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cream",
+   "honey",
+   "cedar",
+   "white pepper",
+   "chocolate"
+  ],
+  "about": "A blend of Mexican San Andrés criollo and Nicaraguan tobacco from the Turrent family, named for Alejandro Turrent's birth year. The Torpedo was Cigar Aficionado's No. 14 cigar of 2020.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrent1900series",
+   "https://halfwheel.com/casa-turrent-serie-1973-robusto/138851/",
+   "https://www.tabacaleraturrent.com/awardandratings"
+  ],
+  "notes": "Maker lists a Nicaraguan binder; halfwheel listed a San Andrés criollo binder at launch. The maker's chart now shows only the Gran Robusto (6 x 52, launched at 5 3/4 x 52) and Robusto; the Torpedo and Gran Toro are launch sizes.",
+  "verified": true,
+  "verifyNotes": "Removed 'box-pressed' from about: halfwheel says some markets got a round version. Blend, strength, sizes and factory confirmed on the maker page, its size chart and halfwheel."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Habano 2000 Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (San Andrés Habano Criollo, San Andrés Negro)",
+  "country": "Mexico",
+  "factory": "Casa Turrent",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "red fruit",
+   "caramel",
+   "coconut",
+   "cinnamon"
+  ],
+  "about": "The lightest of the four 1880 blends Casa Turrent added in 2020, made by the Turrent family with aged Mexican tobacco they grow themselves. The maker rates it mild to medium.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrent1880",
+   "https://halfwheel.com/pca-2021-casa-turrent/396875/",
+   "https://halfwheel.com/casa-turrent-ships-new-1880-lines-to-retailers/376991/"
+  ],
+  "notes": "Maker now lists an all-Mexican blend; halfwheel listed a habano criollo claro wrapper with Mexican and Dominican filler. Launched as a 6 1/2 x 55 toro gordo; the maker's chart now shows three shorter sizes.",
+  "verified": true,
+  "verifyNotes": "Reworded about: the Doble Claro is also rated mild to medium, so this is not the only such blend. All data fields confirmed on the maker page, its size chart and halfwheel."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Colorado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro Colorado",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Habano Criollo)",
+  "filler": "Mexico (San Andrés Habano Criollo, San Andrés Negro)",
+  "country": "Mexico",
+  "factory": "Casa Turrent",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "dark chocolate",
+   "honey",
+   "vanilla",
+   "pepper"
+  ],
+  "about": "A Mexican puro in Casa Turrent's 1880 series, named for the colorado shade of its San Andrés Negro wrapper. The Turrent family grows all of the tobacco in it.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrent1880",
+   "https://halfwheel.com/pca-2021-casa-turrent/396875/",
+   "https://halfwheel.com/casa-turrent-adds-four-lines-to-1880-series/372216/"
+  ],
+  "notes": "The maker's text calls it medium to full, but the strength scale beside it on the same page shows mild to medium. Launched as a 6 1/2 x 55 toro gordo; the maker's chart now shows three shorter sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Habano 2000 Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (San Andrés Habano Criollo, San Andrés Negro)",
+  "country": "Mexico",
+  "factory": "Casa Turrent",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "pepper",
+   "wood",
+   "hazelnut",
+   "cocoa"
+  ],
+  "about": "A dark-wrapped Mexican puro in Casa Turrent's 1880 series, built on habano-seed and Negro tobacco from the San Andrés Valley. It is one of the stronger blends in the series.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrent1880",
+   "https://halfwheel.com/casa-turrent-1880-oscuro/378445/",
+   "https://halfwheel.com/pca-2021-casa-turrent/396875/"
+  ],
+  "notes": "Maker's text says full-bodied while its strength scale shows medium to full; halfwheel's review found full strength. Halfwheel lists the wrapper as San Andrés habano criollo. Launched as a 6 1/2 x 55 toro gordo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Habano Criollo)",
+  "filler": "Mexico, Nicaragua",
+  "country": "Mexico",
+  "factory": "Casa Turrent",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro blend in Casa Turrent's 1880 series, with a dark San Andrés Negro wrapper over a habano criollo binder. It was one of the four 1880 blends added in 2020.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2021-casa-turrent/396875/",
+   "https://www.tabacaleraturrent.com/casaturrent1880",
+   "https://www.neptunecigar.com/cigars/casa-turrent-1880-maduro-robusto"
+  ],
+  "notes": "The maker's page repeats the Colorado description under Maduro, so wrapper and filler here follow halfwheel. The maker's strength scale shows full, while Neptune lists medium. No tasting notes specific to the Maduro are published by the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Habano Criollo)",
+  "filler": "Mexico (San Andrés Habano México, Habano Criollo, Habano 2000)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "roasted nuts",
+   "earth"
+  ],
+  "about": "A Mexican puro in Casa Turrent's 1880 series made from three Cuban-seed tobaccos grown in the San Andrés Valley. It joined the series in 2022.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrent1880",
+   "https://halfwheel.com/casa-turrent-to-add-three-lines-to-1880-series-in-2022/400379/",
+   "https://halfwheel.com/pca-2022-casa-turrent/411641/"
+  ],
+  "notes": "Maker's text says medium strength while its strength scale shows medium to full. Halfwheel's launch report listed a habano 2000 binder. Launch sizes ran up to 7 1/2 inches; the maker's chart now shows three shorter sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Doble Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Habano Criollo Claro)",
+  "filler": "Mexico (San Andrés Habano Criollo, San Andrés Negro)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "fruit",
+   "wood",
+   "honey"
+  ],
+  "about": "The lightest of the three 1880 blends Casa Turrent added in 2022, a Mexican puro wrapped in Connecticut-seed leaf grown in the San Andrés Valley.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrent1880",
+   "https://halfwheel.com/casa-turrent-to-add-three-lines-to-1880-series-in-2022/400379/",
+   "https://halfwheel.com/pca-2022-casa-turrent/411641/"
+  ],
+  "notes": "The Connecticut-seed wrapper is grown in Mexico, not the U.S. or Ecuador. Maker lists a habano criollo claro binder; halfwheel's launch report listed San Andrés Negro.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel calls it the lightest of the three 2022 additions, and the maker rates the Claro mild to medium as well."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Doble Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (San Andrés Habano Criollo, San Andrés Negro)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Coronita",
+    "length": 4,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "cedar",
+   "chocolate",
+   "salt"
+  ],
+  "about": "The fullest of the three 1880 blends Casa Turrent added in 2022, a Mexican puro with San Andrés Negro leaf as both wrapper and binder.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrent1880",
+   "https://halfwheel.com/casa-turrent-to-add-three-lines-to-1880-series-in-2022/400379/",
+   "https://halfwheel.com/pca-2022-casa-turrent/411641/"
+  ],
+  "notes": "Halfwheel's launch report described San Andrés Negro for the filler as well; the maker now lists habano criollo with it.",
+  "verified": true,
+  "verifyNotes": "Reworded about: the maker's scale also shows the 1880 Maduro as full, so 'the fullest in the series' was not supported."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880 Edición Limitada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (Criollo 98)",
+  "filler": "Mexico (San Andrés Negro, Criollo 98), Nicaragua (Criollo 98)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "cedar",
+   "earth",
+   "black pepper"
+  ],
+  "about": "The original Casa Turrent 1880 blend from 2017, which took the Edición Limitada name in 2020 when the wrapper-named 1880 lines arrived. It uses long-aged Mexican tobacco from the Turrent farms with some Nicaraguan filler.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2022-casa-turrent/411641/",
+   "https://halfwheel.com/casa-turrent-ships-new-1880-lines-to-retailers/376991/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-casa-turrent-1880-toro/"
+  ],
+  "notes": "Also known as 1880 Sui Generis. Sources list the original 2017 toro anywhere from 6 1/4 x 52 to 6 1/2 x 54; the 2022 version is 6 1/2 x 55. Made in small ongoing batches, not a fixed run; strength and flavors here come from reviews of the original.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf changed to 'Mexican San Andrés Maduro' as halfwheel's review and Developing Palates list it. Rewrote notes: sources disagree on the original size (halfwheel 6 1/2 x 54, Developing Palates 6 1/4 x 52, Cigar Journal 6 1/2 x 52)."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "Origins Miami",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Connecticut (sun grown)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Habano)",
+  "filler": "Mexico (San Andrés Habano), Dominican Republic",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "toast",
+   "bread",
+   "cream",
+   "earth"
+  ],
+  "about": "One of four Casa Turrent Origins blends named for places in the Turrent family's history. It pairs a Connecticut-seed wrapper grown in Mexico with Mexican and Dominican filler.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrentorigins",
+   "https://halfwheel.com/casa-turrent-origins-miami/367122/",
+   "https://halfwheel.com/casa-turrent-origins-miami-2/403055/"
+  ],
+  "notes": "No maker strength rating; halfwheel's two reviews put strength between medium and medium-full, with full body. Halfwheel lists a San Andrés criollo binder plus Nicaraguan filler. Shown in Europe in 2018, U.S. release August 2019; launched at 5 1/2 x 54, the maker now lists 5 1/4 x 55.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and stated the halfwheel strength range plainly; the Medium value is a reviewer reading, not a maker rating."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "Origins Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Habano Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua",
+  "country": "Mexico",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "sweet spice",
+   "chocolate",
+   "almond"
+  ],
+  "about": "One of four Casa Turrent Origins blends named for places in the Turrent family's history. This one puts Nicaraguan filler under a Mexican criollo wrapper and San Andrés Negro binder.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrentorigins",
+   "https://halfwheel.com/ipcpr-2019-casa-turrent/364003/",
+   "https://gauntleyscigars.com/product/casa-turrent-origenes-nicaraguan/"
+  ],
+  "notes": "Rolled in Mexico despite the name. The maker publishes no strength rating; a UK retailer rates its flavour medium to full. Shown in Europe in 2018, U.S. release August 2019; launched at 5 1/2 x 54, the maker now lists 5 1/4 x 55.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: the UK retailer's medium to full figure is a flavour rating, not strength. Trimmed to three sentences."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "Origins Cuba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Habano)",
+  "filler": "Mexico (San Andrés Habano)",
+  "country": "Mexico",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of four Casa Turrent Origins blends named for places in the Turrent family's history. It is a Mexican puro made entirely from Cuban-seed habano tobacco grown in San Andrés.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrentorigins",
+   "https://halfwheel.com/ipcpr-2019-casa-turrent/364003/",
+   "https://halfwheel.com/casa-turrent-origins-miami/367122/"
+  ],
+  "notes": "Contains no Cuban tobacco: the name refers to the Cuban-seed leaf, all grown in Mexico. The maker publishes no strength rating or tasting notes. Shown in Europe in 2018, U.S. release August 2019; launched at 5 1/2 x 54, the maker now lists 5 1/4 x 55.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. No field changes."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "Origins Mexico",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Mexico (San Andrés Negro)",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 55
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "sweetness",
+   "fruit"
+  ],
+  "about": "One of four Casa Turrent Origins blends named for places in the Turrent family's history, this one built on the family's own San Andrés Negro tobacco. It placed in Cigar Journal's Top 25 for 2020 and 2021.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.tabacaleraturrent.com/casaturrentorigins",
+   "https://www.cigarjournal.com/cigar-journals-top-25-cigars-of-2020-13-to-8/",
+   "https://www.cigarjournal.com/cigar-journals-top-25-cigars-of-2021-13-to-8/"
+  ],
+  "notes": "The band reads San Andrés and it is often sold as Origins San Andrés. Maker lists all San Andrés Negro, while Cigar Journal adds Nicaraguan filler and scored its strength 8 of 10; the maker gives no strength rating. Launched at 5 1/2 x 54; the maker now lists 5 1/4 x 55.",
+  "verified": true,
+  "verifyNotes": "Flavors replaced: earth, cocoa and wood were not in any listed source, so they now follow Cigar Journal's tasting note. Added factory from Cigar Journal. Swapped sources to the Cigar Journal 2020 and 2021 Top 25 pages, which confirm the rankings directly."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "A. Turrent 60 Cosechas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico",
+  "filler": "Mexico",
+  "country": "Mexico",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Mexican puro from Casa Turrent marking Alberto Turrent's 60 harvests as a tobacco grower. It uses aged San Andrés Negro tobacco under a maduro wrapper.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/casa-turrent-slates-a-turrent-60-cosechas-for-november/400490/",
+   "https://www.cigarslover.com/casa-turrent-adding-four-new-lines/"
+  ],
+  "notes": "Limited to 3,000 boxes of 15. Announced in September 2021 for a November 2021 release; the actual ship date is unconfirmed. The blend was not disclosed beyond a puro of Mexican San Andrés Negro, with wrapper and binder aged 5 to 7 years and filler 5 to 15.",
+  "verified": true,
+  "verifyNotes": "released set to null: both pages I could open only say it was slated for November 2021, and a later report I could not open suggests the date moved. Added CigarsLover as a second source."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "Macarena",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Mexico",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Big Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "leather",
+   "toast",
+   "wood",
+   "earth",
+   "spice"
+  ],
+  "about": "An everyday cigar from the Turrent family in Mexico, sold by UK retailers under the Casa Turrent name. It is described as a smooth, milder smoke.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://gauntleyscigars.com/product/casa-turrent-macarena-toro/",
+   "https://gauntleyscigars.com/product/casa-turrent-big-robusto/",
+   "https://www.tabacaleraturrent.com/"
+  ],
+  "notes": "The maker shows Macarena as its own brand beside Casa Turrent and Te-Amo and publishes no blend. One UK retailer lists a Sumatra wrapper, Mexican binder and Dominican Criollo 98 filler, light to medium; treat that as unconfirmed.",
+  "verified": true,
+  "verifyNotes": "production set to null: no source states it. about reworded: only UK retailers were confirmed, and 'everyday-priced' was not supported. The maker site has no Macarena page, so wrapper and strength stay null."
+ }
+]

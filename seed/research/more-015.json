@@ -1,0 +1,1007 @@
+[
+ {
+  "brand": "Gurkha",
+  "line": "Grand Age",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A treasure chest humidor of 60 toros holding three Gurkha blends, 20 each in Connecticut shade, Habano and maduro wrappers, made at Las Villas Cigars in Nicaragua. A follow-up, Grand Age II, came out in 2023 in a 6 x 54 toro.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/gurkha-grand-age",
+   "https://halfwheel.com/gurkha-unveils-ghost-connecticut-grand-age-ii-at-tpe-2023/420404/"
+  ],
+  "notes": "Sold as a 60-cigar chest of toros in three wrappers (Connecticut shade, Habano, maduro), so there is no single wrapper; binder and filler are not published. Neptune gives the toro as 6 x 50 in its description but 54 ring in its specs; Grand Age II is 6 x 54. Neptune also describes an older Honduran Grand Age with a Cameroon wrapper.",
+  "verified": true,
+  "verifyNotes": "Cleared sizes: Neptune's description says 6 x 50 but its own spec table says 54 ring. Rewrote notes. Wrapper, country and factory confirmed on Neptune; Gurkha's site has no page for it, so strength stays null."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Marquesa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Ometepe)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "sweetness"
+  ],
+  "about": "A Gurkha line introduced in 2018 with packaging and a flavor profile modeled on pre-embargo Cuban cigars. Each box of 20 holds 10 box-pressed and 10 round cigars.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/gurkha-marquesa",
+   "https://halfwheel.com/gurkha-adding-new-vitolas-to-six-lines/308733/",
+   "https://blindmanspuff.com/blind-cigar-review-gurkha-marquesa-toro/"
+  ],
+  "notes": "Sources do not say where the Sumatra wrapper is grown. The 6 x 60 Magnum was added in 2019. Neptune lists the Toro as discontinued while the Robusto is still offered.",
+  "verified": true,
+  "verifyNotes": "Swapped the Halfwheel launch article for the Halfwheel article that announces the 6 x 60 Magnum, which no listed source supported. Blend, country, factory and strength confirmed on Neptune and Blind Man's Puff."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Rogue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Honduras, Dominican Republic (ligero)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rascal",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Tyrant",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Ruthless",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Bamboozle",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Armageddon",
+    "length": 6,
+    "ring": 66
+   }
+  ],
+  "flavors": [
+   "spice",
+   "chestnut",
+   "earth"
+  ],
+  "about": "A box-pressed cigar with an unfinished foot, released in 2013 as the third blend under Gurkha's East India Trading Company label. It was priced as an affordable everyday smoke.",
+  "released": 2013,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/press-release-east-india-trading-company-release-rogue/37416/",
+   "https://www.neptunecigar.com/cigar/gurkha-rogue"
+  ],
+  "notes": "Released under Gurkha's East India Trading Company label. Neptune lists it as Full strength but describes it as medium bodied; Cigar Place calls it medium to full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the Gurkha press release on Halfwheel and Neptune. Reworded notes."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "San Miguel",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (Aganorsa Leaf)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.25,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "peanut",
+   "cedar",
+   "toast",
+   "black pepper",
+   "earth",
+   "spice"
+  ],
+  "about": "A Nicaraguan puro made for Gurkha by Aganorsa Leaf from its own tobaccos, released in September 2020. It replaced an older Dominican-made San Miguel and was discontinued in 2023.",
+  "released": 2020,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/san-miguel-by-gurkha-robusto/384320/",
+   "https://halfwheel.com/gurkha-discontinues-san-miguel-and-treinta-lines/429095/",
+   "https://cigardojo.com/2021/03/gurkha-san-miguel-toro/"
+  ],
+  "notes": "Sold as San Miguel by Gurkha. The original San Miguel was Dominican made with an Ecuadorian Sumatra wrapper. Cigar Dojo rated it medium to full, Halfwheel found it just above medium, and Neptune lists Full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against Halfwheel, Cigar Dojo and Neptune. Added Halfwheel's strength reading to notes."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Treinta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Corojo 99, Criollo 98 from Esteli and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (Aganorsa Leaf)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "white pepper",
+   "peanut",
+   "cream",
+   "wood",
+   "earth"
+  ],
+  "about": "Gurkha's 30th anniversary cigar, marking 30 years since Kaizad Hansotia bought the brand, and one of the first Gurkhas made by Aganorsa Leaf. It came out in September 2019 and was discontinued in 2023.",
+  "released": 2019,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/gurkha-treinta-toro/374087/",
+   "https://halfwheel.com/gurkha-discontinues-san-miguel-and-treinta-lines/429095/",
+   "https://www.neptunecigar.com/cigar/gurkha-treinta"
+  ],
+  "notes": "A Belicoso (6 1/4 x 52) and Figurado (6 3/4 x 52) were sold only in limited Treinta humidors.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against Halfwheel and Neptune. Softened 'the first Gurkha made by Aganorsa Leaf' in about: Halfwheel says the Nicaragua Series came from the same factory the same year."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Chateau de Prive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Desflorado",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bishop",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Rook",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "King of Warriors",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cream",
+   "vanilla",
+   "white pepper",
+   "earth"
+  ],
+  "about": "A limited Gurkha release from 2018 that is milder and creamier than most of the brand's blends, made at PDR Cigars. It came in a domed box inside a metal lattice cage.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/gurkha-chateau-de-prive-rook/297532/",
+   "https://halfwheel.com/ipcpr-2018-gurkha/270799/",
+   "https://www.neptunecigar.com/cigar/gurkha-chateau-de-prive"
+  ],
+  "notes": "The wrapper is published only as Ecuadorian Desflorado, with no seed type given. The first run was 300 boxes of 20 per size.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against Halfwheel and Neptune. Removed the unsupported note that reviewers put it at mild-medium."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Cellar Reserve 15 Year 10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "almond",
+   "cream",
+   "oak",
+   "leather",
+   "coffee"
+  ],
+  "about": "A single-size Cellar Reserve made to mark ten years of Gurkha's Cellar Reserve line. It debuted in 2017 in 50-count humidors and returned in 2018 in boxes of 24.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/gurkha-cellar-reserve-15-year-10th-anniversary/216822/",
+   "https://halfwheel.com/gurkha-cellar-reserve-15-year-10th-anniversary-returns-in-boxes/270122/",
+   "https://gurkhacigars.com/cigar-collections/toro-samplers/cellar-reserve-toro-sampler/"
+  ],
+  "notes": "Gurkha has not said where it is made. The 2017 humidor release listed Nicaraguan binder and filler; the 2018 boxes list Dominican. Gurkha's release called it medium bodied while its website said medium-full; it is still in Gurkha's Cellar Reserve toro sampler.",
+  "verified": true,
+  "verifyNotes": "Set country to null: Halfwheel lists country and factory as n/a and no source I opened states where it is made. Wrapper, binder, filler, size and strength confirmed. Rewrote notes."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Wicked Indie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "espresso",
+   "pepper",
+   "charred wood"
+  ],
+  "about": "A value-priced Nicaraguan puro launched in 2011 as the first cigar under Gurkha's East India Trading Company label. It was sold in plain boxes of 50.",
+  "released": 2011,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/gurkha-ipcpr-2011/",
+   "https://www.neptunecigar.com/cigar/gurkha-wicked-indie",
+   "https://www.famous-smoke.com/brand-gurkha-wicked-indie"
+  ],
+  "notes": "Released under Gurkha's East India Trading Company label. Halfwheel and Neptune list an all-Nicaraguan blend; Famous Smoke lists a Dominican-made version with an Ecuadorian Habano wrapper in 5 x 52 and 7 x 60. Neptune marks it discontinued.",
+  "verified": true,
+  "verifyNotes": "Removed the Little Indie 4 x 30 size and the Rocky Patel The Edge comparison: neither appears in any listed source. Changed flavor 'black pepper' to 'pepper' to match Famous Smoke. Blend, country and strength confirmed on Halfwheel and Neptune."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "125th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Brazil, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacos Don Leoncio (PDR Cigars)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Rothchild",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweet spice",
+   "vanilla",
+   "chestnut",
+   "cedar",
+   "leather",
+   "earth"
+  ],
+  "about": "Released in 2012 to mark 125 years since the 1887 date Gurkha claims as its origin. It is made at the PDR factory in the Dominican Republic with a Brazilian wrapper.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/review-gurkha-125th-anniversary-rothchild/31347/",
+   "https://halfwheel.com/press-release-gurkha-125th-anniversary-shipping/32496/",
+   "https://www.famous-smoke.com/brand-gurkha-125th-anniversary"
+  ],
+  "notes": "Gurkha calls it medium bodied; Famous Smoke lists it as Medium-Full. Famous currently shows only a 6 x 54 Toro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Black Dragon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "leather",
+   "spice",
+   "earth"
+  ],
+  "about": "A Honduran-made Gurkha maduro with a Connecticut Broadleaf wrapper. It is a different cigar from Gurkha's Black Dragon Special Edition Tubo.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-gurkha-black-dragon",
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/black-dragon-tubo/"
+  ],
+  "notes": "Blend is from Famous Smoke only. Do not confuse it with the Black Dragon Special Edition Tubo (7 1/2 x 52, Dominican made, Cameroon binder), which Gurkha lists as Medium with an Ecuadorian maduro wrapper.",
+  "verified": true,
+  "verifyNotes": "Blend, country, strength and size confirmed on Famous Smoke, the only source for this cigar. Removed the Neptune Tubo link, the unsupported 'sold mainly through catalog retailers' line and the price comparison; shortened notes."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Crest",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "spice",
+   "sweetness"
+  ],
+  "about": "A Nicaraguan-made Gurkha with a Connecticut Broadleaf maduro wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-gurkha-crest",
+   "https://www.neptunecigar.com/cigar/gurkha-crest",
+   "https://www.buitragocigars.com/gurkha-crest-torpedo-cigars-5pk/"
+  ],
+  "notes": "Not listed on Gurkha's own site; details come from retailers. Retailers say the wrapper is aged nine years or more. Factory is not published; Cigar Place dates the line to 2008.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Famous Smoke, with Neptune and Buitrago agreeing on wrapper and Nicaraguan filler. Removed the unsupported 'sold mainly through catalog retailers' line. Added the Neptune page as a source."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Founder's Select",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Tobacco",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Rothschild",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "pepper",
+   "nuts"
+  ],
+  "about": "A milder Gurkha with a Connecticut shade wrapper, introduced at the 2016 trade show in 10-count boxes. It was first made at American Caribbean Tobacco in Esteli, Nicaragua.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/gurkha-rounds-out-ipcpr-releases-with-founders-select-blend-masters-cask-and-the-cigar-malt-collection/120169/",
+   "https://www.famous-smoke.com/brand-gurkha-founder-selection",
+   "https://www.neptunecigar.com/cigar/gurkha-founder-s-select"
+  ],
+  "notes": "Halfwheel's 2016 launch report gives a Nicaraguan factory and filler. Famous Smoke and Neptune now list it as Dominican made with Dominican filler, so the current version may differ. Famous calls the wrapper Ecuadorian Connecticut and Neptune US Connecticut; Neptune rates it mild.",
+  "verified": true,
+  "verifyNotes": "Wrapper origin set to null and wrapperLeaf changed to Connecticut Shade: Halfwheel gives no origin, Famous Smoke says Ecuadorian and Neptune says US Connecticut. Added Neptune as a source. Country, factory and sizes confirmed on Halfwheel; strength on Famous Smoke."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Master Select",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Habano)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Perfecto #1",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "cedar",
+   "cream",
+   "spice"
+  ],
+  "about": "A Gurkha blend first sold in 2001 and brought back in 2017, made by Fidel Olivas, who blended the original. Gurkha calls the recipe OVB, for Original Vintage Blend.",
+  "released": 2001,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/gurkha-begins-shipping-master-select/208383/",
+   "https://cigardojo.com/2017/10/gurkha-cigars-master-select-begun-ship-stores/",
+   "https://www.famous-smoke.com/brand-gurkha-master-select"
+  ],
+  "notes": "Gurkha's release calls it mild to medium, while Famous Smoke lists Medium-Full. Halfwheel gives an Ecuadorian Habano wrapper; Famous says Nicaraguan Habano. A Robusto and Perfecto #2 also exist; their sizes are not published.",
+  "verified": true,
+  "verifyNotes": "Renamed the 6 x 60 size from XO: Halfwheel and Cigar Dojo list it only as 6 x 60. Removed Cigar Place claims from notes that I could not confirm on its page. Wrapper, binder, filler and strength confirmed on Halfwheel and Cigar Dojo; country on Famous Smoke."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Shaggy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos San Rafael S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "cocoa",
+   "black pepper",
+   "coffee",
+   "baking spice"
+  ],
+  "about": "A Gurkha known for its shaggy, unfinished foot, which lets the filler and binder burn alone before the wrapper joins in. First released in 2001, it returned in 2016 from Fidel Olivas's factory in Esteli.",
+  "released": 2001,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/gurkha-shaggy-returns-in-limited-fashion/112128/",
+   "https://halfwheel.com/gurkha-shaggy-vintage-robusto-2015/119205/",
+   "https://www.famous-smoke.com/brand-gurkha-shaggy"
+  ],
+  "notes": "Sold without a band. The 2016 return was capped at 4,000 boxes of 25 per size each year. Famous Smoke currently lists only the 6 x 60 as a Gordo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Symphony",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "baking spice",
+   "sweetness"
+  ],
+  "about": "A mellow Dominican-made Gurkha with a Connecticut shade wrapper, pitched as an easy introduction to the brand.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-gurkha-symphony",
+   "https://www.neptunecigar.com/cigar/gurkha-symphony"
+  ],
+  "notes": "Retailers disagree on where the Connecticut shade wrapper is grown: Famous Smoke says Ecuador in its description and Dominican in its specs, Neptune says the US. Famous lists it as Medium; Neptune calls it mild. Not listed on Gurkha's own site.",
+  "verified": true,
+  "verifyNotes": "Wrapper origin set to null and wrapperLeaf changed to Connecticut Shade: Famous Smoke says Ecuadorian in its description and Dominican in its specs, and Neptune says US Connecticut. Added Neptune as a second source. Removed the unsupported 'sold mainly through catalog retailers' line."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Titan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Costa Rica",
+  "binder": null,
+  "filler": "Dominican Republic, Honduras, Nicaragua, Colombia",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "pepper",
+   "leather",
+   "wood",
+   "molasses"
+  ],
+  "about": "A Honduran-made Gurkha with a Costa Rican maduro wrapper over a filler blend from several countries.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-gurkha-titan",
+   "https://www.cigarplace.biz/gurkha-titan-churchill.html",
+   "https://www.buitragocigars.com/gurkha-titan-churchill-cigars-sampler-5ct/"
+  ],
+  "notes": "Famous Smoke lists it as Full; Cigar Place lists Medium-Full with a Nicaraguan binder and no Nicaraguan filler. Not listed on Gurkha's own site.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Famous Smoke and Cigar Place. Removed 'big, bold' and the unsupported 'sold mainly through catalog retailers' line from about."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Vintage 2001",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "almond",
+   "cream",
+   "spice",
+   "vanilla"
+  ],
+  "about": "A medium-bodied Dominican-made Gurkha with a dark Connecticut Broadleaf wrapper over Dominican binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-gurkha-vintage-2001"
+  ],
+  "notes": "Blend is from Famous Smoke only. Not listed on Gurkha's own site; factory and release year are not published.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on Famous Smoke, the only source found; no second page for this line turned up at Neptune or Cigar Place. Removed the unsupported 'sold mainly through catalog retailers' line."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Halloween",
+  "found": true,
+  "officialName": "Lost&Found Halloween",
+  "wrapperLeaf": "Mexican San Andres maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almond",
+   "oak",
+   "cocoa",
+   "earth",
+   "espresso",
+   "black pepper"
+  ],
+  "about": "A one-size Halloween release from Lost&Found, the side brand of Robert Caldwell, Tony Bellatto and Jaclyn Sears. It shipped in October 2022 in 10-count bundles.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lostfound-halloween-2/432952/",
+   "https://halfwheel.com/lostfound-halloween/419266/"
+  ],
+  "notes": "Lost & Found is Caldwell's sister brand, run by Robert Caldwell with Tony Bellatto and Jaclyn Sears. Only 500 bundles of 10 were made, 5,000 cigars in all.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found 22 Minutes to Midnight Connecticut Radiante",
+  "found": true,
+  "officialName": "Lost&Found 22 Minutes to Midnight Connecticut Radiante",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "El Maestro (Tabacalera William Ventura)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Deluxe",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "bread",
+   "black pepper"
+  ],
+  "about": "One of the two Robert Caldwell blends in Lost&Found's 22 Minutes to Midnight series, with bands that read 23:38. The cigars were rolled in 2020 at William Ventura's El Maestro factory and aged before shipping in May 2022.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/22-minutes-to-midnight-connecticut-radiante-toro/412923/",
+   "https://halfwheel.com/lostfound-22-minutes-to-midnight-shipping-to-stores-later-this-month/408747/",
+   "https://halfwheel.com/lostfound-adds-22-minute-to-midnight-10-count-boxes/416667/"
+  ],
+  "notes": "Blend is not disclosed; the company says only that the fillers have a combined age of more than 25 years. Strength is Halfwheel's reading, not the maker's. Lost & Found is Caldwell's sister brand; shipped twice a year, about 4,000 cigars per size per year.",
+  "verified": true,
+  "verifyNotes": "Added strength Medium from the Halfwheel review, which calls strength medium in every third. Confirmed the blend is undisclosed and the country and factory. Shortened notes."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found 22 Minutes to Midnight Habano de Oro",
+  "found": true,
+  "officialName": "Lost&Found 22 Minutes to Midnight Habano de Oro",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "El Maestro (Tabacalera William Ventura)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Deluxe",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "One of the two Robert Caldwell blends in Lost&Found's 22 Minutes to Midnight series, with bands that read 23:38. The cigars were rolled in 2020 at William Ventura's El Maestro factory and aged before shipping in May 2022.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lostfound-22-minutes-to-midnight-shipping-to-stores-later-this-month/408747/",
+   "https://halfwheel.com/lostfound-adds-22-minute-to-midnight-10-count-boxes/416667/"
+  ],
+  "notes": "Blend is not disclosed; the company says only that the fillers have a combined age of more than 25 years. Lost & Found is Caldwell's sister brand, run by Robert Caldwell with Tony Bellatto and Jaclyn Sears. Shipped twice a year, about 4,000 cigars per size per year.",
+  "verified": true,
+  "verifyNotes": "Confirmed the blend is undisclosed and no strength is published. Shortened notes."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Instant Classic Habano Ecuador",
+  "found": true,
+  "officialName": "Lost&Found Instant Classic Habano Ecuador",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (mejorado)",
+  "country": "Dominican Republic",
+  "factory": "El Maestro (Tabacalera William Ventura)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Lost&Found blend commissioned from William Ventura's El Maestro factory and aged for years before it shipped in May 2022. It is a different blend from the 2020 Instant Classic.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/lostfound-instant-classic-returning-with-three-versions/408748/"
+  ],
+  "notes": "Lost & Found is Caldwell's sister brand, run by Robert Caldwell with Tony Bellatto and Jaclyn Sears. Announced in 2022 as an ongoing line, with a 5 x 50 Robusto, 6 x 46 Corona Gorda and 6 x 52 Toro planned. It is not in the current lineup on Caldwell's site.",
+  "verified": true,
+  "verifyNotes": "Removed the Caldwell site link: the page does not mention Instant Classic. Blend, sizes, country and factory confirmed on Halfwheel; no strength is published. Shortened notes."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Instant Classic San Andres",
+  "found": true,
+  "officialName": "Lost&Found Instant Classic San Andrés",
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "El Maestro (Tabacalera William Ventura)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Fino",
+    "length": 5.75,
+    "ring": 48
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Lost&Found blend commissioned from William Ventura's El Maestro factory and aged for years before it shipped in May 2022. It is a different blend from the 2020 Instant Classic.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/lostfound-instant-classic-returning-with-three-versions/408748/"
+  ],
+  "notes": "Binder is not published. Lost & Found is Caldwell's sister brand, run by Robert Caldwell with Tony Bellatto and Jaclyn Sears. Announced in 2022 as an ongoing line; it is not in the current lineup on Caldwell's site.",
+  "verified": true,
+  "verifyNotes": "Removed the Caldwell site link: the page does not mention Instant Classic. Blend, sizes, country and factory confirmed on Halfwheel; no binder or strength is published. Shortened notes."
+ }
+]

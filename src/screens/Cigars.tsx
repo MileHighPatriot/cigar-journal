@@ -17,6 +17,7 @@ import {
 } from '../domain/cigars'
 import { cigarSubtitle, cigarTitle } from '../domain/format'
 import { LEVEL_LABELS, levelLabel } from '../domain/scoring'
+import { closestCigars } from '../domain/search'
 import { CigarPage } from './CigarPage'
 
 const PAGE = 80
@@ -42,10 +43,16 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
   const sentinel = useRef<HTMLDivElement>(null)
 
   const stats = useMemo(() => statsByCigar(state.smokes.values()), [state.smokes])
-  const results = useMemo(
+  const exact = useMemo(
     () => filterCigars(state.cigars.values(), filter, stats),
     [state.cigars, filter, stats],
   )
+  // Nothing matched every word: offer the nearest names instead of an empty page.
+  const closest = useMemo(
+    () => (exact.length === 0 ? closestCigars(state.cigars.values(), filter.query) : []),
+    [state.cigars, filter.query, exact],
+  )
+  const results = exact.length > 0 ? exact : closest
   const wrappers = useMemo(() => wrapperOptions(state.cigars.values()), [state.cigars])
   const totals = useMemo(() => {
     const live = [...state.cigars.values()].filter((cigar) => !cigar.deletedAt)
@@ -211,9 +218,11 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
         </div>
 
         <p className="muted num result-count" aria-live="polite">
-          {filtered
-            ? `${results.length} ${results.length === 1 ? 'match' : 'matches'}`
-            : `All ${results.length} cigars, A to Z by brand`}
+          {closest.length > 0
+            ? 'No exact match. These are the closest.'
+            : filtered
+              ? `${results.length} ${results.length === 1 ? 'match' : 'matches'}`
+              : `All ${results.length} cigars, A to Z by brand`}
         </p>
 
         {results.length === 0 && (

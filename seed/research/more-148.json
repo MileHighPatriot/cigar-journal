@@ -1,0 +1,593 @@
+[
+ {
+  "brand": "ChiMolly",
+  "line": "Pangu",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto E",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toasted bread",
+   "lemongrass",
+   "peanut",
+   "cedar",
+   "white pepper",
+   "nutmeg"
+  ],
+  "about": "The first cigar from ChiMolly, a young brand built around Chinese art and culture. It is a habano-wrapped blend rolled at Mi Havana in Esteli and wears a red band.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://chimollyofficial.com/pages/chimolly-cigar",
+   "https://halfwheel.com/chimolly-dynasty-launching-this-weekend/447328/",
+   "https://halfwheel.com/chimolly-pangu-double-corona/472097/"
+  ],
+  "notes": "The 7 x 52 Double Corona was added in April 2026 as a PCA show exclusive in boxes of 10. Flavor words come from halfwheel's review of that size.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against halfwheel and ChiMolly's own cigar page. Added the maker page as a source."
+ },
+ {
+  "brand": "ChiMolly",
+  "line": "Dynasty",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto E",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "ChiMolly's second line, a step up in strength from Pangu. It pairs an Ecuadorian corojo wrapper with a San Andres binder and wears a blue band.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://chimollyofficial.com/pages/chimolly-cigar",
+   "https://halfwheel.com/chimolly-dynasty-launching-this-weekend/447328/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against halfwheel and ChiMolly's own cigar page. Added the maker page as a source."
+ },
+ {
+  "brand": "ChiMolly",
+  "line": "Pioneer",
+  "found": true,
+  "officialName": "Pioneer Series",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto E",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "ChiMolly's third blend and its broadleaf-wrapped option, shown at the 2025 PCA show. It comes in the same two sizes as Pangu and Dynasty.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://chimollyofficial.com/pages/chimolly-cigar",
+   "https://halfwheel.com/chimolly-pioneer-series-coming-later-this-month/449186/"
+  ],
+  "notes": "ChiMolly does not publish a strength for this line.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and sizes confirmed. ChiMolly's own page lists no strength, so strength stays null. Added the maker page as a source and reworded the note."
+ },
+ {
+  "brand": "ChiMolly",
+  "line": "Fox y ChiMolly",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 99",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto E",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A single-size collaboration between ChiMolly and Fox Cigar, a Phoenix retailer. It is a 6 x 52 toro that ChiMolly calls a Robusto E.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fox-y-chimolly-goes-on-sale/459332/",
+   "https://foxcigar.com/shop/cigars/fox-y-chimolly-robusto-e/"
+  ],
+  "notes": "Limited to 500 boxes of 20, released December 2025. Sold as a Fox Cigar exclusive, though Fox also wholesales it to other shops. Fox Cigar lists it as medium strength.",
+  "verified": true,
+  "verifyNotes": "Strength was null; set to Medium from Fox Cigar's own product page, which also matches the wrapper, binder, filler and 6 x 52 size. Added that page as a source."
+ },
+ {
+  "brand": "Pier 28",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Cafe",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "5 x 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "6 x 46",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "6 x 50 Box Pressed",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "6 x 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 42
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "nuts"
+  ],
+  "about": "The original Pier 28 blend from Tim Wong, a longtime West Coast cigar sales rep, made at Espinosa's La Zona factory in Esteli. It started as a regional release for shops in his West Coast territory.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/espinosa-rolls-out-alpha-dawg-pier-28-habano-today/129958/",
+   "https://halfwheel.com/pier-28-expands-to-four-wrapper-options-adds-sizes/127085/",
+   "https://halfwheel.com/pier-28-ships-connecticut-line-habano-lancero/368283/"
+  ],
+  "notes": "The four launch sizes were published by dimension only, without vitola names. The Lancero was announced in 2016 but did not ship widely until 2019.",
+  "verified": true,
+  "verifyNotes": "Blend, strength, sizes and factory confirmed on halfwheel. Removed the claim that it is named for a San Francisco pier, which none of the sources state. No maker site exists to check and nothing newer than 2019 was found on whether it still ships."
+ },
+ {
+  "brand": "Pier 28",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "La Bomba Chocolate",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Super Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "chocolate"
+  ],
+  "about": "The second Pier 28 line from Tim Wong, a San Andrés maduro over Nicaraguan binder and filler. It is made at Espinosa's La Zona factory in Esteli.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-pier-28/169190/",
+   "https://halfwheel.com/pier-28-expands-to-four-wrapper-options-adds-sizes/127085/"
+  ],
+  "notes": "A small batch reached a few stores in August 2016 ahead of FDA rules, in different sizes. The sizes listed are from the 2017 wide release.",
+  "verified": true,
+  "verifyNotes": "Confirmed on halfwheel. No maker site exists to check and nothing newer than 2019 was found on whether it still ships."
+ },
+ {
+  "brand": "Pier 28",
+  "line": "Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rabito",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cloves",
+   "dark chocolate",
+   "leather",
+   "cedar",
+   "cinnamon",
+   "nuts"
+  ],
+  "about": "A dark Brazilian-wrapped Pier 28 line from Tim Wong, made at La Zona in Esteli. Its black and orange band is a nod to the San Francisco Giants.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2018-pier-28/275660/",
+   "https://halfwheel.com/pier-28-oscuro-perfecto/296518/"
+  ],
+  "notes": "Flavor words come from halfwheel's review of the Perfecto, which found the strength climbing to full by the end.",
+  "verified": true,
+  "verifyNotes": "Confirmed on halfwheel's 2018 trade show post and review. No maker site exists to check and nothing newer than 2019 was found on whether it still ships."
+ },
+ {
+  "brand": "Pier 28",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Short Churchill",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Prominente",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "Tim Wong's Connecticut-wrapped Pier 28, blended with viso and seco leaf and no ligero to sit between old-style and newer, fuller Connecticuts. Its teal band nods to the San Jose Sharks.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pier-28-ships-connecticut-line-habano-lancero/368283/",
+   "https://halfwheel.com/ipcpr-2019-pier-28/362484/",
+   "https://halfwheel.com/pier-28-expands-to-four-wrapper-options-adds-sizes/127085/"
+  ],
+  "notes": "A small batch reached stores in 2016 ahead of FDA rules; that version was announced with Dominican and Nicaraguan filler. The national release came in fall 2019.",
+  "verified": true,
+  "verifyNotes": "Confirmed on halfwheel's 2019 posts. No maker site exists to check and nothing newer than 2019 was found on whether it still ships."
+ },
+ {
+  "brand": "Tradecraft",
+  "line": "Gladius",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro (Turrent grown)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Dominican Republic (Criollo 98 Ligero), Ecuador (Habano 2000 Viso), USA (Pennsylvania Broadleaf Viso, Pennsylvania Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Box Press",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "baking spice",
+   "earth",
+   "citrus",
+   "cinnamon"
+  ],
+  "about": "The flagship maduro from Tradecraft Cigars, the brand started by Gary and Robert Blumenthal of Tinder Box International. It is blended with Wiber Ventura in the Dominican Republic and named for the Roman short sword.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://tradecraftcigars.com/pages/gladius",
+   "https://halfwheel.com/tinderbox-international-owners-launch-tradecraft-cigars/455010/",
+   "https://halfwheel.com/tradecrafts-gladius-box-press-coming-aug-22/476350/"
+  ],
+  "notes": "Maker calls the profile full. The 5 1/2 x 52 Belicoso is a limited size (150 boxes of 12, 2026). The Box Press has a 109-style belicoso head and joined in August 2026.",
+  "verified": true,
+  "verifyNotes": "Confirmed against Tradecraft's page and halfwheel. halfwheel calls the Ecuadorian filler leaf Puntiao where the maker says Habano 2000 Viso."
+ },
+ {
+  "brand": "Tradecraft",
+  "line": "Azorian",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado, 7th priming",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Dominican Republic (Criollo 98 Seco, Corojo Ligero), Ecuador (Habano 2000 Ligero), USA (Pennsylvania Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "earth",
+   "baking spice",
+   "rum"
+  ],
+  "about": "Tradecraft's medium-bodied habano, made at Tabacalera William Ventura in Tamboril. The name refers to Project Azorian, the CIA's 1974 recovery of a sunken Soviet submarine.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://tradecraftcigars.com/pages/azorian",
+   "https://halfwheel.com/tinderbox-international-owners-launch-tradecraft-cigars/455010/",
+   "https://halfwheel.com/tradecraft-releasing-gladius-belicoso-azorian-corona-gorda-at-pca-2026/464009/"
+  ],
+  "notes": "The 5 1/2 x 46 Corona Gorda is a limited size (150 boxes of 12, 2026). The maker lists Pennsylvania ligero in the filler; halfwheel describes that leaf as Pennsylvania broadleaf.",
+  "verified": true,
+  "verifyNotes": "Confirmed against Tradecraft's page and halfwheel. Trimmed 'full-flavored' from about."
+ },
+ {
+  "brand": "Tradecraft",
+  "line": "Vitruvian",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (grown by ASP)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Dominican Republic (Criollo 98 Seco, Corojo Seco), Ecuador (Habano 2000 Viso), Nicaragua (Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "earth",
+   "mineral",
+   "cream"
+  ],
+  "about": "Tradecraft's Connecticut-wrapped line, a mild to medium toro blended with Wiber Ventura in the Dominican Republic. It comes in one size.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://tradecraftcigars.com/pages/vitruvian",
+   "https://halfwheel.com/vitruvian/464166/",
+   "https://halfwheel.com/tradecraft-cigars-begins-shipping-the-vitruvian/461357/"
+  ],
+  "notes": "Announced with the brand in October 2025 but did not ship until late January 2026. One size only so far. The maker's filler list also names Connecticut leaf alongside the Habano 2000.",
+  "verified": true,
+  "verifyNotes": "Confirmed against Tradecraft's page and halfwheel. The maker lists the Ecuadorian filler as 'Tripa de Capa Habano 2000 & CT' while halfwheel says Puntiao viso; added a note about the Connecticut leaf. Removed a marketing line from about."
+ },
+ {
+  "brand": "Tradecraft",
+  "line": "Shinobi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (high priming)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Olor Viso), Nicaragua (Condega Viso, Jalapa Viso), USA (Connecticut Broadleaf Viso)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cinnamon",
+   "cocoa",
+   "saffron"
+  ],
+  "about": "Tradecraft's fourth core line, a full-bodied Sumatra-wrapped cigar with an all-viso filler. It is made by Hostos Fernandez Quesada at Tabacalera La Isla in Santiago and named for the Japanese word for ninja.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://tradecraftcigars.com/pages/shinobi",
+   "https://halfwheel.com/tradecraft-cigars-announces-shinobi-as-fourth-core-line/481053/"
+  ],
+  "notes": "Announced October 2026. It launched first through Luxury Cigar Club, with other retailers to follow in December 2026. Unlike the other Tradecraft lines, it is not made at William Ventura.",
+  "verified": true,
+  "verifyNotes": "Confirmed against Tradecraft's page and halfwheel's Oct. 5, 2026 announcement. Wrapper country (Ecuador) comes from halfwheel; the maker says only Sumatra."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Chateau Real Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "brown sugar"
+  ],
+  "about": "The maduro version of Drew Estate's budget Chateau Real. The original was discontinued along with the rest of the line, and a San Andrés-wrapped Toro now appears at Famous Smoke.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.famous-smoke.com/chateau-real-maduro-toro-cigars-maduro",
+   "https://halfwheel.com/drew-estates-chateau-real-gets-habano-version-for-cigars-international-exclusive/441349/"
+  ],
+  "notes": "Status is unclear: halfwheel said in August 2024 the Maduro was still discontinued, but Famous Smoke now lists a new San Andrés maduro Toro. Specs here are from that Famous listing; binder and filler are not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, strength and size confirmed on the Famous Smoke listing, the only page found with specs; it still shows a coming-soon placeholder photo. Could not cross-check with a maker page."
+ }
+]

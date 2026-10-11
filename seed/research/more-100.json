@@ -1,0 +1,798 @@
+[
+ {
+  "brand": "Principle",
+  "line": "Aviator Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Monte Plata on the four original sizes)",
+  "filler": "Dominican Republic, plus USA, Peru, Mexico or Nicaragua depending on the vitola",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Envoi",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Cochon Volant",
+    "length": 5,
+    "ring": 65
+   },
+   {
+    "name": "Vainqueur",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Grande Pyramide",
+    "length": 7.5,
+    "ring": 60
+   },
+   {
+    "name": "Escopette",
+    "length": 7,
+    "ring": 57
+   },
+   {
+    "name": "Patrie",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "Brindille",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cocoa",
+   "cedar",
+   "coffee",
+   "nuts",
+   "spice"
+  ],
+  "about": "A Principle Cigars line made in small batches at Kelner Boutique Factory with Hendrik Kelner Jr., using tobaccos aged at least five years. Each vitola has its own blend, and the blends are adjusted with every production run.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/aviator-series",
+   "https://www.principlecigars.com/aviator-series-envoi",
+   "https://www.principletrading.com/principle-cigars"
+  ],
+  "notes": "The maker calls it an ongoing limited production and reblends each run, so blends vary by vitola and batch. Patrie uses an Ecuadorian Habano hybrid wrapper. Brindille uses a Habano 2000 wrapper over an Ecuadorian Corojo binder.",
+  "verified": true,
+  "verifyNotes": "Removed 'flagship' from about (no source says so). Binder narrowed: Monte Plata applies to the four original sizes only. Swapped one source for the maker's about page, which names Kelner Boutique Factory in Santiago. Dropped the store size note. 2013 launch confirmed on principletrading.com/cochon-volant-assortiment."
+ },
+ {
+  "brand": "Principle",
+  "line": "Aviator Tenth Anniversary Espoir",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (three varietals)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Espoir",
+    "length": 9.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "cedar",
+   "leather"
+  ],
+  "about": "A very long, slim 9 1/2 x 46 cigar added to the Aviator Series for its tenth anniversary. Founder Darren Cioffi designed the format so a fast smoker can keep the cigar cool.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/principle-cigars-releases-aviator-espoir/435760/",
+   "https://www.principlecigars.com/aviator-series-espoir"
+  ],
+  "notes": "One size within the Aviator Series. Rolled in a single run in January 2023 and released in March 2024, limited to 200 boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Aviator Night Flight",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A darker version of the Aviator Series made only when unusually dark, oily wrapper leaves turn up during sorting. The maker describes it as fuller and richer than the standard Aviator of the same vitola.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/aviator-series-night-flight",
+   "https://www.principletrading.com/cochon-volant-assortiment",
+   "https://www.principletrading.com/principle-cigars"
+  ],
+  "notes": "Not a fixed blend or size. It uses the darkest wrapper leaves from a regular Aviator run with fillers shifted to higher primings, so the numbers made are unpredictable. The maker says it is never announced and is slipped into retailer shipments.",
+  "verified": true,
+  "verifyNotes": "Added the maker's about page as the source for the factory. Country and factory are those of the Aviator Series; the Night Flight page itself does not name them."
+ },
+ {
+  "brand": "Principle",
+  "line": "Aviator Angel of Mercy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pyramide",
+    "length": 8.5,
+    "ring": 60
+   },
+   {
+    "name": "Prominente",
+    "length": 8.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A charity project within the Aviator Series, named after the rescue aircraft once called Angels of Mercy. It is made in small quantities and aged for years before being offered.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/aviator-series-angel-of-mercy"
+  ],
+  "notes": "The maker does not publish the blend or factory for this one. The current batch was made in 2019 and has been aging since.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Accomplice Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Cotui)",
+  "filler": "Dominican Republic, USA, Mexico",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toasted grain",
+   "cream",
+   "earth",
+   "spice"
+  ],
+  "about": "The core blend of Principle's more approachable Accomplice line, an Ecuadorian Habano 2000 wrapper over a Dominican Cotui binder. The maker describes it as a balanced medium-bodied cigar with a classic Dominican profile.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/accomplice-classic",
+   "https://www.principletrading.com/accomplice"
+  ],
+  "notes": "Accomplice dates to 2013, but this is a recent reblend the maker calls the new Accomplice. The maker does not name the factory for the Classic. A 7 x 39 Lancero is listed as arriving in fall 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Accomplice Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "fruit",
+   "baking spice"
+  ],
+  "about": "The maduro version of Principle's Accomplice line, with a Mexican San Andres wrapper over Nicaraguan and Dominican tobaccos. The current blend is made at Casa Carrillo.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/accomplice-maduro",
+   "https://www.principletrading.com/accomplice"
+  ],
+  "notes": "The maker's word for the strength is medium-plus. This is a recent reblend; an older Accomplice Maduro is still sold as Legacy Accomplice Maduro. A 7 x 58 Nightstick size has been announced.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Accomplice Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Monte Plata)",
+  "filler": "Dominican Republic, USA, Mexico",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "toasted grain",
+   "wood"
+  ],
+  "about": "The Connecticut version of Principle's Accomplice line, with an Ecuadorian Connecticut wrapper over a Dominican Monte Plata binder. The maker describes it as clean and creamy with a light touch of acidity.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/accomplice-connecticut",
+   "https://www.principletrading.com/accomplice"
+  ],
+  "notes": "Part of the recently reblended Accomplice range. The maker does not name the factory or give a strength rating, only that it sits in a lighter register.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Accomplice Holiday Bauble",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres maduro (2025 edition)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bauble",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "Principle's annual Christmas release, a 4 1/2 x 60 perfecto rounded at both ends to look like a tree ornament. The size stays the same each year but the blend is new every time.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/principle-releases-2025-accomplice-holiday-bauble/457675/",
+   "https://www.principletrading.com/accomplice-bauble",
+   "https://halfwheel.com/principle-cigars-releases-2023-accomplice-holiday-baubles/432191/"
+  ],
+  "notes": "The blend shown is the 2025 edition, the first with a maduro wrapper. It changes every year: 2023 used an Ecuadorian HVA wrapper and the 2024 wrapper was not disclosed. Sold singly and in boxes of four.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Accomplice 10th Anniversary Decienne",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Decienne",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "bread",
+   "nuts",
+   "coffee",
+   "licorice",
+   "mint"
+  ],
+  "about": "A one-time 2023 release marking ten years of the Accomplice line, and the first collaboration between Principle and E.P. Carrillo. It comes in a single 6 1/2 x 54 size.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/accomplice-decienne",
+   "https://www.principletrading.com/accomplice-decienne",
+   "https://halfwheel.com/2023-release-list/"
+  ],
+  "notes": "Made at E.P. Carrillo's factory, which halfwheel lists as Tabacalera La Alianza. The maker says Cigar Journal named it one of its Top 25 cigars of 2023.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Martinique",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Monte Plata)",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 39
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cream",
+   "citrus",
+   "baking spice",
+   "wood",
+   "dried fruit",
+   "nuts"
+  ],
+  "about": "Principle's Connecticut line, built to bring Aviator-style complexity to a creamy Ecuadorian Connecticut cigar. It is one blend in a few sizes, made at Kelner Boutique Factory.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/martinique",
+   "https://halfwheel.com/principle-martinique-corona/476786/",
+   "https://www.principletrading.com/martinique"
+  ],
+  "notes": "The maker gives no strength; the rating here is from halfwheel's review of the Corona. The maker's store lists the filler as Dominican and Nicaraguan instead of Dominican and USA. The Corona arrived in June 2026, first as a Small Batch Cigar exclusive.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Angelique",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mareva",
+    "length": 5.125,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee"
+  ],
+  "about": "A long-filler Connecticut cigar from Principle with a lightly sweetened tip. The maker says the sweetness is felt on the lips and not in the smoke.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/angelique",
+   "https://www.principletrading.com/angelique"
+  ],
+  "notes": "This has a sweetened tip. The maker does not publish the blend, factory or a strength rating, and says only that it is not about weight or force. A 4 1/2 x 40 Demi is a Fuselage exclusive.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Petits Provocateurs Flechette",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Flechette",
+    "length": 6,
+    "ring": 26
+   }
+  ],
+  "flavors": [],
+  "about": "A very thin 6 x 26 handmade long-filler cigar, the first release in Principle's Petits Provocateurs line of small formats. In a cigar this slim the wrapper and binder supply most of the flavor.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/petits-provocateurs",
+   "https://www.principletrading.com/petits-provocateurs"
+  ],
+  "notes": "Flechette is the only size in the Petits Provocateurs line so far. The maker does not name the factory or give a strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Frothy Monkey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Cotui",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Signature",
+    "length": 5,
+    "ring": 39
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "dark chocolate",
+   "earth"
+  ],
+  "about": "A cigar made by Principle with the Frothy Monkey coffee shops of Nashville, blended to be smoked with coffee. The maker credits much of the flavor to a rare Dominican Cotui wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.principlecigars.com/frothy-monkey",
+   "https://www.principletrading.com/frothy-monkey"
+  ],
+  "notes": "The maker names only the wrapper; binder, filler, factory and strength are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Boy Band Volume 1: Legendary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma, Tabacalera Diaz Cabrera, Kelner Boutique Factory, Casa Carrillo, TABADEX",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A five-cigar box in which five Dominican cigar makers each blended a 6 x 50 toro inspired by Nina Simone's 1965 album I Put a Spell on You. The makers are Jochy Blanco, Eladio Diaz, Henke Kelner, Ernesto Perez-Carrillo and Manolo Quesada.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/principle-ships-boy-band-vol-1/445061/",
+   "https://www.principlecigars.com/boy-band",
+   "https://halfwheel.com/2024-release-list/"
+  ],
+  "notes": "Five different blends, so no single wrapper: Blanco used US Connecticut, Diaz Ecuador, Kelner Ecuador Habano hybrid, Carrillo Ecuador Habano, Quesada Ecuador Corojo. Each came from its blender's own factory, except Kelner's, made at his son's Kelner Boutique Factory. 5,000 boxes of five.",
+  "verified": true,
+  "verifyNotes": "Corrected notes: Kelner has no factory of his own, so his cigar was made at his son's Kelner Boutique Factory (halfwheel review of the Henkie)."
+ },
+ {
+  "brand": "Principle",
+  "line": "Commonwealth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil",
+  "filler": "Dominican Republic, Nicaragua, USA, Peru, Paraguay, Cameroon, Mexico, Honduras",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Commonwealth",
+    "length": 6.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Principle cigar blended from tobaccos of ten countries, with a half leaf of each of eight filler tobaccos. All 3,000 were rolled by one roller in an empty Kelner Boutique Factory during the March 2020 shutdown.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/commonwealth",
+   "https://www.principletrading.com/commonwealth"
+  ],
+  "notes": "Only 3,000 were made, in March 2020. Each comes in a numbered coffin with a matching certificate. The maker gives no strength rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Archive Collection Engagement",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "bread",
+   "cream",
+   "floral"
+  ],
+  "about": "A limited Archive Collection release dressed in original 1920s chromolithographic bands and box labels. It is a 5 3/4 x 46 corona made at Casa Carrillo with mostly Nicaraguan tobacco.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/archive-collection-engagement",
+   "https://halfwheel.com/principle-cigars-engagement/471174/",
+   "https://halfwheel.com/principle-cigars-releases-engagement/463239/"
+  ],
+  "notes": "The maker calls it medium-bodied, while halfwheel's review found the strength mostly mild. The varietals are not disclosed. halfwheel reports 8,000 to 10,000 cigars, soft launched in late 2025 and shipped nationally in March 2026.",
+  "verified": true,
+  "verifyNotes": "Notes: halfwheel's news story says 8,000 cigars and its review says 10,000, so the count is now given as a range. Review strength was mild on two cigars and near medium-full on one."
+ },
+ {
+  "brand": "Principle",
+  "line": "Archive Collection Haberdasher",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano hybrid",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Cotui)",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Haberdasher",
+    "length": 6,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 6 x 55 Archive Collection cigar sold in packs of five bundled in a vintage necktie, with bands styled after a 1960s shirt tag. It was released for Christmas 2025 and made at Kelner Boutique Factory.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/archive-collection-haberdasher",
+   "https://halfwheel.com/principle-cigars-releases-haberdasher/458515/",
+   "https://www.principletrading.com/haberdasher"
+  ],
+  "notes": "The maker describes it as light to medium in body. Sold only in five-packs, each wrapped in a different vintage tie. The first run was small, and the founder has said it may return.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Archive Collection Time to Burn",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Zimbabwe (Burma)",
+  "filler": "Dominican Republic, Zimbabwe",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An Archive Collection cigar on which every band is an original antique watch dial from a watchmaker's bench, so no two are alike. The original blend pairs an Ecuadorian Habano 2000 Rosado wrapper with Zimbabwean and Dominican tobaccos.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/archive-collection-time-to-burn",
+   "https://halfwheel.com/principle-cigars-releases-time-to-burn-maduro/436959/"
+  ],
+  "notes": "The maker does not name the factory or give a strength for the original. The maker lists the binder as Burma (Zimbabwe). A Maduro version followed in March 2024.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Archive Collection Time to Burn Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Mexico, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro follow-up to Time to Burn, a 6 1/2 x 52 toro with a Mexican San Andres wrapper made at Casa Carrillo. Each of the 5,000 cigars wears a different antique watch dial as its band.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/principle-cigars-releases-time-to-burn-maduro/436959/",
+   "https://www.principlecigars.com/archive-collection-time-to-burn"
+  ],
+  "notes": "Limited to 5,000 cigars, released in March 2024. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Archive Collection Straphanger",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Dark Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Straphanger",
+    "length": 6,
+    "ring": 45
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "dark fruit",
+   "citrus",
+   "spice"
+  ],
+  "about": "The first release in Principle's Archive Collection, banded with original 1940s British bus tickets. It has a dark Ecuadorian Corojo wrapper over an Ecuadorian binder and Dominican filler.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/archive-collection-straphanger",
+   "https://www.principletrading.com/straphanger"
+  ],
+  "notes": "The maker's main site lists the size as 6 x 45 and its store lists 6 x 46. No strength rating is published. Sold as singles and five-packs.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

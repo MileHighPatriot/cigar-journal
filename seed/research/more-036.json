@@ -1,0 +1,870 @@
+[
+ {
+  "brand": "Fratello",
+  "line": "Camo Nicaragua Connecticut Sweet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Estelí Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A bundle cigar in the Connecticut Sweet blend of Fratello's Camo Nicaragua series, made at Karen Berger's Estelí Cigars factory in Nicaragua. It is the Nicaraguan-made counterpart to the Dominican Camo bundles that La Aurora produces.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/fratello-camo-nicaragua-bundles-begin-shipping/427937/",
+   "https://halfwheel.com/fratello-camo-nicaragua-debuting-at-tpe-2023/420245/"
+  ],
+  "notes": "Fratello does not disclose the blend, so the wrapper type comes from the name only and no strength is published. Sold in bundles of 25. Do not confuse with the Dominican Camo Connecticut Sweet in Robusto and Toro, which La Aurora makes.",
+  "verified": true,
+  "verifyNotes": "Removed 'sweet-tipped' and 'value-priced' from about: neither halfwheel page says the cap is sweetened. Fixed the Dominican line's name in notes. Wrapper stays as the blend name only, since Fratello does not disclose the blend."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Concealed Carry 18th Amendment",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The first of six Prohibition-themed releases in Fratello's Concealed Carry sub-brand, a one-time small batch sold in 12-count cans. It is named for the constitutional amendment that began Prohibition.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-ships-concealed-carry-18th-amendment/437726/",
+   "https://halfwheel.com/fratello-announces-concealed-carry-cigars/436358/"
+  ],
+  "notes": "Blend and factory are secret. Fratello says only that Concealed Carry cigars come from undisclosed factories in the Dominican Republic, Honduras and Nicaragua. About 1,000 cans of 12, sold through no more than 75 stores.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Concealed Carry Detroit River",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The second release in Fratello's Prohibition-themed Concealed Carry series, a one-time small batch sold in 12-count cans. It is named for the river that bootleggers used to smuggle liquor during Prohibition.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-shipping-concealed-carry-detroit-river-next-week/440725/",
+   "https://halfwheel.com/2024-release-list/"
+  ],
+  "notes": "Blend and factory are secret. Fratello says only that Concealed Carry cigars come from undisclosed factories in the Dominican Republic, Honduras and Nicaragua. 1,000 cans of 12, sold through no more than 75 stores.",
+  "verified": true,
+  "verifyNotes": "Dropped 'from Canada' from about: the source only says the river was used to smuggle liquor."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Concealed Carry Speakeasy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The third release in Fratello's Prohibition-themed Concealed Carry series, a one-time small batch sold in 12-count cans. It is named for the hidden bars of the Prohibition era.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratellos-third-concealed-carry-release-speakeasy-heading-to-stores-this-week/443810/",
+   "https://cigar-coop.com/2024/10/fratello-cigars-announces-concealed-carry-speakeasy-cigar-news.html"
+  ],
+  "notes": "Blend and factory are secret. halfwheel's Speakeasy story gives the size as 5 1/4 x 54, while Cigar Coop and halfwheel's other series coverage say 5 1/2 x 54. 1,000 cans of 12, sold through no more than 75 stores.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Concealed Carry Bootlegger",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The fourth release in Fratello's Prohibition-themed Concealed Carry series, a one-time small batch sold in 12-count canisters. It is named for the liquor smugglers of the era.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-begins-shipping-concealed-carry-bootlegger/448781/",
+   "https://halfwheel.com/pca-2025-fratello/448792/"
+  ],
+  "notes": "Blend and factory are secret. halfwheel's shipping story gives the size as 5 1/2 x 54, while its PCA 2025 report says 5 1/4 x 54. 1,000 canisters of 12.",
+  "verified": true,
+  "verifyNotes": "Removed the Cigar Coop size claim from notes: no Cigar Coop Bootlegger page was in the sources and I could not open one."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Concealed Carry Prohibition Ends",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "The fifth of six releases in Fratello's Prohibition-themed Concealed Carry series of one-time small batches. It came out in 2025, between Bootlegger and the final AA 1935.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/2025-new-cigars/",
+   "https://halfwheel.com/fratello-announces-aa-1935-the-sixth-and-final-concealed-carry-release/456252/"
+  ],
+  "notes": "Blend and factory are secret. No size or count is published for this release, though Fratello said all six Concealed Carry cigars would share the same 5 1/2 x 54 size. halfwheel lists it as a September 2025 release.",
+  "verified": true,
+  "verifyNotes": "Reworded notes to drop the research-diary phrasing. No page gives a size or count for this release, so sizes stays empty."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Concealed Carry AA 1935",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The sixth and final release in Fratello's Prohibition-themed Concealed Carry series, a one-time small batch sold in 12-count jars. The name refers to 1935, the year Alcoholics Anonymous was founded, two years after Prohibition ended.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-announces-aa-1935-the-sixth-and-final-concealed-carry-release/456252/",
+   "https://cigar-coop.com/2025/11/fratello-cigars-announces-concealed-carry-aa1935-as-final-installment-of-prohibition-series-cigar-news.html"
+  ],
+  "notes": "Blend and factory are secret. 1,000 jars of 12. halfwheel reports $12 per cigar, Cigar Coop reports $10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "The Pelican",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (including andullo), USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Louisiana-only cigar in Fratello's state exclusive series, made at La Aurora and distributed by PF Importers, the company co-owned by Karl Malone. Its filler includes Dominican andullo, a tobacco cured in tightly wrapped pods and more often used for pipes.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratellos-the-pelican-arriving-at-louisiana-retailers/419639/",
+   "https://halfwheel.com/2023-release-list/"
+  ],
+  "notes": "Limited to 250 boxes of 20 (5,000 cigars), sold only in Louisiana. Fratello calls it medium to full bodied; no separate strength rating is published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Fratello",
+  "line": "Florida",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habana 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Corojo seco, Criollo 98, Piloto Cubano ligero)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Dominican puro in Fratello's state exclusive series, made at La Aurora for retailers in Florida. It debuted at the ABC Fine Wine & Spirits chain.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/fratello-florida-debuts-at-abc-fine-wine-and-spirits/415947/",
+   "https://halfwheel.com/2022-release-list/"
+  ],
+  "notes": "Sold only through Florida retailers. The first run was 10,000 cigars (500 boxes of 20), and Fratello had not said whether more would follow. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "production changed from limited to null: halfwheel's release list classes it as a new line, and the article says only the initial run was 10,000 cigars with no word on further production."
+ },
+ {
+  "brand": "Fratello",
+  "line": "La Floridan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Brazil, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Fratello revival of a Tampa cigar brand dating to 1909, made at La Aurora with an Ecuadorian-grown Cameroon wrapper. It launched through the ABC Fine Wine & Spirits stores in Florida.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/fratello-launches-la-floridan-at-abc-fine-wine-spirits/415292/"
+  ],
+  "notes": "First run was 12,000 cigars sold only at ABC Fine Wine & Spirits. Fratello said it planned to make the line ongoing and widen distribution, so it may not be limited. The maker calls it full flavored with a medium body.",
+  "verified": true,
+  "verifyNotes": "production changed from limited to null: the source says the first run was limited but that Fratello intends it as an ongoing line."
+ },
+ {
+  "brand": "Fratello",
+  "line": "DMV Virginia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Colombia, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Virginia (2018)",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Virginia (2019)",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Pocahontas",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The Virginia cigar in Fratello's DMV series, a regional release made at La Aurora for retailers around Washington, D.C., where the company is based. The Pocahontas size was added in 2024.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-pocahontas-begins-shipping/443965/",
+   "https://halfwheel.com/fratello-ships-d-m-v/286015/",
+   "https://halfwheel.com/fratello-releases-dmv-2019/369653/"
+  ],
+  "notes": "Blend shown is halfwheel's 2024 description. Its 2018 report gave an Ecuadorian HVA wrapper, Ecuadorian Sumatra binder and Dominican, Nicaraguan and U.S. filler, and the 2019 Virginia used an Ecuadorian corojo wrapper. A separate DMV Virginia Maduro (6 x 50) is made by Joya de Nicaragua.",
+  "verified": true,
+  "verifyNotes": "about: replaced 'Northern Virginia home', which no source states, with halfwheel's wording that Fratello is based in the Washington, D.C. area. Trimmed notes to under 350 characters."
+ },
+ {
+  "brand": "Fratello",
+  "line": "Cowbell",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A pigtail-capped robusto that Fratello made at La Aurora as an exclusive for retailers in Switzerland. It was scheduled to launch on August 1, 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/fratello-cowbell-a-swiss-exclusive-launching-on-aug-1/474621/",
+   "https://halfwheel.com/2026-new-cigars/"
+  ],
+  "notes": "Sold only in Switzerland, 4,000 cigars in boxes of 20. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "about: the source only gives a scheduled launch date, so 'launched' became 'was scheduled to launch'."
+ },
+ {
+  "brand": "PDR",
+  "line": "Flores y Rodriguez 18th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Maduro",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Piloto Cubano seco and ligero), Nicaragua (Jalapa viso)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Millefleurs Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Wide Churchill",
+    "length": 5.125,
+    "ring": 58
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "spice"
+  ],
+  "about": "PDR Cigars' 18th anniversary line, a variation on the Flores y Rodriguez 10th Anniversary that swaps the Ecuadorian habano wrapper for an Ecuadorian Sumatra maduro. The filler includes seven-year-old Dominican piloto cubano.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pdr-cigars-ships-flores-y-rodriguez-18th-anniversary/431504/",
+   "https://halfwheel.com/pca-2023-pdr-cigars/424735/",
+   "https://www.famous-smoke.com/brand-pdr-flores-y-rodriguez-18th-anniversary"
+  ],
+  "notes": "The maker publishes no strength. Famous Smoke lists the strength as full but describes the cigar as medium bodied, so treat the rating as approximate.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "PDR",
+  "line": "Flores y Rodriguez Connecticut Valley Reserve Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador, Nicaragua (Jalapa)",
+  "filler": "Dominican Republic (Corojo 2006), Nicaragua (Criollo 98, Condega)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "cedar",
+   "black pepper",
+   "vanilla",
+   "cream"
+  ],
+  "about": "A higher-priced PDR release built around a seven-year-old Connecticut broadleaf maduro wrapper over a double binder. It first shipped in late 2015 in wide 15-count boxes and returned in later batches, including 19-count jars.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/flores-y-rodriguez-connecticut-valley-reserve-belicoso/103831/",
+   "https://halfwheel.com/pdr-cigars-announces-flores-y-rodriguez-connecticut-valley-reserve-gen2/138979/",
+   "https://www.famous-smoke.com/brand-flores-y-rodriguez-connecticut-valley-reserve-maduro"
+  ],
+  "notes": "halfwheel's review called strength and body medium, while Famous Smoke lists it as full. The 2017 Gen2 batch dropped the Ecuadorian binder. PDR's site now lists Connecticut Valley Reserve Roja and Azul under A. Flores 1975 instead of this name.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to under 350 characters and removed the stock remark."
+ },
+ {
+  "brand": "PDR",
+  "line": "Jose Rey Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "hay",
+   "cream",
+   "spice"
+  ],
+  "about": "The Connecticut-wrapped blend in PDR's sweet-tipped Jose Rey line of value bundles. Jose Rey revives one of the first brands PDR made, originally for the New Orleans retailer Don Leoncio.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/jose-rey/jose-rey-connecticut/",
+   "https://halfwheel.com/pdr-cigars-to-release-jose-rey-at-ipcpr-2019/361049/",
+   "https://www.famous-smoke.com/brands/pdr-cigars/pdr-jose-rey"
+  ],
+  "notes": "Sweet-tipped cap. Sold in bundles or boxes of 25. Strength is from Famous Smoke (mellow to medium); the maker gives none.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "PDR",
+  "line": "Jose Rey Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The San Andrés maduro blend in PDR's sweet-tipped Jose Rey line of value bundles. Jose Rey revives one of the first brands PDR made, originally for the New Orleans retailer Don Leoncio.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/jose-rey/jose-rey-maduro/",
+   "https://halfwheel.com/pdr-cigars-to-release-jose-rey-at-ipcpr-2019/361049/",
+   "https://www.famous-smoke.com/brands/pdr-cigars/pdr-jose-rey"
+  ],
+  "notes": "Sweet-tipped cap. Sold in bundles or boxes of 25. No strength is published for this blend; Famous Smoke describes the Jose Rey line overall as mellow to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "PDR",
+  "line": "Jose Rey Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The Sumatra-wrapped blend in PDR's sweet-tipped Jose Rey line of value bundles. Jose Rey revives one of the first brands PDR made, originally for the New Orleans retailer Don Leoncio.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.pdrcigars.com/jose-rey/jose-rey-sumatra/",
+   "https://halfwheel.com/pdr-cigars-to-release-jose-rey-at-ipcpr-2019/361049/",
+   "https://www.famous-smoke.com/brands/pdr-cigars/pdr-jose-rey"
+  ],
+  "notes": "Sweet-tipped cap. Sold in bundles or boxes of 25. Strength is from Famous Smoke (medium bodied); the maker gives none.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "PDR",
+  "line": "ACME Seleccion No. 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Seco and Ligero), USA (Connecticut Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice"
+  ],
+  "about": "A Connecticut-wrapped line that PDR's Abe Flores relaunched for the Pohler family, who are known as cigar sales reps in the southern U.S. It comes in 10-count boxes styled after 1940s and 1950s packaging.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-pdr-cigars/424735/",
+   "https://www.famous-smoke.com/brand-pdr-acme-seleccion-no-1"
+  ],
+  "notes": "Strength is from Famous Smoke; the maker gives none.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "PDR",
+  "line": "Value Line Reserve Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A mixed-filler Connecticut bundle cigar from PDR, usually shortened to VLR Connecticut. PDR used to make it for Thompson Cigar and gave it a wider release to shops in 2023.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-pdr-cigars/424735/",
+   "https://www.famous-smoke.com/brand-pdr-value-line-reserve-connecticut"
+  ],
+  "notes": "halfwheel lists it as PDR VLR Connecticut, sold in bundles of 15. Strength is from Famous Smoke, which also calls the smoke mellow; the maker gives none. 2023 is the wider store release, and it was a Thompson exclusive before that.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes from four sentences to three. No facts changed."
+ },
+ {
+  "brand": "PDR",
+  "line": "Founders Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Habano), USA (Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Founders Reserve",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A high-priced single-size PDR cigar blended by founders Abe Flores and Luis Rodriguez from tobacco aged more than eight years. It first appeared as a 2026 Procigar Festival auction item before a retail release in 10-count boxes.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2026-pdr-cigars/470088/",
+   "https://cigar-coop.com/2026/02/pdr-cigars-procigar-2026.html"
+  ],
+  "notes": "Rests six months in French oak barrels. Cigar Coop reported the Procigar auction version as 6 1/2 x 50 with a Dominican piloto binder and Dominican habano and criollo 98 filler, which differs from the retail specs shown here. No strength is published.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. The halfwheel release date of August 2026 was still marked planned, so the retail release itself is not confirmed."
+ },
+ {
+  "brand": "PDR",
+  "line": "Small Batch Reserve Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Corojo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chubby",
+    "length": 3.75,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro half of PDR's Small Batch Reserve, a line that dates to 2012 and was among the first cigars from the company's own factory. PDR reintroduced it in 2026 in cabinet-style boxes with new bands and a 4 x 60 Magnum size.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2026-pdr-cigars/470088/",
+   "https://halfwheel.com/review-pinar-del-rio-small-batch-reserve-maduro-prerelease/24195/"
+  ],
+  "notes": "The blend and sizes shown are the 2026 relaunch, which halfwheel lists as Small Batch Reserve Cabinet Maduro. The original 2012 version used a Brazilian Cubra maduro wrapper over a Dominican criollo 98 binder. No strength is published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "PDR",
+  "line": "Small Batch Reserve Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Corojo)",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chubby",
+    "length": 3.75,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The habano rosado half of PDR's Small Batch Reserve line, which shares its Nicaraguan binder and filler with the maduro version. PDR reintroduced it in 2026 in cabinet-style boxes with new bands and a 4 x 60 Magnum size.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2026-pdr-cigars/470088/"
+  ],
+  "notes": "The blend and sizes shown are the 2026 relaunch, which halfwheel lists as Small Batch Reserve Cabinet Rosado. The Small Batch Reserve line itself dates to 2012, but no source gives the year the Rosado first appeared. No strength is published.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

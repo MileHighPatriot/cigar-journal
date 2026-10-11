@@ -1,0 +1,877 @@
+[
+ {
+  "brand": "Chateau Diadem",
+  "line": "Alisio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Chateau Diadem factory (Santiago de los Caballeros)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "almond",
+   "sweet spice",
+   "cocoa",
+   "cream",
+   "black pepper"
+  ],
+  "about": "A Dominican-made line from Chateau Diadem named after the Caribbean trade winds, using an Ecuadorian corojo wrapper in place of the habano 2000 on Conviction. It was introduced as a creamier, more affordable option in three sizes.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.chateaudiadem.com/alisio",
+   "https://www.cigarjournal.com/chateau-diadem-launches-two-new-cigars/"
+  ],
+  "notes": "The maker's strength scale shows medium for the Robusto 52 and Gran Toro and medium to full for the Corona Gorda, and its text calls the Gran Toro full bodied. The co-founder described the line to Cigar Journal as mild to medium. Launched at InterTabac 2026.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and sizes match the maker page. Read the maker's strength bars from the page markup: Corona Gorda sits between medium and full, the other two at medium. Rewrote notes to say that. Body differs by size on the maker page (medium-full and full)."
+ },
+ {
+  "brand": "Chateau Diadem",
+  "line": "Conviction",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Nicaragua (Esteli Criollo), Dominican Republic (Criollo 98, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Chateau Diadem factory (Santiago de los Caballeros)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Robusto",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Petit Belicoso",
+    "length": 4,
+    "ring": 55
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 55
+   },
+   {
+    "name": "Half Corona",
+    "length": 4,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "earth",
+   "nuts",
+   "cream",
+   "wood"
+  ],
+  "about": "The debut blend from Chateau Diadem, the Dominican brand founded by cousins Emily Sahakian and Thierry Farah. It pairs an Ecuadorian habano 2000 wrapper with Dominican and Nicaraguan fillers and is rested six months before release.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.chateaudiadem.com/conviction-cigars",
+   "https://halfwheel.com/chateau-diadem-enters-u-s-market/440663/",
+   "https://www.cigarjournal.com/chateau-diadem-announces-arrival-in-the-us-market/"
+  ],
+  "notes": "Sold in the US as Certitude because of a trademark issue; the cigars are the same. Strength is read from the maker's scale graphic, which sits between medium and full.",
+  "verified": true,
+  "verifyNotes": "All fields match the maker page and halfwheel. Maker strength graphic sits about 70 percent along the scale. Added the Cigar Journal article that supports the 2022 launch."
+ },
+ {
+  "brand": "Chateau Diadem",
+  "line": "Certitude",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Nicaragua (Esteli Criollo), Dominican Republic (Criollo 98, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "Chateau Diadem factory (Santiago de los Caballeros)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Robusto",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 55
+   },
+   {
+    "name": "Half Corona",
+    "length": 4,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "earth",
+   "nuts",
+   "cream",
+   "wood"
+  ],
+  "about": "The US-market name for Chateau Diadem's Conviction blend, renamed over a trademark issue. Apart from the name and packaging it is the same Dominican-made cigar with an Ecuadorian habano 2000 wrapper.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.chateaudiadem.com/certitude-cigars",
+   "https://halfwheel.com/chateau-diadem-launching-rebranded-certitude-line-at-pca-2025/447417/"
+  ],
+  "notes": "Same cigar as Conviction, which keeps that name outside the US. Launched at PCA 2025 in six sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Chateau Diadem",
+  "line": "Midnight Wonder",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "USA (Connecticut Broadleaf), Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Chateau Diadem factory (Santiago de los Caballeros)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "cedar",
+   "roasted nuts",
+   "pepper"
+  ],
+  "about": "A single-size Chateau Diadem blend built around Connecticut Broadleaf in the filler under an Ecuadorian corojo wrapper. The company says it took nearly three years to develop and treats it as its showpiece cigar.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.chateaudiadem.com/midnight-wonder",
+   "https://www.cigarjournal.com/chateau-diadem-launches-two-new-cigars/"
+  ],
+  "notes": "The Connecticut Broadleaf is in the filler, not the wrapper. The maker describes it as full bodied. Launched at InterTabac 2026.",
+  "verified": true,
+  "verifyNotes": "No field changes. Maker strength bar sits between medium and full; the maker text says full bodied."
+ },
+ {
+  "brand": "Chateau Diadem",
+  "line": "Splendor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Dominican Republic (four varieties)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Diaz Cabrera",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "nutmeg",
+   "dark chocolate",
+   "roasted peanuts",
+   "cream"
+  ],
+  "about": "A collaboration between Chateau Diadem and blender Eladio Diaz, made at his Tabacalera Diaz Cabrera next door to the Chateau Diadem factory in Santiago. It comes in one robusto extra size and is aged a year before release.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.chateaudiadem.com/splendor-cigars",
+   "https://halfwheel.com/chateau-diadem-bringing-splendor-stateside-next-month/465227/",
+   "https://www.cigarjournal.com/chateau-diadems-splendor/"
+  ],
+  "notes": "On sale in Europe since 2024 and in the US from PCA 2026. Cigar Journal's 2024 story called it a limited edition with a Dominican corojo wrapper and five fillers; the maker and halfwheel say Ecuadorian corojo and four Dominican fillers.",
+  "verified": true,
+  "verifyNotes": "No field changes. Trimmed notes slightly."
+ },
+ {
+  "brand": "Chateau Diadem",
+  "line": "Monkey Business",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "Chateau Diadem's value line: handmade medium-filler cigars sold in bundles of 10 in three sizes. The maker describes it as an everyday smoke at a lower price than its long-filler lines.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.chateaudiadem.com/monkey-business-cigars"
+  ],
+  "notes": "Medium filler, not long filler. The maker does not publish the blend, strength or the three sizes.",
+  "verified": true,
+  "verifyNotes": "Maker page confirmed: it publishes no wrapper, blend, strength or size list. Could not look for a second source because web search was unavailable."
+ },
+ {
+  "brand": "Despot",
+  "line": "Serie J",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Esteli viso, Jalapa seco), USA (Pennsylvania viso)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Piramides",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "earth",
+   "leather",
+   "espresso",
+   "cedar"
+  ],
+  "about": "The first line from Despot Cigars, built around four classic formats with one blend. Despot Cigars is the private label of Serbian brothers Jovan and Ugljesa Despot, rolled in Esteli, Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://despotcigars.com/",
+   "https://blindmanspuff.com/despot-series-j-lancero-blind-cigar-review/",
+   "https://luxurycigarclub.com/products/despot-robusto"
+  ],
+  "notes": "The maker rates it medium to full, while Blind Man's Puff and US retailer Luxury Cigar Club call it medium. The factory is not disclosed. Blind Man's Puff lists its release date as April 2022.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and strength match the maker. Reworded the April 2022 note: Blind Man's Puff gives it as the release date and does not say it is the US arrival. Left released null because the maker's site predates that."
+ },
+ {
+  "brand": "Despot",
+  "line": "Serie U",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Jalapa volado, Esteli viso, Jalapa viso)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 44
+   },
+   {
+    "name": "Half Toro",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 49
+   },
+   {
+    "name": "Salomones",
+    "length": 7.5,
+    "ring": 57
+   }
+  ],
+  "flavors": [],
+  "about": "Despot's second line, blended for aroma over strength, with two short formats and two large traditional ones. Despot Cigars is the private label of Serbian brothers Jovan and Ugljesa Despot, rolled in Esteli, Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://despotcigars.com/",
+   "https://www.despotcigars.com/home-e/",
+   "https://luxurycigarclub.com/products/despot-double-corona"
+  ],
+  "notes": "The maker lists an all-Nicaraguan filler. US retailer Luxury Cigar Club shows the Serie J blend with Pennsylvania filler on its Serie U pages. The factory is not disclosed.",
+  "verified": true,
+  "verifyNotes": "No field changes. The maker's two pages differ on the binder (H Ecuador Claro on one, H Ecuador on the other)."
+ },
+ {
+  "brand": "Despot",
+  "line": "Serie Z",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Rosado (Rosado Ecuador Selected)",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "R54",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "T54",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Piramides Grande",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "A Size",
+    "length": 9.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "Despot's third line, using an Ecuadorian rosado wrapper over Jalapa and Ometepe fillers in two 54-ring formats and two large classic shapes. Despot Cigars is the private label of Serbian brothers Jovan and Ugljesa Despot, rolled in Esteli, Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://despotcigars.com/",
+   "https://www.despotcigars.com/home-e/"
+  ],
+  "notes": "The factory is not disclosed and the maker publishes no specific tasting notes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Despot",
+  "line": "Serie V",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Nicaragua (Jalapa, Condega), USA (Pennsylvania Broadleaf)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Piramides",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Corona Grande",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Petit Lancero",
+    "length": 6,
+    "ring": 38
+   },
+   {
+    "name": "Churchill Grande",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "cream"
+  ],
+  "about": "Despot's fourth and fullest line, adding Pennsylvania Broadleaf to the filler and filling in formats the earlier series lacked. Despot Cigars is the private label of Serbian brothers Jovan and Ugljesa Despot, rolled in Esteli, Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://despotcigars.com/",
+   "https://www.despotcigars.com/home-e/"
+  ],
+  "notes": "The maker says the wrapper and binder are the same Habano 2000 from Ecuador. Its blend list names Jalapa and Condega fillers, while its longer description says Ometepe and Jalapa. The factory is not disclosed.",
+  "verified": true,
+  "verifyNotes": "Wrapper and binder made more specific: the maker's description says both are Habano 2000 from Ecuador. Added the maker's own disagreement on filler regions to notes."
+ },
+ {
+  "brand": "Despot",
+  "line": "Libertador",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano Claro)",
+  "filler": "Nicaragua (Jalapa volado, Esteli viso)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A limited edition from Despot Cigars made in honor of Cigar Lounge Libertador in Belgrade, Serbia. It uses an Ecuadorian habano claro wrapper and binder over Nicaraguan filler.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.despotcigars.com/home-e/",
+   "https://despotcigars.com/"
+  ],
+  "notes": "The blend is close to Serie U. The maker does not publish the size, strength or release year.",
+  "verified": true,
+  "verifyNotes": "The researcher left the blend empty, but the maker's English page gives it: H Ecuador Claro wrapper and binder, Volado Jalapa and Viso Esteli fillers. Filled wrapper, binder and filler and added that page as a source. Strength and size are not published."
+ },
+ {
+  "brand": "Despot",
+  "line": "Lazurit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lazurit",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The first limited edition from Despot Cigars, made as a tribute to its Serie J line. It is one large 7.5 by 52 cigar made with tobacco aged at least seven years.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.despotcigars.com/home-e/",
+   "https://despotcigars.com/"
+  ],
+  "notes": "One size only, 7.5 x 52. The maker says every leaf is aged at least seven years but does not publish the blend, strength or release year.",
+  "verified": true,
+  "verifyNotes": "Added the single 7.5 x 52 size and the seven-year aging from the maker's English page, which the researcher missed. The maker gives no vitola name, so the size uses the line name. Wrapper and strength are not published."
+ },
+ {
+  "brand": "EGM Cigars",
+  "line": "Classic",
+  "found": true,
+  "officialName": "Classic Collection",
+  "wrapperLeaf": "Dominican (Cibao Valley)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Encantos",
+    "length": 7.56,
+    "ring": 39
+   },
+   {
+    "name": "Petit Encantos",
+    "length": 5.12,
+    "ring": 39
+   },
+   {
+    "name": "Robustos",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Bravos",
+    "length": 4.69,
+    "ring": 52
+   },
+   {
+    "name": "Escudos",
+    "length": 5.67,
+    "ring": 54
+   },
+   {
+    "name": "Poderosos",
+    "length": 6.54,
+    "ring": 56
+   },
+   {
+    "name": "Tiburones",
+    "length": 4.02,
+    "ring": 52
+   },
+   {
+    "name": "Blecos",
+    "length": 4.72,
+    "ring": 52
+   },
+   {
+    "name": "Media Coronas",
+    "length": 3.54,
+    "ring": 44
+   },
+   {
+    "name": "Diademas",
+    "length": 9.17,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "honey",
+   "white pepper",
+   "leather",
+   "dark chocolate"
+  ],
+  "about": "The core range from EGM Cigars, a Swiss-based house led by Ettore Gabriele Moraschinelli. They are Dominican puros made with Cibao Valley tobacco in Cuban-style formats such as the Laguito sizes.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://egmcigars.com/collections/egm-classic",
+   "https://egmcigars.com/pages/cigar-journal-reviews"
+  ],
+  "notes": "The maker rates each size: Encantos light to medium; Petit Encantos, Robustos, Blecos and Diademas medium; Bravos, Escudos, Poderosos, Tiburones and Media Coronas medium to full. It names no leaf varieties or factory. Sizes are published in millimetres.",
+  "verified": true,
+  "verifyNotes": "All ten sizes match the maker's millimetre specs. Fixed the per-size strength list in notes (Tiburones and Media Coronas are also medium to full; Petit Encantos and Diademas are medium). Strength kept at Medium as the middle of the range. The 2022 year rests on the maker store's product dates (first five sizes listed September 2022)."
+ },
+ {
+  "brand": "EGM Cigars",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Linea Maduro",
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "ABAM Cigars S.R.L.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rios",
+    "length": 6.02,
+    "ring": 46
+   },
+   {
+    "name": "Floridos",
+    "length": 5.51,
+    "ring": 52
+   },
+   {
+    "name": "Maximos",
+    "length": 5.2,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "earth",
+   "black pepper",
+   "cocoa",
+   "leather"
+  ],
+  "about": "EGM's first blend that is not a Dominican puro, putting an American-grown Broadleaf maduro wrapper over Cibao Valley binder and filler. It comes in three sizes and is rolled by hand in Santo Domingo.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://egmcigars.com/collections/egm-maduro",
+   "https://halfwheel.com/egm-maduro-maximos/473000/",
+   "https://egmcigars.com/products/egm-maduro-floridos"
+  ],
+  "notes": "The maker says only American-grown Broadleaf; halfwheel identifies it as Pennsylvania Broadleaf and the factory as ABAM Cigars in Santo Domingo. The maker rates it medium to full, and halfwheel's reviewer put it closer to medium-plus. Sizes are published in millimetres.",
+  "verified": true,
+  "verifyNotes": "Cross-checked against halfwheel's review. Wrapper changed from USA Broadleaf to Pennsylvania Broadleaf and factory filled in as ABAM Cigars S.R.L., both from halfwheel. halfwheel confirms regular production and an April 2026 release. Its rounded sizes are 6 x 46, 5 1/2 x 52 and 5 1/4 x 56."
+ },
+ {
+  "brand": "EGM Cigars",
+  "line": "Empyrean",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo 2006 (shade grown)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Criollo 98, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "ABAM S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Heraldos",
+    "length": 5.12,
+    "ring": 55
+   },
+   {
+    "name": "Praxedes",
+    "length": 5.71,
+    "ring": 57
+   },
+   {
+    "name": "Paraisos",
+    "length": 6.69,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "earth",
+   "honey",
+   "cream"
+  ],
+  "about": "The top line from EGM Cigars, a Dominican puro of aged Cibao Valley tobacco in three sizes with foot bands naming each vitola. It was unveiled in London in autumn 2025.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://egmcigars.com/collections/egm-empyrean",
+   "https://egmcigars.com/blogs/the-egm-journal/egm-empyrean-the-names-behind-the-cigars",
+   "https://www.cigarjournal.com/egm-launches-empyrean-line/"
+  ],
+  "notes": "An ongoing line, but the maker says it is made in very limited quantities. Sizes are published in millimetres (130 x 55, 145 x 57, 170 x 52). Praxedes is a pyramid and Paraisos has a pigtail cap.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend and factory confirmed on the maker's blog post. halfwheel's 2025 launch story called the factory undisclosed, and elsewhere names EGM's factory as ABAM Cigars S.R.L. in Santo Domingo."
+ },
+ {
+  "brand": "EGM Cigars",
+  "line": "Ninfa",
+  "found": true,
+  "officialName": "Ninfas",
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "ABAM Cigars S.R.L.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Ninfa",
+    "length": 7,
+    "ring": 34
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "black pepper",
+   "wood"
+  ],
+  "about": "A single long, thin 178 mm by 34 ring cigar from EGM that revives the old Ninfa format. It is a Dominican puro rolled by hand with Cibao Valley tobacco.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://egmcigars.com/products/egm-ninfas",
+   "https://halfwheel.com/egm-ninfa/472728/",
+   "https://www.cigarjournal.com/egm-revives-the-nynfa-vitola/"
+  ],
+  "notes": "One size only, sold in boxes of 10 and 25. The blend is seco-dominant Dominican tobacco; Cigar Journal reports two years of age and halfwheel three. It debuted in Kuwait on February 9, 2026. halfwheel names the factory; the maker does not.",
+  "verified": true,
+  "verifyNotes": "Cross-checked against halfwheel's review, which lists the factory as ABAM Cigars S.R.L., regular production and a February 9, 2026 release. Filled in factory, added flavors from that review, swapped one Cigar Journal link for the halfwheel review, and noted the two sources differ on tobacco age."
+ },
+ {
+  "brand": "EGM Cigars",
+  "line": "Alexander Kraft",
+  "found": true,
+  "officialName": "Alexander Kraft Selection",
+  "wrapperLeaf": "Dominican Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robustos",
+    "length": 4.88,
+    "ring": 50
+   },
+   {
+    "name": "Private Reserve",
+    "length": 5.67,
+    "ring": 54
+   },
+   {
+    "name": "Churchill Homage",
+    "length": 6.54,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "vanilla",
+   "honey",
+   "cream",
+   "leather",
+   "spice"
+  ],
+  "about": "A collaboration between EGM Cigars and entrepreneur Alexander Kraft: three pigtail-capped formats made in the Dominican Republic. The box lid carries a logo honoring Kraft's late dog.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://egmcigars.com/collections/alexander-kraft-cigars",
+   "https://egmcigars.com/products/alexander-kraft-selection-x-egm-cigars-robustos",
+   "https://egmcigars.com/pages/cigar-journal-reviews"
+  ],
+  "notes": "The maker describes Connecticut wrappers while also calling the cigars Dominican puros, and Cigar Journal lists the wrapper origin as Dominican Republic. The Robusto came first in 2023 and the two larger sizes followed in 2024.",
+  "verified": true,
+  "verifyNotes": "Robustos length corrected from 4.75 to 4.88: the maker's product spec says 124 mm and Cigar Journal says 4 7/8, although the maker's collection page says 4 3/4. The other two lengths now use the maker's millimetre specs (144 and 166 mm). Removed the claim that the Robusto was announced as a limited edition, which no page I opened states. Fixed about: the dog logo is on the box lid. Release years rest on the maker store's product dates."
+ },
+ {
+  "brand": "EGM Cigars",
+  "line": "Bravos x Tuxedo Society",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (Cibao Valley)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bravos",
+    "length": 4.69,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A co-branded version of EGM's Bravos, made with the Tuxedo Society. It is a Dominican puro in the Laguito No. 4 format, 119 mm by 52 ring, sold in boxes of 10.",
+  "released": 2025,
+  "production": null,
+  "sources": [
+   "https://egmcigars.com/products/egm-bravos-tuxedo-society",
+   "https://egmcigars.com/products/egm-cigars-bravos"
+  ],
+  "notes": "This is the Bravos size from EGM's Classic Collection with co-branded bands and box. The maker does not say whether it is a limited run, and does not name leaf varieties or the factory.",
+  "verified": true,
+  "verifyNotes": "No field changes. The 2025 year rests on the maker store's product date (listed December 2025)."
+ }
+]

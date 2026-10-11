@@ -1,0 +1,1039 @@
+[
+ {
+  "brand": "Paul Stulac",
+  "line": "Blue Lightning Sky",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "leather",
+   "black pepper",
+   "chocolate",
+   "red pepper"
+  ],
+  "about": "A four-size regular line from Paul Stulac Cigars with an Ecuadorian Sumatra wrapper over Nicaraguan binder and filler. It is rolled at Las Villas Cigars in Nicaragua under Guillermo Pena.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/paul-stulacs-blue-lightning-sky-heads-to-stores/462091/",
+   "https://halfwheel.com/paul-stulac-blue-lightning-sky-lancero/464397/"
+  ],
+  "notes": "Soft-launched in July 2025 as a 6 x 52 toro called the Katman Edition; the full four-size line shipped in early 2026. Privada Cigar Club lists the blend as undisclosed and gives slightly different sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Paul Stulac",
+  "line": "Red Screaming Sun",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Sumatra",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "black pepper",
+   "coffee",
+   "oak",
+   "nuts"
+  ],
+  "about": "A long-running Paul Stulac blend with a Connecticut Broadleaf wrapper over a Sumatra binder and Nicaraguan filler. It was first rolled in Miami by Guillermo Pena and is now made in Nicaragua.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/paul-stulac-screaming-red-mr-brown/74577/",
+   "https://halfwheel.com/paul-stulac-red-screaming-sun-lancero-returns-to-the-u-s/295743/",
+   "https://blindmanspuff.com/blind-cigar-review-paul-stulac-red-screaming-sun-robusto/"
+  ],
+  "notes": "Privada lists a Habano Rosado wrapper, but halfwheel, Cigar Coop and Blind Man's Puff all say Connecticut Broadleaf. First rolled in Miami, it moved to Tabacalera La Perla in Nicaragua by 2019. The toro was 6 x 56 in 2014 lists; halfwheel's 2026 size list for the brand gives 6 x 52.",
+  "verified": true,
+  "verifyNotes": "Toro changed from 6 x 56 to 6 x 52: halfwheel (Feb 2026) says Blue Lightning Sky comes in the same four sizes as Red Screaming Sun and lists the toro as 6 x 52; the 6 x 56 figure is from 2014. Reworded about (three core lines now, not two) and trimmed notes. Factory left null because halfwheel (La Perla, 2019) and Privada (Las Villas) differ."
+ },
+ {
+  "brand": "Paul Stulac",
+  "line": "White Blinding Light",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "leather",
+   "pepper",
+   "cedar",
+   "nutmeg"
+  ],
+  "about": "A long-running Paul Stulac blend sold in the same four sizes as Red Screaming Sun. Reviews describe a dark Ecuadorian Habano wrapper over a Sumatra binder and Nicaraguan filler.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://blindmanspuff.com/blind-cigar-review-paul-stulac-white-blinding-light/",
+   "https://halfwheel.com/paul-stulacs-blue-lightning-sky-heads-to-stores/462091/",
+   "https://privadacigarclub.com/products/paul-stulac-white-blinding-light-toro"
+  ],
+  "notes": "Sources disagree. Blind Man's Puff gives a dark Ecuadorian Habano wrapper and medium to strong strength; Privada lists Ecuadorian Connecticut Shade, mild to medium, and a 6 x 56 toro. First rolled in Miami; Privada now lists Las Villas in Esteli, Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, strength and 2012 date confirmed on Blind Man's Puff. Country rests on Privada's page plus halfwheel's 2019 report that Guillermo Pena moved production to Nicaragua; the older review says USA. Reworded about and trimmed notes."
+ },
+ {
+  "brand": "Paul Stulac",
+  "line": "El Nuevo Comienzo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Jalapa Corojo 99)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera La Perla",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "red pepper",
+   "cedar"
+  ],
+  "about": "Paul Stulac's 2020 return to the market, with a name that means The New Beginning. The regular production version is a Connecticut Broadleaf robusto extra sold through the Limited Cigar Association.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/paul-stulac-el-nuevo-comienzo-goes-regular-production/390936/",
+   "https://halfwheel.com/el-nuevo-comienzo-paul-stulac-exclusiva/382756/",
+   "https://halfwheel.com/paul-stulac-cigars-debuts-el-nuevo-comienzo-with-privada-cigar-club/380728/"
+  ],
+  "notes": "Two different blends carry this name. The regular production one is the Paul Stulac Exclusiva (5 1/2 x 54, broadleaf). The Privada Limitada (5 x 54) uses a Mexican San Andres wrapper over a Habano 2000 binder and was a Privada exclusive.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Paul Stulac",
+  "line": "No Dress Code",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A limited series Paul Stulac started in late 2013 to ship cigars fresh off the rolling table, wrapped in newspaper. Each release is a tweaked or one-off blend in its own size.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/review-paul-stulac-dress-code-vitola-torpedo-prerelease/44867/",
+   "https://halfwheel.com/paul-stulac-teases-new-dress-code-line/44638/",
+   "https://privadacigarclub.com/products/paul-stulac-no-dress-code"
+  ],
+  "notes": "The blend changes by release. The 2013 debut was a 6 x 56 torpedo rolled in Miami, a tweaked White Blinding Light (Ecuadorian Habano wrapper, Sumatra binder, Nicaraguan filler). Privada lists a Sumatra Rosado toro and torpedo made at Las Villas in Esteli; that is not confirmed elsewhere.",
+  "verified": true,
+  "verifyNotes": "No single blend to verify: halfwheel confirms each release is a different tweaked or one-off blend, so wrapper, country and strength stay null. 2013 debut and limited status confirmed. Trimmed notes."
+ },
+ {
+  "brand": "Paul Stulac",
+  "line": "Miami Style",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A Paul Stulac cigar sold only to Privada Cigar Club members, named for his years in Miami. Privada is the only place it is listed.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://privadacigarclub.com/products/paul-stulac-miami-style"
+  ],
+  "notes": "Privada is the only source. It lists a 6 x 52 toro with a Nicaraguan Habano wrapper over Nicaraguan binder and filler, made at Las Villas in Esteli. Treat the blend as unconfirmed: Privada's listings for other Paul Stulac lines conflict with halfwheel.",
+  "verified": false,
+  "verifyNotes": "Could not cross-check: only the Privada product page lists it, the maker's site is down and halfwheel has nothing. Privada's blend claims are unreliable (its pages for other Stulac lines contradict halfwheel), so wrapper and strength stay null. Country and factory are Privada's statement only."
+ },
+ {
+  "brand": "Paul Stulac",
+  "line": "Black Angel",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A Paul Stulac cigar sold through Privada Cigar Club in singles and boxes of 20. Privada is the only place it is listed.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://privadacigarclub.com/products/paul-stulac-black-angel"
+  ],
+  "notes": "Privada is the only source. It lists a 6 x 60 gordo with a Mexican San Andres maduro wrapper over Nicaraguan binder and filler, full strength, made at Las Villas in Esteli. Treat the blend as unconfirmed: Privada's listings for other Paul Stulac lines conflict with halfwheel.",
+  "verified": false,
+  "verifyNotes": "Could not cross-check: only the Privada product page lists it, the maker's site is down and halfwheel has nothing. Production set to null because Privada does not say it is limited. Wrapper and strength stay null since Privada's blend claims are unreliable; country and factory are Privada's statement only."
+ },
+ {
+  "brand": "Paul Stulac",
+  "line": "Black Fantasma",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A Paul Stulac cigar sold through Privada Cigar Club in singles and boxes of 20. Privada is the only place it is listed.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://privadacigarclub.com/products/paul-stulac-black-fantasma"
+  ],
+  "notes": "Privada is the only source. It lists a 6 x 56 toro grande with a Mexican San Andres maduro wrapper over Nicaraguan binder and filler, full strength, made at Las Villas in Esteli. Treat the blend as unconfirmed: Privada's listings for other Paul Stulac lines conflict with halfwheel.",
+  "verified": false,
+  "verifyNotes": "Could not cross-check: only the Privada product page lists it, the maker's site is down and halfwheel has nothing. Production set to null because Privada does not say it is limited. Wrapper and strength stay null since Privada's blend claims are unreliable; country and factory are Privada's statement only."
+ },
+ {
+  "brand": "1502",
+  "line": "Emerald",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo Habano",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Mexico (San Andres), Nicaragua (Esteli, Condega)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Conquistador",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "honey",
+   "vanilla",
+   "apple",
+   "citrus",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The mildest of the three original 1502 blends from Enrique Sanchez's Global Premium Cigars, box pressed and made at Plasencia in Esteli. The maker calls its style fina fuerte, or fine strong.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.globalpremiumcigars.com/1502-emerald/",
+   "https://halfwheel.com/1502-emerald-lancero/47176/",
+   "https://www.neptunecigar.com/cigar/1502-emerald"
+  ],
+  "notes": "The maker rates it mild plus (about 4 to 4.6 out of 10); Neptune lists it as Mild. All sizes are box pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "1502",
+  "line": "Ruby",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Jalapa, Esteli)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Conquistador",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The middle-strength blend of the three original 1502 lines from Global Premium Cigars. It pairs a dark Ecuadorian wrapper with Nicaraguan tobaccos from Jalapa and Esteli and is made at Plasencia.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.globalpremiumcigars.com/1502-ruby/",
+   "https://halfwheel.com/1502-ruby-lancero/54375",
+   "https://www.neptunecigar.com/cigar/1502-ruby"
+  ],
+  "notes": "The maker only says the wrapper is a dark leaf from Ecuador and does not name the seed. It rates the cigar medium plus (6 to 7 out of 10); Neptune lists Medium. Neptune lists the lancero as 7 x 38, the maker and halfwheel as 7 x 40.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "1502",
+  "line": "Black Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Conquistador",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "wood",
+   "pepper",
+   "chocolate",
+   "fruit"
+  ],
+  "about": "The strongest of the three original 1502 blends from Global Premium Cigars. It uses a dark San Andres maduro wrapper over a double Nicaraguan binder and Nicaraguan filler, and is made at Plasencia.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.globalpremiumcigars.com/1502-black-gold/",
+   "https://halfwheel.com/1502-black-gold-lancero-prerelease/52648",
+   "https://stogiereview.com/2012/10/02/1502-ruby-first-impressions/"
+  ],
+  "notes": "The maker's site only calls the wrapper a maduro sun-grown leaf; halfwheel and Neptune identify it as Mexican San Andres. All sizes are box pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "1502",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa, Condega, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "cocoa",
+   "nuts"
+  ],
+  "about": "A box-pressed Nicaraguan puro from Global Premium Cigars using tobacco from the country's four main growing regions. The maker places it between the Emerald and the Ruby in strength.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.globalpremiumcigars.com/1502-nicaraguan/",
+   "https://halfwheel.com/1502-nicaragua-robusto-prerelease/57311",
+   "https://www.neptunecigar.com/cigar/1502-nicaragua"
+  ],
+  "notes": "The maker's site also spells it 1502 Nicaraguan. It is sometimes called 1502 White for its white band. The maker describes it as medium plus; Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "1502",
+  "line": "Blue Sapphire",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan maduro (Jalapa)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar"
+  ],
+  "about": "A Nicaraguan puro with a dark maduro wrapper, introduced by Global Premium Cigars at the 2016 trade show. It is made at Plasencia in Esteli.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/1502-adding-sapphire-blue-at-ipcpr-2016/122645/",
+   "https://halfwheel.com/1502-ships-new-robustos-xo-box-pressed-churchill/399679/",
+   "https://www.neptunecigar.com/cigar/1502-blue-sapphire"
+  ],
+  "notes": "Strength varies by source: the maker called it medium-full to full at launch, Neptune's spec says Medium while its description says full strength. halfwheel gives the robusto as 5 x 50; the maker and Neptune list 5 x 52.",
+  "verified": true,
+  "verifyNotes": "Swapped the maker page for Neptune's Blue Sapphire page in sources: the maker page only repeats the 1502 Nicaragua text, while Neptune is where the maduro wrapper and sizes are stated. Dropped the flavor 'dark chocolate', which no source page gives."
+ },
+ {
+  "brand": "1502",
+  "line": "XO",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Conquistador",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "nuts",
+   "coffee",
+   "chocolate",
+   "espresso",
+   "fruit"
+  ],
+  "about": "A limited 1502 release from Global Premium Cigars, made at Plasencia with some tobacco aged 18 years. XO stands for extra old, as in cognac, and boxes are individually numbered.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/1502-xo/110704/",
+   "https://www.globalpremiumcigars.com/aged-masterpiece-selection/",
+   "https://www.neptunecigar.com/cigar/1502-xo"
+  ],
+  "notes": "The blend is not disclosed; the wrapper is dark. The maker calls it mild plus (5 to 6.4 out of 10), while Neptune lists Medium strength and calls it full bodied. The first release was a 6 x 50 toro in 1,502 numbered boxes of 10; other sizes followed.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Mild-Medium: the maker's page and halfwheel both say the company rates it mild plus, and Cigar Coop says mild to medium; Medium was Neptune's figure. Removed 'top-of-the-line' from about and added the maker's rating to notes. Blend confirmed undisclosed."
+ },
+ {
+  "brand": "1502",
+  "line": "Aniversario 10",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "coffee",
+   "chocolate",
+   "wood",
+   "nuts"
+  ],
+  "about": "A single-size toro released in 2022 to mark ten years of Global Premium Cigars and the 1502 brand. Unlike the other 1502 lines, it is made by AJ Fernandez rather than Plasencia.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/1502-aniversario-10/415767/",
+   "https://www.neptunecigar.com/cigar/1502-aniversario-10"
+  ],
+  "notes": "An anniversary cigar that is ongoing regular production, not a limited edition.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Viejo Continente",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa, Habano)",
+  "filler": "Nicaragua (Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Brevium",
+    "length": 4.375,
+    "ring": 56
+   },
+   {
+    "name": "Robustum",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Maximum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood"
+  ],
+  "about": "The core line from El Viejo Continente, a Nicaraguan brand founded by Spanish tobacconist Daniel Guerrero. It uses an Ecuadorian wrapper over Nicaraguan tobaccos from Jalapa and Condega.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.elviejocontinente.com/portfolio/robustum-classic-cigar-el-viejo-continente/",
+   "https://halfwheel.com/el-viejo-continente-heading-to-ipcpr-2016/121546/",
+   "https://www.neptunecigar.com/cigar/el-viejo-continente"
+  ],
+  "notes": "The maker calls the wrapper Ecuador Rosado; halfwheel and Neptune call it Ecuadorian Habano. The maker says medium strength, halfwheel reported medium-full and Neptune lists Full. It came to the US at the 2016 IPCPR show through Tabacos Costa Nicaragua (Tabacosta).",
+  "verified": true,
+  "verifyNotes": "Factory set to null: halfwheel only says Tabacosta brought the brand to the 2016 trade show, and neither the maker nor Neptune names a factory. Moved the Tabacosta link into notes. Sizes and blend confirmed on the maker's pages."
+ },
+ {
+  "brand": "El Viejo Continente",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Piccolo",
+    "length": 3.5,
+    "ring": 44
+   },
+   {
+    "name": "Gran Short",
+    "length": 4.375,
+    "ring": 56
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Major",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Lancero",
+    "length": 7.75,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "wood"
+  ],
+  "about": "The maduro line from El Viejo Continente, with a Mexican San Andres wrapper over Nicaraguan tobaccos from Jalapa and Condega. It comes in five sizes from a small Piccolo to a long Lancero.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.elviejocontinente.com/portfolio/robusto-maduro-cigar/",
+   "https://www.elviejocontinente.com/portfolio/lancero-madur-cigars/",
+   "https://www.neptunecigar.com/cigar/el-viejo-continente-maduro"
+  ],
+  "notes": "The maker lists a Jalapa binder and medium strength; Neptune lists an Ecuadorian Habano binder and Full strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Viejo Continente",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "milk chocolate",
+   "wood"
+  ],
+  "about": "El Viejo Continente's Connecticut blend, a single toro with an Ecuadorian Connecticut wrapper over Nicaraguan tobaccos from Jalapa and Condega. The maker pitches it as an any-time-of-day smoke.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.elviejocontinente.com/portfolio/toro-connecticut-cigars/",
+   "https://www.neptunecigar.com/cigar/el-viejo-continente-connecticut"
+  ],
+  "notes": "The maker calls it mild to medium-mild, while Neptune lists it as Full. The maker gives the toro as 6 1/4 x 60; Neptune sells it as 6 x 56.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Viejo Continente",
+  "line": "Mare Nostrum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Condega, Ometepe)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "La Perla",
+    "length": 4.75,
+    "ring": 40
+   },
+   {
+    "name": "Serie III",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Serie II",
+    "length": 4.75,
+    "ring": 56
+   },
+   {
+    "name": "Serie I",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Culebras",
+    "length": 6,
+    "ring": 40
+   },
+   {
+    "name": "Serie IV",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7.75,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "toast",
+   "pepper",
+   "espresso",
+   "earth",
+   "wood"
+  ],
+  "about": "The fuller line from El Viejo Continente, named after the Roman term for the Mediterranean Sea. It has a dark Ecuadorian wrapper over Nicaraguan tobaccos and comes in several short, thick sizes plus a culebras and a lancero.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.elviejocontinente.com/portfolio/serie-i-mare-nostrum-cigar/",
+   "https://www.elviejocontinente.com/portfolio/lancero-mare-nostrum/",
+   "https://www.neptunecigar.com/cigar/el-viejo-continente-mare-nostrum"
+  ],
+  "notes": "The maker lists an Ecuador Oscuro wrapper with all-Nicaraguan binder and filler, medium to full. Neptune describes a Habano maduro wrapper, Nicaraguan Habano binder and Brazilian plus Nicaraguan filler, Full strength, and a 5 3/4 x 30 culebras.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "El Viejo Continente",
+  "line": "5 Anos",
+  "found": true,
+  "officialName": "Salomón 5 Años",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomón",
+    "length": 7.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A special edition salomon made to mark the fifth anniversary of El Viejo Continente, using tobaccos aged for five years. It comes in boxes of 10.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.elviejocontinente.com/portfolio/salomon-5oaniversario-especial-edition/"
+  ],
+  "notes": "The maker does not publish the blend, only that the tobaccos are aged five years and the cigar is full bodied. It is listed under Special Edition with no production numbers.",
+  "verified": true,
+  "verifyNotes": "Confirmed the maker publishes no wrapper, binder or filler for this cigar; size, country and strength match the maker's page."
+ },
+ {
+  "brand": "El Viejo Continente",
+  "line": "Edicion Esteli",
+  "found": true,
+  "officialName": "Edición Estelí",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Estelí",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A special edition from El Viejo Continente built entirely from Esteli-area tobacco as a tribute to the region. The maker says it was the first box-pressed cigar made at its factory.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.elviejocontinente.com/portfolio/esteli/"
+  ],
+  "notes": "The maker says only that it is 100% Esteli tobacco, from Esteli and Pueblo Nuevo, and does not name the wrapper leaf or say which leaf is binder or filler. It is a box-pressed special edition in boxes of 10, with no production numbers.",
+  "verified": true,
+  "verifyNotes": "Binder and filler reduced to Nicaragua: the maker lists the blend as Esteli and Pueblo Nuevo without saying which is binder or filler. Wrapper leaf confirmed as not published. Trimmed notes."
+ },
+ {
+  "brand": "El Viejo Continente",
+  "line": "Don Juan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexico San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega, Ometepe, Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Don Juan",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A special edition from El Viejo Continente with a Mexican San Andres wrapper over Nicaraguan tobaccos from four regions. It is sold in boxes of 10.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.elviejocontinente.com/portfolio/don-juan-special-edition/"
+  ],
+  "notes": "Listed by the maker under Special Edition, with no production numbers published.",
+  "verified": true,
+  "verifyNotes": "Removed 'box-pressed' from about: the maker's Don Juan page does not say so in its description, only in a page title shared with the Esteli edition."
+ }
+]

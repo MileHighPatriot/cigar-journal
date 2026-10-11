@@ -1,0 +1,775 @@
+[
+ {
+  "brand": "EP Carrillo",
+  "line": "Pledge Purple",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-grown Havana seed (extended aged)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico",
+  "filler": "Nicaragua (Estelí, Condega, Ometepe)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An extension of the Perez-Carrillo Pledge line from Casa Carrillo, launched in 2026 with purple bands and boxes. It keeps the Pledge's Connecticut Havana-seed wrapper, now aged close to ten years, over a new Mexican binder and Nicaraguan filler.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://casacarrillocigars.com/pledgepurple/",
+   "https://halfwheel.com/casa-carrillo-launching-pledge-purple-in-march/462571/",
+   "https://halfwheel.com/perez-carrillo-pledge-purple-robusto-coming-next-week/481219/"
+  ],
+  "notes": "Limited to 3,500 boxes of 10 per size, shipped in batches through the year. The toro came out in March 2026 and the box-pressed robusto in October 2026. Sold under the Perez-Carrillo name by Casa Carrillo, the company formerly called E.P. Carrillo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Pledge of Allegiance",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Connecticut seed)",
+  "filler": "Nicaragua (Condega, Jalapa, Estelí)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Rockets",
+    "length": 6.375,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "A patriotic limited edition from Casa Carrillo that has shipped each year around Flag Day and the Fourth of July since 2023. The name joins two other Perez-Carrillo lines, Pledge and Allegiance.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://casacarrillocigars.com/pledgeofallegiance/",
+   "https://halfwheel.com/casa-carrillos-pledge-of-allegiance-returns-for-fourth-installment/472906/",
+   "https://halfwheel.com/perez-carrillo-pledge-of-allegiance-rockets/453668/"
+  ],
+  "notes": "The blend changes by year, and the details listed are the 2026 toro. The 2023 to 2025 editions used a Connecticut Broadleaf wrapper. The toro is 1,776 boxes of 10 each year, and the 2026 Rockets is a separate blend not yet announced.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and removed the retailer aside. Blend, strength and sizes confirmed on the maker page and halfwheel."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Deep Blue",
+  "found": true,
+  "officialName": "Deep Blue Limited Edition 2026",
+  "wrapperLeaf": "Nicaraguan Jalapa",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "wood",
+   "nuts",
+   "leather",
+   "white pepper"
+  ],
+  "about": "An ocean-themed limited edition in the Perez-Carrillo brand from Casa Carrillo, released in 2026 in one 6 x 56 size. It pairs a Jalapa wrapper with a Honduran binder and Nicaraguan filler.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://casacarrillocigars.com/deep-blue/",
+   "https://halfwheel.com/perez-carrillo-deep-blue-limited-edition-2026/474232/",
+   "https://www.neptunecigar.com/cigar/casa-carrillo-deep-blue"
+  ],
+  "notes": "The maker lists strength as Medium Plus and Neptune lists Medium. Limited to 2,500 numbered boxes of 20. It previewed at Smoke Inn's Great Smoke in March 2026 and shipped nationally in May.",
+  "verified": true,
+  "verifyNotes": "No changes. Maker says Medium Plus, which is not one of the allowed values; Medium kept to match Neptune."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Encore Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés viso)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.375,
+    "ring": 52
+   },
+   {
+    "name": "Bulwarks",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "cream",
+   "wood"
+  ],
+  "about": "A stronger, broadleaf-wrapped offshoot of the Perez-Carrillo Encore from Casa Carrillo. The wrapper is fermented for 18 months and aged three years, and the cigar is box-pressed.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://casacarrillocigars.com/encoreblack/",
+   "https://halfwheel.com/perez-carrillo-encore-black/439259/",
+   "https://halfwheel.com/casa-carrillo-to-release-perez-carrillo-encore-black-bulwarks-this-summer/453028/"
+  ],
+  "notes": "Regular production, first sold on Black Friday 2023 at Fox Cigar Bar in Arizona and shipped nationally in March 2024. The Bulwarks perfecto was added in July 2025. The original Encore is a Nicaraguan puro, so this is a different blend.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Fields confirmed on the maker page and halfwheel."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Encore Noir",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Majestic No. 2",
+    "length": 5.375,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "chocolate",
+   "pepper"
+  ],
+  "about": "A limited Perez-Carrillo Encore extension from Casa Carrillo made mainly for markets outside the United States. It looks much like Encore Black but is a different blend.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/perez-carrillo-encore-noir/451959/",
+   "https://halfwheel.com/e-p-carrillo-adds-encore-noir-and-encore-edicion-unica/438094/",
+   "https://halfwheel.com/perez-carrillo-encore-noir-ii-released/474673/"
+  ],
+  "notes": "The blend listed is the original 2024 Noir, 3,000 boxes of 10 a year with only 500 for US events. Encore Noir II (July 2026) is a different, all-Nicaraguan blend in a 6 1/8 x 50 toro called Celestial No. 2, limited to 1,500 boxes of 10. The wrapper variety and strength are not published.",
+  "verified": true,
+  "verifyNotes": "Noted that no strength is published: the maker has no page for this line and halfwheel gives none. Other fields confirmed on halfwheel."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Encore Edición Unica",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Solidarios",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Perez-Carrillo Encore release from Casa Carrillo built from well-aged tobacco and sold only outside the United States. Each edition is a single size.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/e-p-carrillo-adds-encore-noir-and-encore-edicion-unica/438094/",
+   "https://halfwheel.com/perez-carrillo-encore-edicion-unica-ii-released-for-international-markets/475792/"
+  ],
+  "notes": "International markets only, and no strength is published. The blend listed is the 2024 original, 1,500 boxes of 10. Edición Unica II (July 2026) is all Nicaraguan tobacco aged at least five years, a 6 1/4 x 54 toro extra with a 109 head called Amigos, limited to 1,100 numbered boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Noted that no strength is published: the maker has no page for this line and halfwheel gives none. Other fields confirmed on halfwheel."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "La Historia Silk",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano (Quevedo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí), USA (Pennsylvania Broadleaf), Dominican Republic (La Canela, Pelo de Oro), Mexico (San Andrés)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness",
+   "spice",
+   "cedar",
+   "nuts"
+  ],
+  "about": "A sub-line of Perez-Carrillo La Historia blended by Lissette Perez-Carrillo and inspired by women. The final blend was picked by a panel of retailers and women cigar smokers from three wrapper options.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://casacarrillocigars.com/la-historia-silk/",
+   "https://halfwheel.com/perez-carrillo-la-historia-silk/455309/",
+   "https://halfwheel.com/casa-carrillo-releases-second-batch-of-la-historia-silk/476048/"
+  ],
+  "notes": "Made in limited batches: 1,500 boxes of 10 in August 2025 and 2,500 boxes in August 2026. The binder and filler were undisclosed at launch and published with the second batch. Part of the 2026 proceeds go to Dress for Success Miami.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Ascend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Saddle",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Ridge",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Peak",
+    "length": 6.25,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "leather",
+   "earth",
+   "black pepper",
+   "cinnamon"
+  ],
+  "about": "A regular production Perez-Carrillo line from Casa Carrillo introduced at the 2026 PCA trade show. The three sizes are named for mountain landforms and the blend is meant to change as it burns.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://casacarrillocigars.com/ascend/",
+   "https://halfwheel.com/perez-carrillo-ascend-ridge/479905/",
+   "https://www.neptunecigar.com/cigar/casa-carrillo-ascend"
+  ],
+  "notes": "The maker lists strength as Medium Plus and Neptune lists Medium. The Ridge size has an oval press, and all sizes come in boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Oval press is only documented for the Ridge, so the note no longer applies it to every size. Added the Neptune page the strength note relies on in place of the halfwheel announcement."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Essence Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua, Honduras",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "almond",
+   "coffee",
+   "white pepper",
+   "sugar"
+  ],
+  "about": "The first blend in the E.P. Carrillo Essence Series, a group of lower-priced lines that each showcase a different wrapper. This one is built around an Ecuadorian Sumatra leaf with two binders.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://casacarrillocigars.com/essencesumatra/",
+   "https://halfwheel.com/e-p-carrillo-sumatra-robusto/442105/",
+   "https://halfwheel.com/e-p-carrillo-ships-essence-series-sumatra-maduro/439813/"
+  ],
+  "notes": "The band and box read E.P. Carrillo Sumatra. Essence Series is the name of the collection. The maker rates it medium in strength and body but full in flavor.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Essence Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate",
+   "sugar",
+   "black pepper"
+  ],
+  "about": "The second blend in the E.P. Carrillo Essence Series, positioned as an everyday maduro. It uses a Mexican San Andrés wrapper over a Honduran binder and Nicaraguan filler.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://casacarrillocigars.com/essencemaduro/",
+   "https://halfwheel.com/e-p-carrillo-maduro-coming-later-this-month/438557/",
+   "https://halfwheel.com/e-p-carrillo-ships-essence-series-sumatra-maduro/439813/"
+  ],
+  "notes": "The band and box read E.P. Carrillo Maduro. Essence Series is the name of the collection. The maker rates it medium in strength and body but full in flavor.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Essence Honduras",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Olancho San Agustín",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente (Plasencia)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "oak",
+   "earth"
+  ],
+  "about": "The third blend in the E.P. Carrillo Essence Series, centered on Honduran tobacco. It is made for the company by the Plasencia family in Honduras rather than at the Carrillo factory.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://casacarrillocigars.com/essencehonduras/",
+   "https://halfwheel.com/e-p-carrillo-honduras-heads-to-stores/443357/",
+   "https://halfwheel.com/e-p-carrillo-honduras-gordo/444958/"
+  ],
+  "notes": "The band and box read E.P. Carrillo Honduras. It is not rolled in the Dominican Republic like most Carrillo cigars. The wrapper gets a two-year fermentation and its seed variety is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Essence Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Criollo 98)",
+  "filler": "Honduras, Dominican Republic",
+  "country": "Honduras",
+  "factory": "Agroindustrias Diadema",
+  "strength": "Mild",
+  "body": "Mild",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "hay",
+   "almond",
+   "white pepper",
+   "cedar"
+  ],
+  "about": "The fourth blend in the E.P. Carrillo Essence Series and the mildest of the group. It has an Ecuadorian Connecticut wrapper and is made in Danlí, Honduras.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://casacarrillocigars.com/essence-connecticut/",
+   "https://halfwheel.com/e-p-carrillo-essence-series-connecticut-heads-to-stores/452165/"
+  ],
+  "notes": "The band and box read E.P. Carrillo Connecticut. It is rolled in Honduras, not at the Carrillo factory. It has a corona in place of the gordo the other Essence blends carry.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "INCH Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown (Jalapa)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "No. 62",
+    "length": 5,
+    "ring": 62
+   },
+   {
+    "name": "No. 60",
+    "length": 5.875,
+    "ring": 60
+   },
+   {
+    "name": "No. 64",
+    "length": 6.125,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "chocolate",
+   "nuts"
+  ],
+  "about": "A Nicaraguan puro in E.P. Carrillo's large ring gauge INCH series, made by the Plasencia family in Estelí with tobacco from their own farms. It was the first INCH made outside the company's Dominican factory.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://casacarrillocigars.com/inch-nicaragua/",
+   "https://halfwheel.com/e-p-carrillo-inch-nicaragua-no-60/413312/"
+  ],
+  "notes": "Tobaccos come from Jalapa, Condega and Estelí. The No. 62 scored 91 in Cigar Aficionado. The INCH name refers to the 64 ring gauge size, which is one inch across.",
+  "verified": true,
+  "verifyNotes": "Halfwheel calls it the first INCH made outside the Dominican factory, not the first Carrillo line, so the about text was corrected."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Short Run",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Oscar Valladares Tobacco & Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "chocolate",
+   "earth",
+   "leather",
+   "nuts",
+   "cinnamon"
+  ],
+  "about": "E.P. Carrillo's series of small-batch limited editions, started in 2010, with a new blend for each release. The 2023 edition was made with Oscar Valladares in Honduras and uses Copán tobacco.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://casacarrillocigars.com/product-page-short-run-2023/",
+   "https://halfwheel.com/e-p-carrillo-short-run-2023-toro/431105/",
+   "https://www.neptunecigar.com/cigar/ep-carrillo-short-run"
+  ],
+  "notes": "Every Short Run is a different blend, and the details listed are the 2023 edition, the first made outside the Dominican Republic. Editions ran yearly from 2010 to 2016, paused, and returned in 2021. The 2023 run was 1,250 boxes of 24 each for the robusto and toro and 625 for the gordo.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and dropped the unsupported claim that 2023 is the latest edition. Halfwheel's text calls the wrapper a binder by mistake; the maker and Neptune confirm Ecuadorian Habano wrapper."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "15 Year Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro (aged 10 years)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa, aged 15 years)",
+  "filler": "Nicaragua (Estelí, Jalapa, Condega), Dominican Republic (La Canela)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "oak",
+   "nuts",
+   "milk chocolate",
+   "black pepper"
+  ],
+  "about": "A limited edition released in November 2024 to mark 15 years since the Perez-Carrillo family started the E.P. Carrillo brand in 2009. It is a single size built on long-aged wrapper and binder leaf.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://casacarrillocigars.com/15-year-anniversary/",
+   "https://halfwheel.com/e-p-carrillo-15-year-anniversary/446493/",
+   "https://www.neptunecigar.com/cigar/ep-carrillo-15-year-anniversary"
+  ],
+  "notes": "Limited to 5,000 boxes of 15, with 3,500 for the US. The maker does not publish a strength: Neptune lists Medium, while halfwheel's review found it building to medium-full. The filler is eight tobaccos aged five to seven years.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Strength rests on Neptune alone; no second retailer page could be opened."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "TAA Exclusive",
+  "found": true,
+  "officialName": "2025 TAA Exclusive",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua, USA",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "Casa Carrillo's 2025 limited edition for shops that belong to the Tobacconists' Association of America. It is a box-pressed toro with a Connecticut Broadleaf wrapper.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/casa-carrillo-taa-2025-shipping-next-month/455520/",
+   "https://www.neptunecigar.com/cigar/casa-carrillo-taa-2025"
+  ],
+  "notes": "Details are for the 2025 edition, 1,000 boxes of 10, the first one branded Casa Carrillo. The company made TAA exclusives in earlier years with different blends. Strength is Neptune's listing, and Neptune lists only Nicaraguan filler where halfwheel lists Nicaragua and the US.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Strength rests on Neptune alone; the maker's press release only says full-bodied."
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Battleborn",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "USA Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico, Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Warriors",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "cream",
+   "wood"
+  ],
+  "about": "A limited Perez-Carrillo release from Casa Carrillo that honors US military veterans, inspired by Navy veteran Lionel McKoy, the company's shipping manager. Part of the sales goes to veteran and first responder charities.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://casacarrillocigars.com/battleborn/",
+   "https://halfwheel.com/perez-carrillo-battleborn-warriors/458109/",
+   "https://halfwheel.com/casa-carrillo-ships-perez-carrillo-battleborn/455724/"
+  ],
+  "notes": "Limited to 2,500 numbered boxes of 20, each with a Battleborn dog tag. It uses two binders. The maker calls it full strength and full bodied, though halfwheel's reviewer found the strength closer to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "EP Carrillo",
+  "line": "Platinum Bash",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "coffee",
+   "pepper"
+  ],
+  "about": "A small limited edition marking Ernesto Perez-Carrillo Jr.'s 70th birthday. Smokers voted on three unbanded blends from an event pack in 2022 and the winner shipped to stores in May 2023.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/e-p-carrillo-platinum-bash-2/441394/",
+   "https://halfwheel.com/e-p-carrillo-ships-platinum-bash/422967/",
+   "https://www.neptunecigar.com/cigar/ep-carrillo-platinum-bash"
+  ],
+  "notes": "Only 500 boxes of 10 were made, so it is very hard to find now. Halfwheel says only that the wrapper is Mexican and Neptune calls it a Mexican maduro, with no growing region published. Strength is from Neptune alone, and halfwheel's reviewer found it mild to medium.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Neptune's page no longer has a spec table, but its description still gives Mexican maduro wrapper and medium strength."
+ }
+]

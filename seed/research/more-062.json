@@ -1,0 +1,833 @@
+[
+ {
+  "brand": "Oliva",
+  "line": "Flor de Oliva Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "coffee",
+   "cedar",
+   "grain",
+   "spice"
+  ],
+  "about": "The Connecticut-wrapped version of Oliva's value-priced Flor de Oliva bundle line, made with Nicaraguan long filler. It is the milder blend in the Flor de Oliva family.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://olivacigar.com/cigars/flor-gold/",
+   "https://www.famous-smoke.com/brand-flor-de-oliva-gold",
+   "https://www.holts.com/cigars/all-cigar-brands/flor-de-oliva-gold.html"
+  ],
+  "notes": "Famous and Neptune list it as mild, Holt's lists it as medium. Oliva only says it is lighter on the palate. Sold in bundles of 20.",
+  "verified": true,
+  "verifyNotes": "Set factory to null: no page names the factory for this line, and halfwheel reported in 2018 that Oliva's second Esteli factory would mainly produce Flor de Oliva Gold. Reworded 'lightest blend' in about. Wrapper, country, sizes and strength confirmed on olivacigar.com, Famous, Holt's and Neptune."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Flor de Oliva Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toast",
+   "nuts",
+   "earth",
+   "cocoa",
+   "pepper"
+  ],
+  "about": "The Corojo-wrapped version of Oliva's value-priced Flor de Oliva bundle line, built on Nicaraguan long filler. Oliva describes it as medium bodied with toasty cedar notes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://olivacigar.com/cigars/flor-corojo/",
+   "https://www.famous-smoke.com/brand-flor-de-oliva-corojo",
+   "https://www.holts.com/cigars/all-cigar-brands/flor-de-oliva-corojo.html"
+  ],
+  "notes": "Oliva calls it medium bodied and lists the wrapper as Ecuador. Famous lists the Corojo wrapper as Nicaraguan. Famous and Holt's rate it full, Neptune medium. Sold in bundles of 20.",
+  "verified": true,
+  "verifyNotes": "Set factory to null: no page names the factory for this line (Holt's only says the Oliva factory in Esteli, and Oliva has two there). Reworded an unsupported comparison in about. Added Neptune's medium rating to notes. Wrapper, country and sizes confirmed on olivacigar.com."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Flor de Oliva Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "coffee",
+   "pepper"
+  ],
+  "about": "The maduro version of Oliva's value-priced Flor de Oliva bundle line, with a dark wrapper over Nicaraguan long filler. It is a sweet, medium-bodied everyday smoke.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://olivacigar.com/cigars/flor-maduro/",
+   "https://www.famous-smoke.com/brand-flor-de-oliva-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/flor-de-oliva-maduro.html"
+  ],
+  "notes": "Sources disagree on the wrapper: Oliva's own page lists Ecuador, while Famous and Holt's list Connecticut Broadleaf maduro. Sold in bundles of 20.",
+  "verified": true,
+  "verifyNotes": "Set factory to null: no page names the factory for this line. Cleaned wrapperLeaf wording. Dropped Neptune from the wrapper note because its own page is inconsistent (spec says Connecticut Broadleaf, description says Nicaraguan). Oliva's Ecuador wrapper, country, sizes and medium strength confirmed."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Serie V Melanio Edición Año",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Edición Año 2022 Lonsdale",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Edición Año 2023 Figuriño",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Edición Año 2024 Gordo",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "Edición Año 2025 Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Edición Año 2026 Perfecto",
+    "length": 5.375,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "Oliva's yearly limited edition of the Serie V Melanio blend, released in a different size each year in boxes of 10. Most editions are round, unlike the box-pressed regular Melanio.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oliva-serie-v-melanio-edicion-ano-2022/423875/",
+   "https://halfwheel.com/oliva-serie-v-melanio-edicion-ano-2024-arriving-in-stores/444076/",
+   "https://halfwheel.com/oliva-serie-v-melanio-edicion-ano-2026-perfecto/466473/"
+  ],
+  "notes": "Same blend as the regular Serie V Melanio in a new size each year. The series began in 2017 as Edición Limitada and was renamed Edición Año in 2022. The 2022 edition was not sold in the U.S.; 2023 was the first U.S. release.",
+  "verified": true,
+  "verifyNotes": "Added factory from halfwheel's Edicion Ano 2022 review spec table. Rewrote about so it is not tied to one year. Trimmed notes. Swapped the 2025 news link for the 2022 review, which has the full spec table. The 2023 first U.S. release and Figurino name were confirmed on halfwheel's Figurino article, the 2025 robusto on its InterTabac 2025 article. Oliva's own pages publish no strength."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Serie V Melanio World Cup 2026",
+  "found": true,
+  "officialName": "Serie V Melanio Gran Reserva Limitada World Cup 2026 Edition",
+  "wrapperLeaf": "Varies: Ecuadorian (Melanio) and Mexican maduro (Melanio Maduro)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A soccer-ball-shaped box of 24 cigars that Oliva released for the 2026 World Cup. It holds 12 Serie V Melanio Double Toros and 12 Serie V Melanio Maduro Double Toros with a special second band.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oliva-creates-soccer-ball-humidor-for-world-cup-2026/466229/",
+   "https://halfwheel.com/pca-2026-oliva/466242/",
+   "https://olivacigar.com/oliva-cigar-serie-v-melanio-world-cup-soccer-edition/"
+  ],
+  "notes": "This is special packaging, not a new blend: the cigars are the regular production box-pressed 6 x 60 Melanio and Melanio Maduro Double Toro. MSRP is $680 per box and production is 5,000 boxes, 4,250 of them for the U.S.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oliva",
+  "line": "Serie V 135th Anniversary",
+  "found": true,
+  "officialName": "Serie V 135th Anniversary Edición Limitada",
+  "wrapperLeaf": "Ecuadorian Habano Sun Grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "almonds",
+   "leather",
+   "coffee",
+   "cinnamon",
+   "black pepper"
+  ],
+  "about": "A limited perfecto in the regular Serie V blend with a rounded cap and a tapered foot, sold in boxes of 12 arranged like a fan. It marks 135 years since Melanio Oliva first grew tobacco in Cuba's Pinar del Río.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oliva-serie-v-135th-anniversary-edicion-limitada/403894/",
+   "https://halfwheel.com/olivas-serie-v-135th-anniversary-increasing-production-becoming-annual-release/405865/",
+   "https://www.neptunecigar.com/oliva/oliva-serie-v-135th-anniversary-edicion-limitada"
+  ],
+  "notes": "Some halfwheel posts give the size as 6 1/2 x 54, but its review spec table and Neptune list 5 1/2 x 54. Neptune calls the wrapper Ecuadorian Sumatra seed. First run was 15,000 boxes of 12; Oliva made it an annual limited release in 2022.",
+  "verified": true,
+  "verifyNotes": "Set body to null: halfwheel's review ends at medium body but Neptune calls it full-bodied, and neither gives a single body rating. Corrected the size note: the 6 1/2 x 54 figure is in halfwheel's review text and shipping post, not only early reports. Wrapper, country, factory, size and medium strength confirmed."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Serie V Roaring Twenties Super Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Perfecto",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A $300 double perfecto in the Serie V blend, the most expensive cigar Oliva has released, sold in boxes of 10 with a gold Les Fines Lames cigar knife. Oliva says proceeds go to its Helping Hands Foundation in Nicaragua.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oliva-serie-v-roaring-twenties-a-300-cigar-heads-to-stores/445001/",
+   "https://halfwheel.com/pca-2023-oliva/424152/",
+   "https://www.cigaraficionado.com/article/oliva-debuting-300-perfecto-with-golden-covering"
+  ],
+  "notes": "Announced in mid 2023, shipped November 2024. Limited to 300 boxes of 10, about 200 for the U.S., at $3,000 per box. Sources only agree the wrapper is Ecuadorian: one halfwheel listing says Sumatra, but the regular Serie V blend it uses is usually listed as Habano sun grown.",
+  "verified": true,
+  "verifyNotes": "Changed wrapperLeaf from Ecuadorian Sumatra to Ecuadorian and wrapperCategory to null: halfwheel's two news stories and Cigar Aficionado only say Ecuadorian, one halfwheel trade show listing says Sumatra, and the regular Serie V blend it shares is listed by halfwheel as Habano Sun Grown and by Oliva as Sun Grown. Added factory from halfwheel's factory tag. Added the Cigar Aficionado article as a source. Softened the charity wording (halfwheel says all revenue, Cigar Aficionado says a portion)."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Limited Edition Helping Hands Foundation Corona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (light)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Grand Corona",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A charity cigar based on the Serie V Melanio blend with a lighter Sumatra wrapper, sold in six-count boxes. Proceeds go to the Oliva Helping Hands Foundation, which supports schooling for children in Nicaragua.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oliva-creates-special-version-of-the-melanio-for-charity/416610/"
+  ],
+  "notes": "A special version of the Serie V Melanio, not a separate line. Launched December 2022 at Casa de Montecristo in Boca Raton at $75 for a box of six. Oliva did not publish a production number.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oliva",
+  "line": "Master Blends 3 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A maduro take on Oliva's Master Blends 3 made for Atlantic Cigar Co. It swaps the original's Connecticut Broadleaf wrapper for an Ecuadorian Habano maduro leaf over the same Nicaraguan binder and filler.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/oliva-master-blends-3-maduro-arrives-at-atlantic-cigar-co/402539/",
+   "https://atlanticcigar.com/oliva-master-blend-3-maduro-double-robusto/"
+  ],
+  "notes": "Exclusive to Atlantic Cigar Co. and sold in bundles of 20. The first batch was 1,500 bundles of each size and it was planned as a yearly release. Atlantic lists it as full strength and spells it Master Blend 3 Maduro.",
+  "verified": true,
+  "verifyNotes": "Filled strength as Full from Atlantic Cigar's product page (the only seller), which also confirms the wrapper and Nicaragua as country. Added that page to sources and noted Atlantic's spelling."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Monticello",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "coffee",
+   "cinnamon",
+   "spice"
+  ],
+  "about": "A soft box-pressed Nicaraguan puro with a dark maduro wrapper, made by Oliva in Estelí from aged tobaccos. It is sold only through Holt's.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/oliva-monticello.html",
+   "https://bespokeunit.com/articles/cigars/oliva-monticello/"
+  ],
+  "notes": "A Holt's exclusive that does not appear on Oliva's own site. Holt's rates it medium-full.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that it was out of stock at Holt's: every size showed an add to cart button, and the out of stock text is page boilerplate. Reworded 'harder to find' in about. Added a Bespoke Unit review as a second source; it confirms the Nicaraguan maduro wrapper, the factory and that it is a Holt's exclusive."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Baptiste Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "coffee",
+   "cedar",
+   "cream",
+   "toast"
+  ],
+  "about": "The mild, Connecticut-wrapped member of the Baptiste family, a value-priced Nicaraguan brand sold only by Famous Smoke Shop. It pairs an Ecuadorian shade wrapper with Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-baptiste-connecticut",
+   "https://www.famous-smoke.com/brands/baptiste-cigars",
+   "https://www.famous-smoke.com/baptiste-connecticut-robusto-cigars-natural"
+  ],
+  "notes": "Famous calls Baptiste Maduro an Oliva exclusive, but the Connecticut page names no maker or factory, so the Oliva link is not confirmed for this blend. The binder is not published. It is not on Oliva's own site.",
+  "verified": true,
+  "verifyNotes": "Tightened the Oliva attribution in notes: Famous's Baptiste brand page calls only the Maduro an Oliva exclusive, and Famous's Oliva brand page does not list Baptiste. Wrapper, country, sizes and mild strength confirmed on Famous."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Inferno 3rd Degree",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "coffee",
+   "cedar"
+  ],
+  "about": "A Nicaraguan puro with a Habano wrapper, made with Oliva for Famous Smoke Shop's Inferno brand. Famous lists it as full strength with pepper, earth and coffee notes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-inferno-3rd-degree",
+   "https://www.famous-smoke.com/inferno-3rd-degree-toro-cigars-natural"
+  ],
+  "notes": "Inferno is a Famous Smoke Shop house brand made with Oliva, not on Oliva's own site. Famous lists strength as full, though its description says medium to full. Described as 100% Nicaraguan tobacco; the binder is not listed separately.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop an unsupported comparison with the original Inferno. Wrapper, country, sizes and full strength confirmed on Famous."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Inferno Scorch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "African Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Africa",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "cedar",
+   "pepper"
+  ],
+  "about": "The Cameroon-wrapped blend in Famous Smoke Shop's Inferno family, made by Oliva with Nicaraguan binder and filler. Famous lists it as medium strength.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-inferno-scorch",
+   "https://www.famous-smoke.com/brands/inferno-cigars/inferno",
+   "https://www.famous-smoke.com/inferno-scorch-toro-cigars-natural"
+  ],
+  "notes": "A Famous Smoke Shop exclusive made by Oliva, not on Oliva's own site. Famous lists the wrapper origin only as African.",
+  "verified": true,
+  "verifyNotes": "Corrected flavors to the ones Famous publishes (removed nuts and spice, added pepper). Reworded about to drop an unsupported comparison. Wrapper, country, sizes and medium strength confirmed on Famous."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Inferno Singe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "dark chocolate",
+   "pepper"
+  ],
+  "about": "A Nicaraguan puro with a sun grown wrapper in Famous Smoke Shop's Inferno family, which is made by Oliva. It comes in boxes of 20 and leans on leather, earth and pepper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-inferno-singe",
+   "https://www.famous-smoke.com/brands/inferno-cigars/inferno",
+   "https://www.famous-smoke.com/inferno-singe-toro-cigars-natural"
+  ],
+  "notes": "A Famous Smoke Shop brand made by Oliva, not on Oliva's own site. Famous's spec sheet says full strength, but its Inferno overview page calls Singe medium bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oliva",
+  "line": "Inferno Flashpoint",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua (Habano ligero, Jalapa)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "earth",
+   "pepper"
+  ],
+  "about": "The second blend in Famous Smoke Shop's Inferno series, made with Oliva in small batches. It puts an Ecuadorian Sumatra wrapper over Nicaraguan Habano ligero and Jalapa filler.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/press-release-famous-smoke-shop-introduces-inferno-flashpoint-cigars/48208/",
+   "https://www.famous-smoke.com/brand-inferno-flashpoint"
+  ],
+  "notes": "A Famous Smoke Shop exclusive made with Oliva. Famous says it is made in limited quantities and released a few times a year, so it is recurring but often out of stock. It launched in Churchill, Robusto and Torpedo; other sizes came later. Binder is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Oliva",
+  "line": "Inferno Flashpoint Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "leather",
+   "earth"
+  ],
+  "about": "The maduro follow-up to Inferno Flashpoint, sold by Famous Smoke Shop and made by Oliva. It wraps a Nicaraguan core in Mexican San Andrés leaf and comes in boxes of 10.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.famous-smoke.com/brand-inferno-flashpoint-maduro",
+   "https://www.famous-smoke.com/inferno-flashpoint-maduro-robusto-cigars"
+  ],
+  "notes": "A Famous Smoke Shop brand made by Oliva, not on Oliva's own site. Famous lists strength as full, though its description says medium to full. Binder is not published. Both sizes were out of stock when checked.",
+  "verified": true,
+  "verifyNotes": "Set production to null: Famous does not say whether it is regular or limited, the parent Flashpoint is a limited batch release, and both sizes were out of stock. Renamed the 6 1/2 x 54 size to Figurado to match Famous's product name. Wrapper, country and full strength confirmed on Famous."
+ },
+ {
+  "brand": "Oliva",
+  "line": "Inferno Melt",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "leather",
+   "earth",
+   "pepper",
+   "espresso"
+  ],
+  "about": "A full-bodied Nicaraguan puro with a dark broadleaf wrapper, made at the Oliva factory only for Famous Smoke Shop's Inferno brand. It is sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-inferno-melt",
+   "https://www.famous-smoke.com/brands/inferno-cigars/inferno",
+   "https://www.famous-smoke.com/inferno-melt-robusto-cigars-natural"
+  ],
+  "notes": "A Famous Smoke Shop exclusive made by Oliva, not on Oliva's own site. Famous calls it a Nicaraguan puro; the binder is not listed separately. All sizes were out of stock when checked.",
+  "verified": true,
+  "verifyNotes": "Removed 'rolled in Esteli' from about: Famous only says the rollers work in Esteli factories. Wrapper, country, sizes and full strength confirmed on Famous."
+ }
+]

@@ -1,0 +1,528 @@
+[
+ {
+  "brand": "Saga",
+  "line": "Blend No. 7",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic, Central America",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "One of the first two Saga blends from the Reyes family's De Los Reyes factory in Santiago, introduced in 2014. The original pairs a reddish Brazilian Cubra wrapper with a Dominican Habano binder.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saga-blend-7-slated-august/64396/",
+   "https://www.neptunecigar.com/cigar/saga-blend-no-7",
+   "https://cigar-coop.com/2024/04/de-los-reyes-cigars-revamps-saga-blend-no-7-cigar-news.html"
+  ],
+  "notes": "Blend shown is the original. Cigar Coop reported a 2024 revamp with an Ecuadorian Habano wrapper over Dominican tobaccos in the same three sizes, so newer boxes may differ. The maker called it medium-bodied; retailers list medium to full strength.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes from four sentences to three. Blend, sizes, country and strength confirmed on halfwheel, Neptune and Corona Cigar. Cigar Coop dates the launch to 2015 while halfwheel shows a 2014 trade show debut; kept 2014. Corona Cigar still lists the Brazilian Cubra blend."
+ },
+ {
+  "brand": "Saga",
+  "line": "Solaz",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (claro)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Olor, Piloto Cubano, Criollo '98)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "white pepper",
+   "bread",
+   "wood"
+  ],
+  "about": "A light Ecuadorian Connecticut cigar from De Los Reyes, launched in 2019 as the company's first mild to medium blend. The binder and filler come from the Reyes family farms in the Dominican Republic, and the name refers to leisure time after work.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saga-solaz-churchill/368653/",
+   "https://halfwheel.com/pca-2023-de-los-reyes/426953/",
+   "https://www.neptunecigar.com/cigar/saga-solaz"
+  ],
+  "notes": "The maker bills it as mild to medium; Neptune and Corona Cigar list it as medium. The 6 x 44 Corona was added in 2023 and comes in 8-count boxes.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'toast', which is not in the halfwheel review or retailer text. Everything else confirmed on halfwheel, Neptune and Corona Cigar."
+ },
+ {
+  "brand": "Saga",
+  "line": "Short Tales Tomo I",
+  "found": true,
+  "officialName": "Short Tales Tomo I: Tales of High Priming",
+  "wrapperLeaf": "Nicaraguan Jalapa (dark, high priming)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Habano, Negrito), USA (Connecticut Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Parejo",
+    "length": 4,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "red pepper",
+   "cocoa",
+   "cedar",
+   "toast"
+  ],
+  "about": "The first volume of Saga's Short Tales series from De Los Reyes, released in 2016 in a box built to look like an old book. It is a short, thick cigar made with high-priming leaf and is known as the strongest of the series.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saga-short-tales-tales-of-high-priming-2/297051/",
+   "https://halfwheel.com/de-los-reyes-launches-short-tales-series/118132/",
+   "https://www.neptunecigar.com/cigar/saga-short-tales"
+  ],
+  "notes": "Each Short Tales tomo is its own blend in a single size, sold in book-style boxes of 10. The series was planned for ten volumes and seven have been released.",
+  "verified": true,
+  "verifyNotes": "Size name changed from 'Short Gordo' to 'Parejo': no source uses Short Gordo; halfwheel and Cigar Coop call it a 4 x 58 parejo. Full strength and body confirmed on halfwheel and Cigar Coop."
+ },
+ {
+  "brand": "Saga",
+  "line": "Short Tales Tomo II",
+  "found": true,
+  "officialName": "Short Tales Tomo II: Tales of the Land Cotuí",
+  "wrapperLeaf": "Dominican (Cotuí)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (Negrito, Piloto), USA (Connecticut Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Torpedo",
+    "length": 4.875,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wheat",
+   "black pepper",
+   "oak",
+   "cinnamon",
+   "cedar"
+  ],
+  "about": "The second Short Tales volume, released in late 2016. It is a short torpedo built around a Dominican wrapper grown in Cotuí on a farm owned by Monika Kelner, and was blended to be lighter in nicotine than Tomo I.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saga-short-tales-tales-of-the-land-cotui/278885/",
+   "https://halfwheel.com/saga-short-tales-tales-land-cotui-emerges/140949/",
+   "https://cigar-coop.com/2018/10/agile-cigar-review-saga-short-tales-tomo-ii-tales-of-the-land-cotui-by-de-los-reyes-cigars.html"
+  ],
+  "notes": "Sources differ on strength: Neptune lists Full, Cigar Coop medium to full, and halfwheel's later review found it closer to medium. Halfwheel gives the size as 4 7/8 x 52; Neptune and Cigar Coop list 5 x 54.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Saga",
+  "line": "Short Tales Tomo III",
+  "found": true,
+  "officialName": "Short Tales Tomo III: L.I.V.",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic (Piloto Cubano Mejorado viso), Brazil (Habano viso)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4.25,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "pepper",
+   "floral"
+  ],
+  "about": "The third Short Tales volume, shown at the 2017 trade show alongside Tomos IV and V. L.I.V. stands for Labor Ipse Voluptas, Latin for the pleasure is in the work itself, and it is a small medium-bodied corona.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/de-los-reyes-unveiling-short-tales-3-4-5-ipcpr-2017/161972/",
+   "https://www.neptunecigar.com/cigar/saga-short-tales",
+   "https://cigar-coop.com/2017/09/cigar-review-saga-short-tales-tomo-iii-l-i-v-labor-ipse-voluptas-by-de-los-reyes-cigars.html"
+  ],
+  "notes": "One blend in one size, sold in book-style boxes of 10. Halfwheel and retailers list 4 1/4 x 42; Cigar Coop lists 4 1/2 x 42.",
+  "verified": true,
+  "verifyNotes": "Flavor 'black pepper' changed to 'pepper' to match Cigar Coop's wording. Blend and medium strength confirmed on halfwheel, Neptune, Corona Cigar and Cigar Coop."
+ },
+ {
+  "brand": "Saga",
+  "line": "Short Tales Tomo IV",
+  "found": true,
+  "officialName": "Short Tales Tomo IV: L.O.V.",
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic (Piloto Cubano), USA (Pennsylvania viso)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "red pepper",
+   "wood"
+  ],
+  "about": "The fourth Short Tales volume, a small perfecto introduced in 2017. L.O.V. stands for Labor Omnia Vincit, Latin for work conquers all.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/de-los-reyes-unveiling-short-tales-3-4-5-ipcpr-2017/161972/",
+   "https://www.neptunecigar.com/cigar/saga-short-tales",
+   "https://cigar-coop.com/2017/10/cigar-review-saga-short-tales-tomo-iv-l-o-v-labor-omnia-vincit-by-de-los-reyes-cigars.html"
+  ],
+  "notes": "One blend in one size, sold in book-style boxes of 10. Neptune lists it as medium; Cigar Coop's review rated both strength and body medium to full.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'baking spice', which Cigar Coop mentions only on the unlit draw. Medium strength rests on Neptune alone; no second retailer or maker rating was found."
+ },
+ {
+  "brand": "Saga",
+  "line": "Short Tales Tomo V",
+  "found": true,
+  "officialName": "Short Tales Tomo V: L.A.V.",
+  "wrapperLeaf": "Ecuadorian Claro",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic (Piloto Cubano Mejorado viso), USA (Connecticut Broadleaf viso)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Small Panatela",
+    "length": 5,
+    "ring": 34
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "leather",
+   "hay",
+   "white pepper",
+   "maple"
+  ],
+  "about": "The fifth Short Tales volume, a thin 5 x 34 panatela with a light Ecuadorian wrapper, introduced in 2017. L.A.V. stands for Laudamus Abundantia Veteres, Latin for we honor the richness of time past.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saga-short-tales-tomo-5-l-v/177883/",
+   "https://halfwheel.com/saga-short-tales-tomo-5-l-a-v/375678/",
+   "https://www.neptunecigar.com/cigar/saga-short-tales"
+  ],
+  "notes": "One blend in one size. Neptune lists it as medium; halfwheel found it starting just above mild and reaching medium at the end, and Cigar Coop rated it mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Saga",
+  "line": "Short Tales Tomo VI",
+  "found": true,
+  "officialName": "Short Tales Tomo VI: The Sixth Element: El Tabaco",
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra (origin undisclosed)",
+  "filler": "Dominican Republic, Nicaragua, North America",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "floral",
+   "oak",
+   "red pepper",
+   "berry",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The sixth Short Tales volume, a 5 1/2 x 58 gordo with a Mexican San Andrés wrapper, released in 2018. It was Cigar Coop's 2019 Cigar of the Year.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saga-short-tales-tomo-vi-the-sixth-element-el-tabaco/286282/",
+   "https://halfwheel.com/saga-short-tales-tomo-vi-the-sixth-element-el-tabaco-2/395201/",
+   "https://cigar-coop.com/2018/11/cigar-review-saga-short-tales-tomo-vi-the-sixth-element-el-tabaco-by-de-los-reyes-cigars.html"
+  ],
+  "notes": "Neptune and Cigar Coop rate it medium, though halfwheel's first review found medium-full strength and full body. Halfwheel lists a Sumatra binder of undisclosed origin, while Cigar Coop lists a Dominican San Vicente binder.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium and body from Full to Medium: Neptune, both Cigar Coop pieces and halfwheel's 2021 re-review all say medium; only halfwheel's 2018 review ran higher. Dropped the 'reviewers often call it the most complex' claim, which came from one reviewer."
+ },
+ {
+  "brand": "Saga",
+  "line": "Short Tales Tomo VII",
+  "found": true,
+  "officialName": "Short Tales Tomo VII: Tales of the Land: Navarrete",
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic (Criollo 98, HVA, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto (box-pressed)",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "earth",
+   "black pepper",
+   "nuts",
+   "cocoa"
+  ],
+  "about": "The seventh and most recent Short Tales volume, a box-pressed robusto released in 2021. It is named for Navarrete, the Dominican town where the Reyes family harvested its first crop of Piloto Cubano tobacco.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/saga-short-tales-tomo-vii-tales-of-the-land-navarrete/403300/",
+   "https://halfwheel.com/de-los-reyes-announces-seventh-saga-short-tales/395633/",
+   "https://cigar-coop.com/2022/10/cigar-review-saga-short-tales-tomo-vii-tales-of-the-land-navarrete-by-de-los-reyes-cigars.html"
+  ],
+  "notes": "One blend in one size, sold in book-style boxes of 10. Neptune lists it as medium; halfwheel and Cigar Coop both found it medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Saga",
+  "line": "Golden Age",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo 2006",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Cuban-seed)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "berry",
+   "pepper",
+   "wood"
+  ],
+  "about": "A Dominican puro with a Corojo 2006 wrapper, introduced in 2014 as one of the first two Saga blends from the Reyes family. The maker describes it as full in both strength and body.",
+  "released": 2014,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/saga-golden-age-coming-reyes/64387/",
+   "https://www.neptunecigar.com/cigar/saga-golden-age",
+   "https://cigar-coop.com/2015/04/cigar-review-saga-golden-age-toro.html"
+  ],
+  "notes": "Current availability is unclear: Neptune shows no stock and Corona Cigar no longer lists it. The maker calls it full strength; Cigar Coop's review found it medium rising to medium-full. The factory was called Corporación Cigar Export when it launched.",
+  "verified": true,
+  "verifyNotes": "Flavor 'black pepper' changed to 'pepper' (Neptune says pepper, Cigar Coop white pepper). Blend, sizes and the maker's full strength rating confirmed on halfwheel, Neptune and Cigar Coop."
+ },
+ {
+  "brand": "Saga",
+  "line": "Golden Age Yamasá",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (Yamasá)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gran Corona",
+    "length": 5.625,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "toast",
+   "black pepper",
+   "cream",
+   "wood",
+   "earth",
+   "cedar"
+  ],
+  "about": "An offshoot of Saga Golden Age that debuted in 2023, built around a Dominican wrapper grown in Yamasá by Monika Kelner. The wrapper is always from a crop four years old, so the 2023 release used 2019 leaf.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/saga-golden-age-yamasa-gran-corona/431655/",
+   "https://www.coronacigar.com/saga-golden-age-yamasa-gran-corona/",
+   "https://cigar-coop.com/2024/09/saga-golden-age-yamasa-by-de-los-reyes-cigars-2023-cigar-review.html"
+  ],
+  "notes": "The maker does not disclose the binder or filler; Corona Cigar and Cigar Coop describe it as a Dominican puro. One size in boxes of 10, with 5,000 boxes for the 2023 release. Retailers rate it medium, while halfwheel found the strength mild to just under medium.",
+  "verified": true,
+  "verifyNotes": "Binder and filler set to null: halfwheel reports the maker is deliberately not disclosing them, and the brief says to leave secret blends null. Wrapper, size, limited status and medium strength confirmed on halfwheel, Corona Cigar and Cigar Coop."
+ },
+ {
+  "brand": "Saga",
+  "line": "Ambar",
+  "found": true,
+  "officialName": "Gem Series: Ambar",
+  "wrapperLeaf": "Dominican (Cibao Valley)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, North America (country undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cinnamon",
+   "cedar",
+   "pepper",
+   "licorice"
+  ],
+  "about": "The first release in Saga's gemstone-themed Gem Series from De Los Reyes, named for Dominican amber. It debuted at InterTabac 2025 and launched in the U.S. at the 2026 PCA show, with ten band designs that form a picture of amber across the box.",
+  "released": 2025,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/saga-gem-series-ambar-debuts-at-intertabac-2025/454771/",
+   "https://cigar-coop.com/2026/05/de-los-reyes-gives-saga-ambar-a-u-s-launch-at-pca-2026-cigar.html",
+   "https://cigar-coop.com/2026/09/saga-ambar-robusto-by-de-los-reyes-cigars-cigar-review.html"
+  ],
+  "notes": "Halfwheel reports some North American filler, while Cigar Coop calls it a Dominican puro. Halfwheel lists the Corona at 5 5/8 x 48 and Cigar Coop at 5 3/4 x 48. The maker describes it as medium-bodied, and it comes in boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes from four sentences to three. Flavor 'black pepper' changed to 'pepper' to match Cigar Coop. Blend, sizes and medium strength confirmed on halfwheel and Cigar Coop."
+ }
+]

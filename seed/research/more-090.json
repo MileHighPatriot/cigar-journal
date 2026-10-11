@@ -1,0 +1,648 @@
+[
+ {
+  "brand": "Flor de Selva",
+  "line": "Colección Nº20",
+  "found": true,
+  "officialName": "Colección Aniversario Nº20",
+  "wrapperLeaf": "Honduran Habano (Jamastrán)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Olancho, Azacualpa)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Egoísta",
+    "length": 3.5,
+    "ring": 56
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Petit-Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Tempo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Honduran puro from Maya Selva Cigars built for the company's 20th anniversary. It grew out of a 2015 limited lancero and became a permanent collection.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.mayaselvacigars.com/single-post/2017/05/17/flor-de-selva-colecci%C3%B3n-aniversario-n%C2%BA20-the-official-2017-release-for-maya-selva-cigars",
+   "https://halfwheel.com/maya-selva-adding-flor-de-selva-no-20-toro-at-intertabac-2020/413795/",
+   "https://www.neptunecigar.com/flor-de-selva-cigar"
+  ],
+  "notes": "Launched in Europe in 2016 and in the U.S. in 2017; the Toro was added in 2022. The maker calls it medium-bodied, while Neptune's write-up says medium to full. The 2015 No. 20 Lancero that inspired it was a separate limited run with a different wrapper.",
+  "verified": true,
+  "verifyNotes": "All blend, size and date fields confirmed against the maker's release and halfwheel. Notes reworded: halfwheel's 2015 review shows the original Lancero used a Honduran Connecticut wrapper, not this blend."
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Año del Tigre 2022",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastrán)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Azacualpa, Olancho)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "roasted coffee",
+   "cream"
+  ],
+  "about": "The Year of the Tiger entry in Maya Selva's annual Lunar New Year series, a Honduran puro made in one toro size and sold in boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/maya-selva-to-celebrate-chinese-new-year-with-ano-del-tigre-2022/401627/",
+   "https://www.mayaselvacigars.com/single-post/new-release-a%C3%B1o-del-tigre-2022-limited-edition"
+  ],
+  "notes": "Shipped in December 2021 for the 2022 Lunar New Year. The wrapper's seed variety is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Año del Conejo 2023",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastrán)",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Azacualpa, Olancho)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "peanut",
+   "earth",
+   "leather",
+   "white pepper",
+   "vanilla"
+  ],
+  "about": "The Year of the Rabbit entry in Maya Selva's Lunar New Year series, a Honduran puro in a single 5 1/2 x 48 size. It was limited to 2,023 boxes of 10.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/flor-de-selva-ano-del-conejo-2023/415275/",
+   "https://halfwheel.com/maya-selva-announces-ano-del-conejo-2023/413800/",
+   "https://www.neptunecigar.com/flor-de-selva-cigar"
+  ],
+  "notes": "Released in fall 2022 for the 2023 Lunar New Year. The wrapper's seed variety is not published; Neptune lists it as a Colorado shade. The packaging honors the Mayan ruler 18 Rabbit of Copán.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Año del Dragón 2024",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastrán)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Azacualpa, Olancho)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Doble Corona",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts"
+  ],
+  "about": "The Year of the Dragon entry in Maya Selva's Lunar New Year series, a Honduran puro in a 7 1/2 x 52 double corona. It was limited to 2,024 boxes of 10.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/maya-selvas-ano-del-dragon-2024-and-new-flor-de-selva-vitolas-begin-shipping/430874/",
+   "https://www.neptunecigar.com/flor-de-selva-cigar"
+  ],
+  "notes": "The maker describes the profile as strong, but Neptune lists it as Medium. Released in late 2023 for the 2024 Lunar New Year. The wrapper's seed variety is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Año de la Serpiente 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastrán)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastrán), Nicaragua (Estelí)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Maya Selva Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pirámide",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth"
+  ],
+  "about": "The Year of the Snake entry in Maya Selva's Lunar New Year series, a 6 1/8 x 52 pirámide with a double binder. It was limited to 2,025 boxes of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/maya-selvas-vz-danli-and-ano-de-la-serpiente-arrive-on-u-s-shelves/444981/",
+   "https://halfwheel.com/maya-selva-debting-vz-danli-and-ano-de-la-serpiente-at-intertabac-2024/442519/"
+  ],
+  "notes": "Strength comes from the maker calling the profile strong. Unlike the earlier zodiac releases it is not a Honduran puro: one binder leaf and part of the filler are Nicaraguan. Made at the company's own factory in Danlí.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against both halfwheel articles. Notes: dropped the word new for the factory, which these pages do not state."
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Año del Caballo 2026",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastrán)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastrán)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Doble Corona",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth"
+  ],
+  "about": "The Year of the Horse entry in Maya Selva's Lunar New Year series, a 7 x 52 double corona with a Jamastrán wrapper and binder. Production was limited to 20,000 cigars.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/maya-selva-to-celebate-30th-anniversary-year-of-the-horse-at-intertabac-2025/454410/",
+   "https://www.mayaselvacigars.com/single-post/flor-de-selva-a%C3%B1o-del-caballo"
+  ],
+  "notes": "The maker mentions the cigar's strength but gives no rating, so strength is left blank. Debuted at InterTabac in September 2025 for the 2026 Lunar New Year.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Año de la Cabra 2027",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Finca San Carlos)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastrán)",
+  "filler": "Honduras (Jamastrán, Azacualpa, Santa Barbara)",
+  "country": "Honduras",
+  "factory": "Fábrica de Puros Maya Selva Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "cedar",
+   "cream"
+  ],
+  "about": "The Year of the Goat entry in Maya Selva's Lunar New Year series, a 6 x 56 Honduran puro with a strip of dark Jamastrán leaf wrapped around the foot. It is limited to 2,027 boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/flor-de-selva-ano-de-la-cabra-2027-debuting-at-intertabac-2026/478957/",
+   "https://www.mayaselvacigars.com/single-post/maya-selva-cigars-at-intertabac-2026"
+  ],
+  "notes": "The maker describes it as medium to full bodied. Debuted at InterTabac in September 2026 with European shipping expected in November; a U.S. release had not been confirmed at announcement.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Salomón 30 Años",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastrán)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastrán)",
+  "filler": "Honduras (mainly Jamastrán)",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomón",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "A 7 x 58 salomon marking Maya Selva's 30th anniversary. The cigars were rolled in 2019 for the 25th anniversary, held back by the pandemic, and aged about six years before release.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/maya-selva-to-celebate-30th-anniversary-year-of-the-horse-at-intertabac-2025/454410/",
+   "https://www.mayaselvacigars.com/single-post/celebrating-30-years-of-excellence-new-flor-de-selva-salom%C3%B3n-30-a%C3%B1os"
+  ],
+  "notes": "Limited to 2,500 numbered boxes of 10, each cigar in its own coffin. The maker does not fully disclose the filler and publishes no strength or tasting notes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Foundation",
+  "line": "Highclere Castle Senetjer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (7th priming)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Mata Fina)",
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "roasted coffee",
+   "dark chocolate",
+   "peanut",
+   "raspberry",
+   "honey"
+  ],
+  "about": "A perfecto in the Highclere Castle line that Foundation makes with the Earl of Carnarvon's family, created for the 100th anniversary of the discovery of King Tut's tomb. Its box copies a storage chest found in the tomb.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://foundationcigarcompany.com/senetjer/",
+   "https://halfwheel.com/highclere-castle-senetjer/421999/",
+   "https://halfwheel.com/highclere-castle-senetjer-2025-ships/455578/"
+  ],
+  "notes": "The filler is undisclosed; the maker only says it is aged three years. Foundation rates it Medium, while Neptune lists it as Full. It began as a 2022 limited edition and now returns each November in a small run of about 700 boxes of 12.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Foundation",
+  "line": "Charter Oak Pegnataro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "cream",
+   "nuts",
+   "white pepper",
+   "earth"
+  ],
+  "about": "A Connecticut Shade corona named for one of Nicholas Melillo's grandfathers and sold with its broadleaf sibling Pasquale as the Charter Oak Especiales. It is a richer blend than the core Charter Oak Shade.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://foundationcigarcompany.com/charter-oak-especiales/",
+   "https://halfwheel.com/charter-oak-pegnataro/433890/",
+   "https://www.neptunecigar.com/cigar/foundation-charter-oak-pegnataro"
+  ],
+  "notes": "Sources split on where the shade wrapper is grown: Neptune says USA, halfwheel's review says Ecuador, and Foundation does not say. Foundation rates it Medium, but halfwheel found it closer to medium-full. Regular production, capped at about 500 boxes of 12 per quarter.",
+  "verified": true,
+  "verifyNotes": "wrapperOrigin set to null (was USA): Foundation does not state it, halfwheel's review lists Ecuador, and Neptune and halfwheel's PCA 2023 report list USA. Notes updated to say so."
+ },
+ {
+  "brand": "Foundation",
+  "line": "Charter Oak Pasquale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A Connecticut Broadleaf corona named for one of Nicholas Melillo's grandfathers and sold with its shade sibling Pegnataro as the Charter Oak Especiales. It is a fuller blend than the core Charter Oak Broadleaf.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://foundationcigarcompany.com/charter-oak-especiales/",
+   "https://halfwheel.com/foundation-shipping-charter-oak-pasquale-pegnataro-to-retailers/430844/",
+   "https://www.neptunecigar.com/cigar/foundation-charter-oak-pasquale"
+  ],
+  "notes": "Foundation rates it Medium to Full, while Neptune lists it as Full. Regular production, capped at about 500 boxes of 12 per quarter.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Removed the research remark about tasting notes from notes."
+ },
+ {
+  "brand": "Foundation",
+  "line": "10 Year Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf and Connecticut Havana Seed hybrid",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua (Estelí, Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "oak",
+   "roasted nuts",
+   "black pepper",
+   "cream",
+   "leather",
+   "earth"
+  ],
+  "about": "A 7 x 58 salomon marking Foundation Cigar Company's tenth anniversary, wrapped in a Connecticut-grown broadleaf and Havana seed hybrid. It was sold in 10-count boxes and a rarer 20-count box.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://foundationcigarcompany.com/10-yr-aniversario/",
+   "https://halfwheel.com/foundation-10-year-aniversario/462151/",
+   "https://halfwheel.com/pca-2026-foundation-cigar-co/470168/"
+  ],
+  "notes": "Planned at 35,000 cigars (2,000 boxes of 10 and 750 boxes of 20). Foundation rates it Medium to Full, while Neptune lists it as Full. A 2025 fire at the AJ Fernandez factory meant only about half the run shipped at first, with more boxes following in 2026.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Swapped the PCA 2025 link for halfwheel's PCA 2026 report, which is the page that supports the fire delay; notes tightened to match it."
+ },
+ {
+  "brand": "Foundation",
+  "line": "The Tabernacle Knight Commander",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A yearly perfecto in The Tabernacle line, named for the Ethiopian knighthood awarded to Foundation founder Nicholas Melillo. The cigars get extra cedar aging and the proceeds go to the Royal Ethiopian Trust.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://foundationcigarcompany.com/knight-commander/",
+   "https://halfwheel.com/the-tabernacle-knight-commander/432840/",
+   "https://halfwheel.com/foundation-releasing-third-installment-of-tabernacle-knight-commander/456958/"
+  ],
+  "notes": "This is one annual size of The Tabernacle Broadleaf blend, about 700 to 750 boxes of 12 a year. Foundation rates it Full, but halfwheel's reviewer found it milder than that. Foundation lists an all-Nicaraguan filler, while halfwheel's review lists Honduras and Nicaragua.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Foundation",
+  "line": "Primer Fabrica 1810",
+  "found": true,
+  "officialName": "Primer Fábrica 1810",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Perfecto",
+    "length": 5.75,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "An event-only Foundation cigar honoring the first known U.S. cigar factory, opened in Suffield, Connecticut in 1810. It is not sold and comes in three-count boxes given with select box purchases at Foundation events.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://foundationcigarcompany.com/primer-fabrica-1810/",
+   "https://halfwheel.com/foundations-primer-fabrica-1810-new-event-cigar-debuts-today/453226/",
+   "https://halfwheel.com/pca-2025-foundation-cigar-co/448609/"
+  ],
+  "notes": "The filler is undisclosed. The maker's blend table and halfwheel give a Brazilian Mata Fina binder, though the maker's own description says the binder is undisclosed too. Where it is rolled is not published.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed; the maker and halfwheel publish no country or factory, so those stay null. Removed the research remark about tasting notes from notes."
+ },
+ {
+  "brand": "Foundation",
+  "line": "Aksum Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (claro)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "oak",
+   "spice",
+   "leather",
+   "earth",
+   "cocoa"
+  ],
+  "about": "The lighter-wrapper version of Foundation's soft box-pressed Sumatra line, named for the ancient Ethiopian kingdom said to hold the Ark of the Covenant. It launched in 2023 as Metapa and was renamed in 2024.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://foundationcigarcompany.com/aksum/",
+   "https://halfwheel.com/foundation-cigar-co-rebrands-metapa-as-aksum/435066/",
+   "https://halfwheel.com/metapa-claro-corona-gorda/432813/"
+  ],
+  "notes": "Sold as Metapa Claro until the 2024 rename; the blend did not change. Foundation rates the Aksum line Medium to Full, while Neptune lists the Claro as Medium and halfwheel's reviewer found it just over medium.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added halfwheel's Metapa Claro review, the page the flavors and body come from, in place of the Neptune link; notes trimmed."
+ },
+ {
+  "brand": "Foundation",
+  "line": "Aksum Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The dark-wrapper version of Foundation's soft box-pressed Sumatra line, named for the ancient Ethiopian kingdom said to hold the Ark of the Covenant. It launched in 2023 as Metapa and was renamed in 2024.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://foundationcigarcompany.com/aksum/",
+   "https://halfwheel.com/foundation-cigar-co-rebrands-metapa-as-aksum/435066/",
+   "https://www.neptunecigar.com/cigar/foundation-aksum-maduro"
+  ],
+  "notes": "Sold as Metapa Maduro until the 2024 rename; the blend did not change. The wrapper is a maduro-processed Ecuadorian Sumatra, not broadleaf. Neptune's strength field says Medium, but its write-up and Foundation both say medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

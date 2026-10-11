@@ -1,0 +1,850 @@
+[
+ {
+  "brand": "Warped",
+  "line": "Corto Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "X46",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "X54",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black cherry",
+   "spice",
+   "sweetness"
+  ],
+  "about": "A darker, stronger version of Warped's Corto with a Mexican San Andres wrapper over Nicaraguan tobacco that includes medio tiempo. It is made at NACSA in Esteli instead of Aganorsa, which makes the original Corto.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.warpedcigars.com/cigar-brands/corto-maduro",
+   "https://halfwheel.com/corto-maduro-x46/452941/",
+   "https://dropcigarclub.com/products/warped-corto-x46-maduro"
+  ],
+  "notes": "Warped rates it full; halfwheel found the nicotine strength closer to medium. The X46 is box-pressed. The X54 is sold by Drop Cigar Club, the Warped founder's shop, but is not on Warped's brand page.",
+  "verified": true,
+  "verifyNotes": "Reworded the last note sentence only; blend, factory, strength and sizes match Warped, Drop and halfwheel."
+ },
+ {
+  "brand": "Warped",
+  "line": "Sarto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black pepper",
+   "leather",
+   "oak",
+   "cream"
+  ],
+  "about": "A Connecticut broadleaf cigar over Nicaraguan binder and filler, named for Warped founder Kyle Gellis's late Cane Corso. It was the first Warped line made at NACSA in Esteli.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.warpedcigars.com/cigar-brands/sarto",
+   "https://halfwheel.com/warped-ships-sarto/445014/"
+  ],
+  "notes": "Warped rates it full; Neptune lists the Toro as medium. Sold in boxes of 14.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "Don Reynaldo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Regalos",
+    "length": 5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "barnyard",
+   "pepper",
+   "cream"
+  ],
+  "about": "A Miami-rolled cigar that Kyle Gellis made to honor his father, blended as a nod to his father's two favorite Cuban brands. It is rolled at El Titan de Bronze in Little Havana at about 100 cigars a day, with entubado bunching and a triple cap.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.warpedcigars.com/cigar-brands/don-reynaldo",
+   "https://halfwheel.com/don-reynaldo-grand-reynaldo-10th-anniversary/440645/"
+  ],
+  "notes": "Warped's site says medium-plus; its Drop shop and Neptune say medium. It debuted in December 2014 as the limited Coronas de Luxe (5.5 x 42); the Regalos became the regular size in 2015. The 70th (6.5 x 48) and Grand Reynaldo 10th Anniversary (6 x 50) were limited.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "Isla del Cocodrilo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Desflorada",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca), Ecuador (Habano 2000)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Croc Bites",
+    "length": 4.5,
+    "ring": 45
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "cream",
+   "leather",
+   "oak",
+   "cedar",
+   "spice"
+  ],
+  "about": "A Dominican-made Warped line with an Ecuadorian habano desflorada wrapper, a dual binder and Nicaraguan filler. The name means Crocodile Island, a nickname for Cuba based on its shape.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.warpedcigars.com/cigar-brands/isla-del-cocodrilo",
+   "https://halfwheel.com/warped-releases-isla-del-cocodrilo-robusto/480861/",
+   "https://halfwheel.com/isla-del-cocodrilo-croc-bites/460998/"
+  ],
+  "notes": "Warped lists the Corona Gorda as 5.5 x 46; halfwheel lists 5 5/8 x 46. Croc Bites is a box-pressed short torpedo, and the 6.5 x 54 Toro Grande is a limited size (1,500 boxes) with Peruvian pelo de oro added to the filler. Warped's site says medium; its Drop shop says medium-plus.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and added the 1,500-box figure for the Toro Grande from the Drop listing. No data fields changed."
+ },
+ {
+  "brand": "Warped",
+  "line": "Isla del Cocodrilo Blanco",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed Desflorada",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca), Ecuador (Habano 2000)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "bread",
+   "wood",
+   "black pepper",
+   "salt"
+  ],
+  "about": "A limited version of Isla del Cocodrilo that swaps the habano wrapper for a light Ecuadorian Connecticut-seed leaf over the same binders and Nicaraguan filler. It came out in one 6.5 x 55 perfecto size.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/isla-del-cocodrilo-blanco/465262/",
+   "https://dropcigarclub.com/products/isla-del-cocodrilo-blanco"
+  ],
+  "notes": "Limited to 1,500 boxes of 15. Warped's Drop shop and Neptune call it medium; halfwheel found the nicotine strength mild to medium with fuller flavor. halfwheel also noted the wrapper is fragile.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "Nicotina",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Jalapa Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Criollo '98)",
+  "filler": "Nicaragua (Criollo '98, Corojo '99)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf (Tabacos Valle de Jalapa S.A., Esteli)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso (box-pressed)",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "licorice",
+   "fruit",
+   "oak",
+   "leather",
+   "espresso"
+  ],
+  "about": "A Nicaraguan puro made entirely with Aganorsa tobacco and sold in one box-pressed belicoso size. Warped revived the name from a Havana brand dating to 1880 and positions it as one of its fuller blends.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.warpedcigars.com/cigar-brands/nicotina",
+   "https://halfwheel.com/warped-nicotina-coming-to-stores-this-month/403468/"
+  ],
+  "notes": "Gellis has said it is full for his portfolio but may not seem powerful to every smoker. The belicoso has a 109-style head.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "The Devil's Hands",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Jalapa Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Criollo '98)",
+  "filler": "Nicaragua (Criollo '98, Corojo '99)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf (Agricola Ganadera Nortena S.A.)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "sweet spice",
+   "black pepper",
+   "oak",
+   "earth",
+   "cashews",
+   "leather"
+  ],
+  "about": "A Nicaraguan puro from Esteli made only with Aganorsa Leaf tobacco, offered in a single 6 x 44 corona. The filler leans on Esteli farms and the wrapper is shade-grown corojo from Jalapa.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.warpedcigars.com/cigar-brands/the-devils-hands",
+   "https://halfwheel.com/warped-announces-the-devils-hands/409949/"
+  ],
+  "notes": "Warped rates it medium-plus to full. It was announced in June 2022 for release that fall.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to drop the research commentary. Halfwheel and Cigar Aficionado only confirm a June 2022 announcement for a fall 2022 release, so 2022 is kept as the year."
+ },
+ {
+  "brand": "Warped",
+  "line": "Companion de Warped",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black pepper",
+   "floral",
+   "earth",
+   "oak",
+   "sugar"
+  ],
+  "about": "A single-size Rothschild with a Mexican San Andres wrapper over mostly Dominican tobacco, meant as an everyday carry-along cigar. It was the second Warped cigar made at Tabacalera La Isla in Santiago.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.warpedcigars.com/cigar-brands/companion-de-warped",
+   "https://halfwheel.com/companion-de-warped/407769/"
+  ],
+  "notes": "Warped lists it as medium-plus; Neptune lists it as medium. About 80 percent of the filler is Dominican.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "Cloud Hopper Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Natural",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 53",
+    "length": 5.25,
+    "ring": 42
+   },
+   {
+    "name": "No. 485",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "An extension of Warped's Cloud Hopper line with a Mexican San Andres wrapper over Nicaraguan binder and filler, made at NACSA in Esteli. It comes in the same two sizes as the original Cloud Hopper.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://dropcigarclub.com/products/warped-cloud-hopper-black",
+   "https://www.warpedcigars.com/cigar-brands/cloud-hopper"
+  ],
+  "notes": "So far it is listed only by Drop Cigar Club, the shop owned by Warped's founder, with no release date or production status published. The original Cloud Hopper has a Nicaraguan corojo wrapper and is made by Aganorsa.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Still single-source (Drop Cigar Club); no halfwheel, Cigar Aficionado or Warped brand page lists it yet, and web search was unavailable for a further cross-check."
+ },
+ {
+  "brand": "Warped",
+  "line": "Chinchalle",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 (rosado)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (HVA)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "cedar",
+   "leather",
+   "black pepper",
+   "oak"
+  ],
+  "about": "Warped's first Dominican-made cigar and one of the first releases from Tabacalera La Isla, the Santiago factory opened by Hostos Fernandez Quesada. The name is slang for a very small cigar factory.",
+  "released": 2021,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/chinchalle/401832/",
+   "https://www.neptunecigar.com/warped-cigar",
+   "https://dropcigarclub.com/products/return-sampler"
+  ],
+  "notes": "Neptune lists it as medium; halfwheel found it medium-plus in strength with medium-full body. It launched in 2021 as regular production, but Drop Cigar Club, the Warped founder's shop, now calls it a discontinued blend.",
+  "verified": true,
+  "verifyNotes": "Changed production from regular to discontinued: Drop Cigar Club's Return Sampler page lists Chinchalle among Warped's discontinued blends. Added that page as a source and updated notes."
+ },
+ {
+  "brand": "Warped",
+  "line": "La Relatos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo '99, Criollo '98)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The First",
+    "length": 6,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "wood"
+  ],
+  "about": "A thin 6 x 38 petit lancero with an Ecuadorian habano wrapper over Aganorsa-grown Nicaraguan tobacco. The blend is based on one of the earliest Warped cigars, from when the brand was sold mostly through online forums.",
+  "released": 2018,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/warped-ships-la-relatos-the-first/283943/",
+   "https://www.neptunecigar.com/warped-cigar"
+  ],
+  "notes": "Only one size, The First, is confirmed; two more regular sizes were planned in 2018. It launched as regular production, but it is no longer on Warped's brand page and Neptune marks it discontinued.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "La Hacienda First Growth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo '99)",
+  "filler": "Nicaragua (Corojo '99, Criollo '98)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "First Growth",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "wood",
+   "nuts",
+   "cream"
+  ],
+  "about": "A 4 x 50 petit robusto offshoot of Warped's La Hacienda that uses higher-priming Aganorsa leaves for more body and spice. The name borrows the top tier of the 1855 Bordeaux wine classification.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-hacienda-first-growth/402228/",
+   "https://www.warpedcigars.com/cigar-brands/la-hacienda"
+  ],
+  "notes": "This is one size of the La Hacienda line with a tweaked blend. Warped rates La Hacienda medium; halfwheel found First Growth medium-plus. It was announced in 2020 as a 4.5 x 48 but shipped in September 2021 as a 4 x 50.",
+  "verified": true,
+  "verifyNotes": "Changed flavor \"black pepper\" to \"pepper\": the halfwheel review mentions pepper and white pepper, not black pepper."
+ },
+ {
+  "brand": "Warped",
+  "line": "Futuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Criollo '98)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Seleccion 109",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Seleccion Suprema",
+    "length": 5.625,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "vanilla",
+   "oak",
+   "chocolate",
+   "leather",
+   "earth"
+  ],
+  "about": "A Nicaraguan puro made as a collaboration between Warped's Kyle Gellis and Max Fernandez Pujals of Casa Fernandez and Aganorsa. Each of them picked one of the two sizes.",
+  "released": 2015,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/futuro-seleccion-109/98259/",
+   "https://halfwheel.com/warped-discontinues-futuro-maestro-del-tiempo/445990/",
+   "https://www.neptunecigar.com/warped-cigar"
+  ],
+  "notes": "Warped announced in January 2025 that Futuro was discontinued. Sources disagree on the filler leaf: halfwheel says corojo 98 and corojo 99, Neptune says criollo 98 and corojo 99. Neptune's text calls it medium to full but its spec says medium; halfwheel found it just over medium.",
+  "verified": true,
+  "verifyNotes": "Filler changed from 'Nicaragua (Criollo '98, Corojo '99)' to 'Nicaragua': halfwheel (review and 2015 announcement) says corojo 98 and corojo 99, Neptune says criollo 98 and corojo 99. Disagreement added to notes."
+ },
+ {
+  "brand": "Warped",
+  "line": "Eagles Descent",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo '99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Criollo '98, Esteli)",
+  "filler": "Nicaragua (Criollo '98, Corojo '99)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Especial",
+    "length": 5.625,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "oak",
+   "cinnamon",
+   "cream"
+  ],
+  "about": "A limited Nicaraguan puro made by Aganorsa that first appeared as an exclusive for R. Field Wine Co. in Hawaii. It returned in 2022 as a one-time national release with the blend reworked toward more Jalapa tobacco.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/eagles-descent/372265/",
+   "https://halfwheel.com/warpeds-eagles-descent-returns-for-national-release/409007/",
+   "https://www.neptunecigar.com/warped-cigar"
+  ],
+  "notes": "Neptune lists it as full; halfwheel found the 2019 release medium-full. The 2019 run was 400 boxes of 10 and the 2022 national release was 1,500 boxes of 25, described as the last for this size.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "El Oso Blanco",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Desflorada",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano Oscuro)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro (2021)",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Belicoso (2025)",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "cream",
+   "black pepper",
+   "honey",
+   "cereal"
+  ],
+  "about": "A limited Miami-rolled cigar that puts the light desflorada wrapper from Warped's La Colmena over the El Oso filler. Warped describes it as a reverse of La Colmena Black Honey.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-oso-blanco-2025/456099/",
+   "https://halfwheel.com/el-oso-blanco/403600/"
+  ],
+  "notes": "The seed type of the desflorada wrapper is not published. Neptune lists it as full, but halfwheel found both releases mild to medium. The 2021 release was 600 boxes of 20; the 2025 belicoso was 500 boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "La Colmena Black Honey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "oak",
+   "caramel",
+   "spice",
+   "citrus",
+   "cocoa"
+  ],
+  "about": "A limited version of Warped's La Colmena that uses the darker Ecuadorian habano oscuro wrapper from El Oso over the La Colmena Unico Especial binder and filler. It is rolled at El Titan de Bronze in Miami in one 5 x 48 belicoso size.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-colmena-black-honey-2023/433430/",
+   "https://halfwheel.com/la-colmena-black-honey/80940/"
+  ],
+  "notes": "Released three times: January 2015 (600 cigars), June 2017 and October 2023. Gellis has said it will be at least six years before it returns. halfwheel found the 2015 release medium-full and the 2023 release medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "Flor del Valle Sky Flower",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo '99, Criollo '98, with medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sky Flower",
+    "length": 5.625,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "bread",
+   "nuts",
+   "cream",
+   "white pepper",
+   "honey"
+  ],
+  "about": "An offshoot of Warped's Flor del Valle, a Nicaraguan puro made by Aganorsa, with medio tiempo leaf added to the filler. It has shipped in small batches because workable medio tiempo is hard to get.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/flor-del-valle-sky-flower-lancero/387125/",
+   "https://halfwheel.com/warped-expands-flor-del-valle-with-sky-flower/80988/",
+   "https://www.neptunecigar.com/warped-cigar"
+  ],
+  "notes": "It was announced as regular production but made in small batches: the 5 5/8 x 48 shipped in 2015, 2017 and 2019, and the 7 x 40 Lancero arrived in December 2020. A 5.5 x 52 was a 2016 exclusive for Corona Cigar Co. Neptune shows both sizes sold out.",
+  "verified": true,
+  "verifyNotes": "Notes now say halfwheel described it as regular production made in small batches; production left as limited. No other changes."
+ },
+ {
+  "brand": "Warped",
+  "line": "Maestro del Tiempo 6102R",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo '99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua (Criollo '98, Corojo '99, with medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf (Tabacos Valle de Jalapa S.A.)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "6102R",
+    "length": 5.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "nuts",
+   "bread",
+   "white pepper",
+   "leather"
+  ],
+  "about": "The limited size of Warped's Maestro del Tiempo line, a Nicaraguan puro made by Aganorsa, with a tweaked blend that adds medio tiempo from Esteli. It is sold in cabinets of 100 with a secondary Seleccion de Warped band.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/maestro-del-tiempo-6102r-2020/386114/",
+   "https://www.cigaraficionado.com/article/warped-bringing-back-maestro-del-tiempo-for-limited-time",
+   "https://dropcigarclub.com/products/warped-maestro-del-tiempo-6102r-pre-order"
+  ],
+  "notes": "Released in 2016, 2020 and fall 2026 (400 cabinets of 100), which Drop Cigar Club, the Warped founder's shop, calls the last time. Kyle Gellis calls it medium-plus; halfwheel found the 2016 batch under medium and the 2020 batch medium-full. The regular Maestro del Tiempo line was discontinued in 2025.",
+  "verified": true,
+  "verifyNotes": "Strength set from null to Medium: Cigar Aficionado (April 2026) quotes Kyle Gellis calling it medium-plus. Binder now 'Nicaragua (Condega)' per the same article. Flavors caramel, coffee and hay were not on the cited halfwheel review and were replaced with words that are. Swapped the halfwheel 2026 news link for the Cigar Aficionado article it reports on."
+ },
+ {
+  "brand": "Warped",
+  "line": "Lirio Rojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo, Criollo)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Lonsdale (2019)",
+    "length": 6.375,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "cocoa",
+   "cream",
+   "pepper",
+   "oak",
+   "nuts"
+  ],
+  "about": "A limited Nicaraguan puro made by Aganorsa that Warped shipped around the holidays, sold without bands in cabinets of 50. The name is Spanish for red lily.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lirio-rojo-2019/372731/",
+   "https://halfwheel.com/warpeds-lirio-rojo-returns/286780/",
+   "https://www.neptunecigar.com/warped-cigar"
+  ],
+  "notes": "halfwheel only confirms a Nicaraguan puro; the corojo wrapper and corojo and criollo filler come from Neptune. The 5.5 x 44 corona ran from 2015 to 2018 and the 2019 batch changed to a 6 3/8 x 42 lonsdale with a 109 cap. Neptune's text says medium to full; its spec says medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Warped",
+  "line": "Moon Garden",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo '99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo '99, Criollo '98)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero (2018)",
+    "length": 7,
+    "ring": 40
+   },
+   {
+    "name": "Especial (2023)",
+    "length": 5.625,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "sweetness"
+  ],
+  "about": "A limited Nicaraguan puro made with Aganorsa tobacco and based on Warped's Flor del Valle blend. It debuted as a lancero and came back in 2023 as a toro called Moon Garden Especial.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/warped-ships-moon-garden/279519/",
+   "https://halfwheel.com/warpeds-moon-garden-especial-coming-later-this-month/428498/",
+   "https://www.neptunecigar.com/warped-cigar"
+  ],
+  "notes": "The 2018 lancero was limited to 650 boxes of 10. The 2023 Moon Garden Especial (1,000 boxes of 20) adds medio tiempo to the blend and was made at Aganorsa's Esteli factory, by then called Agricola Ganadera Nortena S.A.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

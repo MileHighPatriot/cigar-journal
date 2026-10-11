@@ -1,0 +1,857 @@
+[
+ {
+  "brand": "Diesel",
+  "line": "Atonement",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "sweetness"
+  ],
+  "about": "A single-size Diesel made by AJ Fernandez as the brand's 2022 exclusive for Tobacconists' Association of America (TAA) shops. It came in 10-count boxes made to look like a novel.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-atonement-heads-to-taa-stores/414725/",
+   "https://www.neptunecigar.com/cigar/diesel-atonement",
+   "https://halfwheel.com/diesel-tempest-heads-to-taa-stores/444312/"
+  ],
+  "notes": "TAA exclusive limited to 1,000 boxes of 10. It was announced as Diesel Tempest and renamed before shipping; a different Diesel Tempest came out for TAA in 2024. The maker calls it full-bodied and no separate strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Blend, size, country and 1,000-box run confirmed on halfwheel; Neptune confirms the AJ Fernandez factory. Changed flavor 'black pepper' to 'pepper' to match Neptune. Trimmed notes."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Sunday Gravy San Marzano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Esteli)",
+  "filler": "Nicaragua (Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "tobacco",
+   "sweetness"
+  ],
+  "about": "The first of six seasonal Diesel Sunday Gravy blends, made by AJ Fernandez and blended with Justin Andrews. Each blend came in one size priced at about $5.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-sunday-gravy-san-marzano-arrives-at-retail/400342/",
+   "https://www.dieselcigars.com/products/sunday-gravy/",
+   "https://www.neptunecigar.com/cigar/diesel-sunday-gravy"
+  ],
+  "notes": "First of six Sunday Gravy blends. halfwheel and Neptune report an Ecuadorian habano wrapper, while Diesel's own site lists the wrapper only as Nicaraguan. Diesel rates it medium to full; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel, dieselcigars.com and Neptune. Note now says Neptune also lists an Ecuadorian habano wrapper."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Sunday Gravy Pecorino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Cameroon",
+  "filler": "Nicaragua (Esteli ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The second Diesel Sunday Gravy blend, a thick robusto with a Mexican San Andres wrapper over a Cameroon binder. It is made by AJ Fernandez and was sold for one season at about $5.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-sunday-gravy-pecorino-arrives-at-retailers/401606/",
+   "https://www.neptunecigar.com/cigar/diesel-sunday-gravy"
+  ],
+  "notes": "Second of six Sunday Gravy blends, each sold in one size. Strength is from Neptune's listing; Diesel's site only rates the San Marzano blend.",
+  "verified": true,
+  "verifyNotes": "Blend, size and factory confirmed on halfwheel; strength Full confirmed on Neptune. Reworded the note about the maker's rating."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Sunday Gravy Rosamarino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Condega habano)",
+  "filler": "Nicaragua (Condega, Esteli, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "oak",
+   "earth",
+   "coffee",
+   "leather",
+   "almond",
+   "black pepper"
+  ],
+  "about": "The third Diesel Sunday Gravy blend, a Nicaraguan puro in a 6 x 50 toro. It is made by AJ Fernandez and was sold for one season at about $5.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-sunday-gravy-rosamarino/409499/",
+   "https://halfwheel.com/diesel-sunday-gravy-rosamarino-arrives-at-stores/404844/",
+   "https://www.neptunecigar.com/cigar/diesel-sunday-gravy"
+  ],
+  "notes": "Third of six Sunday Gravy blends. halfwheel's review found it medium in strength and body; Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel's news story and review. Removed the claim that it is the only Nicaraguan puro in the series, which no source states."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Sunday Gravy Gabagool",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua (Esteli)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Parejo",
+    "length": 5.25,
+    "ring": 45
+   }
+  ],
+  "flavors": [],
+  "about": "The fourth Diesel Sunday Gravy blend, a slim 5 1/4 x 45 cigar with an Ecuadorian Sumatra wrapper over a Connecticut Broadleaf binder. It is made by AJ Fernandez and was sold in bundles of 10 for one season.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-sunday-gravy-gabagool-shipping-on-april-1/407623/"
+  ],
+  "notes": "Fourth of six Sunday Gravy blends. No strength rating is published; the maker said the blend deliberately stays away from power in favor of complexity.",
+  "verified": true,
+  "verifyNotes": "Blend, size and country confirmed on halfwheel; no strength rating is published. Size name changed from 'Gabagool' to 'Parejo' because halfwheel gives no vitola name, only '5 1/4 x 45 parejo'."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Sunday Gravy Grappa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The fifth Diesel Sunday Gravy blend, a 5 x 56 robusto extra with an Ecuadorian habano wrapper and Honduran filler. It is made by AJ Fernandez and was sold for one season at about $5.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-sunday-gravy-grappa-shipping-next-month/410009/",
+   "https://www.neptunecigar.com/cigar/diesel-sunday-gravy"
+  ],
+  "notes": "Fifth of six Sunday Gravy blends, sold in packs of five. The maker called it a medium-plus blend; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel and Neptune. Added the five-pack detail to notes."
+ },
+ {
+  "brand": "Diesel",
+  "line": "Sunday Gravy Porcellino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Pueblo Nuevo habano)",
+  "filler": "Nicaragua (habano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The sixth and final Diesel Sunday Gravy blend, a 6 x 52 toro with an Ecuadorian habano wrapper over Nicaraguan habano binder and filler. It is made by AJ Fernandez and was sold in 10-count boxes at about $5 a cigar.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/diesel-sunday-gravy-wraps-up-series-with-porcellino/414286/",
+   "https://www.neptunecigar.com/cigar/diesel-sunday-gravy"
+  ],
+  "notes": "Sixth and last Sunday Gravy blend. The maker's press release describes it as full-bodied and Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel and Neptune. No changes."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Royal Estates",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "mesquite",
+   "spice",
+   "cocoa",
+   "almond"
+  ],
+  "about": "A Dominican-made Villiger with an Ecuador Habano wrapper over Dominican and Nicaraguan long filler. It is sold in 20-count boxes through Holt's.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-royal-estates.html"
+  ],
+  "notes": "Sold through Holt's, which calls it an exclusive; Villiger's own site does not list it. The binder and the factory are not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, strength, filler and sizes confirmed on Holt's, the only page found; not on villigercigars.com, Neptune or Famous. Removed 'deep discount' wording from about."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Selecto Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cashew",
+   "cedar",
+   "toast",
+   "cream",
+   "spice"
+  ],
+  "about": "A budget Villiger bundle cigar made in Esteli, Nicaragua, with an Ecuador Connecticut wrapper over Nicaraguan tobaccos. It is sold in bundles of 20 as an everyday smoke.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-selecto-connecticut.html",
+   "https://www.neptunecigar.com/cigar/villiger-selecto-connecticut"
+  ],
+  "notes": "Holt's lists it as mild to medium; Neptune calls it mild. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Cross-checked on Neptune: made in Nicaragua, Ecuadorian Connecticut Shade wrapper, Nicaraguan binder and filler. Filled binder (was null), added Neptune source, noted the strength disagreement."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Selecto Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "brown sugar",
+   "black pepper"
+  ],
+  "about": "A budget Villiger bundle cigar made in Nicaragua with a San Andres maduro wrapper over Nicaraguan long filler. It is the stronger partner to Selecto Connecticut and is sold in bundles of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-selecto-maduro.html",
+   "https://www.neptunecigar.com/cigar/villiger-selecto-maduro"
+  ],
+  "notes": "Holt's lists it as medium to full; Neptune calls it medium. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Cross-checked on Neptune: made in Nicaragua, Mexican San Andres maduro wrapper, Nicaraguan binder and filler. Filled binder (was null), added Neptune source, noted the strength disagreement."
+ },
+ {
+  "brand": "Villiger",
+  "line": "White Forest",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cashew",
+   "coffee",
+   "vanilla",
+   "oak",
+   "nuts"
+  ],
+  "about": "A Dominican-made Villiger with a Connecticut Shade wrapper over Dominican long filler, described by Holt's as a follow-up to Villiger Black Forest. It is sold in 20-count boxes through Holt's.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/villiger-white-forest.html"
+  ],
+  "notes": "Holt's is the only seller found and Villiger's own site does not list it. The binder, the factory name and where the wrapper is grown are not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, strength, filler and sizes confirmed on Holt's, the only page found; not on villigercigars.com, Neptune or Famous. Changed 'lighter follow-up' to Holt's actual wording."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Celebration by Heinrich Villiger",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diadema",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Nicaraguan puro made in 2024 to mark Heinrich Villiger's 94th birthday. It is a 6 x 58 diadema, each in its own gold-lined presentation box.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/heinrich-villiger-celebrates-94th-birthday-with-celebration-cigar/439294/"
+  ],
+  "notes": "Limited to 500 boxes of five and sold in Switzerland and Germany, not the U.S. The leaf varieties and strength are not published.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel. Strength and leaf varieties are not published there or on Villiger's product list. No changes."
+ },
+ {
+  "brand": "Villiger",
+  "line": "Year of the Horse",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Villiger de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Villiger's fourth Chinese zodiac release, a 6 x 52 torpedo made at Villiger de Nicaragua for the 2026 Year of the Horse. It follows the Rabbit, Dragon and Snake editions.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/villiger-year-of-the-horse-slated-for-early-2026/455169/"
+  ],
+  "notes": "Exclusive to the Asian market and not sold in the U.S. Limited to 1,000 boxes of 10 at $25 a cigar. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel; no strength rating is published. No changes."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "New Cuba Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Presidente",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "cedar",
+   "nuts",
+   "toast"
+  ],
+  "about": "The Connecticut-wrapped version of Aganorsa Leaf's New Cuba value line, sold in bundles. It pairs an Ecuadorian Connecticut Shade wrapper with Aganorsa's Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/new-cuba/",
+   "https://www.neptunecigar.com/cigar/new-cuba-connecticut",
+   "https://www.famous-smoke.com/brand/new-cuba-connecticut-cigars"
+  ],
+  "notes": "One of three New Cuba wrappers (Corojo, Maduro, Connecticut) sold in bundles. Neptune and Famous list it as mild; Aganorsa's site shows one strength rating for the whole line, 4 of 5. New Cuba Superior is the separate boxed version.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country and Mild strength confirmed on Neptune and Famous; sizes confirmed on aganorsaleaf.com. Added the maker's single line-wide strength rating to notes."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "New Cuba Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Presidente",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "coffee",
+   "leather",
+   "black pepper",
+   "cream"
+  ],
+  "about": "The maduro version of Aganorsa Leaf's New Cuba value line, a Nicaraguan puro sold in bundles. It is made with tobacco from Aganorsa's own Nicaraguan farms.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/new-cuba/",
+   "https://www.neptunecigar.com/cigar/new-cuba-maduro",
+   "https://www.famous-smoke.com/brand/new-cuba-maduro-cigars"
+  ],
+  "notes": "Aganorsa's site shows 4 of 5 on its strength scale; Neptune and Famous both list it as full, though their descriptions call it medium-bodied. Famous describes it as a Cuban-sandwich blend.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full: the maker's page shows 4 of 5 dots, and the brief prefers the maker over retailers (Neptune and Famous say Full). Wrapper, country, sizes and the TABSA factory confirmed on Neptune, Famous and aganorsaleaf.com."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "New Cuba Superior",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness"
+  ],
+  "about": "A boxed, all long filler step up from Aganorsa Leaf's New Cuba bundle line, introduced in 2023. It was built as a mild Connecticut for newer smokers, since most of the company's cigars are much stronger.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/new-cuba-superior/",
+   "https://halfwheel.com/new-cuba-superior-begins-shipping-next-week/430464/",
+   "https://www.neptunecigar.com/cigar/new-cuba-superior-connecticut"
+  ],
+  "notes": "Retailers often list it as New Cuba Superior Connecticut. The maker's site shows the Corona as 5 x 44, while halfwheel, Neptune and Famous list 5 1/2 x 44. The 6 x 60 Titan was added in 2024.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country and sizes confirmed on aganorsaleaf.com, halfwheel and Neptune; maker shows 1 of 5 strength and Neptune says Mild. The 2024 Titan addition is confirmed by a March 2024 halfwheel story. No changes."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Casa Fernandez Miami Reserva Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "leather",
+   "espresso",
+   "nuts",
+   "wood"
+  ],
+  "about": "A Nicaraguan puro rolled in small batches in Miami, Florida, using Aganorsa-grown tobacco. It is sold under Casa Fernandez, a brand of Aganorsa.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/casa-fernandez-miami-reserva-corojo",
+   "https://www.famous-smoke.com/brand/casa-fernandez-miami-reserva-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/casa-fernandez-miami-reserva.html"
+  ],
+  "notes": "Rolled in Miami, not Nicaragua; the factory name is not published. Neptune and Famous call it full, Holt's lists medium-full. Famous names the wrapper as Corojo, while Neptune and Holt's just say Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Wrapper, USA origin, strength and sizes confirmed on Neptune, Famous and Holt's. Reworded about to drop the 'former name of Aganorsa Leaf' claim, which none of the sources state. Note now says which source names the wrapper Corojo."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Casa Fernandez Miami Reserva Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "black pepper",
+   "leather",
+   "hickory",
+   "citrus",
+   "spice"
+  ],
+  "about": "The maduro version of Casa Fernandez Miami Reserva, rolled in Miami, Florida, with a Mexican San Andres wrapper over Nicaraguan binder and filler. It is sold under Casa Fernandez, a brand of Aganorsa.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/casa-fernandez-miami-reserva-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/casa-fernandez-miami-reserva-maduro.html",
+   "https://www.famous-smoke.com/brand/casa-fernandez-miami-reserva-cigars"
+  ],
+  "notes": "Rolled in Miami, not Nicaragua; the factory name is not published. Unlike the Corojo version it is not a Nicaraguan puro, since the wrapper is Mexican.",
+  "verified": true,
+  "verifyNotes": "Wrapper, USA origin and Full strength confirmed on Neptune and Holt's; sizes confirmed on Famous; a 2013 halfwheel story confirms the Miami-made San Andres version. Reworded about to drop the unsourced 'former name' claim."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Rare Leaf Reserve Daily Edition Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "vanilla",
+   "earth",
+   "sweetness",
+   "baking spice",
+   "cream"
+  ],
+  "about": "A Connecticut-wrapped take on Aganorsa Leaf's Rare Leaf Reserve, made in 2025 as an exclusive for the Phoenix retailer Cigars Daily. It was developed by Aganorsa's Terence Reilly and Cigars Daily founder Tim Swanson.",
+  "released": 2025,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/cigars-daily-gets-aganorsa-leaf-rare-leaf-reserve-daily-edition-connecticut/455801/",
+   "https://cigarsdaily.com/product/aganorsa-leaf-rare-leaf-reserve-connecticut-daily-edition-toro-6x52/"
+  ],
+  "notes": "Sold only by Cigars Daily in Phoenix, in one 6 x 54 toro. No production cap has been announced. halfwheel says Nicaraguan Corojo 99 and Criollo 98 sit under the wrapper without saying which is binder or filler.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, Mild-Medium strength and 6 x 54 size confirmed on halfwheel and Cigars Daily. Filler cut to 'Nicaragua' since no source assigns the Corojo 99 and Criollo 98 to the filler. Production set to null: it is a store exclusive, but no source calls it limited."
+ }
+]

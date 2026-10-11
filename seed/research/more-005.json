@@ -1,0 +1,806 @@
+[
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada 10 Selección de Mercado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Criollo (criollo seed, rosado color, grown in the Connecticut River Valley)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona Viva",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Doble",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "espresso",
+   "earth"
+  ],
+  "about": "A version of the Liga Privada 10 Aniversario that Drew Estate blends for markets outside the United States. It is known for its reddish rosado wrapper and a smoother profile than the U.S. cigar.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-sdm/",
+   "https://halfwheel.com/liga-privada-10-aniversario-seleccion-de-mercado/434865/",
+   "https://drewestate.prezly.com/drew-estate-introduces-liga-privada-10-seleccion-de-mercado-exclusively-for-international-markets"
+  ],
+  "notes": "Not sold in the U.S. Drew Estate lists Nicaraguan and Pennsylvania filler; halfwheel reports Honduras and Nicaragua. The product page says medium to full, the launch release said medium-bodied, and halfwheel's reviewer found the strength below medium.",
+  "verified": true,
+  "verifyNotes": "Filler corrected: removed Brazil, which no source lists (Drew Estate's page and press release say Nicaragua and Pennsylvania). Notes updated to match."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Ratzilla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut River Valley stalk-cut and cured sun grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "espresso",
+   "spice",
+   "cedar"
+  ],
+  "about": "A longer, slightly thicker take on the Dirty Rat from Drew Estate's Único Serie, wrapped in the same Connecticut-grown habano leaf as the T52. Drew Estate describes it as a creamier, smoother version of the Dirty Rat blend.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+   "https://halfwheel.com/review-liga-privada-unico-serie-ratzilla-prerelease/28214/",
+   "https://www.holts.com/cigars/all-cigar-brands/liga-privada-unico.html"
+  ],
+  "notes": "One size in the Único Serie, where each vitola has its own blend. Holt's lists it as full, and halfwheel's review ended at full.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'wood' (not in the sources). Notes cited Small Batch and JR, which were not among the sources and I could not confirm; rewrote them around Holt's and halfwheel and swapped the Cigar Advisor link for Holt's."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Velvet Rat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "leather",
+   "cedar",
+   "coffee",
+   "pepper"
+  ],
+  "about": "A broadleaf-wrapped lonsdale in Drew Estate's Único Serie, the same length and ring as the Ratzilla. It began in 2012 as a small release for a Chicago retailer and later became a regular offering.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+   "https://halfwheel.com/liga-privada-unico-serie-velvet-rat/215048/",
+   "https://www.famous-smoke.com/liga-privada-unico-velvet-rat-cigars-maduro"
+  ],
+  "notes": "One size in the Único Serie, where each vitola has its own blend.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'nuts' and changed 'black pepper' to 'pepper' to match halfwheel's tasting notes. Blend, size, country and full strength confirmed."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Year of the Rat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cream",
+   "earth",
+   "nuts"
+  ],
+  "about": "A broadleaf-wrapped corona gorda first made in 2016 for the Drew Estate lounge at the Florida Panthers' arena, named for the team's 1996 Stanley Cup Finals season. It now comes back in gold foil in occasional batches.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+   "https://halfwheel.com/liga-privada-year-of-the-rat-2020/378153/",
+   "https://halfwheel.com/liga-privada-year-of-the-rat-returns/438978/"
+  ],
+  "notes": "Drew Estate lists it among the Único sizes, but it ships in occasional batches (2016, 2020, 2021, 2022, 2024). Strength and body are from halfwheel's 2020 review; Drew Estate gives no rating for it.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'chocolate' (not in the sources). Dropped the Holt's remark from notes because Holt's is not one of this entry's sources."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie L40",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut River Valley stalk-cut and cured sun grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "caramel",
+   "pepper",
+   "citrus",
+   "cedar"
+  ],
+  "about": "The lancero of Drew Estate's Único Serie, built around the T52 habano wrapper. The name comes from its 40 ring gauge, two points thicker than a classic lancero.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+   "https://halfwheel.com/redux-liga-privada-unico-serie-l40/25701/",
+   "https://www.holts.com/cigars/all-cigar-brands/liga-privada-unico.html"
+  ],
+  "notes": "One size in the Único Serie. Halfwheel lists Nicaraguan filler only; Holt's describes the Único line in general as Nicaraguan and Honduran. Halfwheel rated the strength medium-full to full; Holt's lists full.",
+  "verified": true,
+  "verifyNotes": "Changed flavor 'black pepper' to 'pepper' to match halfwheel. Removed the Cigar Advisor mention from notes since it is not a listed source."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie UF-13 Dark",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (dark mediums)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "chocolate",
+   "leather",
+   "espresso",
+   "oak"
+  ],
+  "about": "A broadleaf-wrapped robusto in Drew Estate's Único Serie with a small twisted fan cap. It started as a test blend made for a 2012 Cigar.com charity event and went on general sale in 2013.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+   "https://halfwheel.com/redux-liga-privada-unico-serie-uf-13-dark/259226/",
+   "https://halfwheel.com/review-liga-privada-unico-serie-uf-13-dark-prerelease/34850"
+  ],
+  "notes": "Drew Estate's site calls it UF13 and lists 5 1/4 x 52; halfwheel lists 5 1/2 x 52. Halfwheel's original 2013 review ended at full strength, while its 2018 review of an aged one stopped at medium.",
+  "verified": true,
+  "verifyNotes": "The cited halfwheel redux says the strength stopped at medium, not full; the full rating comes from halfwheel's original 2013 review, which I added as a source in place of Holt's. Notes corrected. Removed flavor 'nuts'."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie UF-4",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "coffee",
+   "cinnamon",
+   "espresso"
+  ],
+  "about": "A toro that grew out of a stronger Liga Privada test blend and is released once a year around Halloween at Casa de Montecristo in Countryside, Illinois. UF stands for Ultra Fuerte.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+   "https://halfwheel.com/drew-estates-liga-privada-uf-4-pancetta-return-for-2022/415286/",
+   "https://halfwheel.com/review-liga-privada-unico-uf4/29903/"
+  ],
+  "notes": "Sold only at Casa de Montecristo near Chicago, once a year. First sold in 2011, though Drew Estate says the store has had it since 2010. No formal strength rating is published: Drew Estate calls it the Ultra Fuerte blend and halfwheel's reviewer called it strong. Older halfwheel pieces list Nicaraguan filler only.",
+  "verified": true,
+  "verifyNotes": "Removed the unsupported claim that it is pitched as the strongest Liga Privada. Added mata fina to the binder and tasting notes from halfwheel's 2012 review, which replaces the 2014 news link. Full strength is not a published rating; it rests on the Ultra Fuerte description and halfwheel calling it strong."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Savage Feast",
+  "found": true,
+  "officialName": "Liga Privada 10 Year Aniversario A Savage Feast",
+  "wrapperLeaf": "Connecticut Criollo (hybrid, Connecticut grown)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Otapan Negro Último Corte)",
+  "filler": "Nicaragua, USA (Pennsylvania Green River One Sucker ligero)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Feral Flying Pig (Perfecto)",
+    "length": 5.375,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice"
+  ],
+  "about": "The Liga Privada 10 Aniversario blend rolled in the Feral Flying Pig perfecto shape. It is not sold through normal channels and is offered at events that Jonathan Drew attends.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-liga-10/",
+   "https://halfwheel.com/liga-privada-10-year-aniversario-a-savage-feast-coming-to-select-events/390465/",
+   "https://halfwheel.com/liga-privada-10-aniversario-s-t-dupont-collection-humidors-getting-a-savage-feast-cigars/452616/"
+  ],
+  "notes": "Event-only cigar, packed in two-count coffins. It carries the 10 Aniversario blend, so strength and flavor words come from Drew Estate's 10 Aniversario page. In 2025 it was also offered to stores buying the S.T. Dupont humidor set.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. The 2025 S.T. Dupont remark had no source, so I added the halfwheel story that supports it in place of the Único page link."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Papas Fritas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (No. 1 Darks)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Papas Fritas (Petit Corona)",
+    "length": 4.25,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "leather",
+   "coffee",
+   "earth",
+   "pepper"
+  ],
+  "about": "A short mixed-filler cigar made from the leaf trimmings left over from rolling Liga Privada No. 9 and T52, finished with a broadleaf wrapper. It is a lower-priced Liga Privada that smokes in about 30 minutes.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-papas-fritas/",
+   "https://halfwheel.com/redux-liga-privada-unico-serie-papas-fritas/37748/",
+   "https://www.holts.com/cigars/all-cigar-brands/liga-privada-unico.html"
+  ],
+  "notes": "Mixed filler, not long filler. Drew Estate lists 4 1/4 x 43; halfwheel and Holt's list 4 1/2 x 44. Drew Estate says medium to full, while Holt's lists the Único line as full.",
+  "verified": true,
+  "verifyNotes": "Notes cited JR, which I could not confirm; replaced with Holt's and added Holt's as a source. Lightly reworded 'about'."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Nasty Fritas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nasty Fritas (Short Pyramid)",
+    "length": 4,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "leather",
+   "coffee",
+   "pepper",
+   "earth",
+   "cream"
+  ],
+  "about": "The Papas Fritas idea in the cone-shaped Nasty vitola borrowed from Drew Estate's ACID line. It uses short-cut filler left over from Liga Privada No. 9 and T52 under a broadleaf wrapper.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-papas-fritas/",
+   "https://halfwheel.com/liga-privada-nasty-fritas/284457/",
+   "https://www.neptunecigar.com/cigars/liga-privada-unico-serie-nasty-fritas"
+  ],
+  "notes": "Mixed filler, not long filler. The whole cigar tapers from foot to head. Drew Estate says medium to full; Neptune lists full.",
+  "verified": true,
+  "verifyNotes": "Removed JR from notes (not a listed source and not confirmed). All other fields confirmed."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada H99 Papas Fritas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Corojo (H99 hybrid, corojo seed grown in the Connecticut River Valley)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Otapan Negro Último Corte)",
+  "filler": "Honduras, Nicaragua, USA (Pennsylvania Green River One Sucker)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Papas Fritas (Petit Corona)",
+    "length": 4.25,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "cream",
+   "cedar",
+   "cocoa"
+  ],
+  "about": "The Papas Fritas format made with the Liga Privada H99 blend, using trimmings saved from rolling the larger H99 sizes. It pairs a Connecticut-grown corojo wrapper with a San Andrés binder.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/liga-privada/liga-privada-papas-fritas/",
+   "https://halfwheel.com/liga-privada-h99-connecticut-corojo-papas-fritas/429040/",
+   "https://drewestate.com/products/liga-privada/liga-privada-h99/"
+  ],
+  "notes": "Mixed filler. Drew Estate lists 4 1/4 x 43; halfwheel lists 4 1/2 x 44. Drew Estate's Papas Fritas page says medium to full, but halfwheel's reviewer found the strength under medium.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'earth' (not in the sources). Trimmed notes to the listed sources; Neptune does list full and 4 1/2 x 44, the Famous claim was not confirmed."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Porchetta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut River Valley stalk-cut and cured sun grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso (box-pressed)",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed belicoso in Drew Estate's Único Serie made only for the Casa de Montecristo chain of stores. It debuted in late 2023 and came back with new packaging in 2024.",
+  "released": 2023,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/drew-estates-liga-privada-unico-serie-porchetta-returns-to-casa-de-montecristo/443863/",
+   "https://halfwheel.com/drew-estate-sending-liga-privada-porchetta-to-casa-de-montecristo-stores/431584/"
+  ],
+  "notes": "Casa de Montecristo exclusive. Announced in 2023 as an ongoing item, but it arrives in dated yearly batches (800 boxes of 20 in 2024). Halfwheel's 2023 story called the wrapper Brazilian mata fina; its 2024 story lists Connecticut habano over a mata fina binder. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Production set to null: halfwheel's 2023 story says it is a regular production item for the chain, which conflicts with 'limited', and the 2024 batch was dated and counted. Added the wrapper disagreement between the two halfwheel stories. No strength is published by Drew Estate or halfwheel."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Pancetta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut stalk-cut and cured Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 4.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "cedar",
+   "charred meat",
+   "bread",
+   "espresso"
+  ],
+  "about": "A short belicoso in Drew Estate's Único Serie that uses the same Connecticut habano wrapper as the Liga Privada T52. It is released once a year to two Liga Privada lounge stores.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/liga-privada-unico-serie-pancetta-returns-july-15/440848/",
+   "https://halfwheel.com/liga-privada-pancetta-2020/392716/"
+  ],
+  "notes": "Annual release sold only at Wooden Indian Tobacco Shop in Havertown, Pa., and Barrister Cigars in Union, N.J. Strength is from halfwheel's review, which had it building to just under full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Bauhaus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "pepper",
+   "cedar",
+   "cream",
+   "nuts"
+  ],
+  "about": "A short robusto in Drew Estate's Único Serie made for the European market and named after the Bauhaus school of design. It went on sale in Germany in February 2021.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/liga-privada-bauhaus-2/405145/",
+   "https://halfwheel.com/liga-privada-bauhaus/390223/",
+   "https://halfwheel.com/liga-privada-bauhaus-goes-on-sale/390341/"
+  ],
+  "notes": "Sold only in Europe. Drew Estate has not said whether it is a limited item. Halfwheel's first review had the strength reaching full; a later one had it at medium-plus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Papas Bravas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "licorice",
+   "black pepper",
+   "herbs",
+   "sweet spice"
+  ],
+  "about": "A broadleaf-wrapped Único Serie blend that Drew Estate created for the European market in 2024, in two sizes that both have a pigtail cap. The name plays on Papas Fritas and refers to a Spanish fried potato dish.",
+  "released": 2024,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/drew-estate-creates-liga-privada-unico-serie-papas-bravas-for-europe/442811/"
+  ],
+  "notes": "Sold only in Europe. Despite the name it comes in full robusto and toro sizes, not the small Papas Fritas format.",
+  "verified": true,
+  "verifyNotes": "Removed the sentence saying Drew Estate has not said whether it is limited; the source does not say that. Other fields confirmed against the single halfwheel story."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Bakkwa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "peanuts",
+   "toast",
+   "cocoa",
+   "pepper"
+  ],
+  "about": "A Churchill in Drew Estate's Único Serie made for Hong Kong retailer CoH Cigars and tied to Lunar New Year. It is named after a Chinese dried pork dish eaten around the holiday.",
+  "released": 2024,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/review-liga-privada-unico-serie-bakkwa-2/441255/",
+   "https://halfwheel.com/drew-estate-announces-liga-privada-bakkwa-another-coh-cigars-exclusive/436556/"
+  ],
+  "notes": "Exclusive to CoH Cigars of Hong Kong. Drew Estate disclosed only the wrapper; the binder and filler are not published. Strength and body are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": "Production set to null: the sources call it a retailer exclusive with undisclosed numbers but never say it is limited. Other fields confirmed."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Year of the Ox",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "white pepper",
+   "cream",
+   "nuts",
+   "bread"
+  ],
+  "about": "The 2021 entry in Drew Estate's Chinese zodiac series of Liga Privada cigars, wrapped in gold foil and sold in boxes of eight. It was made for the Chinese market and smokes milder than most Liga Privada blends.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/liga-privada-year-of-the-ox/393329/",
+   "https://halfwheel.com/drew-estate-plans-liga-privada-year-of-the-ox-release/391425/"
+  ],
+  "notes": "Released for the Chinese market through Drew Estate's distributor there. Halfwheel's news story lists 6 1/4 x 54, while its review lists 6 x 54. Strength and body are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Year of the Tiger",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cream",
+   "wood",
+   "earth",
+   "nuts"
+  ],
+  "about": "The 2022 entry in Drew Estate's Chinese zodiac series of Liga Privada cigars, wrapped in gold foil and sold in boxes of eight. It was an exclusive for Hong Kong retailer CoH Cigars.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/liga-privada-unico-serie-year-of-the-tiger/408059/",
+   "https://halfwheel.com/liga-privada-year-of-the-tiger-heading-to-coh-cigars/404769/"
+  ],
+  "notes": "Exclusive to CoH Cigars of Hong Kong. Drew Estate pitched it as powerful, but halfwheel's reviewer found it one of the mildest Liga Privadas, medium at most.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Year of the Rabbit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano (stalk-cut)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Brazil, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "toast",
+   "black pepper",
+   "nuts"
+  ],
+  "about": "The 2023 entry in Drew Estate's Chinese zodiac series of Liga Privada cigars, a short, thick parejo sold in boxes of eight. It was an exclusive for Hong Kong retailer CoH Cigars.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/liga-privada-unico-serie-year-of-the-rabbit/421741/",
+   "https://halfwheel.com/drew-estate-sending-liga-privada-year-of-the-rabbit-to-coh-cigars/417812"
+  ],
+  "notes": "Exclusive to CoH Cigars of Hong Kong. Drew Estate lists it as 4 1/2 x 54; halfwheel measured its samples at about 56 ring. Strength and body are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Year of the Dragon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "almonds",
+   "earth",
+   "honey",
+   "black pepper",
+   "leather",
+   "cream"
+  ],
+  "about": "The 2024 entry in Drew Estate's Chinese zodiac series of Liga Privada cigars, sold in boxes of ten by Hong Kong retailer CoH Cigars. Drew Estate never formally announced it.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/liga-privada-year-of-the-dragon/439378/",
+   "https://halfwheel.com/liga-privada-year-of-the-dragon-goes-on-sale/435805/"
+  ],
+  "notes": "The blend is undisclosed: neither Drew Estate nor CoH Cigars has published the wrapper, binder or filler. It is listed as 6 x 52, but halfwheel measured its samples at 6 1/2 x 56. Strength is from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

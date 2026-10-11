@@ -1,0 +1,855 @@
+[
+ {
+  "brand": "Room 101",
+  "line": "Farce Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Joya de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "anise",
+   "earth",
+   "cedar",
+   "black pepper",
+   "leather"
+  ],
+  "about": "The all-Nicaraguan version of Room101's Farce line, launched in late 2022. It is the only Farce blend rolled at Joya de Nicaragua instead of by William Ventura in the Dominican Republic.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/farce",
+   "https://halfwheel.com/room101-farce-nicaragua-robusto/421363/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "Wrapper varietal is not disclosed. Room101 lists the Robusto at 5 1/2 x 50, halfwheel at 5 1/4 x 50. Neptune's spec table says Medium while its description says medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Doomsayer Aggressive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Honduras, Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro-wrapped half of Room101's two-blend Doomsayer line, introduced in 2019. It shares its binder and filler with Doomsayer Passive and comes in one 6 x 55 toro sold in 55-count boxes.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/doomsayer",
+   "https://halfwheel.com/room101-doomsayer-debuting-at-ipcpr-2019/336486/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "Announced in 2019 as Doomsayer Maduro with the wrapper undisclosed; Room101 now lists it as Ecuadorian Maduro. The sister blend Passive uses an Ecuadorian Habano wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Big Payback Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua (Criollo '98 from Condega, Jalapa and Esteli)",
+  "country": "Nicaragua",
+  "factory": "Joya de Nicaragua",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "The Connecticut shade version of Room101's value-priced Big Payback line. It first shipped in 2016 and was brought back in late 2020 with a reworked blend.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/payback",
+   "https://halfwheel.com/room101-releases-details-11th-anniversary-announces-the-big-payback-connecticut-returning/383983/",
+   "https://www.cigarsdirect.com/products/room-101-big-payback-connecticut-toro"
+  ],
+  "notes": "Sources disagree. Halfwheel reported the 2020 relaunch as Nicaraguan binder and filler made at Joya de Nicaragua; Room101 now lists a Mexican binder; Cigars Direct lists Honduras with Dominican filler, which matches the original 2016 version made by Camacho.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Big Payback Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "STG Danli (HATSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Gran Papi Chulo Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "cocoa",
+   "cream"
+  ],
+  "about": "A broadleaf-wrapped, value-priced Room101 line that revived the Big Payback name in 2019. It is made at General Cigar's factory in Danli, Honduras and sold in bundles of 20 and boxes of 40.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/payback",
+   "https://halfwheel.com/room101-ships-big-payback-maduro/367849/",
+   "https://www.cigarsdirect.com/products/room-101-big-payback-maduro-toro"
+  ],
+  "notes": "Binder and filler are from Room101's site. Halfwheel in 2019 and three retailers list a Connecticut Shade binder with Dominican, Honduran and Nicaraguan filler. Neptune and Cigars Direct list it as Medium, Cigars Daily as Medium-Full.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: Neptune and Cigars Direct both list Medium, only Cigars Daily lists Medium-Full. The note said Cigars Direct lists Full, which its page does not. Swapped the Neptune brand page for the Cigars Direct product page."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Big Payback Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua (Jalapa, Esteli)",
+  "country": "Nicaragua",
+  "factory": "Joya de Nicaragua",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper"
+  ],
+  "about": "A Nicaraguan puro in Room101's value-priced Big Payback line, added in 2022. It is rolled at Joya de Nicaragua and sold in boxes of 40.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/payback",
+   "https://halfwheel.com/room101-adding-13th-anniversary-big-payback-nicaragua/408912/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Removed the flavor 'dark chocolate': no maker or retailer description states it. Neptune and Cigars Daily list the Toro as 6 x 50; Room101 and halfwheel say 6 x 54, which is kept."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Big Payback 70s",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Olancho San Agustin (OSA)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua (Condega, ASP), Honduras (La Entrada), Dominican Republic (Piloto Cubano)",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "70s",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A 7 x 70 Big Payback that returned in June 2023 with a blend used only in this size. It is made at STG Danli in Honduras and sold in boxes of 30.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/payback",
+   "https://halfwheel.com/room101-the-big-payback-7-x-70-returning-next-month/423257/",
+   "https://www.cigarsdirect.com/products/room-101-big-payback-70s"
+  ],
+  "notes": "Room101's site calls it the 70s Original. Its blend is different from the other Big Payback lines. Retailers disagree on strength: Cigars Direct lists Medium-Full, Cigars Daily lists Medium.",
+  "verified": true,
+  "verifyNotes": "Note said Cigars Direct lists Full; its page says Medium-Full. Added the Nicaraguan ASP filler leaf that Room101's site lists."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Big Payback 70s Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "70s Maduro",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "spice"
+  ],
+  "about": "The 7 x 70 size of Room101's Big Payback Maduro, released in August 2024 with its own blue and yellow bands. It is made at STG Danli in Honduras and sold in boxes of 30.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/payback",
+   "https://halfwheel.com/room101-brings-7-x-70-vitola-back-to-the-big-payback-maduro/441344/",
+   "https://www.cigarsdirect.com/products/room-101-big-payback-70s-maduro"
+  ],
+  "notes": "This is the 7 x 70 size of Big Payback Maduro with its own branding. Halfwheel says it shares that line's blend, though Room101's site lists the two differently. Retailers disagree on strength: Neptune lists Medium, Cigars Direct Medium-Full.",
+  "verified": true,
+  "verifyNotes": "Note said Cigars Direct lists Full; its page says Medium-Full. Added that Room101's site lists a different binder and filler than for Big Payback Maduro."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Big Payback Extra Fuerte",
+  "found": true,
+  "officialName": "The Big Payback Extra Fuerte 70s",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Esteli)",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "70s",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "A stronger 7 x 70 addition to Room101's Big Payback line, shipped in April 2026. It is made at STG Danli in Honduras and sold in boxes of 20.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/room101-adds-the-big-payback-extra-fuerte-70s-and-johnny-tobacconaut-maduro/467605/",
+   "https://halfwheel.com/pca-2026-scandinavian-tobacco-group/465464/",
+   "https://www.neptunecigar.com/cigar/room-101-the-big-payback-extra-fuerte"
+  ],
+  "notes": "Offered only in the 7 x 70 size.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Johnny Tobacconaut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Perfecto",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "citrus",
+   "black pepper"
+  ],
+  "about": "Room101's space-themed line, made by AJ Fernandez in Esteli with an Ecuadorian Connecticut shade wrapper. The name began as a 2015 limited edition and became a regular line in 2023, when it placed third on halfwheel's Top 25.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/johnny-tobacconaut",
+   "https://halfwheel.com/room101-johnny-tobacconaut-perfecto/432482/",
+   "https://www.cigarsdirect.com/products/room-101-johnny-tobacconaut-toro"
+  ],
+  "notes": "The current blend dates from August 2023. The 2015 original was a limited Nicaraguan puro made at Camacho's factory in Honduras. Strength is listed from Mild (Cigars Daily) to Medium (Neptune).",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Johnny Tobacconaut Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "espresso",
+   "cocoa",
+   "black pepper",
+   "leather",
+   "anise"
+  ],
+  "about": "A maduro-wrapped Nicaraguan puro added to the Johnny Tobacconaut line in June 2026. It is made by AJ Fernandez and sold in boxes of 20.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/room101-johnny-tobacconaut-maduro-robusto/476893/",
+   "https://halfwheel.com/room101-adds-the-big-payback-extra-fuerte-70s-and-johnny-tobacconaut-maduro/467605/",
+   "https://cigarsdaily.com/product/room101-johnny-tobacconaut-maduro-toro-6x52/"
+  ],
+  "notes": "Room101 calls it full-bodied. Halfwheel's reviewer found the Robusto topped out at medium-full strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Johnny Tobacconaut 10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "white pepper",
+   "cream",
+   "pine",
+   "nuts"
+  ],
+  "about": "A limited Nicaraguan puro marking ten years since the first Johnny Tobacconaut in 2015. Matt Booth made it with AJ Fernandez in a single 6 x 52 toro that shipped in September 2025.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.room101cigars.com/cigars/limited-editions/johnny-tobacconaut-10th-anniversary",
+   "https://halfwheel.com/room101-johnny-tobacconaut-10th-anniversary/455439/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "The tobacco varietals and the production number were not disclosed. Room101 calls it full-bodied and Neptune lists Full, but halfwheel's reviewer found the strength between medium and medium-full.",
+  "verified": true,
+  "verifyNotes": "Added the strength disagreement to the note; fields unchanged."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Hit & Run Redux",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua (Criollo '98 and one undisclosed varietal), USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.125,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "black pepper",
+   "anise",
+   "earth",
+   "dark chocolate",
+   "almonds"
+  ],
+  "about": "The third version of Hit & Run, the brand Matt Booth started with Robert Caldwell in 2017. This 2024 Room101 release has a San Andres wrapper and is made by the Ventura family in the Dominican Republic.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.room101cigars.com/cigars/classics/hit-and-run",
+   "https://halfwheel.com/room101-hit-run-redux-gordo/440800/",
+   "https://www.cigarsdirect.com/products/room-101-hit-and-run-redux-toro"
+  ],
+  "notes": "Retailers disagree on strength: Neptune lists Medium, Cigars Direct Medium-Full and Cigars Daily Full. Halfwheel calls the Nicaraguan filler corojo 98 where Room101 says Criollo '98. Halfwheel says the Ventura family makes it, but not in their original factory, which burned in 2022.",
+  "verified": true,
+  "verifyNotes": "Strength set to null (was Medium): Room101 gives none and three retailers list three different values. Swapped the Neptune brand page for the Cigars Direct product page the note cites. Halfwheel's text says it is not rolled in the original Tabacalera William Ventura building, though its spec box still names that factory."
+ },
+ {
+  "brand": "Room 101",
+  "line": "11th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Oliva Cigar Co.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "bread",
+   "nuts",
+   "cinnamon",
+   "espresso",
+   "oak",
+   "cocoa"
+  ],
+  "about": "Room101's second anniversary cigar, a Nicaraguan puro with a maduro wrapper released in December 2020. It came in one 6 x 54 torpedo and was limited to 1,000 boxes of 20.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/room101-11th-anniversary-torpedo/387195/",
+   "https://halfwheel.com/room101-revisits-anniversary-releases-in-limited-edition-humidor/449615/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "The factory was undisclosed at release; halfwheel later named Oliva as the maker when the blend was re-rolled for the 2025 Anniversary Humidor. Neptune lists it as Full, but halfwheel's reviewer found it medium in strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "13th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "black pepper",
+   "cream",
+   "chocolate",
+   "earth"
+  ],
+  "about": "Room101's 2022 anniversary cigar, a 6 x 52 Nicaraguan puro made by AJ Fernandez from his own tobacco. It wears a pink band and was limited to 1,500 boxes of 20.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/room101-13th-anniversary/415934/",
+   "https://www.neptunecigar.com/room-101-cigar",
+   "https://www.cigarsdirect.com/products/room-101-13th-anniversary-toro"
+  ],
+  "notes": "Halfwheel lists the wrapper only as Nicaragua; Neptune and Cigars Direct describe it as maduro. Neptune lists it as Full and Cigars Direct as Medium-Full, while halfwheel's reviewer found the strength closer to medium.",
+  "verified": true,
+  "verifyNotes": "Strength set to null (was Full): the note claimed both retailers list Full, but Cigars Direct's spec table says Medium-Full and halfwheel found it medium."
+ },
+ {
+  "brand": "Room 101",
+  "line": "14th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "charcoal",
+   "bread",
+   "salt"
+  ],
+  "about": "Room101's 2023 anniversary cigar, a 6 x 52 toro made entirely of Nicaraguan tobacco from AJ Fernandez's farms. It shipped in July 2023 in red packaging.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/room101-14th-anniversary/431438/",
+   "https://www.neptunecigar.com/room-101-cigar",
+   "https://www.cigarsdirect.com/products/room-101-14th-anniversary-toro"
+  ],
+  "notes": "The wrapper varietal and the production number were not disclosed. Halfwheel's reviewer found it very strong.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "15th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cocoa"
+  ],
+  "about": "A 6 x 52 Nicaraguan puro made by AJ Fernandez for Room101's 15th year. It shipped in February 2025 and was limited to 2,000 boxes of 20.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.room101cigars.com/cigars/limited-editions/anniversary-series",
+   "https://halfwheel.com/room101-15th-anniversary-shipping-feb-24/446693/",
+   "https://www.cigarsdirect.com/products/room-101-15th-anniversary-toro"
+  ],
+  "notes": "The wrapper varietal is not disclosed. Cigars Direct calls it a Nicaraguan maduro; Neptune lists the wrapper shade as natural. Neptune lists it as Full and Cigars Direct as Medium-Full, while the launch announcement called it medium-bodied.",
+  "verified": true,
+  "verifyNotes": "Strength set to null (was Full): Room101 gives none, Neptune says Full, Cigars Direct says Medium-Full and the press announcement says medium-bodied. Swapped the Neptune brand page for the Cigars Direct product page."
+ },
+ {
+  "brand": "Room 101",
+  "line": "17th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "bread",
+   "red pepper",
+   "cream",
+   "nuts"
+  ],
+  "about": "Room101's 2026 anniversary cigar, a 6 x 52 Nicaraguan puro made by AJ Fernandez. It shipped in August 2026 and is limited to 2,500 boxes of 20.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/room101-17th-anniversary-arrives-at-stores/476297/",
+   "https://halfwheel.com/room101-17th-anniversary/479401/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "There was no 16th Anniversary cigar. Neptune and halfwheel's reviewer put the strength at medium, while Cigars Daily lists it as Full. The wrapper varietal is not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Namakubi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chingon",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "black pepper",
+   "cocoa"
+  ],
+  "about": "One of Room101's oldest lines, first released in 2011 and named for the Japanese word for a severed head. It now comes back as occasional limited editions, most recently a 6 1/2 x 50 perfecto in October 2025.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://www.room101cigars.com/cigars/limited-editions/namakubi",
+   "https://halfwheel.com/room101-namakubi-ltd-2025/456816/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "The blend changes by edition; these specs are the 2025 release. The 2011 original had an Ecuadorian Habano wrapper and was made at Camacho in Honduras. Neptune lists Full and Cigars Direct Medium-Full, but halfwheel's reviewer found it mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Daruma",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Oliva",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Room101 sub-brand from 2012 that returned in 2023 as a limited Nicaraguan puro made by Oliva. The revival came in one 6 x 50 toro, limited to 2,000 boxes of 10.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://www.room101cigars.com/cigars/limited-editions/daruma",
+   "https://halfwheel.com/room101-daruma-returning-in-the-coming-weeks/420409/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "These specs are the 2023 version, whose varietals are undisclosed. The 2012 original was a different blend with an Ecuadorian Habano wrapper and Brazilian Mata Fina binder. Neptune lists Full, Cigars Direct Medium-Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Uncle Lee",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Dominican Republic (Piloto Ligero), Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "Agroindustria LAEPE S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "clove",
+   "dark berries",
+   "coffee",
+   "nuts"
+  ],
+  "about": "A perfecto Matt Booth released in December 2014 as a tribute to the uncle who introduced him to cigars. It was made at Davidoff's LAEPE factory in Honduras in a run of 5,000 boxes of 10.",
+  "released": 2014,
+  "production": "discontinued",
+  "sources": [
+   "https://www.room101cigars.com/cigars/the-vault/uncle-lee",
+   "https://halfwheel.com/room101-uncle-lee/75616/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "It was a one-time limited run and Room101 now lists it in its vault of retired cigars. Neptune lists it as Medium; halfwheel's reviewer found it built to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

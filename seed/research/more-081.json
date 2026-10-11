@@ -1,0 +1,631 @@
+[
+ {
+  "brand": "Ferio Tego",
+  "line": "Summa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "cream",
+   "bread",
+   "leather",
+   "white pepper"
+  ],
+  "about": "Summa is the first all-new regular production blend from Ferio Tego, the company Michael Herklots and Brendon Scott built from the old Nat Sherman cigar portfolio. It is made by the Quesada family in the Dominican Republic and sold in boxes of ten.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://feriotego.com/feriotegosumma",
+   "https://halfwheel.com/ferio-tego-summa-corona-gorda/430386/",
+   "https://www.cigaraficionado.com/ratings/26955/name/ferio-tego-summa-robusto"
+  ],
+  "notes": "Strength varies by source: Cigar Aficionado rates it Medium-Full, Neptune and Famous Smoke list Medium, and Atlantic and Corona list Full. The maker calls it full-bodied, and halfwheel's review found medium to medium-plus strength.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, five sizes and 2023 release confirmed on the maker page and halfwheel. Medium-Full kept because Cigar Aficionado's rating says so; swapped the Neptune source for that rating. Changed flavor 'black pepper' to 'white pepper' (halfwheel never says black pepper). Dropped Mike's from the note since I did not check it."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Milestones",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "toast",
+   "wood",
+   "cream",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "A limited edition toro made with the Miles Davis Estate for the centennial of the musician's birth, named after his 1958 album. Each box of ten includes a reproduction of one of four Miles Davis sketches.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.feriotego.com/news/ferio-tego-joins-official-miles-davis-centennial-celebration-with-ferio-tego-milestones",
+   "https://halfwheel.com/ferio-tego-milestones/481035/",
+   "https://atlanticcigar.com/ferio-tego-milestones-limited-edition-6x50/"
+  ],
+  "notes": "Limited to 1,600 boxes of 10. Strength varies by source: halfwheel's review calls it mild with medium body, Atlantic lists Mild-Medium and Neptune lists Medium. The maker names the producer as Agroindustrias; halfwheel says that is Davidoff's Diadema (Camacho) factory in Honduras.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the maker press release, halfwheel review and Atlantic. Neptune's Medium confirmed at /cigar/ferio-tego-milestones-limited-edition. Note reworded slightly."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Celebraciones",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diadema",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Ferio Tego line in a 7 x 50 diadema shape, made by the Quesada family in the Dominican Republic. Its first batch was made for the 30th anniversary of World Famous Cigar Bar in Florida.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ferio-tego-celebraciones-debuts-at-world-famous-cigar-bar/459155/"
+  ],
+  "notes": "The blend is undisclosed; Michael Herklots has only said it is completely new. It debuted in December 2025 as 250 boxes of 10 for World Famous Cigar Bar, with a wider release planned for 2026 at select retailers and events.",
+  "verified": true,
+  "verifyNotes": "Confirmed on halfwheel that the blend is being kept undisclosed, so wrapper and strength stay null; country, factory, 7 x 50 size and the December 2025 debut all match. The maker site has no page or news post for it and I found no second source."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Timeless Panamericana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Julieta",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso Fino",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Epicure",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Secreto",
+    "length": 4,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "leather",
+   "caramel",
+   "salt"
+  ],
+  "about": "A full-bodied blend made by Plasencia in Nicaragua with Nicaraguan and Costa Rican filler under an Ecuadorian wrapper. It began as a Nat Sherman Townhouse exclusive and now sits in Ferio Tego's Timeless Collection.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/timeless-panamericana",
+   "https://halfwheel.com/ferio-tego-timeless-panamericana-timeless-supreme-returning-to-shelves-next-week/402135/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-timeless-panamericana"
+  ],
+  "notes": "First released by Nat Sherman in 2014; Ferio Tego brought it back in November 2021 with the same blend. The maker lists the wrapper only as Ecuador, while halfwheel names it Ecuadorian Sumatra. halfwheel lists the Belicoso Fino as 5 x 52 and the Secreto as 4 1/2 x 40.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and six sizes confirmed on the maker page and halfwheel; Full strength matches Neptune and Famous Smoke. Flavors replaced with the ones Neptune actually publishes (earth and wood were not in any source). Reworded 'about' because the wrapper is Ecuadorian, not Central American. Secreto 4 1/2 x 40 confirmed at halfwheel.com/ferio-tego-timeless-panamericana-secreto-goes-on-sale/434663/."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Timeless Prestige",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Divino",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Especiales",
+    "length": 6.25,
+    "ring": 38
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Hermoso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 2",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "No. 4",
+    "length": 4.5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "toast",
+   "almond",
+   "cream",
+   "butter",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A six-tobacco blend from three countries with a Honduran wrapper, made by the Quesada family in the Dominican Republic. It is the original Nat Sherman Timeless blend, now sold under Ferio Tego in boxes of twenty.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/timeless-prestige",
+   "https://halfwheel.com/ferio-tego-timeless-prestige-divinos/438259/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-timeless-prestige"
+  ],
+  "notes": "Began as Nat Sherman Timeless in 2011-12, renamed Timeless Prestige in 2018, relaunched by Ferio Tego in September 2021. Strength listings disagree widely: Neptune Medium, Corona Medium to Full, Famous Smoke Full, while halfwheel's review found it mild. The Divino is a short perfecto with a 32/50/36 ring.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and nine sizes confirmed on the maker page and halfwheel. Strength left at Medium (Neptune) but sources range from mild to Full, so treat it as soft; note rewritten to show the full spread, including Famous Smoke's Full which the researcher missed."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Timeless TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Estelí)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "earth",
+   "espresso",
+   "baking spice",
+   "black pepper"
+  ],
+  "about": "A black-banded Nicaraguan puro that Ferio Tego makes each year only for retailers in the Tobacconists' Association of America. It is rolled by Plasencia in Estelí and comes in a single toro size.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.feriotego.com/news/ferio-tego-timeless-taa-2025-available-in-stores",
+   "https://halfwheel.com/ferio-tego-timeless-2025-announced-as-taa-exclusive/455679/",
+   "https://halfwheel.com/ferio-tego-timeless-taa-2022/412665/"
+  ],
+  "notes": "An annual release with 2022, 2023, 2024 and 2025 editions, all 6 x 50 with an Estelí wrapper and Jalapa fillers; the 2025 edition was 900 boxes of 10. It follows the Nat Sherman Timeless TAA 2020. Corona Cigar lists Medium to Full and Neptune lists Full; flavor notes come from halfwheel's review of the 2022 edition.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Full to Medium-Full: only Neptune says Full, while Corona lists Medium to Full and halfwheel's 2022 review found medium rising to medium-full. Blend, factory, size and 2022 first edition confirmed. Swapped the Neptune source for the halfwheel 2022 review, which is where the flavors come from."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Timeless Ten Years",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cocoa",
+   "peanuts",
+   "cedar",
+   "espresso",
+   "earth"
+  ],
+  "about": "A limited edition robusto extra made by Quesada in the Dominican Republic to mark ten years of the Timeless line. It shipped in August 2022 in boxes of ten.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ferio-tego-timeless-ten-years/414840/",
+   "https://halfwheel.com/ferio-tego-timeless-ten-years-begins-shipping/413022/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-timeless-limited-10-years"
+  ],
+  "notes": "The name marks ten years of the Timeless line (a former Nat Sherman brand), not of Ferio Tego. Limited to 2,500 boxes of 10; the band reads Limited 10 Years and some shops list it as Timeless Limited 10 Years. An early trade show preview listed a different blend than the shipped cigar.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the halfwheel review, halfwheel shipping news and Neptune. The trade show preview blend was confirmed at halfwheel.com/pca-2022-ferio-tego/410580/. No changes."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Metropolitan Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Metropolitan",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "University",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Explorer",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Union",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Banker",
+    "length": 5,
+    "ring": 66
+   }
+  ],
+  "flavors": [
+   "wood"
+  ],
+  "about": "A mellow Dominican cigar with a Connecticut shade wrapper, made by the Quesada family. It is one of the original Nat Sherman Metropolitan blends from the mid-1990s, now sold under Ferio Tego.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/metropolitan-connecticut",
+   "https://halfwheel.com/ferio-tego-brings-back-metropolitan-selection/403935/",
+   "https://www.famous-smoke.com/brand/ferio-tego-metropolitan-connecticut-cigars"
+  ],
+  "notes": "A Nat Sherman blend from 1995-96, relaunched by Ferio Tego in January 2022. The maker and Famous Smoke give the wrapper as Connecticut, but Neptune calls it Ecuadorian Connecticut Shade. Famous Smoke and Mike's list Mild strength, Corona lists Mild-Medium and Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Mild-Medium to Mild: two retailers (Famous Smoke, Mike's) say Mild and the maker calls it mellow; Corona says Mild-Medium, Neptune Medium. US wrapper origin kept (maker, Famous Smoke and Mike's say Connecticut; only Neptune says Ecuador). Removed flavor 'cream', which no source states. Swapped the Neptune source for Famous Smoke."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Metropolitan Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Metropolitan",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "University",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Explorer",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Union",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Banker",
+    "length": 5,
+    "ring": 66
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness"
+  ],
+  "about": "A smooth Dominican cigar with a Connecticut Broadleaf maduro wrapper, made by the Quesada family. Like the Metropolitan Connecticut, it is a Nat Sherman blend from the mid-1990s carried on by Ferio Tego.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/metropolitan-maduro",
+   "https://halfwheel.com/ferio-tego-brings-back-metropolitan-selection/403935/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-metropolitan-maduro"
+  ],
+  "notes": "A Nat Sherman blend from 1995-96, relaunched by Ferio Tego in January 2022. Neptune and Corona Cigar list Medium strength; Mike's Cigars lists Mild.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, six sizes and strength confirmed (maker, halfwheel, Neptune, Corona, Mike's). Set body to null because no source gives body separately from strength."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Metropolitan Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "toast",
+   "butterscotch"
+  ],
+  "about": "A Nicaraguan puro with a habano wrapper, made by Plasencia in Estelí. It joined the Metropolitan family under Nat Sherman in 2016 and continues under Ferio Tego.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/metropolitan-habano",
+   "https://halfwheel.com/ferio-tego-brings-back-metropolitan-selection/403935/",
+   "https://halfwheel.com/nat-sherman-metropolitan-habano-robusto/138202/"
+  ],
+  "notes": "First released by Nat Sherman in 2016 and relaunched by Ferio Tego in January 2022. Neptune lists Medium strength and Mike's Cigars lists Full; halfwheel's review of the Nat Sherman version found medium strength. Flavor notes come from that earlier review.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and four sizes confirmed on the maker page and halfwheel; Medium confirmed on Neptune and in halfwheel's review of the Nat Sherman version, with Mike's listing Full. No changes."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Metropolitan Host Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Hampton",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Hyde",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Hudson",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Hobart",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweetness"
+  ],
+  "about": "A smooth Honduran cigar with a Connecticut Broadleaf maduro wrapper and a sweetened cap, made at Davidoff's factory in Honduras. It is the maduro version of the long-running Host line that Ferio Tego took over from Nat Sherman.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/metropolitan-host-maduro",
+   "https://halfwheel.com/ferio-tego-brings-back-metropolitan-selection/403935/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-metropolitan-host-maduro"
+  ],
+  "notes": "Has a sweetened cap. A former Nat Sherman Host blend, folded into the Metropolitan Selection in 2018 and relaunched by Ferio Tego in January 2022. The Hudson toro was added in boxes in September 2025.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sweetened cap and Medium strength confirmed (maker, halfwheel, Neptune, Mike's). The maker page lists only Hampton, Hyde and Hobart; the Hudson 6 x 50 in maduro was confirmed at feriotego.com/news/ferio-tego-adds-boxed-hudson-to-metropolitan-selection-host. No changes."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Metropolitan 30 Years",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toasted bread",
+   "peanuts",
+   "coffee",
+   "cocoa",
+   "white pepper"
+  ],
+  "about": "A limited edition toro marking thirty years of the Metropolitan brand, which began under Nat Sherman in the mid-1990s. It is made by the Quesada family in the Dominican Republic with an Ecuadorian habano wrapper.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.feriotego.com/news/ferio-tego-marks-thirty-years-of-the-metropolitan-brand-with-a-limited-release",
+   "https://halfwheel.com/ferio-tego-metropolitan-30-years/473515/",
+   "https://atlanticcigar.com/ferio-tego-metropolitan-ltd-30-years-6x50/"
+  ],
+  "notes": "Limited to 2,500 boxes of 10. halfwheel's review found medium strength with full flavor; Atlantic Cigar lists it as Medium-Full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the maker press release, halfwheel review and Atlantic. Medium follows halfwheel's review; Atlantic is the only retailer strength I could check and it says Medium-Full. No changes."
+ }
+]

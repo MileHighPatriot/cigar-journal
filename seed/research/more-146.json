@@ -1,0 +1,957 @@
+[
+ {
+  "brand": "Ave Maria",
+  "line": "Ave Maria",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Ligero, Viso), Honduras (Viso)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Crusader",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Clermont",
+    "length": 5.5,
+    "ring": 45
+   },
+   {
+    "name": "Knights Templar",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "St. George",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Barbarossa",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Charlemagne",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "Ark of the Covenant",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Morning Star",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Holy Grail",
+    "length": 7.1,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "cream",
+   "nuts",
+   "wood",
+   "leather"
+  ],
+  "about": "The original Ave Maria blend, a Knights Templar themed cigar made by AJ Fernandez in Esteli, Nicaragua and sold mainly through large catalog retailers. It pairs an Ecuadorian Habano wrapper with Nicaraguan and Honduran tobaccos.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarsdirect.com/collections/ave-maria",
+   "https://blindmanspuff.com/blind-cigar-review-ave-maria-knights-templar/",
+   "https://www.holts.com/cigars/all-cigar-brands/ave-maria.html"
+  ],
+  "notes": "Holts and Cigars Direct list it as medium to full, while Neptune says medium. Each size carries a Crusades themed name rather than a standard shape name.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: Holts and Cigars Direct both say medium to full and the Blind Man's Puff panel says medium-strong; only Neptune says medium. Flavors replaced with words actually published by Neptune, Holts and Blind Man's Puff. Swapped the Neptune source for Holts and removed an unconfirmed Meier & Dutch claim from about. All nine sizes confirmed on Cigars Direct."
+ },
+ {
+  "brand": "Ave Maria",
+  "line": "Immaculata",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "pepper"
+  ],
+  "about": "The Connecticut shade version of Ave Maria, made by AJ Fernandez in Esteli with an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler. It is the mildest cigar in the Ave Maria family.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/ave-maria-immaculata",
+   "https://www.cigarsdirect.com/collections/ave-maria"
+  ],
+  "notes": "Neptune's spec table says mild while its description and Cigars Direct both say mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ave Maria",
+  "line": "Lionheart",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sun Grown (origin not published)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Brazil, Mexico, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Earl (Robusto)",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Bishop (Belicoso)",
+    "length": 5.7,
+    "ring": 56
+   },
+   {
+    "name": "Chancellor (Gordo)",
+    "length": 5.9,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "leather",
+   "baking spice",
+   "pepper",
+   "chocolate"
+  ],
+  "about": "An Ave Maria line from AJ Fernandez with a sun grown wrapper over a Nicaraguan binder and fillers from Brazil, Mexico and Nicaragua. It comes in three sizes sold in boxes of 24.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://blindmanspuff.com/?p=41562",
+   "https://www.cigarsdirect.com/collections/ave-maria",
+   "https://www.neptunecigar.com/cigar/ave-maria-lionheart"
+  ],
+  "notes": "Cigars Direct and Neptune both call it full strength, but the Blind Man's Puff panel found it mild to medium. The wrapper's country is not published. An older 5.5 x 55 size of the original Ave Maria blend is also called The Lionheart, so check the band.",
+  "verified": true,
+  "verifyNotes": "Strength changed from null to Full: Neptune's own Lionheart page says full-strength, matching Cigars Direct. The researcher's 'Neptune says medium' came from the Ave Maria brand page, where a Lionheart listing sits under the original blend's specs. Source link and notes updated to match."
+ },
+ {
+  "brand": "Ave Maria",
+  "line": "Divinia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Sun Grown (origin not published)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Tubo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "coffee",
+   "earth",
+   "nuts"
+  ],
+  "about": "An Ave Maria line sold as a single 6 x 54 toro, individually packaged and sold ten to a box. It uses a sun grown Habano wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarsdirect.com/products/ave-maria-divinia-toro-tubo",
+   "https://www.neptunecigar.com/cigar/ave-maria-divinia"
+  ],
+  "notes": "Cigars Direct sells it as a Toro Tubo while Neptune describes individual coffins. The wrapper's country and the factory are not published for this line, though Ave Maria as a brand is made by AJ Fernandez.",
+  "verified": true,
+  "verifyNotes": "Cross-checked on Neptune, which calls the wrapper Habano Sun Grown, so wrapperLeaf and wrapperCategory changed from plain Sun Grown to Habano. Added Neptune's published flavors and its link. Removed the unsupported 'higher priced' wording and flagged that the two retailers disagree on tube versus coffin packaging."
+ },
+ {
+  "brand": "Los Statos",
+  "line": "Deluxe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "black pepper"
+  ],
+  "about": "The flagship of the relaunched Los Statos Deluxe brand from Forged Cigar Co., reblended in 2022 by Matt Booth and Justin Andrews. It is made in Honduras with an Ecuadorian Sumatra wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.losstatosdeluxecigars.com/the-humidor/los-statos-deluxe/",
+   "https://halfwheel.com/revamped-los-statos-deluxe-heads-to-retailers/411316/",
+   "https://www.neptunecigar.com/los-statos-cigar"
+  ],
+  "notes": "The brand's full name is Los Statos Deluxe, so Deluxe is not a separate line. It is an old General Cigar brand, named after a discontinued Cuban marca, that was fully revamped in 2022. The maker calls it medium-plus.",
+  "verified": true,
+  "verifyNotes": "officialName set to null because brand plus line already reads Los Statos Deluxe and the brief says not to repeat the brand. Notes reworded: halfwheel says the Cuban marca dates to about 1940 and was discontinued in 2005, not 'pre-revolution'."
+ },
+ {
+  "brand": "Los Statos",
+  "line": "Deluxe Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Esteli)",
+  "filler": "Honduras (Jamastran, La Entrada), Dominican Republic (Piloto Cubano)",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "The Connecticut Broadleaf wrapped version of Los Statos Deluxe, added a year after the 2022 relaunch and also made at STG's factory in Danli, Honduras. The maker describes it as a full-bodied blend.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.losstatosdeluxecigars.com/the-humidor/los-statos-deluxe-maduro/",
+   "https://halfwheel.com/los-statos-deluxe-connecticut-robusto/443875/"
+  ],
+  "notes": "Strength is the maker's word, full-bodied. The maker does not give a separate strength rating.",
+  "verified": true,
+  "verifyNotes": "officialName set to null (brand plus line already gives the full name). The maker's page says full-bodied, not full strength, so about and notes now say that."
+ },
+ {
+  "brand": "Los Statos",
+  "line": "Deluxe Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Esteli, Jalapa), USA (Pennsylvania Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Fabrica de Tabacos Joya de Nicaragua",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "earth",
+   "black pepper",
+   "caramel",
+   "leather"
+  ],
+  "about": "The mildest Los Statos Deluxe blend, created by Matt Booth and Justin Andrews and rolled at Joya de Nicaragua. It puts an Ecuadorian Connecticut wrapper over a Nicaraguan habano binder with Nicaraguan and Pennsylvania broadleaf fillers.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.losstatosdeluxecigars.com/the-humidor/los-statos-deluxe-connecticut/",
+   "https://halfwheel.com/los-statos-deluxe-connecticut-robusto/443875/",
+   "https://halfwheel.com/los-statos-deluxe-adds-connecticut-blend/441203/"
+  ],
+  "notes": "Made in Nicaragua, unlike the Honduran-made core and Maduro lines. The maker lists the Churchill as 7 x 49 while halfwheel lists 7 x 48. Strength and body are from halfwheel's review.",
+  "verified": true,
+  "verifyNotes": "officialName set to null (brand plus line already gives the full name)."
+ },
+ {
+  "brand": "Los Statos",
+  "line": "Deluxe Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "USA (Connecticut Broadleaf, Pennsylvania Broadleaf), Nicaragua (Corojo 98)",
+  "country": "Dominican Republic",
+  "factory": "El Maestro (Tabacalera William Ventura)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "floral",
+   "white pepper",
+   "cocoa"
+  ],
+  "about": "A one-size limited release made with William Ventura in the Dominican Republic for the Los Statos Deluxe brand. It shipped in March 2024 in a run of 3,000 boxes of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/los-statos-deluxe-limited-edition-heading-to-stores-on-march-1/435276/",
+   "https://www.neptunecigar.com/los-statos-cigar"
+  ],
+  "notes": "Limited to 3,000 boxes of 10, and the press release said the blend would be retired after this run. Matt Booth described it as medium to medium-plus. Halfwheel calls the shape a robusto extra while Neptune lists it as a figurado.",
+  "verified": true,
+  "verifyNotes": "officialName set to null (brand plus line already gives the full name). Size name changed from Figurado to Robusto Extra, since halfwheel outranks Neptune under the brief; the disagreement stays in notes."
+ },
+ {
+  "brand": "Smoking Jacket",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (Cotui) on the Favoritos and Short Robusto; Cuban-seed Brazilian on the Robusto Imperial and Toro Magno",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic, Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, plus Peru and USA in some sizes",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 56
+   },
+   {
+    "name": "Robusto Imperial",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Favoritos",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro Magno",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The red-banded core line from Hendrik Kelner Jr., made at his Kelner Boutique Factory in the Dominican Republic. It debuted in 2013, and each of the four sizes is its own blend.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casdagli-to-distribute-kbfs-smoking-jacket-brand/425533/",
+   "https://halfwheel.com/hendrik-kelner-jr-discusses-smoking-jacket/37301/",
+   "https://www.neptunecigar.com/smoking-jacket-cigar"
+  ],
+  "notes": "The sizes are not the same blend: two use a Dominican wrapper and two a Brazilian one, and the fillers change from size to size. Halfwheel also calls the line Clasico and has listed the Robusto Imperial as both 5 x 51 and 5 x 52. Casdagli has distributed the brand in the U.S. since 2023.",
+  "verified": true,
+  "verifyNotes": "Notes now mention that halfwheel lists the Robusto Imperial as 5 x 52 in 2013 and 5 x 51 in 2023; Neptune says 5 x 52."
+ },
+ {
+  "brand": "Smoking Jacket",
+  "line": "Henkie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (Cotui)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Monte Plata)",
+  "filler": "Dominican Republic (HVA, San Vicente, Kelner Family Reserve Habano), Nicaragua (Condega Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 51
+   }
+  ],
+  "flavors": [],
+  "about": "A single toro that Hendrik Kelner Jr. blended in 2017 to honor his father, longtime Davidoff blender Hendrik \"Henke\" Kelner. It leans on tobaccos from the Kelner family's Dominican farms.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-smoking-jacket/168454/",
+   "https://halfwheel.com/smoking-jacket-mini-henkie/439956/",
+   "https://www.neptunecigar.com/smoking-jacket-cigar"
+  ],
+  "notes": "Halfwheel's 2017 and 2024 pieces give a Dominican Cotui wrapper, but its 2023 article says Ecuadorian corojo. The ring gauge is listed as both 51 and 52. Neptune sells it as La Familia Henkie.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Smoking Jacket",
+  "line": "Mini Henkie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (Yamasa)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Cotui)",
+  "filler": "Dominican Republic (Criollo 98, San Vicente), Ecuador (HVC)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "earth",
+   "cream"
+  ],
+  "about": "A 4 x 46 follow-up to the Henkie released in 2024, with its own blend built around the smaller cigars Hendrik \"Henke\" Kelner smokes today. It is made at the Kelner Boutique Factory.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/smoking-jacket-mini-henkie/439956/",
+   "https://halfwheel.com/smoking-jacket-showing-off-mini-henkie-at-pca-2024/436096/",
+   "https://www.neptunecigar.com/smoking-jacket-cigar"
+  ],
+  "notes": "It is a different blend from the Henkie toro, not just a smaller size. Halfwheel's review found the strength mild with medium body, while Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Size name changed from Mini Henkie to Petit Corona, which is the vitola halfwheel and Neptune give."
+ },
+ {
+  "brand": "Smoking Jacket",
+  "line": "Limited Edition II Gran Toro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo (Dominican per halfwheel in 2016 and 2018, Ecuadorian per halfwheel in 2023)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic (Criollo 98), Nicaragua",
+  "filler": "Dominican Republic (Criollo 98, Habano), Peru (Pelo de Oro)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "oak",
+   "hay",
+   "earth",
+   "nuts",
+   "vanilla"
+  ],
+  "about": "A single-size toro from Hendrik Kelner Jr. that began in 2016 as a 300 box limited edition and became a regular production cigar in 2018. It keeps the Limited Edition name even though it is now ongoing.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casdagli-to-distribute-kbfs-smoking-jacket-brand/425533/",
+   "https://halfwheel.com/smoking-jacket-limited-edition-ii-gran-toro-going-regular-production/263597/",
+   "https://halfwheel.com/smoking-jacket-limited-edition-ii-grand-toro/135269/"
+  ],
+  "notes": "Halfwheel's own reports differ: the wrapper is Dominican corojo in 2016 and 2018 but Ecuadorian corojo in 2023, the size is 6 x 54 or 6 x 55, and older reports add Nicaraguan filler. Its 2016 review found the strength mild, building to about medium.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength stays null: no maker site could be found (the old KBF domain is parked) and the only strength description is halfwheel's 2016 review."
+ },
+ {
+  "brand": "Bohekio",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (sun grown)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Haiti",
+  "filler": "Haiti",
+  "country": "Haiti",
+  "factory": "Supreme Tobacco S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "Toro Gordo Box Pressed",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "oatmeal",
+   "earth",
+   "nuts",
+   "coffee"
+  ],
+  "about": "The debut cigar from Supreme Tobacco, a Haitian grower that rolls its own brand in Haiti. It uses Haitian binder and filler under a sun grown habano wrapper and launched at the 2021 PCA show.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.supremetobaccohaiti.com/bohekio-habano",
+   "https://halfwheel.com/bohekio-robusto/401320/"
+  ],
+  "notes": "The maker's site says the wrapper is Ecuadorian Habano, while halfwheel reported a Dominican-grown sun grown habano at the 2021 launch. It launched simply as Bohekio. The name is pronounced bo-hay-kee-oh.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Bohekio",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Haiti",
+  "filler": "Haiti",
+  "country": "Haiti",
+  "factory": "Supreme Tobacco S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice"
+  ],
+  "about": "The maduro version of Bohekio from Haiti's Supreme Tobacco, with an Ecuadorian Habano maduro wrapper over Haitian binder and filler. The maker describes it as medium to full bodied.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.supremetobaccohaiti.com/bohekio-maduro",
+   "https://www.supremetobaccohaiti.com/"
+  ],
+  "notes": "The 6 x 60 Double Toro is sold in bundles only.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Bohekio",
+  "line": "Colors",
+  "found": true,
+  "officialName": "Colors by Bohekio",
+  "wrapperLeaf": "Ecuadorian Habano (sun grown)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Haiti",
+  "filler": "Haiti",
+  "country": "Haiti",
+  "factory": "Supreme Tobacco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A line from Haiti's Supreme Tobacco that the maker positions as an everyday smoke. It uses a sun grown Ecuadorian habano wrapper over Haitian binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.supremetobaccohaiti.com/bohekio-colors",
+   "https://www.supremetobaccohaiti.com/"
+  ],
+  "notes": "The maker does not publish a strength or a release year for this line.",
+  "verified": true,
+  "verifyNotes": "wrapperOrigin changed from null to Ecuador: the maker's home page describes Colors by Bohekio as having a 'Habano Ecuador wrapper'. wrapperLeaf, about and notes updated to match."
+ },
+ {
+  "brand": "Bohekio",
+  "line": "Liga 2",
+  "found": true,
+  "officialName": "Liga 2 by Bohekio",
+  "wrapperLeaf": "Habano (natural)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic (Olor), Brazil (Mata Fina)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A second, value-priced blend from Supreme Tobacco sold in bundles of 20. It pairs a habano wrapper with a Connecticut Broadleaf binder and Dominican and Brazilian fillers.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/liga-2-by-bohekio"
+  ],
+  "notes": "Details come from Neptune only, and the line is not shown on the maker's site. Neptune lists it as made in the Dominican Republic, which differs from the Haitian-made Bohekio lines, and the blend has no Haitian tobacco.",
+  "verified": true,
+  "verifyNotes": "No changes. Neptune is still the only source; the maker's site and halfwheel do not list this line."
+ },
+ {
+  "brand": "Buffalo Trace",
+  "line": "Buffalo Trace",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca)",
+  "filler": "Dominican Republic (Piloto Cubano), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 49
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [],
+  "about": "The original cigar from the partnership between Scandinavian Tobacco Group and the Buffalo Trace Distillery, launched in 2021 through Cigars International and Meier & Dutch. It is made at General Cigar Dominicana and sold in glass tubes.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/buffalo-trace-meier-dutch-partner-for-new-cigar-line/395599/",
+   "https://www.coronacigar.com/buffalo-trace-robusto/",
+   "https://www.neptunecigar.com/buffalo-trace-cigar"
+  ],
+  "notes": "Halfwheel reported at launch that it is neither infused nor aged in bourbon barrels, though some retailers describe barrel aging. Retailers disagree on strength: Cigars Direct says medium, Corona Cigar says medium to full, and Neptune says full.",
+  "verified": true,
+  "verifyNotes": "Strength Medium-Full kept, but the claim that it is the most common listing was not supported by the listed sources. Cross-checked on Corona Cigar, which says medium to full, added that link, and reworded notes."
+ },
+ {
+  "brand": "Buffalo Trace",
+  "line": "Special Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca, aged six months in bourbon barrels)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Special F (Figurado)",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Special L (Lancero)",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Special S (Salomon)",
+    "length": 7.75,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "earth",
+   "oak",
+   "cream",
+   "bread",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "A Buffalo Trace line whose binder spends six months in used Buffalo Trace bourbon barrels. It started with the Special F figurado in 2022 and grew into a three-shape series in 2026.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/buffalo-trace-special-selection-expands-with-two-new-vitolas/475118/",
+   "https://halfwheel.com/buffalo-trace-special-f/422672/",
+   "https://www.coronacigar.com/buffalo-trace-special-s/"
+  ],
+  "notes": "Same blend components as the original Buffalo Trace, but with the barrel-aged binder. The Special Selection name arrived in July 2026 when the Special L and Special S joined the 2022 Special F. Retailers list it as medium to full, while halfwheel's Special F review found it about medium.",
+  "verified": true,
+  "verifyNotes": "Strength Medium-Full confirmed on Cigars Direct and Corona Cigar. Notes now say halfwheel's review found the Special F about medium. Swapped the Cigars Direct collection link for the Corona Cigar product page."
+ },
+ {
+  "brand": "Buffalo Trace",
+  "line": "Limited Edition 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 2000 (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic (Criollo 98, aged in Buffalo Trace barrels)",
+  "filler": "Dominican Republic (Corojo, HVA, Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cream",
+   "almond",
+   "lemongrass",
+   "coffee"
+  ],
+  "about": "A single 6 x 50 toro from Scandinavian Tobacco Group and Buffalo Trace Distillery, with a Dominican binder aged in Buffalo Trace barrels. It shipped in November 2025 in barrel-styled boxes of 10 that include a branded coin.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/buffalo-trace-limited-edition-2025/459057/",
+   "https://halfwheel.com/buffalo-trace-limited-edition-2025-shipping-this-week/456098/",
+   "https://www.cigarsdirect.com/collections/buffalo-trace"
+  ],
+  "notes": "The number made has not been disclosed, and the factory is not named. It is a new blend, not the original Buffalo Trace recipe. Halfwheel's review put the strength at medium-plus and did not find barrel flavors.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Buffalo Trace",
+  "line": "Prohibition Collection Series #2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Varies by blend: Ecuadorian Habano, Ecuadorian Sumatra, Honduran Corojo, Ecuadorian Sun Grown, and a Honduran Corojo and Maduro barber pole",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Honduras or Nicaragua, depending on the blend",
+  "filler": "Nicaragua, Honduras, Dominican Republic, Panama, depending on the blend",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "allspice",
+   "leather"
+  ],
+  "about": "A 25-cigar set from Scandinavian Tobacco Group and Sazerac with five different blends, each made to pair with one whiskey in Buffalo Trace's Prohibition Collection Series #2. It was limited to 750 numbered boxes priced at $500.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/sazerac-co-and-stg-team-up-for-buffalo-trace-prohibition-collection-series-2/446425/",
+   "https://www.cigarsdirect.com/collections/buffalo-trace"
+  ],
+  "notes": "This is a sampler of five blends, five cigars each: Old Fashioned Mountain Corn, Anderson's Belle, Silver Wedding, V.O.P. and Mirror Brook. STG says they range from medium to medium-full. They are made in Honduras at a factory STG has not named.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

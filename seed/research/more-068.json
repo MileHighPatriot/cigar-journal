@@ -1,0 +1,652 @@
+[
+ {
+  "brand": "Luciano",
+  "line": "Maria Lucia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Sumatra), Ecuador (Habano 92)",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda Box Pressed",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Double Robusto Box Pressed",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Canonazo Box Pressed",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "Magnum Box Pressed",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "earth",
+   "toast",
+   "leather",
+   "chocolate",
+   "cream"
+  ],
+  "about": "A box-pressed Connecticut Broadleaf cigar that Luciano Meirelles named for his late mother. The band art is a drawing by his daughter Deborah.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://lucianocigars.com/maria-lucia/",
+   "https://halfwheel.com/luciano-cigars-adds-three-sizes-to-maria-lucia-as-it-becomes-a-core-line/425048/",
+   "https://halfwheel.com/maria-lucia/415198/"
+  ],
+  "notes": "Debuted in 2022 as a limited single size (5 1/4 x 54), then became a regular four-size line in 2023. The maker calls it medium-full; Neptune Cigar lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "Maria Lucia Limited Edition PCA 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Ligero",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut Broadleaf), Ecuador (Sumatra-seed)",
+  "filler": "Brazil (Mata Fina), Nicaragua, Peru, South Africa",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "black pepper",
+   "nuts",
+   "toast",
+   "chocolate"
+  ],
+  "about": "A limited round version of Maria Lucia with a different blend, built around a San Andrés wrapper and some South African filler. It was offered to retailers who attended the 2025 PCA trade show.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/maria-lucia-limited-edition-pca-2025/456491/",
+   "https://halfwheel.com/luciano-cigars-crafts-limited-edition-maria-lucia-for-pca-2025/449622/",
+   "https://www.neptunecigar.com/cigar/luciano-maria-lucia"
+  ],
+  "notes": "Limited to 1,000 boxes of 10. Strength is disputed: halfwheel's reviewer found it mild in strength, while Neptune Cigar lists it as full. Halfwheel gives the size as 6 x 52; Neptune lists 6 x 54.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "Mas Igneus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo 98",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigar Factory (formerly Tabacalera Pichardo)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Ancho",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Excelente",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Luciano Cigars line blended to pair with red wine from the Mas Igneus winery in Priorat, Spain, where Luciano Meirelles is a partner. The filler was chosen by testing tobacco pH to match the wine.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://lucianocigars.com/mas-igneus/",
+   "https://halfwheel.com/ace-prime-to-debut-mas-igneus-at-pca-2022/410325/",
+   "https://halfwheel.com/ace-prime-shipping-maria-lucia-mas-igneus-tomorrow/413288/"
+  ],
+  "notes": "Launched in 2022 when the company was still called ACE Prime. No tasting notes are published; Meirelles describes it as a dense, meaty blend.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel announcement as a source: it is the page that supports the winery partnership and the dense, meaty description, which the two original sources do not state."
+ },
+ {
+  "brand": "Luciano",
+  "line": "Fiat Lux Tenebrus",
+  "found": true,
+  "officialName": "Fiat Lux Limited Edition Tenebrus",
+  "wrapperLeaf": "Honduran Habano from Plasencia's San Agustin farm, plus Ecuadorian Sumatra (two wrappers)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras, Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited edition of the Fiat Lux line made for Luciano Cigars by Plasencia in Danli, Honduras. It uses two wrapper leaves that were both fermented for more than five years.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/luciano-cigars-new-tenebrus-limited-edition-shipping-next-week/439004/",
+   "https://halfwheel.com/luciano-cigars-moves-fiat-lux-production-to-tabacos-de-oriente-announces-tenebrus-limited-edition/436091/"
+  ],
+  "notes": "Limited to 1,500 boxes of 10. It has two wrappers: a Honduran habano and the Ecuadorian Sumatra used on regular Fiat Lux. Tenebrus comes from the Latin for darkness.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "The Maker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Corojo 99 (country undisclosed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Sumatra-seed), Mexico (San Andrés)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sublime",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A core line from Luciano Meirelles and Constella Group that follows Luciano The Traveler and The Dreamer. It is themed around people who actually do the work rather than talk about it.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/luciano-the-maker-heads-to-stores/476097/",
+   "https://halfwheel.com/luciano-the-maker-coming-in-late-may/466262/"
+  ],
+  "notes": "Sold as Luciano The Maker. The wrapper's country of origin is not disclosed. It is unrelated to the 2023 store-exclusive The Maker that Meirelles made with West Tampa Tobacco's Rick Rodriguez.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "The Machinist",
+  "found": true,
+  "officialName": "The Machinist by Luciano",
+  "wrapperLeaf": "Mexican San Andrés Viso",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra viso), Indonesia (Sumatra)",
+  "filler": "USA (Pennsylvania), Dominican Republic, South Africa",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Magnum",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "bread",
+   "cocoa",
+   "spice",
+   "sweetness"
+  ],
+  "about": "A regular production line from Luciano Cigars and Constella Group that honors working tradespeople. It was inspired by Jack Beaver, a machinist and the grandfather of a company account manager.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/constella-group-begins-shipping-the-machinist-by-luciano/454780/",
+   "https://www.neptunecigar.com/cigar/luciano-the-machinist",
+   "https://stogiepress.com/cigar_review/cigar-review-luciano-cigars-the-machinist-toro-rated-96/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. The maker gives no strength rating: Neptune Cigar lists it as full, while Stogie Press calls it medium to full.",
+  "verified": true,
+  "verifyNotes": "Fixed the about text: Josh Beaver is the national key account manager, not a sales manager. Strength left null: no maker rating, and only one retailer listing was found."
+ },
+ {
+  "brand": "Luciano",
+  "line": "Underrated",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "USA (Connecticut Broadleaf), Ecuador (HVA), Nicaragua (Pueblo Nuevo medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sublime",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Especial",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Summer Breeze",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Chicos",
+    "length": 4,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "sweetness"
+  ],
+  "about": "A value-priced Luciano Cigars line made in Esteli with former NBA player Ron Harper as a partner. Its filler uses broadleaf and Ecuadorian leaves normally reserved for wrappers, plus Nicaraguan medio tiempo.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/luciano-cigars-new-underrated-line-shipping-today/434601/",
+   "https://halfwheel.com/luciano-cigars-launching-underrated-chicos-this-week/447234/",
+   "https://www.neptunecigar.com/cigar/luciano-underrated"
+  ],
+  "notes": "The maker calls it medium-full with a candied sweetness; Neptune Cigar lists it as full. Neptune shows the Toro Especial as 6 x 52 where halfwheel has 6 1/4 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "Eleve",
+  "found": true,
+  "officialName": "Élevé",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "anise",
+   "cinnamon",
+   "earth",
+   "almond",
+   "cedar"
+  ],
+  "about": "A limited 6 x 54 cigar released to mark the launch of Constella Group, the joint venture between Luciano Cigars and the Azores tobacco company EMT. The name is French for elevated.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/eleve/457749/",
+   "https://www.neptunecigar.com/cigar/luciano-eleve"
+  ],
+  "notes": "The blend and the factory are both undisclosed; the company only says the tobaccos come from several growing regions. Limited to 1,420 boxes of 10. Released as a Constella Group cigar to mark the merger.",
+  "verified": true,
+  "verifyNotes": "Reworded the note: no source says it lacks a Luciano band, only that Constella Group released it."
+ },
+ {
+  "brand": "Luciano",
+  "line": "The Sergeant by Luciano",
+  "found": true,
+  "officialName": "The Sergeant",
+  "wrapperLeaf": "Ecuadorian Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut hybrid, double binder)",
+  "filler": "Nicaragua (Esteli ligero, Jalapa and Pueblo Nuevo viso)",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigar Factory (formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "earth",
+   "leather",
+   "coffee",
+   "black pepper",
+   "hay"
+  ],
+  "about": "A Nicaraguan cigar Luciano Meirelles blended as a tribute to his friend, US Marine Sgt. Brian Acevedo, and to service members generally. It began as a 2021 trade show exclusive in one 5 x 58 size.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/the-sergeant/404453/",
+   "https://halfwheel.com/ace-prime-ships-the-sergeant/402466/",
+   "https://www.neptunecigar.com/cigar/the-sergeant-by-luciano"
+  ],
+  "notes": "Launched under the ACE Prime name before the company became Luciano Cigars. The company called it medium to full bodied; Neptune Cigar lists strength as medium. The binder is a Connecticut-grown hybrid seed, not broadleaf.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "The Resilient",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 92 (Colorado)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica",
+  "filler": "Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "spice",
+   "cocoa",
+   "coffee"
+  ],
+  "about": "A Constella Group cigar created by Luciano Meirelles with former MLB first baseman Adrian Gonzalez, who is a partner in the company. It launched in a single toro size.",
+  "released": 2025,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/the-resilient/455159/",
+   "https://halfwheel.com/pca-2025-constella/449027/",
+   "https://halfwheel.com/constella-group-begins-shipping-the-machinist-by-luciano/454780/"
+  ],
+  "notes": "A Constella Group release. The company names a Costa Rican binder, but halfwheel's review lists Ecuadorian Connecticut-seed. Halfwheel's review lists the country as undisclosed, but its news coverage says the cigar comes from the same Dominican factory as The Machinist.",
+  "verified": true,
+  "verifyNotes": "Country kept as Dominican Republic but the original sources did not state it (the review says undisclosed), so swapped in the halfwheel Machinist article that does. Trimmed the note from four sentences to three and made the country caveat explicit."
+ },
+ {
+  "brand": "Luciano",
+  "line": "Y Panda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo 98",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca), Ecuador (Sumatra-seed)",
+  "filler": "Nicaragua (Jalapa viso, Esteli seco)",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sublime",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cloves",
+   "cocoa",
+   "cedar",
+   "coffee",
+   "leather",
+   "red pepper"
+  ],
+  "about": "A line co-blended by Luciano Meirelles and Linxu \"Panda\" Yan, a former intern at the Luciano factory in Esteli. It is made and distributed by Luciano Cigars.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/y-panda-begins-shipping-to-retailers/428990/",
+   "https://halfwheel.com/y-panda-sublime/436391/"
+  ],
+  "notes": "No maker strength rating; strength and body here come from halfwheel's review of the Sublime. The launch release names the Brazilian binder as Arapiraca, while halfwheel's review lists Mata Fina.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "Y Panda Domino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Arapiraca), Mexico (San Andrés)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The first limited edition in the Y Panda line, a 6 x 52 toro with a Connecticut wrapper in place of the regular corojo. It was sold only to retailers who ordered at the 2024 PCA trade show.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/y-panda-domino-begins-shipping-today/440572/",
+   "https://halfwheel.com/limited-edition-y-panda-domino-debuts-at-pca-2024/437207/"
+  ],
+  "notes": "Initial run was 300 boxes of 18, with a possible reorder for the same retailers. The blend differs from regular Y Panda in both the wrapper and one of the two binders.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "Tiago Clasico Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigar Factory (formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The third blend in the Tiago Clasico family from Luciano Cigars, with a sun grown habano wrapper over Nicaraguan tobaccos. The brand is named for co-founder and former NBA player Tiago Splitter.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pichardo-clasico-natural-coming-in-march/386828/",
+   "https://halfwheel.com/luciano-cigars-rebrands-pichardo-cigars-as-tiago-cigars/421334/",
+   "https://www.neptunecigar.com/cigar/tiago-clasico-natural"
+  ],
+  "notes": "Sold as Pichardo Clasico Natural until the 2023 rebrand to Tiago; the blend did not change. It is a distinct blend, not just a new wrapper on the other Clasico cigars.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "Tiago Clasico Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigar Factory (formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro member of the Tiago Clasico family from Luciano Cigars, using a Brazilian Arapiraca wrapper over Nicaraguan binder and filler. It comes in one box-pressed toro size.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ace-prime-adding-pichardo-maduro-this-month/379642/",
+   "https://halfwheel.com/luciano-cigars-rebrands-pichardo-cigars-as-tiago-cigars/421334/",
+   "https://www.neptunecigar.com/cigar/tiago-clasico-maduro"
+  ],
+  "notes": "Launched in 2020 as Pichardo Maduro (Pichardo Clasico Maduro) under ACE Prime, then renamed Tiago in 2023 with the same blend. Strength is Neptune Cigar's listing; the maker does not state one.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Luciano",
+  "line": "Tiago Clasico Sumatra",
+  "found": true,
+  "officialName": "Tiago Clasico",
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigar Factory (formerly Tabacalera Pichardo)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "floral"
+  ],
+  "about": "The original Tiago Clasico from Luciano Cigars, an Ecuadorian Sumatra wrapper over Nicaraguan tobaccos made to taste like a Cuban cigar. It dates to the company's 2019 debut as ACE Prime.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/a-c-e-prime-launching-at-ipcpr-2019-with-five-brands/299787/",
+   "https://halfwheel.com/luciano-cigars-rebrands-pichardo-cigars-as-tiago-cigars/421334/",
+   "https://www.neptunecigar.com/cigar/tiago-clasico-sumatra"
+  ],
+  "notes": "This is the original Clasico blend; retailers add Sumatra to tell it apart from the Maduro and Natural. Sold as Pichardo Clasico until the 2023 rebrand. Strength is Neptune Cigar's listing.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

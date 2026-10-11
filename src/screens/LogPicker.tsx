@@ -10,7 +10,7 @@ import type { Cigar } from '../data/types'
 import { cigarSubtitle, cigarTitle, fold } from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
 import { levelLabel } from '../domain/scoring'
-import { searchCigars } from '../domain/search'
+import { closestCigars, searchCigars } from '../domain/search'
 
 type Mode = 'quick' | 'full'
 
@@ -88,10 +88,10 @@ export function LogPicker() {
   }, [state.smokes, state.cigars])
 
   const searching = query.trim().length > 0
-  const results = useMemo(
-    () => searchCigars(state.cigars.values(), query).slice(0, 60),
-    [state.cigars, query],
-  )
+  const results = useMemo(() => {
+    const exact = searchCigars(state.cigars.values(), query)
+    return (exact.length > 0 ? exact : closestCigars(state.cigars.values(), query)).slice(0, 60)
+  }, [state.cigars, query])
   const lowerQuery = fold(query.trim())
   const humidorShown = searching
     ? humidorRows.filter(({ cigar }) =>

@@ -1,0 +1,597 @@
+[
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Cinco de Cinco",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Doble",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Corona Extra",
+    "length": 6.25,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "dark chocolate",
+   "black pepper",
+   "coffee",
+   "wood"
+  ],
+  "about": "Joya de Nicaragua's 55th anniversary cigar, a soft-pressed blend with a Mexican San Andrés wrapper over Nicaraguan binder and filler. The blend was built from the records of hundreds of blending sessions held with factory visitors, and it sits in the company's top Obras Maestras tier.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://joyacigars.com/cigars/cinco-de-cinco/",
+   "https://halfwheel.com/joya-de-nicaragua-cinco-de-cinco-corona-extra-2/445628/",
+   "https://joyacigars.com/cinco-de-cinco/"
+  ],
+  "notes": "The maker's page rates strength 4 out of 5 and calls it medium to full-bodied, but its launch release said full-bodied with medium strength, and halfwheel found the strength mild to medium. A 6 x 60 size was made in 2024 as a TAA exclusive.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker's product page and launch post and two halfwheel reviews. Nothing changed."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Clásico Medio Siglo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 6",
+    "length": 6,
+    "ring": 41
+   },
+   {
+    "name": "Selección B",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "leather"
+  ],
+  "about": "A bolder take on Joya de Nicaragua's original Clásico, made as a Nicaraguan puro with a habano criollo wrapper. It came out in 2021 to mark 50 years of the Clásico and reached the U.S. in 2024.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://joyacigars.com/cigars/clasico-medio-siglo/",
+   "https://halfwheel.com/joya-de-nicaragua-clasico-medio-siglo-coming-to-the-u-s-this-summer/436076/",
+   "https://joyacigars.com/jdn-presents-clasico-original-y-medio-siglo-in-gordito-format/"
+  ],
+  "notes": "The maker rates it 2 out of 5 and has called it both mild to medium and medium-bodied. In the U.S. it is sold only through Club de Amigos retailers. The Gordo is a U.S. size, and the Selección B and Gordito are sold abroad.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Mild-Medium: the maker rates it 2 out of 5 and its 2021 and 2025 releases say light or mild to medium, with only one line on the product page saying medium. Swapped the third source for the maker's Gordito post, which is the page that supports the 4 x 56 size. Notes reworded."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Rosalones CT",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed (shade)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "coffee"
+  ],
+  "about": "The Connecticut-wrapped version of Rosalones, Joya de Nicaragua's value-priced line that was long sold only outside the U.S. It pairs an Ecuadorian Connecticut wrapper with Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://joyacigars.com/cigars/rosalones-ct/",
+   "https://halfwheel.com/joya-de-nicaragua-bringing-two-rosalones-blends-to-u-s-in-may/467327/",
+   "https://halfwheel.com/pca-2026-joya-de-nicaragua/464669/"
+  ],
+  "notes": "The maker's page lists the wrapper as Nicaraguan habano criollo Colorado and the binder as Ecuador Connecticut, which looks swapped; halfwheel reports an Ecuadorian Connecticut wrapper over a Nicaraguan binder. It reached U.S. stores in 2026. The maker rates strength 2 out of 5.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. The maker's product page still lists a Nicaraguan criollo wrapper and an Ecuador Connecticut binder; three halfwheel articles give an Ecuadorian Connecticut wrapper over a Nicaraguan binder, which the entry follows. No source gives the year it first went on sale abroad, so released stays null."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Rosalones Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Criollo Colorado",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "RR 650",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "RR 546",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "RR 550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "RR 444",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice"
+  ],
+  "about": "A step up within Rosalones, Joya de Nicaragua's affordable Nicaraguan puro line, using a more selective choice of tobacco. It launched in Europe in 2016 and came to U.S. stores in 2026.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://joyacigars.com/cigars/rosalones-reserva/",
+   "https://halfwheel.com/joya-de-nicaraguas-rosalones-reserva-ships-in-europe/130719/",
+   "https://halfwheel.com/joya-de-nicaragua-bringing-two-rosalones-blends-to-u-s-in-may/467327/"
+  ],
+  "notes": "In the U.S. it is sold in two sizes, called Robusto (5 x 50) and Toro (6 x 50). The maker rates strength 3 out of 5.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker's page and halfwheel. Nothing changed."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Flor de Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Criollo (Claro)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "leather",
+   "cream",
+   "spice",
+   "dried fruit"
+  ],
+  "about": "One of Joya de Nicaragua's oldest brands, an everyday Nicaraguan puro with a light habano criollo wrapper. For many years it was sold only in northern Europe.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://joyacigars.com/cigars/flor-de-nicaragua/",
+   "https://joyacigars.com/about-us/"
+  ],
+  "notes": "Details come from the maker's page only, which rates strength 2.5 out of 5 and calls it medium-bodied. The maker lists a single Robusto size.",
+  "verified": true,
+  "verifyNotes": "Added the factory and the maker's about page as a second source: it states the company is Fábrica de Tabacos Joya de Nicaragua S.A. and makes its cigars in Estelí, which is what supports the country. No halfwheel or Cigar Aficionado page was found for this line, so the blend rests on the maker's page alone."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Joya Red White & Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí, Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited U.S.-only toro in the JOYA series, made to mark the 250th anniversary of American independence. It uses an Ecuadorian habano wrapper over Nicaraguan binder and filler with extra aging.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://joyacigars.com/jdn-presents-joya-red-white-blue-a-tribute-to-250-years-of-american-independence/",
+   "https://halfwheel.com/joya-de-nicaragua-shipping-red-white-blue-new-rosalones-lines-tomorrow/472719/",
+   "https://www.cigaraficionado.com/article/two-u-s-inspired-joya-de-nicaragua-cigars-arriving-soon"
+  ],
+  "notes": "Limited to 500 boxes of 10, sold only in the U.S. and shipped in June 2026. The maker describes it as medium-bodied.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker's release, halfwheel and Cigar Aficionado. Nothing changed."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Clásico Original Green Room Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Diadema",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cream",
+   "pepper",
+   "nuts",
+   "toast"
+  ],
+  "about": "A limited diadema in the Clásico Original blend, named for the White House Green Room, where Joya de Nicaragua cigars were offered to guests in the 1970s. It has an Ecuadorian Connecticut shade wrapper over Nicaraguan binder and filler.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://joyacigars.com/jdn-unveils-clasico-original-green-room-selection/",
+   "https://halfwheel.com/joya-de-nicaragua-clasico-original-green-room-selection/474437/",
+   "https://halfwheel.com/joya-de-nicaragua-clasico-original-green-room-selection-ships/471226/"
+  ],
+  "notes": "This is one limited size of the Clásico Original line: 1,200 boxes of 20, with 700 for the U.S. The maker calls it mild, while halfwheel's review found medium strength with full flavor.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker's release and halfwheel's review and news post. Nothing changed."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Cuatro Cinco Secret Cask",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cream",
+   "black pepper",
+   "toffee",
+   "chocolate",
+   "cedar"
+  ],
+  "about": "A limited return to the all-Nicaraguan blend of the original 2013 Cuatro Cinco Edición Limitada, using tobacco aged since 2013 in charred oak barrels that once held spirits. It comes in the same 6 x 54 box-pressed size as the original.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://joyacigars.com/jdn-presents-cuatro-cinco-secret-cask/",
+   "https://halfwheel.com/joya-de-nicaragua-cuatro-cinco-secret-cask/460647/"
+  ],
+  "notes": "Limited to 1,500 boxes of 10, with 700 for the U.S. The maker calls it medium to full-bodied, while halfwheel's review found the strength below medium. The wrapper is published only as Nicaraguan, with no seed type given.",
+  "verified": true,
+  "verifyNotes": "Checked against the maker's release and halfwheel's review. Nothing changed."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Dos Cientos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "espresso",
+   "oak",
+   "cocoa",
+   "nuts",
+   "earth"
+  ],
+  "about": "A limited 2021 release marking 200 years of Central American independence, blended from tobaccos of five countries. It is part of Joya de Nicaragua's Obras Maestras tier and was halfwheel's number 4 cigar of 2021.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://joyacigars.com/doscientos-limited-edition/",
+   "https://halfwheel.com/joya-de-nicaragua-dos-cientos/403085/"
+  ],
+  "notes": "Limited to 3,000 boxes of 21, with 2,000 for the U.S.; one cigar in each box came wrapped in tissue paper. The maker calls it medium-bodied (2.5 out of 5), but halfwheel's reviewer put it closer to 3.5 to 4 out of 5.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. The maker's March 2021 announcement says 2,000 boxes; halfwheel's later review says 3,000 in total with 2,000 for the U.S., which the entry follows."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Antaño Original Edição Brasil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Brazil (Mata Fina viso)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Brazil-only version of the Antaño Original, made with distributor Reality Cigars, that adds Brazilian Mata Fina leaf to the otherwise all-Nicaraguan filler. It was the first time Joya de Nicaragua changed a blend for a regional exclusive.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/joya-de-nicaragua-adds-brazilian-tobacco-to-antano-blend-for-regional-exclusive/444579/"
+  ],
+  "notes": "Sold only in Brazil, limited to 2,000 boxes of 10. No strength rating is published for this edition. The Antaño Original line was called Antaño 1970 until 2024.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Wrapper, country and factory confirmed on halfwheel. The maker's site has no page for this edition and no source gives a strength, so strength stays null."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Carnage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cocoa",
+   "leather",
+   "caramel"
+  ],
+  "about": "A value-priced bundle cigar made by Joya de Nicaragua in Estelí as a Famous Smoke Shop exclusive. It has a dark Mexican San Andrés wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-carnage",
+   "https://www.famous-smoke.com/carnage-san-andres-toro-cigars-maduro"
+  ],
+  "notes": "A Famous Smoke Shop exclusive sold in bundles of 10; the retailer is the only source for the blend. Sizes are listed as Carnage San Andres.",
+  "verified": true,
+  "verifyNotes": "Checked against Famous Smoke Shop's brand page and its Toro and Robusto pages. Nothing changed. No maker, halfwheel or Cigar Aficionado page was found, so the retailer is the only source."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Cunning Connecticut Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "caramel",
+   "earth",
+   "baking spice",
+   "white pepper"
+  ],
+  "about": "A value-priced bundle cigar made by Joya de Nicaragua for Famous Smoke Shop. It has an Ecuadorian Connecticut shade wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-cunning-by-joya-de-nicaragua-connecticut-shade",
+   "https://www.famous-smoke.com/cunning-connecticut-toro-cigars-natural",
+   "https://www.famous-smoke.com/cunning-connecticut-robusto-cigars-natural"
+  ],
+  "notes": "Sold by Famous Smoke Shop as Cunning by Joya de Nicaragua, in bundles of 10. The retailer is the only source for the blend.",
+  "verified": true,
+  "verifyNotes": "Binder filled in as Nicaragua: the retailer's Robusto page says Nicaraguan binder and fillers, so that page was added as a source and the note saying the binder is unpublished was removed. About reworded in plainer terms. No maker, halfwheel or Cigar Aficionado page was found."
+ },
+ {
+  "brand": "Joya de Nicaragua",
+  "line": "Merciless",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "earth",
+   "black pepper",
+   "nuts",
+   "toast"
+  ],
+  "about": "A value-priced bundle cigar made in Estelí by Joya de Nicaragua as a Famous Smoke Shop exclusive. It uses an Ecuadorian habano wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-merciless-by-joya-de-nicaragua",
+   "https://www.famous-smoke.com/merciless-habano-toro-cigars-natural",
+   "https://www.famous-smoke.com/merciless-habano-robusto-cigars-natural"
+  ],
+  "notes": "A Famous Smoke Shop exclusive sold in bundles of 10; the retailer is the only source for the blend. Its spec table says Full, while its own description says medium to full-bodied.",
+  "verified": true,
+  "verifyNotes": "Binder filled in as Nicaragua: the retailer's Robusto page says the inside is all Nicaraguan, so that page was added as a source and the note saying the binder is unpublished was removed. About reworded to drop the sales pitch. No maker, halfwheel or Cigar Aficionado page was found."
+ }
+]

@@ -1,0 +1,882 @@
+[
+ {
+  "brand": "Protocol",
+  "line": "Probable Cause",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill (box-pressed)",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "oak",
+   "coffee",
+   "chocolate",
+   "spice",
+   "red wine"
+  ],
+  "about": "The second Protocol line from Cubariqueño Cigar Co., a Mexican San Andrés maduro over Nicaraguan binder and filler made at Erik Espinosa's La Zona factory in Estelí. It is known by its red band and is the darker counterpart to the original Protocol Blue.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-probable-cause-churchill/129983/",
+   "https://halfwheel.com/cubariqueno-cigar-co-adds-probable-cause-protocol-lancero/115357/",
+   "https://www.smokeinn.com/Protocol-Red-Probable-Cause/"
+  ],
+  "notes": "Often sold as Protocol Red. The maker calls it medium strength with full flavor; halfwheel's reviewer found it closer to medium-full. A Lancero was added in 2017 and a Corona Gorda in 2018; some retailers no longer list the Robusto.",
+  "verified": true,
+  "verifyNotes": "Removed the flavor 'dried fruit', which no source gives. Added halfwheel's medium-full finding to notes. halfwheel's spec table shows the Churchill at 6 inches but its text and Smoke Inn say 6 1/2, so 6.5 stays. Lancero (2017) and Corona Gorda (2018) confirmed on halfwheel posts 147876 and 262569."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Cyber Crimes Unit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Churchill BP (box-pressed short Churchill)",
+    "length": 6.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "oak",
+   "spice",
+   "red pepper",
+   "cocoa",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "A Nicaraguan puro with a habano rosado wrapper, made at La Zona in Estelí as the fifth core Protocol line. It is named for co-owner Kevin Keithan's work in internet security and wears a neon green band.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-cigars-releases-cyber-crimes-unit/380832/",
+   "https://cigardojo.com/2021/09/protocol-cyber-crimes-unit-churchill-bp/",
+   "https://www.smokeinn.com/Protocol-Cyber-Crimes-Unit/"
+  ],
+  "notes": "Smoke Inn lists it Medium-Full; Cigar Dojo's review called it medium-plus in strength and medium-full in body.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Protocol",
+  "line": "Crime Scene Unit",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexican San Andrés Maduro",
+  "filler": "Nicaraguan Criollo and Corojo (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "charred oak",
+   "earth",
+   "black pepper",
+   "cream"
+  ],
+  "about": "A 2025 Protocol release honoring forensic investigators and the brand's first cigar with a Connecticut broadleaf wrapper. It is made at La Zona in a single 6 1/2 x 50 size.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/protocol-crime-scene-unit-heading-to-stores-this-week/453359/",
+   "https://cigardojo.com/2025/07/protocol-adds-crime-scene-unit-to-core-line/",
+   "https://www.smokeinn.com/Protocol-Crime-Scene/"
+  ],
+  "notes": "First run was 150 boxes of 10. The maker says more may follow if it can get enough broadleaf wrapper. Strength is from one retailer listing only.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Strength rests on Smoke Inn's listing alone. Cigar Dojo calls it a core line but both it and halfwheel say the first run is limited."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Eliot Ness Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Habano (Estelí, double binder)",
+  "filler": "Nicaraguan Criollo",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez), Ocotal",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "hay",
+   "dark chocolate",
+   "coffee",
+   "earth"
+  ],
+  "about": "The natural-wrapper half of the second release in Protocol's Lawmen Series, named for the Prohibition agent who pursued Al Capone. It is a Nicaraguan puro rolled at AJ Fernandez's San Lotano factory and was the first Protocol blend made without ligero.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-eliot-ness-natural/392953/",
+   "https://halfwheel.com/protocol-eliot-ness-arriving-this-month/391257/",
+   "https://www.smokeinn.com/Protocol-Eliot-Ness-ciagar/"
+  ],
+  "notes": "The maker gives no strength rating. halfwheel's review found it between mild and medium, which fits the no-ligero blend. Announced in 2020, shipped March 2021.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Protocol",
+  "line": "Eliot Ness Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Habano (Estelí)",
+  "filler": "Nicaraguan Corojo (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez), Ocotal",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cocoa",
+   "molasses",
+   "mocha",
+   "earth",
+   "black pepper"
+  ],
+  "about": "The maduro half of Protocol's Eliot Ness, part of the Lawmen Series. It uses a rarely seen Nicaraguan-grown broadleaf wrapper over Nicaraguan habano binder and corojo filler, with no ligero, and is rolled at AJ Fernandez's San Lotano factory.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-eliot-ness-arriving-this-month/391257/",
+   "https://cigardojo.com/2021/06/protocol-eliot-ness-maduro-toro/",
+   "https://www.smokeinn.com/Protocol-Eliot-Ness-ciagar/"
+  ],
+  "notes": "The maker gives no strength rating. Strength and body are from Cigar Dojo's review, which put it at medium, building to medium-full at the end.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Protocol",
+  "line": "Bass Reeves Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez), Ocotal",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "caramel",
+   "nuts"
+  ],
+  "about": "The natural version of the third Lawmen Series release, named for Bass Reeves, one of the first Black deputy U.S. Marshals, who served west of the Mississippi. It pairs an Ecuadorian Sumatra wrapper with Nicaraguan binder and filler and is rolled at AJ Fernandez's San Lotano factory.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-bass-reeves-debuting-at-pca-2021/395870/",
+   "https://www.smokeinn.com/Protocol-Bass-Reeves/"
+  ],
+  "notes": "Smoke Inn lists Medium-Full for the line but describes the Natural as medium-plus, so it sits a touch under the Maduro. No maker strength rating was found.",
+  "verified": true,
+  "verifyNotes": "Reworded the Bass Reeves description to match the sources (halfwheel: first deputy marshal west of the Mississippi; Smoke Inn and Cigar Dojo: among the first Black deputy marshals). Strength rests on Smoke Inn's listing alone; no second source found."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Bass Reeves Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez), Ocotal",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "mocha"
+  ],
+  "about": "The maduro version of Protocol's Bass Reeves in the Lawmen Series, a Nicaraguan puro with a dark habano wrapper. It is rolled at AJ Fernandez's San Lotano factory in Ocotal.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-bass-reeves-debuting-at-pca-2021/395870/",
+   "https://halfwheel.com/protocol-bass-reeves-maduro-robusto-oklahoma-territory-heads-to-omerta-cigar-co/442121/",
+   "https://www.smokeinn.com/Protocol-Bass-Reeves/"
+  ],
+  "notes": "Strength is from one retailer listing only. A 5 x 52 robusto called Oklahoma Territory was a 2024 limited exclusive for Omerta Cigar Co.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Strength rests on Smoke Inn's listing alone; no second source found."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Phoebe Couzins Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Rosado",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí ligero, Estelí corojo viso, Condega viso)",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez), Ocotal",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "brown sugar",
+   "ginger",
+   "butter"
+  ],
+  "about": "The natural version of the fourth Lawmen Series release, honoring Phoebe Couzins, the first woman to serve as a U.S. Marshal. It has an Ecuadorian Sumatra rosado wrapper over Nicaraguan tobaccos and is rolled at the San Lotano factory.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-releases-phoebe-couzins-to-lawmen-series/436481/",
+   "https://cigardojo.com/2024/06/protocol-phoebe-couzins-natural/",
+   "https://www.smokeinn.com/Protocol-Phoebe-Couzins/"
+  ],
+  "notes": "Strength and body are from Cigar Dojo's review (medium). Smoke Inn lists the line as Medium-Full and describes the Natural as medium-plus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Protocol",
+  "line": "Phoebe Couzins Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega ligero, Estelí viso, Jalapa corojo viso)",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez), Ocotal",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "mocha"
+  ],
+  "about": "The maduro version of Protocol's Phoebe Couzins in the Lawmen Series, a Nicaraguan puro with a habano oscuro wrapper. It is rolled at the San Lotano factory in Ocotal.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-releases-phoebe-couzins-to-lawmen-series/436481/",
+   "https://www.smokeinn.com/Protocol-Phoebe-Couzins/"
+  ],
+  "notes": "The wrapper is a dark habano oscuro, not broadleaf. Strength is from one retailer listing only.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Strength rests on Smoke Inn's listing alone; no second source found."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Taser",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Cafe",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Habano",
+  "filler": "Nicaragua (Estelí viso, Ometepe viso), USA (Pennsylvania ligero)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pastry",
+   "cedar",
+   "nutmeg",
+   "red pepper",
+   "cream"
+  ],
+  "about": "The third Protocol and Cigar Dojo collaboration, after K9 and Night Stick, sold only through Smoke Inn in March 2021. It is a 5 x 52 robusto with a double pigtail cap meant to look like a taser's two electrodes.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/protocol-taser-coming-this-month/391165/",
+   "https://cigardojo.com/2021/03/cigar-dojo-cubariqueno-prepare-protocol-taser-cigar/",
+   "https://cigardojo.com/2021/03/protocol-taser-now-for-sale/"
+  ],
+  "notes": "Limited to 500 bundles of 10, which sold out on release day. No strength rating was published; Cigar Dojo described it as medium-full in body and full in flavor.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed that halfwheel and Cigar Dojo publish no strength rating, only body."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Green",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Mexican San Andrés Negro",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "molasses",
+   "wood",
+   "black pepper",
+   "spice"
+  ],
+  "about": "The fifth blend in Micallef's value-priced Color Series, built around a Brazilian mata fina wrapper. It is made at the company's own factory in Estelí in the series' two standard sizes.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-green-robusto/456178/",
+   "https://www.smokeinn.com/Micallef-Green/"
+  ],
+  "notes": "The maker says medium to full; Smoke Inn lists Medium and Neptune lists Full. The maker and halfwheel give Nicaraguan filler, while Smoke Inn adds Dominican and Mexican. Smoke Inn also has an exclusive 6 1/2 x 54 box-pressed toro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Micallef",
+  "line": "Orange",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-seed (origin undisclosed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Mexican San Andrés Habano",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The seventh blend in Micallef's Color Series, with a Connecticut-seed wrapper over a Mexican San Andrés binder and Nicaraguan and Dominican filler. It launched at Two Guys Cigars in late August 2026 and reached stores nationwide in early September.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-orange-ships-nationwide/478765/",
+   "https://www.smokeinn.com/Micallef-Orange/"
+  ],
+  "notes": "The maker does not say where the wrapper is grown; Neptune lists it as Ecuadorian Connecticut. The maker says medium strength, while Smoke Inn lists Mild-Medium. No tasting notes have been published yet.",
+  "verified": true,
+  "verifyNotes": "Reworded about: dropped the claim about extra weight and fixed the timing (soft launch Aug. 27, shipped Aug. 31, in stores by Sept. 5)."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Purple",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Mexico",
+  "binder": "Broadleaf",
+  "filler": "Nicaragua, Dominican Republic, Mexico",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cocoa",
+   "leather",
+   "cedar",
+   "earth"
+  ],
+  "about": "The fourth blend in Micallef's Color Series, introduced at PCA 2025. It uses the same San Andrés Sumatra wrapper type as the Blue and a broadleaf binder like the Red.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-adding-purple-to-color-series-at-pca-2025/448257/",
+   "https://www.neptunecigar.com/micallef-cigar"
+  ],
+  "notes": "The maker and Neptune say medium; Smoke Inn lists Medium-Full. The wrapper is Sumatra seed grown in Mexico's San Andrés valley. The maker lists the binder only as broadleaf, while Neptune calls it Nicaraguan broadleaf.",
+  "verified": true,
+  "verifyNotes": "Binder changed from 'Nicaraguan Broadleaf' to 'Broadleaf': the maker, halfwheel and Smoke Inn give no origin, only Neptune's blurb says Nicaraguan. Removed the unsupported line about the idea behind the name. Trimmed notes."
+ },
+ {
+  "brand": "Micallef",
+  "line": "White",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Connecticut Broadleaf",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The mildest blend in Micallef's Color Series, a Connecticut-seed wrapper over a Connecticut broadleaf binder, released in early 2026. It is made at the company's factory in Nicaragua in the series' two standard sizes.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-white-debuting-next-week/462537/",
+   "https://www.neptunecigar.com/micallef-cigar"
+  ],
+  "notes": "The maker does not say where the wrapper is grown; Neptune lists Ecuadorian Connecticut Shade. The maker says mild, while Smoke Inn lists Mild-Medium. Smoke Inn has an exclusive 6 1/2 x 54 box-pressed toro.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that the company spent three years on the blend; none of the pages say it. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Color Blend",
+  "found": true,
+  "officialName": "Color Blend Bundles",
+  "wrapperLeaf": "Mexican San Andrés Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Mixed filler from trimmings of the other Color Series blends",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "#2",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "nuts",
+   "cream",
+   "black pepper"
+  ],
+  "about": "A budget, mixed-filler cigar in Micallef's Color Series, released in 2026 and sold in bundles of 20. The filler is made from the leftover cuts of the other Color Series blends under a Sumatra-seed wrapper.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-color-blend-bundles-2/472604/",
+   "https://halfwheel.com/micallef-adding-mixed-filler-color-blend-bundles-to-lineup/465581/"
+  ],
+  "notes": "It is a mixed-filler (Cuban sandwich) cigar sold in bundles of 20, not long filler. The maker says mild to medium; Neptune and Smoke Inn list Medium. The maker calls the wrapper San Andrés Sumatra, while halfwheel lists its origin as undisclosed.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and added Smoke Inn's Medium listing. Fields unchanged."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaraguan Habano",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cocoa",
+   "hay",
+   "espresso",
+   "leather",
+   "cream"
+  ],
+  "about": "Micallef's Ecuadorian Connecticut blend, made with the Gomez Sanchez family in Estelí using a wrapper aged four years. It smokes fuller and spicier than most Connecticut-wrapped cigars.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-connecticut-londres/419415/",
+   "https://www.smokeinn.com/Micallef-Connecticut/"
+  ],
+  "notes": "The maker says medium, Smoke Inn lists Mild-Medium, and halfwheel's reviewer found it closer to medium-full with a lot of spice. The maker's site now shows only 5 x 40 and 5 x 52; the Toro and Gordo are still at some retailers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Micallef",
+  "line": "Experiencia La Crema",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuadorian Habano",
+  "filler": "Honduras, Dominican Republic, Panama",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "white pepper",
+   "nuts",
+   "milk chocolate",
+   "cream"
+  ],
+  "about": "A medium, creamy Micallef blend with a Sumatra-seed wrapper grown in San Andrés, Mexico, over an Ecuadorian habano binder. It is one of the company's core lines and is notable for using Panamanian tobacco in the filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-cigars-adding-new-vitolas-to-three-lines/292885/",
+   "https://www.smokeinn.com/Micallef-Experiencia-La-Crema/"
+  ],
+  "notes": "The maker's site lists Honduran, Dominican and Panamanian filler; halfwheel and Smoke Inn list Nicaraguan, Dominican and Panamanian. Some retailers also carry a 6 x 60 Gordo. Neptune lists the line simply as Experiencia.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Factory is not named on the listed pages for this line; it is the company's own Estelí factory per halfwheel's other Micallef coverage."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Dominican Republic, Peru",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "dried fruit",
+   "leather",
+   "coffee",
+   "black pepper",
+   "cream"
+  ],
+  "about": "Micallef's highest-priced blend and the cigar the brand started with, first made for founder Al Micallef by the Gomez Sanchez family. It has a San Andrés habano wrapper and sells in five-count boxes.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-reserva-londres",
+   "https://www.smokeinn.com/Micallef-Reserva/"
+  ],
+  "notes": "Also sold as Reserva Limitada Privada (Smoke Inn) or Reserva Privada (Neptune). It began as a 7 x 52 only; the Toro was added in 2019 and the 5 x 40 Londres came from the 2022 Collectors Edition sampler.",
+  "verified": true,
+  "verifyNotes": "Dropped 'wrapper aged eight years' from about: only Neptune says it (for the whole blend) and it is not a listed source. Added the size history from halfwheel's IPCPR 2019 coverage."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Torcedores",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Dominican Republic, Peru",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "nuts",
+   "cream"
+  ],
+  "about": "Micallef's value-priced, box-pressed line, named for the cigar rollers. It is a mild to medium smoke with a Sumatra-seed San Andrés wrapper over a Honduran binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://www.neptunecigar.com/micallef-cigar",
+   "https://www.smokeinn.com/Micallef-Torcedores/"
+  ],
+  "notes": "Neptune describes it as a mixed-filler cigar and lists it as Mild; the maker says mild to medium. No release year was found in a reliable source.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Box-pressed and mixed-filler come from Neptune only."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Grande Bold Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "545S",
+    "length": 5,
+    "ring": 45
+   },
+   {
+    "name": "554S",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "660S",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "748S",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The box-pressed Sumatra-wrapped blend in Micallef's five-line Grande Bold series from 2018, and the only one the maker rated medium-full instead of full. Micallef discontinued the whole Grande Bold family in January 2023.",
+  "released": 2018,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/micallef-adding-five-grande-bold-lines/270996/",
+   "https://halfwheel.com/ipcpr-2018-micallef-cigars/271008/",
+   "https://halfwheel.com/micallef-discontinuing-grande-bold-lines-next-year/415593/"
+  ],
+  "notes": "Discontinued in January 2023; only leftover retail stock remains. The maker rated it medium-full, while Neptune lists Medium. halfwheel gives a Honduran binder and Neptune a broadleaf binder.",
+  "verified": true,
+  "verifyNotes": "Swapped the Neptune link for halfwheel's IPCPR 2018 coverage, which is the page that states Ecuador (Sumatra) wrapper, Honduran binder and Dominican plus Nicaraguan filler. halfwheel's launch news lists Nicaraguan filler only. Tightened about and notes."
+ }
+]

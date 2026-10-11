@@ -1,0 +1,786 @@
+[
+ {
+  "brand": "Caldwell",
+  "line": "10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Rosado",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Colombia (Cubita), Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Añejado",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited cigar marking ten years of Caldwell Cigar Co., made at Tabacalera William Ventura with a San Andrés wrapper aged about three and a half years. Each cigar comes in its own coffin.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/caldwell-10th-anniversary-begins-shipping/445229/",
+   "https://halfwheel.com/caldwell-10th-anniversary-shipping-this-month/444724/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=642951"
+  ],
+  "notes": "Limited to 200 boxes of 10 at $50 a cigar. Robert Caldwell said he chose a well-aged, fuller-bodied wrapper instead of his usual mild to medium style. No maker strength rating is published; Smokingpipes, which shares an owner with Caldwell, rates it 3 of 5.",
+  "verified": true,
+  "verifyNotes": "Reworded the note about Caldwell's body comment to match his quote. Size comes from Smokingpipes only; halfwheel gives no dimensions."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Blind Man's Bluff This Is Trouble",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (corojo, double ligero), Nicaragua (Estelí habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cereal",
+   "espresso",
+   "dark chocolate",
+   "leather",
+   "black pepper"
+  ],
+  "about": "A limited edition Blind Man's Bluff robusto from Caldwell with a San Andrés wrapper and a blend unrelated to the regular Blind Man's Bluff. It is made in the Dominican Republic at Tabacalera William Ventura.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/blind-mans-bluff-this-is-trouble/399799/",
+   "https://halfwheel.com/caldwells-blind-mans-bluff-this-is-trouble-returns-for-2022/415987/"
+  ],
+  "notes": "2021 run was 1,000 boxes of 20. Only 200 boxes shipped in 2022 because a factory fire destroyed the rest. Strength and body are from the halfwheel review, which had strength finishing just over medium.",
+  "verified": true,
+  "verifyNotes": "Noted that the halfwheel review has strength finishing just over medium."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Blind Man's Bluff Toro Deluxe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "allspice",
+   "nuts",
+   "sweetness"
+  ],
+  "about": "A limited Blind Man's Bluff toro from Caldwell sold only in 100-count boxes. It was rolled in 2022 at Tabacalera William Ventura in the Dominican Republic.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/caldwell-releases-blind-mans-bluff-toro-deluxe/421713/",
+   "https://www.caldwellcigars.com/caldwell/blind-mans-bluff-toro-deluxe/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=547707"
+  ],
+  "notes": "First release was 160 boxes of 100 in 2023, with all-Dominican binder and filler unlike the regular Blind Man's Bluff. Later Chico Gold and Chico White versions were made at Manufactura Rivas after the Ventura factory fire. Strength is from the maker's 3 of 5 potency rating.",
+  "verified": true,
+  "verifyNotes": "Found the maker's own page, which gives a 3 of 5 potency, so strength set to Medium (was null). Added that page as a source and noted the later Chico Gold and Chico White versions."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Anastasia Anejado 2016",
+  "found": true,
+  "officialName": "Anastasia Añejado 2016",
+  "wrapperLeaf": "Dominican Habano Mejorado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "floral",
+   "milk chocolate",
+   "leather",
+   "espresso",
+   "white pepper"
+  ],
+  "about": "A limited Caldwell cigar rolled in 2016 and held until 2022. It shares the Anastasia name but is a different blend from the original Anastasia and was made at a different factory.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/anastasia-anejado-2016/408894/",
+   "https://halfwheel.com/caldwells-anastasia-anejado-2016-coming-this-summer/407380/"
+  ],
+  "notes": "Caldwell does not disclose the factory or country, only that it was not Tabacalera La Alianza, which made the original Anastasia. Limited to 6,000 boxes of 20. Strength and body are from the halfwheel review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found 15 Minutes of Fame",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [],
+  "about": "A Lost & Found lancero that reissues The Cookie, a blend first made for Privada Cigar Club. It was the first release after Lost & Found switched in 2022 from repackaging found cigars to commissioning and aging its own.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/15-minutes-of-fame/",
+   "https://halfwheel.com/lostfound-changes-company-model-launches-15-minutes-of-fame/408376/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=509987"
+  ],
+  "notes": "The factory is an undisclosed Dominican one. Strength is from the maker's 3 of 5 potency rating. The first 2022 run was 750 bundles of 20, and it now comes in boxes of 20.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Just The Tip",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweetness"
+  ],
+  "about": "A short Lost & Found robusto that reissues The Half Cookie, a blend first sold through Privada Cigar Club. It uses the same tobaccos as 15 Minutes of Fame in a shorter, thicker size.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/just-the-tip/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=506917"
+  ],
+  "notes": "The factory is not disclosed. Strength is from the maker's 3 of 5 potency rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found One Night Stand",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican, variety undisclosed",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Corojo)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Last Stand",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth"
+  ],
+  "about": "One of the original Lost & Found blends, a Dominican puro built on aged Corojo tobacco. It is now a regular Lost & Found line sold in boxes of 10.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/one-night-stand/",
+   "https://halfwheel.com/pca-2022-bellatto-premium-cigars/409329/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=528699"
+  ],
+  "notes": "The maker calls it an all-Dominican puro built on aged Corojo but lists the wrapper as undisclosed; halfwheel's 2022 coverage listed a Dominican Negrito wrapper. An early found-cigar release that became a regular line in 2022. Strength is from the maker's 4 of 5 potency rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Pepper Cream Soda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Arapiraca",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto)",
+  "filler": "Dominican Republic (Habano, HVA)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.75,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Extra",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cream",
+   "pepper"
+  ],
+  "about": "One of the original Lost & Found blends, remade since 2022 as a regular line with an Ecuadorian-grown Arapiraca wrapper over Dominican tobacco. It is known for a sweet, creamy start and a peppery finish.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/pepper-cream-soda/",
+   "https://halfwheel.com/pca-2022-bellatto-premium-cigars/409329/",
+   "https://halfwheel.com/lost-found-releases-pepper-cream-soda-corona-gorda/98426/"
+  ],
+  "notes": "The blend first appeared in January 2014, when the project was called Impromptu, and became regular production in 2022. The factory is not disclosed. Strength is from the maker's 3 of 5 potency rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Give A F*ck",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Sumatra seed",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "Lost & Found's annual charity robusto, sold in paper-wrapped bundles of 10. Part of each sale goes to Project Unleashed, a Miami program that gives free veterinary care to pets of families in need.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/give-a-f-ck/",
+   "https://halfwheel.com/lostfounds-give-a-fck-2025-benefitting-veterinary-care/452308/",
+   "https://halfwheel.com/lostfound-give-a-fck-returns-for-2026/475137/"
+  ],
+  "notes": "Lost & Found's GAF charity program began in 2020; this robusto came out in 2025 (about 500 bundles) and again in 2026 (600 bundles). The factory and the wrapper and binder origins are undisclosed, though the maker's page lists the binder as Indonesia. Strength is from the maker's 3 of 5 potency rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Backstroke Bambi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Chubb",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A one-time Lost & Found release that revisits the earlier Backdoor Bambi with a Corojo wrapper. It was sold in packs of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/backstroke-bambi/",
+   "https://www.caldwellcigars.com/lost-and-found/past-brands/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=692783"
+  ],
+  "notes": "Binder, filler, factory and country are undisclosed. The maker gives no strength rating; Smokingpipes, which shares an owner with the brand, rates it 3 of 5. The maker lists it as sold out.",
+  "verified": true,
+  "verifyNotes": "Smokingpipes still lists it for sale, so moved the sold-out claim out of 'about' and attributed it to the maker."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Backalley Bambi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Chubb",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A one-time Lost & Found release that revisits the earlier Backdoor Bambi with a San Andrés wrapper. It was sold in packs of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/backalley-bambi/",
+   "https://www.caldwellcigars.com/lost-and-found/past-brands/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=689631"
+  ],
+  "notes": "Binder, filler, factory and country are undisclosed. The maker gives no strength rating; Smokingpipes, which shares an owner with the brand, rates it 3 of 5. The maker lists it as sold out.",
+  "verified": true,
+  "verifyNotes": "Smokingpipes still lists it for sale, so moved the sold-out claim out of 'about' and attributed it to the maker."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Backstage Bambi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Negrito",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Chubb",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The last entry in Lost & Found's Bambi series, a one-time release with a Negrito wrapper made as a tribute to the original Backdoor Bambi. It was sold in packs of 10.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/backstage-bambi/",
+   "https://www.caldwellcigars.com/lost-and-found/past-brands/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=708757"
+  ],
+  "notes": "The origin of the Negrito wrapper, the binder, filler, factory and country are all undisclosed. The maker gives no strength rating; Smokingpipes, which shares an owner with the brand, rates it 3 of 5. The maker lists it as sold out.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. The maker's page labels the robusto 4.25 in its name but lists it as 52 x 4.75, and Smokingpipes confirms 4.75."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Cannibal",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Lost & Found robusto with an undisclosed blend, released around Halloween 2023 in bundles with artwork inspired by 1980s Italian cannibal horror films.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/cannibal/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=579118"
+  ],
+  "notes": "The blend, factory and country are fully undisclosed. Strength is from the maker's 3 of 5 potency rating. The maker lists it as a sold-out past brand.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Forever Fresh",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua (Estelí Habano)",
+  "filler": "Nicaragua (Estelí Habano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth"
+  ],
+  "about": "A Lost & Found blend commissioned from Oliva in Nicaragua, with a dark Pennsylvania Broadleaf wrapper over Estelí habano tobacco. It came out in 2023 in boxes of 20.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/forever-fresh/",
+   "https://halfwheel.com/lostfound-releases-foreverfresh-dark-broadleaf-pepper-cream-soda-boxpress/425540/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=564397"
+  ],
+  "notes": "Halfwheel calls this 2023 release Foreverfresh Dark Broadleaf; 350 boxes of 20 were made per size. The Forever Fresh name was first used in 2016 on a different found cigar. Strength is from the maker's 4 of 5 potency rating, and the maker calls the 4 x 48 a Shorty.",
+  "verified": true,
+  "verifyNotes": "Factory changed from the company name Oliva Cigar Co. to the factory name halfwheel gives, Tabacalera Oliva de Nicaragua S.A. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Mind Melter",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Lost & Found robusto with an undisclosed blend, released around Halloween 2023 in five-count bundles with artwork inspired by 1980s horror films.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/mind-melter/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=579119"
+  ],
+  "notes": "The blend, factory and country are fully undisclosed. Strength is from the maker's 3 of 5 potency rating. The maker lists it as a sold-out past brand.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Paradise Lost",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Shorty",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "milk",
+   "oak",
+   "pepper",
+   "oats"
+  ],
+  "about": "An aged Lost & Found blend made as a collaboration between Robert Caldwell and Room101 founder Matt Booth. It has a San Andrés maduro wrapper over Dominican and Nicaraguan tobacco.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/paradise-lost/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=571801"
+  ],
+  "notes": "The factory is not disclosed. Strength is from the maker's 3 of 5 potency rating, and the maker calls it medium-bodied. The maker lists it as a sold-out past brand.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found The Layover",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Negrito Añejado",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Layover",
+    "length": 4.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A short, thick box-pressed Lost & Found cigar that Robert Caldwell built for himself as a big-cigar smoke in a travel-friendly size. It is made at Tabacalera William Ventura in the Dominican Republic.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lostfound-the-layover-shipping-next-week/454985/",
+   "https://halfwheel.com/pca-2025-laudisi-distribution-group/451166/",
+   "https://www.smokingpipes.com/cigars/lost-and-found/moreinfo.cfm?product_id=701182"
+  ],
+  "notes": "A box-pressed 4 1/4 x 54. Initial production was 150 boxes of 20. No maker strength rating is published; Smokingpipes, which shares an owner with the brand, rates it 3 of 5.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Late to the Party",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Mexico (San Andrés)",
+  "filler": "Broadleaf, Condega, Corojo",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Lost & Found robusto extra blended by Robert Caldwell before Laudisi bought the company in 2024. It was sold in bundles of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/trio-of-lostfound-cigars-shipping-this-week/444424/"
+  ],
+  "notes": "Limited to 180 bundles of 10. The wrapper's country of origin is not published. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Don't Sit on the Furniture",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Habano Aromatico",
+  "filler": "Corojo, Habano, Pennsylvania (USA)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "toast",
+   "pepper",
+   "cream",
+   "wood",
+   "earth",
+   "cereal"
+  ],
+  "about": "A limited Lost & Found toro with a San Andrés wrapper, one of the first cigars the brand released after Laudisi bought it in 2024. It was sold in bundles of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lostfound-dont-sit-on-the-furniture/445655/",
+   "https://halfwheel.com/trio-of-lostfound-cigars-shipping-this-week/444424/"
+  ],
+  "notes": "Limited to 200 bundles of 10. The origins of the habano aromatico binder and the corojo and habano fillers are undisclosed. Strength and body are from the halfwheel review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found Out of Towners",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra",
+  "filler": "Corona, Nicaragua, Piloto",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Lost & Found robusto with an Ecuadorian habano wrapper, one of the first cigars the brand released after Laudisi bought it in 2024. It was sold in bundles of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/trio-of-lostfound-cigars-shipping-this-week/444424/"
+  ],
+  "notes": "Limited to 200 bundles of 10. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

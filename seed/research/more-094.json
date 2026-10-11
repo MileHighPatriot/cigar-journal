@@ -1,0 +1,968 @@
+[
+ {
+  "brand": "West Tampa Tobacco Co.",
+  "line": "Barbershop",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Condega ligero, Estelí viso, Jalapa viso, Ometepe viso)",
+  "country": "Nicaragua",
+  "factory": "Garmendia Cigars Co.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Straight Razor",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Clippers",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Barber Chair",
+    "length": 6.5,
+    "ring": 64
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed Connecticut Broadleaf line from Rick Rodriguez's West Tampa Tobacco Co., introduced at the 2026 PCA trade show. It is made in Estelí at Garmendia, the factory behind most of the company's lines, and the sizes carry barbershop names.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2026-west-tampa-tobacco-co/466373/",
+   "https://www.neptunecigar.com/west-tampa-tobacco-company-cigar"
+  ],
+  "notes": "Strength is from one retailer listing (Neptune lists it as full); the maker has not published one. All three sizes are box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "West Tampa Tobacco Co.",
+  "line": "Circle of Life",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa), Dominican Republic (Corojo 99)",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "oak",
+   "earth",
+   "coffee",
+   "black pepper",
+   "cocoa",
+   "cinnamon"
+  ],
+  "about": "A regular production line that Rick Rodriguez made with his mentor Ernesto Perez-Carrillo at Casa Carrillo in the Dominican Republic. It is the first West Tampa cigar made at that factory.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/west-tampa-tobacco-co-ships-e-p-carrillo-made-circle-of-life/445886/",
+   "https://halfwheel.com/west-tampa-tobacco-co-circle-of-life-robusto/448187/",
+   "https://www.neptunecigar.com/west-tampa-tobacco-company-cigar"
+  ],
+  "notes": "Shown at PCA 2024 but did not reach stores until January 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "West Tampa Tobacco Co.",
+  "line": "Chef Rick",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 2000 (country undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pages de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "peanuts",
+   "espresso",
+   "cinnamon",
+   "milk chocolate",
+   "black pepper"
+  ],
+  "about": "The third and last cigar in West Tampa's food-themed Cook Book Series, named for co-founder Rick Rodriguez. It is a single 6 x 52 toro limited to 1,000 boxes of 50.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/west-tampa-tobacco-co-chef-rick/474583/",
+   "https://halfwheel.com/pca-2026-west-tampa-tobacco-co/466373/",
+   "https://www.neptunecigar.com/west-tampa-tobacco-company-cigar"
+  ],
+  "notes": "The wrapper's country is not disclosed; Neptune lists it as Nicaraguan Habano and calls the cigar full strength, while halfwheel's review found it medium. Neptune also lists Garmendia as the factory, but halfwheel's review and the maker's quote say Tabacalera Pages.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "West Tampa Tobacco Co.",
+  "line": "Devil Crab",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Garmendia Cigars Co.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Perfecto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "graham cracker",
+   "black pepper",
+   "earth"
+  ],
+  "about": "The second cigar in West Tampa's Cook Book Series, named for the fried crab croquette tied to Tampa's Ybor City. It is a short 4 1/2 x 60 perfecto sold in boxes of 50 with a recipe card.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/west-tampa-tobacco-co-devil-crab-2/474771/",
+   "https://www.neptunecigar.com/west-tampa-tobacco-company-cigar"
+  ],
+  "notes": "The blend is undisclosed and production numbers were not released. Neptune lists it as medium; halfwheel's review found the nicotine strength milder than that. Halfwheel names Garmendia as the factory while Neptune lists NACSA.",
+  "verified": true,
+  "verifyNotes": "Reworded notes to say the medium strength is Neptune's listing and that halfwheel's review found it milder (medium-minus to mild). No field values changed."
+ },
+ {
+  "brand": "West Tampa Tobacco Co.",
+  "line": "Dark Time",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "wood",
+   "leather",
+   "white pepper",
+   "salt"
+  ],
+  "about": "A watch-themed limited edition from West Tampa, sold in 10-count boxes that include a cutter styled after a Rolex GMT. The company says the cigars were aged about three and a half years before release.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/west-tampa-tobacco-co-dark-time/453190/",
+   "https://www.cigaraficionado.com/article/dark-time-by-west-tampa-tobacco-co-on-its-way-to-retailers",
+   "https://www.neptunecigar.com/west-tampa-tobacco-company-cigar"
+  ],
+  "notes": "Limited to 2,500 boxes of 10. Cigar Aficionado describes the wrapper as Connecticut broadleaf from a 2019 crop and calls the cigar medium bodied; halfwheel's review found it stronger, medium-plus to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "West Tampa Tobacco Co.",
+  "line": "Boliche Blvd.",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The first cigar in West Tampa's Cook Book Series, named for the nickname of Columbus Drive in Tampa and its boliche restaurants. It was a single 6 x 60 gordo limited to 500 boxes of 50.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/west-tampa-tobacco-co-slates-boliche-blvd-for-nov-27-release/431734/"
+  ],
+  "notes": "The blend is undisclosed; the company says only that the tobacco came from Tampa's Oliva Tobacco Co.",
+  "verified": true,
+  "verifyNotes": "No changes. The blend is undisclosed by the maker and no source publishes a strength."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Rubicon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "United States (Broadleaf)",
+  "filler": "Dominican Republic (Piloto), Honduras (La Entrada, Jamastran), Nicaragua (Estelí)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "black pepper",
+   "earth",
+   "toast"
+  ],
+  "about": "A value-priced non-Cuban Cohiba from General Cigar, made in Honduras rather than the Dominican Republic. It launched in 2025 at under 10 dollars a cigar.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/rubicon/",
+   "https://halfwheel.com/cohiba-rubicon-box-pressed-robusto/454839/",
+   "https://www.famous-smoke.com/brand-cohiba-rubicon"
+  ],
+  "notes": "This is the General Cigar (non-Cuban) Cohiba. The maker calls it medium bodied; halfwheel's review found the body closer to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Serie M",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa), Dominican Republic (Piloto Cubano)",
+  "country": "United States",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Prominente",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almonds",
+   "leather",
+   "caramel",
+   "white pepper",
+   "cocoa",
+   "espresso"
+  ],
+  "about": "The first non-Cuban Cohiba rolled in the United States, made at El Titan de Bronze in Miami's Little Havana. A new limited size or blend has come out each spring since 2021.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.cohiba.com/the-collection/serie-m/",
+   "https://halfwheel.com/cohiba-serie-m/394600/",
+   "https://www.neptunecigar.com/cohiba-cigar"
+  ],
+  "notes": "Each size was a one-year release: Toro in 2021, Corona Gorda in 2022, Prominente in 2023. The 2024 to 2026 releases (Reserva Roja, Azul, Plata) use different blends. Retailers disagree on strength: Neptune lists medium and Famous Smoke lists full.",
+  "verified": true,
+  "verifyNotes": "Flavors changed to lead with the main notes in halfwheel's review (almonds, leather, caramel, white pepper). Added the retailer strength disagreement to notes and Neptune as a source. Medium-Full kept: halfwheel's review ended between medium and full."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Serie M Reserva Roja",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "United States",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Magnum",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "leather",
+   "spice"
+  ],
+  "about": "The 2024 release in Cohiba's Miami-made Serie M line, a 6 1/2 x 54 toro extra with a Nicaraguan corojo wrapper and binder. It was limited to 2,500 boxes of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.cohiba.com/the-collection/serie-m/",
+   "https://halfwheel.com/cohiba-serie-m-reserva-roja-offers-new-blend-debuts-at-pca-2024-ahead-of-april-1-release/436865/",
+   "https://halfwheel.com/cohiba-serie-m-reserva-roja/439799/"
+  ],
+  "notes": "General Cigar's press release called it medium-plus, while halfwheel's review found the nicotine strength a little under medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Serie M Reserva Azul",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Jalapa viso and ligero, Estelí), Dominican Republic (Piloto Cubano)",
+  "country": "United States",
+  "factory": "El Titan de Bronze",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The 2025 release in Cohiba's Miami-made Serie M line, a 6 x 52 toro with a Dominican corojo wrapper. It was limited to 3,000 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.cohiba.com/the-collection/serie-m/",
+   "https://halfwheel.com/cohiba-serie-m-reserva-azul-shipping-next-week/447775/",
+   "https://www.cigaraficionado.com/articles/cohiba-serie-m-reserva-azul-coming-next-week"
+  ],
+  "notes": "General Cigar did not publish a strength rating. Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Strength left null: the maker, halfwheel and Cigar Aficionado give none and only one retailer (Neptune, medium) lists one. Added that to notes and added the Cigar Aficionado article as a source."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Serie M Reserva Plata",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Jalapa viso and ligero, Estelí), Dominican Republic (Piloto Cubano)",
+  "country": "United States",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "oak",
+   "espresso",
+   "earth",
+   "black pepper",
+   "honey"
+  ],
+  "about": "The 2026 release in Cohiba's Miami-made Serie M line, a 6 x 52 toro and the first in the series with a Mexican San Andrés wrapper. It is limited to 3,000 boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.cohiba.com/the-collection/serie-m/",
+   "https://halfwheel.com/cohiba-serie-m-reserva-plata/471339/",
+   "https://www.famous-smoke.com/brand-cohiba-serie-m"
+  ],
+  "notes": "Neptune and Famous Smoke both list it as full strength, while halfwheel's review found it medium to medium-plus. Famous Smoke's listing also shows a Dominican corojo wrapper, which was the 2025 Reserva Azul; the maker and halfwheel say Mexican San Andrés.",
+  "verified": true,
+  "verifyNotes": "Notes updated: Neptune also lists full strength, so two retailers say full against halfwheel's medium. Strength kept at Medium from halfwheel's review, since the maker gives none."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "C8",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa (2018 crop)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "United States (Connecticut Broadleaf, 2021)",
+  "filler": "Brazil (Mata Fina), Nicaragua (Jalapa, Estelí)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The rarest and most expensive non-Cuban Cohiba, built from vintage-dated tobaccos and sold in individual tubes. The 2025 release is a 7 x 50 Churchill priced around 250 dollars a cigar.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.cohiba.com/the-collection/c8/",
+   "https://halfwheel.com/general-brings-back-cohiba-c8-a-250-cigar/455888/",
+   "https://cigardojo.com/2025/10/cohiba-prepares-second-c8-release-available-november-2025/"
+  ],
+  "notes": "Blend shown is the 2025 release. The original 2021 C8 was a different cigar: a 7 1/4 x 54 with an Ecuadorian Sumatra wrapper, sold in 10-count briefcase sets.",
+  "verified": true,
+  "verifyNotes": "The halfwheel 2025 article does not name the factory in its text, so replaced the 2021 halfwheel link with the Cigar Dojo report that states General Cigar Dominicana for the 2025 release. The maker publishes no strength."
+ },
+ {
+  "brand": "Trinidad",
+  "line": "Espiritu Series No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Brazil",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Fundador",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "espresso",
+   "dark chocolate",
+   "oak",
+   "black pepper"
+  ],
+  "about": "The second blend in Altadis U.S.A.'s Trinidad Espiritu series, themed on Brazil and built around a Brazilian Arapiraca wrapper. Rafael Nodal and AJ Fernandez blended it and it is made at Fernandez's factory in Estelí.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/trinidad-santiago/trinidad-espiritu-no-2/",
+   "https://halfwheel.com/trinidad-espiritu-series-no-2-toro/392088/",
+   "https://www.famous-smoke.com/brand-trinidad-espiritu-series-no-2"
+  ],
+  "notes": "This is the non-Cuban Trinidad from Altadis U.S.A. The maker calls it medium to full bodied; retailers disagree, with Neptune listing medium and Famous Smoke listing full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Trinidad",
+  "line": "Espiritu Series No. 3",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Fundador",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "cocoa",
+   "anise",
+   "spice"
+  ],
+  "about": "The third blend in the Trinidad Espiritu series, themed on Mexico with a San Andrés wrapper over Nicaraguan tobaccos. It is soft-pressed and made by AJ Fernandez in Estelí.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/trinidad-santiago/trinidad-espiritu-no-3/",
+   "https://halfwheel.com/trinidad-espiritu-no-3-heads-to-stores/431051/",
+   "https://www.neptunecigar.com/trinidad-cigar"
+  ],
+  "notes": "This is the non-Cuban Trinidad from Altadis U.S.A. The company describes it as medium to full; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Trinidad",
+  "line": "Espiritu Miami Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Trinidad Espiritu release themed on Miami, made entirely of Nicaraguan tobacco by AJ Fernandez. It comes in one belicoso size and was limited to 4,000 boxes of 20.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/trinidad-espiritu-miami-edition-debuting-next-month/448610/",
+   "https://www.neptunecigar.com/cigar/trinidad-espiritu-miami-edition",
+   "https://www.cigaraficionado.com/articles/trinidad-espiritu-miami-edition-coming-next-month"
+  ],
+  "notes": "Despite the name it is made in Nicaragua, not Miami. The wrapper leaf type is not published. Neptune lists strength as full and describes the body as medium to full.",
+  "verified": true,
+  "verifyNotes": "Added the Cigar Aficionado article as a cross-check. Strength (full) rests on Neptune alone; Altadis has no page for this cigar and halfwheel and Cigar Aficionado give no strength."
+ },
+ {
+  "brand": "Trinidad",
+  "line": "Tommy Bahama Island Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Harbor",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Breeze",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Marlin",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "toast",
+   "black pepper",
+   "cream",
+   "nuts",
+   "wood"
+  ],
+  "about": "A collaboration between Altadis U.S.A.'s Trinidad brand and the Tommy Bahama lifestyle label. It is a Nicaraguan puro made by AJ Fernandez with tobacco from his own farms.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/trinidad-santiago/trinidad-x-tommy-bahama-island-collection/",
+   "https://halfwheel.com/trinidad-x-tommy-bahama-island-collection-harbor/459030/",
+   "https://www.neptunecigar.com/trinidad-cigar"
+  ],
+  "notes": "Sold as Trinidad x Tommy Bahama Island Collection. The wrapper leaf type is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Trinidad",
+  "line": "Esteli by Plasencia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet spice",
+   "earth",
+   "wood"
+  ],
+  "about": "A Nicaraguan-made Trinidad blended by Rafael Nodal with tobaccos from Nestor Plasencia Jr.'s farms.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.famous-smoke.com/brand-trinidad-esteli-by-plasencia"
+  ],
+  "notes": "Details are from the Famous Smoke listing only; the binder, filler, factory and release year are not published there. It says the tobaccos come from Plasencia's Nicaraguan farms.",
+  "verified": true,
+  "verifyNotes": "Every field matches the Famous Smoke listing, but no second source exists: it is not on the Altadis U.S.A. site and halfwheel and Cigar Aficionado searches returned nothing. Treat the full strength rating as one retailer's word."
+ },
+ {
+  "brand": "Matilde",
+  "line": "Serena Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro Bravo",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "spice"
+  ],
+  "about": "A maduro version of Matilde's mild Serena line, swapping the Ecuadorian Connecticut wrapper for Mexican San Andrés. Matilde was founded by the late Jose Seijas, longtime head of Tabacalera de Garcia, and his sons.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://matildecigars.com/core-lines/",
+   "https://halfwheel.com/matilde-unveils-new-serena-maduro-new-sizes-of-limited-exposure-no-2-at-tpe-2023/420414/",
+   "https://halfwheel.com/matilde-serena-maduro-toro-bravo/423806/"
+  ],
+  "notes": "Co-owner Enrique Seijas describes the strength as at or just shy of medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Matilde",
+  "line": "Special Edition 2024",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Dominican Republic, Peru, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "TABACALERA LA iSLA",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "roasted nuts",
+   "cocoa",
+   "spice"
+  ],
+  "about": "A small-batch 6 x 50 toro from Matilde and the company's first blend to use Peruvian tobacco, a leaf founder Jose Seijas was fond of. It began shipping in October 2024, weeks before his death.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://matildecigars.com/special-edition-2024/",
+   "https://halfwheel.com/matilde-special-edition/446116/"
+  ],
+  "notes": "The maker calls it medium to full bodied, but halfwheel's review found the nicotine strength mild. Matilde describes it as a small-batch limited release while halfwheel lists it as regular production. One line on the maker's page says Habano wrapper; its spec list and halfwheel say Sumatra.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Matilde",
+  "line": "Para José Seijas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "TABACALERA LA iSLA",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "roasted nuts",
+   "spice",
+   "cream"
+  ],
+  "about": "A tribute cigar to Matilde founder Jose Seijas, the longtime head of Tabacalera de Garcia who died in 2024. It is a 6 x 52 toro aged more than a year, with part of the proceeds going to a Parkinson's foundation in the Dominican Republic.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://matildecigars.com/para-jose-seijas/",
+   "https://halfwheel.com/para-jose-seijas/453729/",
+   "https://halfwheel.com/matildes-para-jose-seijas-heads-to-stores/451634/"
+  ],
+  "notes": "The 2025 run was 750 boxes of 20, and Matilde plans to release it once a year. The maker lists strength as medium to full; halfwheel's review found it medium to medium-plus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Matilde",
+  "line": "Limited Exposure No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "TABACALERA LA iSLA",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "spice",
+   "cream"
+  ],
+  "about": "The second blend in Matilde's small-batch Limited Exposure series, first released as a 6 x 50 toro in 2022 with a robusto and lonsdale added in 2023. It wears a purple band.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://matildecigars.com/limited-exposure/",
+   "https://halfwheel.com/matilde-limited-exposure-no-2/409186/",
+   "https://halfwheel.com/matilde-unveils-new-serena-maduro-new-sizes-of-limited-exposure-no-2-at-tpe-2023/420414/"
+  ],
+  "notes": "Sources disagree on the blend: Matilde's site lists an Ecuadorian Sumatra wrapper with Dominican and Nicaraguan filler, while halfwheel reported an Ecuadorian corojo wrapper over all-Dominican filler. The maker's site also lists the toro as 6 x 54; halfwheel has it at 6 x 50.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Matilde",
+  "line": "Limited Exposure No. 3",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "TABACALERA LA iSLA",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "dark cocoa",
+   "wood",
+   "spice"
+  ],
+  "about": "The third blend in Matilde's Limited Exposure series, released in 2026 four years after No. 2. It uses an even split of Dominican and Nicaraguan filler, a departure from the company's mostly Dominican blends.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://matildecigars.com/limited-exposure/",
+   "https://halfwheel.com/matilde-limited-exposure-no-3-on-the-way-to-stores/462990/",
+   "https://halfwheel.com/matilde-limited-exposure-no-3-robusto/470765/"
+  ],
+  "notes": "Limited to 350 boxes each of Robusto and Toro and 250 of the Lonsdale. Sizes are from halfwheel's release report; Matilde's site instead lists the four core-line sizes (corona, robusto, toro bravo, grande).",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

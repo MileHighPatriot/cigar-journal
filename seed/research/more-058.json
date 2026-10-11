@@ -1,0 +1,703 @@
+[
+ {
+  "brand": "Acid",
+  "line": "20",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto (box-pressed)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Connecticut Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "clove",
+   "cinnamon",
+   "cedar",
+   "cocoa",
+   "espresso",
+   "honey"
+  ],
+  "about": "An infused cigar Drew Estate released in 2019 to mark 20 years of the ACID brand. The original has a Mexican San Andrés wrapper over an Indonesian binder and Nicaraguan filler, with a sweetened tip.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-20/",
+   "https://halfwheel.com/acid-20-toro/380336/",
+   "https://halfwheel.com/acid-20-connecticut-toro/407612/"
+  ],
+  "notes": "Also sold as ACID 20 Connecticut (2022) with an Ecuadorian Connecticut wrapper over the same binder and filler. Drew Estate lists the Connecticut Toro at 6 x 50, halfwheel and retailers list 6 x 54. Halfwheel gave the launch robusto as 5 x 52.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Wrapper, binder, filler, factory and country confirmed on halfwheel; Medium confirmed on Neptune and Atlantic, though halfwheel's reviewer found it stayed just under medium."
+ },
+ {
+  "brand": "Acid",
+  "line": "Blondie Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "honey",
+   "vanilla",
+   "floral",
+   "herbal",
+   "spice"
+  ],
+  "about": "A darker-wrapped version of the small ACID Blondie, added by Drew Estate in 2014. It is an infused 4 x 38 petit corona.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://halfwheel.com/drew-estate-adds-acid-blondie-maduro/64952/",
+   "https://www.famous-smoke.com/acid-blondie-maduro-cigars"
+  ],
+  "notes": "One size in the ACID Blue line. Halfwheel and Famous give a Mexican San Andrés maduro wrapper, while Neptune lists Connecticut Broadleaf. Strength is listed as Medium by Famous and Mild by Neptune.",
+  "verified": true,
+  "verifyNotes": "Removed the pigtail cap claim from about, no source states it. Wrapper confirmed on halfwheel and Famous. Strength left null: Famous says Medium, Neptune says Mild, Drew Estate publishes none."
+ },
+ {
+  "brand": "Acid",
+  "line": "Blondie Belicoso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "honey",
+   "spice"
+  ],
+  "about": "A larger 5 x 54 belicoso version of the ACID Blondie from Drew Estate. It is an infused cigar in the ACID Blue line.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://www.neptunecigar.com/cigars/acid-blondie-belicoso",
+   "https://atlanticcigar.com/acid-blondie-belicoso/"
+  ],
+  "notes": "One size in the ACID Blue line. Neptune and Atlantic list a Connecticut Shade wrapper and Mild strength, while Famous lists Cameroon and Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded about in plainer words. Connecticut Shade and Mild confirmed on Neptune and Atlantic; Famous lists Cameroon and Medium as noted. Factory confirmed on Neptune's page."
+ },
+ {
+  "brand": "Acid",
+  "line": "Deep Dish",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness",
+   "floral",
+   "herbal"
+  ],
+  "about": "A thick 5 x 58 box-pressed infused cigar in Drew Estate's ACID Blue line. Retailers describe it as creamy with a sweet finish.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://www.famous-smoke.com/acid-deep-dish-cigars-natural",
+   "https://atlanticcigar.com/acid-deep-dish/"
+  ],
+  "notes": "One size in the ACID Blue line. Famous and Atlantic list a Sumatra wrapper and Medium strength, while Neptune lists Cameroon and Mild. Drew Estate does not publish the blend.",
+  "verified": true,
+  "verifyNotes": "Reworded about in plainer words. Sumatra and Medium confirmed on Famous and Atlantic; Neptune lists Cameroon and Mild as noted. Factory confirmed on Neptune's ACID pages."
+ },
+ {
+  "brand": "Acid",
+  "line": "Kuba Deluxe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "herbal"
+  ],
+  "about": "A 6 x 50 toro version of the ACID Kuba Kuba from Drew Estate, sold in individual tubes. It is an infused cigar with sweet, herbal notes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://www.famous-smoke.com/acid-kuba-deluxe-cigars-natural",
+   "https://www.neptunecigar.com/cigars/acid-kuba-deluxe"
+  ],
+  "notes": "One size in the ACID Blue line, sold in tubos. Famous and Neptune list a Sumatra wrapper, Atlantic lists Connecticut Shade. Strength varies by retailer: Mild (Neptune), Mild-Medium (Atlantic), Medium (Famous).",
+  "verified": true,
+  "verifyNotes": "Reworded about in plainer words. Sumatra confirmed on Famous and Neptune, Connecticut Shade on Atlantic. Strength left null: the three retailers each list a different one and Drew Estate publishes none."
+ },
+ {
+  "brand": "Acid",
+  "line": "Kuba Grande",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "cedar",
+   "herbal"
+  ],
+  "about": "A 6 x 60 version of the ACID Kuba Kuba that Drew Estate added in 2013. It is an infused cigar with a Sumatra wrapper over Nicaraguan filler.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://halfwheel.com/drew-estate-adds-6-60-kuba-grande/38926/",
+   "https://www.neptunecigar.com/cigars/acid-kuba-grande"
+  ],
+  "notes": "One size in the ACID Blue line. Neptune and Atlantic list Mild strength, Famous lists Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded about in plainer words. Sumatra confirmed on Neptune, Atlantic and Famous; Mild on Neptune and Atlantic."
+ },
+ {
+  "brand": "Acid",
+  "line": "Blondie Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice"
+  ],
+  "about": "A Sumatra-wrapped version of the 4 x 38 ACID Blondie that Drew Estate added in 2017. It is an infused cigar in the ACID Gold line.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-gold/",
+   "https://halfwheel.com/drew-estates-expands-acid-portfolio-candela-new-blondie-sizes/161243/",
+   "https://www.famous-smoke.com/acid-blondie-gold-cigars-natural"
+  ],
+  "notes": "One size in the ACID Gold line. Famous describes an Indonesian wrapper and binder, while Atlantic lists a Nicaraguan binder. Famous and Atlantic list Medium strength, Neptune lists Mild.",
+  "verified": true,
+  "verifyNotes": "Removed the unsupported infusion claim from about. Added to notes that Neptune lists Mild. Sumatra confirmed on halfwheel, Famous and Atlantic; Medium on Famous and Atlantic."
+ },
+ {
+  "brand": "Acid",
+  "line": "Atom Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "spice",
+   "berries",
+   "pepper",
+   "honey",
+   "banana"
+  ],
+  "about": "A 5 x 50 maduro robusto in Drew Estate's ACID Gold line. It is an infused cigar with a dark wrapper over Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-gold/",
+   "https://www.famous-smoke.com/acid-atom-cigars-maduro",
+   "https://atlanticcigar.com/acid-atom-maduro/"
+  ],
+  "notes": "One size in the ACID Gold line. Famous and Atlantic describe a Connecticut Broadleaf maduro wrapper, though Famous's spec table says undisclosed and Neptune lists a Nicaraguan maduro. Neptune also lists it as Mild. Drew Estate does not publish the blend.",
+  "verified": true,
+  "verifyNotes": "Reworded about, the old one repeated a retailer's sales claim. Added to notes that Famous's spec table calls the wrapper undisclosed. Connecticut Broadleaf maduro confirmed in Famous's description and on Atlantic; Medium on both."
+ },
+ {
+  "brand": "Acid",
+  "line": "Croqueta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 2.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "wood",
+   "earth"
+  ],
+  "about": "A tiny 2 1/2 x 50 infused cigar in Drew Estate's ACID Purple line, released in 2019 during the brand's 20th anniversary. It is packed two to a glass tube.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-morado/",
+   "https://halfwheel.com/acid-croqueta/364569/",
+   "https://www.famous-smoke.com/acid-croqueta-2-cigars-maduro"
+  ],
+  "notes": "One size in the ACID Purple line. Sold two cigars per glass tube. Retailers list Medium, but halfwheel's reviewer found almost no nicotine strength.",
+  "verified": true,
+  "verifyNotes": "Removed the maker's slogan from about. Added halfwheel's strength finding to notes. Blend confirmed on halfwheel; Medium confirmed on Famous and Neptune."
+ },
+ {
+  "brand": "Acid",
+  "line": "Plush",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "berries",
+   "floral",
+   "earth",
+   "cream"
+  ],
+  "about": "A 5 1/2 x 50 broadleaf maduro cigar added to Drew Estate's ACID Purple line in 2019. It is an infused cigar that sits alongside Extra Ordinary Larry.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-morado/",
+   "https://halfwheel.com/drew-estate-ships-acid-croqueta-plush/298302/",
+   "https://www.famous-smoke.com/acid-plush-cigars-maduro"
+  ],
+  "notes": "One size in the ACID Purple line.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that it shares Extra Ordinary Larry's infusion: halfwheel says that of Croqueta, not Plush. Broadleaf maduro confirmed on halfwheel, Connecticut Broadleaf on Famous, Atlantic and Neptune; Medium on Famous and Neptune."
+ },
+ {
+  "brand": "Acid",
+  "line": "Extra Ordinary Larry",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "floral",
+   "spice",
+   "cream",
+   "sweetness"
+  ],
+  "about": "The 6 x 60 maduro in Drew Estate's ACID Purple line. It is an infused cigar that retailers describe as creamy with a floral aroma.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-morado/",
+   "https://www.famous-smoke.com/acid-extra-ordinary-larry-cigars-maduro",
+   "https://atlanticcigar.com/acid-extra-ordinary-larry/"
+  ],
+  "notes": "One size in the ACID Purple line. Famous and Atlantic list a Connecticut Broadleaf maduro wrapper, Neptune lists a Nicaraguan maduro. Strength varies by retailer: Medium (Neptune), Medium-Full (Atlantic), Full (Famous).",
+  "verified": true,
+  "verifyNotes": "Reworded about in plainer words. Connecticut Broadleaf maduro confirmed on Famous and Atlantic, Nicaraguan on Neptune. Strength left null: three retailers list three different strengths and Drew Estate publishes none."
+ },
+ {
+  "brand": "Acid",
+  "line": "Blondie Candela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "hay",
+   "sweetness",
+   "grass",
+   "herbal"
+  ],
+  "about": "A green candela-wrapped version of the 4 x 38 ACID Blondie, added to regular boxes by Drew Estate in 2017. It is a mild infused cigar with grassy notes.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-green/",
+   "https://halfwheel.com/drew-estates-expands-acid-portfolio-candela-new-blondie-sizes/161243/",
+   "https://www.neptunecigar.com/cigars/acid-green-blondie"
+  ],
+  "notes": "One size in the ACID Green line. Launched as Blondie Green, and many retailers still use that name. Drew Estate does not say where the candela leaf is grown; Neptune lists it as Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Removed the unsupported infusion claim from about. Added to notes that Neptune lists the wrapper as Nicaraguan. Candela, Nicaragua and Mild confirmed on Neptune and Atlantic."
+ },
+ {
+  "brand": "Acid",
+  "line": "Kuba Kuba Candela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "hay",
+   "sweetness",
+   "grass",
+   "earth"
+  ],
+  "about": "A green candela-wrapped version of the 5 x 54 ACID Kuba Kuba, introduced by Drew Estate in 2017. It is a mild infused cigar with grassy notes.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-green/",
+   "https://halfwheel.com/drew-estates-expands-acid-portfolio-candela-new-blondie-sizes/161243/",
+   "https://www.neptunecigar.com/cigars/acid-green-kuba-kuba"
+  ],
+  "notes": "One size in the ACID Green line. Launched as Kuba Kuba Green, and many retailers still use that name. Drew Estate does not say where the candela leaf is grown; Neptune lists it as Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop an unsupported best-known claim. Added to notes that Neptune lists the wrapper as Nicaraguan. Candela, Nicaragua and Mild confirmed on Neptune and Atlantic."
+ },
+ {
+  "brand": "Acid",
+  "line": "Malta",
+  "found": true,
+  "officialName": "Subculture Malta",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "herbal",
+   "sweetness"
+  ],
+  "about": "An infused 5 x 50 robusto in Drew Estate's ACID Subculture series, whose blends are made for specific retailers. Malta is sold by Neptune Cigar.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigars/acid-malta",
+   "https://www.neptunecigar.com/cigar/acid-subculture"
+  ],
+  "notes": "Part of the ACID Subculture series and found only at Neptune Cigar. Neptune lists a USA Connecticut Broadleaf wrapper but a Natural color, so the wrapper is left blank. Drew Estate does not publish the blend.",
+  "verified": true,
+  "verifyNotes": "Neptune's page does not itself call Malta a Neptune exclusive, so about and notes now say only that it is sold there. Production set to null, no source states it. Factory filled from Neptune's page. Medium and Nicaragua confirmed on Neptune; Drew Estate's Subculture page publishes no blend."
+ },
+ {
+  "brand": "Acid",
+  "line": "Mantra",
+  "found": true,
+  "officialName": "Subculture Mantra",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "incense",
+   "sugar",
+   "cream"
+  ],
+  "about": "An infused 5 1/2 x 52 robusto in Drew Estate's ACID Subculture series, made as a Famous Smoke Shop exclusive. The Subculture cigars get an extra year of aging.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.famous-smoke.com/acid-subculture-mantra-cigars-natural",
+   "https://www.famous-smoke.com/brand/acid-subculture-cigars"
+  ],
+  "notes": "A Famous Smoke Shop exclusive in the ACID Subculture series. Famous calls the wrapper a proprietary natural leaf and does not say what it is.",
+  "verified": true,
+  "verifyNotes": "Production set to null, no source states it. Famous's product page confirmed: proprietary natural wrapper, Medium, 5 1/2 x 52, Nicaragua, Famous exclusive."
+ },
+ {
+  "brand": "Acid",
+  "line": "Progeny",
+  "found": true,
+  "officialName": "Subculture Progeny",
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "clove",
+   "cinnamon",
+   "sugarcane",
+   "spice"
+  ],
+  "about": "An infused 5 1/2 x 46 corona in Drew Estate's ACID Subculture series, made as a Famous Smoke Shop exclusive. It has a Mexican San Andrés wrapper over Nicaraguan tobacco and an extra year of aging.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.famous-smoke.com/acid-subculture-progeny-cigars-natural",
+   "https://www.famous-smoke.com/brand/acid-subculture-cigars"
+  ],
+  "notes": "A Famous Smoke Shop exclusive in the ACID Subculture series.",
+  "verified": true,
+  "verifyNotes": "Production set to null, no source states it. Famous's product page confirmed: Mexican San Andrés wrapper, Medium, 5 1/2 x 46, Nicaragua, Famous exclusive."
+ },
+ {
+  "brand": "Acid",
+  "line": "Continental",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An infused 5 1/2 x 52 robusto with a sweetened tip that Drew Estate made for the Smoker Friendly chain. It debuted at the 2021 Rocky Mountain Cigar Festival.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/acid-continental-debuting-this-weekend-as-smoke-friendly-exclusive/400242/"
+  ],
+  "notes": "A Smoker Friendly store exclusive, announced as ongoing production. The wrapper is described only as Indonesian, and the maker gives body (medium) but no strength.",
+  "verified": true,
+  "verifyNotes": "No field changes, notes shortened. Blend, size, factory and ongoing production confirmed on halfwheel. No strength is published; the maker describes it only as medium-bodied."
+ },
+ {
+  "brand": "Acid",
+  "line": "Ode to Blatt",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "herbal",
+   "cream",
+   "floral"
+  ],
+  "about": "An infused 5 x 54 cigar Drew Estate released in 2023 in memory of Allan Blatt, the founder of Best Cigar Prices. It has an Ecuadorian Sumatra wrapper over Nicaraguan tobacco.",
+  "released": 2023,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/drew-estate-honors-best-cigar-prices-allan-blatt-with-new-acid-ode-to-blatt/422822/"
+  ],
+  "notes": "Made for Best Cigar Prices. No source says whether it is a limited run or ongoing. The blend under the wrapper is given only as Nicaraguan tobaccos.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, size, factory and country confirmed on halfwheel, the only source found. The announcement gives no strength and Drew Estate's site publishes none."
+ }
+]

@@ -1,0 +1,912 @@
+[
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Alazán Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars (formerly Tabacalera La Perla)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "toffee"
+  ],
+  "about": "One of six blends in Stallone's Cowboy Series, each named for a horse coat color. This one pairs a reddish Brazilian Corojo wrapper with an Ecuadorian binder and Nicaraguan filler, and all three sizes are box-pressed.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://stallonecigars.com/cowboyseries/",
+   "http://stallonecigars.com/CATALOGO%20STALLONE%20CIGARS%202020_2.pdf",
+   "https://cigar-coop.com/2020/08/summer-of-20-spotlight-stallone-cigars.html"
+  ],
+  "notes": "Part of the Cowboy Series. 2020 is the U.S. launch; the brand was founded in 2014 and sold abroad first.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Alazán Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars (formerly Tabacalera La Perla)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "nuts"
+  ],
+  "about": "A Cowboy Series blend from Tony Barrios's Stallone Cigars with an Ecuadorian Habano wrapper over a Brazilian binder and Nicaraguan filler. Both sizes are box-pressed.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://stallonecigars.com/cowboyseries/",
+   "https://cigar-coop.com/2020/08/summer-of-20-spotlight-stallone-cigars.html",
+   "https://stogiepress.com/cigar-review-stallone-nicaragua-cigars-alazan-habano-robusto-rated-96/"
+  ],
+  "notes": "Part of the Cowboy Series. The maker rates it Medium plus. 2020 is the U.S. launch; the brand sold abroad before that.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Castaño San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars (formerly Tabacalera La Perla)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "pepper",
+   "wood",
+   "cocoa",
+   "espresso",
+   "earth"
+  ],
+  "about": "A Cowboy Series blend with a dark Mexican San Andrés wrapper over Nicaraguan binder and filler. It comes in three box-pressed sizes.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://stallonecigars.com/cowboyseries/",
+   "http://stallonecigars.com/CATALOGO%20STALLONE%20CIGARS%202020_2.pdf",
+   "https://cigar-coop.com/2022/02/cigar-review-stallone-castano-san-andres-toro.html"
+  ],
+  "notes": "Part of the Cowboy Series. The maker calls it medium-full; Cigar Coop's review found medium strength with medium-full body. 2020 is the U.S. launch.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Negro Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars (formerly Tabacalera La Perla)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Perfecto",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "toast",
+   "black pepper",
+   "dark chocolate",
+   "spice"
+  ],
+  "about": "The Nicaraguan puro of Stallone's Cowboy Series, wrapped in a near-black maduro leaf. It comes in three box-pressed sizes.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://stallonecigars.com/cowboyseries/",
+   "https://cigar-coop.com/2020/11/cigar-review-stallone-negro-maduro-toro.html",
+   "https://cigar-coop.com/2022/09/pca-2022-report-stallone-cigars.html"
+  ],
+  "notes": "Part of the Cowboy Series. Cigar Coop reported in 2022 that it was renamed Azabache Maduro, though the maker's site still shows Negro Maduro. 2020 is the U.S. launch.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Palomino Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars (formerly Tabacalera La Perla)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "caramel",
+   "almonds"
+  ],
+  "about": "The lightest-wrapped blend in Stallone's Cowboy Series, using a U.S.-grown Connecticut Shade wrapper over Nicaraguan binder and filler. It is sold in two round sizes.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "http://stallonecigars.com/CATALOGO%20STALLONE%20CIGARS%202020_2.pdf",
+   "https://cigar-coop.com/2020/08/summer-of-20-spotlight-stallone-cigars.html",
+   "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-stallone-cowboy-series-palomino-connecticut-robusto/"
+  ],
+  "notes": "Part of the Cowboy Series. The maker rates it Medium plus, stronger than most Connecticut Shade cigars. 2020 is the U.S. launch.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Zaino Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars (formerly Tabacalera La Perla)",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "dried cherry",
+   "coffee",
+   "earth"
+  ],
+  "about": "A Cowboy Series blend with a dark U.S.-grown Broadleaf wrapper over Nicaraguan binder and filler. It is sold in two round sizes and is the only Cowboy Series blend the maker rates full strength.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://stallonecigars.com/cowboyseries/",
+   "https://cigar-coop.com/2021/02/cigar-review-stallone-zaino-broadleaf-toro.html",
+   "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-stallone-cowboy-series-zaino-broadleaf-robusto/"
+  ],
+  "notes": "Part of the Cowboy Series. The maker calls it full; Cigar Coop and Developing Palates both found it closer to medium in strength. 2020 is the U.S. launch.",
+  "verified": true,
+  "verifyNotes": "Reworded about: the maker also rates The Clydesdale full, so Zaino is the strongest of the Cowboy Series only."
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "The Pony",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, USA (Connecticut Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Gordo",
+    "length": 4,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "almonds",
+   "baking spices",
+   "cream"
+  ],
+  "about": "A short, thick, budget-priced cigar from Stallone that launched at the 2021 Tobacco Plus Expo. It uses an Ecuadorian Sumatra wrapper with Connecticut Broadleaf in the filler and comes in one size.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/stallone-the-pony/399807/",
+   "https://stallonecigars.com/the-pony/",
+   "https://cigar-coop.com/2021/04/cigar-news-stallone-cigars-announces-the-pony.html"
+  ],
+  "notes": "halfwheel and Cigar Coop list the size as 4 x 58; the maker's spec graphic reads 4.5 x 50. The maker calls it medium, but halfwheel's review found it medium-full to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "The Clydesdale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan-grown Connecticut Broadleaf seed",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo (shaggy foot)",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "earth",
+   "sugar cane",
+   "black pepper",
+   "oak"
+  ],
+  "about": "A big 6 1/2 x 60 Nicaraguan puro from Stallone with a Broadleaf-seed wrapper grown in Nicaragua. The unfinished shaggy foot is a nod to the feathered feet of a Clydesdale horse.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://stallonecigars.com/the-clydesdale/",
+   "https://www.cigaraficionado.com/article/stallone-cigars-releases-clydesdale-limited-edition-for-november",
+   "https://cigar-coop.com/2021/11/cigar-news-stallone-cigars-releases-stallone-clydesdale.html"
+  ],
+  "notes": "Released as a limited edition in November 2021. Cigar Aficionado reported 1,000 boxes of 20 with more possible later, while Cigar Coop cited 2,000 boxes. The maker's site still lists it alongside its regular lines.",
+  "verified": true,
+  "verifyNotes": "Box count corrected: Cigar Aficionado's own article says 1,000 boxes of 20, not the 2,000 Cigar Coop attributed to it. Swapped the PCA 2022 source for the Cigar Aficionado article."
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Mustang",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (Oscuro on the Rothschild, Natural on the Short Toro)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua, Brazil",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Las Villas Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Short Toro",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nutmeg",
+   "brown sugar",
+   "cinnamon",
+   "cream",
+   "baking spices",
+   "cocoa"
+  ],
+  "about": "Stallone's value-priced line, introduced at the 2023 PCA show and sold in bundles of 25. Each of the two sizes gets its own shade of Ecuadorian Sumatra wrapper over a double binder and Nicaraguan filler.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-stallone-cigars/424196/",
+   "https://halfwheel.com/stallone-mustang-to-debut-at-pca-2023/423688/",
+   "https://stallonecigars.com/mustang-2/"
+  ],
+  "notes": "The two sizes use different wrappers: the Rothschild has the darker Oscuro leaf, which the blender says adds cocoa and light pepper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Stallone Cigar Company",
+  "line": "Nino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano-Sumatra hybrid",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Nicaragua (Ometepe, Estelí, Condega)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Grande",
+    "length": 6.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A 2022 limited edition named after the first horse Tony Barrios knew, which belonged to his grandfather. The filler tobaccos were aged in barrels that once held Flor de Caña rum.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2022-stallone-cigars/410096/",
+   "https://halfwheel.com/stallone-cigars-to-release-nino-at-pca-2022/410057/",
+   "https://cigar-coop.com/2022/07/cigar-news-stallone-cigars-to-showcase-nino-at-2022-pca-trade-show.html"
+  ],
+  "notes": "Limited to 250 boxes of 20 (5,000 cigars). The wrapper is a habano-Sumatra hybrid seed developed by Tony Barrios. No strength, country or factory was published for this release; Stallone's other cigars are made at Las Villas Cigars in Nicaragua.",
+  "verified": false,
+  "verifyNotes": "Set country and factory to null: none of the halfwheel or Cigar Coop pages on Nino say where it is made, and the maker's site has no Nino page. Wrapper, binder, filler, size and production confirmed on halfwheel. Strength is not published."
+ },
+ {
+  "brand": "Patoro",
+  "line": "Gran Añejo Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 6.75,
+    "ring": 40
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.5,
+    "ring": 53
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Juancito",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "roasted nuts",
+   "chocolate",
+   "spice"
+  ],
+  "about": "The original Patoro line, launched in 2001 by the Swiss company and made at De Los Reyes in the Dominican Republic. It uses aged Dominican binder and filler under an Ecuadorian Connecticut-seed wrapper.",
+  "released": 2001,
+  "production": "regular",
+  "sources": [
+   "https://patoro.com/product/gran-anejo-reserva/",
+   "https://halfwheel.com/patoro-gran-anejo-reserva-juancito/441009/",
+   "https://halfwheel.com/patoro-bringing-gran-anejo-reserva-to-u-s/89544/"
+  ],
+  "notes": "The 2015 U.S. edition was announced with an Ecuadorian habano wrapper and Neptune still lists habano; the maker and recent halfwheel coverage say Ecuadorian Connecticut. The maker rates strength 3 of 5 but elsewhere calls the line mild.",
+  "verified": true,
+  "verifyNotes": "Perfecto size changed from 6.25 x 53 to 6.5 x 53, the size halfwheel listed at its 2017 U.S. debut; the maker lists it in metric as 15.8 cm long and 2.0 cm thick, roughly 6.2 x 50."
+ },
+ {
+  "brand": "Patoro",
+  "line": "Platino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Piloto Cubano, Corojo, San Vicente)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.3,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.92,
+    "ring": 40
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "earth",
+   "leather",
+   "pepper"
+  ],
+  "about": "Patoro's black-banded Dominican puro, first released in 2003 and built mostly on piloto cubano tobacco aged five to eight years. It reached the U.S. in 2018.",
+  "released": 2003,
+  "production": "regular",
+  "sources": [
+   "https://patoro.com/product/patoro-platino/",
+   "https://halfwheel.com/patoro-platino-perfecto/382672/",
+   "https://halfwheel.com/patoro-platino-churchill-coming-stateside/425024/"
+  ],
+  "notes": "The maker rates it 5 of 5 for strength, its strongest line, but halfwheel's review of the Perfecto found it only a little past medium. The 2018 U.S. debut was a small allotment for top accounts.",
+  "verified": true,
+  "verifyNotes": "Removed the maker's promotional wording from about. Specs confirmed on the maker's page and halfwheel."
+ },
+ {
+  "brand": "Patoro",
+  "line": "Serie P",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5.125,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "dark chocolate"
+  ],
+  "about": "The first Patoro line sold in the U.S., arriving in 2014 with a blend adjusted for the American market. The U.S. version wears a Brazilian wrapper over Dominican binder and filler.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/article/cle-to-distribute-patoro-serie-p-usa-edition-17823",
+   "https://www.neptunecigar.com/patoro-cigar",
+   "https://halfwheel.com/pca-2022-patoro/408868/"
+  ],
+  "notes": "Two versions share this name: the U.S. Serie P has a Brazilian wrapper, while the European one on the maker's site has a Cameroon wrapper and is sold in the U.S. as Serie P Cameroon. 2014 is the U.S. launch, and the strength is Neptune's listing.",
+  "verified": true,
+  "verifyNotes": "Size names changed to Corona, Robusto, Toro and Churchill as Cigar Aficionado and Neptune list the U.S. blend; Balthasar, Methusalem and Demie are the names of the Cameroon version. Replaced the maker link, which describes the Cameroon blend, with the Cigar Aficionado launch article."
+ },
+ {
+  "brand": "Patoro",
+  "line": "Serie P Cameroon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Piloto Cubano, Corojo, San Vicente)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Methusalem",
+    "length": 5.125,
+    "ring": 54
+   },
+   {
+    "name": "Balthasar",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "herbs",
+   "spice",
+   "honey",
+   "earth",
+   "wood"
+  ],
+  "about": "The original European version of Patoro's Serie P, with a Cameroon wrapper over Dominican tobaccos aged three to four years. It came to the U.S. in two sizes in 2022 alongside the Brazilian-wrapped American Serie P.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2022-patoro/408868/",
+   "https://patoro.com/product/serie-p/"
+  ],
+  "notes": "In Europe this blend is simply called Serie P; 2022 is its U.S. release. Strength is from the maker's own rating of 2 out of 5, as no retailer rating was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Patoro",
+  "line": "Brasil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Cubra (Cuban-seed hybrid grown in Bahia)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Gordo",
+    "length": 5.5,
+    "ring": 58
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "pepper"
+  ],
+  "about": "A Patoro line named for its Cubra wrapper, a Cuban and Brazilian seed hybrid grown in Bahia, over Dominican binder and filler. It was introduced in Europe in 2014 and came to the U.S. unchanged in 2016.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://patoro.com/product/brasil/",
+   "https://halfwheel.com/patoro-brasil-comes-to-u-s-market/119271/",
+   "https://www.neptunecigar.com/patoro-cigar"
+  ],
+  "notes": "The maker's text calls it medium to strong, but its strength graphic shows 3 of 5 and Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes: removed the Developing Palates reference and the Mata Fina remark, neither of which is on the listed sources."
+ },
+ {
+  "brand": "Patoro",
+  "line": "Terre Blanche",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Cibao Valley)",
+  "filler": "Dominican Republic (Cibao Valley)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 6.75,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "earth",
+   "black pepper"
+  ],
+  "about": "Patoro's 20th anniversary cigar, named for the pale, calcium-rich soil of the Cibao Valley where its binder and filler are grown by Leo Reyes. Those tobaccos are aged four to eight years and finished with an Ecuadorian Connecticut wrapper.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://patoro.com/product/patoro-terre-blanche/",
+   "https://halfwheel.com/patoro-terre-blanche-lancero/414104/",
+   "https://halfwheel.com/pca-2022-patoro/408868/"
+  ],
+  "notes": "The mildest Patoro line. It launched in November 2021 as an exclusive for one Texas shop and went national in July 2022, when the Robusto was added.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Patoro",
+  "line": "Vintage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican, aged 10 years",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.125,
+    "ring": 53
+   },
+   {
+    "name": "Petit Robusto",
+    "length": 4,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "coffee",
+   "roasted nuts"
+  ],
+  "about": "A Dominican puro from Patoro built around a wrapper leaf aged for ten years, using the same filler as the Gran Añejo Reserva. It was sold in Switzerland first and reached the U.S. in 2017.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://patoro.com/product/vintage/",
+   "https://halfwheel.com/ipcpr-2017-patoro/170162/",
+   "https://cigar-coop.com/2017/08/cigar-news-patoro-vintage-robusto-launched-for-u-s-market-at-2017-ipcpr.html"
+  ],
+  "notes": "The maker's text calls it medium strength, though its strength graphic shows 4 of 5. The Perfecto's ring gauge is listed as 48 by halfwheel and about 53 to 54 by the maker and Cigar Coop. The original release year is not published; it reached the U.S. in 2017.",
+  "verified": true,
+  "verifyNotes": "Removed a marketing word from about. Specs confirmed on the maker's page, halfwheel and Cigar Coop."
+ },
+ {
+  "brand": "Patoro",
+  "line": "VA",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Extra Salomones",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "Extra Belicoso",
+    "length": 5.9375,
+    "ring": 55
+   },
+   {
+    "name": "Extra Robusto",
+    "length": 4.92,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate",
+   "honey",
+   "cream",
+   "pepper",
+   "citrus"
+  ],
+  "about": "A Dominican puro from Patoro whose tobaccos are aged nine to twelve years before rolling. VA stands for Very Aged, and the line began with a robusto in Switzerland in 2010.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://patoro.com/product/patoro-va/",
+   "https://halfwheel.com/patoro-va-xo-robusto/392219/",
+   "https://halfwheel.com/patoro-va-xo-extra-belicoso/379450/"
+  ],
+  "notes": "Sold in the U.S. as VA XO and made each year in small amounts. halfwheel and Neptune call it medium in strength while the maker's graphic shows 4 of 5. The Extra Robusto is listed with a 55 or 58 ring depending on the source.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop the unsourced 'top line' claim. Specs confirmed on the maker's page, halfwheel and Neptune."
+ },
+ {
+  "brand": "Patoro",
+  "line": "Cuvée Royale XXV",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Salomon",
+    "length": 6.3,
+    "ring": 53
+   }
+  ],
+  "flavors": [
+   "oak",
+   "coffee",
+   "earth",
+   "leather",
+   "almonds",
+   "honey"
+  ],
+  "about": "Patoro's 25th anniversary cigar from 2026, a Dominican puro of aged tobaccos made in a single salomon shape at De Los Reyes. Patoro's Pablo Richard told halfwheel the blend is close to the VA XO line.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/patoro-cuvee-royale-xxv-celebrates-25th-anniversary/466865/",
+   "https://halfwheel.com/patoro-cuvee-royale-xxv/479712/",
+   "https://halfwheel.com/pca-2026-patoro/466872/"
+  ],
+  "notes": "Limited to 600 boxes of 20 (12,000 cigars), with 300 boxes for the U.S. in June 2026 and 300 for Europe that September. U.S. price was $35 a cigar.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

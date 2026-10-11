@@ -1,0 +1,1209 @@
+[
+ {
+  "brand": "United Cigars",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Broadleaf, Seco, Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Pencil",
+    "length": 6,
+    "ring": 28
+   }
+  ],
+  "flavors": [
+   "cappuccino",
+   "white pepper",
+   "roasted nuts",
+   "hay",
+   "cream"
+  ],
+  "about": "The Connecticut shade version of United Cigars' house line, built on the same Dominican broadleaf blend as the other United cigars. It is made at Tabacalera Magia Cubana in the Dominican Republic and debuted at the 2024 PCA show.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/united-connecticut/",
+   "https://halfwheel.com/united-cigars-debuting-connecticut-line-at-pca-2024/436559/"
+  ],
+  "notes": "Sold as United Connecticut. No clear strength rating: the maker's text calls it a milder smoke, but the meter graphic on its page sits past medium. It launched in three sizes; the 6 x 28 Pencil appears only on the maker's page.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Broadleaf, Seco, Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Pencil",
+    "length": 6,
+    "ring": 28
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "licorice",
+   "cocoa",
+   "olive",
+   "almond",
+   "cedar"
+  ],
+  "about": "The San Andrés maduro version of United Cigars' house line, made at Tabacalera Magia Cubana in the Dominican Republic. The line dates to 2010 and was reblended in 2023 when it changed from box-pressed to round.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/united-maduro/",
+   "https://halfwheel.com/united-cigars-natural-maduro-switching-from-box-pressed-to-round/418949/"
+  ],
+  "notes": "Sold as United Maduro. The maker calls it medium-plus. Its page text mentions Brazilian Mata Fina filler and a Cuban-seed Habano binder, but its own blend table and halfwheel list an all-Dominican binder and filler. Box-pressed until 2023, round since.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Sungrown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Broadleaf, Seco, Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Pencil",
+    "length": 6,
+    "ring": 28
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "dark coffee",
+   "dried figs"
+  ],
+  "about": "The Ecuadorian Habano version of United Cigars' house line, made at Tabacalera Magia Cubana in the Dominican Republic. It took over the spot long held by United Natural in the lineup.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/united-sungrown/",
+   "https://halfwheel.com/united-cigars-natural-maduro-switching-from-box-pressed-to-round/418949/",
+   "https://www.2guyscigars.com/united-cigars"
+  ],
+  "notes": "Sold as United Sungrown, formerly United Natural; guests may know the old name. Launched in 2010 box-pressed and reblended as a round cigar in 2023. The maker's text only says bold; its meter sits a little past medium and Two Guys calls it medium strength.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: United's meter is the same graphic it uses for the milder Connecticut and sits below the one it labels medium to full on United Maduro, and Two Guys calls this blend medium strength. Notes rewritten to say so."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Classic Cameroon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweetness",
+   "wood",
+   "nuts"
+  ],
+  "about": "A value bundle cigar from United Cigars with a Cameroon wrapper over a Dominican binder and filler. It is one of four Classic bundles that share the same blend and differ only in wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/classic-cameroon/",
+   "https://www.2guyscigars.com/classic-cameroon-cigars"
+  ],
+  "notes": "Sold in bundles of 20. Mild to medium on both the maker's meter and Two Guys' meter, though Two Guys' text says medium bodied. The maker does not name the factory or the country.",
+  "verified": true,
+  "verifyNotes": "Notes reworded; no field changes. Country left null because neither United nor Two Guys states where this version is rolled."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Classic Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "wood",
+   "floral"
+  ],
+  "about": "A value bundle cigar from United Cigars with an Ecuadorian Connecticut wrapper over a Dominican binder and filler. The maker describes it as the milder morning cigar of the four Classic bundles, which share one blend and differ only in wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/classic-connecticut/",
+   "https://www.2guyscigars.com/Classic-Connecticut-Cigars/"
+  ],
+  "notes": "Sold in bundles of 20. The maker calls it a milder cigar and its page meter sits between mild and medium. The maker does not name the factory or the country.",
+  "verified": true,
+  "verifyNotes": "About reworded so the mildest claim is attributed to the maker. Country left null because no page states where this version is rolled."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Classic Cuban",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban-seed Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "smoky wood",
+   "cinnamon"
+  ],
+  "about": "A value bundle cigar from United Cigars with a Cuban-seed Habano wrapper grown in Ecuador over a Dominican binder and filler. It is one of four Classic bundles that share the same blend and differ only in wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/classic-cuban/",
+   "https://www.2guyscigars.com/Classic-Cuban-Cigars/"
+  ],
+  "notes": "Contains no Cuban tobacco; the name refers to the Cuban-seed wrapper grown in Ecuador. Sold in bundles of 20. Mild to medium on both the maker's meter and Two Guys' meter; the factory is not named.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences; no field changes. Country confirmed on the Two Guys page, which says it is made in a Dominican facility."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Classic Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "dark chocolate",
+   "espresso",
+   "almond"
+  ],
+  "about": "A value bundle cigar from United Cigars with a Mexican San Andrés maduro wrapper over a Dominican binder and filler. It is one of four Classic bundles that share the same blend and differ only in wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/classic-maduro/",
+   "https://www.2guyscigars.com/Classic-Maduro-Cigars/"
+  ],
+  "notes": "Sold in bundles of 20. The maker's meter shows mild to medium, the same as the other Classic bundles, though its text calls the Maduro more robust and Two Guys' meter shows medium. The maker does not name the factory or the country.",
+  "verified": true,
+  "verifyNotes": "Notes now record that Two Guys rates it medium against the maker's mild to medium. Country left null because no page states where this version is rolled."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Garofalo La Famiglia Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "orange peel",
+   "cedar",
+   "white pepper",
+   "cream",
+   "butter",
+   "baking spices"
+  ],
+  "about": "A Nicaraguan cigar made by Perdomo for United Cigars and named for the Garofalo family, which owns United and Two Guys Smoke Shop. This version wears an Ecuadorian Connecticut wrapper over aged Nicaraguan tobaccos.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/garofalo-la-famiglia-connecticut/",
+   "https://halfwheel.com/united-taps-perdomo-for-new-garofalo-la-famiglia/402994/",
+   "https://www.2guyscigars.com/garofalo-la-famiglia-ct"
+  ],
+  "notes": "United's meter sits a little past medium and Two Guys' meter shows medium, though Two Guys' text calls it mild to medium. halfwheel lists the Torpedo at 6 1/2 x 54, while United and Two Guys list 6 x 54.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild-Medium to Medium: the maker's meter and the Two Guys meter both sit at or above medium, and only one sentence of Two Guys text says mild to medium."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Garofalo La Famiglia Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "marshmallow",
+   "oak",
+   "pepper",
+   "cocoa",
+   "earth"
+  ],
+  "about": "A Nicaraguan puro made by Perdomo for United Cigars and named for the Garofalo family, which owns United and Two Guys Smoke Shop. This version uses a Nicaraguan maduro wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/garofalo-la-famiglia-maduro/",
+   "https://halfwheel.com/united-taps-perdomo-for-new-garofalo-la-famiglia/402994/",
+   "https://www.2guyscigars.com/garofalo-la-famiglia-md"
+  ],
+  "notes": "United's text calls it full-bodied, but the meter on the same page sits between medium and full and Two Guys rates it 5 of 10. halfwheel lists the Torpedo at 6 1/2 x 54, while United and Two Guys list 6 x 54.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full: United's own meter matches the one it labels medium to full elsewhere, and Two Guys rates it 5 of 10. Full was based only on the phrase full-bodied."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Garofalo La Famiglia Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Perdomo S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "black pepper",
+   "wood",
+   "burnt sugar",
+   "earth"
+  ],
+  "about": "A Nicaraguan puro made by Perdomo for United Cigars and named for the Garofalo family, which owns United and Two Guys Smoke Shop. This version uses a Nicaraguan sun grown wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/garofalo-la-famiglia-sun-grown/",
+   "https://halfwheel.com/united-taps-perdomo-for-new-garofalo-la-famiglia/402994/",
+   "https://www.2guyscigars.com/garofalo-la-famiglia-sg"
+  ],
+  "notes": "United calls it medium to full. halfwheel lists the Torpedo at 6 1/2 x 54, while United and Two Guys list 6 x 54.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Gold Star",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic (Ligero, Criollo '98, Corojo '98), USA (Connecticut Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "olive",
+   "tea",
+   "pecan",
+   "earth",
+   "spice"
+  ],
+  "about": "A Dominican-made cigar from United Cigars, rolled by the Ventura family, with an Ecuadorian Habano 2000 wrapper and some Connecticut broadleaf in the filler. It began as a limited edition honoring Navy SEAL families and became a regular line in 2025.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/goldstar/",
+   "https://halfwheel.com/uniteds-gold-star-gets-new-vitolas-goes-regular-production/447677/",
+   "https://halfwheel.com/gold-star-robusto/452596/"
+  ],
+  "notes": "First released in 2024 as a 6 x 54 limited edition; regular production since March 2025. United's meter reads medium to full, but halfwheel's review found the strength a little under medium. United lists the Gordo at 6.5 x 60; halfwheel says 6 x 60.",
+  "verified": true,
+  "verifyNotes": "Replaced the Two Guys source with halfwheel's Gold Star Robusto review, which is the page that actually gives the 2024 first release and the factory move. Notes now record halfwheel's lower strength finding."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Independence",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (HVA)",
+  "filler": "Dominican Republic (Piloto Cubano, Ligero), Nicaragua (Ligero)",
+  "country": "Dominican Republic",
+  "factory": "Arnold André Dominicana",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.875,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "baking spices",
+   "citrus",
+   "floral",
+   "toasted grain",
+   "earth",
+   "pepper"
+  ],
+  "about": "A full-bodied cigar created by United Cigars with Arnold André for the 250th anniversary of the United States, made in the Dominican Republic. It comes in 12-count metal tins that double as an ashtray.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/independence/",
+   "https://halfwheel.com/two-new-independence-cigars-shipping-next-week/478035/",
+   "https://www.2guyscigars.com/independence-cigars"
+  ],
+  "notes": "The blend debuted earlier in 2026 as the limited Independence Firecracker; the Robusto and Toro followed on September 1, 2026 as regular production. United's page still describes the line as a limited celebration.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to what the listed sources state; no field changes."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Abuelo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "Fabrica de Puros Aladino",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nieto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Nieta",
+    "length": 5.25,
+    "ring": 46
+   },
+   {
+    "name": "Padre",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Abuelo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cashew",
+   "cinnamon",
+   "graham cracker",
+   "pecan",
+   "earth",
+   "leather"
+  ],
+  "about": "A Honduran puro made for United Cigars by the Eiroa family at the Aladino factory in Las Lomas, Jamastran, using only tobacco from Julio Eiroa's farm. The name means grandfather and the sizes are named for family members.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/abuelo/",
+   "https://halfwheel.com/united-cigars-adds-abuelo-line/395627/",
+   "https://halfwheel.com/abuelo-nieto/399923/"
+  ],
+  "notes": "United calls it medium to full; halfwheel's review of the Nieto found strength and body both at medium. halfwheel lists the Nieta at 5 1/4 x 44, while United lists a 46 ring.",
+  "verified": true,
+  "verifyNotes": "Notes reworded; no field changes."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "La Mezcla Cubana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "hay",
+   "cashew",
+   "graham cracker",
+   "pepper",
+   "cedar",
+   "cream"
+  ],
+  "about": "A short, value-priced Connecticut shade cigar from United Cigars, made at Tabacalera Magia Cubana in the Dominican Republic and sold in boxes of 50. It was relaunched in 2022 around an aged Ecuadorian Connecticut wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/la-mezcla-cubana/",
+   "https://halfwheel.com/revamped-la-mezcla-cubana-arrives-at-stores/408800/",
+   "https://halfwheel.com/la-mezcla-cubana-rothschild-2/438275/"
+  ],
+  "notes": "The brand dates to 2006 under Victor Vitale; United bought it in 2013 and relaunched it with a new blend in 2022. Strength is read from the meter on United's page; halfwheel found plenty of flavor but very little nicotine.",
+  "verified": true,
+  "verifyNotes": "Removed an unsupported remark that the wrapper age may vary by run; no field changes."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Desperado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut, Habano or Maduro (three versions)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 45
+   }
+  ],
+  "flavors": [],
+  "about": "A budget Dominican cigar from United Cigars, sold 50 to a box in one 6 x 45 size with a choice of Connecticut, Habano or Maduro wrapper. The maker openly pitches it as an inexpensive everyday smoke rather than a first-quality cigar.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/desperado/"
+  ],
+  "notes": "One name covers three wrapper versions, so check which one is in the box. The maker says outright that these are not first quality cigars. Strength is read from the single meter graphic on the maker's page.",
+  "verified": true,
+  "verifyNotes": "No changes. Only the maker's page could be checked; no second source was found for the size or strength."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Montosa Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic (Criollo, Piloto), Indonesia (Java)",
+  "country": "Dominican Republic",
+  "factory": "Arnold André Dominicana",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.875,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.875,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "banana",
+   "orange zest",
+   "nuts",
+   "spice"
+  ],
+  "about": "A Connecticut shade cigar from the German company Arnold André, rolled at its own factory in Santiago, Dominican Republic, and distributed in the U.S. by United Cigars. It is the lighter of the two Montosa blends.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/montosa-natural/",
+   "https://halfwheel.com/united-cigars-to-distribute-arnold-andre-in-u-s/403448/",
+   "https://www.montosa-cigar.com/en/claro/"
+  ],
+  "notes": "An Arnold André brand distributed in the U.S. by United since 2022; sold in Europe as Montosa Claro. Arnold André calls it mild to medium per halfwheel, though United's text says medium bodied. The binder is Mexican San Andrés per halfwheel, Mexican Sumatra per Arnold André.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: United's page lists the binder only as Mexican, and the San Andrés detail comes from halfwheel. Sizes confirmed against Two Guys; United's own page shows different decimals."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Montosa Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Brazil (Bahia Sumatra)",
+  "filler": "Dominican Republic, Brazil, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Arnold André Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.875,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.875,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "macadamia",
+   "chocolate",
+   "cherry",
+   "earth",
+   "pepper",
+   "coffee"
+  ],
+  "about": "The darker, fuller Montosa blend from the German company Arnold André, with a Mexican San Andrés wrapper. It is rolled at Arnold André's factory in Santiago, Dominican Republic, and distributed in the U.S. by United Cigars.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/montosa-maduro/",
+   "https://halfwheel.com/united-cigars-to-distribute-arnold-andre-in-u-s/403448/",
+   "https://www.2guyscigars.com/montosa-maduro-cigars"
+  ],
+  "notes": "An Arnold André brand distributed in the U.S. by United since 2022. United calls it fuller bodied than the Natural and its meter sits a little past medium, while Two Guys rates it 3 of 10. halfwheel also lists dark fired Kentucky in the filler, which United does not.",
+  "verified": false,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: United's meter sits below the one it labels medium to full, fuller bodied is only a comparison with the Natural, and Two Guys rates it lower still. Arnold André's own Maduro page is blocked in this country, so it could not be checked. Marked unverified because no page states the strength in words and the two that rate it disagree."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Terra Nova Araperique",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra seed)",
+  "filler": "Dominican Republic, Peru, Nicaragua, Brazil (Araperique)",
+  "country": "Dominican Republic",
+  "factory": "Arnold André Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.875,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.875,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.2,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cinnamon",
+   "fruit",
+   "wood",
+   "pecan",
+   "spice"
+  ],
+  "about": "A Dominican-made cigar from the German company Arnold André whose filler includes Brazilian Araperique, a tobacco aged under pressure in oak whiskey barrels in the perique style. United Cigars distributes it in the U.S.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.terranova-cigar.com/araperique/",
+   "https://unitedcigargroup.com/terra-nova-araperique/",
+   "https://halfwheel.com/united-cigars-to-distribute-arnold-andre-in-u-s/403448/"
+  ],
+  "notes": "An Arnold André brand; United is the U.S. distributor (since 2022). United's blend table leaves out the Nicaraguan filler that Arnold André lists. The Belicoso is 6.2 x 50 per Arnold André, but United's page lists 6.5 x 60.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed; no field changes."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Terra Nova Dark Fired Kentucky",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Bahia Sumatra",
+  "filler": "Dominican Republic, Brazil, Nicaragua, USA (Dark Fired Kentucky)",
+  "country": "Dominican Republic",
+  "factory": "Arnold André Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.875,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.875,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.2,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "smoke",
+   "earth",
+   "pecan",
+   "oak",
+   "caramel",
+   "sweet spice"
+  ],
+  "about": "A Dominican-made cigar from the German company Arnold André that blends fire-cured Kentucky tobacco, dried over smoldering oak and hickory, into the filler for a smoky note. United Cigars distributes it in the U.S.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.terranova-cigar.com/dark-fired-kentucky/",
+   "https://unitedcigargroup.com/terra-nova-dark-fired-kentucky/",
+   "https://halfwheel.com/united-cigars-to-distribute-arnold-andre-in-u-s/403448/"
+  ],
+  "notes": "An Arnold André brand; United is the U.S. distributor (since 2022). Binder is Bahia Sumatra per Arnold André, but United's page says Bahia Ecuadorian. The Belicoso is 6.2 x 50 per Arnold André, but United's page lists 6.5 x 60.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed; no field changes."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Jose Dominguez Signature Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Fino",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Grande",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordito",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "butter",
+   "cream",
+   "nutmeg",
+   "honey",
+   "leather",
+   "earth"
+  ],
+  "about": "The Connecticut-wrapped blend in the signature line of Dominican cigar maker Jose Dominguez, made at the Magia Cubana factory in Santiago and distributed by United Cigars since 2018. Part of the tobacco is grown by the Dominguez family.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/jose-dominguez-natural/",
+   "https://halfwheel.com/united-cigar-group-distribute-jose-dominguez-signature-series/254169/",
+   "https://www.2guyscigars.com/jose-dominguez-cigars"
+  ],
+  "notes": "Strength is read from the meter graphic on United's page, where it sits at the low end of medium. United lists Nicaraguan filler for this blend; halfwheel and Two Guys list only Dominican and Pennsylvania broadleaf. halfwheel calls the line Signature Series.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength rests only on United's meter graphic; no page gives it in words."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Jose Dominguez Signature Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Fino",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Grande",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gordito",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "coffee",
+   "leather",
+   "barbecue",
+   "cream"
+  ],
+  "about": "The San Andrés maduro blend in the signature line of Dominican cigar maker Jose Dominguez, made at the Magia Cubana factory in Santiago and distributed by United Cigars since 2018. It is the bolder of the two Signature blends.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/jose-dominguez-maduro/",
+   "https://halfwheel.com/united-cigar-group-distribute-jose-dominguez-signature-series/254169/",
+   "https://www.2guyscigars.com/jose-dominguez-cigars"
+  ],
+  "notes": "Strength is read from the meter graphic on United's page. United lists Pennsylvania broadleaf in the filler; halfwheel and Two Guys list only Nicaraguan and Dominican filler for the Maduro. halfwheel calls the line Signature Series.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength rests only on United's meter graphic; no page gives it in words."
+ },
+ {
+  "brand": "United Cigars",
+  "line": "Yaya Bagua Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Ligero, Olor, Seco)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "raisin",
+   "orange zest",
+   "pumpernickel",
+   "sweet spice",
+   "pepper"
+  ],
+  "about": "A Dominican cigar created by Carlos Guillermo and made at the Magia Cubana factory, with an Ecuadorian Habano wrapper over Dominican tobaccos. United Cigars brought it to the U.S. in 2022 and sells it in boxes of 15.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/yaya-bagua-series/",
+   "https://halfwheel.com/yaya-debuting-in-the-u-s-at-pca-2022/409973/",
+   "https://www.2guyscigars.com/yaya-cigars"
+  ],
+  "notes": "Carlos Guillermo's brand, launched in the Dominican Republic in 2019 and distributed in the U.S. by United since 2022. halfwheel and retailers call the line simply Yaya. United calls it medium to full, while Two Guys' meter shows medium.",
+  "verified": true,
+  "verifyNotes": "Notes now record that Two Guys rates it medium; swapped the second halfwheel link for the Two Guys page that shows this. No field changes."
+ }
+]

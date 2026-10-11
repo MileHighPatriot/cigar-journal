@@ -1,0 +1,913 @@
+[
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Ecuador, Peru, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 44
+   },
+   {
+    "name": "Petit Gordo",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut Shade blend in the three core LH lines from Nicholas Syris, rolled in Costa Rica. The names Claro, Colorado and Maduro refer to wrapper shade.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-lh-premium-cigars/128220/",
+   "https://halfwheel.com/lh-cigars-adding-lanceros-to-core-lines/111973/",
+   "https://cigar-coop.com/2018/06/cigar-news-lh-original-black-band-claro-to-return.html"
+  ],
+  "notes": "Two versions exist. The current Claro was reblended to be a milder, traditional Connecticut. The stronger original, with the black and gold band, came back in 2018 in Robusto, Toro and Gordo. No reviewer or maker strength rating was found.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, factory, sizes and 2014 debut confirmed on halfwheel. Strength stays null: no source rates it and the maker site lhcigars.com returned HTTP 500, so I could not confirm what the maker publishes. Swapped one source for the Cigar Coop page that states the black band and reblend details; trimmed notes."
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Colorado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Ecuador, Peru, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 44
+   },
+   {
+    "name": "Petit Gordo",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "earth",
+   "oak",
+   "dark chocolate",
+   "coffee",
+   "black pepper",
+   "licorice"
+  ],
+  "about": "The Ecuadorian Habano blend in the three core LH lines from Nicholas Syris, rolled at Tabacos de Costa Rica. It was the third LH blend to reach the U.S., debuting at the 2015 trade show.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/lh-cigars-colorado-robusto/95511/",
+   "https://halfwheel.com/ipcpr-2016-lh-premium-cigars/128220/",
+   "https://cigar-coop.com/2015/10/cigar-review-lh-colorado-robusto.html"
+  ],
+  "notes": "Strength and body are from Cigar Coop's review; halfwheel found it below medium for most of the smoke. Cigar Coop lists the filler as Brazil, Nicaragua and Peru instead of Ecuador, Peru and Nicaragua.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Removed the Blind Man's Puff filler claim from notes because I could not open a page for it."
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Criollo Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Ecuador, Peru, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 42
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 44
+   },
+   {
+    "name": "Petit Gordo",
+    "length": 4,
+    "ring": 62
+   },
+   {
+    "name": "Grande Gordo",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "black pepper",
+   "cherry",
+   "cream"
+  ],
+  "about": "The maduro blend in the three core LH lines from Nicholas Syris, using an Ecuadorian Criollo maduro wrapper and rolled in Costa Rica. It came to the U.S. with the Claro in 2014.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-lh-premium-cigars/128220/",
+   "https://halfwheel.com/lh-cigars-adding-lanceros-to-core-lines/111973/",
+   "https://cigar-coop.com/2015/01/cigar-review-lavida-habana-lh-maduro.html"
+  ],
+  "notes": "Strength, body and flavors are from Cigar Coop's reviews. Cigar Coop lists the filler as Nicaragua, Peru and Brazil, and in 2019 called the wrapper Ecuadorian Habano Maduro.",
+  "verified": true,
+  "verifyNotes": "No changes. The 7 x 70 Grande Gordo and the Habano Maduro wording are confirmed at https://cigar-coop.com/2019/05/cigar-news-lh-premium-cigars-adds-lh-maduro-grande-gordo.html, which is not in sources to keep the list at three."
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Vuelta Abajo",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "earth",
+   "cedar",
+   "baking spice",
+   "citrus"
+  ],
+  "about": "A 6 x 52 toro from LH Cigars that was first made for private clients outside the U.S. and came to the American market in 2020. It wears the original black and gold LH band.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lh-limited-edition-debuts-in-the-u-s/382990/",
+   "https://cigar-coop.com/2020/12/cigar-review-lavida-habana-le-by-lh-premium-cigars.html",
+   "https://cigar-coop.com/2020/10/cigar-news-lh-releasing-lavida-habana-le.html"
+  ],
+  "notes": "Also called Lavida Habana LE. Binder and filler are undisclosed. 2020 is the U.S. launch; it was sold abroad for years before. Strength and body are from Cigar Coop's review.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Notes trimmed slightly."
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Nick",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Vuelta Abajo",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Brazil (Mata Fina), Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Panzon",
+    "length": 6,
+    "ring": 64
+   },
+   {
+    "name": "Junior",
+    "length": 4.25,
+    "ring": 64
+   },
+   {
+    "name": "Big Nick",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "earth",
+   "citrus",
+   "cedar",
+   "pepper"
+  ],
+  "about": "A line named for LH Cigars founder Nicholas Syris that grew out of the Nick & Jim P.B.E. collaboration. It began as a lonsdale made for 2nd Street Cigars and went national in 2020 with the Panzon figurado.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/lh-cigars-adds-nick-junior/392564/",
+   "https://halfwheel.com/lh-cigars-adds-big-nick/403201/",
+   "https://cigar-coop.com/2021/01/cigar-review-lh-nick-panzon.html"
+  ],
+  "notes": "Strength, body and flavors are from Cigar Coop's Panzon review, which found it building to medium-full in the last third. The Nick Sofos salomon carries the Nick name but is a different blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Nikos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian HVA (Havana Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Brazil, Nicaragua, Dominican Republic (ligero)",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A blend from LH Cigars named with the Greek form of Nick, after founder Nicholas Syris' Greek roots. The company made it as a stronger, bolder option than its other cigars.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/lh-cigars-ships-nikos-toro/415855/",
+   "https://cigar-coop.com/2022/11/cigar-news-lh-premium-cigars-launches-nikos.html"
+  ],
+  "notes": "The maker calls it stronger and fuller bodied than its other blends, but no rating was found. Cigar Coop treats it as part of the Nick line. Launched in one size with more promised.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, factory, size and 2022 launch confirmed on halfwheel and Cigar Coop. Strength stays null: neither site has reviewed it and the maker site lhcigars.com returned HTTP 500, so I could not confirm what the maker publishes. Wrapper spelling matched to Cigar Coop (Havana Vuelta Abajo); notes reworded."
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Nick Sofos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Dominican Republic, Ecuador, Peru, Brazil (ligero)",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Salomon",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "cinnamon",
+   "red pepper",
+   "citrus"
+  ],
+  "about": "A 6 x 58 short salomon from LH Cigars, named with the Greek word for wise as a nod to founder Nicholas Syris' heritage. It is sold under the Nick name but uses its own blend.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/lh-cigars-shipping-nick-sofos-on-march-1/434878/",
+   "https://cigar-coop.com/2024/06/lh-nick-sofos-cigar-review.html"
+  ],
+  "notes": "An extension of the Nick line in one size, with a different blend from the other Nick cigars. Strength, body and flavors are from Cigar Coop's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Nicolás",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Brazil (ligero), Dominican Republic (ligero), Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark chocolate",
+   "fruit",
+   "cedar",
+   "pepper"
+  ],
+  "about": "The first LH Cigars blend with a Mexican San Andres wrapper, released in 2024 as part of the Nick family. It is made at Tabacos de Costa Rica in two sizes.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lh-cigars-ships-nicolas/435774/",
+   "https://cigar-coop.com/2024/05/lh-nicolas-toro-cigar-review.html",
+   "https://cigar-coop.com/2024/03/lh-premium-cigars-releases-nicolas.html"
+  ],
+  "notes": "halfwheel reports 10,000 robustos and 25,000 toros made; Cigar Coop calls it a limited production line. Strength, body and flavors are from Cigar Coop's review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "LH Premium Cigars",
+  "line": "Limited Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.875,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "black pepper",
+   "toast",
+   "cocoa",
+   "coffee"
+  ],
+  "about": "A limited cigar marking ten years of LH Cigars in the U.S. market, made at Tabacos de Costa Rica. Its 5 7/8 x 52 size is a tribute to the Cohiba Siglo VI.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lh-limited-aniversario/448145/",
+   "https://halfwheel.com/lh-cigars-ships-limited-aniversario/445341/",
+   "https://cigar-coop.com/2025/03/lh-limited-aniversario-cigar-review.html"
+  ],
+  "notes": "Binder and filler are undisclosed, and the production number was not released. halfwheel rated strength mild with medium body; Cigar Coop rated both medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "Gran Corona CT Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Box Press",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Perfecto Box Press",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Salomon",
+    "length": 6.5,
+    "ring": 57
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "sweetness"
+  ],
+  "about": "The Connecticut Broadleaf version of R&R's full strength Gran Corona line. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/gran-corona",
+   "https://cigarsbyrr.com/products/gran-corona-robusto-ct-broadleaf",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "Sizes are from the maker's site. halfwheel's launch story lists different dimensions: 5 x 60, 6 1/2 x 54 and 6 x 60.",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli). Wrapper origin USA confirmed by halfwheel. Sizes disagree between maker and halfwheel; kept the maker's."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "Gran Corona Habano Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Chancho",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "black pepper",
+   "earth"
+  ],
+  "about": "The Ecuadorian Habano Oscuro version of R&R's full strength Gran Corona line. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/gran-corona-habano",
+   "https://cigarsbyrr.com/products/gran-corona-gordo-habana-claro",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "The maker's product titles spell it Habana Oscuro. halfwheel lists the perfecto as 6 1/2 x 54; the maker says 6 1/2 x 52.",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli). Perfecto ring gauge disagrees between maker and halfwheel; kept the maker's."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "Gran Corona Mexico San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Chancho Box Press",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "black pepper",
+   "earth",
+   "leather"
+  ],
+  "about": "The Mexican San Andres version of R&R's full strength Gran Corona line. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/gran-corona-mexico-san-andres",
+   "https://cigarsbyrr.com/products/gran-corona-gordo-mexico-san-andres",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli)."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "Pax Romana Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "almond",
+   "caramel",
+   "wood",
+   "vanilla",
+   "cream"
+  ],
+  "about": "The mild Connecticut shade version of R&R's Pax Romana line, with a San Andres binder over Nicaraguan filler. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/pax-romana-connecticut",
+   "https://cigarsbyrr.com/products/pax-romana-robusto-connecticut",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "Neither the maker nor halfwheel says where the Connecticut seed wrapper is grown. The maker rates it mild; halfwheel reports the Pax Romana line as mild-medium and lists Dominican and Nicaraguan filler.",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli). Wrapper origin left null: confirmed neither the maker nor halfwheel states it. Strength Mild is the maker's word. Filler disagreement added to notes."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "Pax Romana Habano Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chancho Box Press",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Salomon",
+    "length": 6.5,
+    "ring": 57
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "nuts",
+   "caramel",
+   "earth",
+   "citrus",
+   "cream"
+  ],
+  "about": "The Habano Claro version of R&R's Pax Romana line, the milder end of the range. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/pax-romana-habano-claro",
+   "https://cigarsbyrr.com/products/pax-romana-salomon-habano-claro",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "The Ecuador wrapper origin is from halfwheel, which also lists Dominican and Nicaraguan filler and a 6 1/2 x 54 perfecto and 6 x 57 salomon. The maker lists only Nicaraguan filler.",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli). Filled wrapper origin Ecuador from halfwheel. Filler and two sizes disagree between maker and halfwheel; kept the maker's."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "Pax Romana Mexico San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "nuts",
+   "caramel",
+   "earth"
+  ],
+  "about": "The Mexican San Andres version of R&R's Pax Romana line, blended to stay on the mild side. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/pax-romana-mexico-san-andres",
+   "https://cigarsbyrr.com/products/pax-romana-toro-mexico-san-andres",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "halfwheel lists Dominican and Nicaraguan filler; the maker lists only Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli). Filler disagreement added to notes."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "The Soldier King Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "leather",
+   "sweetness"
+  ],
+  "about": "The Connecticut Broadleaf version of R&R's medium strength Soldier King line. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/the-soldier-king",
+   "https://cigarsbyrr.com/products/the-soldier-king-toro-broadleaf",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli). Wrapper origin USA confirmed by halfwheel."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "The Soldier King Habano Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Box Press",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Box Press",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Gordo Box Press",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "nuts",
+   "caramel",
+   "earth",
+   "citrus"
+  ],
+  "about": "The box pressed Habano Claro version of R&R's medium strength Soldier King line. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/the-soldier-king-habano-claro",
+   "https://cigarsbyrr.com/products/the-soldier-king-toro-box-press-habano-claro",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "The Ecuador wrapper origin is from halfwheel; the maker's site does not state it.",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli). Filled wrapper origin Ecuador from halfwheel."
+ },
+ {
+  "brand": "R&R Cigars",
+  "line": "The Soldier King Mexico San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Condega)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Mi Havana Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chancho Box Press",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Gordo Box Press",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo Box Press",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "leather",
+   "spice"
+  ],
+  "about": "The box pressed Mexican San Andres version of R&R's medium strength Soldier King line. Made by Raul Reyner at Mi Havana Cigars in Esteli, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://cigarsbyrr.com/collections/the-soldier-king-mexico-san-andres",
+   "https://cigarsbyrr.com/products/the-soldier-king-torpedo-box-press-mexico-san-andres",
+   "https://halfwheel.com/mi-havana-launching-cigars-by-rr/447511/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Cross-checked the maker's product pages against halfwheel's 2025 launch story. Set released to 2025, added the binder region and replaced the about-us link with the halfwheel article (which also names the Mi Havana factory in Esteli)."
+ }
+]

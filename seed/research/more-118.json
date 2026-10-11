@@ -1,0 +1,550 @@
+[
+ {
+  "brand": "Lure",
+  "line": "Corojo Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo Oscuro",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Ometepe, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Lil' Tony (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "The Fat Tony (Robusto Grande)",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "The Big Lou (Toro)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "The Lunker (Gordo)",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "baking spices",
+   "dried fruit",
+   "earth",
+   "citrus peel"
+  ],
+  "about": "Lure's first line, a Nicaraguan puro with a dark corojo oscuro wrapper that soft launched in September 2023. The sizes are named for family and friends and sold in paper-wrapped bundles of 10.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://lurecigars.com/our-cigars/",
+   "https://lurecigars.com/wp-content/uploads/2025/07/PRESS-RELEASE-Lure-Cigars-Co-Corojo-2024-01-22.pdf",
+   "https://halfwheel.com/lure-cigars-adds-two-new-sizes/433968/"
+  ],
+  "notes": "Maker rates it medium-plus. Two launch sizes, The BLT (6 x 54 torpedo) and The Sir Gar (7 x 48 churchill), are no longer on the maker's list. Halfwheel named Tabacalera Pages as the factory in 2024; the maker now says its cigars are made at La Tabacaria in Estelí.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and medium-plus rating confirmed on the maker's page and launch release. Replaced the Wahoo news link, which does not name this line, with Halfwheel's January 2024 article on it. Factory rests on the maker's portfolio-wide statement in its 2025 and 2026 releases, not a page specific to this line; Halfwheel's 2024 article says Tabacalera Pages."
+ },
+ {
+  "brand": "Lure",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Jalapa, plus Ometepe in the robusto and Condega in the toro)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Holy Colie (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "The Tally Allie (Toro)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "The Mean Jean (Box-Press Toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "coffee",
+   "baking spices",
+   "cedar",
+   "cinnamon"
+  ],
+  "about": "Lure's second core line, a Nicaraguan puro with a habano wrapper introduced in early 2024. Each size uses a slightly different filler recipe.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://lurecigars.com/our-cigars/",
+   "https://lurecigars.com/wp-content/uploads/2025/07/PRESS-RELEASE-Lure-Cigars-Co-Habano-2024-02-09.pdf",
+   "https://lurecigars.com/wp-content/uploads/2025/07/Lure-Cigars-Co-The-Mean-Jean-2024-07-24.pdf"
+  ],
+  "notes": "The Mean Jean, added in July 2024, is a stronger blend rated full, with a Habano 2000 wrapper, Ometepe binder and Ometepe ligero. Halfwheel named Tabacalera Pages as Lure's factory in 2024; the maker now says its cigars are made at La Tabacaria in Estelí.",
+  "verified": true,
+  "verifyNotes": "All blend, size and strength fields confirmed on the maker's page and both releases. Reworded the factory note. Factory rests on the maker's portfolio-wide statement, not a page specific to this line."
+ },
+ {
+  "brand": "Lure",
+  "line": "Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Oscuro (double maduro)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Ometepe ligero)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Lil' Joe (Robusto)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "The Big Joe (Toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark roast coffee",
+   "leather",
+   "cocoa",
+   "black pepper",
+   "spice"
+  ],
+  "about": "Lure's third core line, a Nicaraguan puro with a dark double maduro wrapper released in February 2025. The maker rates it full strength, and the Joe names nod to a cup of coffee.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://lurecigars.com/our-cigars/",
+   "https://lurecigars.com/wp-content/uploads/2025/07/Lure-Cigars-Co-Oscuro-The-Big-Joe-The-Little-Joe-2025-02-14.pdf",
+   "https://halfwheel.com/lure-oscuro-the-big-joe/451915/"
+  ],
+  "notes": "Maker rates it full; Halfwheel's review of The Big Joe found it topped out at medium-full. Halfwheel listed Tabacalera Pages as the factory in 2025; the maker now says its cigars are made at La Tabacaria in Estelí.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker's page, the launch release and Halfwheel's review. Removed the claim that it is the brand's strongest regular blend, since the maker also rates The Mean Jean full. Corrected the note on Halfwheel's strength finding. Factory rests on the maker's portfolio-wide statement; Halfwheel's May 2025 review lists Tabacalera Pages."
+ },
+ {
+  "brand": "Lure",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Lil' Trout (Box-Press Robusto)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "The Brown-E-Trout (Box-Press Toro)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cocoa",
+   "baking spices",
+   "earth",
+   "espresso",
+   "cinnamon"
+  ],
+  "about": "Lure's fourth core line, a pair of box-pressed Nicaraguan puros with a maduro wrapper launched in October 2025. It brought back The Brown-E-Trout as a regular cigar and added the slightly bolder Lil' Trout.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://lurecigars.com/our-cigars/",
+   "https://lurecigars.com/wp-content/uploads/2025/10/Lure-Cigars-Co-Maduro-Core-Line-Launch-2025-10-01.pdf",
+   "https://halfwheel.com/lure-announces-new-maduro-series/454954/"
+  ],
+  "notes": "The launch release rates The Brown-E-Trout medium and The Lil' Trout medium-plus; the maker's site lists each a step higher. The Brown-E-Trout first appeared in 2024 as a limited Catch & Release cigar with a Mexican San Andrés wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lure",
+  "line": "Fish Stix",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí ligero)",
+  "filler": "Nicaragua (Ometepe ligero, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Press Rothschild",
+    "length": 4.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "dark roast coffee",
+   "leather",
+   "baking spices",
+   "black pepper"
+  ],
+  "about": "A small box-pressed rothschild from Lure, sold in resealable 5-packs that look like a bag of frozen fish sticks. It grew out of blend testing for the Habano line.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://lurecigars.com/our-cigars/",
+   "https://lurecigars.com/wp-content/uploads/2025/07/Lure-Cigars-FISH-STIX-2025-05-16.pdf",
+   "https://halfwheel.com/lure-fish-stix-shipping-next-week/451742/"
+  ],
+  "notes": "Annual limited release: a round version came out in small numbers in 2024 and the box-pressed one followed in May 2025. Luxury Cigar Club lists an Ecuadorian Habano 2000 wrapper and medium strength. Halfwheel named Tabacalera Pages as the factory in 2025; the maker now says its cigars are made at La Tabacaria.",
+  "verified": true,
+  "verifyNotes": "Blend, size and strength confirmed on the maker's page and release. Added that Halfwheel named Tabacalera Pages as the factory for the May 2025 release, which the researcher left out, and swapped the Cigar Dojo link for that Halfwheel article. Factory rests on the maker's later portfolio-wide statement."
+ },
+ {
+  "brand": "Lure",
+  "line": "The Jolly Walleye",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Claro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua (Ometepe, Jalapa, Estelí)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "salted caramel",
+   "cedar",
+   "graham cracker",
+   "baking spices",
+   "espresso",
+   "chili pepper"
+  ],
+  "about": "Lure's limited holiday blend, first released in November 2024 and brought back in March 2026 in one robusto extra size. Each run has been 3,000 cigars.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://lurecigars.com/wp-content/uploads/2026/03/Lure-Cigars-Co-The-Jolly-Walleye-Returns-2026-03-06.pdf",
+   "https://halfwheel.com/lure-the-jolly-walleye-returns-for-2026/464158/",
+   "https://lurecigars.com/wp-content/uploads/2025/07/PRESS-RELEASE-Lure-Cigars-Co-The-Jolly-Walleye-2024-11-15.pdf"
+  ],
+  "notes": "Specs are for the 2026 release. The 2024 original used a Habano 2000 wrapper, was rated medium-plus and was made at Tabacalera Pages. The maker's site still describes the Habano 2000 version and calls it full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lure",
+  "line": "The Last Cast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "USA Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua (Estelí, Condega, Ometepe)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "leather",
+   "dark fig",
+   "baking spices"
+  ],
+  "about": "A limited double-banded broadleaf toro that Lure releases each June in memory of the founder's father, Lou Cross Jr. The second band carries the years 1933 and 2023.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://lurecigars.com/our-cigars/",
+   "https://lurecigars.com/wp-content/uploads/2025/07/PRESS-RELEASE-Lure-Cigars-Co-The-Last-Cast-2024-05-29.pdf",
+   "https://lurecigars.com/wp-content/uploads/2025/07/Lure-Cigars-Co-The-Last-Cast-2025-Release-2025-06-15.pdf"
+  ],
+  "notes": "The 2024 debut was a 6 x 52 toro rolled at Tabacalera Pages, limited to 1,200 cigars. The 2025 edition grew to 6 x 54 and 4,500 cigars, and the maker did not disclose that year's factory.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lure",
+  "line": "The Wahoo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Ono (Box-Pressed Torpedo)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "The Kingfish (Torpedo)",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "leather",
+   "baking spices",
+   "pepper"
+  ],
+  "about": "A limited San Andrés-wrapped blend in two torpedo sizes that Lure sold only to retailers who ordered at the 2026 PCA trade show. It reached shelves in June 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lure-the-wahoo-showing-up-at-retailers/473149/",
+   "https://halfwheel.com/lure-the-wahoo-the-kingfish/476173/",
+   "https://cigardojo.com/2026/04/lure-cigars-introduces-the-wahoo-as-pca-2026-exclusive/"
+  ],
+  "notes": "Limited to 1,700 of The Ono and 2,500 of The Kingfish. Halfwheel's trade show post listed an Ecuadorian Connecticut-seed wrapper, but its news stories, its review and the founder's own quote all say Mexican San Andrés. Halfwheel's review found the strength medium to medium-plus.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against Halfwheel and Cigar Dojo. Tightened the note on Halfwheel's strength finding. Cigar Coop lists The Kingfish as 6 1/2 x 54; Halfwheel, Cigar Dojo and a retailer all say 52, so 52 is kept."
+ },
+ {
+  "brand": "Lure",
+  "line": "The Fat Matt",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun-Grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí ligero)",
+  "filler": "Honduras (Jamastrán, Talanga), Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "leather",
+   "spice"
+  ],
+  "about": "A limited robusto grande from Lure that shipped in August 2026, named for the future father-in-law of the founder's son and banded with a peacock bass. It uses Honduran as well as Nicaraguan filler.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lures-the-fat-matt-shipping-tomorrow/476701/",
+   "https://cigar-coop.com/2026/08/lure-cigars-releasing-the-fat-matt-cigar-news.html",
+   "https://luxurycigarclub.com/products/lure-the-fat-matt"
+  ],
+  "notes": "About 4,000 cigars, sold at roughly 20 retailers. Strength and flavor notes come from a single retailer listing, which calls it medium-plus; no maker rating was found.",
+  "verified": true,
+  "verifyNotes": "Blend, size and factory confirmed on Halfwheel. Strength confirmed only on the Luxury Cigar Club listing (Profile: Medium +, medium full in body); the maker has no page or release for this cigar."
+ },
+ {
+  "brand": "Lure",
+  "line": "Nereus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Estelí Sun-Grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Condega, Estelí)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Gordito",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "black pepper",
+   "wood"
+  ],
+  "about": "A limited Year of the Horse cigar made jointly by Lure and its distributor Valacari, named for a mythical seahorse. It is a box-pressed Nicaraguan puro with five-year-old filler, released in February 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/valacari-lure-team-up-for-nereus/462224/",
+   "https://halfwheel.com/nereus/465433/",
+   "https://luxurycigarclub.com/products/valacari-lure-nereus"
+  ],
+  "notes": "A Lure and Valacari collaboration limited to 2,500 cigars at 18 retailers. Strength is from one retailer listing; Halfwheel's review found it medium-plus in body with little nicotine strength. Flavor notes are from that review.",
+  "verified": true,
+  "verifyNotes": "Blend, size and factory confirmed on Halfwheel. Strength confirmed only on the Luxury Cigar Club listing (Profile: Medium). Removed bread from the flavors: the review mentions it only on the cold draw."
+ },
+ {
+  "brand": "Lure",
+  "line": "The Redfish",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo Oscuro",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua (Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Press Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "espresso",
+   "leather",
+   "baking spices",
+   "white pepper"
+  ],
+  "about": "A limited box-pressed toro from September 2025 made jointly by Lure and its distributor Valacari. It pairs the wrapper from Lure's Corojo Oscuro line with the binder and filler of Valacari's Lumineer.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://lurecigars.com/wp-content/uploads/2025/09/Lure-Cigars-The-Redfish-2025-09-02.pdf",
+   "https://halfwheel.com/lure-releases-the-redfish/454271/"
+  ],
+  "notes": "A Lure and Valacari collaboration limited to 2,500 cigars at ten retailers. Maker describes the strength as medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lure",
+  "line": "The Slim Jim",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Ometepe ligero, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Tabacaria Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "dark roast coffee",
+   "leather",
+   "baking spices",
+   "black pepper"
+  ],
+  "about": "A slim broadleaf lonsdale released in January 2026 as part of Lure's limited Catch & Release series. It was made as a thinner companion to The Last Cast.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://lurecigars.com/wp-content/uploads/2026/01/Lure-Cigars-SLIM-JIM-2026-01-04.pdf",
+   "https://halfwheel.com/lure-cigars-releases-the-slim-jim/459876/"
+  ],
+  "notes": "Part of the Catch & Release series: 1,800 cigars, sold in 5-packs.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on the maker's release and Halfwheel. Wrapper origin USA is taken from the leaf name; the sources say only Connecticut Broadleaf."
+ },
+ {
+  "brand": "Lure",
+  "line": "The Speckle'd Perch",
+  "found": true,
+  "officialName": "The Speckl'd Perch",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The first cigar in Lure's limited Catch & Release series, a box-pressed toro released in early 2024.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lure-cigars-releases-the-slim-jim/459876/",
+   "https://lurecigars.com/wp-content/uploads/2025/07/Lure-Cigars-Co-The-Brown-E-Trout-2024-10-19.pdf"
+  ],
+  "notes": "The maker spells it The Speckl'd Perch. It was a one-time Catch & Release drop from early 2024, and no published blend, factory or strength was found.",
+  "verified": true,
+  "verifyNotes": "Confirmed the maker's cigar page and press page publish no blend, factory or strength for this cigar. Its only mentions are a line in the Brown-E-Trout release and Halfwheel's Slim Jim article, which gives the size. No retailer listing found."
+ }
+]

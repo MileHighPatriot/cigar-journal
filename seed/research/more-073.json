@@ -1,0 +1,602 @@
+[
+ {
+  "brand": "Southern Draw",
+  "line": "300 Hands Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade (USA)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Peru",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Edmundo",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Coloniales",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Piramides",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar"
+  ],
+  "about": "The Connecticut-wrapped third blend in Southern Draw's value-priced 300 Hands project, made by AJ Fernandez and sold in bundles. A quarter of the profits goes to charitable causes in Nicaragua.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/300-hands",
+   "https://halfwheel.com/southern-draw-300-hands-connecticut-debuting-at-ipcpr-2019/360476/",
+   "https://www.famous-smoke.com/brand-300-hands-connecticut-by-southern-draw"
+  ],
+  "notes": "The maker gives no strength rating; Famous Smoke lists it as medium. The name refers to the roughly 300 hands said to touch a cigar as it is made.",
+  "verified": true,
+  "verifyNotes": "Strength was null with a note that no retailer rating exists; Famous Smoke's spec lists Medium, so set strength to Medium and reworded the note. Swapped the Neptune source (no spec table, no products) for the Famous page and trimmed flavors to the two Famous states. Wrapper, binder, filler, factory, sizes and 2019 launch confirmed on the maker page and halfwheel."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Rose of Sharon Desert Rose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cloud Grown Claro",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano, Condega)",
+  "filler": "Dominican Republic (Piloto Cubano), Honduras (Corojo 99)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Belicoso Fino",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.5,
+    "ring": 58
+   },
+   {
+    "name": "Gran Corona (The Boss Lady)",
+    "length": 9,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "cream"
+  ],
+  "about": "A fuller variation on the Rose of Sharon blend, made by AJ Fernandez and introduced at the 2019 trade show in Las Vegas. It uses an Ecuadorian claro wrapper and a different filler blend from the original.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/desert-rose",
+   "https://halfwheel.com/southern-draw-rose-of-sharon-desert-rose-lonsdale-2/414444/",
+   "https://halfwheel.com/southern-draw-adds-vitolas-to-three-lines/414195/"
+  ],
+  "notes": "Maker calls it medium body and medium flavor; Neptune lists it as mild. The maker's spec line says the Corojo 99 filler is Nicaraguan, while halfwheel and Neptune say Honduran. The Perfecto is 5.5 x 58 per the maker and 5 x 58 per halfwheel.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes, 2019 launch and regular production confirmed on the maker page and halfwheel. Reworded about to drop 'heartier' and an ambiguous wrapper phrase. Note said the launch release gives Honduran filler, which I could not open; changed to Neptune, which I did confirm."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Jacobs Ladder Brimstone",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Broadleaf)",
+  "filler": "Nicaragua, Dominican Republic (triple ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Un Presidente",
+    "length": 9,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "nuts",
+   "coffee",
+   "molasses",
+   "black pepper"
+  ],
+  "about": "A stronger offshoot of Jacobs Ladder made by AJ Fernandez, with broadleaf wrapper and binder and three ligeros in the filler where the original uses two.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/jacobs-ladder-brimstone",
+   "https://halfwheel.com/southern-draw-jacobs-ladder-brimstone-lonsdale/418660/",
+   "https://halfwheel.com/southern-draw-jacobs-ladder-brimstone/367235/"
+  ],
+  "notes": "Maker rates it Full Body+ and Full Flavor+. halfwheel also reports a 5 x 58 Perfecto that began as a Cigar Federation exclusive called Oblivion; the maker's page does not list it.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler, factory, sizes, Full rating, 2019 launch and regular production confirmed on the maker page and both halfwheel reviews; Famous Smoke also lists strength Full."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Jacobs Ladder The Ascension",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Habano 2000)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso Fino (box-pressed)",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Jacobs Ladder release marking the 21st birthday of Ethan Jacob Holt, the line's namesake. It uses an early prototype blend with a San Andrés wrapper, rolled in 2016 and aged before release.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/southern-draw-adding-jacobs-ladder-the-ascension/400830/",
+   "https://www.cigaraficionado.com/article/southern-draw-releasing-jacob-s-ladder-the-ascension"
+  ],
+  "notes": "Not the regular Jacobs Ladder blend: San Andrés wrapper here versus Pennsylvania broadleaf, and an open foot. Debuted at Famous Smoke Shop in September 2021 with a wider release planned for January 2022. Billed as full bodied; no tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, size, 2021 release and limited status confirmed on halfwheel and Cigar Aficionado. The only rating published is Cigar Aficionado's 'billed as being full bodied', so kept strength Full and set body to null because no source rates body separately."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Manzanita",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Hybrid (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Habano (origin undisclosed)",
+  "filler": "Pelo de Oro, Corojo 99, Ligero (origins undisclosed)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "red pepper",
+   "cream",
+   "earth",
+   "leather"
+  ],
+  "about": "A Southern Draw line made by AJ Fernandez with a reddish habano hybrid wrapper, named for the manzanita tree. Part of the proceeds goes to the First Nations Development Institute.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/manzanita",
+   "https://halfwheel.com/southern-drawn-manzanita-robusto/399481/",
+   "https://www.famous-smoke.com/brand-southern-draw-manzanita"
+  ],
+  "notes": "The maker names the leaf varieties but not where they are grown; a 2022 halfwheel news story called it a Nicaraguan puro. Strength varies by source: Famous and halfwheel's review put it at full, Neptune lists medium.",
+  "verified": true,
+  "verifyNotes": "Varietals, undisclosed origins, factory, four sizes and December 2020 launch confirmed on the maker page and halfwheel. Strength confirmed as Full at Famous and in halfwheel's review, Medium at Neptune. Swapped the Neptune source for the Famous page, which is where the Full rating and four of the flavors come from. Added to notes that halfwheel later called it a Nicaraguan puro; wrapperOrigin left null because the maker says undisclosed."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Morning Glory",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade Claro (USA)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Habano Hybrid)",
+  "filler": "Nicaragua (Corojo 99, Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "toast",
+   "baking spices",
+   "cocoa",
+   "cedar"
+  ],
+  "about": "Southern Draw's gentlest core blend, made by AJ Fernandez with a U.S.-grown Connecticut wrapper over Nicaraguan tobaccos. It is the lighter partner to Evening Primrose.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/morningglory",
+   "https://halfwheel.com/southern-draw-morning-glory-robusto/451409/",
+   "https://halfwheel.com/southern-draw-begins-shipping-morning-glory-and-evening-primroses-updated-packaging-and-sizes/445181/"
+  ],
+  "notes": "Maker calls it mellow to medium bodied; Neptune lists it as medium. Announced in 2022 in different sizes, then relaunched in late 2024 in these three sizes and 20-count boxes.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler, factory, three current sizes and the maker's mellow to medium wording confirmed on the maker page and halfwheel; Neptune lists Medium. 2022 debut and late 2024 relaunch confirmed on halfwheel."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Evening Primrose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra, 7th priming)",
+  "filler": "Honduras, Nicaragua, USA (ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "coffee",
+   "cocoa",
+   "black pepper"
+  ],
+  "about": "A San Andrés maduro core line from Southern Draw, made by AJ Fernandez as the darker partner to Morning Glory. The filler is half Honduran, with Nicaraguan leaf and U.S. ligero making up the rest.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/evening-primrose",
+   "https://halfwheel.com/southern-draw-evening-primrose-slated-for-early-2023-debuting-at-cigars-international/414712/",
+   "https://www.neptunecigar.com/cigar/southern-draw-evening-primrose"
+  ],
+  "notes": "The maker gives no strength rating but said at launch it would likely be seen as more robust than Jacobs Ladder; Neptune lists medium strength and medium to full body. Debuted in 2022 in other sizes and relaunched in late 2024 in these three.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler, factory and sizes confirmed on the maker page and halfwheel. The maker gives no rating; strength Medium and medium to full body come from Neptune only."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Decennium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "earth",
+   "cream",
+   "nuts"
+  ],
+  "about": "Southern Draw's 10th anniversary cigar, rolled at El Titan de Bronze in Miami's Little Havana instead of at AJ Fernandez. It comes in one size and is sold in three-packs.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.southerndrawcigars.com/decennium",
+   "https://halfwheel.com/southern-draw-decennium/445133/",
+   "https://www.neptunecigar.com/cigar/southern-draw-decennium"
+  ],
+  "notes": "Made in Miami, unlike nearly everything else from the brand. The first run was 5,000 three-packs and the maker has left the door open to more. halfwheel calls the 6 x 46 size a corona extra; the maker calls it a lonsdale.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, 6 x 46 size, El Titan de Bronze in Miami, 2024 release and the 5,000 three-pack run confirmed on the maker page and halfwheel. Strength Medium confirmed at Neptune; halfwheel's review ranged from medium-minus to medium-full."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Ignite Hyacinth",
+  "found": true,
+  "officialName": "IGNITE 2022 Hyacinth",
+  "wrapperLeaf": "Connecticut (USA)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "One of three cigars in Southern Draw's 2022 IGNITE charity series, made by AJ Fernandez. It is a variation on the Hyacinth blend from the company's Peccadilloes test project.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.southerndrawcigars.com/ignite-2022",
+   "https://halfwheel.com/southern-draw-announces-hyacinth-pennyroyal-and-crocus-as-ignite-2022-releases/414406/"
+  ],
+  "notes": "Sold only in a five-pack with the Pennyroyal (three Hyacinth, two Pennyroyal), 10,000 packs, benefiting Warriors on the Fly. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler, size, factory and October 2022 charity release confirmed on the maker page and halfwheel. The maker's page gives no strength or tasting notes, so strength stays null. The maker says only 'Connecticut USA' for the wrapper, without saying shade or broadleaf; category Connecticut is the plain reading."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Ignite Pennyroyal",
+  "found": true,
+  "officialName": "IGNITE 2022 Pennyroyal",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Habano Hybrid)",
+  "filler": "Nicaragua, Honduras, USA (Broadleaf ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Piramides",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "One of three cigars in Southern Draw's 2022 IGNITE charity series, made by AJ Fernandez with a San Andrés maduro wrapper. The filler is half Nicaraguan, a quarter Honduran and a quarter U.S. broadleaf ligero.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.southerndrawcigars.com/ignite-2022",
+   "https://halfwheel.com/southern-draw-announces-hyacinth-pennyroyal-and-crocus-as-ignite-2022-releases/414406/"
+  ],
+  "notes": "Sold only in a five-pack with the Hyacinth (three Hyacinth, two Pennyroyal), 10,000 packs, benefiting Warriors on the Fly. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler, size, factory and October 2022 charity release confirmed on the maker page and halfwheel. The maker's page gives no strength or tasting notes, so strength stays null."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Ignite Crocus",
+  "found": true,
+  "officialName": "IGNITE 2022 Crocus",
+  "wrapperLeaf": "Dark Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo Hybrid)",
+  "filler": "Nicaragua (Criollo 98, ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "One of three cigars in Southern Draw's 2022 IGNITE charity series, a Churchill made by AJ Fernandez with a dark Ecuadorian habano wrapper over Nicaraguan tobaccos.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.southerndrawcigars.com/ignite-2022",
+   "https://halfwheel.com/southern-draw-announces-hyacinth-pennyroyal-and-crocus-as-ignite-2022-releases/414406/"
+  ],
+  "notes": "Sold in five-packs, 10,000 packs, benefiting the U.S. Border Patrol Fallen Officers Scholarship Fund. halfwheel says it is a variation on the 2021 Ladykiller; the maker's page calls it a variation of the Peccadilloes Hyacinth. No strength rating was published.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler, size, factory and October 2022 charity release confirmed on the maker page and halfwheel. The maker's page gives no strength or tasting notes, so strength stays null."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Ladykiller",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo 99 hybrid, Estelí)",
+  "filler": "Nicaragua (Criollo 98 from Estelí, Jalapa and Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A 2021 Southern Draw release made by AJ Fernandez for retail members of the Limited Cigar Association. It is named for a variety of crocus flower and came in a single lonsdale size.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/limited-cigar-association-releasing-southern-draw-lady-killer-on-friday/399515/",
+   "https://halfwheel.com/southern-draw-announces-hyacinth-pennyroyal-and-crocus-as-ignite-2022-releases/414406/"
+  ],
+  "notes": "An exclusive for the Limited Cigar Association and Privada Cigar Club; production numbers were not disclosed. The 2022 IGNITE Crocus is a variation on this blend. No strength rating or tasting notes were published.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, 6.5 x 46 size, factory and August 2021 Limited Cigar Association release confirmed on halfwheel. The maker's site has no page for it and no source opened gives a strength, so strength stays null."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "QuickDraw Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut (USA, per the maker)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "wood",
+   "cream"
+  ],
+  "about": "The Connecticut-wrapped blend in Southern Draw's QuickDraw line of small, quick-smoking cigars, made by AJ Fernandez. It joined the Habano and Pennsylvania Broadleaf versions in 2016.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/quickdraw",
+   "https://halfwheel.com/southern-draw-quickdraw-connecticut-short-panatela/113838/",
+   "https://www.neptunecigar.com/cigar/southern-draw-quickdraw-connecticut"
+  ],
+  "notes": "Wrapper origin disagrees: the maker's site lists Connecticut, USA, while halfwheel, Neptune and Famous all say Ecuadorian Connecticut. The maker's line-wide filler listing is Nicaragua and Honduras. The original Petit Corona and Short Panatela sizes are gone; only the Corona Gorda remains.",
+  "verified": true,
+  "verifyNotes": "No values changed. Confirmed the maker page lists 'Connecticut, USA' while halfwheel, Neptune and Famous all say Ecuadorian Connecticut; the maker's wording is kept per the brief and the conflict is in notes. Strength Medium confirmed at Neptune, current 5 x 46 Corona Gorda on the maker page, 2016 launch on halfwheel."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "QuickDraw Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Dark Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "caramel",
+   "oak",
+   "espresso"
+  ],
+  "about": "The dark habano blend in Southern Draw's QuickDraw line of small, quick-smoking cigars, made by AJ Fernandez. It was one of the line's first two blends, alongside the Pennsylvania Broadleaf.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/quickdraw",
+   "https://www.neptunecigar.com/cigar/southern-draw-quickdraw-habano",
+   "https://www.famous-smoke.com/brands/southern-draw-cigars/southern-draw-quickdraw"
+  ],
+  "notes": "Often sold as QuickDraw Dark Habano. Neptune lists it as medium; Famous describes it as medium to full bodied. It predates the 2016 Connecticut version but no source checked gives the launch year.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and 5 x 46 size confirmed on the maker page; strength Medium at Neptune and medium to full body at Famous. Updated the Famous link to the page's current address. Could not find a page that states the launch year, so released stays null."
+ }
+]

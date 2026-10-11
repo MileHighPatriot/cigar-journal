@@ -1,0 +1,957 @@
+[
+ {
+  "brand": "Gran Habano",
+  "line": "Corojo #7",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo hybrid (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo)",
+  "filler": "Nicaragua (Corojo)",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "honey"
+  ],
+  "about": "An all-Nicaraguan corojo blend from Gran Habano, rolled at the Rico family's factory in Honduras and built to be stronger than the Corojo #5. It launched in 10-count leather travel cases.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/gran-habano-corojo-7/",
+   "https://halfwheel.com/gran-habano-expanding-corojo-no-7/447081/",
+   "https://halfwheel.com/gran-habano-corojo-no-7-corona-especial/473270/"
+  ],
+  "notes": "Limited production: Gran Habano's site says 16,000 cigars a year, its 2025 and 2026 catalogs say 60,000. The maker calls it full-bodied, but Neptune lists medium and halfwheel's reviewer found little strength. The 7 x 46 Corona Especial is a limited run of 200 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker page, maker 2026 catalog (Honduras, full-bodied, both sizes) and halfwheel's review spec block. Rewrote notes: added the 16,000 vs 60,000 a year conflict between the maker's site and catalogs and halfwheel's mild strength finding; swapped one halfwheel news link for the halfwheel review that states country and factory."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "George Rico El Enemigo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, Nicaragua, Colombia",
+  "country": "Dominican Republic",
+  "factory": "TabaDom",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Insulto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "El Duelo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "El Triunfo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark chocolate",
+   "spice"
+  ],
+  "about": "George Rico's first blend made outside his own factory, rolled in the Dominican Republic by TabaDom, Davidoff's Dominican operation. It uses Ecuadorian habano wrapper and binder over fillers from three countries.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/el-enemigo",
+   "https://halfwheel.com/george-rico-el-enemigo-soft-launches-at-select-stores/421814/",
+   "https://ghcigars.com/gran-habano-announces-george-rico-el-enemigo/"
+  ],
+  "notes": "Gran Habano names TabaDom but not which of its two factories; halfwheel thinks O.K. Cigars is likely. Limited to about 1,000 boxes per size a year and sold through roughly 200 retailers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "20th Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade grown Corojo (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Colombia, Peru",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Sueño",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "El Desafio",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "El Triunfo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "spice",
+   "coffee",
+   "leather",
+   "cream"
+  ],
+  "about": "Gran Habano's 20th anniversary cigar, made in Danli, Honduras with a four-year-aged Jalapa wrapper and rested two years after rolling.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/gran-habano-20th-aniversario/",
+   "https://halfwheel.com/gran-habano-xx-aniversario-edicion-limitada-el-desafio/422450/",
+   "https://www.neptunecigar.com/cigar/gran-habano-xx-aniversario-edicion-limitada"
+  ],
+  "notes": "Sold by most retailers as XX Aniversario Edicion Limitada. Despite the name it is an ongoing release, offered to about 200 retailers; the first batch was 4,000 boxes per size.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory, strength, sizes and year confirmed against the maker page, halfwheel review and Neptune. Removed the ultra-premium tier sentence from about as marketing language."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "20th Aniversario Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Colombia, Nicaragua, Peru",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A San Andrés maduro follow-up to Gran Habano's 20th anniversary cigar, shown at PCA 2024 in a single 6 x 54 size and sold in 10-count leather travel cases.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/gran-habano-20th-aniversario-maduro-corojo-no-7-previewed-at-pca-2024/437920/"
+  ],
+  "notes": "Previewed at PCA 2024 and slated to ship that May as 500 leather cases of 10. It is not on Gran Habano's site or in its 2025 and 2026 catalogs, and no source gives the strength or where it is rolled.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, size and 500-case run confirmed against halfwheel's PCA 2024 preview, the only source found. The maker publishes nothing on it (not on its site or in its 2025 and 2026 catalogs), so country, factory and strength stay null. 2024 is the announced ship date; I found no page confirming it actually shipped."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "S.T.K. Black Dahlia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade grown Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Cubita, Habano), Colombia, Costa Rica",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee",
+   "spice",
+   "nuts",
+   "wood"
+  ],
+  "about": "A cedar-wrapped George Rico blend in Gran Habano's S.T.K. series, made in Danli, Honduras with a Nicaraguan shade grown corojo wrapper and a dual habano binder.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/s-t-k-black-dahlia-2",
+   "https://halfwheel.com/gran-habano-s-t-k-black-dahlia-robusto/254466/",
+   "https://www.neptunecigar.com/cigar/gran-habano-stk-black-dahlia"
+  ],
+  "notes": "Gran Habano's spec sheet and Neptune say medium, while the launch announcement called it full-bodied. S.T.K. stands for Stay True Kid.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "S.T.K. Zulu Zulu Mas Paz",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (Black) or Nicaraguan Habano (Habano White)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": "G.R. Tabacaleras Co. (Miami)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Rolo",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited S.T.K. release from George Rico with box art by Colombian-American street artist Mas Paz. It comes in two versions over the same Nicaraguan binder and filler, one in Ecuadorian Connecticut and one in Nicaraguan habano.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/s-t-k-zulu-zulu-mas-paz-2/",
+   "https://halfwheel.com/gran-habano-begins-shipping-s-t-k-zulu-zulu-mas-paz-edition/83132/",
+   "https://blindmanspuff.com/cigar-news-gran-habano-announces-the-official-release-of-george-rick-s-t-k-zulu-zulu-mas-paz-edition/"
+  ],
+  "notes": "Two wrappers under one name: Gran Habano lists the Connecticut version (Black) as mild and the Habano version (White) as medium. The 2015 release was rolled in Miami; the maker does not say where it is made now.",
+  "verified": true,
+  "verifyNotes": "Cleared flavors: citrus, cream, cedar, pepper and leather appear in none of the three listed sources. Both wrappers, binder, filler, sizes, Miami factory and 2015 shipping confirmed against the maker page, halfwheel and Blind Man's Puff. Strength left null because the maker gives a different one for each wrapper."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "S.T.K. Opium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano/Corojo hybrid",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Samarang",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Nemesis",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "black pepper"
+  ],
+  "about": "A Nicaraguan puro from George Rico with an oily, reddish habano hybrid wrapper. It began in 2011 as one of the first S.T.K. small batch projects.",
+  "released": 2011,
+  "production": null,
+  "sources": [
+   "https://ghcigars.com/s-t-k-opium/",
+   "https://ghcigars.com/wp-content/uploads/2026/04/Gran-Habano-Digital-Catalog-2026.pdf",
+   "https://halfwheel.com/review-gran-habano-stk-miami-barracuda/26842/"
+  ],
+  "notes": "Gran Habano also files it under G.A.R. and does not say where it is rolled. Its site and 2026 catalog disagree on the Gran Robusto size (6 x 52 or 5 x 52), so that size is left out. S.T.K. is billed as limited release, but Opium is still in the 2026 catalog.",
+  "verified": true,
+  "verifyNotes": "Wrapper and medium strength confirmed against the maker page and 2026 catalog; neither gives a country or factory, so those stay null. Removed the Gran Robusto size (maker site says 6 x 52, maker catalog says 5 x 52). Set production to null: no source calls it regular, and the maker bills S.T.K. as limited release while still cataloging it. Added the catalog as a source."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "S.T.K. American Puro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut)",
+  "filler": "USA (Pennsylvania, Connecticut, Kentucky fire-cured)",
+  "country": "USA",
+  "factory": "G.R. Tabacaleras Co. (Miami)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "4 3/4 x 52",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "5 5/8 x 46",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "5 7/8 x 54",
+    "length": 5.875,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "smoke",
+   "barbecue",
+   "wood",
+   "leather",
+   "pepper"
+  ],
+  "about": "A cigar made entirely of American-grown tobacco, including Kentucky fire-cured leaf, and rolled at George Rico's factory in Miami.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://ghcigars.com/s-t-k-american-puro-2/",
+   "https://halfwheel.com/gran-habano-adding-american-puro/37377/",
+   "https://blindmanspuff.com/blind-cigar-review-george-rico-s-t-k-miami-american-puro/"
+  ],
+  "notes": "The maker lists a Connecticut Broadleaf wrapper; Blind Man's Puff listed Connecticut Habano in 2013. It launched as regular production and is still on Gran Habano's site, but it is missing from the 2025 and 2026 catalogs. No vitola names are given for the three sizes.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, Miami factory, medium strength, sizes and 2013 confirmed against the maker page, halfwheel and Blind Man's Puff. Set production to null: halfwheel called it regular production in 2013, but the maker's 2025 and 2026 catalogs no longer list it. Dropped 'small' from about."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "G.A.R. Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano, Jalapa)",
+  "filler": "Nicaragua (Habano, Corojo)",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Czar",
+    "length": 6,
+    "ring": 66
+   },
+   {
+    "name": "Grandioso",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "black pepper",
+   "earth",
+   "coffee"
+  ],
+  "about": "A value-priced Nicaraguan puro in George Rico's G.A.R. series, rolled in Honduras and sold in large ring gauges from 50-count trays.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://ghcigars.com/g-a-r-red/",
+   "https://halfwheel.com/press-release-gran-habano-announces-release-g-a-r-red/41399/",
+   "https://blindmanspuff.com/blind-cigar-review-g-r-red-6-x-60/"
+  ],
+  "notes": "Gran Habano says medium to full-bodied in its description but Full on the spec sheet; Blind Man's Puff reviewers rated it medium. Still on the maker's site but missing from its 2025 and 2026 catalogs, so it may no longer be made.",
+  "verified": true,
+  "verifyNotes": "Habano wrapper, Jalapa binder and habano and corojo filler confirmed in the 2013 press release on halfwheel; Honduras and factory in Blind Man's Puff; sizes on the maker page. Set production to null because the maker's 2025 and 2026 catalogs omit the line."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "G.A.R. White",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Corojo)",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Rico Grande",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "roasted coffee",
+   "cream"
+  ],
+  "about": "A George Rico blend in the G.A.R. series with Ecuadorian corojo wrapper and binder over Nicaraguan filler, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/g-a-r-white/",
+   "https://ghcigars.com/wp-content/uploads/2026/04/Gran-Habano-Digital-Catalog-2026.pdf"
+  ],
+  "notes": "The maker does not say where it is rolled or when it launched. Its site and 2026 catalog disagree on two sizes, so they are left out: Gran Consul (6 x 60 or 4 3/4 x 60) and Robusto Grande (garbled online, 5 x 52 in the catalog).",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and full strength confirmed against the maker page and the maker's 2026 catalog; neither gives a country, factory or year, and I found no second independent source. Removed Gran Consul 6 x 60 because the catalog lists it as 4 3/4 x 60. Added the catalog as a source."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "G.A.R. American Standard",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Czar",
+    "length": 6,
+    "ring": 66
+   },
+   {
+    "name": "Grandioso",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "black pepper",
+   "cedar",
+   "earth"
+  ],
+  "about": "A budget-minded Nicaraguan puro from Gran Habano, rolled in Honduras and sold in boxes of 50.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/g-a-r-american-standard/",
+   "https://halfwheel.com/gran-habano-ships-g-a-r-american-standard/429153/",
+   "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-g-a-r-american-standard-robusto/"
+  ],
+  "notes": "Gran Habano has not said which Nicaraguan leaf varieties it uses. Its website lists four sizes, but its 2026 catalog and halfwheel also list the 6 x 66 Czar.",
+  "verified": true,
+  "verifyNotes": "Confirmed against the maker page, halfwheel and Developing Palates. Added the 6 x 66 Czar back to sizes: the maker's 2026 catalog still lists it, so the claim that the maker dropped it was wrong. Simplified wrapperLeaf to Nicaraguan."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Persian King",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rajah",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Tiger",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "wood"
+  ],
+  "about": "An unbanded, value-priced Nicaraguan puro from Gran Habano, known for its closed foot wrapped in a lighter leaf. It is sold from boxes of 50.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/persian-king/",
+   "https://www.neptunecigar.com/cigar/gran-habano-persian-king-natural",
+   "https://halfwheel.com/gran-habano-persian-queen-kiana-barber-pole-le/390481/"
+  ],
+  "notes": "Retailers often list it as Persian King Natural. Halfwheel dates the line to around 2010, so the year is approximate.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Persian King Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan sun grown maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rajah",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Tiger",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice"
+  ],
+  "about": "The maduro version of the unbanded Persian King, a Nicaraguan puro with a sun grown wrapper and a lighter leaf covering the foot.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/gran-habano-persian-king-maduro",
+   "https://halfwheel.com/gran-habano-releases-persian-king-maduro/119492/",
+   "https://ghcigars.com/wp-content/uploads/2026/04/Gran-Habano-Digital-Catalog-2026.pdf"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "No field changes. Sun grown Nicaraguan maduro wrapper, full strength, both sizes and Honduras confirmed against halfwheel, Neptune and the maker's 2026 catalog. Added the catalog as a source because the maker's Persian King web page no longer mentions the maduro."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Persian King Omega Omega",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Habano, Corojo, Criollo)",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark cocoa",
+   "espresso",
+   "spice",
+   "sweetness"
+  ],
+  "about": "Gran Habano's first all-Honduran cigar, made with tobacco from the Rico family's own farms. It is also the first banded cigar in the Persian King family.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/persian-king-omega-omega/",
+   "https://halfwheel.com/gran-habano-announces-persian-king-omega-omega-its-first-all-honduran-cigar/465169/",
+   "https://halfwheel.com/pca-2026-gran-habano/462023/"
+  ],
+  "notes": "Limited to 2,000 boxes of 50; halfwheel's trade show report says that is per year. It does not share the Nicaraguan blend or the unbanded look of the other Persian King cigars.",
+  "verified": true,
+  "verifyNotes": "Blend, medium strength, size, factory and June 2026 shipping confirmed against the maker page and both halfwheel articles. Added to notes that halfwheel's PCA report gives the 2,000 boxes as a yearly figure."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Persian Queen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo and Ecuadorian Connecticut (barber pole)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Kiana",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gryphon",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cereal",
+   "white pepper",
+   "wood",
+   "cream"
+  ],
+  "about": "An unbanded barber pole offshoot of the Persian King that twists a dark Nicaraguan corojo leaf with a light Ecuadorian Connecticut leaf. It has been released in limited runs.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/persian-queen-2/",
+   "https://halfwheel.com/gran-habano-persian-queen-kiana-barber-pole-le/390481/",
+   "https://halfwheel.com/gran-habanos-persian-queen-les-returning-in-october/429383/"
+  ],
+  "notes": "Two wrappers, so no single wrapper type applies. First run in November 2020 was 500 boxes of 50 per size; it returned in October 2023. Gran Habano lists it as full, though halfwheel's reviewer found it closer to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Persian King Type-Mod 60",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo with Ecuadorian Connecticut caps",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Type-Mod",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "nuts",
+   "leather",
+   "cream",
+   "black pepper"
+  ],
+  "about": "A double-capped 6 x 60 Persian King with a rounded head at one end and a tapered one at the other, each finished in Ecuadorian Connecticut. It is meant to be lit from either end.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/persian-king-type-mod-60-2/",
+   "https://halfwheel.com/gran-habano-persian-king-type-mod-60/413254/"
+  ],
+  "notes": "Gran Habano lists the main wrapper as Nicaraguan corojo; halfwheel says Nicaraguan habano. The maker gives the strength only as smooth and bold, depending on which end is lit; halfwheel's reviewer found it medium to medium-full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker page and halfwheel review. Strength stays null because the maker does not use a standard term; added halfwheel's reviewer finding to notes."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Gran Reserva #5 2012",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Czar",
+    "length": 6,
+    "ring": 66
+   },
+   {
+    "name": "Grandioso",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "sweet wood",
+   "espresso"
+  ],
+  "about": "An aged, limited version of the Corojo #5 made from the top tenth of that tobacco, aged seven to eight years before rolling and about six years after. The cigars were rolled in 2012 and released in 2018.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/gran-habano-gran-reserva-5-2012",
+   "https://halfwheel.com/gran-habano-corojo-no-5-gran-reserva-2012-gran-robusto/294404/"
+  ],
+  "notes": "Also called Corojo #5 Gran Reserva 2012. The year is when the cigars were rolled, not released. The maker does not name the wrapper variety; about 200,000 cigars were made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Gran Reserva #5 2011",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Czar",
+    "length": 6,
+    "ring": 66
+   },
+   {
+    "name": "Grandioso",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "sweet wood",
+   "espresso"
+  ],
+  "about": "The fourth Gran Reserva release, an aged and limited take on the Corojo #5 made with aged Nicaraguan tobacco at the Rico family's factory in Honduras.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/gran-habano-gran-reserva-5-2011",
+   "https://halfwheel.com/gran-habano-releases-gran-reserva-5-2011/88501/",
+   "https://blindmanspuff.com/blind-cigar-review-gran-habano-gran-reserva-no-5-2011-robusto/"
+  ],
+  "notes": "Sources disagree on the filler: the maker and halfwheel say all Nicaraguan, while Blind Man's Puff lists 2005 Costa Rican corojo under a 2002 Nicaraguan corojo wrapper and binder. The maker says full; Blind Man's Puff reviewers rated it medium to medium-strong.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the maker page, halfwheel and Blind Man's Puff. Rewrote notes: removed the reference to an earlier halfwheel report that is not among the sources, and added the strength disagreement with Blind Man's Puff."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Gran Reserva #5 2010",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano, Jalapa)",
+  "filler": "Nicaragua (Habano ligero from Jalapa and Esteli)",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Czar",
+    "length": 6,
+    "ring": 66
+   },
+   {
+    "name": "Grandioso",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweet wood",
+   "espresso",
+   "earth"
+  ],
+  "about": "A limited Gran Reserva release built on aged Nicaraguan tobacco from 2003 to 2005 crops, rolled in Danli, Honduras and rested before it reached stores in late 2012.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/gran-habano-gran-reserva-5-2010",
+   "https://halfwheel.com/gran-habano-expands-gran-reserva-line/32461/"
+  ],
+  "notes": "Limited to 1,200 boxes of 20 per size. The leaf detail comes from halfwheel; the maker lists only Nicaraguan corojo wrapper with Nicaraguan binder and filler.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Gran Reserva #3 2009",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "spice",
+   "cedar"
+  ],
+  "about": "A limited, aged Gran Reserva release using a 2003 Jalapa habano wrapper and binder. The cigars were rolled in Danli, Honduras and rested more than two years before reaching stores in late 2012.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://ghcigars.com/gran-habano-gran-reserva-3-2009",
+   "https://halfwheel.com/gran-habano-expands-gran-reserva-line/32461/"
+  ],
+  "notes": "Limited to 1,200 boxes of 20 per size. The maker lists Nicaraguan filler; halfwheel reported aged Colombian tobacco in the filler as well. Halfwheel gave the Churchill as 6 7/8 x 50.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

@@ -1,0 +1,1015 @@
+[
+ {
+  "brand": "Asylum",
+  "line": "13 Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "80x6",
+    "length": 6,
+    "ring": 80
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "80x8",
+    "length": 8,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "spice",
+   "citrus",
+   "leather",
+   "wood",
+   "pepper"
+  ],
+  "about": "A Honduran puro in the big-ring Asylum 13 family with a Honduran Corojo wrapper, made at Christian Eiroa's factory in Honduras. It is the Corojo counterpart to the original Nicaraguan Asylum 13.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/asylum-13-corojo-replacing-6-x-60-with-7-x-60/89314/",
+   "https://www.holts.com/cigars/all-cigar-brands/asylum-13-corojo.html"
+  ],
+  "notes": "Also sold as Asylum 13 Authentic Corojo. Launched at Tabacos Rancho Jamastran, then production moved to Eiroa's El Aladino factory. Neptune lists it Full; Holt's lists Medium-Full.",
+  "verified": true,
+  "verifyNotes": "Replaced flavors no listed source publishes (earth, espresso, cedar) with the ones Neptune and Holt's give. Removed the unsupported claim that the wrapper comes from the Eiroa farms. Famous Smoke also lists Medium-Full and a 5x50."
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Ogre",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Candela and dark Nicaraguan Habano",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaraguan American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "80x6",
+    "length": 6,
+    "ring": 80
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "80x8",
+    "length": 8,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "espresso",
+   "roasted nuts",
+   "grass"
+  ],
+  "about": "A barber pole cigar in the Asylum 13 family that twists green candela with a dark habano wrapper over Nicaraguan tobacco. The maker says it started as a 70x7 St. Patrick's Day cigar before more sizes were added.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/press-release-asylum-adds-ogre-line/50173/",
+   "https://halfwheel.com/asylum-13-ogre-lancero-coming-to-ipcpr-2015/88305/"
+  ],
+  "notes": "Two wrappers, so no single category fits; Candela is used here for the green stripe. Factory is per Neptune; halfwheel reported it as undisclosed in 2015.",
+  "verified": true,
+  "verifyNotes": "Released changed from 2013 to 2012 (halfwheel says introduced in 2012; Cigar Coop reported a late 2012 launch). Removed the note that a Cigar Aficionado story calls the dark leaf Corojo, which I could not find. Flavors cut to what Neptune publishes. Swapped the Cigar Aficionado link for the halfwheel story that gives the year."
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Medulla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo (high priming)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "80x6",
+    "length": 6,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "leather"
+  ],
+  "about": "The round version of Asylum's Medulla Oblongata blend, a Honduran puro with fourth and fifth priming Corojo wrapper from the Eiroa farm. The blend is close to Asylum 13 Corojo but uses higher primings.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/asylum-13-oblongata-50-x-5/210652/",
+   "https://www.cigaraficionado.com/article/cle-goes-cerebral-with-asylum-13-medulla-oblongota-19548"
+  ],
+  "notes": "Medulla is the round cigar and Oblongata is the same blend box-pressed. They first shipped together in 50-count boxes, 25 of each.",
+  "verified": true,
+  "verifyNotes": "Dropped espresso and cream from flavors; only earth, spice and leather are published for the round Medulla."
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Medulla Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "80x6",
+    "length": 6,
+    "ring": 80
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro version of the round Medulla, with a Mexican San Andres wrapper over Honduran Corojo binder and filler. It is made by CLE Cigar Co. in Danli, Honduras.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/asylum-13-medulla-oblongata-maduro-ships/262308/"
+  ],
+  "notes": "Medulla Maduro is the round cigar; Oblongata Maduro is the same blend box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Oblongata",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo (high priming)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "80x6",
+    "length": 6,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "earth",
+   "peanuts",
+   "oak",
+   "leather",
+   "dark chocolate",
+   "coffee"
+  ],
+  "about": "The box-pressed version of Asylum's Medulla Oblongata blend, a Honduran puro with a Corojo wrapper. It is the same blend and sizes as the round Medulla.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/asylum-13-oblongata-50-x-5/210652/",
+   "https://www.cigaraficionado.com/article/cle-goes-cerebral-with-asylum-13-medulla-oblongota-19548"
+  ],
+  "notes": "Oblongata is box-pressed and Medulla is the same blend left round. They first shipped together in 50-count boxes, 25 of each.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Oblongata Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52x6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "80x6",
+    "length": 6,
+    "ring": 80
+   }
+  ],
+  "flavors": [],
+  "about": "The box-pressed maduro in the Medulla Oblongata family, with a Mexican San Andres wrapper over Honduran Corojo binder and filler. It is made by CLE Cigar Co. in Danli, Honduras.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/asylum-13-medulla-oblongata-maduro-ships/262308/"
+  ],
+  "notes": "Oblongata Maduro is box-pressed; Medulla Maduro is the same blend left round.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Pandemonium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaraguan American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "8 1/2 x 52",
+    "length": 8.5,
+    "ring": 52
+   },
+   {
+    "name": "8 1/2 x 60",
+    "length": 8.5,
+    "ring": 60
+   },
+   {
+    "name": "8 1/2 x 70",
+    "length": 8.5,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "leather",
+   "pepper",
+   "cocoa"
+  ],
+  "about": "A Nicaraguan puro billed at launch as the strongest and boldest Asylum. Every size is 8 1/2 inches long and only the ring gauge changes.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/ipcpr-2019-asylum/362976/",
+   "https://mikescigars.com/brands/asylum-13-pandemonium"
+  ],
+  "notes": "halfwheel and Neptune call it a Nicaraguan puro; Mike's Cigars lists an Ecuadorian Sumatra wrapper. Neptune describes it as medium to full, Mike's lists Full. Factory is per Neptune; it was not disclosed at launch.",
+  "verified": true,
+  "verifyNotes": "Added that the factory was undisclosed at launch (Cigar Coop, July 2019). Everything else matched the sources."
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Split Personality",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "40x4",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54x6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "banana",
+   "caramel",
+   "almond"
+  ],
+  "about": "A flavored Asylum 13 line made to taste like a banana split, with a sweetened cap. CLE Cigar Co. makes it in Honduras and calls it a Honduran puro.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-13-split-personality-50x5/453751/",
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-asylum-split-personality-40x4/"
+  ],
+  "notes": "Flavored cigar. The maker has not disclosed the blend beyond Honduran tobacco; Neptune lists the wrapper as Habano. Neptune lists it Medium, while halfwheel and Developing Palates found it mild to mild-medium.",
+  "verified": true,
+  "verifyNotes": "No changes. The caramel and almond notes are the maker's description, per https://halfwheel.com/asylum-adding-banana-flavored-split-personality/448861/."
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Arabian Nights",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Undisclosed maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "40x4",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54x6 Belicoso",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "cedar",
+   "roasted peanuts",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A 2026 Asylum 13 line inspired by One Thousand and One Nights, with a maduro wrapper and packed in 10-count boxes. It is made at CLE's factory in Honduras and launched at an event in Marrakesh.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-13-arabian-nights-belicoso/474774/",
+   "https://halfwheel.com/1916-tabacalera-eiroa-asylum-arabian-nights-begin-shipping/471962/",
+   "https://www.neptunecigar.com/asylum-cigar"
+  ],
+  "notes": "The blend is secret: Christian Eiroa has only said it has a maduro wrapper. The maker describes it as medium to full; Neptune lists it Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Signature Series by Tom Lazuka",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Undisclosed maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "46x6",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "54x6 Belicoso",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cream",
+   "nuts"
+  ],
+  "about": "The personal blend of Asylum co-founder Tom Lazuka, a maduro that was a runner-up blend from the Asylum Sensorium project. It became a regular release in 2026 and includes the brand's first maduro belicoso.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-13-signature-series-by-tom-lazuka-46x6/477650/",
+   "https://halfwheel.com/asylum-signature-series-by-tom-lazuka-ships/471442/",
+   "https://www.neptunecigar.com/asylum-cigar"
+  ],
+  "notes": "The blend is secret; the company has only said it is a maduro that uses some Colombian tobacco. The maker gives no strength, and halfwheel's review found it mild to just under medium. Some listings leave the 13 out of the name.",
+  "verified": true,
+  "verifyNotes": "Added factory, strength and flavors from halfwheel's August 2026 review, which the researcher had not used. Cleared officialName because halfwheel's review and Neptune both use the name with the 13. Swapped one news link for the review."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Martes 13",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "48x4",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "54x6",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "mesquite",
+   "cocoa",
+   "leather",
+   "espresso",
+   "earth",
+   "cinnamon"
+  ],
+  "about": "A limited Asylum release named for Tuesday the 13th, the unlucky day in the Spanish-speaking world. It is made entirely of six-year-old Honduran Corojo tobacco and was sold in five-packs.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/asylum-martes-13-48x4/393784/",
+   "https://halfwheel.com/asylum-adding-martes-13/390929/",
+   "https://www.neptunecigar.com/asylum-cigar"
+  ],
+  "notes": "The 2021 release was limited to 500 five-packs of each size. Neptune lists it Full, while halfwheel's review found it close to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "867 Auntie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (claro)",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Petite Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "The thin-ring-gauge line in Asylum 867, a set of Honduran puros flavored by a steeping process and finished with a sweetened cap. It was first sold as Deadwood Tobacco Co. Chasing the Dragon Auntie.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rebranded-asylum-867-heads-to-stores/432661/",
+   "https://www.neptunecigar.com/asylum-cigar"
+  ],
+  "notes": "Flavored cigar; sources do not say what the flavor is. Renamed from Deadwood Tobacco Co. Chasing the Dragon in 2023 after a trademark dispute; that line began as a 2022 store exclusive. Retailers list the Corona as 5 3/4 x 46.",
+  "verified": true,
+  "verifyNotes": "Reworded the flavoring note, since no source says the maker refused to disclose it. Strength is from Neptune only."
+ },
+ {
+  "brand": "Asylum",
+  "line": "867 Midnight Oil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (natural)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The 54",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "The 60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "The 70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "berry",
+   "cream",
+   "black pepper",
+   "apricot",
+   "tea",
+   "wood"
+  ],
+  "about": "The large-ring-gauge line in Asylum 867, a set of Honduran puros flavored by a steeping process and finished with a sweetened cap. It was first sold as Deadwood Tobacco Co. Chasing the Dragon Midnight Oil.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rebranded-asylum-867-heads-to-stores/432661/",
+   "https://halfwheel.com/deadwood-tobacco-co-chasing-the-dragon-midnight-oil-54-x-6-1-4/424391/",
+   "https://www.neptunecigar.com/asylum-cigar"
+  ],
+  "notes": "Flavored cigar. Renamed from Deadwood Tobacco Co. Chasing the Dragon in 2023 after a trademark dispute; that line began as a 2022 store exclusive. Neptune lists it Medium; halfwheel's review found the strength mild to just under medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "867 Zero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro-wrapped line in Asylum 867, a set of Honduran puros flavored by a steeping process and finished with a sweetened cap. It was first sold as Deadwood Tobacco Co. Chasing the Dragon Zero.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rebranded-asylum-867-heads-to-stores/432661/",
+   "https://www.neptunecigar.com/asylum-cigar"
+  ],
+  "notes": "Flavored cigar; sources do not say what the flavor is. Renamed from Deadwood Tobacco Co. Chasing the Dragon in 2023 after a trademark dispute; that line began as a 2022 store exclusive.",
+  "verified": true,
+  "verifyNotes": "Reworded the flavoring note, since no source says the maker refused to disclose it. Strength is from Neptune only."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Cool Brew",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Undisclosed maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54x6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "A flavored Asylum line introduced at the 2023 PCA show as a follow-up to Asylum 867. It has a maduro wrapper over Honduran binder and filler and is flavored by steeping.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2023-cle-cigar-co-asylum/425169/",
+   "https://halfwheel.com/asylum-to-pour-new-cool-brew-at-pca-2023/425793/",
+   "https://www.neptunecigar.com/asylum-cigar"
+  ],
+  "notes": "Flavored cigar. The maker has not said what the flavoring is or where the maduro wrapper comes from; retailers describe it as a Honduran puro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "Insidious",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 7,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweet"
+  ],
+  "about": "A mild, budget-priced Asylum with an Ecuadorian Connecticut wrapper over Honduran tobacco and a sweetened cap. It was made with newer smokers in mind.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/insidious-by-asylum-released-retail/68817/",
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://mikescigars.com/brands/asylum-insidious-ct"
+  ],
+  "notes": "Sweet-tipped cigar. Launched as Insidious by Asylum; retailers now list it as Asylum Insidious Connecticut.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "Insidious Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 7,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "cocoa",
+   "earth",
+   "sweet"
+  ],
+  "about": "The maduro version of Asylum Insidious, using the same Honduran filler blend under a Mexican San Andres wrapper. Like the original it has a sweetened cap.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/insidious-asylum-maduro-shipping-next-week/80798/",
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://mikescigars.com/brands/asylum-insidious-maduro"
+  ],
+  "notes": "Sweet-tipped cigar.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "Premium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "44x4",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "67x6",
+    "length": 6,
+    "ring": 67
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "coffee",
+   "toast"
+  ],
+  "about": "The original Asylum line from the brand's 2012 launch, a Nicaraguan puro blended by Christian Eiroa. It sits alongside the fuller Asylum 13.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://www.holts.com/cigars/all-cigar-brands/asylum.html",
+   "https://halfwheel.com/press-release-asylum-cigars-kicks-doors-inaugural-launch/28068/"
+  ],
+  "notes": "Often just called Asylum. It launched in 44x4, 50x6, 54x6 torpedo and 60x6; retailers now mainly carry the 44x4, 60x6 and 67x6. Neptune calls the wrapper a Nicaraguan maduro, Holt's a Habano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Asylum",
+  "line": "Schizo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50x5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "50x6",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "60x6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "52x7",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "70x7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cocoa",
+   "spice"
+  ],
+  "about": "Asylum's budget bundle cigar, a Nicaraguan puro made with mixed short and long filler. It was part of the brand's 2012 launch and is priced as an everyday smoke.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/asylum-cigar",
+   "https://halfwheel.com/press-release-asylum-cigars-kicks-doors-inaugural-launch/28068/",
+   "https://halfwheel.com/schizo-maduro-heads-to-retailers/83271/"
+  ],
+  "notes": "Mixed filler, sold in bundles. The maker described it as mild to medium; Neptune lists it Medium. The separate Schizo Maduro is a different blend made in Honduras with a San Andres wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

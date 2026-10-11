@@ -1,0 +1,751 @@
+[
+ {
+  "brand": "Paul Garmirian",
+  "line": "Gourmet Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian-grown Connecticut Shade (colorado shade)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.625,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso Fino",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Grande",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Bombones",
+    "length": 3.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "citrus",
+   "spice"
+  ],
+  "about": "The original PG blend, launched in 1990 by Dr. Paul Garmirian alongside his book The Gourmet Guide to Cigars. It is a medium Dominican cigar made by Davidoff's Dominican operation and known for long aging, including vintage boxes rolled in the 1990s.",
+  "released": 1990,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/review-paul-garmirian-pg-corona-grande-1995/23543/",
+   "https://www.cigaraficionado.com/ratings/21464/name/paul-garmirian-gourmet-series-churchill"
+  ],
+  "notes": "The maker rates it 5 out of 10 in strength. The line has about 20 sizes; ten are listed here. It was long rolled at Davidoff's Occidental Cigar Factory in Santiago, and halfwheel reports that production has since moved to Davidoff's O.K. Cigars.",
+  "verified": true,
+  "verifyNotes": "Flavors reset to what the Cigar Aficionado note and maker text actually say (balsa wood, earth, lemon peel, spicy); honey and oak were not on the cited pages. Blend, strength, sizes and factory confirmed on pgcigars.com and halfwheel."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "Gourmet Series II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso Fino",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "toast"
+  ],
+  "about": "A 1999 follow-up to the original PG Gourmet Series with a little more spice. It is aged in cedar boxes and sits just above the original in strength.",
+  "released": 1999,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/pg-gourmet-series-iii-30th-anniversary-short-robusto/380333/",
+   "https://halfwheel.com/paul-garmirian-pg-gourmet-series-35th-anniversary-super-robusto/457129/"
+  ],
+  "notes": "The maker rates it 5.5 out of 10 in strength and does not say where the Connecticut Shade wrapper is grown. It launched with the Torpedo and Robusto; the Connoisseur and Belicoso Fino followed in 2001.",
+  "verified": true,
+  "verifyNotes": "Dropped the research-process sentence about the factory from notes. Factory rests on halfwheel's statement that all PG production moved from Occidental to O.K. Cigars."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "35th Anniversary",
+  "found": true,
+  "officialName": "Gourmet Series 35th Anniversary",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Super Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "white pepper",
+   "bread",
+   "salt",
+   "cream"
+  ],
+  "about": "A two-size regular production line released in October 2025 to mark 35 years of the PG Gourmet Series. It pairs an Ecuadorian habano wrapper with Dominican binder and filler.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/paul-garmirian-pg-gourmet-series-35th-anniversary-super-robusto/457129/",
+   "https://halfwheel.com/paul-garmirian-ships-pg-gourmet-series-35th-anniversary/455395/"
+  ],
+  "notes": "halfwheel's news story names the Occidental Cigar Factory, but its later review says that factory closed and the cigars are made at Davidoff's O.K. Cigars. The maker says 135 smokers tested the blend before release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "30th Anniversary",
+  "found": true,
+  "officialName": "Gourmet Series III 30th Anniversary",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Bombones Extra",
+    "length": 3.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "wood",
+   "black pepper",
+   "earth"
+  ],
+  "about": "Released in July 2020 as the third Gourmet Series blend and a marker of the brand's 30th year. It is the richest of the three Gourmet Series blends, with a darker Ecuadorian habano wrapper over Dominican tobaccos.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/pg-gourmet-series-iii-30th-anniversary-short-robusto/380333/",
+   "https://halfwheel.com/paul-garmirian-releases-pg-gourmet-series-iii-30th-anniversary/378579/"
+  ],
+  "notes": "Also called Gourmet Series III. The maker rates it 6.5 out of 10 in strength. halfwheel's review names both the Occidental Cigar Factory and Davidoff's O.K. Cigars as the factory; PG production has since moved to O.K. Cigars.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "25th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (the maker calls it a dark, oily Oscuro Maduro)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (barrel aged)",
+  "filler": "Dominican Republic (four fillers)",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "chocolate",
+   "nuts",
+   "coffee",
+   "citrus",
+   "cream"
+  ],
+  "about": "A limited edition that began shipping in November 2015 for the brand's 25th year, first as 25,000 Connoisseur toros. A Short Robusto followed in 2016 and a Belicoso in 2024.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/paul-garmirian-25th-anniversary-connoisseur/104817/",
+   "https://halfwheel.com/paul-garmirian-25th-anniversary-belicoso/445622/"
+  ],
+  "notes": "The maker calls the wrapper an Oscuro Maduro and does not name its origin; halfwheel identifies it as Ecuadorian habano. The maker rates it 7.5 out of 10, medium to full in strength but full in flavor. Each size was a limited run: 25,000 Connoisseurs, 150 boxes of Short Robusto and 200 boxes of Belicoso.",
+  "verified": true,
+  "verifyNotes": "Notes shortened to fit the brief. Wrapper category kept as Habano per halfwheel; the maker only describes the leaf as Oscuro Maduro."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Havana seed (origin not published)",
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Salomones",
+    "length": 6.875,
+    "ring": 57
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Extra",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Bombones Extra",
+    "length": 3.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "dark chocolate"
+  ],
+  "about": "A full bodied limited edition that marked the brand's 20th year in 2010, blended with Henke Kelner and Eladio Diaz. It started as a single Connoisseur toro and grew to seven sizes, each boxed by production year.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/press-release-pg-symphony-20-limited-edition-robusto-corona-extra/38698/",
+   "https://halfwheel.com/pg-cigars-adds-sizes-symphony-20/28380/"
+  ],
+  "notes": "Also sold as PG Symphony 20. The blend is mostly undisclosed: the maker only cites a dark, oily wrapper, a Havana seed binder and four fillers. The maker rates it 8.5 out of 10 and dates the release to 2010; halfwheel says the first size appeared in 2009.",
+  "verified": true,
+  "verifyNotes": "Confirmed the maker does not publish the wrapper or filler; country rests on the maker's and halfwheel's statements that all PG cigars are Dominican made."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "15th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (aged)",
+  "filler": "Dominican Republic (aged)",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Celebration",
+    "length": 9,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso Extra",
+    "length": 6.75,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Extra",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "No. 5",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "Bombones",
+    "length": 3.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth"
+  ],
+  "about": "A full bodied line introduced in 2005 for the brand's 15th year, starting with the Belicoso Extra. It puts a dark Nicaraguan wrapper over aged Dominican binder and filler and now runs to ten sizes.",
+  "released": 2005,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/paul-garmirian-25th-anniversary-connoisseur/104817/",
+   "https://halfwheel.com/paul-garmirian-pg-gourmet-series-35th-anniversary-super-robusto/457129/"
+  ],
+  "notes": "The maker rates it 8 out of 10 in strength and says the filler comes from the same farms used for the first PG cigars in 1990.",
+  "verified": true,
+  "verifyNotes": "Dropped the research-process sentence about the factory from notes. Factory rests on halfwheel's statement about all PG cigars."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "Soiree",
+  "found": true,
+  "officialName": "Gourmet Series Soiree",
+  "wrapperLeaf": "Nicaraguan Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (aged)",
+  "filler": "Dominican Republic (aged)",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A full bodied member of the PG Gourmet Series with a Nicaraguan colorado wrapper over aged Dominican binder and filler. The maker describes it as aromatic and smoother than its strength suggests.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/pg-gourmet-series-iii-30th-anniversary-short-robusto/380333/",
+   "https://halfwheel.com/paul-garmirian-pg-gourmet-series-35th-anniversary-super-robusto/457129/"
+  ],
+  "notes": "The maker rates it 8 out of 10 in strength and does not give a release year.",
+  "verified": true,
+  "verifyNotes": "Dropped the research-process sentence about the factory from notes. No source found for a release year, so it stays null."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "Reserva Exclusiva",
+  "found": true,
+  "officialName": "Gourmet Series Reserva Exclusiva",
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (aged)",
+  "filler": "Dominican Republic, Ecuador",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gran Panatella",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Extra",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Torito",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "No. 5",
+    "length": 4,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "caramel",
+   "cedar",
+   "cocoa",
+   "coffee"
+  ],
+  "about": "A Gourmet Series blend introduced in 2001 and built around tobaccos aged about ten years. It uses an Ecuadorian wrapper, an aged Dominican binder and Dominican and Ecuadorian fillers.",
+  "released": 2001,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/review-paul-garmirian-reserva-exclusiva-gran-panatela/6924/",
+   "https://halfwheel.com/redux-paul-garmirian-reserva-exclusiva-gran-panatela/22897/"
+  ],
+  "notes": "Often shortened to R.E. The maker lists only an Ecuadorian wrapper and rates it 7 out of 10, medium to full; halfwheel identifies the wrapper as Ecuadorian Connecticut. halfwheel found the Gran Panatela full in flavor but mild in strength.",
+  "verified": true,
+  "verifyNotes": "Notes shortened to fit the brief."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Gourmet Series Maduro",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Brazil",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars (formerly Occidental Cigar Factory)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Celebration",
+    "length": 9,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Connoisseur",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Corona Grande",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Torito",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Bombones",
+    "length": 3.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "mocha"
+  ],
+  "about": "The maduro member of the PG Gourmet Series, with a Connecticut broadleaf wrapper, an Indonesian binder and Dominican and Brazilian fillers. The maker describes it as deep in flavor but smooth.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/paul-garmirian-pg-gourmet-series-35th-anniversary-super-robusto/457129/"
+  ],
+  "notes": "The maker rates it 7 out of 10 in strength and gives no release year, though it sells Toritos rolled in 2003. It does not say where the broadleaf wrapper is grown.",
+  "verified": true,
+  "verifyNotes": "Dropped the research-process sentence about the factory from notes. Wrapper origin left null because the maker names only Connecticut Broadleaf."
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "Artisan's Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian-grown Connecticut seed (colorado shade)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacos Dominicanos (Tabadom)",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 3",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 4",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 5",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "No. 6",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "No. 7",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "No. 8",
+    "length": 6.25,
+    "ring": 46
+   },
+   {
+    "name": "No. 9",
+    "length": 5.25,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "PG's lower priced, light to medium line, sold since 1997 in nine numbered sizes. It is known as a consistent everyday smoke and is popular with golfers.",
+  "released": 1997,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/press-release-paul-garmirian-artisans-passion/7891/"
+  ],
+  "notes": "The maker rates it 4 out of 10 in strength and credits the rollers at Tabacos Dominicanos, the Kelner and Davidoff operation that makes all PG cigars. No tasting notes are published beyond smoothness.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Paul Garmirian",
+  "line": "Artisan's Passion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian-grown Connecticut (since 2019); originally a Dominican wrapper",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Super Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A full bodied, lower priced sister to the Artisan's Selection, introduced at the 2011 IPCPR trade show in three sizes. It began as a Dominican puro and has used an Ecuadorian-grown Connecticut wrapper since 2019.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://pgcigars.com/cigars/",
+   "https://halfwheel.com/press-release-paul-garmirian-artisans-passion/7891/"
+  ],
+  "notes": "Two versions exist: the original 2011 Dominican puro, which the maker rates 8.5 out of 10, and the Ecuadorian Connecticut wrapped version made since 2019, rated 7.5. The 2011 launch release claimed 9.25 out of 10. No tasting notes are published.",
+  "verified": true,
+  "verifyNotes": "Factory left null: no page names one for this line."
+ }
+]

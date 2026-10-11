@@ -1,0 +1,602 @@
+[
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Appendix II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "honey",
+   "oak",
+   "orange",
+   "spice",
+   "cream"
+  ],
+  "about": "The mildest of the five Gourmet Collection blends Jake Wyatt launched with in 2020, wrapped in Ecuadorian Connecticut. It is built to be smooth and creamy.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/appendix-ii",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-launches/372682/"
+  ],
+  "notes": "Reblended in 2026 when production moved from the Dominican Republic to Honduras. The original version was made at Tabacalera JVM with Dominican binder and filler and San Andres maduro accent leaf. A 7 x 49/64 figurado is sold as a limited edition.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's product page; strength, country and tasting notes match the maker's 2026 catalog. Notes: 'older boxes' changed to 'the original version', since the maker used several Dominican factories after JVM. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Fourth Dimension",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "roasted almonds",
+   "cocoa",
+   "chestnut",
+   "cream"
+  ],
+  "about": "One of the five Gourmet Collection blends Jake Wyatt launched with in 2020, now wrapped in a Habano Oscuro leaf. The name refers to being in the zone in sports.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/fourth-dimension",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-launches/372682/"
+  ],
+  "notes": "Maker's catalog rates strength Medium but calls it medium-full bodied. Wrapper origin is not stated. Reblended in 2026 with the move to Honduras; the original Dominican-made version used a Dominican habano rosado wrapper with candela accents over Dominican binder and filler.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's product page; strength, country and tasting notes match the maker's 2026 catalog. Notes: 'older Dominican-made boxes' changed to 'the original Dominican-made version'. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Herbert Spencer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "black pepper",
+   "cedar"
+  ],
+  "about": "A San Andrés maduro blend from Jake Wyatt's Gourmet Collection, part of the company's 2020 launch. It is named for the English philosopher Herbert Spencer.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/herbert-spencer",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-launches/372682/"
+  ],
+  "notes": "Reblended in 2026 when production moved to Honduras. The original version was made at Tabacalera JVM in the Dominican Republic with Dominican binder and filler and Ecuadorian Connecticut accent leaf.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's product page; strength, country and tasting notes match the maker's 2026 catalog. Notes: 'older boxes' changed to 'the original version'. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Lucid Interval",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "green tea",
+   "cedar",
+   "pepper",
+   "cream"
+  ],
+  "about": "The candela-wrapped blend in Jake Wyatt's Gourmet Collection, part of the company's 2020 launch. The maker describes it as creamy and buttery.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/lucid-interval",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-launches/372682/"
+  ],
+  "notes": "Wrapper origin is not stated for the current blend. Reblended in 2026 with the move to Honduras; the original Dominican-made version used a Dominican candela wrapper with San Andres maduro accents over Dominican binder and filler.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's product page; strength, country and tasting notes match the maker's 2026 catalog. Notes: 'older Dominican-made boxes' changed to 'the original Dominican-made version'. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "U.S.I.R.",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweet spice",
+   "pepper",
+   "amaretto",
+   "cream"
+  ],
+  "about": "A Corojo-wrapped blend from Jake Wyatt's Gourmet Collection, part of the company's 2020 launch. The name stands for unsuspected inner resource.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/u-s-i",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-launches/372682/"
+  ],
+  "notes": "Maker's catalog rates strength Medium but calls it medium-full bodied. Reblended in 2026 with the move to Honduras; the original Dominican-made version used a Dominican habano rosado wrapper with San Andres maduro accents over Dominican binder and filler.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's product page; strength, country and tasting notes match the maker's 2026 catalog. Wrapper origin Honduras comes from the product page text ('Honduran Corojo'); the composition line and catalog say only 'Corojo'. Notes: 'older Dominican-made boxes' changed to 'the original Dominican-made version'. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Lithium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice",
+   "pepper",
+   "citrus",
+   "nuts"
+  ],
+  "about": "Jake Wyatt's seventh line, soft-launched in late 2020 and given a full release in 2021. The name reflects the hope that it has a calming effect on the smoker.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/lithium",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-lithium/385108/"
+  ],
+  "notes": "The maker now lists a Sumatra wrapper, origin not stated. halfwheel listed Ecuadorian habano over Dominican binder and filler for the original 2020-21 version made at Tabacalera JVM. The line was reblended in 2026 with the move to Honduras.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and sizes match the maker's product page; strength, country and tasting notes match the maker's 2026 catalog. Notes reworded: the Sumatra versus Ecuadorian habano difference is a reblend, not a disagreement between sources. November 2020 soft launch and August 2021 full release confirmed on halfwheel. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "J.W. Maverick",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo Box Pressed",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toasted almonds",
+   "cocoa",
+   "earth",
+   "black pepper",
+   "caramel"
+  ],
+  "about": "A full-bodied San Andrés maduro blend in Jake Wyatt's Connoisseur Collection, named for co-founder Gerard Abajian's son. It debuted in 2023 as the company's boldest cigar to that point.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/j-w-maverick",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-ships-full-line-of-j-w-maverick/429887/"
+  ],
+  "notes": "Reblended in 2026 when production moved to Honduras. The original 2023 version was made at Casamorabo Tabacalera in the Dominican Republic with a corojo binder and filler that included Pennsylvania broadleaf.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler and sizes match the maker's product page; strength, country and tasting notes match the maker's 2026 catalog. Original blend, Casamorabo factory and 2023 debut match halfwheel. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Icarus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras, USA",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "charred oak",
+   "black pepper",
+   "earth",
+   "espresso",
+   "mesquite"
+  ],
+  "about": "A dark, smoky blend in Jake Wyatt's Connoisseur Collection that debuted in 2024 and is known for its Tennessee fire-cured tobacco. It is named for the figure in Greek myth who flew too close to the sun.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/j-w-icarus",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-icarus/440185/"
+  ],
+  "notes": "Maker rates it Medium-Full to Full and now lists only an Oscuro wrapper, origin not stated. The original Dominican-made blend used Mexican San Andres maduro, Dominican olor binder and Tennessee fire-cured and Pennsylvania broadleaf filler. A 7 x 49/64 salomon is a limited edition.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler and sizes match the maker's product page (titled J.W. Icarus); the catalog gives strength as Medium-Full to Full and country Honduras, but its composition line omits the USA filler the product page lists. Original blend and 2024 debut match halfwheel. Factory and the Honduras move are not in the listed sources; confirmed from https://halfwheel.com/pca-2026-jake-wyatt-cigar-co/469181/ and the halfwheel Titan Series article."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Titan Series Goliad",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Claro (origin undisclosed)",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "toasted almond",
+   "white pepper",
+   "citrus",
+   "honey"
+  ],
+  "about": "The lightest of the three blends in Jake Wyatt's value-priced Titan Series, released in 2026 with a claro wrapper. It is the most approachable of the trio.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/the-titan-series",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-releases-value-focused-titan-series/465694/"
+  ],
+  "notes": "One of three blends in the Titan Series (Goliad, Colossus, Omega) that share a binder and filler and differ only in wrapper. The wrapper's origin is not disclosed.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler and sizes match the maker's Titan Series page and halfwheel; strength Medium, country and tasting notes match the maker's 2026 catalog; factory and medium body match halfwheel."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Titan Series Colossus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Oscuro (origin undisclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark cocoa",
+   "coffee",
+   "black pepper",
+   "earth",
+   "leather",
+   "molasses"
+  ],
+  "about": "The darkest and strongest of the three blends in Jake Wyatt's value-priced Titan Series, released in 2026 with an oscuro wrapper.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/the-titan-series",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-releases-value-focused-titan-series/465694/"
+  ],
+  "notes": "One of three Titan Series blends (Goliad, Colossus, Omega) that share a binder and filler and differ only in wrapper. Maker's catalog rates it Medium-Full to Full and its site calls it full-bodied. The wrapper's origin is not disclosed.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler and sizes match the maker's Titan Series page and halfwheel; the catalog gives strength as Medium Full to Full and halfwheel says medium-full; factory matches halfwheel."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Titan Series Omega",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Rosado (origin undisclosed)",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "red pepper",
+   "cedar",
+   "roasted nuts",
+   "caramel",
+   "baking spices",
+   "cream"
+  ],
+  "about": "The rosado-wrapped blend in Jake Wyatt's value-priced Titan Series, released in 2026. It sits between Goliad and Colossus and leans on sweetness and spice.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/the-titan-series",
+   "https://cdn.shopify.com/s/files/1/0994/1998/0066/files/Catalog-2026.pdf?v=1778714513",
+   "https://halfwheel.com/jake-wyatt-cigar-co-releases-value-focused-titan-series/465694/"
+  ],
+  "notes": "One of three blends in the Titan Series (Goliad, Colossus, Omega) that share a binder and filler and differ only in wrapper. The wrapper's origin is not disclosed.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler and sizes match the maker's Titan Series page and halfwheel; strength Medium, country and tasting notes match the maker's 2026 catalog; factory matches halfwheel."
+ },
+ {
+  "brand": "Jake Wyatt Cigar Co.",
+  "line": "Ember & Earth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Tabacalera San Jeronimo",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "toasted wood",
+   "roasted nuts",
+   "sweetness",
+   "spice"
+  ],
+  "about": "An everyday, lower-priced line Jake Wyatt released in September 2026 in a single toro size. It uses a wrapper from Nicaragua's Jalapa region.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://jakewyattcigars.com/products/ember-earth-1",
+   "https://halfwheel.com/jake-wyatt-cigar-co-releases-ember-earth/480720/"
+  ],
+  "notes": "The maker lists Nicaraguan and Honduran filler; halfwheel also lists United States tobacco in the filler. No strength rating or wrapper leaf type is published; the maker only calls it approachable.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, binder, filler and size match the maker's product page; country, factory, Nicaraguan origin of the Jalapa wrapper and the September 30, 2026 release match halfwheel. Confirmed the maker publishes no strength rating and it is not in the 2026 catalog; no retailer rating found."
+ }
+]

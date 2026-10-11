@@ -1,0 +1,1038 @@
+[
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Arsenio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Criollo 98, Estelí)",
+  "filler": "Nicaragua (Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "spice",
+   "wood",
+   "cream"
+  ],
+  "about": "A Nicaraguan puro from Aganorsa Leaf named for Arsenio Ramos, the Cuban-born blender who led the company's factory team and died in 2018. It is built on what the company calls his favorite blend, and the Corona was his preferred size.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/aganorsa-leaf-arsenio/",
+   "https://halfwheel.com/aganorsa-leaf-arsenio-corona/444395/",
+   "https://halfwheel.com/aganorsa-leaf-shipping-arsenio-on-july-1/440252/"
+  ],
+  "notes": "The maker rates strength 3 of 5 and calls it medium to full-bodied; Neptune lists it as full. It is a new blend, not the older Casa Fernandez Arsenio cigars.",
+  "verified": true,
+  "verifyNotes": "Reworded about (sources say he led the factory team, not that he ran it until his death). Named Neptune as the retailer listing full strength."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Aniversario Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Aganorsa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Norteña S.A. (Aganorsa), Estelí",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [],
+  "about": "The Corojo-wrapped member of Aganorsa Leaf's flagship Aniversario series, a box-pressed Nicaraguan puro made entirely from the company's own tobacco. It was sold as Casa Fernandez Aniversario Corojo until a 2021 rebrand.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/aniversario-series/",
+   "https://halfwheel.com/aganorsa-leaf-rebrands-casa-fernandez-aniversario-corojo-as-aganorsa-leaf-aniversario-corojo/402457/",
+   "https://halfwheel.com/aganorsa-leaf-aniversario-connecticut-begins-shipping/427860/"
+  ],
+  "notes": "Rebranded in 2021 from Casa Fernandez Aniversario Corojo; all sizes are box pressed. The maker rates strength 4 of 5, while Neptune lists it as full. halfwheel places production in Estelí, though Neptune still describes it as rolled in Miami.",
+  "verified": true,
+  "verifyNotes": "Replaced 'top-tier' in about. Named Neptune as the retailer behind the full-strength and Miami claims."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Aniversario Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Corojo Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Norteña S.A. (Aganorsa), Estelí",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "cream",
+   "black pepper",
+   "wood"
+  ],
+  "about": "The maduro member of Aganorsa Leaf's Aniversario series, a box-pressed Nicaraguan puro under the company's own shade-grown Corojo maduro wrapper. It started as small limited runs and became a regular line in 2022.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/aniversario-series/",
+   "https://halfwheel.com/aganorsa-leaf-aniversario-maduro-gran-robusto/413481/",
+   "https://halfwheel.com/aganorsa-leaf-updating-aniversario-maduro-at-pca-2022/408965/"
+  ],
+  "notes": "Began in 2020 as a limited Casa Fernandez Aniversario Cuba 109 Maduro rolled in Miami; regular production since 2022. The maker rates strength 3 of 5, while Neptune lists it as full. The maker's site shows a different size list than halfwheel and retailers.",
+  "verified": true,
+  "verifyNotes": "Named Neptune as the retailer listing full strength. Sizes follow halfwheel and Neptune, not the maker's page."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Aniversario Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí, Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Norteña S.A. (Aganorsa), Estelí",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Tubo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toast",
+   "wood",
+   "cream",
+   "black pepper",
+   "nuts",
+   "leather"
+  ],
+  "about": "The Connecticut-wrapped third blend in Aganorsa Leaf's Aniversario series, pairing an Ecuadorian Connecticut wrapper with the company's Nicaraguan binder and filler. It smokes fuller than most Connecticut cigars.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/aniversario-series/",
+   "https://halfwheel.com/aganorsa-leaf-aniversario-connecticut-gran-robusto/431976/",
+   "https://halfwheel.com/aganorsa-leaf-aniversario-connecticut-tubo-ships/473942/"
+  ],
+  "notes": "The maker rates strength 3 of 5, but halfwheel's review found it building from medium to full with full body, and Neptune lists it as full. The Gran Robusto and Toro are box pressed; the Tubo, added in 2026, is round.",
+  "verified": true,
+  "verifyNotes": "Named Neptune as the retailer listing full strength."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Aniversario 25 Edición Limitada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Aganorsa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "cream",
+   "toast",
+   "black pepper",
+   "coffee"
+  ],
+  "about": "A limited Nicaraguan puro marking 25 years since Eduardo Fernández founded Aganorsa, made entirely from tobacco grown on the company's farms. It came in one toro size.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aganorsa-leaf-aniversario-25-edicion-limitada-heads-to-stores/451322/",
+   "https://halfwheel.com/aganorsa-leaf-aniversario-25-edicion-limitada/452349/",
+   "https://aganorsaleaf.com/cigars/aniversario-series/"
+  ],
+  "notes": "One size only, limited to 1,000 boxes of 10 (10,000 cigars). halfwheel lists the wrapper only as Nicaraguan; the maker's site specifies Aganorsa Corojo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "La Validación Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo 99, Criollo 98)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "pepper",
+   "spice",
+   "cream"
+  ],
+  "about": "The Habano blend in Aganorsa Leaf's core La Validación series, built on the company's Nicaraguan Corojo and Criollo fillers. The series name comes from the company president's habit of calling a test smoke a validation.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/la-validacion-series/",
+   "https://halfwheel.com/aganorsa-leaf-ships-la-validacion-connecticut-habano/409295/",
+   "https://www.neptunecigar.com/cigar/aganorsa-leaf-validacion-habano"
+  ],
+  "notes": "Renamed in 2022 from Casa Fernandez Aganorsa Leaf Habano with the same blend. The maker lists an Ecuadorian Habano wrapper, while halfwheel and Neptune call it a Nicaraguan puro. The maker lists the Toro as 6 x 52; halfwheel and retailers say 6 1/4 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "La Validación Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Aganorsa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "black pepper",
+   "leather",
+   "spice"
+  ],
+  "about": "The Corojo blend in Aganorsa Leaf's core La Validación series, a Nicaraguan puro wrapped in the company's own Corojo leaf. It is one of four everyday blends sold in the same three sizes.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/la-validacion-series/",
+   "https://halfwheel.com/aganorsa-leaf-updates-core-lines-as-la-validacion-series/408523/",
+   "https://www.famous-smoke.com/brand-aganorsa-corojo"
+  ],
+  "notes": "Renamed in 2022 from Casa Fernandez Aganorsa Leaf Corojo with the same blend. The maker rates strength 4 of 5; Famous lists medium and Neptune full. The maker lists the Toro as 6 x 52; halfwheel and retailers say 6 1/4 x 52.",
+  "verified": true,
+  "verifyNotes": "Named the retailers behind the strength range."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "La Validación Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "cedar",
+   "earth",
+   "pepper"
+  ],
+  "about": "The maduro blend in Aganorsa Leaf's core La Validación series, with a Mexican San Andrés wrapper over the company's Nicaraguan binder and filler. It is the strongest of the four La Validación blends.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/la-validacion-series/",
+   "https://halfwheel.com/aganorsa-leaf-updates-core-lines-as-la-validacion-series/408523/",
+   "https://www.famous-smoke.com/brand-aganorsa-maduro"
+  ],
+  "notes": "Renamed in 2022 from Casa Fernandez Aganorsa Leaf Maduro with the same blend. The maker rates strength 4.5 of 5 and retailers list it as full. The maker lists the Toro as 6 x 52; halfwheel and retailers say 6 1/4 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Guardian of the Farm Nightwatch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Corojo Maduro (Jalapa)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa Corojo)",
+  "filler": "Nicaragua (Corojo and Criollo, Estelí and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA), now called Aganorsa",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Rambo",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "JJ",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Campeon",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Orpheus",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper"
+  ],
+  "about": "The maduro follow-up to Guardian of the Farm, a Nicaraguan puro from Aganorsa Leaf named for the dogs that guard its farms. It uses the company's own shade-grown Corojo maduro wrapper and is a fuller smoke than the original.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/guardian-of-the-farm-nightwatch/",
+   "https://halfwheel.com/guardian-of-the-farm-nightwatch-campeon/367230/",
+   "https://www.neptunecigar.com/cigar/aganorsa-guardian-of-the-farm-nightwatch"
+  ],
+  "notes": "The maker rates strength 4 of 5 and halfwheel found it strong, but Neptune lists it as medium. The Campeon has a 109-style head and the JJ is box pressed. halfwheel listed the JJ at 5 1/2 inches at launch; the maker now lists 5 1/4.",
+  "verified": true,
+  "verifyNotes": "Factory noted as since renamed Aganorsa, per halfwheel."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Guardian of the Farm Cerberus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 2012 (Aganorsa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA), now called Aganorsa",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A Guardian of the Farm extension from Aganorsa Leaf named for the three-headed dog of Greek myth. It is a Nicaraguan puro and the first Aganorsa blend to use a Corojo 2012 wrapper.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/guardian-of-the-farm-cerberus/",
+   "https://halfwheel.com/guardian-of-the-farm-cerberus-begins-shipping/405339/",
+   "https://www.neptunecigar.com/cigar/aganorsa-guardian-of-the-farm-cerberus"
+  ],
+  "notes": "Debuted in November 2021 as a limited toro for Cigar.com; the regular sizes shipped in February 2022. The maker rates strength 4 of 5, while Neptune lists it as medium. halfwheel listed the Toro at 54 ring at launch; the maker and retailers list 52.",
+  "verified": true,
+  "verifyNotes": "Factory noted as since renamed Aganorsa, per halfwheel."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Junior",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Super Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "pepper"
+  ],
+  "about": "The Connecticut-wrapped version of JFR, Aganorsa Leaf's value brand whose name stands for Just For Retailers. It pairs an Ecuadorian Connecticut wrapper with Nicaraguan binder and filler and is finished with a pigtail cap and tucked foot.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/jfr-connecticut/",
+   "https://halfwheel.com/jfr-connecticut-gets-packaging-update/298599/",
+   "https://www.famous-smoke.com/brand-jfr-connecticut"
+  ],
+  "notes": "The blend predates 2019, when it was repackaged and put back on the price list; the Junior size was added in 2024.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR 20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordito",
+    "length": 4.75,
+    "ring": 70
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "770",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "leather",
+   "coffee",
+   "anise"
+  ],
+  "about": "A box-pressed line from Aganorsa Leaf marking 20 years of its JFR value brand, with a Mexican San Andrés wrapper over Nicaraguan binder and filler. Each cigar has a pigtail cap and a covered foot.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/jfr-20th-anniversary/",
+   "https://halfwheel.com/jfr-20th-anniversary-gordito/454109/",
+   "https://www.famous-smoke.com/brand-aganorsa-jfr-20th-anniversary"
+  ],
+  "notes": "Strength sources disagree: the maker rates it 3 of 5, but halfwheel's review of the Gordito and Famous both call it full strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Lunatic Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Agricola Ganadera Norteña S.A. (Aganorsa), Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.25,
+    "ring": 52
+   },
+   {
+    "name": "Short Titan",
+    "length": 4.25,
+    "ring": 60
+   },
+   {
+    "name": "El Chiquito",
+    "length": 4.75,
+    "ring": 70
+   },
+   {
+    "name": "El Grande",
+    "length": 5.5,
+    "ring": 80
+   },
+   {
+    "name": "Hombre Libre",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "La Loma",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "La Montaña",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "Jackhammer",
+    "length": 8,
+    "ring": 60
+   },
+   {
+    "name": "Mambo",
+    "length": 8,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "leather"
+  ],
+  "about": "The big-ring offshoot of Aganorsa Leaf's JFR brand, with a Mexican San Andrés wrapper over Nicaraguan binder and filler. It is known for oversized formats, starting with the 8 x 80 Mambo.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/lunatic-maduro/",
+   "https://halfwheel.com/jfr-lunatic-maduro-la-loma/424680/",
+   "https://www.neptunecigar.com/cigar/jfr-lunatic-maduro"
+  ],
+  "notes": "The maker rates strength 3.5 of 5; Neptune lists it as full. A 10 x 100 novelty size is also sold. The maker lists El Chiquito at 4 1/4 inches, while halfwheel and Neptune say 4 3/4.",
+  "verified": true,
+  "verifyNotes": "Short Robusto length corrected from 4.75 to 4.25: the maker and halfwheel both say 4 1/4 x 52. Notes rewritten to match. halfwheel says the line was announced in late 2014 and shipped in February 2015."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Lunatic Torch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí, Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA), now called Aganorsa",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Imagine",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Visionaries",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Dreamlands",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Mad Folk",
+    "length": 4.75,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wood",
+   "pepper"
+  ],
+  "about": "A brushed-foot Nicaraguan puro in Aganorsa Leaf's JFR Lunatic family. The wrapper stops short of the foot, so the first puffs are binder and filler alone before the Corojo wrapper joins in.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/lunatic-torch/",
+   "https://halfwheel.com/jfr-lunatic-torch-visionaries/376606/",
+   "https://www.neptunecigar.com/cigar/jfr-lunatic-torch"
+  ],
+  "notes": "Debuted in 2016 as a single 7 x 50 Churchill and was relaunched in 2020 with new sizes and packaging. The maker rates strength 3.5 of 5; Neptune lists it as medium, while halfwheel's review found it full. It uses a double binder.",
+  "verified": true,
+  "verifyNotes": "halfwheel's review calls strength solidly full, not medium-full to full. Factory noted as since renamed Aganorsa, per halfwheel."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Lunatic Loco",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Corojo Maduro (Jalapa)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí, Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "El Loquito",
+    "length": 4.75,
+    "ring": 60
+   },
+   {
+    "name": "El Loco",
+    "length": 4.75,
+    "ring": 70
+   },
+   {
+    "name": "El Gran Loco",
+    "length": 5.5,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "cedar"
+  ],
+  "about": "A trio of short, fat perfectos in Aganorsa Leaf's JFR Lunatic family, made entirely of Nicaraguan tobacco under a shade-grown Corojo maduro wrapper. The maker bills it as its strongest cigar.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/lunatic-locos/",
+   "https://halfwheel.com/aganorsa-leaf-announces-jfr-lunatic-loco/336431/",
+   "https://www.neptunecigar.com/cigar/jfr-lunatic-loco"
+  ],
+  "notes": "The maker's site labels the line JFR Lunatic Locos; halfwheel and retailers use Loco.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Lunatic Hysteria",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "nuts",
+   "spice",
+   "dark chocolate",
+   "wood",
+   "earth"
+  ],
+  "about": "A JFR Lunatic extension that Aganorsa Leaf makes exclusively for Famous Smoke Shop, with a Mexican San Andrés maduro wrapper over Nicaraguan binder and filler. Unlike most Lunatic cigars it comes in fairly traditional sizes.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aganorsa-leaf-expands-jfr-lunatic-with-hysteria-for-famous-smoke-shop/368622/",
+   "https://www.famous-smoke.com/brand-jfr-lunatic-hysteria",
+   "https://www.famous-smoke.com/lunatic-hysteria-toro-cigars-maduro"
+  ],
+  "notes": "Famous Smoke Shop exclusive, so it is not on the maker's own site. It launched in Robusto and Toro; the Gordo was added later.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Lunatic Hysteria Barberpole",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro and Ecuadorian Connecticut Shade (barber pole)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico and Ecuador",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "nuts",
+   "cream",
+   "cedar",
+   "spice"
+  ],
+  "about": "A barber-pole version of JFR Lunatic Hysteria, made by Aganorsa Leaf for Famous Smoke Shop. It twists the original San Andrés maduro wrapper together with an Ecuadorian Connecticut Shade leaf over Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-jfr-lunatic-hysteria-barberpole",
+   "https://www.famous-smoke.com/aganorsa-lunatic-hysteria-barberpole-toro-cigars-barber-pole",
+   "https://www.famous-smoke.com/aganorsa-lunatic-hysteria-barberpole-robusto-cigars-barber-pole"
+  ],
+  "notes": "Famous Smoke Shop exclusive; Famous is the only source found and the binder is not published. Its spec table lists medium strength, while its description calls the profile full-bodied.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: Famous says full-bodied, not medium-plus to full."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Lunatic Hysteria Perfecto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto 60",
+    "length": 4.75,
+    "ring": 60
+   },
+   {
+    "name": "Perfecto 70",
+    "length": 4.75,
+    "ring": 70
+   },
+   {
+    "name": "Perfecto 80",
+    "length": 5.5,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "wood",
+   "pepper",
+   "espresso"
+  ],
+  "about": "A set of fat perfectos sold under the JFR Lunatic Hysteria name, made by Aganorsa Leaf for Famous Smoke Shop. They are full-strength Nicaraguan cigars with a dark maduro wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-jfr-lunatic-hysteria-perfecto",
+   "https://www.famous-smoke.com/lunatic-hysteria-perfecto-70-cigars-maduro",
+   "https://www.famous-smoke.com/lunatic-hysteria-perfecto-80-cigars-maduro"
+  ],
+  "notes": "Famous Smoke Shop exclusive and the only source found. Famous contradicts itself on the wrapper: its spec table says Nicaraguan Corojo maduro, its descriptions say Mexican San Andrés, so the wrapper is left blank. The three sizes match the JFR Lunatic Loco perfectos.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR XT Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA), now called Aganorsa",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "654 XT",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660 XT",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "770 XT",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "wood",
+   "coffee"
+  ],
+  "about": "A box-pressed, stronger take on the JFR value brand, introduced in 2014 when the company was still called Casa Fernandez. The Maduro version sits alongside a Corojo version in the same sizes.",
+  "released": 2014,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/jfr-expands-with-xt/63811/",
+   "https://www.neptunecigar.com/cigar/jfr-xt-maduro"
+  ],
+  "notes": "halfwheel reported a Mexican San Andrés wrapper at launch, while Neptune describes a Nicaraguan Aganorsa maduro wrapper. The line is not on the maker's current site and Neptune stocks only the 7 x 70, so current production status is unclear.",
+  "verified": true,
+  "verifyNotes": "Factory noted as since renamed Aganorsa, per halfwheel."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "New Cuba Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Aganorsa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Presidente",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "cedar",
+   "spice"
+  ],
+  "about": "The Corojo-wrapped version of New Cuba, Aganorsa Leaf's budget bundle line made in Nicaragua from the company's own tobacco. It is sold in bundles rather than boxes to keep the price down.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/new-cuba/",
+   "https://www.neptunecigar.com/cigar/new-cuba-corojo",
+   "https://www.famous-smoke.com/brand-new-cuba-corojo"
+  ],
+  "notes": "Neptune and Famous both list it as medium. The maker's single New Cuba page covers the Corojo, Connecticut and Maduro wrappers together and shows 4 of 5 strength.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

@@ -1,0 +1,920 @@
+[
+ {
+  "brand": "Casa de Garcia",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": "Connecticut Blend",
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Connecticut",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Colossal",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "A low-priced bundle cigar from Altadis U.S.A., made in the Dominican Republic with a Connecticut Shade wrapper over aged Dominican and Honduran long filler. It is the mild, mellow blend in the Casa de Garcia range.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/casa-de-garcia/casa-de-garcia-connecticut-blend/",
+   "https://www.neptunecigar.com/cigar/casa-de-garcia-connecticut"
+  ],
+  "notes": "Altadis describes it as smooth and mellow without a strength rating; Neptune lists it as mild.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Maduro Blend",
+  "wrapperLeaf": "Connecticut Broadleaf maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Connecticut Broadleaf",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "chocolate",
+   "cedar",
+   "spice"
+  ],
+  "about": "The dark-wrapped version of Altadis U.S.A.'s Casa de Garcia bundle line, made in the Dominican Republic with aged Dominican and Honduran long filler. It is a smooth, inexpensive everyday maduro.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/casa-de-garcia/casa-de-garcia-maduro-blend/",
+   "https://www.neptunecigar.com/cigar/casa-de-garcia-maduro"
+  ],
+  "notes": "Altadis's spec table lists a Connecticut Broadleaf wrapper, but its own description calls it a Connecticut Shade leaf sun-ripened until nearly black. Altadis gives no strength rating and calls the flavors mellow; medium is Neptune's listing.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Sumatra",
+  "found": true,
+  "officialName": "Sumatra Blend",
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Connecticut Broadleaf",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "earth",
+   "nuts"
+  ],
+  "about": "A Sumatra-wrapped blend in Altadis U.S.A.'s Casa de Garcia bundle line, made in the Dominican Republic with a Connecticut Broadleaf binder and Dominican and Honduran long filler. Altadis describes it as mellow in strength with a slow burn.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/casa-de-garcia/casa-de-garcia-sumatra-blend/"
+  ],
+  "notes": "Altadis does not say where the Sumatra wrapper is grown. Strength is from Altadis's own wording, a mellow strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Connecticut Broadleaf",
+  "filler": "Nicaragua, Connecticut Broadleaf, Colombia",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Colossal",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "The fuller-bodied blend in Altadis U.S.A.'s Casa de Garcia bundle line, with a dark Nicaraguan Habano 2000 wrapper. Despite the name it is rolled in the Dominican Republic.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/casa-de-garcia/casa-de-garcia-nicaragua/",
+   "https://www.neptunecigar.com/cigar/casa-de-garcia-nicaragua",
+   "https://halfwheel.com/altadis-adds-lines-casa-de-garcia/35083/"
+  ],
+  "notes": "Sources disagree on the binder and filler. Altadis's spec table and Neptune list a Connecticut Broadleaf binder with Nicaraguan, Broadleaf and Colombian filler, but Altadis's own description says Nicaraguan binder. halfwheel's 2013 report said Nicaraguan binder over Dominican filler.",
+  "verified": true,
+  "verifyNotes": "Binder changed from Nicaragua to Connecticut Broadleaf: the Altadis spec table and Neptune both list it, and the filler already came from that same table. Added Neptune as a source and reworded notes. Strength is halfwheel's 'medium to fuller bodied'; Altadis only says fuller bodied."
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Centenario Red Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The stronger of the two Casa de Garcia Centenario blends, a value-priced bundle cigar that Altadis U.S.A. has made in Nicaragua with the Plasencia family. It pairs an Ecuadorian Habano wrapper with Nicaraguan binder and filler.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/casa-de-garcia/casa_de_garcia_centenario_red_label/",
+   "https://halfwheel.com/casa-de-garcia-centenario-coming-to-stores-this-month/415963/",
+   "https://www.neptunecigar.com/cigar/casa-de-garcia-centenario-red-label"
+  ],
+  "notes": "Strength is unsettled. Altadis rates it 4 on a numeric scale that reaches at least 9 on its other pages, while Neptune lists it as full. Altadis says it is made with the Plasencia family but has not named the factory.",
+  "verified": false,
+  "verifyNotes": "Strength set to null. Medium-Full is stated by no source: it assumed Altadis's 4 was out of 5, but Altadis rates Montecristo Espada 9 and Montecristo White 4, so 4 is below the midpoint, while Neptune says Full. Wrapper and country confirmed on Altadis, Neptune and halfwheel. No second retailer could be opened to settle strength."
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Centenario Gold Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The milder of the two Casa de Garcia Centenario blends, a value-priced bundle cigar that Altadis U.S.A. has made in Nicaragua with the Plasencia family. It uses an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/casa-de-garcia/casa_de_garcia_centenario_gold_label/",
+   "https://halfwheel.com/casa-de-garcia-centenario-coming-to-stores-this-month/415963/",
+   "https://www.neptunecigar.com/cigar/casa-de-garcia-centenario-gold-label"
+  ],
+  "notes": "halfwheel's 2022 launch report called this blend the White Label; Altadis and retailers list it as Gold Label. Neptune lists medium, while Altadis rates it 3 on a numeric scale that reaches at least 9, so it may smoke milder. The specific Plasencia factory has not been named.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: Altadis's numeric strength scale runs to at least 9 on its other pages, so its 3 points milder than Neptune's medium. Strength kept at Neptune's Medium."
+ },
+ {
+  "brand": "Gellis Family",
+  "line": "Marevas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Marevas",
+    "length": 5.125,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "leather",
+   "marshmallow",
+   "cream",
+   "dried fruit",
+   "caramel",
+   "chocolate"
+  ],
+  "about": "The first cigar from Gellis Family Cigars, the brand Warped founder Kyle Gellis put his family name on. It is a single 5 1/8 x 43 size with a closed foot, aged a year in Spanish cedar before boxing.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.gelliscigars.com/brands/dominican-republic",
+   "https://halfwheel.com/gellis-family-cigars-launches-with-marevas-saunter/437412/",
+   "https://shop.gelliscigars.com/products/marevas"
+  ],
+  "notes": "Blend details vary by source. The maker's brand page says Ecuador Habano 2000 wrapper and Ecuador binder, but its shop page lists an Ecuador Corojo '99 wrapper and Dominican San Vicente binder. halfwheel reported a habano 2000 rosada wrapper over a Nicaraguan binder.",
+  "verified": true,
+  "verifyNotes": "Fixed one word in notes (halfwheel wrote rosada). All fields match the maker's brand page; the maker's shop page and halfwheel each give a different binder."
+ },
+ {
+  "brand": "Gellis Family",
+  "line": "Saunter",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Desflorada",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "fruit",
+   "honey",
+   "white pepper",
+   "caramel"
+  ],
+  "about": "The second release from Kyle Gellis's Gellis Family Cigars, a single 5 1/4 x 48 robusto with an Ecuadorian Connecticut wrapper. It is named for the way the family's Cane Corso sauntered around the office and is aged a year in cedar before boxing.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.gelliscigars.com/brands/dominican-republic",
+   "https://halfwheel.com/gellis-family-cigars-saunter/447327/",
+   "https://shop.gelliscigars.com/products/gellis-family-saunter"
+  ],
+  "notes": "The maker's brand page rates it medium to full while its shop page says medium. halfwheel's reviewer found the strength mild to medium. The maker says Cigar Aficionado named it No. 16 Cigar of the Year with 95 points.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gellis Family",
+  "line": "Piece Unique",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "brown sugar",
+   "floral",
+   "dried fruit",
+   "cedar"
+  ],
+  "about": "The annual limited edition from Gellis Family Cigars, a 6 x 52 toro capped at 500 boxes of 15 each year. The name is a watchmaking term, and each year's blend is made once and not repeated.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.gelliscigars.com/brands/dominican-republic",
+   "https://halfwheel.com/gellis-family-cigars-piece-unique-goes-international-for-2025/452947/",
+   "https://halfwheel.com/gellis-family-cigars-announces-piece-unique-2026/466555/"
+  ],
+  "notes": "The blend changes every year; the one shown is the maker's listed blend, matching the 2024 debut. Per halfwheel, the 2025 release went only to non-U.S. retailers with a Brazilian Arapiraca binder, and the 2026 uses a Mexican San Andres binder. All keep an Ecuadorian Connecticut wrapper.",
+  "verified": true,
+  "verifyNotes": "Swapped the 2024 announcement link for halfwheel's 2025 article, which is the page that states the 2025 Brazilian Arapiraca binder and the non-U.S. release quoted in notes. No field changed."
+ },
+ {
+  "brand": "Gellis Family",
+  "line": "Absolutos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan sun grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Petit Robusto",
+    "length": 4,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "fruit",
+   "brown sugar",
+   "white pepper",
+   "caramel",
+   "leather"
+  ],
+  "about": "The first Nicaraguan-made line from Gellis Family Cigars, a soft box-pressed Nicaraguan puro rolled at NACSA in Esteli. It uses all sun grown tobacco from Esteli, Ometepe, Condega and Jalapa.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.gelliscigars.com/brands/nicaragua",
+   "https://halfwheel.com/gellis-family-cigars-absolutos-shipping-in-march/447242/",
+   "https://shop.gelliscigars.com/products/gellis-family-absolutos"
+  ],
+  "notes": "The maker rates it medium plus, a step above medium. It launched in Corona Gorda and Toro; the Petit Robusto appears on the maker's shop, and a 6 1/2 x 42 Lonsdale was a limited store exclusive.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gellis Family",
+  "line": "Heritage No. 50",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "raspberry",
+   "black pepper",
+   "oak",
+   "leather",
+   "nuts"
+  ],
+  "about": "A 5 x 50 robusto from Gellis Family Cigars with a Mexican San Andres maduro wrapper over Nicaraguan binder and filler, rolled at NACSA in Esteli. It is made in small batches rather than continuously.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://shop.gelliscigars.com/products/gellis-family-heritage",
+   "https://halfwheel.com/gellis-family-cigars-heritage-no-50/478332/"
+  ],
+  "notes": "Released in batches; halfwheel reports the first batch arrived in July 2026 and was 6,000 cigars, and describes it as sitting between a limited edition and a core line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gellis Family",
+  "line": "Essentials",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Panetela",
+    "length": 4.5,
+    "ring": 32
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "cream",
+   "dried fruit",
+   "cedar",
+   "vanilla"
+  ],
+  "about": "A small 4 1/2 x 32 cigar from Gellis Family Cigars, made as a short smoke for travel and sold in cabinets of 50. It has an Ecuadorian Connecticut wrapper and is rolled at Tabacalera La Isla in the Dominican Republic.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://shop.gelliscigars.com/products/gellis-family-essentials",
+   "https://halfwheel.com/gellis-family-cigars-essentials-on-the-way-to-retailers/480569/"
+  ],
+  "notes": "The maker's only rating is labeled body: medium. The maker calls the size a panetela; halfwheel calls it a petite corona.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Odyssey",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream"
+  ],
+  "about": "A budget bundle cigar from General Cigar, handmade in Nicaragua with a Connecticut Shade wrapper and a lightly sweetened cap. It was one of the two original Odyssey blends.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/odyssey-connecticut",
+   "https://halfwheel.com/ipcpr-2016-general-cigar-co/128060/"
+  ],
+  "notes": "The cap is lightly sweetened. halfwheel lists the wrapper as Honduran Connecticut; Neptune's description just says Connecticut Shade.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Odyssey",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice"
+  ],
+  "about": "A budget bundle cigar from General Cigar, handmade in Nicaragua with a Nicaraguan Habano wrapper over a Honduran binder and Nicaraguan filler. It was one of the two original Odyssey blends.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/odyssey-habano",
+   "https://halfwheel.com/ipcpr-2016-general-cigar-co/128060/"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Odyssey",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth"
+  ],
+  "about": "The maduro addition to General Cigar's budget Odyssey bundle line, made for the company in Nicaragua at Plasencia. It has a dark Nicaraguan wrapper over a Honduran binder and Nicaraguan filler.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/general-cigar-unveils-odyssey-maduro-at-ipcpr/272427/",
+   "https://www.neptunecigar.com/cigar/odyssey-maduro"
+  ],
+  "notes": "It launched in five sizes; some retailers now stock only the Toro and Gigante.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Odyssey",
+  "line": "Sweet Tip",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "cream"
+  ],
+  "about": "A mild, sweet-capped member of General Cigar's budget Odyssey bundle line, handmade in Nicaragua. It has a Nicaraguan Habano wrapper over a Honduran binder and a Honduran and Nicaraguan filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/odyssey-sweet-tip",
+   "https://mikescigars.com/brands/odyssey-sweet-tip",
+   "https://halfwheel.com/odyssey-full-coming-to-stores-this-month/400556/"
+  ],
+  "notes": "The cap is sweetened. Neptune lists it as mild, while Mike's Cigars lists medium. Neptune stocks only the 6 x 54 Toro; the other four sizes come from Mike's Cigars listings.",
+  "verified": true,
+  "verifyNotes": "Cross-checked against Mike's Cigars: same wrapper, binder and filler, but strength listed as Medium (Neptune says Mild, kept). Added four sizes that Mike's lists (Corona, Robusto, Churchill, Gigante), added Mike's as a source and rewrote notes. No maker page or release year found."
+ },
+ {
+  "brand": "Odyssey",
+  "line": "Coffee",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, Indonesia",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Torpedo",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee"
+  ],
+  "about": "A coffee-infused cigar in General Cigar's budget Odyssey bundle line, handmade in Nicaragua and sold in bundles of 12. It has a dark Indonesian wrapper and binder over Nicaraguan Habano and Indonesian filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/odyssey-coffee",
+   "https://mikescigars.com/brands/odyssey-coffee",
+   "https://halfwheel.com/odyssey-full-coming-to-stores-this-month/400556/"
+  ],
+  "notes": "This is a flavored, coffee-infused cigar. Neptune lists it as medium, while Mike's Cigars lists mild to medium.",
+  "verified": true,
+  "verifyNotes": "Cross-checked against Mike's Cigars: Indonesian maduro wrapper and the same three sizes confirmed; strength there is Mild to Medium (Neptune's Medium kept). Added Mike's as a source and updated notes. No maker page or release year found."
+ },
+ {
+  "brand": "Odyssey",
+  "line": "Full",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Habano",
+  "filler": "Nicaragua, Colombia",
+  "country": "Nicaragua",
+  "factory": "STG Esteli",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "leather"
+  ],
+  "about": "The strongest blend in General Cigar's budget Odyssey bundle line, made at STG Esteli in Nicaragua. It uses a Nicaraguan Jalapa wrapper, a Nicaraguan Habano binder and Nicaraguan and Colombian ligero filler.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/odyssey-full-coming-to-stores-this-month/400556/",
+   "https://www.neptunecigar.com/cigar/odyssey-full"
+  ],
+  "notes": "The wrapper's seed type is not published, only that it is a dark Jalapa leaf. It launched in five sizes; some retailers now stock only the Toro.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

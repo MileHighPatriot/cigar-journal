@@ -1,0 +1,622 @@
+[
+ {
+  "brand": "AJ Fernandez",
+  "line": "New World Decenio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (Ocotal)",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "black pepper",
+   "espresso",
+   "cedar",
+   "leather",
+   "earth"
+  ],
+  "about": "A box-pressed San Andrés-wrapped blend from AJ Fernandez that marks ten years of the New World brand. It is made at the company's San Lotano factory in Ocotal, Nicaragua.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://ajfcigars.com/cigars/new-world/decenio/",
+   "https://halfwheel.com/new-world-decenio-robusto/454790/",
+   "https://www.holts.com/cigars/all-cigar-brands/new-world-decenio.html"
+  ],
+  "notes": "Holt's and Corona Cigar list it medium-full; Neptune lists it full. Halfwheel's review put strength at medium building to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "San Lotano Requiem Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice"
+  ],
+  "about": "The mild Connecticut-shade blend in San Lotano Requiem, the core three-blend line of AJ Fernandez's first brand. It is made in Nicaragua.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://ajfcigars.com/cigars/san-lotano/connecticut/",
+   "https://www.neptunecigar.com/cigar/san-lotano-requiem-connecticut",
+   "https://www.famous-smoke.com/brand-san-lotano-requiem-connecticut"
+  ],
+  "notes": "The maker lists a Honduran binder with Nicaraguan and Dominican filler. Neptune's copy says Nicaraguan binder with Honduran leaf in the filler. It launched in 2010 as San Lotano Connecticut; the maker now calls it Requiem Connecticut.",
+  "verified": true,
+  "verifyNotes": "Reworded the last note. The 2010 date for the Connecticut blend was cross-checked on cigar-coop.com's January 2011 San Lotano review. The maker page gives no strength; Neptune and Famous both list Mild."
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "San Lotano Dominicano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban-seed Brazilian",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo Box-Press",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "cocoa",
+   "caramel",
+   "vanilla",
+   "cedar"
+  ],
+  "about": "A collaboration between AJ Fernandez and Jochy Blanco, made at Blanco's Tabacalera Palma in the Dominican Republic rather than in Nicaragua. It pairs a Brazilian wrapper with Dominican and Nicaraguan tobaccos from both makers' farms.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/san-lotano-dominicano-robusto/335792/",
+   "https://www.cigaraficionado.com/ratings/21379/name/san-lotano-dominicano-torpedo-figurado",
+   "https://www.holts.com/cigars/all-cigar-brands/san-lotano-dominicano.html"
+  ],
+  "notes": "Halfwheel and Cigar Aficionado rate strength medium-full; Holt's and Neptune list it as medium. The wrapper is Cuban-seed leaf grown in Brazil, so Habano is the closest category rather than an exact one.",
+  "verified": true,
+  "verifyNotes": "Added the Cigar Aficionado rating as a source for strength (swapped out the halfwheel shipping story) and updated the note."
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "San Lotano Oval Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "nutmeg",
+   "cream",
+   "spice"
+  ],
+  "about": "The Connecticut-shade version of San Lotano Oval, AJ Fernandez's line pressed into an oval shape. It was added in 2013 as the third Oval blend.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/san-lotano-oval-connecticut.html",
+   "https://halfwheel.com/san-lotano-oval-connecticut-petit-robusto/81446/",
+   "https://halfwheel.com/a-j-fernandez-discontinues-san-lotano-oval/268234/"
+  ],
+  "notes": "In 2018 AJ Fernandez dropped the Oval line from general distribution and it became a Cigars International exclusive, so it is not on the maker's site. Part of the filler is undisclosed.",
+  "verified": true,
+  "verifyNotes": "No field changes. Strength rests on Holt's alone; Cigars International, the exclusive seller, blocks page fetches so its listing was not checked."
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "San Lotano Oval Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "spice",
+   "black pepper",
+   "espresso",
+   "leather",
+   "earth"
+  ],
+  "about": "The maduro version of San Lotano Oval, AJ Fernandez's oval-pressed line, using the same binder and filler as the original Oval under a darker wrapper. It followed the original by a year.",
+  "released": 2012,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/san-lotano-oval-maduro-corona/26165/",
+   "https://www.holts.com/cigars/all-cigar-brands/san-lotano-oval-maduro.html",
+   "https://halfwheel.com/a-j-fernandez-discontinues-san-lotano-oval/268234/"
+  ],
+  "notes": "Sources disagree on the wrapper: halfwheel says Ecuadorian Habano Maduro, Holt's says Connecticut Broadleaf, Neptune says San Andrés. Holt's lists medium-full; halfwheel's 2012 review found it medium. Since 2018 the Oval line has been a Cigars International exclusive.",
+  "verified": true,
+  "verifyNotes": "Added the strength disagreement to the note. Sizes are Holt's current list; halfwheel's 2012 launch list had five sizes and no Gordo. Cigars International's own listing could not be opened."
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Ramon Allones",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan medio tiempo (hybrid seed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Corojo 99, Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "black pepper",
+   "earth",
+   "cream",
+   "cocoa"
+  ],
+  "about": "AJ Fernandez's Nicaraguan-made take on the old Cuban Ramon Allones name, which he makes and sells in the U.S. under an arrangement with trademark owner General Cigar. It is known for its very dark wrapper.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://ajfcigars.com/cigars/ramon-allones/",
+   "https://halfwheel.com/ramon-allones-aj-fernandez-torpedo/278508/",
+   "https://www.neptunecigar.com/cigar/ramon-allones-by-aj-fernandez"
+  ],
+  "notes": "The maker says the wrapper is a medio tiempo leaf grown on AJ's farm in Nicaragua; halfwheel lists it as Ecuadorian Habano Oscuro. Neptune lists strength as full, Corona Cigar as medium to full. This is not the Cuban Ramon Allones.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf mixed the maker's wording with halfwheel's 'Habano Oscuro'; changed to the maker's description. Shortened the note to under 350 characters."
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Amar",
+  "found": true,
+  "officialName": "Amar by AJ Fernandez",
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (Ocotal)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torito",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "coffee",
+   "black pepper",
+   "cocoa",
+   "earth"
+  ],
+  "about": "A Nicaraguan puro with a habano wrapper that AJ Fernandez released as a thank-you for the support he received after the 2025 fire at his main factory in Estelí. It is made at the company's San Lotano factory in Ocotal.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/amar-by-aj-fernandez-scheduled-for-may/464523/",
+   "https://halfwheel.com/amar-by-aj-fernandez-toro/472532/",
+   "https://www.holts.com/cigars/all-cigar-brands/aj-fernandez-amar.html"
+  ],
+  "notes": "Holt's and Corona Cigar list it medium-full; halfwheel's review found the strength reaching full by the end. Amar means to love in Spanish and moon in Arabic, a nod to AJ's Cuban and Lebanese heritage.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "20th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Humidor Belicoso",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "cocoa",
+   "spice"
+  ],
+  "about": "A limited Nicaraguan puro marking 20 years since AJ Fernandez started his cigar company, blended from what he calls the best leaf from his farms. It is rolled at his main factory in Estelí.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aj-fernandez-20th-anniversary-heads-to-stores/444438/",
+   "https://www.neptunecigar.com/cigar/aj-fernandez-20th-anniversary",
+   "https://www.holts.com/cigars/all-cigar-brands/aj-fernandez-20th-anniversary.html"
+  ],
+  "notes": "The Toro was limited to 7,500 numbered boxes of 20 and the Belicoso came only in 250 numbered 50-count humidors. The wrapper variety is not named; Neptune lists its color as maduro. Halfwheel calls it AJF 20th Anniversary.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Enclave by Eladio Diaz",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Criollo 99",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "bread",
+   "pepper",
+   "cream",
+   "toast",
+   "nuts"
+  ],
+  "about": "An Enclave blend that AJ Fernandez had made by former Davidoff blender Eladio Díaz at Díaz's own factory in the Dominican Republic, using Díaz's tobacco. It contains no Nicaraguan leaf, which is unusual for an AJ Fernandez brand.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/enclave-by-eladio-diaz-gordo/452523/",
+   "https://halfwheel.com/pca-2025-aj-fernandez/449170/",
+   "https://www.neptunecigar.com/cigar/enclave-eladio-diaz"
+  ],
+  "notes": "Halfwheel's review and trade show report list the wrapper as Ecuadorian Criollo 99; an earlier halfwheel news story and Neptune call it Corojo 99. Neptune lists strength as medium; halfwheel's reviewer found it milder than that.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Enclave Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut-wrapped version of AJ Fernandez's Enclave line, with binder and filler from his Nicaraguan farms. It was created for retailers outside the United States.",
+  "released": 2021,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/aj-fernandezs-enclave-connecticut-heading-to-non-u-s-retailers/392866/",
+   "https://www.neptunecigar.com/cigar/enclave-connecticut"
+  ],
+  "notes": "Released in 2021 for international markets such as Germany, the UK and Switzerland, so it is rarely seen in U.S. shops. No published strength rating was found; Neptune describes it as aimed at smokers who want a milder cigar.",
+  "verified": true,
+  "verifyNotes": "production set to null: no page says whether this 2021 international release is still made, and the maker's Enclave page lists only Habano and Broadleaf. No source publishes a strength."
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Indomina",
+  "found": true,
+  "officialName": "Indomina by AJ Fernandez",
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "dark chocolate",
+   "espresso",
+   "pepper"
+  ],
+  "about": "An AJ Fernandez blend with an Ecuadorian Habano 2000 wrapper over a Mexican binder and Nicaraguan filler. It is sold by Famous Smoke Shop.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-indomina-by-aj-fernandez",
+   "https://www.famous-smoke.com/indomina-toro-cigars-natural"
+  ],
+  "notes": "Only Famous Smoke Shop lists this blend, so the details are the retailer's. Famous rates it full strength, though its Toro description calls it medium-bodied. Factory and release year are not published.",
+  "verified": true,
+  "verifyNotes": "Reworded about and notes; dropped a claim about the brand blurb that the page did not support. Confirmed against Famous only: the maker's site does not list it and no halfwheel or Cigar Aficionado page could be searched for."
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Shadow King",
+  "found": true,
+  "officialName": "Shadow King by AJ Fernandez",
+  "wrapperLeaf": "Ecuadorian Sumatra Oscuro",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua, Dominican Republic, Honduras",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "leather"
+  ],
+  "about": "A budget-priced AJ Fernandez blend with a dark Ecuadorian Sumatra wrapper. It is sold by Famous Smoke Shop.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-shadow-king-by-aj-fernandez",
+   "https://www.famous-smoke.com/shadow-king-toro-cigars-oscuro"
+  ],
+  "notes": "Only Famous Smoke Shop lists this blend, so the details are the retailer's. Its specs say full strength while its description says medium to full. Factory and release year are not published.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes and reworded about. Confirmed against Famous only: the maker's site does not list it and no halfwheel or Cigar Aficionado page could be searched for."
+ }
+]

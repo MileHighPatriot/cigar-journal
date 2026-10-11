@@ -1,0 +1,771 @@
+[
+ {
+  "brand": "Viaje",
+  "line": "The Crow",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Halloween-season release from Viaje, introduced in 2024 as a Nicaraguan puro with a corojo 99 wrapper. It is named for the small crow that appears on the packaging of Viaje's Full Moon.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-the-crow-ahead-of-halloween/443989",
+   "https://halfwheel.com/viaje-releasing-full-moon-and-the-crow-with-an-edicion-limitada-for-each/455383/",
+   "https://www.cigaraficionado.com/article/viaje-haunting-humidors-with-the-crow"
+  ],
+  "notes": "Viaje describes the blend as full-bodied; no separate strength rating is published. A The Crow Edición Limitada shipped with it in October 2025 in the same 5 1/2 x 50 size, and its blend has not been disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Johnny Blaze",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "One of three Viaje Skull and Bones cigars named after characters from Marvel's Ghost Rider. It first shipped in December 2019 and returned in July 2026, sold in bundles of 25.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-ghost-rider-trio-returning-vor-vpr-get-perfecto-release/475061/",
+   "https://halfwheel.com/viaje-teases-three-new-skull-and-bones-releases/369076/"
+  ],
+  "notes": "Viaje has never disclosed the blend. The factory listed is for the original 2019 run; Viaje has not said where the 2026 run was made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Ghost Rider",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "nutmeg",
+   "cedar",
+   "cinnamon",
+   "earth",
+   "leather",
+   "vanilla"
+  ],
+  "about": "One of three Viaje Skull and Bones cigars named after characters from Marvel's Ghost Rider. It first shipped in December 2019 and returned in July 2026, sold in bundles of 25.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-ghost-rider/375761/",
+   "https://halfwheel.com/viaje-skull-and-bones-ghost-rider-trio-returning-vor-vpr-get-perfecto-release/475061/"
+  ],
+  "notes": "Viaje has never disclosed the blend. Factory, strength and tasting notes are from the 2019 run; halfwheel's review found it milder than the name suggests, settling just past medium and well short of full. Viaje has not said where the 2026 run was made.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: halfwheel's review says it passed medium, stalled there and fell far short of full. Notes reworded to match."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Mephisto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mephisto",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The longest of three Viaje Skull and Bones cigars named after characters from Marvel's Ghost Rider. It first shipped in December 2019 and returned in July 2026, sold in bundles of 25.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-ghost-rider-trio-returning-vor-vpr-get-perfecto-release/475061/",
+   "https://halfwheel.com/viaje-teases-three-new-skull-and-bones-releases/369076/"
+  ],
+  "notes": "Viaje has never disclosed the blend. The factory listed is for the original 2019 run; Viaje has not said where the 2026 run was made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Little Boy",
+    "length": 4.25,
+    "ring": 52
+   },
+   {
+    "name": "Fat Man",
+    "length": 4.25,
+    "ring": 56
+   },
+   {
+    "name": "Big Ivan",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The nuclear-themed branch of Viaje's Skull and Bones series: short, thick cigars named after atomic bombs. It returns every few years, most recently in February 2026.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-red-returns-for-2026/463146/",
+   "https://halfwheel.com/viaje-skull-and-bones-red-heads-to-the-dominican/107408/",
+   "https://halfwheel.com/viaje-little-boy-skull-and-bones/17672/"
+  ],
+  "notes": "Viaje has not disclosed the current blend or factory. The 2011 originals were Nicaraguan puros with a sun grown criollo wrapper, rolled in Honduras; the 2016 run used a Mexican San Andrés wrapper and was made at PDR in the Dominican Republic. Full strength comes from reviews of the early runs, not the current blend.",
+  "verified": true,
+  "verifyNotes": "Notes cut to three sentences and now say plainly that Full comes from early-run reviews. Dropped 'small batches' from about, since recent production numbers are undisclosed."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Wolverine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A Viaje Skull and Bones cigar named after the Marvel character, shipped in August 2025 alongside Logan and Weapon X. The three are different blends in the same size, sold in bundles of 25.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-skull-and-bones-wolverine-logan-and-weapon-x/454003/"
+  ],
+  "notes": "Viaje has not disclosed the blend or where it is made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Logan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A Viaje Skull and Bones cigar named after Wolverine's alter ego, shipped in August 2025 alongside Wolverine and Weapon X. The three are different blends in the same size, sold in bundles of 25.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-skull-and-bones-wolverine-logan-and-weapon-x/454003/"
+  ],
+  "notes": "Viaje has not disclosed the blend or where it is made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Weapon X",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A Viaje Skull and Bones cigar named after the program that created Wolverine in the Marvel comics, shipped in August 2025 alongside Wolverine and Logan. The three are different blends in the same size, sold in bundles of 25.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-skull-and-bones-wolverine-logan-and-weapon-x/454003/"
+  ],
+  "notes": "Viaje has not disclosed the blend or where it is made.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Grand Slam",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (AGANORSA Leaf), type not disclosed",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A trio of Viaje Skull and Bones cigars released in December 2024 as Camo Green, Camo Orange and Camo Yellow. The name comes from a British earthquake bomb used in World War II.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adds-three-lines-to-skull-and-bones-in-grand-slam-release/445308/"
+  ],
+  "notes": "Three separate blends in one size. The Nicaraguan puro blend and Aganorsa factory come from retailer listings reported by halfwheel; Viaje has not confirmed them or said how the three blends differ.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Tsar Bomba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "cream"
+  ],
+  "about": "A trio of Viaje Skull and Bones cigars that arrived quietly at a few stores in December 2023 as Camo Red, Camo Blue and Camo Grey. It is named after the Soviet bomb regarded as the most powerful nuclear weapon ever tested.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-tsar-bomba-arrives-at-select-retailers/432708/",
+   "https://halfwheel.com/viaje-skull-and-bones-tsar-bomba-camo-blue/435083/"
+  ],
+  "notes": "Three separate blends in one size. Viaje has not disclosed the blends or factory; one retailer says they are made at Aganorsa with all AGANORSA Leaf tobacco, which Viaje would not confirm. Strength and tasting notes are from halfwheel's review of the Camo Blue.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Daisy Cutter",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "caramel",
+   "cedar",
+   "cocoa",
+   "espresso",
+   "earth",
+   "black pepper"
+  ],
+  "about": "The cigar that started Viaje's Skull and Bones series in May 2010, a short, thick Nicaraguan puro named after a Vietnam-era bomb. It has come back only a few times, most recently in 2020 and 2024.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-gojira-as-new-line-bringing-back-skull-and-bones-daisy-cutter/443078/",
+   "https://halfwheel.com/viaje-skull-and-bones-daisy-cutter-2020/380232/",
+   "https://halfwheel.com/viaje-skull-and-bones-daisy-cutter/9581/"
+  ],
+  "notes": "The original 2010 run of 150 boxes was rolled at Raíces Cubanas in Honduras. Viaje has not said where the 2020 and 2024 runs were made. Strength and tasting notes are from halfwheel's review of the 2020 run.",
+  "verified": true,
+  "verifyNotes": "Replaced the third source link with halfwheel's canonical URL for the 2010 review."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones M?stery",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo (2022, box-pressed)",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Robusto Gordo (2020, box-pressed)",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Petit Gordo (2018)",
+    "length": 4.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "black pepper",
+   "citrus",
+   "wood"
+  ],
+  "about": "Viaje's secretive Skull and Bones release, usually shipped around October in a different size each time. It began in 2010 as a cigar simply called \"?\" and took the M?stery name in 2012.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-mstery-2022/417149/",
+   "https://halfwheel.com/viaje-skull-and-bones-mstery-2020/384499/",
+   "https://halfwheel.com/viaje-skull-and-bones-mstery-2018/285678/"
+  ],
+  "notes": "Viaje does not disclose the blend or the factory, and the size changes with each release. Strength and tasting notes are from halfwheel's reviews of the 2020 and 2022 releases and may not hold for other years.",
+  "verified": true,
+  "verifyNotes": "Swapped the third source for halfwheel's 2018 review, which is the page that supports the 4 1/2 x 58 petit gordo size."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones MOAB",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Torpedo",
+    "length": 4.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "leather",
+   "espresso",
+   "cinnamon",
+   "black pepper"
+  ],
+  "about": "A short, thick Nicaraguan puro in Viaje's Skull and Bones series, named after the U.S. bomb nicknamed the Mother of All Bombs. It debuted in 2011 and returns every few years, usually with FOAB.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viajes-moab-foab-and-cloudmaker-returning-to-stores-next-week/405025/",
+   "https://halfwheel.com/viaje-cloudmaker-foab-moab-returning-for-2019/296550/",
+   "https://halfwheel.com/viaje-moab-mother-of-all-bombs/9819"
+  ],
+  "notes": "Runs through 2014 were rolled at Raíces Cubanas in Honduras; the 2019 and 2022 runs were made at TABSA in Nicaragua. The size has varied: the 2012 and 2014 runs were about 4 1/2 inches long. Strength and tasting notes are from a review of the 2011 run.",
+  "verified": true,
+  "verifyNotes": "Notes now say the Full strength is also from the 2011 review."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones FOAB",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sun Grown Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "earth",
+   "sweet pepper",
+   "cream"
+  ],
+  "about": "A short, thick Nicaraguan puro in Viaje's Skull and Bones series, named after the Russian bomb nicknamed the Father of All Bombs. It debuted in 2012 and returns every few years, usually with MOAB.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viajes-moab-foab-and-cloudmaker-returning-to-stores-next-week/405025/",
+   "https://halfwheel.com/review-viaje-skull-bones-foab-2014/61542/",
+   "https://halfwheel.com/viaje-cloudmaker-foab-moab-returning-for-2019/296550/"
+  ],
+  "notes": "The 2012 and 2014 runs were rolled at Raíces Cubanas in Honduras; the 2019 and 2022 runs were made at TABSA in Nicaragua. Strength and tasting notes are from halfwheel's review of the 2014 run.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that one retailer lists it as full: no listed source supports it."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Cloudmaker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "red pepper",
+   "wood",
+   "citrus",
+   "toast"
+  ],
+  "about": "The big 5 x 60 member of Viaje's Skull and Bones series, named after the American T-12 Cloudmaker bomb of the 1940s. It debuted in 2014 and came back in 2019 and 2022.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viajes-moab-foab-and-cloudmaker-returning-to-stores-next-week/405025/",
+   "https://halfwheel.com/viaje-skull-bones-cloudmaker/61983",
+   "https://halfwheel.com/viaje-cloudmaker-foab-moab-returning-for-2019/296550/"
+  ],
+  "notes": "Viaje has never disclosed the blend. The 2014 debut was rolled at Raíces Cubanas in Honduras; the 2019 and 2022 runs were made at TABSA in Nicaragua. Strength and tasting notes are from the 2014 run.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones The Punisher",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, type not disclosed",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "black pepper",
+   "vanilla",
+   "earth",
+   "coffee"
+  ],
+  "about": "A Viaje Skull and Bones cigar named after the Marvel vigilante, shipped in April 2021 with its sibling Frank Castle. Both are the same size and were sold in bundles of 25.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-the-punisher/394890/",
+   "https://halfwheel.com/viaje-shipping-skull-and-bones-frank-castle-next-week/392385/"
+  ],
+  "notes": "Viaje calls it a proprietary blend of Nicaraguan tobaccos and has not named the factory. It appears to use a lighter wrapper than Frank Castle. halfwheel's review found it starts mild and builds to full by the end.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones Frank Castle",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, type not disclosed",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Viaje Skull and Bones cigar named after the man behind Marvel's Punisher, shipped in April 2021 with its sibling The Punisher. Both are the same size and were sold in bundles of 25.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-shipping-skull-and-bones-frank-castle-next-week/392385/",
+   "https://halfwheel.com/viaje-skull-and-bones-the-punisher/394890/"
+  ],
+  "notes": "Viaje calls it a proprietary blend of Nicaraguan tobaccos and has not named the factory. It appears to use a darker wrapper than The Punisher.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Senor Andre's Chicharrones",
+  "found": true,
+  "officialName": "Señor Andre's Chicharrones",
+  "wrapperLeaf": "Three blends: Nicaraguan corojo (Original), maduro of undisclosed origin (Bold), Nicaraguan criollo (Spicy)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Viaje sampler-style release of three short robusto blends called Original, Bold and Spicy, packed 30 of each in a 90-count box. It debuted in 2015 and returned in 2018 and 2025.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adding-zombie-biohazard-black-bringing-back-zombie-biohazard-red-and-green-senor-andres-chicharrones/453184/",
+   "https://halfwheel.com/viajes-senor-andres-chicharrones-returns-new-blend-sizes/251920/",
+   "https://halfwheel.com/viaje-senor-andres-chicharrones-original/83862/"
+  ],
+  "notes": "The wrappers, binder, filler and factory listed are from the 2015 and 2018 runs. The 2025 Edición Limitada run has three new blends Viaje has not detailed, and is box-pressed for the first time. The 2015 run was thinner at 4 1/2 x 48.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Summerfest",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro (2020)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro Extra (2022)",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo (2025 Collector's Edition)",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "chocolate",
+   "cedar",
+   "cream",
+   "white pepper"
+  ],
+  "about": "One of Viaje's oldest seasonal releases, shipped in select summers since 2010 and often in a different size. It is known for its brushed foot, where the wrapper stops short and leaves the binder and filler exposed.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-summerfest-collectors-edition-coming-to-stores-this-month/452356/",
+   "https://halfwheel.com/viaje-announces-private-keep-lemon-and-return-of-summerfest-and-birthday-blend/409315/",
+   "https://halfwheel.com/viaje-summerfest-2020/379712/"
+  ],
+  "notes": "The corojo 99 puro blend is from earlier releases; Viaje has not confirmed it for recent years. The 2025 Collector's Edition came in three wrappers (Ecuadorian habano, Mexican maduro, and a barber pole) over Nicaraguan binder and filler. Factory, strength and tasting notes are from the 2020 release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Circa '45",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (AGANORSA Leaf), type not disclosed",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA / Aganorsa Leaf)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "No. 2",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "No. 3",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wood",
+   "citrus",
+   "cream",
+   "caramel",
+   "earth"
+  ],
+  "about": "A Viaje line named for 1845, the year the Partagás factory was founded in Havana. It began in 2016 as a European exclusive, reached U.S. stores in 2020 and returned in 2025.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-shipping-wlp-path-of-totality-circa-45-this-week/451706/",
+   "https://halfwheel.com/viaje-bringing-circa-45-to-u-s-updates-oro-reserva-5-packaging/373748/",
+   "https://www.cigaraficionado.com/ratings/23748/name/viaje-circa-45-no-2-toro"
+  ],
+  "notes": "Viaje calls it a Nicaraguan puro, but Cigar Aficionado lists the wrapper as Ecuadorian and has rated it both medium and medium-full. The 2016 European version was made at PDR in the Dominican Republic. The Maduro and Reserva versions are different blends.",
+  "verified": true,
+  "verifyNotes": "Flavors corrected: white pepper and toast are not in either Cigar Aficionado tasting note, so replaced with caramel and earth, which are. Notes cut from four sentences to three."
+ }
+]

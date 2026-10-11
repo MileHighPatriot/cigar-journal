@@ -1,0 +1,792 @@
+[
+ {
+  "brand": "Viaje",
+  "line": "Circa '45 Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (AGANORSA)",
+  "filler": "Nicaragua (AGANORSA)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa Leaf)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "No. 2",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "No. 3",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "cedar",
+   "espresso",
+   "earth",
+   "wood",
+   "black pepper"
+  ],
+  "about": "A version of Viaje's Circa '45 that swaps the Nicaraguan wrapper for Mexican San Andrés over Aganorsa-grown Nicaraguan binder and filler. It shipped in February 2021 with 300 boxes of each of three sizes.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-circa-45-limited-edition-reserva-in-february/387011/",
+   "https://halfwheel.com/viaje-circa-45-reserva-edicion-limitada/391951/",
+   "https://blindmanspuff.com/?p=48403"
+  ],
+  "notes": "A fourth size, the 7 x 50 Reserva Edición Limitada, shipped unannounced in bundles of 25. Reviewers found it medium or just under, with little of the pepper Viaje is known for.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "WLP Path of Totality",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed toro in Viaje's White Label Project series with a Mexican San Andrés wrapper over Nicaraguan binder and filler. It shipped in May 2025.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-shipping-wlp-path-of-totality-circa-45-this-week/451706/"
+  ],
+  "notes": "Viaje declined to say which factory makes it. Production appears to be 200 boxes of 30. No published strength rating or tasting notes from a trusted source.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "WLP Blunderbuss",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 56 White Label Project release from Viaje with a corojo 99 wrapper. It shipped in August 2024, more than a year after the cigars were rolled.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adds-blunderbuss-and-dark-matter-to-wlp-series/441762/",
+   "https://cigar-coop.com/2024/08/viaje-releases-trio-of-wlp-cigars-cigar-news.html"
+  ],
+  "notes": "Viaje disclosed only the wrapper: binder, filler, wrapper origin and factory are not published. Box labels show the cigars were rolled in May 2023. Limited to 200 boxes of 25.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "WLP Dark Matter",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 56 White Label Project release from Viaje with a Mexican San Andrés maduro wrapper. It shipped in August 2024 alongside Blunderbuss, after more than a year of rest.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adds-blunderbuss-and-dark-matter-to-wlp-series/441762/",
+   "https://cigar-coop.com/2024/08/viaje-releases-trio-of-wlp-cigars-cigar-news.html"
+  ],
+  "notes": "Viaje disclosed only the wrapper: binder, filler and factory are not published. Box labels show the cigars were rolled in May 2023. Limited to 200 boxes of 25.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "WLP Szivar EL",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto (box-pressed)",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed robusto in Viaje's White Label Project series that went to select retailers in August 2024. The name appears to come from the Hungarian word for cigar.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-wlp-szivar-el-heading-to-select-retailers/441912/",
+   "https://cigar-coop.com/2024/08/viaje-releases-trio-of-wlp-cigars-cigar-news.html"
+  ],
+  "notes": "The blend and factory are not disclosed: even Viaje's own representative said he knew nothing about it. EL appears to stand for Edición Limitada. Sold in boxes of 25 to Viaje's preferred retailers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "WLP Mofongo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "peanuts",
+   "cedar",
+   "toasted bread",
+   "espresso",
+   "earth",
+   "leather"
+  ],
+  "about": "A 6 x 52 toro in Viaje's White Label Project series, named for the Caribbean mashed plantain dish. It was one of the first Viaje cigars made at Tabacalera La Isla in the Dominican Republic.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-wlp-mofongo/424163/",
+   "https://halfwheel.com/viaje-works-with-tabacalera-la-isla-for-new-beginnings-mofongo/419820/"
+  ],
+  "notes": "Limited to 300 boxes of 25 (7,500 cigars), shipped February 2023. A departure for Viaje, which usually works with Aganorsa in Nicaragua or Raíces Cubanas in Honduras.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "WLP Amuse-Bouche II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa Leaf)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black pepper",
+   "coffee",
+   "earth",
+   "oak",
+   "red pepper"
+  ],
+  "about": "A small 4 1/2 x 48 White Label Project cigar from Viaje, the follow-up to the 2020 Amuse-Bouche. It swaps the original's Nicaraguan habano wrapper for Mexican San Andrés.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-wlp-amuse-bouche-ii/407906/",
+   "https://halfwheel.com/viajes-amuse-bouche-ii-carolina-reapers-head-to-stores/404531/"
+  ],
+  "notes": "Limited to 300 boxes of 25, shipped January 2022. The original Amuse-Bouche (2020) was an all-Nicaraguan blend in the same size.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "WLP Banner / The Hulk",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Criollo and candela (barber pole double wrapper)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5.25,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "bread",
+   "earth",
+   "black pepper",
+   "cream",
+   "cinnamon",
+   "grass"
+  ],
+  "about": "A barber pole cigar in Viaje's White Label Project series that pairs a criollo wrapper with green candela. The two leaves stand for Bruce Banner turning into the Hulk.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-wlp-banner-the-hulk/394502/",
+   "https://halfwheel.com/viaje-shipping-wlp-banner-the-hulk/392801/"
+  ],
+  "notes": "Two wrappers, so no single wrapper category applies. Viaje told retailers the pair is criollo and candela but disclosed no binder, filler, factory or country. halfwheel found the strength building from medium-full to full.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences and said where the criollo and candela description comes from (halfwheel's own spec table lists the wrapper as undisclosed)."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Fifteen Plus Two and a Half Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo (Silver and Gold), Nicaraguan Corojo (Red)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf (Estelí)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "coffee",
+   "wood",
+   "cream"
+  ],
+  "about": "A set of box-pressed toros marking Viaje's 17 1/2 years in business, told apart by the color of the foot ribbon. Silver, Gold and Red are all-Nicaraguan blends made by Aganorsa Leaf.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-celebrating-17-1-2-year-anniversary-with-three-new-cigars/447290/",
+   "https://www.cigaraficionado.com/article/a-trio-of-anniversary-cigars-from-viaje",
+   "https://halfwheel.com/viaje-fifteen-plus-two-and-a-half-anniversary-black/451485/"
+  ],
+  "notes": "Silver and Gold wear criollo, Red wears corojo, and a pricier Black has an undisclosed blend. Viaje calls them full-bodied, but halfwheel found the Black only about medium in strength. Flavor notes are from that Black review.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Strength Full rests on Viaje's own 'full-bodied' wording, not a measured rating."
+ },
+ {
+  "brand": "Viaje",
+  "line": "15th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98 (Jalapa)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (AGANORSA)",
+  "filler": "Nicaragua (AGANORSA)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf (Agricola Ganadera Norteña S.A., Estelí)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Torpedo (2022)",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto (Pt. II, 2023)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "earth",
+   "red pepper",
+   "cocoa",
+   "coffee"
+  ],
+  "about": "Viaje's 15th anniversary cigars, made by Aganorsa Leaf as three Nicaraguan puro blends called Silver, Gold and Black. They came out as torpedoes in 2022 and returned in 2023 as perfectos packed in ceramic jars.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-re-releasing-15th-anniversary-next-month/428935/",
+   "https://halfwheel.com/viaje-celebrating-15-years-with-three-anniversary-cigars/412872/",
+   "https://halfwheel.com/viaje-15th-anniversary-gold-pt-ii/431072/"
+  ],
+  "notes": "Viaje has not said how Silver, Gold and Black differ. The criollo 98 wrapper is confirmed only for the 2023 remake, called 15th Anniversary Pt. II (315 jars of 24 per blend). halfwheel found the Gold Pt. II finishing full in strength.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Honey & Hand Grenades",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf (Estelí)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Shank",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "The Shiv",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "The Rapier",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "wood",
+   "cereal"
+  ],
+  "about": "A Nicaraguan puro from Viaje in an unusual shape, with a rounded cap and a tapered perfecto foot wrapped in red foil. The sizes are named after blades and it comes back in occasional batches.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-honey-hand-grenades-gets-2025-release/448161/",
+   "https://halfwheel.com/review-viaje-honey-hand-grenades-rapier/31171/",
+   "https://www.cigaraficionado.com/article/viaje-honey-and-hand-grenades-gets-medieval-with-falchion"
+  ],
+  "notes": "The 2012 original was rolled at Raíces Cubanas in Honduras. Cigar Aficionado reported in 2023 that Aganorsa Leaf in Estelí now makes the line. Released in 2012, 2013, 2016, 2019 and 2025, with limited Katana (7 x 48) and Falchion (6 x 54) sizes.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences. Country and factory follow Cigar Aficionado's 2023 report; halfwheel has not restated the factory for the 2025 batch."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Honey & Hand Grenades Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "The Shank",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "The Shiv",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "The Rapier",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "cream",
+   "wood"
+  ],
+  "about": "The maduro version of Viaje's Honey & Hand Grenades, which trades the Nicaraguan criollo wrapper for Mexican San Andrés. It keeps the rounded cap, tapered foot and red foil of the original.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-honey-hand-grenades-maduro-the-shiv/399602/",
+   "https://halfwheel.com/viaje-honey-hand-grenades-maduro-shipping-this-month/393700/"
+  ],
+  "notes": "Viaje declined to disclose the binder, filler, factory or country of origin. The three sizes come from retailer listings and match the original line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Craft Series Roots",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Brazil, United States",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "coffee",
+   "cream",
+   "white pepper",
+   "toast"
+  ],
+  "about": "The sixth release in Viaje's craft beer inspired Craft Series, a 6 x 52 toro made at Joya de Nicaragua. The name nods to Viaje's start, since Joya made the company's first cigars in 2007 and 2008.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-roots/445498/",
+   "https://halfwheel.com/viaje-announces-roots-as-sixth-craft-series-release/441542/"
+  ],
+  "notes": "Sold in 10-count boxes with a silver foil sleeve over most of the cigar. halfwheel found the strength building from medium-full to very strong by the end.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Craft Series New Beginnings",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (including piloto and HVA)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The fifth release in Viaje's Craft Series, a 6 x 52 toro with a Mexican San Andrés wrapper over Dominican binder and filler. It was among the first Viaje cigars made at Tabacalera La Isla in Santiago.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-works-with-tabacalera-la-isla-for-new-beginnings-mofongo/419820/",
+   "https://cigar-coop.com/2023/02/cigar-news-viaje-craft-series-new-beginnings-announced.html"
+  ],
+  "notes": "Sold in 10-count boxes, shipped February 2023. No published strength rating or tasting notes from a trusted source.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Craft Series Layer Cake",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa Leaf)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cream",
+   "white pepper",
+   "toast",
+   "earth",
+   "black pepper"
+  ],
+  "about": "The fourth release in Viaje's Craft Series, a 6 x 54 Nicaraguan puro made by Aganorsa Leaf. It is creamier and lighter than a typical Viaje.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-layer-cake/401687/"
+  ],
+  "notes": "Sold in 10-count boxes with a silver foil sleeve over most of the cigar. Shipped July 2021.",
+  "verified": true,
+  "verifyNotes": "Removed 'box-pressed' from the size name and the about text: neither halfwheel page nor Cigar Coop describes Layer Cake as box-pressed."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Gojira",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black pepper",
+   "wood",
+   "earth",
+   "cream",
+   "wheat"
+  ],
+  "about": "A 6 x 54 toro Viaje introduced in September 2024, apparently named after the Japanese name for Godzilla. It is packed two cigars to a coffin, 13 coffins to a box.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-gojira/445360/",
+   "https://halfwheel.com/viaje-announces-gojira-as-new-line-bringing-back-skull-and-bones-daisy-cutter/443078/"
+  ],
+  "notes": "Viaje has not disclosed the wrapper, binder, filler, factory or country. halfwheel found it about medium in strength for most of the smoke, then full at the finish.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Stuffed Turkey White Meat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (AGANORSA)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "wood",
+   "white pepper",
+   "black pepper",
+   "earth"
+  ],
+  "about": "Viaje's Thanksgiving cigar, a thick 5 x 58 robusto gordo with a Nicaraguan criollo wrapper. It began in 2011 as a White Label Project release and got its own bands and boxes in 2014.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-stuffed-turkeys-mrs-hatchet-for-2024/444834/",
+   "https://halfwheel.com/viaje-ships-2018-stuffed-turkey/284690/",
+   "https://halfwheel.com/viaje-stuffed-turkey-white-meat-2014/75026/"
+  ],
+  "notes": "Seasonal: lately shipped in even-numbered years. Raíces Cubanas in Honduras was the stated factory through 2018; Viaje has not confirmed the factory for later batches. The White Meat name dates to 2012, when Dark Meat was added.",
+  "verified": true,
+  "verifyNotes": "No change. Strength left null: the only rating found is Cigar Coop's 2014 review (medium to full), and Viaje publishes none."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Stuffed Turkey Dark Meat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (AGANORSA)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "chocolate",
+   "leather",
+   "coffee",
+   "nuts"
+  ],
+  "about": "The maduro version of Viaje's Thanksgiving cigar, a 5 x 58 robusto gordo with a Mexican San Andrés wrapper over Nicaraguan binder and filler. It was added in 2012 alongside the original, now called White Meat.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-stuffed-turkeys-mrs-hatchet-for-2024/444834/",
+   "https://halfwheel.com/review-viaje-wlp-stuffed-turkey-dark-meat-2013/43581/",
+   "https://blindmanspuff.com/?p=35043"
+  ],
+  "notes": "Seasonal: lately shipped in even-numbered years. Raíces Cubanas in Honduras was the stated factory through 2018; Viaje has not confirmed the factory for later batches. Reviewers found it medium early, building to medium-full.",
+  "verified": true,
+  "verifyNotes": "Added a note that the Medium-Full strength is the late-smoke reading: Blind Man's Puff called it mostly medium and Cigar Coop rated the 2014 batch medium."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Mrs. Hatchet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed 6 x 50 toro in Viaje's Thanksgiving family of cigars, a companion to Farmer Bill Hatchet. It debuted in November 2021 and returned in 2024.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-releasing-stuffed-turkeys-mrs-hatchet-for-2024/444834/",
+   "https://halfwheel.com/viaje-bringing-back-zombie-farmer-bill-hatchet-adds-mrs-hatchet/401895/",
+   "https://cigar-coop.com/2021/11/cigar-news-viaje-introduces-mrs-hatchet-brings-back-zombie-farmer.html"
+  ],
+  "notes": "Viaje declined to disclose the blend or factory, and no wrapper has been named. Cigar Coop reported that Viaje called it 100 percent Nicaraguan tobacco. Sold in boxes of 10; a separate Zombie Mrs. Hatchet came out in 2022.",
+  "verified": true,
+  "verifyNotes": "Added the Cigar Coop article the notes cite and trimmed notes to three sentences."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Farmer Bill Hatchet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo (AGANORSA)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Handle (box-pressed Churchill)",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cinnamon",
+   "cocoa",
+   "leather",
+   "coffee",
+   "nuts"
+  ],
+  "about": "A box-pressed 7 x 52 Nicaraguan puro from Viaje's Thanksgiving lineup, named for the farmer who gets the Stuffed Turkey to the table. It debuted in 2014 and returns in some Novembers.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-farmer-bill-hatchet-and-stuffed-turkeys-returning-this-month/383249/",
+   "https://halfwheel.com/viaje-farmer-bill-hatchet-handle/74897/"
+  ],
+  "notes": "The cigar's full name is Farmer Bill Hatchet Handle. Viaje has not published the factory or country. Zombie Farmer Bill Hatchet and the Holiday Edition are separate cigars.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes to three sentences."
+ }
+]

@@ -1,0 +1,690 @@
+[
+ {
+  "brand": "Cavalier Genève",
+  "line": "Inner Circle",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras (Habano, Jamastran Valley)",
+  "filler": "Dominican Republic (Piloto), Honduras (Broadleaf, Jamastran Valley), Nicaragua (Habano, Jalapa), USA (Pennsylvania)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Figurado",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "nuts",
+   "cedar",
+   "black pepper",
+   "hay"
+  ],
+  "about": "A regular production line from Cavalier Genève, launched in 2022 as a tribute to the people who helped build the brand. It is rolled at the company's own factory in Danli, Honduras, and does not carry the gold diamond found on most Cavalier cigars.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/inner-circle-by-cavalier-geneve-petit-robusto/414479/",
+   "https://cigar-coop.com/2024/10/inner-circle-toro-by-cavalier-geneve-cigar-review.html",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-cavalier-geneve-inner-circle-toro/"
+  ],
+  "notes": "halfwheel rated the Petit Robusto medium-plus in strength and medium-full in body. Cigar Coop and Developing Palates found the Toro lighter, around medium or just under.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that this was the first Cavalier cigar without the gold diamond: This Blend Is Undisclosed was announced two months earlier without it. Swapped the halfwheel news link for the Developing Palates Toro review that the notes cite. Blend, sizes, factory and strength confirmed."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Domaine Rouge",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano Viso (Jamastran Valley)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Connecticut seed)",
+  "filler": "Honduras (Habano, Jamastran Valley), Nicaragua (Habano, Jalapa), Paraguay",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Figurado",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "oak",
+   "cream",
+   "bread",
+   "cinnamon",
+   "white pepper"
+  ],
+  "about": "The second line in Cavalier Genève's Inner Circle family, released in 2023 as a tribute to founder Sébastien Decoppet's late father, Pascal. The winery-style packaging nods to the wine and cigars the two enjoyed together.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/domaine-rouge-by-cavalier-geneve-debuting-at-pca-2023/424447/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-cavalier-geneve-inner-circle-domaine-rouge-toro/",
+   "https://blindmanspuff.com/cavalier-geneve-inner-circle-domaine-rouge-figurado-blind-cigar-review/"
+  ],
+  "notes": "Sold as Domaine Rouge by Cavalier Genève and part of the Inner Circle family, so some sites call it Inner Circle Domaine Rouge. Strength comes from two review panels, not the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Tres Delincuentes Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Habano), Dominican Republic (Piloto), Honduras (Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut version of Tres Delincuentes, a lower-priced Cavalier Genève brand launched in 2023 in three wrapper options. Each blend is tied to one of the company's three principals, and this one carries sales director Brian Motola's portrait on the box lid.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-launching-tres-delincuentes-at-tpe-2023/417952/",
+   "https://www.cigaraficionado.com/article/cavalier-geneve-to-debut-tres-delincuentes-at-upcoming-trade-show",
+   "https://cigar-coop.com/2023/01/cigar-news-cavalier-geneve-to-debut-tres-delincuentes-at-tpe-2023.html"
+  ],
+  "notes": "No published strength rating was found. The name comes from a 1996 Delinquent Habits song.",
+  "verified": false,
+  "verifyNotes": "No field changed. Wrapper, binder, filler, sizes, country and factory confirmed on halfwheel, Cigar Aficionado and Cigar Coop. Strength stays null: none of the pages opened gives one. The maker's site sits behind an age gate that was not passed, so it could not be confirmed that Cavalier publishes no strength."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Tres Delincuentes Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Habano), Dominican Republic (Piloto), Honduras (Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "hay",
+   "toast"
+  ],
+  "about": "The Habano version of Tres Delincuentes, a lower-priced Cavalier Genève brand launched in 2023 in three wrapper options. Each blend is tied to one of the company's three principals, and this one carries Eylin Decoppet's portrait on the box lid.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-launching-tres-delincuentes-at-tpe-2023/417952/",
+   "https://cigar-coop.com/2023/01/cigar-news-cavalier-geneve-to-debut-tres-delincuentes-at-tpe-2023.html",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-cavalier-geneve-tres-delincuentes-habano-robusto/"
+  ],
+  "notes": "Sources disagree on the binder: halfwheel and Cigar Aficionado say Ecuadorian Habano for all three blends, while Cigar Coop and Developing Palates list a Honduran Connecticut-seed binder for the Habano. Strength is from the Developing Palates review panel.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Tres Delincuentes Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Habano), Dominican Republic (Piloto), Honduras (Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Maduro version of Tres Delincuentes, a lower-priced Cavalier Genève brand launched in 2023 in three wrapper options. Each blend is tied to one of the company's three principals, and this one carries founder Sébastien Decoppet's portrait on the box lid.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-launching-tres-delincuentes-at-tpe-2023/417952/",
+   "https://www.cigaraficionado.com/article/cavalier-geneve-to-debut-tres-delincuentes-at-upcoming-trade-show",
+   "https://cigar-coop.com/2023/01/cigar-news-cavalier-geneve-to-debut-tres-delincuentes-at-tpe-2023.html"
+  ],
+  "notes": "Sources disagree on the binder: halfwheel and Cigar Aficionado say Ecuadorian Habano for all three blends, while Cigar Coop lists a Honduran Connecticut-seed binder for the Maduro. No published strength rating was found.",
+  "verified": false,
+  "verifyNotes": "No field changed. Wrapper, sizes, country and factory confirmed on halfwheel, Cigar Aficionado and Cigar Coop; the binder disagreement is real. Strength stays null: none of the pages opened gives one. The maker's site sits behind an age gate that was not passed, so it could not be confirmed that Cavalier publishes no strength."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Prospektor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa Viso, two wrappers in a barber pole",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Honduras, Nicaragua, Paraguay",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A barber pole cigar from Cavalier Genève that began in 2019 as a store exclusive for Underground Cigar Shop in Fort Worth. It came back in 2021 with a new blend as a 6 x 54 sold nationwide.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-makes-prospektor-regular-production-item/395713/",
+   "https://halfwheel.com/cavalier-geneve-prospektor-returns-for-2025/457099/",
+   "https://www.neptunecigar.com/cigar/cavalier-geneve-prospektor"
+  ],
+  "notes": "The blend listed is the 6 x 54 that went nationwide in 2021; a separate Limited Release Prospektor 2025 (4 3/4 x 58, 500 boxes of 15) uses Jalapa and Jamastran wrappers. halfwheel called it regular production in 2021 but a limited release in 2025. Strength is one retailer's rating (Neptune).",
+  "verified": true,
+  "verifyNotes": "Set production to null: halfwheel's 2021 article calls the 6 x 54 regular production, its 2025 article says Prospektor remains a limited release, and Neptune still stocks the 6 x 54. Rewrote notes to say so. Strength Full rests on Neptune alone; no second source was found."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Project Broadleaf Skywalker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Skywalker",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "oak",
+   "cocoa",
+   "black pepper",
+   "leather",
+   "nuts"
+  ],
+  "about": "The first of four blends in Cavalier Genève's Project Broadleaf series, each built around a long-fermented Connecticut broadleaf wrapper. It debuted in April 2025 and returned in 2026 with the same blend and size.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-announces-project-broadleaf-first-release-slated-for-june/449067/",
+   "https://halfwheel.com/cavalier-geneves-project-broadleaf-skywalker-returns-for-2026/473268/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-cavalier-geneve-project-broadleaf-skywalker/"
+  ],
+  "notes": "One blend in the Project Broadleaf series. Limited to 100 boxes of 50 in 2025 and 200 boxes of 50 in 2026. Neptune lists the series as full strength, while the Developing Palates panel found it medium to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Project Broadleaf Boartamer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Boartamer",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "oak",
+   "earth",
+   "cocoa",
+   "black pepper",
+   "baking spice",
+   "cedar"
+  ],
+  "about": "The second blend in Cavalier Genève's Project Broadleaf series, shipped in June 2025 in 10-count bundles. It pairs a Connecticut broadleaf wrapper with a Jalapa binder.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-shipping-project-broadleaf-boartamer-this-week/452452/",
+   "https://halfwheel.com/cavalier-geneves-project-broadleaf-skywalker-returns-for-2026/473268/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-cavalier-geneve-project-broadleaf-boartamer/"
+  ],
+  "notes": "One blend in the Project Broadleaf series, limited to 500 bundles of 10. It is the only Project Broadleaf blend Cavalier chose not to bring back in 2026. Strength and body come from the Developing Palates panel, which put it between medium and medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Project Broadleaf Wayfinders",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Honduras (Jamastran Valley)",
+  "filler": "Honduras, India, Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "A",
+    "length": 9,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "oak",
+   "earth",
+   "cocoa",
+   "cedar",
+   "baking spice",
+   "cream"
+  ],
+  "about": "The third blend in Cavalier Genève's Project Broadleaf series and the only one sold in two sizes, including a 9-inch A. It shipped in October 2025 in 10-count boxes with a broadleaf wrapper aged five years.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-shipping-project-broadleaf-wayfinders-this-week/455141/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-cavalier-geneve-project-broadleaf-wayfinders-toro/",
+   "https://www.neptunecigar.com/cigar/cavalier-project-broadleaf"
+  ],
+  "notes": "One blend in the Project Broadleaf series, returning for 2026. Neptune lists the series as full strength, while the Developing Palates panel found the Robusto Extra about medium. The filler includes tobacco from India.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Project Broadleaf Cowrider",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Connecticut Shade",
+  "filler": "Honduras, Indonesia, Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The fourth and final 2025 blend in Cavalier Genève's Project Broadleaf series, inspired by founder Sébastien Decoppet's home country of Switzerland. It shipped in November 2025 in 10-count bundles.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-ships-project-broadleaf-cowrider/456683/",
+   "https://halfwheel.com/cavalier-geneves-project-broadleaf-skywalker-returns-for-2026/473268/",
+   "https://www.neptunecigar.com/cigar/cavalier-project-broadleaf"
+  ],
+  "notes": "One blend in the Project Broadleaf series, limited to 500 bundles of 10 in 2025 and due back in 2026. Neptune lists it as full, but it gives every Project Broadleaf blend that rating and reviews of the other blends came in lower, so strength is left blank. The wrapper is more than five years old.",
+  "verified": false,
+  "verifyNotes": "Corrected notes: Neptune rates this cigar itself (listed as #4, 6 1/2 x 50) as full, not just the series. Strength left null because that blanket retailer rating is the only one found and reviews contradict it for the sibling blends. Wrapper, binder, filler, size, country and factory confirmed on halfwheel."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Project 10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano (Jamastran Valley), in Claro and Oscuro versions",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Habano, Jalapa)",
+  "filler": "Honduras (Copán, Jamastran Valley, Broadleaf), Nicaragua (Estelí, Jalapa), India, Paraguay",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "cream",
+   "nuts",
+   "leather",
+   "black pepper"
+  ],
+  "about": "Cavalier Genève's 10th anniversary cigar, built from 10 tobaccos: a wrapper, a binder and eight fillers. It comes in one size with two wrapper shades of the same Honduran habano leaf, packed seven of each in a 14-count box.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-celebrates-10th-anniversary-with-10-tobacco-blend/465251/",
+   "https://halfwheel.com/cavalier-geneve-project-10th-anniversary-claro/478793/",
+   "https://halfwheel.com/pca-2026-cavalier-geneve/465260/"
+  ],
+  "notes": "Not a numbered limited edition, but Cavalier only takes orders through the end of 2026 and then discontinues it. Claro and Oscuro are not sold separately. halfwheel rated the Claro medium in strength, rising late.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that Neptune lists it as medium to full: Neptune's page says Medium. Production kept as regular because halfwheel's spec table says so, though its review text and Neptune call it limited."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Small Batch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran (Jamastran)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua, Paraguay",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomónes",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "Two hard-to-roll sizes, a lancero and a salomon, sharing a new blend that Cavalier Genève introduced in 2026. They replaced the older Small Batch cigars, which were limited sizes of the Black Series II and White Series.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-revamping-small-batch-series/465555/",
+   "https://halfwheel.com/cavalier-geneve-ships-new-small-batch-lancero-salomones/480739/",
+   "https://cigardojo.com/2026/03/cavalier-geneve-overhauls-small-batch-strategy-for-2026/"
+  ],
+  "notes": "Before 2026, Small Batch meant lancero and salomones sizes of Black Series II and White Series, now discontinued. The new blend shipped September 30, 2026, and no strength is published. Small Batch is also the umbrella for Project Broadleaf and Project 10th Anniversary.",
+  "verified": false,
+  "verifyNotes": "Removed the unsupported statement that the Small Batch name dates to about 2020; the earliest page opened that uses it is from June 2021. Wrapper, binder, filler, sizes, country and factory confirmed on halfwheel and Cigar Dojo. Strength stays null: no page opened gives one. The maker's site sits behind an age gate that was not passed, so it could not be confirmed that Cavalier publishes no strength."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Limited Edition 2026",
+    "length": 6.5,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "black pepper",
+   "bread",
+   "cedar",
+   "cream",
+   "nuts"
+  ],
+  "about": "Cavalier Genève's annual limited release, made every year since 2018 with a new blend that is never repeated. Recent editions run 1,948 boxes of 10, a nod to the melting point of gold in degrees Fahrenheit.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-limited-edition-2026-announced-trio-of-project-broadleaf-blends-returning/466975/",
+   "https://halfwheel.com/cavalier-geneve-limited-edition-2026/480578/",
+   "https://www.neptunecigar.com/cigar/cavalier-geneve-le-2026"
+  ],
+  "notes": "Cavalier no longer discloses the blend, which changes every year, and the size often changes too. Strength, body and flavors here describe the 2026 edition (6 1/2 x 47) only. The 2025 edition was 6 1/4 x 50.",
+  "verified": true,
+  "verifyNotes": "Reworded notes: the size does not change every year (2020 to 2023 were all 6 x 54), and the blend was disclosed for early editions. Undisclosed wrapper confirmed on halfwheel and Neptune; country and strength confirmed."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "The Green Jacket",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Jalapa)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "USA (Connecticut)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   }
+  ],
+  "flavors": [],
+  "about": "A yearly golf-themed limited release timed to The Masters, started in 2024 as a single-store cigar for The Vault in Meridian, Idaho. Each 11-count box holds 10 of that year's Churchill plus one preview of the next year's blend.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-the-green-jacket-2026-shipping-next-week/463058/",
+   "https://halfwheel.com/cavalier-geneves-the-green-jacket-returning-in-2025/444432/",
+   "https://www.neptunecigar.com/cigar/cavalier-geneve-the-green-jacket"
+  ],
+  "notes": "The blend changes every year; the one listed is 2026, and its strength is Neptune's rating. The 2025 edition used a Honduran Jamastran claro wrapper, a Honduran habano binder and Honduran, Indonesian, Nicaraguan and Paraguayan filler. Sold by pre-order only.",
+  "verified": true,
+  "verifyNotes": "Corrected the 2025 description in notes: halfwheel gives a Honduran habano binder, not a Jamastran binder, and trimmed the notes. Neptune names a different factory (CACSA); halfwheel's Fábrica Centroamericana de Tabaco S.A. is kept."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "US Regional Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras (Connecticut seed)",
+  "filler": "Dominican Republic, Honduras, Nicaragua, USA",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "nuts",
+   "toast",
+   "leather",
+   "chocolate"
+  ],
+  "about": "A San Andrés-wrapped line that Cavalier Genève sells only in the United States. It replaced the older USA Exclusive in December 2022 with a new blend and new packaging, and carries the brand's gold diamond on the wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-remakes-us-regional-exclusive/416940/",
+   "https://halfwheel.com/cavalier-geneve-us-regional-exclusive-petit-robusto/421907/"
+  ],
+  "notes": "Formerly called USA Exclusive. Only the wrapper carried over from the old blend, so retailer pages still describing a Brazilian binder refer to the earlier version. halfwheel rated the Petit Robusto medium to medium-plus in strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "This Blend Is Undisclosed",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "An event-only cigar from Cavalier Genève, announced in May 2022 and sold in 10-count bundles at stores hosting Cavalier events. As the name says, the company does not disclose the blend.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-adds-this-blend-is-undisclosed/408640/",
+   "https://blindmanspuff.com/cavalier-geneve-event-exclusive-cigar-cigar-news/"
+  ],
+  "notes": "The blend is secret, and no source names the factory or a strength for this cigar. It is only offered at Cavalier Genève store events and does not carry the gold diamond.",
+  "verified": false,
+  "verifyNotes": "No field changed. Size, bundle count, event-only status and the undisclosed blend confirmed on halfwheel and Blind Man's Puff. Country, factory and strength stay null: neither page gives them for this cigar. The maker's site sits behind an age gate that was not passed, so it could not be confirmed that Cavalier publishes no strength."
+ }
+]

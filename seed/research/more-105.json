@@ -1,0 +1,768 @@
+[
+ {
+  "brand": "Definition",
+  "line": "GEN 413",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano-Broadleaf hybrid",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua (Condega, Ometepe, Pueblo Nuevo, Masatepe Chincagre)",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Super Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "A collaboration between Definition founder Jamond Hackley and Luciano Meirelles, rolled at the Luciano Cigars factory in Esteli. It debuted at the 2023 PCA show in one size and gained a toro and a lancero in 2024.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/gen-413-toro/",
+   "https://halfwheel.com/definition-cigars-adding-lancero-toro-vitolas-to-genesis-line-at-pca-2024/434842/",
+   "https://halfwheel.com/pca-2023-definition-cigars/425631/"
+  ],
+  "notes": "First announced as Genesis, then renamed GEN413. The wrapper is an Ecuadorian broadleaf hybrid that the maker writes as Habano-Ecuador Broadleaf. The maker describes it as medium bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Definition",
+  "line": "GEN 413 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano-Broadleaf hybrid)",
+  "filler": "Nicaragua (Condega, Ometepe, Pueblo Nuevo, Masatepe Chincagre)",
+  "country": "Nicaragua",
+  "factory": "Luciano Tabacos S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A follow-up to the GEN 413 made with Luciano Meirelles that swaps the original's wrapper and binder, putting San Andrés on the outside. It was introduced at the 2025 PCA show.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2025-definition-cigars/450877/",
+   "https://definitioncigars.com/product/gen-413-maduro-toro/"
+  ],
+  "notes": "The maker's page reuses the original GEN 413 text, so its summary line shows the old wrapper and binder and the medium-bodied rating is carried over. Its blend section and halfwheel both give San Andrés over the Ecuadorian hybrid binder. The 6 x 54 size is from halfwheel.",
+  "verified": true,
+  "verifyNotes": "Notes reworded to say the medium rating comes from text the maker reused from the original GEN 413 page."
+ },
+ {
+  "brand": "Definition",
+  "line": "Prolific",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sublime (box pressed)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "One of Definition's earliest blends, a box-pressed Ecuadorian Habano over Nicaraguan tobacco released in fall 2019. It was the company's first cigar that was not a maduro.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/prolific-bp/",
+   "https://definitioncigars.com/product/prolific-maduro/"
+  ],
+  "notes": "Sold on the maker's site as Prolific BP (box pressed). The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "Prolific Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "espresso",
+   "spice",
+   "cream",
+   "sweetness"
+  ],
+  "about": "A San Andrés maduro version of Definition's Prolific, planned for the company's seven-year anniversary in January 2026 and pushed back by production timing. The maker says it is a step up in strength from the Habano original.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/prolific-maduro/"
+  ],
+  "notes": "The maker has not published the binder, filler, size or a strength rating for this one.",
+  "verified": true,
+  "verifyNotes": "About reworded: the maker says the launch was pushed back but gives no later date. Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "The Chairman",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sublime",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan puro that Definition positions at the top of its lineup, released in spring 2022. The maker rates it medium-plus to full.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/the-chairman/"
+  ],
+  "notes": "The maker gives the wrapper only as Nicaragua, with no leaf type. The 6.5 x 54 is sold as The Chairman Toro.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "Defigero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sublime",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan puro built around aged ligero leaf, which is where the name comes from (Definition plus ligero). Definition calls it the strongest cigar it makes and says it burns slowly.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/defigero/"
+  ],
+  "notes": "Pronounced Deaf-A-Hairo. The maker calls it its strongest offering but files it under both Medium and Full Bodied in its shop.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "919 Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Super Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "A blend first rolled for a private celebration on September 19, 2020, with no plan to sell it. Feedback from the guests led Definition to release it to the market that winter.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/919-habano/",
+   "https://halfwheel.com/pca-2023-definition-cigars/425631/"
+  ],
+  "notes": "Part of the 919 Series. The maker dates the release to winter 2020/2021 and does not publish a strength rating.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "919 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Super Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro version of Definition's 919, using an Ecuadorian maduro wrapper in place of the Habano. The 919 name marks the September 19, 2020 celebration the blend was first made for.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/919-maduro/",
+   "https://definitioncigars.com/product/919-maduro-bp-lancero/"
+  ],
+  "notes": "The maker's page lists the filler as Nicaragua in one place and Nicaragua and Honduras in another. No strength rating or release year is published for the Maduro.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "The Goods",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Salomon",
+    "length": 7.25,
+    "ring": 57
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed salomon from Definition, named because the shape looks like a baseball bat. It was released in summer 2021 and comes in boxes of 10.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/the-goods/"
+  ],
+  "notes": "The maker does not publish a strength rating or the factory.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "The Goods Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Salomon",
+    "length": 7.25,
+    "ring": 57
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro version of The Goods, a box-pressed salomon shaped like a baseball bat. Definition released it in summer 2024 and sells it in boxes of 10.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/the-goods-maduro/"
+  ],
+  "notes": "Strength comes from the maker's shop, which files it under Full Bodied.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "Equalizer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Perfecto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Box-Pressed Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A full-bodied Ecuadorian maduro launched in summer 2020 as a tribute to The Nobility, Definition's first cigar. The name comes from the maker's line that we are all equal in the end.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/equalizer-perfecto/",
+   "https://definitioncigars.com/product/equalizer-gordo/"
+  ],
+  "notes": "The maker describes it as full-bodied. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "Conception",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Ometepe)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sublime (box pressed)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A full-strength San Andrés cigar made for Definition's first anniversary in January 2020 and built around tobacco from the Concepcion area of Ometepe, Nicaragua. It left regular production in 2022 and now returns each September.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://definitioncigars.com/product/conception-box-pressed-toro/",
+   "https://definitioncigars.com/our-cigars/"
+  ],
+  "notes": "No longer regular production: the maker pulled it in 2022 and now releases it every September at the start of the NFL season, with a burgundy band for the Washington Commanders. Sold as Conception Box Pressed Toro.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "Noir",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Round-Pressed Toro",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A medium-bodied Cameroon-wrapped cigar over Nicaraguan tobacco, released in summer 2020. Founder Jamond Hackley named it after the neo-noir films he was watching during the pandemic.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/noir/",
+   "https://definitioncigars.com/our-cigars/"
+  ],
+  "notes": "Also called Noir Cameroon, to tell it apart from Noir Connecticut. The maker lists the wrapper only as Cameroon.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "Noir Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Super Robusto",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut-wrapped member of Definition's Noir pair, which the maker rates mild to medium. It uses an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/noir-connecticut/",
+   "https://definitioncigars.com/our-cigars/"
+  ],
+  "notes": "The maker rates it mild to medium. No separate release year is published for the Connecticut version.",
+  "verified": true,
+  "verifyNotes": "About reworded: the maker does not call it the mildest in the lineup, it is only the one cigar filed under Mild. Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "DC Pig Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 4.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A short, fat maduro perfecto from Definition. The blend was first made as a 6 x 60 and then moved to the pig shape to give it a different look from the Equalizer.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/dc-pig-maduro/",
+   "https://halfwheel.com/pca-2023-definition-cigars/425631/"
+  ],
+  "notes": "The maker's blend table says 4.5 x 60, while its story text mentions a 4.25 inch length. No strength rating or release year is published. Boxes hold 24.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "The Walking Stick",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "Definition's dedicated lancero, an Ecuadorian maduro over Nicaraguan tobacco released in January 2021. The maker says it took seven attempts to get the blend right.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/the-walking-stick/"
+  ],
+  "notes": "Only made as a lancero, in boxes of 30. The maker describes it as bold but smooth and gives no formal strength rating.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "The Anillo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Broadleaf",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Pennsylvania Broadleaf)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "cream",
+   "leather",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "A dark, box-pressed cigar released in 2025 and the first Definition blend to use Pennsylvania broadleaf. Anillo is Spanish for ring, a nod to the fabric bands the brand is known for.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/the-anillo/",
+   "https://halfwheel.com/definition-anillo/462841/",
+   "https://halfwheel.com/pca-2025-definition-cigars/450877/"
+  ],
+  "notes": "The maker's site lists it at 6 x 54 and calls it medium-bodied. halfwheel lists 6 1/4 x 54 and found medium strength building to medium-full, with medium-full body. The factory is undisclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Definition",
+  "line": "Pi5ot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "pepper",
+   "sweetness"
+  ],
+  "about": "A San Andrés toro introduced at the 2026 PCA show and named for the pivot foot in basketball. The 5 honors Jalen Rose's jersey number and the kelly green band honors Slippery Rock University.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/pi5ot/",
+   "https://halfwheel.com/pca-2026-definition-cigars/470194/"
+  ],
+  "notes": "The maker lists it as 6 x 54, while halfwheel's trade show report listed 6 x 52. Also written DC Pi5ot. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "One13",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "baking spice",
+   "black pepper",
+   "cream",
+   "sweetness"
+  ],
+  "about": "A San Andrés toro introduced at the 2026 PCA show and named for the house number of founder Jamond Hackley's grandparents' home. halfwheel scored it 87.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://definitioncigars.com/product/one13/",
+   "https://halfwheel.com/definition-one13/480415/"
+  ],
+  "notes": "Strength and body are from halfwheel's review, which found mild to medium nicotine strength with medium body and fuller flavor. The maker gives no rating. The factory is undisclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Definition",
+  "line": "5 Anos SE",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (origin not disclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box Press",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed maduro made to mark the fifth anniversary of Definition Cigars, which launched in 2019. The maker describes it as full flavored and full bodied.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://definitioncigars.com/product/5-anos-se/"
+  ],
+  "notes": "The blend is secret: the maker lists wrapper, binder and filler as unavailable. The maker also writes the name as 5 Años and does not say how limited it is.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "DC Kinsman",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited edition that Definition blended with input from a select group of its customers, built around the idea of community and family. The maker rates it medium-plus to full.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://definitioncigars.com/product/dc-kinsman-le/"
+  ],
+  "notes": "The blend is secret: the maker lists the wrapper, binder and filler as Passion, Loyalty and Gratitude. Also called DC Kinsman LE.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ },
+ {
+  "brand": "Definition",
+  "line": "TS10",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A San Andrés cigar made with Preston Gray, owner of Tailored Smoke Cigar Lounge, to mark the lounge's 10th anniversary. Unlike most lounge exclusives, it is also sold through Definition's own store.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://definitioncigars.com/product/ts10/"
+  ],
+  "notes": "Created as an anniversary cigar for Tailored Smoke Cigar Lounge. The maker does not publish the size, strength, release year or how limited it is.",
+  "verified": true,
+  "verifyNotes": "Country rests on the maker filing it under its Nicaraguan shop category; no second source opened states where it is rolled."
+ }
+]

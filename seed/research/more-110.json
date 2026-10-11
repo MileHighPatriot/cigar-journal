@@ -1,0 +1,710 @@
+[
+ {
+  "brand": "Lampert",
+  "line": "Ocean Breeze",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Peru, one undisclosed country",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "mineral",
+   "cocoa",
+   "almond",
+   "earth",
+   "leather"
+  ],
+  "about": "A core Lampert line rolled at Tabacos de Costa Rica and inspired by the local Pura Vida lifestyle. It is known for a smooth, slightly mineral profile and tobaccos aged four to five years.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://lampertcigars.com/cigars/ocean-breeze/",
+   "https://halfwheel.com/lampert-ocean-breeze-toro-grande/459180/",
+   "https://lampertcigars.com/announcement/lampert-cigars-ships-ocean-breeze-to-retailers/"
+  ],
+  "notes": "The maker's current page lists the wrapper as \"Ecuador H. Criollo\" with binder and filler undisclosed; its press releases and halfwheel give Habano 2000. Halfwheel dates the Robusto Grande to 2022, but the line was already on sale in 2021. Gordito and Toro Grande were added in 2025.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and the maker's 3 of 5 strength graphic confirmed. Reworded about (maker says inspired by, not named for, Pura Vida) and the launch-year sentence in notes, since a 2022 U.S. arrival is not stated by any source."
+ },
+ {
+  "brand": "Lampert",
+  "line": "Oro Line",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Dominican Republic, Peru (Pelo de Oro)",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Senorito (Half Corona)",
+    "length": 3.5,
+    "ring": 44
+   },
+   {
+    "name": "El Gringo (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Don Patron (Toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "grass",
+   "spice",
+   "wood",
+   "nuts"
+  ],
+  "about": "Lampert's original Costa Rican line, which grew out of founder Stefan Lampert's My Cigar Lab custom blending project. Each size is sold under its own name, such as El Gringo and Don Patron.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://lampertcigars.com/cigars/oro-line/",
+   "https://halfwheel.com/lampert-oro-kingpin/445586/",
+   "https://lampertcigars.com/announcement/senorito-debuts-at-intertabac-2024/"
+  ],
+  "notes": "Guests may ask for the sizes by name. The maker describes it as mild to medium-strong and says the blend is adjusted by size. Halfwheel also lists Gatsby (6 x 52, Ecuadorian habano criollo hybrid wrapper) and Kingpin (4 x 62, criollo wrapper) under Oro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lampert",
+  "line": "Oro Line Small Batch Production",
+  "found": true,
+  "officialName": "Oro Line Short Perfecto Small Batch Production",
+  "wrapperLeaf": "Ecuadorian Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Perfecto (Kingpin)",
+    "length": 4,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "spice"
+  ],
+  "about": "A short, fat double perfecto with a pigtail cap in Lampert's Oro family, made in small yearly batches in Costa Rica. It is sold in the U.S. as the Oro Kingpin.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://lampertcigars.com/cigars/oro-line-short-perfecto-small-batch-production/",
+   "https://halfwheel.com/lampert-oro-kingpin/445586/",
+   "https://halfwheel.com/lampert-oro-kingpin-heads-to-stores/443936/"
+  ],
+  "notes": "This is one size of the Oro Line, known in the U.S. as Kingpin. The maker's page lists an Ecuador Connecticut wrapper, Dominican and Peruvian filler and 4 1/2 x 62; halfwheel and a retailer list a dark Ecuadorian criollo wrapper, added Nicaraguan filler and 4 x 62. The maker says quantities are very limited each year.",
+  "verified": true,
+  "verifyNotes": "Kept the halfwheel blend over the maker's page text: the maker's own product photo shows the dark Kingpin wrapper. Changed 'retailers' to 'a retailer' in notes (one confirmed)."
+ },
+ {
+  "brand": "Lampert",
+  "line": "Limitada 2023",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Brazil, Dominican Republic, Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Lampert release rolled in 2023 at Tabacos de Costa Rica and launched at the 2024 PCA trade show. It carries an extra band marked 2023.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://lampertcigars.com/cigars/limitada-2023/",
+   "https://lampertcigars.com/announcement/lampert-cigars-releases-the-limitada-2023-at-pca-2024/",
+   "https://halfwheel.com/lampert-limitada-2023-launching-next-month/433971/"
+  ],
+  "notes": "Rolled in 2023 but released in early 2024; 450 boxes of 10 for the U.S. The maker's product page lists Brazil for both binder and filler, while its press release and halfwheel give a Habano 2000 binder and four-country filler.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lampert",
+  "line": "Limitada 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Vuelta Abajo (HVA) dark",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Brazil, Dominican Republic, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "leather",
+   "cedar"
+  ],
+  "about": "Lampert's 2025 limited edition and the company's first box-pressed cigar, made at Tabacos de Costa Rica. It was limited to 500 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://lampertcigars.com/cigars/limitada-2025/",
+   "https://halfwheel.com/lampert-releasing-limitada-2025-this-month/451689/",
+   "https://luxurycigarclub.com/products/lampert-limitada-2025-limited-edition"
+  ],
+  "notes": "500 boxes of 10 were made, 200 of them for the U.S. Halfwheel reports the blend returning in late 2026 as a 7 1/4 x 50 double corona sold in jars. Tasting notes come from a retailer, not the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lampert",
+  "line": "Limitada 2026",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano 2000)",
+  "filler": "Nicaragua (Jalapa), Dominican Republic, Ecuador",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cream",
+   "cedar"
+  ],
+  "about": "Lampert's 2026 limited edition, a box-pressed toro with a Connecticut-seed wrapper made at Tabacos de Costa Rica. It began shipping in August 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://lampertcigars.com/cigars/limitada-2026/",
+   "https://halfwheel.com/lampert-limitada-2026-heads-to-stores/476613/",
+   "https://luxurycigarclub.com/products/lampert-limitada-2026"
+  ],
+  "notes": "The maker rates strength 3.5 out of 5; a retailer calls it medium. The maker lists the binder as Ecuador, while halfwheel lists Habano 2000 with origin undisclosed. Tasting notes come from a retailer, not the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lampert",
+  "line": "Baba Yaga",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "cedar",
+   "sweetness"
+  ],
+  "about": "A 2026 Lampert release named for the witch of Slavic folklore, made at Tabacos de Costa Rica in a single toro size. Only the Ecuadorian Habano wrapper is disclosed.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://lampertcigars.com/cigars/baba-yaga/",
+   "https://halfwheel.com/lampert-announces-baby-yaga/472485/",
+   "https://luxurycigarclub.com/products/lampert-baba-yaga"
+  ],
+  "notes": "Binder and filler are undisclosed. The maker rates strength 4 out of 5, while one retailer calls it full. Halfwheel calls it a limited edition; production numbers were not announced.",
+  "verified": true,
+  "verifyNotes": "Swapped the maker announcement for the retailer page that the strength note relies on."
+ },
+ {
+  "brand": "Lampert",
+  "line": "Lawyer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A Costa Rican Lampert cigar offered in one 6 x 56 toro size. The maker describes it as medium in strength and keeps the whole blend private.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://lampertcigars.com/cigars/lawyer/"
+  ],
+  "notes": "Wrapper, binder and filler are all undisclosed. The maker rates it 3 out of 5 for strength. The maker's page says it will be available but gives no release date or factory name.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Only the maker's page covers this cigar; halfwheel has no article on it."
+ },
+ {
+  "brand": "Lampert",
+  "line": "Platino",
+  "found": true,
+  "officialName": "Platino Toro Grande",
+  "wrapperLeaf": "Ecuadorian Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Grande",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Lampert release made in Costa Rica, described by the maker as an evolution of the Limitada 2023 blend with one added undisclosed tobacco. It is currently sold only to Lampert Black Card members.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://lampertcigars.com/cigars/lampert-platino-toro-grande/"
+  ],
+  "notes": "Binder and filler are undisclosed. The maker rates strength 4.5 out of 5 (between medium-full and full) but gives no word for it. Currently a Black Card member exclusive. No factory or release year is published.",
+  "verified": true,
+  "verifyNotes": "Removed 'high-end' from about. Strength stays null: the maker shows only a 4.5 of 5 graphic and no other source covers the cigar."
+ },
+ {
+  "brand": "Lampert",
+  "line": "Continental 52",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Continental 52",
+    "length": 4.69,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "chocolate",
+   "cream",
+   "floral",
+   "dark fruit"
+  ],
+  "about": "A short Connecticut-wrapped Lampert cigar made at Tabacos de Costa Rica. It is currently sold only to Lampert Black Card members.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://lampertcigars.com/cigars/continental-52/"
+  ],
+  "notes": "Binder and filler are undisclosed. The maker gives the length as 119 mm (about 4 11/16 inches) and rates strength 2.5 out of 5 (between mild-medium and medium). Currently a Black Card exclusive ahead of a wider release.",
+  "verified": true,
+  "verifyNotes": "Set production to null: the maker calls it a Black Card early release ahead of a wider release and never calls it limited. Simplified about. Strength stays null (2.5 of 5 graphic only)."
+ },
+ {
+  "brand": "Lampert",
+  "line": "1675 Edición Azul",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Jalapa), Peru (ligero)",
+  "country": "Nicaragua",
+  "factory": "AgroIndustrial Nicaraguense de Tabacos S.A. (Agrotabacos)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.75,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "nuts",
+   "earth",
+   "citrus"
+  ],
+  "about": "The first blend in Lampert's Nicaraguan 1675 series and the cigar that introduced the brand to the U.S. in 2021. It was blended by Indiana Ortez and is made at the Ortez family factory in Condega.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://lampertcigars.com/cigars/lampert-1675-edicion-azul/",
+   "https://halfwheel.com/lampert-cigars-makes-u-s-debut-with-1675-edicion-azul/394027/",
+   "https://halfwheel.com/lampert-revamping-1675-series-later-this-month/451553/"
+  ],
+  "notes": "Since mid 2025 only the Toro is shipped to U.S. stores; the Robusto and Short Robusto continue abroad. The maker's page text gives the Short Robusto as 3 1/2 x 52, while halfwheel and retailers list 3 3/4 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lampert",
+  "line": "1675 Edición Rojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "AgroIndustrial Nicaraguense de Tabacos S.A. (Agrotabacos)",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.75,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "cocoa",
+   "spice"
+  ],
+  "about": "The Connecticut-wrapped blend in Lampert's Nicaraguan 1675 series, built to founder Stefan Lampert's own taste. It uses four-year-old Ortez family tobacco from Jalapa and Condega.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://lampertcigars.com/cigars/lampert-1675-edicion-rojo/",
+   "https://halfwheel.com/lampert-1675-edicion-rojo-debuting-at-tpe-2022/404279/",
+   "https://luxurycigarclub.com/products/lampert-1675-edicion-rojo"
+  ],
+  "notes": "The maker rates strength 2 out of 5 and calls the cigar medium-bodied; one retailer lists it as medium. Since mid 2025 only the Toro is shipped to U.S. stores.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lampert",
+  "line": "1675 Edición Morado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Negro San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "AgroIndustrial Nicaraguense de Tabacos S.A. (Agrotabacos)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 3.75,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cocoa",
+   "wood",
+   "sweet spice"
+  ],
+  "about": "The maduro blend in Lampert's Nicaraguan 1675 series, with a Mexican San Andres wrapper over Nicaraguan tobacco. Morado is Spanish for purple.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://lampertcigars.com/cigars/lampert-1675-edicion-morado/",
+   "https://halfwheel.com/lampert-1675-edicion-morado-soft-launches-at-10-stores/421098/",
+   "https://halfwheel.com/lampert-revamping-1675-series-later-this-month/451553/"
+  ],
+  "notes": "The maker rates strength 4 out of 5 and calls it medium to full-bodied; at launch Lampert described it as full-bodied. Since mid 2025 only the Toro is shipped to U.S. stores.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Lampert",
+  "line": "1675 Edición Verde",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Negro San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "AgroIndustrial Nicaraguense de Tabacos S.A. (Agrotabacos)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Oval Short Robusto",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "Oval Robusto Grande",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Oval Toro Grande",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "anise",
+   "cardamom",
+   "wood"
+  ],
+  "about": "A 2026 addition to Lampert's Nicaraguan 1675 series and the brand's first oval-pressed cigar. All of its tobacco is aged at least five years.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://lampertcigars.com/cigars/lampert-1675-edicion-verde/",
+   "https://halfwheel.com/lampert-1675-edicion-verde-shipping-tomorrow/463895/",
+   "https://halfwheel.com/lampert-1675-edicion-verde-toro-grande/470830/"
+  ],
+  "notes": "Binder and filler are undisclosed. It shipped in March 2026, and after the launch U.S. stores get only the Toro Grande. The maker rates strength 4 out of 5 and calls it full-bodied; halfwheel's reviewer found it closer to medium-plus.",
+  "verified": true,
+  "verifyNotes": "Dropped 'fourth blend' from about: halfwheel's own articles disagree on whether it is the fourth or fifth. Cut notes to three sentences."
+ },
+ {
+  "brand": "Lampert",
+  "line": "1593 Edición Oscura",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory (KBF)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "anise",
+   "espresso",
+   "spice",
+   "sweetness"
+  ],
+  "about": "Lampert's full-bodied Dominican cigar. It launched in 2023 and has since been reblended by Hendrik Kelner Jr. at his Kelner Boutique Factory.",
+  "released": 2023,
+  "production": null,
+  "sources": [
+   "https://lampertcigars.com/cigars/lampert-1593-edicion-oscura/",
+   "https://halfwheel.com/lampert-1593-edicion-oscura-ships-to-stores-nationwide/422717/",
+   "https://luxurycigarclub.com/products/lampert-1593-edicion-oscura"
+  ],
+  "notes": "The maker keeps the current Kelner blend undisclosed and rates it 3.5 out of 5; one retailer calls it full and lists an Ecuadorian Habano HVA wrapper. The original 2023 version was made at El Maestro with a Mexican San Andres wrapper, so older boxes are a different cigar.",
+  "verified": true,
+  "verifyNotes": "Wrapper left null because the maker lists it as undisclosed; added to notes that one retailer lists Ecuadorian Habano HVA. Swapped the 2023 maker announcement for that retailer page."
+ },
+ {
+  "brand": "Lampert",
+  "line": "1593 Edición Blanca",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Julián Sued & Compañía",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Short Robusto",
+    "length": 3.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "nuts",
+   "cream",
+   "bread",
+   "white pepper"
+  ],
+  "about": "A Dominican Lampert cigar made by Julian Sued in Tamboril and soft-launched through Small Batch Cigar in 2022. The Toro was for the U.S. and the Short Robusto for Europe.",
+  "released": 2022,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/lampert-1593-edicion-blanca-toro/413038/",
+   "https://lampertcigars.com/announcement/lampert-cigars-edicion-blanca/",
+   "https://luxurycigarclub.com/products/lampert-1593-edicion-blanca-short-robusto"
+  ],
+  "notes": "The maker's release names an Ecuadorian Habano wrapper; halfwheel lists Ecuadorian Connecticut, though its reviewer said the leaf did not look like one. It is no longer in the maker's current lineup. One retailer lists a later Swiss-only Short Robusto made at KBF with a different blend.",
+  "verified": true,
+  "verifyNotes": "Set production to null: no source says it was discontinued, it is only absent from the maker's current lineup, and a retailer listed a Kelner-made Short Robusto in late 2025. Removed 'first Dominican cigar' from about. Swapped one halfwheel link for the retailer page the notes cite."
+ },
+ {
+  "brand": "Lampert",
+  "line": "Family Reserve 2023",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory (KBF)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The third yearly Family Reserve from Lampert, made at the Kelner Boutique Factory in the Dominican Republic. It was limited to 800 boxes of 10 and is essentially the same cigar as the 2022 release.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/lampert-family-reserve-2023-begins-shipping/432538/",
+   "https://halfwheel.com/lampert-family-reserve-2022-begins-shipping/421172/"
+  ],
+  "notes": "800 boxes of 10 were made and it shipped in December 2023. No strength rating or tasting notes are published for this release.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

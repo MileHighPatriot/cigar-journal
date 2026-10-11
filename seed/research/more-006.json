@@ -1,0 +1,632 @@
+[
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Year of the Snake",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Corojo)",
+  "filler": "Brazil, Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 7,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "black pepper",
+   "cream"
+  ],
+  "about": "A 7 x 44 lonsdale in Drew Estate's Lunar New Year series, released in January 2025 for the Year of the Snake. It was sold only through CoH Cigars in Hong Kong in boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/liga-privada-unico-serie-year-of-the-snake/451618/",
+   "https://drewestate.prezly.com/drew-estate-introduces-the-liga-privada-unico-serie-year-of-the-snake-to-the-asian-market"
+  ],
+  "notes": "Exclusive to CoH Cigars in Hong Kong, so rarely seen in US shops. Drew Estate gives no strength rating; halfwheel's reviewer found strength mild to medium-minus with medium body, lighter than most Liga Privada.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Mild-Medium: halfwheel's review rates strength fairly mild, then medium-minus in the last two thirds. Blend, size, factory and CoH exclusivity confirmed against halfwheel and Drew Estate's press release."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Year of the Horse",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "5 1/4 x 60",
+    "length": 5.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "roasted peanuts",
+   "espresso",
+   "black pepper",
+   "earth"
+  ],
+  "about": "The 2026 entry in Drew Estate's Lunar New Year series, a 5 1/4 x 60 cigar sold in boxes of 10 outside the United States. Drew Estate never formally announced it.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/liga-privada-unico-serie-year-of-the-horse/473311/"
+  ],
+  "notes": "Blend is undisclosed and Drew Estate never announced the cigar; it is not sold by US retailers. halfwheel's reviewer noted a lighter wrapper than usual for Liga Privada and rated strength medium-plus. One retailer lists it as 6 1/4 x 60, which halfwheel says is wrong.",
+  "verified": true,
+  "verifyNotes": "Size name changed from Gordo to plain dimensions because halfwheel gives no vitola name. Removed the claim that it is sold mainly through CoH Cigars, which the review does not state for this cigar. Blend confirmed as undisclosed."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada Único Serie Tres Serpientes",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Corojo (H99 hybrid)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua, Honduras, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Culebra",
+    "length": 6.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [],
+  "about": "The first Liga Privada culebra: three 6 1/2 x 43 cigars twisted and tied together, made with the Liga Privada H99 blend. It is sold only at Drew Estate in-store events from September through December 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/drew-estate-announces-box-pressed-feral-flying-pig-and-supremas-samplers-launching-customer-rewards-program/478474/",
+   "https://drewestate.com/products/liga-privada/liga-privada-h99/"
+  ],
+  "notes": "Event-only, $160 for a box of three culebras (nine cigars). halfwheel says it uses the Liga Privada H99 blend, so binder and filler are Drew Estate's H99 details. No strength is published for the culebra; Drew Estate rates the regular H99 line full.",
+  "verified": true,
+  "verifyNotes": "Strength set to null: no source rates the culebra, and Full was borrowed from Drew Estate's rating of the regular H99 line. Replaced the halfwheel link with the address it now redirects to. Wrapper, binder, filler and size confirmed."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Undercrown El Tigre Dominicano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Corojo H99 hybrid)",
+  "filler": "Dominican Republic (HVA, Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Viva",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "espresso",
+   "earth",
+   "spice"
+  ],
+  "about": "A box-pressed Undercrown built around Dominican filler under an Ecuadorian Sumatra wrapper. It shipped in late April 2026 in four sizes.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/undercrown/undercrown-el-tigre-dominicano/",
+   "https://halfwheel.com/undercrown-el-tigre-dominicano-toro/473570/"
+  ],
+  "notes": "Despite the name it is rolled in Nicaragua; Drew Estate says production will move to its new Dominican factory later. Drew Estate lists it as medium to full; halfwheel's reviewer found the strength mild at first and medium by the end. All four sizes are box-pressed.",
+  "verified": true,
+  "verifyNotes": "Removed two unsupported claims from about: that it was introduced at the 2026 PCA show and that it is the first Dominican-focused Undercrown. Sources say it shipped in late April 2026. Note now gives halfwheel's strength as mild to medium. Drew Estate labels its rating Body."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Undercrown Maduro Dojo Dogma",
+  "found": true,
+  "officialName": "Undercrown Dojo Dogma Maduro",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut stalk-cut Habano)",
+  "filler": "Nicaragua (Habano), Brazil (Mata Fina)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo (box-pressed)",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "leather",
+   "almonds",
+   "citrus",
+   "black pepper",
+   "wood"
+  ],
+  "about": "A box-pressed 6 x 56 Undercrown Maduro made with the Cigar Dojo online community, using the slightly stronger Corona Viva version of the blend. It began in 2014 as a single-store release and went national in 2018 as a recurring limited edition.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/undercrown-dojo-dogma/286139/",
+   "https://halfwheel.com/drew-estate-releasing-10th-anniversary-undercrown-dojo-dogma-maduro-in-mid-december/416075/",
+   "https://drewestate.com/products/undercrown/undercrown-maduro/"
+  ],
+  "notes": "One box-pressed size of the Undercrown Maduro line, which Drew Estate rates medium to full; halfwheel's reviewer found this one medium. A separate 10th Anniversary version from 2022 is a 6 x 46 box-pressed belicoso, limited to 2,500 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Removed the unverified claim that retailers split between medium-full and full. Medium-Full is kept on the strength of Drew Estate's own rating for the Undercrown Maduro line, and that page replaces one halfwheel link. Blend, size and factory confirmed."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Undercrown Sun Grown Dojo Dogma",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (sun grown)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut River Valley stalk-cut Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto (box-pressed)",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cedar",
+   "leather",
+   "cream",
+   "white pepper",
+   "bread"
+  ],
+  "about": "A box-pressed 5 x 54 robusto in the Undercrown Sun Grown blend, made with the Cigar Dojo community as a companion to the original Dojo Dogma Maduro. It debuted in September 2020 and has returned in later batches.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/undercrown-sun-grown-dojo-dogma/383752/",
+   "https://halfwheel.com/drew-estate-announces-undercrown-dojo-dogmas-returning-for-2021/393291/"
+  ],
+  "notes": "This is one box-pressed size of the Undercrown Sun Grown line, also written as Undercrown Dojo Dogma Sun Grown. The filler includes aged ligero from Nueva Segovia. Strength is halfwheel's review rating (medium-full, easing to medium-plus), as Drew Estate gives none for this size.",
+  "verified": true,
+  "verifyNotes": "No field changes. halfwheel's review rates strength medium-full in the first third and medium-plus after, so Medium-Full is on the high side."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Undercrown ShadyXX",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut stalk-cut Habano)",
+  "filler": "Nicaragua, Brazil",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Belicoso (box-pressed)",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cinnamon",
+   "earth",
+   "wood",
+   "coffee",
+   "molasses"
+  ],
+  "about": "A 5 x 50 box-pressed belicoso made for the 20th anniversary of Shady Records, the label founded by Eminem and Paul Rosenberg. It debuted in 2019 and returned in 2020, sold in 10-count packs.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/drew-estate-ships-2020-editions-of-undercrown-dojo-dogma-and-shady-xx/384135/",
+   "https://blindmanspuff.com/blind-cigar-review-drew-estate-undercrown-shadyxx2020/"
+  ],
+  "notes": "Shares its blend with the Undercrown Dojo Dogma Maduro, an offshoot of Undercrown Maduro first made for the Corona Viva. It followed the 2015 Undercrown ShadyXV, which was sold only in Detroit. Strength and body are from a Blind Man's Puff panel review.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Nica Rustica Adobe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "wood",
+   "black pepper",
+   "spice",
+   "leather",
+   "earth"
+  ],
+  "about": "The second Nica Rustica blend, a value-priced habano-wrapped cigar added in 2022 alongside the original broadleaf version. It is named for adobe, a building material widely used in Nicaragua.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/nica-rustica/nica-rustica-adobe/",
+   "https://halfwheel.com/nica-rustica-adobe-robusto/413811/"
+  ],
+  "notes": "Drew Estate rates it mellow to medium, but halfwheel's reviewer found it full in flavor with strength building to medium-full by the end.",
+  "verified": true,
+  "verifyNotes": "Filler changed from Nicaragua (Estelí, Jalapa) to Nicaragua: neither Drew Estate nor halfwheel names the regions. About now says adobe is common in Nicaragua, as halfwheel puts it, not specifically around Estelí. Drew Estate labels its rating Body."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Nica Rustica Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua, Dominican Republic, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 5,
+    "ring": 66
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "cedar",
+   "hay",
+   "espresso"
+  ],
+  "about": "The third Nica Rustica blend, a value-priced cigar with an Ecuadorian Connecticut shade wrapper. It reached stores in September 2025 in 25-count boxes.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/nica-rustica/nica-rustica-shade/",
+   "https://halfwheel.com/nica-rustica-shade-short-robusto/457229/"
+  ],
+  "notes": "Drew Estate rates it mellow; halfwheel's reviewer found full flavor with strength reaching medium by the end.",
+  "verified": true,
+  "verifyNotes": "About no longer says it was blended by Willy Herrera; halfwheel only quotes him as Drew Estate's master blender. Drew Estate labels its rating Body."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Herrera Estelí Connecticut Broadleaf",
+  "found": true,
+  "officialName": "Herrera Estelí Connecticut Broadleaf Lancero",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A 7 x 38 lancero in Willy Herrera's Connecticut broadleaf blend, released nationally to Drew Diplomat retailers in September 2020. It returned as a limited batch in 2021, in boxes of 15.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/drew-estates-herrera-esteli-connecticut-broadleaf-habano-lanceros-return-to-shelves/399887/",
+   "https://halfwheel.com/herrera-esteli-connecticut-broadleaf-lancero-tienda-exclusiva-planned-for-september/377147"
+  ],
+  "notes": "This is a single lancero size, first billed as a Tienda Exclusiva. The same blend was the 6 x 52 Herrera Estelí TAA Exclusive in 2016, and a 2016 Houston store exclusive called the H-Town Lancero used this size. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "About changed from 'limited yearly batches' to the one return the sources show, in 2021. Drew Estate has no product page for it and no source gives a strength."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Herrera Estelí TAA Exclusive",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "black pepper",
+   "earth",
+   "coffee",
+   "orange"
+  ],
+  "about": "A 6 x 52 toro made for member shops of the Tobacconists' Association of America, and the first Herrera Estelí blend to use a Connecticut broadleaf wrapper. It was released in 2016 and again in 2020.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/herrera-esteli-taa-2016/115395",
+   "https://halfwheel.com/drew-estate-begins-shipping-herrera-esteli-taa-exclusive-2020/374439"
+  ],
+  "notes": "Sold only through TAA member retailers. The 2020 run was the same cigar in new packaging, limited to 800 boxes of 12. Strength is from halfwheel's review, which called it medium to medium-plus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Herrera Estelí Tienda Exclusiva Inktome",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda (box-pressed)",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "hay",
+   "spice",
+   "black pepper",
+   "dried fruit",
+   "vanilla"
+  ],
+  "about": "A 6 x 46 box-pressed corona gorda made for Small Batch Cigar and its parent shop Maxamar Ultimate Cigars in Orange, California. It uses the original Herrera Estelí blend with a darker, higher-priming wrapper, and was released in 2016 and again in 2024.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/herrera-esteli-tienda-exclusiva-inktome-returns-for-2024/441572/",
+   "https://halfwheel.com/herrera-esteli-inktome/",
+   "https://halfwheel.com/top-25-cigars-2016/top-25-2016-6/"
+  ],
+  "notes": "Exclusive to Small Batch Cigar and Maxamar. The 2016 run was only 1,000 cigars and placed sixth on halfwheel's Top 25 that year. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Added halfwheel's 2016 Top 25 page as a source for the sixth-place claim, which the two listed pages did not support. Drew Estate has no product page for it and no source gives a strength. Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Herrera Estelí Tienda Exclusiva Vintage Cigar Lounge",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 52 toro blended by Willy Herrera as a store exclusive for Vintage Cigar Lounge in Rhode Island. It launched in April 2021 in boxes of 18.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/herrera-esteli-tienda-exclusiva-vintage-cigar-lounge-launching-april-16/392046/"
+  ],
+  "notes": "Sold only at Vintage Cigar Lounge in Charlestown and Westerly, Rhode Island. Tienda Exclusiva releases share packaging but each store gets its own blend. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "No field changes. Drew Estate has no product page for it and halfwheel gives no strength."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Factory Smokes Sweet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (sweetened cap)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Central America",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "vanilla",
+   "cream",
+   "sweet"
+  ],
+  "about": "A value-priced bundle cigar from Drew Estate with a sweetened cap on a habano wrapper. It is one of the original four Factory Smokes blends introduced in 2018.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/factory-smokes/factory-smokes-sweet/",
+   "https://halfwheel.com/factory-smokes-sun-grown-by-drew-estate-robusto/288467/",
+   "https://www.coronacigar.com/drew-estate-factory-smokes-sweet-toro/"
+  ],
+  "notes": "Often sold as Factory Smokes Sweets. Drew Estate rates it mellow with Central American filler; halfwheel says mixed Indonesian filler and Corona Cigar calls it medium. halfwheel's 2018 launch list had the Toro at 6 x 52 and Churchill at 7 x 50, unlike Drew Estate's site.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed and corrected: dropped the Neptune strength claim I could not confirm, and the size difference is now attributed to halfwheel's launch list and Corona Cigar. Drew Estate labels its rating Body."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Factory Smokes Candela",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Indonesia",
+  "country": "Nicaragua",
+  "factory": "La Gran Fábrica Drew Estate",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A green candela-wrapped version of Drew Estate's value-priced Factory Smokes bundle line, added in 2020. It is a web exclusive rather than a shop cigar.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/drew-estate-adds-factory-smokes-candela-as-cigars-international-exclusive/378489/",
+   "https://drewestate.com/products/web-exclusives/"
+  ],
+  "notes": "A web exclusive: it launched at Thompson Cigar and Drew Estate's site now points to Cigars International. The wrapper's origin is undisclosed and Drew Estate publishes no strength rating.",
+  "verified": true,
+  "verifyNotes": "No field changes. Strength stays null: Drew Estate lists it only as a web exclusive with no rating, and Cigars International's page could not be opened."
+ }
+]

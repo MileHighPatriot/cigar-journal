@@ -1,0 +1,767 @@
+[
+ {
+  "brand": "Emperors Cut",
+  "line": "Natural Pleasure",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "AgroIndustrial Nicaraguense de Tabacos S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Shawty",
+    "length": 4,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "spice"
+  ],
+  "about": "The first line from Texas-based Emperors Cut, launched in 2018 as a single Toro and expanded to four sizes in 2020. It is rolled at Omar Ortez's factory in Condega, Nicaragua.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://emperors-cut.com/product/natural-pleasure-f-6-5-x-52/",
+   "https://halfwheel.com/emperors-cut-launches-three-new-sizes-of-natural-pleasure/373108/",
+   "https://cigar-coop.com/2020/02/cigar-news-emperors-cut-adds-three-new-sizes-to-natural-pleasure-line.html"
+  ],
+  "notes": "The maker calls it medium-to-full bodied. halfwheel calls the wrapper Nicaraguan Colorado; Cigar Coop calls it Colorado Maduro. halfwheel lists the original Toro as 5 1/2 x 52, while the maker and Cigar Coop list 6 1/2 x 52.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. Added the Colorado vs Colorado Maduro wrapper wording to notes."
+ },
+ {
+  "brand": "Emperors Cut",
+  "line": "Jazz Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Sun Grown (Colorado)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic (Cibao Valley), Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto (Trane)",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro (Miles)",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Gordito (Dizzy)",
+    "length": 4,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "The second Emperors Cut line, made at La Aurora in the Dominican Republic and launched in October 2020. Its three sizes are named for jazz musicians: Trane, Miles and Dizzy.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://emperors-cut.com/product/jazz-trane-52-x-5-5-grand-robusto/",
+   "https://emperors-cut.com/product/jazz-dizzy-58-x-4-gordito/",
+   "https://halfwheel.com/emperors-cut-launches-jazz-series/381926/"
+  ],
+  "notes": "Sources disagree on the Gordito length: the maker lists 4 x 58, halfwheel 5 x 58 and Cigar Coop 6 x 58. No strength is published.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against the maker, halfwheel and Cigar Coop. The maker publishes no strength."
+ },
+ {
+  "brand": "Emperors Cut",
+  "line": "Red Tail Series 332nd",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua (Jalapa ligero, viso and seco), Colombia (cubita)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro blend in the Emperors Cut Red Tail Series, a tribute to the Tuskegee Airmen named for the 332nd Fighter Group. It is made at La Aurora in the Dominican Republic.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://emperors-cut.com/product/red-tail-series-332nd-maduro/",
+   "https://halfwheel.com/emperors-cut-honors-tuskegee-airmen-with-new-red-tail-series/415685/"
+  ],
+  "notes": "One of the blends in the Red Tail Series, alongside Warhawk (Natural) and Hellfighter. No strength is published.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. The maker publishes no strength."
+ },
+ {
+  "brand": "Emperors Cut",
+  "line": "Red Tail Series Warhawk",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Natural",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua (Jalapa seco and viso, Condega viso), Dominican Republic (Habano 2020)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The natural-wrapper blend in the Emperors Cut Red Tail Series, named for the Curtiss P-40 Warhawk flown by the Tuskegee Airmen. It is made at La Aurora in the Dominican Republic.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://emperors-cut.com/product/red-tail-series-warhawk-natural/",
+   "https://halfwheel.com/emperors-cut-honors-tuskegee-airmen-with-new-red-tail-series/415685/"
+  ],
+  "notes": "One of the blends in the Red Tail Series, alongside 332nd (Maduro) and Hellfighter. No strength is published.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed. The maker publishes no strength."
+ },
+ {
+  "brand": "Emperors Cut",
+  "line": "Red Tail Series Hellfighter",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Pennsylvania)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A newer addition to the Emperors Cut Red Tail Series, a box-pressed torpedo honoring the Harlem Hellfighters of World War I. It has a dark San Andrés wrapper over a Pennsylvania binder.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://emperors-cut.com/product/red-tail-series-hellfighter-2-copy/"
+  ],
+  "notes": "Only the maker's shop page describes it, as a new arrival sold in 5-count packs. The factory, country, strength, release year and whether it is regular production are not published.",
+  "verified": true,
+  "verifyNotes": "Set production to null: no page says whether it is regular or limited. Wrapper confirmed; the maker does not publish country or strength, and halfwheel and Cigar Coop have no article on it."
+ },
+ {
+  "brand": "Emperors Cut",
+  "line": "Prophecy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon (African seed)",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Emperors Cut release made at La Aurora in the Dominican Republic with a Cameroon wrapper. Production was capped at 1,000 cigars, with shipping set for August 2026.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://emperors-cut.com/product/prophecy-divine/",
+   "https://halfwheel.com/emperors-cut-prophecy-debuting-in-august/475178/",
+   "https://cigar-coop.com/2026/07/emperors-cut-cigars-announces-prophecy-cigar-news.html"
+  ],
+  "notes": "Size is disputed: the maker's shop sells it as Prophecy (Divine), a Toro 6.5 x 52, while halfwheel and Cigar Coop report a 7 x 52 Churchill. The maker calls it medium-to-full bodied. Limited to 1,000 cigars.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Reworded about: sources give a planned Aug. 1, 2026 ship date, not a confirmed one. Size conflict between maker (6.5 x 52) and halfwheel/Cigar Coop (7 x 52) left as noted."
+ },
+ {
+  "brand": "AG Cigars",
+  "line": "Un Nuevo Reino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prince",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "King",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Emperor",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "floral",
+   "cream",
+   "nuts",
+   "spice",
+   "citrus",
+   "wood"
+  ],
+  "about": "A medium-bodied line from AG Cigars, the brand of former Cuban custom roller Alejandro \"Alex\" González Arias. It pairs an Ecuadorian wrapper with Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://agcigars.com/products/un-nuevo-reino",
+   "https://agcigars.com/products/ag-lancero",
+   "https://halfwheel.com/ag-cigars-legendary-moment-jamie-foxx/476898/"
+  ],
+  "notes": "The maker gives only \"Ecuadorian\" for the wrapper and calls it medium-bodied. The factory and release year are not published for this line; halfwheel says AG Cigars are made in Nicaragua. The Lancero is sold separately as AG Lancero Natural.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and medium-bodied wording confirmed on the maker's pages. Country rests on halfwheel's brand-level statement that AG Cigars is based in Nicaragua; no page names the country for this line."
+ },
+ {
+  "brand": "AG Cigars",
+  "line": "GAOTU",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Apprentice",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Fellowcraft",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Master",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "black pepper",
+   "earth",
+   "leather",
+   "wood"
+  ],
+  "about": "The bolder line from AG Cigars by Alex González, also called GAOTU Black Label. It uses a Habano 2000 wrapper over Nicaraguan binder and filler, with sizes named for Masonic degrees.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://agcigars.com/products/gaotu",
+   "https://halfwheel.com/ag-cigars-legendary-moment-jamie-foxx/476898/"
+  ],
+  "notes": "The maker also calls it GAOTU Black Label and G.A.O.T.U., and describes it as medium to full-bodied. Where the Habano 2000 wrapper is grown, the factory and the release year are not published; halfwheel says AG Cigars are made in Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and strength wording confirmed on the maker's page. Country rests on halfwheel's brand-level statement that AG Cigars is based in Nicaragua; no page names the country for this line."
+ },
+ {
+  "brand": "AG Cigars",
+  "line": "Ambassador",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aficionado MHC SA",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "109",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 7 x 52 cigar in the 109 shape from AG Cigars by Alex González, sold in boxes of 10. It placed fifth on halfwheel's Consensus list for 2025.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://agcigars.com/products/ambassador",
+   "https://halfwheel.com/the-consensus-2025/460719/"
+  ],
+  "notes": "Often called the Ambassador 109. The maker gives only \"Ecuadorian\" for the wrapper and publishes no strength or tasting notes.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against the maker's page and halfwheel's Consensus 2025 entry. The maker publishes no strength."
+ },
+ {
+  "brand": "AG Cigars",
+  "line": "Gloriosos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Piramides",
+    "length": 6,
+    "ring": 59
+   }
+  ],
+  "flavors": [],
+  "about": "A large 6 x 59 pyramid from AG Cigars by Alex González, sold in boxes of 5. It has an Ecuadorian wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://agcigars.com/products/gloriosos",
+   "https://halfwheel.com/ag-cigars-legendary-moment-jamie-foxx/476898/"
+  ],
+  "notes": "The maker lists it as Piramides Gloriosos and gives only \"Ecuador\" for the wrapper. Strength, factory, release year and whether it is regular production are not published; halfwheel says AG Cigars are made in Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Set production to null: no page says whether it is regular or limited. Country rests on halfwheel's brand-level statement; the maker publishes no strength."
+ },
+ {
+  "brand": "AG Cigars",
+  "line": "Legendary Moment Jamie Foxx",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, Peru, undisclosed",
+  "country": "Nicaragua",
+  "factory": "JTA Tobacco Company S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 5.9,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "earth",
+   "cream",
+   "brown sugar",
+   "leather"
+  ],
+  "about": "A limited celebrity cigar from AG Cigars made for actor Jamie Foxx. Its 5.9 x 58 size refers to his 5'9\" height and his age of 58.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/jamie-fox-ray-lewis-get-their-own-ag-cigars/474292/",
+   "https://halfwheel.com/ag-cigars-legendary-moment-jamie-foxx/476898/"
+  ],
+  "notes": "Limited to 1,500 boxes of 10. One filler country is undisclosed and the wrapper type is given only as Ecuadorian. halfwheel's review found medium to medium-full strength with medium-plus body.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against halfwheel's news story and review."
+ },
+ {
+  "brand": "AG Cigars",
+  "line": "Legendary Moment Ray Lewis",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, undisclosed",
+  "country": "Nicaragua",
+  "factory": "JTA Tobacco Company S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6.2,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited celebrity cigar from AG Cigars made for retired Baltimore Ravens linebacker Ray Lewis. Its 6.2 x 52 size refers to his 6'2\" height and his jersey number 52.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/jamie-fox-ray-lewis-get-their-own-ag-cigars/474292/",
+   "https://halfwheel.com/ag-cigars-legendary-moment-jamie-foxx/476898/"
+  ],
+  "notes": "Limited to 1,500 boxes of 10. One filler country is undisclosed. No strength or tasting notes are published. Lewis earlier had a separate cigar line made by Rocky Patel.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against halfwheel. Removed the name \"Legends 52\" from notes: the sources only say Lewis had an earlier Rocky Patel line. No strength is published."
+ },
+ {
+  "brand": "Casa de Sueños",
+  "line": "Angelito",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Claro",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Corojo, Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "roasted nuts",
+   "spice"
+  ],
+  "about": "The mildest line from California-based Casa de Sueños, introduced in May 2022. It is made at De Los Reyes in the Dominican Republic with a light Ecuadorian wrapper.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://suenoscigars.com/pages/cigar-lineup",
+   "https://halfwheel.com/casa-de-suenos-angelito-corona/415333/",
+   "https://blindmanspuff.com/casa-de-suenos-angelito-corona-blind-cigar-review/"
+  ],
+  "notes": "halfwheel and Blind Man's Puff call the wrapper Ecuadorian Claro, while Cigar Coop calls it Connecticut Shade. The maker bills it as its mildest cigar; Blind Man's Puff rated it mild-medium and halfwheel's review found medium strength.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added halfwheel's medium strength finding to notes; Mild follows the maker's wording."
+ },
+ {
+  "brand": "Casa de Sueños",
+  "line": "El Soñador",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 56
+   },
+   {
+    "name": "Maximo",
+    "length": 7,
+    "ring": 60
+   },
+   {
+    "name": "Prensa",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cream",
+   "almonds",
+   "chocolate",
+   "pepper",
+   "cedar",
+   "leather"
+  ],
+  "about": "The first line from Casa de Sueños, launched in November 2019. The name means The Dreamer and it is made at De Los Reyes in the Dominican Republic.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://suenoscigars.com/pages/cigar-lineup",
+   "https://halfwheel.com/casa-de-suenos-expanding-el-sonador-line/465164/",
+   "https://blindmanspuff.com/casa-de-suenos-el-sonador-toro-blind-cigar-review/"
+  ],
+  "notes": "The maker calls it its medium blend; Blind Man's Puff rated the Toro medium-strong. The box-pressed Prensa (6 x 58) was added in April 2026.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Removed \"flagship\" from about: no source uses it."
+ },
+ {
+  "brand": "Casa de Sueños",
+  "line": "Fantasía",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6.5,
+    "ring": 58
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Short Belicoso",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "espresso",
+   "dark chocolate"
+  ],
+  "about": "The second line from Casa de Sueños and the fullest in its core lineup. It is made at De Los Reyes in the Dominican Republic with Nicaraguan filler under an Ecuadorian Habano wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://suenoscigars.com/collections/all/products/fantas-a-short-belicoso",
+   "https://blindmanspuff.com/casa-de-suenos-fantasia-toro-gordo-blind-cigar-review/",
+   "https://cigar-coop.com/2022/08/pca-2022-report-casa-de-suenos.html"
+  ],
+  "notes": "The maker calls it the fullest-bodied cigar in its lineup, but Blind Man's Puff rated the Toro Gordo medium in strength. The maker's product page and Cigar Coop list the Perfecto as 6 1/4 x 54; the maker's lineup page says 6.5 x 54. Blind Man's Puff gives a 2019 release, not confirmed elsewhere.",
+  "verified": true,
+  "verifyNotes": "Changed Perfecto length from 6.5 to 6.25 (maker's product page and Cigar Coop agree). Swapped the lineup page for the maker's product page, which lists the blend. Full follows the maker's wording."
+ },
+ {
+  "brand": "Casa de Sueños",
+  "line": "Inception First Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro Especial",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "toasted nuts",
+   "cocoa",
+   "honey",
+   "spice"
+  ],
+  "about": "The first blend in Inception, the fourth regular line from Casa de Sueños. It is made at De Los Reyes in the Dominican Republic and was released in September 2026.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://suenoscigars.com/pages/cigar-lineup",
+   "https://halfwheel.com/casa-de-suenos-inception-ships-to-stores/479206/"
+  ],
+  "notes": "The maker describes it as medium-bodied. The wrapper is given only as Ecuador, with no leaf type.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Reworded about: no source calls it a lower-priced entry line; halfwheel calls it the fourth regular production line."
+ },
+ {
+  "brand": "Casa de Sueños",
+  "line": "The 5th",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic (Piloto Cubano), undisclosed",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo (box-pressed)",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "roasted peanuts",
+   "earth",
+   "leather",
+   "toasted bread",
+   "black pepper",
+   "brown sugar"
+  ],
+  "about": "The fifth anniversary cigar from Casa de Sueños, a box-pressed robusto gordo with a pigtail cap released in 2024. It was made at De Los Reyes and limited to 300 boxes of 12.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://suenoscigars.com/pages/cigar-lineup",
+   "https://halfwheel.com/casa-de-suenos-the-5th/442504/",
+   "https://halfwheel.com/casa-de-suenos-celebrates-5th-anniversary-with-new-cigar/435961/"
+  ],
+  "notes": "Limited to 300 boxes of 12. Part of the filler is undisclosed. halfwheel's 2024 review lists it as 5 1/2 x 58, though a 2026 halfwheel article calls the vitola 6 x 58. halfwheel found strength building from medium to full; the maker gives no strength.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed against halfwheel's review and news story. Strength is halfwheel's; the maker publishes none."
+ },
+ {
+  "brand": "Casa de Sueños",
+  "line": "El Soñador 2019 Reserva Limitada",
+  "found": true,
+  "officialName": "El Soñador Salomon 2019 Reserva Limitada",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "almonds",
+   "chocolate"
+  ],
+  "about": "An aged release of the El Soñador Salomon from Casa de Sueños, using cigars rolled in 2019 and held in reserve until April 2026. It is limited to 100 boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://suenoscigars.com/pages/cigar-lineup",
+   "https://halfwheel.com/casa-de-suenos-expanding-el-sonador-line/465164/",
+   "https://halfwheel.com/pca-2026-casa-de-suenos/465242/"
+  ],
+  "notes": "This is one size of El Soñador, the 7 x 56 Salomon, in the same blend but rolled in 2019 and aged. halfwheel calls it Reserva Salomon 2019. Limited to 100 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed flavors to the three the maker lists for this release."
+ }
+]

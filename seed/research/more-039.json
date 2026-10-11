@@ -1,0 +1,705 @@
+[
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias LV",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra (box-pressed)",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "cream",
+   "black pepper",
+   "cocoa",
+   "leather"
+  ],
+  "about": "The third release in Espinosa's Las 6 Provincias series, named for Cuba's old Las Villas province. It is a Nicaraguan puro made by AJ Fernandez and sold in a curio cabinet style box of 10 coffined cigars.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-las-6-provincias-lv/405000/",
+   "https://www.neptunecigar.com/cigars/espinosa-las-6-provincias-las-villas-robusto",
+   "https://www.cigarsdirect.com/products/espinosa-las-6-provincias-lv-box-press-robusto"
+  ],
+  "notes": "One size only, 1,000 boxes of 10. The wrapper variety is not published. Halfwheel found it starts mild and builds to just under full; Neptune lists it full and Cigars Direct medium-full.",
+  "verified": true,
+  "verifyNotes": "Swapped Neptune's brand page for its LV product page and replaced the maker page (size only) with Cigars Direct as a second retailer strength. Notes updated to give both retailer ratings."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias CMW",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "black pepper",
+   "earth",
+   "wood",
+   "chocolate"
+  ],
+  "about": "The fourth Las 6 Provincias release, honoring Camaguey and named after the airport code for that city. It is a box-pressed toro made by AJ Fernandez with box art by Edin Gutierrez.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-las-6-provincias-cmw/422273/",
+   "https://www.coronacigar.com/las-6-provincias-by-espinosa-cmw-box-pressed-toro/",
+   "https://espinosacigars.com/core-lines/las-6-provincias/"
+  ],
+  "notes": "One size only, 1,000 boxes of 20. No maker strength rating. Halfwheel's review found full flavor but little nicotine kick, mild to just under medium; Corona Cigar lists it medium to full.",
+  "verified": true,
+  "verifyNotes": "Removed 'hand-painted' from about (not stated for this box). Replaced the duplicate Halfwheel trade show source with Corona Cigar, which lists medium to full; notes now state that disagreement. Strength kept from Halfwheel's review."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias ZDT",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Churchill (box-pressed)",
+    "length": 6.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "leather",
+   "black pepper",
+   "cocoa",
+   "oak"
+  ],
+  "about": "The fifth Las 6 Provincias release, honoring Pinar del Rio. ZDT stands for Zona de Tabaco, and the cigars come in a painted 20-count ceramic jar.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-las-6-provincias-zdt/434173/",
+   "https://www.neptunecigar.com/cigars/espinosa-las-6-provincias-zdt",
+   "https://www.cigarsdirect.com/products/las-6-provincias-zdt-box-press-churchill"
+  ],
+  "notes": "One size only; production numbers were not disclosed. Neptune lists it medium and Cigars Direct medium-full. Halfwheel found it medium, climbing to medium-full at the very end.",
+  "verified": true,
+  "verifyNotes": "Size name now says box-pressed (Espinosa lists it as Short Churchill BP, Neptune agrees). Swapped Neptune's brand page for its ZDT product page and the maker page for Cigars Direct; notes now give both retailer strengths."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias ORT",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Extra (box-pressed)",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "wood",
+   "black pepper",
+   "nuts",
+   "earth",
+   "cocoa",
+   "cream"
+  ],
+  "about": "The sixth Las 6 Provincias release, honoring Oriente, Cuba's easternmost original province. It is a box-pressed 6 x 56 made by AJ Fernandez and sold in a hinged display box of 20.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-las-6-provincias-ort/447147/",
+   "https://www.neptunecigar.com/cigars/espinosa-las-6-provincias-ort",
+   "https://www.coronacigar.com/espinosa-las-6-provincias-ort/"
+  ],
+  "notes": "One size only, 1,000 boxes of 20. No maker strength rating; Halfwheel's review and Neptune say full, Corona Cigar says medium to full. It was billed as the last of the six until the Miami (MIA) release was added in 2026.",
+  "verified": true,
+  "verifyNotes": "Added Neptune and Corona Cigar as cross-checks (the entry had one source). Notes now say the retailers split between full and medium to full."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias MIA",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "MIA",
+    "length": 6.25,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "A seventh Las 6 Provincias release named for Miami, often called Cuba's unofficial seventh province. It is a Nicaraguan puro made by AJ Fernandez, shown at the 2026 PCA trade show.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/las-6-provincias-miami-knuckle-sandwich-avant-garde-warhead-12-headline-espinosas-eight-new-pca-releases/466143/",
+   "https://halfwheel.com/pca-2026-espinosa-premium-cigars/466840/"
+  ],
+  "notes": "One size only, 1,000 boxes of 20. Announced April 2026 with a September 2026 target for stores; arrival is not confirmed here. Wrapper variety, strength and tasting notes are not published yet.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "601 La Bomba Warhead Independence Day",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Independence Day 2025 Toro (box-pressed)",
+    "length": 6.5,
+    "ring": 55
+   },
+   {
+    "name": "250 Independence Day 2026 Robusto Gordo",
+    "length": 5.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "cream",
+   "wood",
+   "cocoa"
+  ],
+  "about": "An unnumbered offshoot of Espinosa's 601 La Bomba Warhead limited editions, made by AJ Fernandez. The first came out in June 2025 and a second, marking the 250th anniversary of the United States, followed in 2026.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/601-la-bomba-the-warhead-independence-day/454276/",
+   "https://halfwheel.com/pca-2026-espinosa-premium-cigars/466840/",
+   "https://www.neptunecigar.com/cigar/601-la-bomba-warhead"
+  ],
+  "notes": "Blend shown is the 2025 release (2,500 boxes of 10). The 2026 '250' release (4,000 boxes) uses an undisclosed Ecuadorian wrapper. Retailers list the 2025 as full, but Halfwheel's reviewer found it closer to medium. Neptune lists the 2026 at 5 1/2 x 56 and medium.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed and the 2026 run size (4,000 boxes) added. Strength Full kept: Neptune and Corona Cigar both list the 2025 release as full, against Halfwheel's medium."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Linked",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Churchill",
+    "length": 6.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A line Espinosa created in 2023 only for the retailers that have Espinosa-branded cigar lounges. It is a medium-bodied short Churchill made at La Zona in Esteli.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/espinosa-premium-cigars-creates-new-linked-line-as-an-exclusive-for-its-branded-lounges/427832/"
+  ],
+  "notes": "Sold only at Espinosa-branded lounges (10 shops at launch). Espinosa said it is ongoing production but the blend and size may change from time to time.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "La Zona 10 Year Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Escuro Alto",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "black pepper"
+  ],
+  "about": "A 2022 limited edition marking ten years of the La Zona Cigar Factory in Esteli, where Espinosa began making its cigars. It uses a high-priming version of the Brazilian wrapper found on the Laranja line.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/la-zona-10-year-anniversary/421400/",
+   "https://halfwheel.com/espinosa-premium-cigars-celebrates-10-years-with-two-cigars/410236/"
+  ],
+  "notes": "300 boxes of 30 (9,000 cigars). The wrapper is a higher priming of the Brazilian leaf used on Laranja; no source names the seed variety. The filler includes some pelo de oro. Espinosa describes it as full-flavored but not full strength.",
+  "verified": true,
+  "verifyNotes": "Set wrapperCategory to null: no source calls this wrapper Mata Fina, and Espinosa's own Laranja page names that leaf Brazilian Anaranjado or Ballano. Notes tidied."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "10 Years Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Hybrid Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "black pepper",
+   "earth",
+   "leather",
+   "dark chocolate"
+  ],
+  "about": "A 2022 limited edition marking Espinosa Premium Cigars' first ten years in business. It is a Nicaraguan puro toro with a hybrid habano seed wrapper, made by AJ Fernandez.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/espinosa-premium-cigars-celebrates-10-years-with-two-cigars/410236/",
+   "https://halfwheel.com/espinosa-10-years-anniversary-to-ship-next-week/413897/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-espinosa-10-years-anniversary/"
+  ],
+  "notes": "1,500 boxes of 20 (30,000 cigars). Sources disagree on where the wrapper is grown: Halfwheel's announcement and Developing Palates say Nicaraguan, while Halfwheel's later shipping report and Corona Cigar say Ecuadorian habano hybrid.",
+  "verified": true,
+  "verifyNotes": "Wrapper origin is disputed and left as Nicaragua. Swapped the trade show source for the Halfwheel shipping report that says Ecuadorian, and notes now add that Corona Cigar also says Ecuadorian."
+ },
+ {
+  "brand": "CAO",
+  "line": "FASA Noche",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic (Piloto Cubano), Nicaragua (Jalapa, Esteli, Condega)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "molasses",
+   "white pepper",
+   "chili",
+   "earth",
+   "leather",
+   "oak"
+  ],
+  "about": "The night half of CAO's value-priced FASA series, launched in 2024 alongside FASA Sol. It shares the Cameroon binder and Dominican and Nicaraguan filler of its siblings but wears a dark Connecticut broadleaf wrapper.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.caocigars.com/cigars/fasa-noche/",
+   "https://halfwheel.com/cao-fasa-noche-toro/439120/",
+   "https://www.neptunecigar.com/cigar/cao-fasa-noche"
+  ],
+  "notes": "CAO rates it medium to full; Halfwheel's review and Neptune both put it closer to medium. Each FASA blend is made in a different country: Noche in Nicaragua, Sol in Honduras, Sombra in the Dominican Republic.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "FASA Sombra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian shade-grown",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Dominican Republic (Piloto Cubano), Nicaragua (Jalapa, Esteli, Condega)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "butter",
+   "hay",
+   "cream",
+   "almond"
+  ],
+  "about": "The third and final blend in CAO's FASA series, added in April 2025. It puts an Ecuadorian shade-grown wrapper over the same Cameroon binder and Dominican and Nicaraguan filler as FASA Sol and Noche.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.caocigars.com/cigars/fasa-sombra/",
+   "https://halfwheel.com/cao-fasa-sombra-shipping-next-week/449042/",
+   "https://www.neptunecigar.com/cigar/cao-fasa-sombra"
+  ],
+  "notes": "CAO lists it as medium body. Neptune calls the wrapper Ecuadorian Connecticut Shade; CAO only says Ecuadorian shade-grown. Unlike Noche (Nicaragua) and Sol (Honduras), Sombra is rolled in the Dominican Republic.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "America 250th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Broadleaf and U.S. Connecticut Shade (barber pole)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Havana seed Connecticut)",
+  "filler": "USA (Broadleaf, Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "The Republic (box-pressed robusto)",
+    "length": 5.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "leather",
+   "dried fruit",
+   "oak",
+   "coffee"
+  ],
+  "about": "A 2026 limited edition of CAO America for the 250th anniversary of the United States. It keeps the two-tone barber pole wrapper but uses only U.S.-grown tobacco throughout, though it is rolled in Nicaragua.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.caocigars.com/cigars/america-250th-anniversary/",
+   "https://halfwheel.com/cao-america-250th-anniversary/474427/",
+   "https://halfwheel.com/cao-america-250th-anniversary-and-its-all-american-blend-coming-in-early-may/466602/"
+  ],
+  "notes": "The wrapper is a barber pole of broadleaf and Connecticut shade, so it is not a pure maduro. CAO rates it medium to full; Halfwheel's reviewer found full flavor but only medium strength. One size, production numbers undisclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "CAO",
+  "line": "60 Torque",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torque",
+    "length": 8,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A 2021 limited edition and one of the largest cigars CAO has made, an 8 x 60 with a car theme. It was sold in an oil can style tin of eight.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/cao-60-torque-shipping-this-week/401257/",
+   "https://www.neptunecigar.com/cigar/cao-60-torque"
+  ],
+  "notes": "One size only, sold in tins of eight. Production numbers were not disclosed and Neptune shows it sold out. Strength is Neptune's rating. Neptune lists Honduran filler alongside the Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "Notes rewritten to drop research commentary and flag Neptune's filler difference. Factory comes from Halfwheel's STG Esteli tag; CAO's site has no page for this cigar."
+ },
+ {
+  "brand": "CAO",
+  "line": "Surplus Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic (Olor)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "earth",
+   "spice"
+  ],
+  "about": "The maduro member of CAO Surplus, a budget bundle line of handmade long-filler cigars with military surplus styling. It is rolled in Honduras with a Mexican San Andres wrapper.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cao-gets-surplus-new-bundle-cigar/453210/",
+   "https://www.neptunecigar.com/cigar/cao-surplus-maduro",
+   "https://www.famous-smoke.com/cao-surplus-maduro-toro-cigars-maduro"
+  ],
+  "notes": "General Cigar calls the line Surplus by CAO; it is not on CAO's own site. Famous lists it medium-full and the Toro at 6 x 52; Neptune lists medium and a 6 x 50 Toro. Sold in bundles of 25.",
+  "verified": true,
+  "verifyNotes": "Added release year 2025 and factory STG Danli from Halfwheel's July 2025 launch report, which the researcher missed; it also confirms the binder, so that caveat was dropped from notes. Neptune names a different factory (La Flor de Copan), which looks like an error."
+ },
+ {
+  "brand": "CAO",
+  "line": "Surplus Shade",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic (Olor)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "butter",
+   "almond",
+   "vanilla"
+  ],
+  "about": "The mild member of CAO Surplus, a budget bundle line of handmade long-filler cigars with military surplus styling. It is rolled in Honduras with a Honduran-grown Connecticut wrapper.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cao-gets-surplus-new-bundle-cigar/453210/",
+   "https://www.neptunecigar.com/cigar/cao-surplus-shade",
+   "https://www.famous-smoke.com/cao-surplus-shade-toro-cigars-natural"
+  ],
+  "notes": "General Cigar calls the line Surplus by CAO; it is not on CAO's own site. Famous lists it mild-medium; Neptune lists mild. Sold in bundles of 25.",
+  "verified": true,
+  "verifyNotes": "Added release year 2025 and factory STG Danli from Halfwheel's July 2025 launch report, which the researcher missed; it also confirms the binder, so that caveat was dropped from notes. Neptune names a different factory (La Flor de Copan), which looks like an error."
+ },
+ {
+  "brand": "CAO",
+  "line": "Surplus Sweet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic (Olor)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 5.875,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "honey",
+   "vanilla"
+  ],
+  "about": "The sweet-tip member of CAO Surplus, a budget bundle line of handmade long-filler cigars with military surplus styling. It is rolled in Honduras with an Ecuadorian Sumatra wrapper and a sweetened cap.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cao-gets-surplus-new-bundle-cigar/453210/",
+   "https://www.neptunecigar.com/cigar/cao-surplus-sweet",
+   "https://www.famous-smoke.com/cao-surplus-sweet-robusto-cigars-natural"
+  ],
+  "notes": "This is a sweetened-cap cigar. General Cigar calls the line Surplus by CAO; it is not on CAO's own site. Famous lists it mild-medium; Neptune lists medium. Sold in bundles of 20.",
+  "verified": true,
+  "verifyNotes": "Added release year 2025 and factory STG Danli from Halfwheel's July 2025 launch report, which the researcher missed; it also confirms the binder, so that caveat was dropped from notes. Neptune names a different factory (La Flor de Copan), which looks like an error."
+ },
+ {
+  "brand": "CAO",
+  "line": "Borealis",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Viso",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Canada (Ontario)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "nuts",
+   "cocoa"
+  ],
+  "about": "A CAO blend released in 2022 for the Canadian market only, named for the northern lights. Its filler includes Cuban-seed dark air-cured tobacco grown in southwestern Ontario.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/new-cao-borealis-uses-canadian-grown-tobacco-heading-to-canada-as-regional-release/407940/"
+  ],
+  "notes": "Sold only in Canada, in plain packaging. General Cigar told Halfwheel it was regular ongoing production, not a limited run; whether it is still made today was not confirmed. CAO calls it medium-bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

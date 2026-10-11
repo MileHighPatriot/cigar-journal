@@ -1,0 +1,931 @@
+[
+ {
+  "brand": "Blanco",
+  "line": "Liga Exclusiva de Familia Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro (Lancaster County)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Salomon",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "oak",
+   "earth",
+   "spice",
+   "nuts"
+  ],
+  "about": "David Blanco's personal blend in the Blanco family's Liga Exclusiva de Familia pair, rolled by Plasencia in Nicaragua. It puts a Pennsylvania Broadleaf maduro wrapper over all-Nicaraguan binder and filler.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/blanco-cigar-releases-ipcpr-2012/30089/",
+   "https://www.cigarplace.biz/all-brands/blanco-liga-exclusiva-de-familia-maduro.html",
+   "https://www.neptunecigar.com/cigar/blanco-liga-exclusiva-de-familia-maduro"
+  ],
+  "notes": "The Maduro is David Blanco's personal blend; the Connecticut is Cesar Blanco's.",
+  "verified": true,
+  "verifyNotes": "Changed flavor \"dark chocolate\" to \"chocolate\"; retailers say chocolate only. Strength Full is Neptune's rating."
+ },
+ {
+  "brand": "Blanco",
+  "line": "Liga Exclusiva de Familia Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Shade seed grown in the Talanga Valley, Honduras",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Salomon",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "oak",
+   "white pepper",
+   "wood"
+  ],
+  "about": "Cesar Blanco's personal blend in the Blanco family's Liga Exclusiva de Familia pair, rolled by Plasencia in Nicaragua. It uses a Honduran-grown Connecticut Shade wrapper over Nicaraguan binder and filler.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/blanco-cigar-releases-ipcpr-2012/30089/",
+   "https://www.cigarplace.biz/all-brands/blanco-liga-exclusiva-de-familia-connecticut.html",
+   "https://www.neptunecigar.com/cigars/blanco-liga-exclusiva-de-familia-connecticut-toro"
+  ],
+  "notes": "Retailers disagree on strength: Cigar Place rates it Mild-Medium, Neptune rates it Medium. The 6 1/2 x 54 Torpedo was in the 2012 launch lineup but Cigar Place no longer lists it.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Reworded notes only."
+ },
+ {
+  "brand": "Blanco",
+  "line": "NINE",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo Oscuro (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (triple ligero)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Minuto",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "baking spice",
+   "wood",
+   "cocoa",
+   "white pepper"
+  ],
+  "about": "Blanco's full-strength Nicaraguan puro, made by Plasencia in Esteli with a Corojo Oscuro wrapper and three ligero leaves in the filler. Retailers say the name comes from the nine tries it took to settle the blend.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/blanco-nine-adding-new-vitola/122310/",
+   "https://halfwheel.com/blanco-cigar-releases-ipcpr-2012/30089/",
+   "https://www.cigarplace.biz/all-brands/blanco-nine.html"
+  ],
+  "notes": "Launch year is not published; it was already on sale before 2012. The Minuto was announced in 2016 as 4 1/2 x 38 but is sold as 4 x 38, in five-packs.",
+  "verified": true,
+  "verifyNotes": "Corrected the Minuto note: halfwheel announced it in 2016 as 4 1/2 x 38; halfwheel in 2017 and Cigar Place list it as 4 x 38. Strength Full confirmed on Neptune and Cigar Place. Release year stays null."
+ },
+ {
+  "brand": "Blanco",
+  "line": "Prince Hall Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Sumatra",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Square",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Compass",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Level",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Boaz",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "A Blanco line honoring Prince Hall, the abolitionist regarded as the founder of Black Freemasonry, made at Plasencia in Esteli. The Maduro uses a Nicaraguan habano maduro wrapper over a Sumatran binder and Nicaraguan filler.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/prince-hall-by-blanco-debuts/384738/",
+   "https://cigar-coop.com/2020/12/cigar-news-blanco-cigar-company-launches-prince-hall-cigars.html"
+  ],
+  "notes": "Sold as Prince Hall by Blanco; the launch release called it Habano Maduro. The 7 x 70 is Boaz in Maduro and Jachin in Rosado. Halfwheel names the factory as Plasencia, while Cigar Coop lists La Catedral de Tabaco. Strength is not published.",
+  "verified": false,
+  "verifyNotes": "Wrapper and country confirmed on halfwheel and Cigar Coop. Added the factory disagreement and a second source. Strength left null: no page states it and the maker site could not be opened."
+ },
+ {
+  "brand": "Blanco",
+  "line": "Prince Hall Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Square",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Compass",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Level",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Jachin",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [],
+  "about": "A Blanco line honoring Prince Hall, the abolitionist regarded as the founder of Black Freemasonry, made in Esteli, Nicaragua. The Rosado is a Nicaraguan puro with a habano rosado wrapper.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/prince-hall-by-blanco-debuts/384738/",
+   "https://cigar-coop.com/2020/12/cigar-news-blanco-cigar-company-launches-prince-hall-cigars.html"
+  ],
+  "notes": "Sold as Prince Hall by Blanco; the launch release called it Habano Rosado. The 7 x 70 is Jachin in Rosado and Boaz in Maduro. Halfwheel names the factory as Plasencia, while Cigar Coop lists La Catedral de Tabaco. Strength is not published.",
+  "verified": false,
+  "verifyNotes": "Wrapper leaf changed from \"Nicaraguan Habano\" to \"Nicaraguan Habano Rosado\" per the launch release on Cigar Coop. Added the factory disagreement and a second source. Strength left null: no page states it and the maker site could not be opened."
+ },
+ {
+  "brand": "Blanco",
+  "line": "Cigar Obsession BG Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Short Lonsdale",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Figurado",
+    "length": 5.375,
+    "ring": 60
+   },
+   {
+    "name": "Toro (Barber Pole)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The fourth blend in Blanco's collaboration with Bryan Glynn of the Cigar Obsession YouTube channel, named for Glynn himself. All four sizes are box-pressed with pigtail caps and made at Plasencia in Esteli.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/pca-2021-blanco-cigar-co/396267/",
+   "https://halfwheel.com/blanco-adding-bg-reserve-to-cigar-obsession-series/396596/"
+  ],
+  "notes": "The Toro is a barber pole that adds a Honduran-grown Connecticut Shade wrapper alongside the San Andres. The Figurado tapers from 60 to 54 ring. Strength is not published.",
+  "verified": false,
+  "verifyNotes": "Wrapper, blend, factory and sizes confirmed on both halfwheel pages. Strength left null: halfwheel does not state it and the maker site could not be opened."
+ },
+ {
+  "brand": "Blanco",
+  "line": "Cigar Obsession 1st Third",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Solomon",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cocoa",
+   "cinnamon"
+  ],
+  "about": "The first blend from Blanco's collaboration with Bryan Glynn of the Cigar Obsession YouTube channel, made by Plasencia in Nicaragua. It is box-pressed with an Ecuadorian Sumatra wrapper.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-blanco-cigar-co/169789/",
+   "https://www.neptunecigar.com/cigars/cigar-obsession-1st-third-toro",
+   "https://halfwheel.com/blanco-adding-bg-reserve-to-cigar-obsession-series/396596/"
+  ],
+  "notes": "Halfwheel lists all-Nicaraguan binder and filler; Neptune lists the filler as Nicaragua and Honduras. Strength is Neptune's rating.",
+  "verified": true,
+  "verifyNotes": "Removed flavors \"roasted nuts\" and \"earth\"; the listed sources give only pepper, cocoa and cinnamon."
+ },
+ {
+  "brand": "Blanco",
+  "line": "Cigar Obsession 2nd Third",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "earth"
+  ],
+  "about": "The second blend from Blanco's collaboration with Bryan Glynn of the Cigar Obsession YouTube channel, made by Plasencia in Nicaragua. It was Blanco's first cigar with a Cameroon wrapper.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-blanco-cigar-co/169789/",
+   "https://www.neptunecigar.com/cigars/cigar-obsession-2nd-third-robusto",
+   "https://halfwheel.com/blanco-adding-bg-reserve-to-cigar-obsession-series/396596/"
+  ],
+  "notes": "Sources disagree on the blend: halfwheel lists Nicaraguan binder and filler, while Neptune lists a Mexican San Andres binder with Brazilian and Nicaraguan filler. Neptune rates strength Medium and calls it full-bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Blanco",
+  "line": "Cigar Obsession Final Third",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "almonds"
+  ],
+  "about": "The third blend from Blanco's collaboration with Bryan Glynn of the Cigar Obsession YouTube channel, made by Plasencia in Nicaragua. It is a Nicaraguan puro with a habano wrapper.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-blanco-cigar-co/169789/",
+   "https://www.neptunecigar.com/cigars/cigar-obsession-final-third-robusto",
+   "https://halfwheel.com/blanco-adding-bg-reserve-to-cigar-obsession-series/396596/"
+  ],
+  "notes": "Halfwheel calls the wrapper habano only; Neptune says Nicaraguan habano. Halfwheel lists the Robusto as 5 x 52, Neptune as 5 x 54. Strength is Neptune's rating.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Noted that \"Nicaraguan\" for the wrapper comes from Neptune, not halfwheel."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Original",
+  "found": true,
+  "officialName": "Original (DCO)",
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": null,
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper"
+  ],
+  "about": "The dark, full-strength cigar that founder Desiree Sylver first commissioned and that launched Drunk Chicken Cigars in 2019. It is rolled in the United States with a Mexican San Andres wrapper.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/dco/",
+   "https://halfwheel.com/pca-2021-drunk-chicken-cigars/395997/",
+   "https://halfwheel.com/drunk-chicken-adding-fat-hen-robusto-as-part-of-freshpak-sampler/436875/"
+  ],
+  "notes": "Usually called DCO. Made at an undisclosed factory in Florida. The maker lists the Toro as both 6 x 52 and 6 x 54.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed notes."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Mother Clucker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador",
+  "filler": "Ecuador",
+  "country": "USA",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cedar",
+   "black pepper",
+   "spice"
+  ],
+  "about": "One of the five blends Drunk Chicken Cigars launched with in 2019, a medium-strength habano rolled in the United States. It has also been offered as a box-pressed robusto.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/mother-clucker/",
+   "https://halfwheel.com/pca-2021-drunk-chicken-cigars/395997/",
+   "https://halfwheel.com/drunk-chicken-adding-fat-hen-robusto-as-part-of-freshpak-sampler/436875/"
+  ],
+  "notes": "Made at an undisclosed factory in Florida. The maker hints at one more undisclosed tobacco in the blend and calls it both medium-bodied and medium to full. Its site lists the Toro as both 6 x 52 and 5.5 x 52.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed notes."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Mother Clucker Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Ecuador",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "espresso",
+   "wood",
+   "black pepper",
+   "nuts"
+  ],
+  "about": "A stronger San Andres maduro version of Drunk Chicken's Mother Clucker, introduced at the 2026 PCA show. Unlike the original, it is rolled in Nicaragua.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/mother-clucker-maduro/",
+   "https://halfwheel.com/drunk-chicken-ships-mother-clucker-maduro-living-the-dream-connecticut/471023/",
+   "https://halfwheel.com/pca-2026-drunk-chicken-cigars/464652/"
+  ],
+  "notes": "Halfwheel reports a limited edition of 300 boxes of 20, made at an undisclosed Nicaraguan factory. Size is unsettled: halfwheel reported 5 1/2 x 50, while the maker's site lists a Toro as both 6 x 52 and 6 x 54.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Sizes follow the maker (Toro 6 x 52); halfwheel reports 5 1/2 x 50."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Fat Hen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador",
+  "filler": "Ecuador, Dominican Republic",
+  "country": "USA",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Shorty Torpedo",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "wood"
+  ],
+  "about": "One of the five blends Drunk Chicken Cigars launched with in 2019, a thick-ring habano rolled in the United States. It began as a Gordo and a short 4 x 60 torpedo.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/fat-hen/",
+   "https://halfwheel.com/pca-2021-drunk-chicken-cigars/395997/",
+   "https://halfwheel.com/drunk-chicken-adding-fat-hen-robusto-as-part-of-freshpak-sampler/436875/"
+  ],
+  "notes": "Made at an undisclosed factory in Florida. The maker lists the Toro as both 6 x 52 and 5 x 54. A 5 1/2 x 50 Robusto exists only in the FreshPak sampler.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed notes."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Living The Dream",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic",
+  "country": "USA",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "almonds",
+   "caramel",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "One of the five blends Drunk Chicken Cigars launched with in 2019, a medium habano with Dominican filler. It is rolled in the United States.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/living-the-dream/",
+   "https://halfwheel.com/pca-2021-drunk-chicken-cigars/395997/",
+   "https://halfwheel.com/drunk-chicken-ships-mother-clucker-maduro-living-the-dream-connecticut/471023/"
+  ],
+  "notes": "Made at an undisclosed factory in Florida. The maker lists the Toro as both 6 x 52 and 6 x 54.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed notes."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Living The Dream Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S.-grown Connecticut seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild",
+  "body": "Mild",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "milk chocolate",
+   "vanilla",
+   "almonds",
+   "espresso"
+  ],
+  "about": "A milder, creamier Connecticut-wrapped version of Drunk Chicken's Living The Dream, introduced at the 2026 PCA show. Unlike the original, it is rolled in Nicaragua.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/living-the-dream-conn/",
+   "https://halfwheel.com/drunk-chicken-ships-mother-clucker-maduro-living-the-dream-connecticut/471023/",
+   "https://halfwheel.com/pca-2026-drunk-chicken-cigars/464652/"
+  ],
+  "notes": "Halfwheel reports a limited edition of 300 boxes of 20, made at an undisclosed Nicaraguan factory. Size is unsettled: halfwheel reported 5 1/2 x 50, while the maker's site lists a 6 x 52 Toro.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Sizes follow the maker (Toro 6 x 52); halfwheel reports 5 1/2 x 50."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Sweet Dream",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": null,
+  "strength": "Mild",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "nuts",
+   "vanilla",
+   "maple",
+   "spice"
+  ],
+  "about": "The mild cigar among the five blends Drunk Chicken Cigars launched with in 2019, finished with a lightly sweetened tip. It is rolled in the United States with a Connecticut wrapper.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/sweet-dream/",
+   "https://halfwheel.com/pca-2021-drunk-chicken-cigars/395997/",
+   "https://halfwheel.com/drunk-chicken-adding-fat-hen-robusto-as-part-of-freshpak-sampler/436875/"
+  ],
+  "notes": "Also written Sweet Dreams. It has a sweetened tip. Made at an undisclosed factory in Florida. The maker lists Nicaraguan filler but its description also mentions Dominican, and its site tags the wrapper as US Connecticut.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Wrapper origin stays null: only a site category tag says US Connecticut."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "Homicidal Hen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador",
+  "filler": "Nicaragua (double ligero)",
+  "country": "USA",
+  "factory": null,
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "roasted nuts",
+   "black pepper",
+   "wood",
+   "espresso",
+   "leather"
+  ],
+  "about": "Drunk Chicken's strongest blend, a Pennsylvania Broadleaf cigar released once a year in limited numbers since 2020. It is rolled in the United States.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/homicidal-hen/",
+   "https://halfwheel.com/drunk-chicken-homicidal-hen-returning-at-pca-2023/424291/",
+   "https://halfwheel.com/drunk-chickens-homicidal-hen-gets-new-vitola-for-2024/444310/"
+  ],
+  "notes": "Annual limited release, made at an undisclosed Florida factory. It was 5 1/2 x 50 from 2020 to 2023 and 5 x 54 in 2024. The maker now lists a Toro as 6 x 52, 6 x 54 and 5.5 x 52 in different places.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. The maker says only Broadleaf Maduro or US Broadleaf; Pennsylvania is from halfwheel."
+ },
+ {
+  "brand": "Drunk Chicken",
+  "line": "The Henchmen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Connecticut seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador",
+  "filler": "Nicaragua (double ligero)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "milk chocolate",
+   "caramel",
+   "almonds",
+   "leather"
+  ],
+  "about": "A Connecticut-wrapped toro with Nicaraguan ligero filler, and the first Drunk Chicken cigar made outside the United States. It debuted at the 2025 PCA show.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.drunkchickencigars.com/product/henchman/",
+   "https://halfwheel.com/drunk-chicken-adding-the-henchman-at-pca-2025/447158/",
+   "https://halfwheel.com/pca-2025-drunk-chicken-cigars/447157/"
+  ],
+  "notes": "The maker writes both The Henchmen and The Henchman; halfwheel uses The Henchman. Halfwheel lists a Nicaraguan binder and a 6 x 54 size in a 250-box run; the maker says Ecuador binder and 6 x 52. Factory is undisclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

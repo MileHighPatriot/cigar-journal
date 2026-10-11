@@ -1,0 +1,887 @@
+[
+ {
+  "brand": "League of Fat Bastards",
+  "line": "Serie L",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Joya de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Giggly Piggly",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "earth",
+   "leather",
+   "cocoa",
+   "spice"
+  ],
+  "about": "The first League of Fat Bastards blend, made at Joya de Nicaragua and developed remotely during the pandemic by founder Adam Levine. The brand gives 40 percent of its net profits to men's mental health causes.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/league-of-fat-bastards-aims-to-bring-mens-mental-health-to-light-through-cigars/436309/",
+   "https://www.neptunecigar.com/cigar/league-of-fat-bastards-serie-l",
+   "https://www.lovelofb.com/lofb-cigars"
+  ],
+  "notes": "halfwheel describes the wrapper as Ecuadorian-grown Havana seed; Neptune lists it as an Ecuadorian maduro. Strength is Neptune's listing. It launched in three sizes; the Corona and Giggly Piggly came later.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "League of Fat Bastards",
+  "line": "Serie O",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Negro Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua (Condega seco and ligero, Jalapa viso)",
+  "country": "Nicaragua",
+  "factory": "Joya de Nicaragua",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Giggly Piggly",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "6x60 Box Pressed",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cherry",
+   "earth",
+   "spice"
+  ],
+  "about": "The second League of Fat Bastards line, a bolder San Andres-wrapped blend made at Joya de Nicaragua. Profits from the Giggly Piggly size go to mental health causes for first responders.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/league-of-fat-bastards-adding-serie-o-this-week/444588/",
+   "https://www.neptunecigar.com/cigar/league-of-fat-bastards-serie-o",
+   "https://www.lovelofb.com/lofb-cigars"
+  ],
+  "notes": "The maker calls it full-bodied and Neptune lists it as full; Neptune's write-up also calls it full to medium.",
+  "verified": true,
+  "verifyNotes": "No change. Neptune currently lists four sizes, without the 6 x 60 box pressed that halfwheel reported at launch."
+ },
+ {
+  "brand": "League of Fat Bastards",
+  "line": "Skinny Bastarda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportacion (TABADEX)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.25,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "licorice",
+   "earth",
+   "black pepper",
+   "molasses",
+   "leather",
+   "raisin"
+  ],
+  "about": "A slim corona blended by Raquel and Patricia Quesada of Quesada Cigars as a tribute to women in the cigar world. It is sold in five-packs.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/league-of-fat-bastards-enlists-quesada-cigars-to-create-new-skinny-bastarda-as-tribute-to-women/448921/",
+   "https://www.cigaraficionado.com/ratings/26654/name/league-of-fat-bastards-skinny-bastarda",
+   "https://www.neptunecigar.com/cigar/league-of-fat-bastards-skinny-bastarda"
+  ],
+  "notes": "The blend is secret; the Quesada sisters did not even tell the brand owner. Cigar Aficionado lists a Dominican wrapper over Nicaraguan binder and filler and rates it medium-full (90 points); Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Removed the 20-count bundle claim from about, since halfwheel and Neptune show five-packs only. Simplified factory to the TABADEX name halfwheel gives. Wrapper left null because the maker keeps the blend secret."
+ },
+ {
+  "brand": "League of Fat Bastards",
+  "line": "Wingman",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "sweetness"
+  ],
+  "about": "The first limited edition from League of Fat Bastards, a single 6 x 52 toro named for the friend who has your back. Production was limited to 5,000 cigars.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/league-of-fat-bastards-announces-wingman-as-first-limited-edition/456242/",
+   "https://www.neptunecigar.com/cigar/league-of-fat-bastards-wingman"
+  ],
+  "notes": "The company did not name the factory; Neptune lists Joya de Nicaragua as the maker. The company calls it medium to full bodied, while Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "No change. Country rests on Neptune alone, because the company did not say where it is made."
+ },
+ {
+  "brand": "League of Fat Bastards",
+  "line": "Department of Honor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (milder blend) and Mexican San Andres (stronger blend)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A four-pack of coronas honoring first responders and the US armed forces, with two cigars each of a milder and a stronger blend. It was sold only to retailers at the 2026 PCA trade show.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/league-of-fat-bastards-releasing-department-of-honor-as-first-pca-exclusive/465153/"
+  ],
+  "notes": "Two blends in one pack: the lighter one has a habano wrapper, the heavier one Mexican San Andres. The rest of the blend, the exact corona size and the factory were not disclosed. First run was 400 packs.",
+  "verified": true,
+  "verifyNotes": "No change. halfwheel confirms the company has not disclosed the factory, exact size or strength."
+ },
+ {
+  "brand": "Don Julio",
+  "line": "Punta Espada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Habano 20/20 ligero, HVA ligero, Piloto Mejorado ligero)",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Paca",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "tobacco",
+   "citrus",
+   "pepper",
+   "grass"
+  ],
+  "about": "A Dominican puro from the Reyes family's De Los Reyes factory, named for third-generation grower Julio Samuel Reyes Fermin. It was the last new regular Don Julio line until Sang Bleu in 2024.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/reyes-set-don-julio-punta-espada-release/64891/",
+   "https://www.neptunecigar.com/don-julio-cigar",
+   "https://www.coronacigar.com/don-julio-punta-espada-robusto/"
+  ],
+  "notes": "Don Julio is a brand of De Los Reyes (formerly Corporacion Cigar Export), not the tequila. The maker called it medium bodied but full in flavor; Neptune lists medium and Corona Cigar lists medium to full. The Paca is box pressed.",
+  "verified": true,
+  "verifyNotes": "Reworded about to match halfwheel. Added Corona Cigar as a cross-check and noted its higher strength listing. Neptune shows every size out of stock."
+ },
+ {
+  "brand": "Don Julio",
+  "line": "Sang Bleu",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "P2",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Salomon",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "earth",
+   "oak",
+   "nuts",
+   "bread",
+   "leather",
+   "minerals"
+  ],
+  "about": "A Dominican puro with a habano-seed wrapper, made by De Los Reyes. Released in 2024, it was the first new regular Don Julio line since Punta Espada in 2014.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/de-los-reyes-begins-shipping-don-julio-sang-bleu-robusto/438728/",
+   "https://halfwheel.com/don-julio-sang-bleu-p%c2%b2/448615/",
+   "https://www.coronacigar.com/don-julio-sang-bleu-p-square/"
+  ],
+  "notes": "Strength and flavors come from halfwheel's review of the P2 size, which started medium and built to medium-full. halfwheel reports a habano-seed wrapper; Corona Cigar lists Dominican corojo and medium strength. The P2 and Salomon are shaped, pricier sizes.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added the Corona Cigar disagreement on wrapper and strength to notes."
+ },
+ {
+  "brand": "Don Julio",
+  "line": "Year of the Dragon Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A 2024 Chinese zodiac limited edition from De Los Reyes under its Don Julio brand, sold as a single 6 x 52 toro. It was limited to 800 boxes of 24 worldwide.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/don-julios-year-of-the-dragon-limited-edition-cigar-heads-to-stores/437783/",
+   "https://www.coronacigar.com/don-julio-year-of-the-dragon-le-toro/"
+  ],
+  "notes": "The maker calls the blend under the wrapper a secret and says only that it includes aged Dominican tobaccos. The maker gave no strength rating; Corona Cigar lists it as medium to full.",
+  "verified": false,
+  "verifyNotes": "Set filler to null because the maker calls the blend secret. Wrapper and country confirmed on halfwheel and Corona Cigar. Strength left null: only one retailer lists one and the maker site could not be reached."
+ },
+ {
+  "brand": "Don Julio",
+  "line": "Year of the Snake",
+  "found": true,
+  "officialName": "Year of the Snake Limited Edition",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The second Chinese zodiac limited edition for De Los Reyes' Don Julio brand, a 6 x 54 toro released in April 2025. Production was 500 boxes of 24.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2025-de-los-reyes/450574/"
+  ],
+  "notes": "No strength rating or tasting notes were published.",
+  "verified": false,
+  "verifyNotes": "No change. Wrapper, binder, filler, size and production confirmed on halfwheel. No source gives a strength and the maker site could not be reached to confirm none is published."
+ },
+ {
+  "brand": "Don Julio",
+  "line": "Year of the Horse Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "De Los Reyes",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The 2026 Chinese zodiac limited edition from De Los Reyes' Don Julio brand, a 6 x 54 toro that shipped in February 2026. It is limited to 500 boxes of 24.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-de-los-reyes/462066/"
+  ],
+  "notes": "halfwheel describes it only as an Ecuadorian habano wrapper over Dominican tobaccos. No strength rating or tasting notes were published.",
+  "verified": false,
+  "verifyNotes": "No change. Wrapper, size and production confirmed on halfwheel. No source gives a strength and the maker site could not be reached to confirm none is published."
+ },
+ {
+  "brand": "ATL Cigar Co.",
+  "line": "ATL Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Masatepe)",
+  "filler": "Nicaragua (Esteli, Jalapa, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigars (formerly Tabacalera Pichardo)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "earth",
+   "espresso",
+   "sweetness",
+   "black pepper"
+  ],
+  "about": "A San Andres maduro from Atlanta-based ATL Cigar Co., made in Esteli. The maker bills it as full bodied but smooth, strong without being harsh.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://shop.atlcigar.co/products/atl-black-2",
+   "https://halfwheel.com/atl-cigar-co-announces-reblend-and-new-size-of-atl-black-production-moved-to-tabacalera-pichardo/409540/",
+   "https://halfwheel.com/pca-2023-atl-cigar-co/426799/"
+  ],
+  "notes": "It was reblended in 2022 when production moved to Tabacalera Pichardo, now Luciano Cigars. A 6 3/4 x 50 Elegance toro extra was added in 2023 but is not on the maker's current size list.",
+  "verified": true,
+  "verifyNotes": "No change. halfwheel spelled the binder region Masaya in 2022 and Massatepe in 2023. No source found for the original release year."
+ },
+ {
+  "brand": "ATL Cigar Co.",
+  "line": "Magic",
+  "found": true,
+  "officialName": "ATL Magic",
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Pueblo Nuevo)",
+  "filler": "Nicaragua (Pueblo Nuevo, Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigars (formerly Tabacalera Pichardo)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "earth",
+   "spice"
+  ],
+  "about": "ATL Cigar Co.'s fourth release, a San Andres-wrapped Nicaraguan blend that debuted in 2021 as a single 6 x 54 toro. The name nods to Atlanta's quiet influence on music, film and culture.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://shop.atlcigar.co/products/magic-2",
+   "https://halfwheel.com/atl-cigar-co-launching-atl-magic-next-month/400899/",
+   "https://halfwheel.com/pca-2022-atl-cigar-co/409586/"
+  ],
+  "notes": "The maker rates it medium-plus in strength. A 6 1/2 x 50 Double Robusto was added in 2023 but is not on the maker's current size list.",
+  "verified": true,
+  "verifyNotes": "No change. Medium-Full is the nearest fit for the maker's \"medium-plus\"."
+ },
+ {
+  "brand": "ATL Cigar Co.",
+  "line": "Good Trouble",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Jalapa), Indonesia (Besuki)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "sweetness"
+  ],
+  "about": "ATL Cigar Co.'s tribute to the late Congressman John Lewis, taking its name from his call to get into good trouble. The maker describes it as medium in strength but full bodied, with a natural sweetness.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://shop.atlcigar.co/products/good-trouble-2",
+   "https://halfwheel.com/atl-cigar-co-adding-new-vitolas-to-good-trouble-atl-black-and-atl-magic-lines-at-pca-2023/425268/",
+   "https://cigar-coop.com/2023/07/cigar-news-atl-cigar-co-revamps-good-trouble-line-and-adds-corona-size.html"
+  ],
+  "notes": "The blend has changed more than once. The maker now lists a Sumatra wrapper (origin not stated); halfwheel reported a 2023 reblend with an Ecuadorian habano 2000 wrapper. It was first made at Tabacalera Hernandez, then Luciano Cigars; the maker does not name the current factory.",
+  "verified": true,
+  "verifyNotes": "Added Cigar Coop as the source for country and factory history, and shortened notes. Country is as of the 2023 version; the maker page gives no country or factory for the current blend."
+ },
+ {
+  "brand": "ATL Cigar Co.",
+  "line": "Wise Blood",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Connecticut)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Luciano Cigars",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "almond",
+   "lemon zest"
+  ],
+  "about": "The first mild-to-medium cigar from ATL Cigar Co., named after Flannery O'Connor's first novel. It debuted in 2023 and is made in Esteli.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://shop.atlcigar.co/products/wise-blood",
+   "https://halfwheel.com/atl-cigar-co-debuting-new-wise-blood-line-at-tpe/419913/",
+   "https://halfwheel.com/atl-wise-blood-lonsdale/428088/"
+  ],
+  "notes": "The fillers come from three Nicaraguan regions the maker does not name.",
+  "verified": true,
+  "verifyNotes": "Reworded about: the maker calls it its first mild-to-medium cigar, not its mildest."
+ },
+ {
+  "brand": "ATL Cigar Co.",
+  "line": "La Carrousel 1960",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Esteli)",
+  "country": "Nicaragua",
+  "factory": "Casa Y Hernandez",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "molasses",
+   "oak",
+   "earth"
+  ],
+  "about": "A full-strength cigar from ATL Cigar Co., released in 2026 and named for the integrated jazz club inside Paschal's Motor Hotel in Atlanta. The company rates it 4.8 out of 5 in strength.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/atl-cigar-co-adding-la-carrousel-1960/466693/",
+   "https://halfwheel.com/pca-2026-atl-cigar-co/461916/",
+   "https://shop.atlcigar.co/collections/cigars-1"
+  ],
+  "notes": "Also written La Carrousel-1960. Unlike the older ATL lines, it is made at Casa Y Hernandez in Esteli.",
+  "verified": true,
+  "verifyNotes": "Reworded about: sources call it full strength but do not say it is the strongest in the lineup."
+ },
+ {
+  "brand": "Avowed",
+  "line": "The Vow",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98, Corojo 99, San Vicente)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "6.29 Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "7.05 Corona Gorda",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "11.25 Grand Robusto",
+    "length": 5.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "nougat",
+   "coffee",
+   "brown sugar",
+   "oak",
+   "nuts",
+   "milk chocolate"
+  ],
+  "about": "The first blend from Avowed Cigar Co., a brand started by people behind Small Batch Cigar and made at Klaas Kelner's factory. Each size is its own blend, named for the date that blend was approved.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://avowedcigars.com/the-vow",
+   "https://halfwheel.com/avowed-cigar-co-launches-with-three-blends/447368/",
+   "https://halfwheel.com/the-vow-11-25-debuts/455235/"
+  ],
+  "notes": "Each size is blended separately: the 6.29 adds Cotui tobacco and is the gentler one, the 7.05 is more intense, and the 11.25 adds a leaf of Brazilian Cubra. The maker gives no strength rating.",
+  "verified": true,
+  "verifyNotes": "No change. The maker page gives no strength rating."
+ },
+ {
+  "brand": "Avowed",
+  "line": "New Dawn",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98, San Vicente)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nougat",
+   "cedar",
+   "almond",
+   "bread",
+   "honeysuckle"
+  ],
+  "about": "Avowed's all-day cigar, blended by Klaas Kelner with a darker-than-usual Ecuadorian Connecticut wrapper. It launched in 2025 alongside The Vow.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://avowedcigars.com/new-dawn",
+   "https://halfwheel.com/avowed-cigar-co-launches-with-three-blends/447368/",
+   "https://halfwheel.com/new-dawn-corona-gorda/465472/"
+  ],
+  "notes": "The wrapper looks darker than a typical Connecticut but the cigar is mild-medium. The Corona Gorda, added in 2026, uses a slightly modified blend with a different priming of piloto cubano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Avowed",
+  "line": "Hallowed Hands",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Corojo 99, San Vicente, Piloto Cubano, Criollo 98, Pennsylvania Broadleaf",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto Box Press",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "dark chocolate",
+   "pepper",
+   "earth",
+   "citrus",
+   "espresso"
+  ],
+  "about": "Avowed's third regular line, released in February 2026 for the company's first anniversary. It is the brand's first cigar with an Ecuadorian corojo wrapper and includes its first box-pressed size.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://avowedcigars.com/hallowed-hands",
+   "https://halfwheel.com/avowed-adds-hallowed-hands/462027/"
+  ],
+  "notes": "The box-pressed robusto gets extra Pennsylvania broadleaf in the filler. Boxes hold 15 cigars, each with a different band.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Avowed",
+  "line": "Awakening",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Hybrid (Capa Marron)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic (Piloto Cubano, San Vicente, Criollo 98), USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "malt",
+   "cream",
+   "bread",
+   "oak",
+   "molasses",
+   "leather"
+  ],
+  "about": "Avowed's first limited edition, built around a small supply of an Ecuadorian hybrid wrapper that has not been grown in more than a decade. It comes in one size and was limited to 2,000 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://avowedcigars.com/awakening",
+   "https://halfwheel.com/avowed-cigar-co-launches-with-three-blends/447368/",
+   "https://halfwheel.com/awakening/449040/"
+  ],
+  "notes": "The maker rates it medium-plus; halfwheel's reviewer found medium strength with full flavor. The wrapper is a hybrid the company calls Capa Marron, so it does not fit a standard wrapper type.",
+  "verified": true,
+  "verifyNotes": "Reworded about to match halfwheel (more than a decade, four bales bought). Medium-Full is the nearest fit for the maker's \"Medium+\"."
+ },
+ {
+  "brand": "Avowed",
+  "line": "The Vow 6.29 Higher Calling",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic (Cotui, Corojo 99, Criollo 98, Piloto Cubano, San Vicente)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Cigars S.A.S.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited version of Avowed's The Vow 6.29 toro, released for Father's Day 2025 with higher-priming fillers and two years of age. Production was 450 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/avowed-adding-the-vow-higher-calling-later-this-month/451601/"
+  ],
+  "notes": "This is a limited edition of one size of The Vow, not a separate line. On paper the blend matches the regular 6.29; the maker says the extra age makes it creamier. No strength rating was published.",
+  "verified": true,
+  "verifyNotes": "No change. The maker page for The Vow gives no strength rating and does not list Higher Calling."
+ }
+]

@@ -1,0 +1,994 @@
+[
+ {
+  "brand": "Somm",
+  "line": "BDX",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa viso)",
+  "filler": "Mexico (San Andrés), Nicaragua (Jalapa viso), Honduras (broadleaf)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Box Pressed Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "nuts",
+   "earth",
+   "plum",
+   "raisin",
+   "white pepper"
+  ],
+  "about": "One of the first two blends from Somm, the brand of sommelier and distributor Vlada Stojanov, named as shorthand for Bordeaux. It has a San Andrés wrapper and Honduran broadleaf in the filler, and is rolled at the Cavalier Genève factory in Danlí.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://sommcigars.com/blends/",
+   "https://halfwheel.com/somm-bdx/423127/",
+   "https://halfwheel.com/somm-bdx-adds-two-new-sizes/427650/"
+  ],
+  "notes": "Made in small batches, and halfwheel classed the first 400-box Robusto run as a limited edition. The maker calls it medium-bodied, while halfwheel found the strength mild to medium. A 5 5/8 x 46 Corona Gorda was a limited 2024 run.",
+  "verified": true,
+  "verifyNotes": "About corrected: BDX was one of two debut blends, not the only first one. Note now says halfwheel filed the first run as a limited edition. Blend, factory, sizes and year confirmed on the maker page and halfwheel."
+ },
+ {
+  "brand": "Somm",
+  "line": "BDX Blanc",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua (Estelí seco and viso), Honduras (Jamastran seco), Dominican Republic (Piloto Cubano)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "vanilla",
+   "cedar",
+   "milk chocolate",
+   "nuts"
+  ],
+  "about": "A Connecticut-wrapped companion to Somm BDX, named for the white wines of Bordeaux. All of the tobacco was aged at least three years before rolling at the same Honduran factory that makes BDX.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://sommcigars.com/blends/",
+   "https://halfwheel.com/somm-bdx-blanc-heading-to-stores/437540/"
+  ],
+  "notes": "The maker describes it as light to medium in body. Halfwheel also lists Jalapa tobacco in the Nicaraguan filler, where the maker lists only Estelí.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Somm",
+  "line": "Rioja",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Sumatra (origin undisclosed)",
+  "filler": "Dominican Republic (Criollo 98, Criollo 99 and other Dominican leaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Díaz Cabrera",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "cream",
+   "oak",
+   "cedar",
+   "baking spice",
+   "white pepper"
+  ],
+  "about": "Somm's third blend, named for the Spanish wine region and made at Eladio Diaz's Tabacalera Díaz Cabrera. It uses a Dominican Corojo wrapper over a Sumatra binder and Dominican fillers aged three to four years.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://sommcigars.com/blends/",
+   "https://halfwheel.com/somm-rioja-robusto/438257/",
+   "https://halfwheel.com/somm-rioja-soft-launches-at-luxury-cigar-club/432550/"
+  ],
+  "notes": "Soft launched in December 2023 through Luxury Cigar Club before wider release in early 2024. A 7 x 39 Lancero was a limited run of 1,000 cigars in December 2024.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Somm",
+  "line": "Premier Cru",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican, Bonao (1997 harvest, Kelner family reserve)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Monte Plata, 2007 harvest)",
+  "filler": "Dominican Republic (San Vicente), Peru (Pelo de Oro), BVS African hybrid (origin undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pirámides",
+    "length": 6,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "oak",
+   "pepper",
+   "nuts",
+   "apple"
+  ],
+  "about": "A limited edition pyramid made for Somm at Hendrik Kelner Jr.'s Kelner Boutique Factory from very old Kelner family tobaccos, including a 1997 wrapper. It came in numbered boxes of five signed by Kelner.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://sommcigars.com/blends/",
+   "https://halfwheel.com/somm-premier-cru/424393/"
+  ],
+  "notes": "Production figures differ: the maker says 3,000 cigars, halfwheel reported 300 boxes of five (1,500 cigars). The maker calls the body medium-full, while halfwheel found the strength about medium. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Note now records that halfwheel's review put strength at about medium against the maker's medium-full body. Other fields confirmed."
+ },
+ {
+  "brand": "Somm",
+  "line": "Premier Cru Petra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, Estelí (14 years old)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa, 7 years old)",
+  "filler": "Nicaragua (Condega viso, Estelí seco, Jalapa seco, Jalapa viso)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "cream",
+   "wood",
+   "earth",
+   "nuts"
+  ],
+  "about": "A one-off limited edition from Somm and its first all-Nicaraguan blend, built around a 14-year-old Estelí wrapper. It was rolled in November 2024 at the Cavalier Genève factory in Honduras and named after founder Vlada Stojanov's daughter.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/somm-premier-cru-petra-coming-this-month/461609/",
+   "https://halfwheel.com/somm-premier-cru-petra/464614/"
+  ],
+  "notes": "About 220 bundles of five (roughly 1,100 cigars). Halfwheel rated strength just under medium and body just over medium. Unlike the original Premier Cru, it is made in Honduras, not at Kelner Boutique Factory.",
+  "verified": true,
+  "verifyNotes": "Note trimmed to three sentences. All fields confirmed."
+ },
+ {
+  "brand": "Somm",
+  "line": "Premier Cru Petra II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, Jalapa (7 years old)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí, 14 years old)",
+  "filler": "Nicaragua (Condega viso, Estelí seco, Jalapa seco, Jalapa viso)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The follow-up to Somm Premier Cru Petra, using the same Nicaraguan tobaccos with the wrapper and binder swapped. It was rolled in January 2025 at the Cavalier Genève factory in Honduras.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/somm-premier-cru-petra-ii-released/475181/"
+  ],
+  "notes": "Limited to 1,027 cigars and sold only through Small Batch Cigar. The original Petra's 14-year-old Estelí wrapper is the binder here and its Jalapa binder is the wrapper. No strength rating or tasting notes are published.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength left null: neither halfwheel nor the maker's site publishes one."
+ },
+ {
+  "brand": "Bandolero",
+  "line": "Aventureros",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Peruvian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Peru",
+  "binder": "Peru",
+  "filler": "Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salvajes",
+    "length": 4.125,
+    "ring": 50
+   },
+   {
+    "name": "Audaces",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Osados",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Sagaces",
+    "length": 5.375,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "The lightest of the Bandolero series from Nelson Alfonso's Selected Tobacco, also called Serie A. The maker's catalogue lists it as an all-Peruvian blend rated light to medium.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.bandolero.com/vitolario-bandolero/",
+   "https://www.bandolero.com/producto/sagaces/",
+   "https://halfwheel.com/bandolero-firecracker/412769/"
+  ],
+  "notes": "Also called Serie A. The maker's catalogue lists Peruvian wrapper, binder and filler and rates it light to medium. Halfwheel and Neptune both describe the wrapper as Ecuadorian, and Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": "Kept the maker's all-Peruvian blend and light to medium rating, confirmed on four product pages. Note now adds that Neptune (neptunecigar.com/bandolero-aventureros-cigar) as well as halfwheel gives an Ecuadorian wrapper, and that Neptune rates it full."
+ },
+ {
+  "brand": "Bandolero",
+  "line": "Clandestinos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Peru",
+  "filler": "Dominican Republic, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bárbaros",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Traviesos",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Soberbios",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Colosales",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The middle-strength Bandolero series from Selected Tobacco, also called Serie C. It pairs an Ecuadorian wrapper with a Peruvian binder and is rolled at Tabacos de Costa Rica.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.bandolero.com/vitolario-bandolero/",
+   "https://www.bandolero.com/producto/colosales/",
+   "https://www.neptunecigar.com/bandolero-cigar"
+  ],
+  "notes": "Also called Serie C. The maker rates it medium to full (the Traviesos torpedo is listed as light), while Neptune lists it as full. Halfwheel describes the filler as Dominican, Nicaraguan and undisclosed.",
+  "verified": true,
+  "verifyNotes": "Note trimmed to three sentences. All fields confirmed."
+ },
+ {
+  "brand": "Bandolero",
+  "line": "Traficantes",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Peru",
+  "filler": "Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tremendos",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Pícaros",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Vanidosos",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pretenciosos",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The strongest Bandolero series from Selected Tobacco, also called Serie T. It uses an Ecuadorian wrapper over a Peruvian binder with Nicaraguan ligero and seco in the filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.bandolero.com/vitolario-bandolero/",
+   "https://www.bandolero.com/producto/vanidosos/",
+   "https://www.neptunecigar.com/bandolero-cigar"
+  ],
+  "notes": "Also called Serie T. Vanidosos is a 6 x 54 pyramid. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Bandolero",
+  "line": "Selección Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Intrépidos",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Irónicos",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Atrevidos",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Bravos",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Magníficos",
+    "length": 5.75,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "A medium-strength Bandolero series from Selected Tobacco with an Ecuadorian wrapper, Nicaraguan binder and Nicaraguan and Peruvian filler. The maker lists the finished cigars as aged four years.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.bandolero.com/cigar-table/",
+   "https://www.bandolero.com/producto/bravos/",
+   "https://halfwheel.com/united-cigars-adds-bandolero-premium/448932/"
+  ],
+  "notes": "The maker's catalogue lists Dominican leaf in place of Nicaraguan for part of the Irónicos and Magníficos blends, and rates the small Intrépidos as light. Bandolero Premium, sold in the U.S., uses the same vitola names and tobacco origins.",
+  "verified": true,
+  "verifyNotes": "About reworded to drop the unsupported claim that this is the top series. Swapped the catalogue carousel link for the halfwheel story that states Bandolero is rolled at Tabacos de Costa Rica, since the maker pages do not name the factory."
+ },
+ {
+  "brand": "Bandolero",
+  "line": "Premium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (ligero), Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Irónicos",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Bravos",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Magníficos",
+    "length": 6,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "An extra-aged Bandolero from Selected Tobacco. The cigars are rolled in Costa Rica, then aged three years in Madrid in humidors lined with five kinds of cedar.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/united-cigars-adds-bandolero-premium/448932/",
+   "https://halfwheel.com/pca-2025-selected-tobacco-s-a/450857/"
+  ],
+  "notes": "Halfwheel's launch story called it limited production, while its PCA 2025 report listed it as regular production. It shares vitola names and tobacco origins with the maker's Selección Especial series. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Note trimmed to three sentences. Strength left null: no rating is published in either halfwheel report and the maker's site does not list this line."
+ },
+ {
+  "brand": "Byron",
+  "line": "19th Century",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Poemas",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Poemas",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Grand Poemas",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Épique Poemas",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "One of the core Byron lines from Nelson Alfonso's Selected Tobacco, also written Serie Siglo XIX. The cigars are rolled at Tabacos de Costa Rica and aged for years after rolling before release.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.byroncigars.com/vitolario-byron/",
+   "https://www.byroncigars.com/producto/poemas/",
+   "https://halfwheel.com/byron-19th-century-epique-poemas-humidor-shipping-next-week/415366/"
+  ],
+  "notes": "Also written Serie Siglo XIX. The maker rates it medium to full, while Neptune describes it as medium-bodied. Aged vintage and humidor editions of the Grand Poemas and Épique Poemas are limited.",
+  "verified": true,
+  "verifyNotes": "Note trimmed to three sentences. All fields confirmed."
+ },
+ {
+  "brand": "Byron",
+  "line": "20th Century",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Peru",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londinenses",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Habaneros",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Venecianos",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Mesolongis",
+    "length": 7.25,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "One of the core Byron lines from Selected Tobacco, also written Serie Siglo XX. It is rolled at Tabacos de Costa Rica and given several years of aging after rolling.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.byroncigars.com/vitolario-byron/",
+   "https://www.byroncigars.com/producto/habaneros/",
+   "https://halfwheel.com/selected-tobacco-releases-trio-of-aged-byron-releases/394736/"
+  ],
+  "notes": "The blend is only partly disclosed and sources differ: the maker's catalogue lists a Peruvian binder with Dominican and Nicaraguan filler, while halfwheel reported an undisclosed binder and Dominican and Peruvian filler. The maker rates it medium to full; Neptune says medium-bodied.",
+  "verified": true,
+  "verifyNotes": "Note corrected: halfwheel reported an undisclosed binder for this line, not a Dominican one (that was the 21st Century). Other fields confirmed on the maker's product pages."
+ },
+ {
+  "brand": "Byron",
+  "line": "21st Century",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Peru",
+  "filler": "Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Distinguidos",
+    "length": 6,
+    "ring": 55
+   },
+   {
+    "name": "Elegantes",
+    "length": 6.125,
+    "ring": 55
+   },
+   {
+    "name": "Honorables",
+    "length": 7,
+    "ring": 60
+   },
+   {
+    "name": "Aristócratas",
+    "length": 8,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The mildest of the three Byron century lines from Selected Tobacco, also written Serie Siglo XXI. It is rolled at Tabacos de Costa Rica and the regular release is aged about four years after rolling.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.byroncigars.com/vitolario-byron/",
+   "https://www.byroncigars.com/producto/aristocratas/",
+   "https://halfwheel.com/ipcpr-2018-selected-tobacco-s-a/276225/"
+  ],
+  "notes": "Sources differ on the wrapper: halfwheel called it Ecuadorian habano in 2018 and Ecuadorian Connecticut-seed in 2025, and earlier reports gave a Dominican binder. The maker lists the Distinguidos with a different blend (Nicaraguan wrapper) and rates it medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Byron",
+  "line": "1850",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Peru",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 8,
+    "ring": 54
+   },
+   {
+    "name": "No. 2",
+    "length": 7,
+    "ring": 56
+   },
+   {
+    "name": "No. 3",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 4",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "oak",
+   "cream",
+   "black pepper",
+   "earth",
+   "bread"
+  ],
+  "about": "A Byron line launched in November 2022 ahead of the brand's 175th anniversary. The cigars are aged in both cedar and French oak rooms at Tabacos de Costa Rica.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/byron-1850-launching-next-week/415712/",
+   "https://halfwheel.com/byron-1850-no-2/419963/",
+   "https://www.byroncigars.com/cigars-table/"
+  ],
+  "notes": "The maker's catalogue calls it Selección 1850 and rates the No. 1 and No. 2 medium and the No. 3 and No. 4 medium to full; halfwheel found the No. 2 mild in strength. The Grand Bouquet (6 x 58) and Líricos (9 1/4 x 55) figurados are sold only at events. The wrapper variety is not published.",
+  "verified": true,
+  "verifyNotes": "Note now cites halfwheel's review, which found the No. 2 mild in strength, in place of the Neptune rating. Other fields confirmed."
+ },
+ {
+  "brand": "Byron",
+  "line": "21st Century Aristocratas 10-Year Aged",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Peru",
+  "filler": "Peru, Nicaragua",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Aristócratas",
+    "length": 8,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited release of the Byron 21st Century Aristócratas given ten years of aging, more than twice the four years the regular version gets. It comes in 25-count black lacquer boxes.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/byron-21st-century-aristocratas-10-year-aged-arriving-at-retailers/452097/",
+   "https://halfwheel.com/10-year-aged-version-of-byron-21st-century-aristocratas-debuting-at-pca-2025/449275/",
+   "https://www.byroncigars.com/producto/aristocratas/"
+  ],
+  "notes": "One size of the Byron 21st Century line with extra aging, not a separate blend. Halfwheel calls the wrapper Ecuadorian Connecticut-seed here but called the same line's wrapper Ecuadorian habano in 2018. Strength is the maker's rating for the regular Aristócratas.",
+  "verified": true,
+  "verifyNotes": "Note now flags that halfwheel described the same line's wrapper as Ecuadorian habano in 2018. Other fields confirmed."
+ },
+ {
+  "brand": "Chillin' Moose",
+  "line": "Chillin' Moose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "United States",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic, Mexico, Nicaragua, United States (broadleaf)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "sweet tobacco",
+   "nuts",
+   "cedar",
+   "cocoa"
+  ],
+  "about": "A value-priced line launched in 2014 under General Cigar's Foundry brand and now sold by Forged Cigar Co. It uses a Connecticut-grown Habano wrapper over an Ecuadorian Sumatra binder and a four-country filler.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarworld.com/cigars/chillin-moose/chillin-moose/",
+   "https://halfwheel.com/shady-moose-robusto/423341/",
+   "https://www.neptunecigar.com/chillin-moose-cigar"
+  ],
+  "notes": "Retailers sometimes call it Chillin' Moose Habano and list the Robusto as 5 x 50; the maker's site lists 5 1/2 x 50. The Toro is sold by retailers but is not on the maker's site, and the Corona was discontinued in 2025. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Note now says the Toro appears at retailers (Neptune, Famous) but not on the maker's Cigar World page, which still shows the Corona. Corona discontinuation confirmed in halfwheel's March 2025 STG list."
+ },
+ {
+  "brand": "Chillin' Moose",
+  "line": "Too",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "spice",
+   "vanilla"
+  ],
+  "about": "The maduro follow-up to Chillin' Moose, released in 2016 with a Connecticut Broadleaf wrapper over Nicaraguan binder and filler. It is a budget cigar made at STG Estelí and sold by Forged Cigar Co.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarworld.com/cigars/chillin-moose/too/",
+   "https://halfwheel.com/chillin-moose-too-adding-toro-size-in-early-february/446843/",
+   "https://halfwheel.com/foundry-tobacco-co-s-chillin-moose-too-arriving-at-retailers/115700/"
+  ],
+  "notes": "The Toro was added in February 2025 and the Corona was discontinued in 2025. Some retailers list the Robusto as 5 x 50, and Neptune lists the country as Dominican Republic, but halfwheel reports it is made at STG Estelí in Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Note trimmed to cite only halfwheel for the factory, since the Famous Smoke claim could not be confirmed. Other fields confirmed."
+ },
+ {
+  "brand": "Chillin' Moose",
+  "line": "Bull Moose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano)",
+  "country": "Nicaragua",
+  "factory": "Tacasa S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gigante XL",
+    "length": 6,
+    "ring": 70
+   },
+   {
+    "name": "Gigante XXL",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "sweet tobacco",
+   "coffee",
+   "wood",
+   "spice"
+  ],
+  "about": "A large ring gauge extension of Chillin' Moose from Forged Cigar Co., launched in 2022. It is a budget Nicaraguan puro made in Estelí, with nothing smaller than a 60 ring gauge.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarworld.com/cigars/chillin-moose/bull-moose/",
+   "https://halfwheel.com/forged-cigar-co-adds-large-ring-gauge-bull-moose-line/408357/",
+   "https://www.neptunecigar.com/chillin-moose-cigar"
+  ],
+  "notes": "Strength ratings differ: the maker's Cigar World site rates it medium, Famous Smoke says medium-full and Neptune lists full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Chillin' Moose",
+  "line": "Bull Moose Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano)",
+  "country": "Nicaragua",
+  "factory": "Tacasa S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Gigante XL",
+    "length": 6,
+    "ring": 70
+   },
+   {
+    "name": "Gigante XXL",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "spice",
+   "coffee"
+  ],
+  "about": "The maduro version of Bull Moose, a budget Nicaraguan puro made in Estelí in the same four large ring gauge sizes. It is sold by Forged Cigar Co. under the Chillin' Moose brand.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarworld.com/cigars/chillin-moose/bull-moose-maduro/",
+   "https://cigar-coop.com/2023/07/cigar-news-forged-cigar-company-debuts-chillin-moose-bull-moose-maduro-at-pca-2023.html",
+   "https://www.neptunecigar.com/chillin-moose-cigar"
+  ],
+  "notes": "The maker's Cigar World site rates it medium-full, while Famous Smoke and Neptune both call it full. It was shown at the 2023 PCA trade show and shipped that August.",
+  "verified": true,
+  "verifyNotes": "Release year filled in as 2023 from Cigar Coop's PCA 2023 report, which also confirms the Tacasa factory. That link replaces the Famous Smoke one in sources."
+ },
+ {
+  "brand": "Chillin' Moose",
+  "line": "Shady Moose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Colombia, Dominican Republic, Nicaragua, United States (broadleaf)",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "toast",
+   "cream",
+   "pepper"
+  ],
+  "about": "The Connecticut shade member of the Chillin' Moose family, launched in March 2023 and made at STG Danlí in Honduras. It is a budget six-country blend and was the first Moose cigar offered in a toro.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarworld.com/cigars/chillin-moose/shady-moose/",
+   "https://halfwheel.com/shady-moose-launching-march-1/419261/",
+   "https://halfwheel.com/shady-moose-robusto/423341/"
+  ],
+  "notes": "The maker's Cigar World site rates it mellow, while Neptune lists it as medium. Halfwheel's review found mild strength with medium or fuller body and noticeable pepper.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

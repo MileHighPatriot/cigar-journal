@@ -1,0 +1,642 @@
+[
+ {
+  "brand": "Padilla",
+  "line": "Italia Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua (Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cocoa",
+   "toasted wood",
+   "leather",
+   "cream",
+   "sweetness"
+  ],
+  "about": "A box-pressed San Andres maduro that Ernesto Padilla first blended for the Italian market, with Nicaraguan fillers from Condega and Jalapa. It is sold in the US in small lots through Padilla's own store.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/private-stock-15-ultra-premium-cigars",
+   "https://www.padillacigars.com/products/the-padilla-grand-tour-ten-premium-cigars-for-69-95",
+   "https://www.padillacigars.com/products/60-padilla-toros-three-blends"
+  ],
+  "notes": "Padilla does not publish the binder or the factory. A box-pressed Robusto is also sold but its dimensions are not listed. The Italia name also covers Habano-wrapped cigars, so confirm which wrapper a guest means.",
+  "verified": true,
+  "verifyNotes": "Replaced the Robusto 10-pack link in sources with Padilla's Private Stock page, the only listed page that states the Mexican San Andres wrapper. The Condega and Jalapa filler still comes from the Robusto 10-pack page (padillacigars.com/products/padilla-italia-maduro-box-press-robusto-10-pack). All other fields confirmed."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Casa de Padilla Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua (Esteli, Condega, Jalapa)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A value bundle line sold direct by Padilla in bundles of 25, with an Ecuadorian Habano wrapper over all long-filler Nicaraguan tobaccos.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/casa-de-padilla-habano-bundle"
+  ],
+  "notes": "Padilla describes it as medium to medium plus. Also sold as Robusto, Toro and Torpedo, but the maker lists no dimensions for those. Binder, factory and country of manufacture are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Casa de Padilla Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua (Jalapa, Condega)",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut-wrapped member of Padilla's direct-sold bundle line, made with all long-filler Nicaraguan tobaccos from Jalapa and Condega and sold in bundles of 25.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/casa-de-padilla-connecticut-bundle"
+  ],
+  "notes": "Padilla calls the body \"milder medium\" and does not say where the Connecticut wrapper is grown. Also sold as Robusto, Toro and Torpedo, with no dimensions listed. Binder, factory and country of manufacture are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Casa de Padilla Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua (Criollo; Esteli, Condega)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro member of Padilla's direct-sold bundle line: a San Andres maduro wrapper over long-filler Nicaraguan Criollo, sold unbanded in bundles of 25 as overrun stock.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/casa-de-padilla-maduro-bundle"
+  ],
+  "notes": "Padilla describes it as medium to medium plus. Also sold as Robusto, Toro and Torpedo, with no dimensions listed. Binder, factory and country of manufacture are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Midnight in Paris Double Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut River Valley Broadleaf)",
+  "filler": "Nicaragua (Cuban-seed Corojo)",
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "earth",
+   "black pepper",
+   "cedar",
+   "sweetness"
+  ],
+  "about": "A box-pressed 6 x 52 from Padilla with a San Andres maduro wrapper and a Connecticut Broadleaf binder over all-Corojo Nicaraguan filler. It is sold in five-packs through Padilla's own store.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-midnight-in-paris-double-maduro-box-press-5-pack",
+   "https://www.padillacigars.com/products/maduro-vs-maduro"
+  ],
+  "notes": "Padilla's product page calls it full-bodied, but its sampler pages describe the same cigar as medium in body. The factory and country of manufacture are not published. The store lists it as limited availability.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Strength kept as Full from the product page; Padilla's own sampler pages call the same cigar medium in body, as the notes say."
+ },
+ {
+  "brand": "Padilla",
+  "line": "The Catcher in the Rye",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sun-grown Corojo from Jalapa, Nicaragua (Cuban seed, medium priming)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "cream",
+   "baking spice"
+  ],
+  "about": "A 6 x 52 torpedo from Padilla wrapped in sun-grown Jalapa Corojo, sold in five-packs through the company's own store. Padilla pitches it as richer than a Connecticut and smoother than a maduro.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/the-catcher-in-the-rye-torpedo-5-pack-29-95",
+   "https://www.padillacigars.com/products/the-midnight-lion-sampler"
+  ],
+  "notes": "Padilla does not publish the filler, factory or a strength rating. A Padilla sampler page says it uses two maduro binders but gives no origin. Only the torpedo size is listed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "BHK-1",
+  "found": true,
+  "officialName": "The BHK-1",
+  "wrapperLeaf": "San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Corojo",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "BHK-1",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "dried fruit",
+   "espresso",
+   "leather",
+   "cedar",
+   "spice"
+  ],
+  "about": "Padilla's take on the Cuban Behike shape: a 6 x 54 with a pigtail cap, rolled in Nicaragua with a San Andres maduro wrapper over Corojo filler. Sold in five-packs through Padilla's own store.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/the-bhk-1",
+   "https://www.padillacigars.com/products/the-father-s-day-salute-26-cigars-for-89-99"
+  ],
+  "notes": "This is a Padilla cigar in the Behike format, not a Cohiba Behike. Padilla's sampler pages list a BHK Maduro at 6 x 56 rather than 6 x 54. Binder and factory are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Dog Walker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Dog Walker",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "cedar",
+   "spice"
+  ],
+  "about": "A short 4 x 44 Habano-wrapped cigar with Nicaraguan long filler, built as a quick smoke and sold by Padilla in bundles of 25.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.padillacigars.com/products/padilla-dog-walker-25-cigars-1-99-each-long-filler-nicaraguan",
+   "https://www.padillacigars.com/products/the-padilla-grand-tour-ten-premium-cigars-for-69-95"
+  ],
+  "notes": "Padilla does not say where the Habano wrapper is grown, and the binder, factory and country of manufacture are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padilla",
+  "line": "Barcelona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo Rosado",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Cósigna",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan puro made with AGANORSA tobaccos under a Corojo rosado wrapper, launched in 2022 for international markets. It is named for the home city of Daniel Guerrero, who owns the Cósigna factory where it is rolled.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/padilla-barcelona-heading-to-international-markets-this-month/413732/",
+   "https://halfwheel.com/pca-2025-padilla/449167/"
+  ],
+  "notes": "Made for international markets, starting with Germany and Latvia, so a US guest is unlikely to have seen it. Ernesto Padilla described it as medium body. Sold in boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Factory spelling corrected to Cósigna as halfwheel writes it. All other fields confirmed against halfwheel."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Fumas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano (also Habano Maduro and Ecuadorian Connecticut versions)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras (mixed long and short filler)",
+  "country": "Honduras",
+  "factory": "Raices Cubanas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "cedar",
+   "pepper"
+  ],
+  "about": "Padilla's budget bundle cigar, a Cuban-sandwich smoke made from long and short filler left over from the brand's premium blends. It comes in Habano, Maduro and Connecticut wrappers.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brands/padilla-cigars/padilla-fumas",
+   "https://www.famous-smoke.com/padilla-fumas-habano-toro-cigars-natural-single",
+   "https://www.famous-smoke.com/padilla-fumas-maduro-toro-cigars-maduro-single"
+  ],
+  "notes": "Mixed filler, not all long filler. Three wrappers are sold: Honduran Habano, a Honduran Habano Maduro, and Ecuadorian Connecticut. Blend details come from the retailer Famous Smoke Shop, not from Padilla.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against the three Famous Smoke Shop pages. No maker, halfwheel or Cigar Aficionado page with blend details could be opened to cross-check, so this rests on one retailer."
+ },
+ {
+  "brand": "Padilla",
+  "line": "Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Cuban-seed Corojo and Criollo)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Esteli (TABOLISA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 43
+   },
+   {
+    "name": "Toro",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cedar",
+   "honey",
+   "orange peel"
+  ],
+  "about": "An Ecuadorian Habano-wrapped line that Ernesto Padilla introduced in 2012 and had made by Oliva in Esteli. The Toro scored 93 points and ranked No. 12 on Cigar Aficionado's Top 25 of 2014.",
+  "released": 2012,
+  "production": "discontinued",
+  "sources": [
+   "https://www.cigaraficionado.com/top25cigar/padilla-reserva-toro-2014",
+   "https://halfwheel.com/padilla-reserva-adding-corona/45133/",
+   "https://www.holts.com/cigars/all-cigar-brands/padilla-reserva.html"
+  ],
+  "notes": "Sources disagree on the binder: Cigar Aficionado and Holt's list Nicaragua, while halfwheel lists Ecuadorian Habano. A separate Reserva Maduro also existed. It is no longer in Padilla's own store, and Holt's closeout stock is sold out.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Archive Collection 1842",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres (Mexico)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Brazil (Cubra)",
+  "filler": "Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "earth",
+   "aged wood",
+   "spice",
+   "black pepper"
+  ],
+  "about": "A 7.5 x 40 lancero from Principle's Archive Collection that pays tribute to New York City in 1842, the year fresh water reached Manhattan. Each box includes an original New York and Harlem Railroad certificate issued that year.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/archive-collection-1842",
+   "https://www.principletrading.com/1842"
+  ],
+  "notes": "Principle does not name the factory or give a strength for this cigar. Most Principle cigars are rolled at Kelner Boutique Factory in the Dominican Republic. Principle says it marks 180 years since 1842, which puts the release in 2022.",
+  "verified": true,
+  "verifyNotes": "Trimmed notes. Release year 2022 is worked out from Principle's \"exactly 180 years later\" wording, not stated outright."
+ },
+ {
+  "brand": "Principle",
+  "line": "Archive Collection Five Twenty",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Zimbabwe",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Zimbabwe",
+  "binder": "Zimbabwe",
+  "filler": "Zimbabwe, Dominican Republic (Piloto)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Five Twenty",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "spice"
+  ],
+  "about": "A near Zimbabwe puro from Principle's Archive Collection, with Zimbabwean wrapper, binder and most of the filler plus a little Dominican piloto. It comes in boxes of five with a real Zimbabwe 20 billion dollar banknote.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/archive-collection-five-twenty",
+   "https://www.principletrading.com/all-cigars"
+  ],
+  "notes": "Zimbabwean wrapper is rare and fits none of the usual wrapper categories. Principle does not name the factory, the release year or a strength rating for this cigar. Principle's shop writes the name as Five-Twenty.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Principle",
+  "line": "Cocktail Collection Beignet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "earth",
+   "toasted grain",
+   "spice",
+   "cream"
+  ],
+  "about": "The Sazerac companion in Principle's Cocktail Collection, a series of cigars each built around a classic drink. It takes its name and New Orleans theme from the French Quarter pastry.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/cocktail-collection-beignet",
+   "https://www.principlecigars.com/cocktail-collection",
+   "https://shop.principletrading.com/shop/cocktail-collection-beignet"
+  ],
+  "notes": "Principle does not publish the blend, size, factory or strength for the Beignet. It is sold in boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed Principle publishes no wrapper, country or strength for this cigar on its site or shop."
+ },
+ {
+  "brand": "Principle",
+  "line": "Cocktail Collection The Count",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [
+   "earth",
+   "aged wood"
+  ],
+  "about": "The Negroni companion in Principle's Cocktail Collection, a series of cigars each built around a classic drink. Principle describes it as earthy and woody, meant to ground the drink's bitter orange.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/cocktail-collection-the-count",
+   "https://www.principlecigars.com/cocktail-collection",
+   "https://shop.principletrading.com/shop/cocktail-collection-the-count"
+  ],
+  "notes": "Principle does not publish the blend, size, factory or strength for The Count. It is sold in boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed Principle publishes no wrapper, country or strength for this cigar on its site or shop."
+ },
+ {
+  "brand": "Principle",
+  "line": "Cocktail Collection Tiki",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Monte Plata)",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "molasses",
+   "nutmeg",
+   "cedar",
+   "coffee",
+   "hazelnut"
+  ],
+  "about": "The Mai Tai companion in Principle's Cocktail Collection, a 5 x 50 robusto rolled at Kelner Boutique Factory in the Dominican Republic. It uses an Ecuadorian Habano 2000 wrapper over Dominican and US tobaccos.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principletrading.com/cocktail-collection-tki",
+   "https://www.principlecigars.com/cocktail-collection-tiki",
+   "https://www.principletrading.com/principle-cigars"
+  ],
+  "notes": "Principle's shop page carries a tasting note that calls it full bodied with medium strength.",
+  "verified": true,
+  "verifyNotes": "Removed \"sold in boxes of 25\" from notes: Principle's shop lists boxes of 20 and of 25. Country confirmed from Principle's statement that Kelner Boutique Factory is in Santiago, Dominican Republic."
+ },
+ {
+  "brand": "Principle",
+  "line": "Cocktail Collection Naomi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "The Espresso Martini companion in Principle's Cocktail Collection, a series of cigars each built around a classic drink.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.principlecigars.com/cocktail-collection",
+   "https://shop.principletrading.com/shop/cocktail-collection-naomi"
+  ],
+  "notes": "Principle lists the Naomi on its Cocktail Collection page and in its shop but publishes no blend, size, factory, strength or tasting notes for it. It is sold in boxes of 20.",
+  "verified": true,
+  "verifyNotes": "Nothing changed. Confirmed Principle publishes no wrapper, country or strength for this cigar on its site or shop."
+ }
+]

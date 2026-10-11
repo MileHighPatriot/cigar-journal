@@ -1,0 +1,849 @@
+[
+ {
+  "brand": "Caldwell",
+  "line": "Blind Man's Bluff Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danli",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The third version of Caldwell's Blind Man's Bluff, introduced in 2021. It is a Nicaraguan puro with a Habano wrapper and a different blend from the original and Connecticut versions.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/blind-mans-bluff-nicaragua/",
+   "https://halfwheel.com/blind-mans-bluff-nicaragua-shipping-next-month/401590/",
+   "https://www.neptunecigar.com/cigar/caldwell-blind-mans-bluff-nicaragua"
+  ],
+  "notes": "All Nicaraguan tobacco, but halfwheel and Neptune say it is rolled at STG's Danli factory in Honduras; Smokingpipes lists Nicaragua as the country. Caldwell rates it 5 of 5 for potency while Neptune calls it medium. Caldwell's site currently shows only the Magnum.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the King Mad MoFo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania); includes Corojo 98, Habano and Pennsylvania double ligero",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 43
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Super Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "black pepper",
+   "leather",
+   "spice"
+  ],
+  "about": "The maduro take on Caldwell's Long Live the King, with a Mexican San Andres wrapper over an Indonesian binder and fillers that include Corojo 98 and Pennsylvania double ligero. It first shipped in 2018 under the name LLTK MAD MF.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/long-live-the-king-mad-mofo/",
+   "https://halfwheel.com/long-live-the-king-mad-mf-super-toro/282500/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=291981"
+  ],
+  "notes": "Launched in 2018 as a 75,000-cigar limited run called LLTK MAD MF and is now in Caldwell's regular catalog. Caldwell rates it 4 of 5 for potency. A separate 5 x 50 Mad MoFo robusto with a Dominican binder and filler was made in 2021 for Cigars for Warriors.",
+  "verified": true,
+  "verifyNotes": "Filler reworded: the sources give Dominican Republic, Nicaragua and USA (Pennsylvania) and separately name Corojo 98, Habano and Pennsylvania double ligero, but do not tie Corojo 98 to the Dominican Republic. Removed the claim that Neptune lists it as full: Neptune has no page for this line."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the King Mad MoFo Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin not disclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 43
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Super Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "spice"
+  ],
+  "about": "A Habano-wrapped version of the Mad MoFo that Caldwell introduced at the 2025 PCA show. The company describes it as its most pepper-forward blend and one of its strongest cigars.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/long-live-the-king-mad-mofo-habano/",
+   "https://halfwheel.com/caldwell-bringing-long-live-the-king-mad-mofo-habano-to-pca-2025/449620/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=675556"
+  ],
+  "notes": "Caldwell calls it the boldest cigar in its lineup and one of its strongest, yet its potency meter and Smokingpipes both show only 3 of 5. Caldwell and halfwheel give no wrapper origin; Smokingpipes lists it as Dominican.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: halfwheel does not say the wrapper origin is undisclosed, it simply gives none. Strength kept as Full on Caldwell's own wording, though Caldwell and Smokingpipes both show 3 of 5 on the potency scale."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the Queen",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Queen's Sword",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Queen's Court",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Queen's Crown",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Queen's Club",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Ace of Hearts (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "almond",
+   "caramel",
+   "coffee",
+   "leather"
+  ],
+  "about": "Caldwell's companion line to Long Live the King, built around a Cameroon wrapper over a Sumatran binder with Dominican and Nicaraguan fillers. It is rolled at the Ventura family's El Maestro factory in the Dominican Republic.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/long-live-the-queen/",
+   "https://halfwheel.com/long-live-the-queen-queens-sword/423454/",
+   "https://www.neptunecigar.com/cigar/caldwell-long-live-the-queen"
+  ],
+  "notes": "Shown at the 2022 PCA trade show but did not reach stores until January 2023. The box-pressed Ace of Hearts began as a limited size and became regular production in late 2023.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the Queen Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, USA",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Queen's Crest",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Queen's Coronet",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Queen's Chalice",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Queen's Charge",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Wild Card (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "wood",
+   "black pepper",
+   "cinnamon"
+  ],
+  "about": "A separate maduro blend in the Long Live the Queen family, with a Mexican San Andres wrapper, Indonesian binder and Dominican and American fillers. It shipped in July 2024 as the first new Caldwell release under Laudisi ownership.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/long-live-the-queen-maduro/",
+   "https://halfwheel.com/long-live-the-queen-maduro-queens-crest/443969/",
+   "https://www.neptunecigar.com/cigar/caldwell-long-live-the-queen-maduro"
+  ],
+  "notes": "Not the original Queen with a darker wrapper: the whole blend is different. Caldwell calls it medium-to-full; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "The King Is Dead Escape Plan",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Negrito",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Shortcut",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "The Grand Tour",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Drybeggar",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Autopilot",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "milk chocolate",
+   "cream"
+  ],
+  "about": "A box-pressed version of Caldwell's The King Is Dead, first released in 2022 and reworked in 2025. The current version uses the same Dominican tobaccos as the regular line with different primings and fermentation.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/the-king-is-dead-escape-plan/",
+   "https://halfwheel.com/caldwell-releasing-new-the-king-is-dead-escape-plan-at-pca-2025/449628/",
+   "https://halfwheel.com/the-king-is-dead-escape-plan-drybeggar/408529/"
+  ],
+  "notes": "Two versions exist. The 2022 original used fillers from the Dominican Republic, Nicaragua and Peru and was capped at 300 boxes per size; the 2025 version is all Dominican. Halfwheel and Smokingpipes call it a limited release, though Caldwell lists it with its regular lines.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Savages Malpensante",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra-seed (origin undisclosed)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "coffee"
+  ],
+  "about": "A 2026 Crafted & Curated small-batch release that pays homage to Caldwell's discontinued Savages line. It comes in one 6 x 54 size and was limited to 400 boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/",
+   "https://halfwheel.com/caldwell-crafted-curated-savages-malpensante-arrives/472576/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=725519"
+  ],
+  "notes": "Malpensante loosely translates to cynic. It is not the original Savages blend, which stopped production after the 2022 fire at Tabacalera William Ventura. Limited to 400 boxes of 10.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "The Last Tsar El Olvidado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Arapiraca and Connecticut hybrid Oscuro (called Aracon Oscuro)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Sumatra (origin undisclosed)",
+  "filler": "Dominican Republic, Nicaragua, USA",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa"
+  ],
+  "about": "A 2026 Crafted & Curated release made as a tribute to Caldwell's discontinued The Last Tsar. It is a single 6 x 54 size limited to 220 boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/",
+   "https://halfwheel.com/pca-2026-laudisi-distribution-group/468092/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=725518"
+  ],
+  "notes": "El Olvidado means the forgotten one. It is an homage to The Last Tsar, not the same blend, and the wrapper's country of origin is not disclosed. Limited to 220 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the Queen Forbidden Fruit Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Rosado",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The lighter of two Long Live the Queen Forbidden Fruit cigars released in March 2026 in Caldwell's Crafted & Curated series. It pairs a San Andres Rosado wrapper with an all-Dominican binder and filler in a single 6 x 60 size.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/two-new-long-live-the-queens-coming-this-month/463969/",
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/",
+   "https://www.neptunecigar.com/cigar/caldwell-long-live-the-queen-forbidden-fruit"
+  ],
+  "notes": "A new blend, not the regular Long Live the Queen. Limited to 400 boxes of 10. Smokingpipes rates it 3 of 5 and Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Flavors cleared: they came from a Neptune staff reply on a page covering both Forbidden Fruit cigars, not from tasting notes for the Claro. Filler now notes the Habano seed that Caldwell and Smokingpipes state."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the Queen Forbidden Fruit Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "toast",
+   "cream",
+   "wood"
+  ],
+  "about": "The darker of two Long Live the Queen Forbidden Fruit cigars released in March 2026 in Caldwell's Crafted & Curated series. It uses a San Andres Oscuro wrapper over a Sumatra binder with Dominican and Nicaraguan fillers in a single 6 x 60 size.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/long-live-the-queen-forbidden-fruit-oscuro/471653/",
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=713160"
+  ],
+  "notes": "Strength is disputed: Smokingpipes rates it 4 of 5 and Neptune lists full, but halfwheel's review found it mild in strength with a medium body. A new blend, not the regular Queen Maduro. Limited to 400 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Binder reworded to the maker's listing (Indonesia, described as Sumatran); halfwheel calls it Sumatra-seed of undisclosed origin."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Savages Mal Caida",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano-seed (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Sumatra-seed (origin undisclosed)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts"
+  ],
+  "about": "A 2025 Crafted & Curated release based on Caldwell's discontinued Savages line, made with specially aged Dominican and Sumatra tobaccos. It is a single box-pressed 6 x 54 toro limited to 200 boxes of 10.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/caldwell-crafted-curated-savages-mal-caida-ships/452115/",
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/"
+  ],
+  "notes": "Mal caida roughly translates to misfit. It is based on the original Savages but is not the same blend, and Caldwell keeps most of it undisclosed. Limited to 200 boxes of 10 and sold out.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Girls Guns Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (Desflorada)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra (origin undisclosed)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7.25,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "earth",
+   "leather",
+   "spice"
+  ],
+  "about": "A Crafted & Curated lancero from late 2022 with an Ecuadorian Connecticut wrapper. It was limited to 750 boxes of 20 and was originally intended as a Lost & Found release.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/caldwell-girls-guns-gold/422066/",
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/"
+  ],
+  "notes": "Caldwell's site now confirms only the Connecticut Desflorada wrapper and calls the rest undisclosed; the binder and filler here come from halfwheel's review. Strength and body are from that review. Limited to 750 boxes of 20 and sold out.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Louis the Last",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Hybrid Connecticut and Arapiraca Maduro (origin undisclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "A 2022 Crafted & Curated release that reworks The Last Tsar with a different priming and fermentation on the wrapper and binder. It was limited to 500 boxes of 10.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2022-caldwell-cigar-co/412011/",
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/"
+  ],
+  "notes": "Binder and filler are undisclosed. Caldwell describes it as creamier, sweeter and smoother than The Last Tsar. Limited to 500 boxes of 10 and sold out.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Antoinette",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Culebra Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A 2022 Crafted & Curated culebra: three lanceros braided together, rolled at William Ventura's El Maestro factory. It is its own blend rather than a variation on an existing Caldwell line.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/crafted-and-curated/",
+   "https://halfwheel.com/pca-2022-caldwell-cigar-co/412011/"
+  ],
+  "notes": "Each culebra is three 7 x 38 lanceros twisted together, meant to be separated and smoked individually. Limited to 202 boxes of 10 culebras and sold out.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Montrose",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "El Maestro",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A 2022 Crafted & Curated release that takes the Long Live the King blend and swaps its Dominican Corojo wrapper for a Nicaraguan Habano leaf, with one filler change. It was limited to 300 boxes of 10.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2022-caldwell-cigar-co/412011/",
+   "https://halfwheel.com/caldwell-girls-guns-gold/422066/"
+  ],
+  "notes": "A Long Live the King variant: Nicaraguan Habano wrapper, and one Corojo filler replaced by Dominican aromatico. Limited to 300 boxes of 10. It is not shown on Caldwell's current Crafted & Curated page.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the King Bar-None",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo (Cuban-seed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Manufactura Rivas",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "earth",
+   "cream"
+  ],
+  "about": "A 2023 limited edition in the Long Live the King family, made entirely of Dominican tobacco at Chico Rivas' Manufactura Rivas factory. Caldwell turned to that factory after the 2022 fire at Tabacalera William Ventura.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/long-live-the-king-bar-none-toro/431246/",
+   "https://halfwheel.com/pca-2023-caldwell-cigar-co/425452/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=570607"
+  ],
+  "notes": "Strength is disputed: halfwheel's review found medium body with strength just under medium and Neptune lists it as medium, while Smokingpipes rates it 5 of 5 and full-bodied. Limited to 500 boxes of 20 per size.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium and body from Full to Medium: halfwheel's review found medium body with strength just under medium and Neptune lists it as medium; only Smokingpipes rates it 5 of 5. Caldwell's own site has no page for it."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the King 11/07",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano Maduro (Habano version) or Honduran Maduro Oscuro (Oscuro version)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chubby Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "espresso",
+   "almond",
+   "black pepper",
+   "cinnamon",
+   "leather"
+  ],
+  "about": "A Honduran puro first released on November 7, 2022 for Robert Caldwell's 40th birthday and brought back in 2023 in Habano and Oscuro versions. It is rolled at Davidoff's Camacho factory in Honduras, unlike the Dominican Long Live the King.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/caldwells-long-live-the-king-11-07-returns-for-2023/430531/",
+   "https://halfwheel.com/long-live-the-king-11-07-oscuro/433378/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=579815"
+  ],
+  "notes": "The 2023 release came in two blends: Habano (225 boxes of 10) and Oscuro with added ligero (325 boxes of 10), both aged about three years. The tasting notes are from halfwheel's Oscuro review. The 6 x 54 size has a tapered shape.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the Queen Rosado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Rosado",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A third Long Live the Queen blend, made for Tinder Box International stores and released in November 2025. It uses a San Andres Rosado wrapper in a single 6 x 50 toro.",
+  "released": 2025,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/long-live-the-queen-rosado-debuts-at-tinder-box/456864/"
+  ],
+  "notes": "Exclusive to Tinder Box stores; no production cap was announced. The binder and filler are largely undisclosed, though the filler includes broadleaf and Dominican San Vicente.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Mooncake",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-seed (origin undisclosed)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mooncake",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "A Connecticut-wrapped spin-off of Caldwell's Yellow Cake, released in September 2026. It comes in one 5 x 50 size sold in five-packs and was limited to 12,000 cigars.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/caldwell-mooncake-debuting-tomorrow/479651/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=742107"
+  ],
+  "notes": "Caldwell has not disclosed the binder, filler or factory. Smokingpipes lists it as made in the Dominican Republic, but the company declined to confirm the country to halfwheel. Strength is Smokingpipes' 2 of 5 rating.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Yellow Cake Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (origin undisclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "earth",
+   "cinnamon",
+   "coffee",
+   "honey"
+  ],
+  "about": "The maduro-wrapped version of Caldwell's Yellow Cake, added in 2025 when the former event-only cigar returned to stores. It is a small cigar sold in paper five-packs in two sizes.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/caldwells-yellow-cake-line-expands-for-2025/447851/",
+   "https://halfwheel.com/yellow-cake-maduro-robusto/451538/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=712403"
+  ],
+  "notes": "The blend and factory are not disclosed. It ships in yearly batches (2025 and 2026); halfwheel has called it both regular production and a limited edition line. Smokingpipes rates strength 2 of 5, while halfwheel's review found it medium.",
+  "verified": true,
+  "verifyNotes": "About reworded to drop 'value-priced'."
+ }
+]

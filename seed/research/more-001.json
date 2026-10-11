@@ -1,0 +1,815 @@
+[
+ {
+  "brand": "Viaje",
+  "line": "Zombie Green",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Figurado (2026 Alternate Art)",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cream",
+   "chocolate"
+  ],
+  "about": "The green-banded, criollo-wrapped version of Viaje's Zombie, a small-batch release that usually comes as a 5 x 52 perfecto with a tapered foot. In 2026 it returned as a 6 x 56 figurado with alternate box art.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-zombies-return-with-alternate-art/480017/",
+   "https://halfwheel.com/review-viaje-zombie-green/57620/",
+   "https://atlanticcigar.com/viaje-zombie-green-criollo-figurado-6x56/"
+  ],
+  "notes": "Viaje does not disclose the factory. The 2014 release was made at Raíces Cubanas in Honduras; Atlantic Cigar lists the 2026 release as made in Nicaragua and full strength. The Zombie line began in 2011 and the Green and Red versions arrived in 2014.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and dates confirmed on Halfwheel. Strength Full rests on Atlantic Cigar's listing alone (Halfwheel's 2014 review gives no strength), so the note now says so."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Figurado (2026 Alternate Art)",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "wood",
+   "black pepper",
+   "nuts"
+  ],
+  "about": "The red-banded, maduro-wrapped version of Viaje's Zombie, released in small batches and usually sold as a 5 x 52 perfecto in 20-count boxes. In 2026 it returned as a 6 x 56 figurado with alternate box art.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-zombies-return-with-alternate-art/480017/",
+   "https://halfwheel.com/viaje-zombie-red-2016/112263/",
+   "https://atlanticcigar.com/viaje-zombie-red-maduro-figurado-6x56/"
+  ],
+  "notes": "Viaje does not disclose the factory. The 2014 release was made at Raíces Cubanas in Honduras, while Atlantic Cigar lists the 2026 release as made in Nicaragua. Tasting notes are from Halfwheel's review of the 2016 release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Natural",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Figurado (2026 Alternate Art)",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The black-banded version of Viaje's Zombie, released as a Collector's Edition in 2020 and brought back in 2026 as a 6 x 56 figurado with alternate box art.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-zombies-return-with-alternate-art/480017/",
+   "https://halfwheel.com/viaje-zombie-red-collectors-edition-2020/383607/",
+   "https://atlanticcigar.com/viaje-zombie-black-habano-figurado-6x56/"
+  ],
+  "notes": "Halfwheel says the black band means a natural wrapper; Atlantic Cigar lists it as Habano over Nicaraguan binder and filler, full strength. Viaje has not disclosed the blend or factory. A 5 1/2 x 54 Collector's Edition came out in 2020.",
+  "verified": true,
+  "verifyNotes": "Removed an unsupported line from about (least documented, first sold in 2020). Strength Full is Atlantic Cigar's listing only; noted. Wrapper category follows Halfwheel's 'natural' over Atlantic's Habano."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Antidote",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.25,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "black pepper",
+   "chocolate",
+   "leather"
+  ],
+  "about": "A slim lonsdale follow-up to Viaje's Zombie line, sold in plastic jars of 24 styled like a jar of syringes. It is a Nicaraguan puro with a tapered foot.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-zombie-green-zombie-red-and-zombie-antidote-set-to-return/433655/",
+   "https://halfwheel.com/viaje-shipping-phat-purple-jalapeno-antidote-2021-later-this-month/390787/",
+   "https://halfwheel.com/viaje-zombie-antidote/62110/"
+  ],
+  "notes": "Factory was confirmed for the 2021 release and Viaje said the 2024 release was unchanged. The wrapper varietal is not published; one retailer lists it as criollo, medium-full and made in Nicaragua. A larger 6 1/4 x 50 Collector's Edition came out in 2017.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Halfwheel's 2014 spec table says Nicaragua but names Raíces Cubanas, which is in Honduras; its 2021 report says Honduras, so Honduras kept. Note adjusted to match the retailer listing I opened."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Biohazard",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo (Green), Nicaraguan Maduro (Red), undisclosed (Black)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Perfecto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "leather",
+   "black pepper",
+   "maple",
+   "nuts"
+  ],
+  "about": "A box-pressed offshoot of Viaje's Zombie, based on the regular Zombie blend and sold in very small batches. It debuted in 2016 in Green and Red, and a Black version was added in 2025.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adding-zombie-biohazard-black-bringing-back-zombie-biohazard-red-and-green-senor-andres-chicharrones/453184/",
+   "https://halfwheel.com/viaje-zombie-biohazard-green/120501/",
+   "https://cigar-coop.com/2018/04/cigar-review-viaje-zombie-biohazard-red-2016.html"
+  ],
+  "notes": "Three blends: Green (criollo), Red (maduro) and Black (blend undisclosed). Binder, filler and factory are not published. Reviews found the Green medium in strength and the Red full. Tasting notes are for the Green.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Peppers",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5.1875,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "A 2022 Viaje release that crosses the Zombie line with the perfecto shape of its Pepper Series. It came in Red, Green and Black versions in boxes of 25.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-new-zombie-peppers-return-of-zombie-super-shot/407958/",
+   "https://www.hilandscigars.com/shop/cigars/viaje/viaje-zombie/viaje-zombie-peppers-green-5-18-x-55-box-of-25/"
+  ],
+  "notes": "Viaje has not disclosed the blends, only that they are similar to but not the same as the regular Zombie. The size (5 3/16 x 55) comes from a retailer listing; Halfwheel did not publish one.",
+  "verified": true,
+  "verifyNotes": "Confirmed Viaje does not publish the blend, country or strength. A retailer lists maduro, Nicaragua and medium-full for the Green; not used."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Super Shot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "10 Gauge",
+    "length": 3.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "black pepper",
+   "dark chocolate",
+   "cedar",
+   "maple"
+  ],
+  "about": "A crossover of Viaje's Zombie and Super Shot lines: the Zombie blend in a short, fat 3 1/2 x 54 size called 10 Gauge, sold in boxes of 25.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-new-zombie-peppers-return-of-zombie-super-shot/407958/",
+   "https://halfwheel.com/viaje-zombie-super-shot-2014/57431/",
+   "https://halfwheel.com/review-viaje-zombie-super-shot/37834/"
+  ],
+  "notes": "The 2013 and 2014 releases were made at Raíces Cubanas in Honduras; Viaje has not named the factory for later ones. Strength and tasting notes are from Halfwheel's reviews of those early releases.",
+  "verified": true,
+  "verifyNotes": "Body Full is only in Halfwheel's 2013 review, which was not listed, so it replaces the 2019 news link. Dropped the shotgun shell box wording from about because no page opened states it."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Farmer Bill Hatchet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "cream",
+   "wood",
+   "black pepper",
+   "earth"
+  ],
+  "about": "A Thanksgiving-season Viaje release that merges the Zombie line with its Farmer Bill Hatchet cigar. It is a box-pressed robusto sold in boxes of 30.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-adding-new-vampire-dust-red-bringing-back-zombie-farmer-bill-hatchet/456742/",
+   "https://halfwheel.com/viaje-bringing-back-zombie-farmer-bill-hatchet-adds-mrs-hatchet/401895/",
+   "https://cigar-coop.com/2017/11/cigar-review-viaje-zombie-farmer-bill-hatchet-2016.html"
+  ],
+  "notes": "Viaje has not disclosed the factory. Strength, body and tasting notes come from Cigar Coop's review of a 2016 cigar with a year of age; it said the cigar was closer to medium-full when new.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added to notes that the Medium rating is for an aged sample."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Farmhand Andre",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "black pepper",
+   "nuts"
+  ],
+  "about": "A Zombie-themed version of Viaje's Thanksgiving cigar Farmhand Andre, a box-pressed robusto that debuted in May 2020 and returned in 2023.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-shipping-farmhand-andre-and-zombie-farmhand-andre-for-thanksgiving-releases/431621/",
+   "https://halfwheel.com/viaje-zombie-farmhand-andre/377755/",
+   "https://www.hilandscigars.com/shop/cigars/viaje/viaje-thanksgiving/viaje-zombie-farmhand-andre-2023-5-5-x-54-box-of-30/"
+  ],
+  "notes": "Viaje has not disclosed the blend or the factory. One retailer lists it as medium-full and made in Nicaragua; Halfwheel found the strength anywhere from medium to near full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Strength Medium-Full is a single retailer listing; Halfwheel's review ranged from medium to near full, now in notes."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Zombie Mrs. Hatchet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A Zombie-themed version of Viaje's Thanksgiving cigar Mrs. Hatchet, shipped in November 2022.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-zombie-mrs-hatchet-stuffed-turkeys-shipping-this-month/415851/"
+  ],
+  "notes": "Viaje declined to give any details, so the blend, size and factory are unpublished. The regular Mrs. Hatchet from 2021 was a 6 x 50 box-pressed toro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Oro Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (with aged ligero)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "V.O.R. No. 5",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Double Torpedo",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cocoa",
+   "sweet spice",
+   "black pepper",
+   "wood",
+   "cream"
+  ],
+  "about": "A special version of Viaje's former Oro line, a Nicaraguan puro with a corojo 99 wrapper and added aged ligero. The 2010 VOR No. 5 was Cigar Aficionado's number two cigar of that year.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-oro-reserva-double-torpedo-2024/452412/",
+   "https://www.cigaraficionado.com/top25cigar/viaje-oro-reserva-vor-no-5-2010",
+   "https://atlanticcigar.com/viaje-oro-reserva-perfecto-5-1-2x52/"
+  ],
+  "notes": "Also called V.O.R. Blend and factory are as published for the 2010 and 2011 releases; Viaje has not confirmed them for the 2024 Double Torpedo or 2026 Perfecto. Cigar Aficionado rated it medium-full, Atlantic Cigar lists it as full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Reworded about: sources say aged ligero was added, not that the cigar is aged longer."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Platino Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (with aged ligero)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "V.P.R. No. 6",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Double Torpedo",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Aficionado",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "leather",
+   "black pepper",
+   "cream",
+   "bread"
+  ],
+  "about": "A special version of Viaje's former Platino line that uses more aged tobacco under a corojo 99 wrapper. It dates to 2010 and came back in 2024 as a double torpedo and in 2026 as a box-pressed perfecto.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-platino-reserva-perfecto/478991/",
+   "https://halfwheel.com/viaje-oro-reserva-double-torpedo-2024/452412/",
+   "https://atlanticcigar.com/viaje-platino-reserva-perfecto-5-1-2x52/"
+  ],
+  "notes": "Also called V.P.R. Blend and factory are as published for the early releases; Viaje has not confirmed them for the 2024 and 2026 releases. Halfwheel found the 2026 Perfecto medium-full, Atlantic Cigar lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Exclusivo Leaded",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes medio tiempo)",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Double Edged Sword",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Petite Lancero",
+    "length": 6,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "leather",
+   "black pepper",
+   "raisin",
+   "citrus",
+   "earth"
+  ],
+  "about": "A stronger version of Viaje's Exclusivo, founder Andre Farkas's personal blend, made fuller by adding medio tiempo leaf. It is a Nicaraguan puro rolled in Danlí, Honduras.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-exclusivo-exclusivo-leaded-returning-this-month-in-double-edged-sword-vitola/427093/",
+   "https://halfwheel.com/viaje-exclusivo-leaded/51439/",
+   "https://halfwheel.com/viaje-exclusivo-leaded-double-edged-sword/147018/"
+  ],
+  "notes": "The wrapper varietal is not published. Exclusivo Nicaragua Leaded (2018) is a separate blend made at TABSA in Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Removed the claim about a 2020 San Andrés maduro version, which I could not find on any page opened."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Honey Bale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "honey",
+   "cream",
+   "earth",
+   "vanilla",
+   "spice"
+  ],
+  "about": "A new Viaje line from June 2026: a Nicaraguan-made robusto extra with a gold foil cap, sold unbanded in jars of 30. The name refers to standout bales of tobacco noticed during sorting.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-honey-bale/478042/",
+   "https://halfwheel.com/viaje-birthday-blend-2026-honey-bale-shipping-next-week/473007/",
+   "https://atlanticcigar.com/viaje-honey-bale-robusto-5-1-4x54/"
+  ],
+  "notes": "Blend and factory are undisclosed. Sources disagree on strength: Halfwheel found the nicotine strength mild with medium to medium-full body, while Atlantic Cigar lists it as full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Strength left null because Halfwheel found it mild and Atlantic Cigar lists full."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Birthday Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A near-annual Viaje release marking founder Andre Farkas's birthday, usually a 6 x 52 torpedo. Recent boxes include one extra gold-foil cigar in a different blend for good luck.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-birthday-blend-2026-honey-bale-shipping-next-week/473007/",
+   "https://halfwheel.com/viaje-birthday-blend-gold-2022/412600/",
+   "https://halfwheel.com/viaje-birthday-blend-zombie-super-shot-return-for-2019/297705/"
+  ],
+  "notes": "Blend shown is the criollo 98 version used from 2017 through 2022. Only the 2016 debut used a Mexican San Andrés maduro wrapper, and the 2026 blend is undisclosed. It was made at TABSA in Nicaragua in 2018 and 2019; the factory is not confirmed since.",
+  "verified": true,
+  "verifyNotes": "Corrected notes: the researcher said 2016 to 2018 used San Andrés maduro, but Halfwheel shows 2017 and 2018 were already criollo 98. Other fields confirmed; strength is not published."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Chef's Cut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Tall",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "cedar",
+   "nuts",
+   "bread",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A Viaje line introduced in spring 2026, named after the butcher's term for a hand-picked premium cut. It comes in two sizes in 25-count boxes.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-chefs-cut-tall/471793/",
+   "https://atlanticcigar.com/viaje-chef-s-cut-tall-6x52/",
+   "https://www.hilandscigars.com/shop/cigars/viaje/viaje-chefs-cut-tall-6x52-box-of-25/"
+  ],
+  "notes": "Blend and factory are undisclosed; the bands indicate it is made in Nicaragua. One retailer lists a rosado wrapper, which Viaje has not confirmed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "C-4",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box-Pressed Robusto Gordo",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A Fourth of July release from Viaje: a box-pressed robusto gordo capped at both ends, packed in 75-count crates styled like explosives boxes.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-c-4-tnt-return-for-2026/471589/",
+   "https://halfwheel.com/viaje-brings-back-tnt-c-4-roman-candle-for-4th-of-july-adds-flashing-thunder/424482/",
+   "https://halfwheel.com/viaje-c-4-tnt-return-for-2019/308759/"
+  ],
+  "notes": "Binder, filler and factory are undisclosed for the 2023 and 2026 releases. The 2019 version was a Nicaraguan puro made at TABSA in Estelí; 2015 and 2016 came from PDR with a broadleaf wrapper. One retailer lists it as full strength.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Strength claim in notes narrowed to the one retailer listing I could open (Hiland's, Full)."
+ },
+ {
+  "brand": "Viaje",
+  "line": "TNT",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "bread",
+   "black pepper",
+   "cedar",
+   "dark fruit"
+  ],
+  "about": "Viaje's dynamite-themed Fourth of July cigar, a toro gordo with a covered foot and a long pigtail cap meant to look like a fuse. It ships in 75-count crates.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-c-4-tnt-return-for-2026/471589/",
+   "https://halfwheel.com/viaje-tnt-2021/400188/",
+   "https://halfwheel.com/viaje-c-4-tnt-return-for-2019/308759/"
+  ],
+  "notes": "Binder, filler and factory are undisclosed for recent releases; the 2019 version was a Nicaraguan puro made at TABSA in Estelí. Before 2021 the size was 6 1/4 x 54. Strength and tasting notes are from Halfwheel's review of the 2021 release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Roman Candle",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Corona (A)",
+    "length": 9,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "leather",
+   "espresso",
+   "wood"
+  ],
+  "about": "A 9 x 50 Fourth of July release from Viaje, sold in 15-count boxes marked Fireworks. It debuted in 2012 and returned in 2014, 2017, 2019 and 2023.",
+  "released": 2012,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-brings-back-tnt-c-4-roman-candle-for-4th-of-july-adds-flashing-thunder/424482/",
+   "https://halfwheel.com/review-viaje-roman-candle/28606/"
+  ],
+  "notes": "It debuted as a Nicaraguan puro based on the TNT blend, made at Raíces Cubanas in Honduras, but Viaje has not disclosed the blend or factory since. The 2023 release was aged about 18 months in the box. Tasting notes are from the 2012 release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Viaje",
+  "line": "Flashing Thunder",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Fourth of July cigar Viaje added in 2023, named after a loud type of roman candle firework. It is a toro extra sold in boxes of 60 and is not the same blend as the Viaje Roman Candle.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-brings-back-tnt-c-4-roman-candle-for-4th-of-july-adds-flashing-thunder/424482/",
+   "https://www.hilandscigars.com/shop/cigars/viaje/viaje-phat/viaje-roman-flashing-thunder-2023-6-5-x-52-box-of-60/"
+  ],
+  "notes": "Viaje has not named the factory. One retailer lists it as full strength and made in Nicaragua.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

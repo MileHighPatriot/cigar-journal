@@ -1,0 +1,470 @@
+[
+ {
+  "brand": "Toscano",
+  "line": "Originale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "North American fire-cured Kentucky (grown in Kentucky and Tennessee)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": null,
+  "filler": "Italy (upper Tiber valley, Verona, Pontecorvo), United States (Kentucky, Tennessee)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Originale",
+    "length": 6.67,
+    "ring": 41
+   }
+  ],
+  "flavors": [
+   "smoke",
+   "spice",
+   "black pepper",
+   "oak"
+  ],
+  "about": "A hand-rolled Italian cigar from the Lucca factory with a U.S. fire-cured Kentucky wrapper and a rougher-cut filler. It has the classic double-tapered Toscano shape and can be smoked whole or cut in half.",
+  "released": 1986,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-originale/",
+   "https://halfwheel.com/toscano-originale-heading-to-u-s/265230/",
+   "https://www.famous-smoke.com/toscano-originale-cigars-maduro"
+  ],
+  "notes": "No binder. Maker rates strength 6 of 7 and body 5 of 7. Famous Smoke lists the wrapper as Italian and the size as 6 x 38, but the maker says the wrapper is U.S.-grown and halfwheel measures 6 2/3 inches by 41 ring at the middle.",
+  "verified": true,
+  "verifyNotes": "Notes: added that Famous Smoke lists the wrapper as Italian against the maker's U.S.-grown, removed an unsupported 6 3/4 x 40 retailer size, and trimmed to three sentences. All other fields confirmed on the maker, halfwheel and Famous Smoke pages."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Classico",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Italian fire-cured Kentucky",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Italy",
+  "binder": null,
+  "filler": "Italy (Valdichiana, Valtiberina) and imported Kentucky",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Classico",
+    "length": 6,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "spice",
+   "smoke",
+   "pepper",
+   "oak",
+   "leather"
+  ],
+  "about": "The standard Toscano, sold since 1930 and made in Lucca from fire-cured Kentucky tobacco with an Italian wrapper. It gets a shorter fermentation than the Antico, which makes for a sharper, livelier smoke.",
+  "released": 1930,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-classico/",
+   "https://www.famous-smoke.com/toscano-classico-5-cigars-maduro",
+   "https://www.smokingpipes.com/cigars/toscano/moreinfo.cfm?product_id=252159"
+  ],
+  "notes": "No binder; Smokingpipes lists it as machine-made. Maker rates strength and body 5 of 7, while Famous Smoke calls it Full. The maker does not publish a size, so 6 x 38 is the retailer listing.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences and the Smokingpipes machine-made listing added. All other fields confirmed on the maker, Famous Smoke and Smokingpipes pages."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Antico",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "North American fire-cured Kentucky",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": null,
+  "filler": "Italy (Tuscany), United States (Kentucky, Tennessee)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Antico",
+    "length": 6,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "wood",
+   "dried fruit",
+   "smoke",
+   "spice"
+  ],
+  "about": "The strong, traditional Toscano, introduced in 1973 and made in Lucca. Its U.S. Kentucky wrapper is fire-cured for over 30 days on hickory and oak, and the cigar is fermented and aged more than ten months.",
+  "released": 1973,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-antico/",
+   "https://www.famous-smoke.com/toscano-antico-5-cigars-maduro",
+   "https://www.smokingpipes.com/cigars/toscano/moreinfo.cfm?product_id=252160"
+  ],
+  "notes": "No binder; Smokingpipes lists it as machine-made. Maker rates strength and body 6 of 7. Smokingpipes lists the wrapper as Italian, but the maker and Famous Smoke say U.S.-grown; 6 x 38 is the retailer size, since the maker does not publish one.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences and the Smokingpipes machine-made listing added. All other fields confirmed on the maker, Famous Smoke and Smokingpipes pages."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Garibaldi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Italian fire-cured Kentucky",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Italy",
+  "binder": null,
+  "filler": "Italy (mainly Benevento) and imported Kentucky",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Garibaldi",
+    "length": 6.125,
+    "ring": 39
+   }
+  ],
+  "flavors": [
+   "toast",
+   "spice",
+   "wood",
+   "leather",
+   "pepper"
+  ],
+  "about": "A lighter, sweeter Toscano introduced in 1982 for the centenary of Giuseppe Garibaldi's death, built on Kentucky tobacco from the Benevento area. The maker describes it as medium in strength with a mellow, aromatic character.",
+  "released": 1982,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-garibaldi/",
+   "https://halfwheel.com/toscano-garibaldi-coming-to-retail-shelves/367637/",
+   "https://www.smokingpipes.com/cigars/toscano/moreinfo.cfm?product_id=346312"
+  ],
+  "notes": "No binder; Smokingpipes lists it as machine-made. Maker rates strength and body 4 of 7 and calls it medium, while Famous Smoke lists it Full and 6 x 38. Halfwheel says the imported filler is U.S. Kentucky.",
+  "verified": true,
+  "verifyNotes": "Notes: added the Smokingpipes machine-made listing. The Famous Smoke claim in the notes was checked on its Garibaldi page. All other fields confirmed on the maker, halfwheel and Smokingpipes pages."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Terre",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Italian dark fire-cured Kentucky from Tuscany",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Italy",
+  "binder": null,
+  "filler": "Italy (Tuscany, Lazio, Campania)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Terre",
+    "length": 6.3,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A wide-bellied Toscano made entirely from Italian Kentucky tobacco grown in Tuscany, Lazio and Campania. It was sold only in Italy before coming to the U.S. in April 2026.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-terre/",
+   "https://halfwheel.com/toscano-bringing-terre-to-the-u-s-this-month/465980/",
+   "https://www.storienogastronomiche.it/?p=127392"
+  ],
+  "notes": "No binder. Maker rates strength 7 of 7 and body 6 of 7, its top strength rating. The maker's 2026 date is the U.S. launch; it was already on sale in Italy by May 2025, so the original release year is not confirmed.",
+  "verified": true,
+  "verifyNotes": "released changed from 2026 to null: 2026 is the U.S. launch and an Italian article dated 12 May 2025 shows it already on sale in Italy, with no source for the first year. Replaced the halfwheel PCA 2026 link with that article. Notes rewritten."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Brenta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nostrano del Brenta (Havana-seed, dark air-cured) from Veneto",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Italy",
+  "binder": "Italy (Nostrano del Brenta)",
+  "filler": "Italy (Nostrano del Brenta)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Campese, near Bassano del Grappa)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Brenta",
+    "length": 4.14,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "leather",
+   "walnut",
+   "hazelnut",
+   "dried fruit"
+  ],
+  "about": "Toscano's first air-cured cigar, made from Nostrano del Brenta, a Havana-seed tobacco grown in the Veneto region. It is short and thick, has a binder, and needs humidor storage, unlike the fire-cured Toscanos.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-brenta/",
+   "https://halfwheel.com/toscano-brenta-returning-to-u-s-stores/453488/",
+   "https://www.famous-smoke.com/toscano-brenta-cigars-natural"
+  ],
+  "notes": "Maker calls the strength light to medium; Famous Smoke lists Medium. It debuted in 2024 as a limited release and returned in 2025 as regular production. Keep it in a humidor at 65 to 70 percent.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Toscano",
+  "line": "Italia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Italian fire-cured Kentucky from Valtiberina, Tuscany",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Italy",
+  "binder": null,
+  "filler": "Italy (Benevento, Valtiberina)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano S.p.A.",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Italia",
+    "length": 6.33,
+    "ring": null
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "mesquite",
+   "black pepper",
+   "espresso",
+   "chocolate"
+  ],
+  "about": "A 2024 Toscano made entirely from Kentucky-seed fire-cured tobacco grown in Italy, with most of the filler from Benevento. The first U.S. release was 500 boxes of 30.",
+  "released": 2024,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/toscano-italia/440815/",
+   "https://halfwheel.com/toscano-italia-debuts-at-pca-2024/437522/"
+  ],
+  "notes": "No binder. Strength and body are from the halfwheel review, and the ring gauge is not published. Halfwheel's review table says regular production, but the first U.S. release was 500 boxes and it is not on the maker's current U.S. list.",
+  "verified": true,
+  "verifyNotes": "production changed from limited to null: halfwheel's review table says Regular Production while its news story says the first U.S. release was limited to 500 boxes, and the maker's U.S. site no longer lists it. Notes trimmed. Halfwheel's table lists Binder: Italy but its text and a retailer say no binder, so binder stays null. No maker strength rating exists; strength is the halfwheel reviewer's."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Master Aged Series 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Italian fire-cured Kentucky from Valtiberina, Tuscany",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Italy",
+  "binder": null,
+  "filler": "Italy (Tuscany), United States (Kentucky, Tennessee)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Master Aged Series 1",
+    "length": 6.33,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "toast"
+  ],
+  "about": "The first blend in Toscano's Master Aged line, with an Italian wrapper over a half Italian, half American Kentucky filler. Like the whole series it is aged 360 days in climate-controlled rooms after rolling.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-master-aged-serie-1/",
+   "https://halfwheel.com/toscano-master-aged-series-3/413816/",
+   "https://www.famous-smoke.com/toscano-master-aged-serie-1-cigars-maduro"
+  ],
+  "notes": "No binder; the maker spells it Serie 1. Maker rates strength 5 of 7 and body 6 of 7, while Famous Smoke lists Full and 6 3/4 x 40. Unlike most Toscanos, the Master Aged cigars should be kept in a humidor.",
+  "verified": true,
+  "verifyNotes": "Swapped the halfwheel news link for the halfwheel Series 3 review, which is the page that states the humidor advice and also gives the Series 1 blend and 6 1/3 x 40 size. Notes trimmed to three sentences."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Master Aged Series 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "North American fire-cured Kentucky from Tennessee",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": null,
+  "filler": "Italy (Tuscany), United States (Kentucky, Tennessee)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Master Aged Series 2",
+    "length": 6.33,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "toast",
+   "wood",
+   "dried fruit"
+  ],
+  "about": "The second Master Aged blend, with a Tennessee-grown Kentucky wrapper fire-cured for 30 days over a mix of Italian and American filler. It is aged 360 days after rolling.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-master-aged-serie-2/",
+   "https://halfwheel.com/toscano-master-aged-series-3/413816/",
+   "https://www.famous-smoke.com/toscano-master-aged-serie-2-cigars-maduro"
+  ],
+  "notes": "No binder; the maker spells it Serie 2. Maker rates strength and body 6 of 7. Halfwheel gives 6 1/3 x 40 while Famous Smoke lists 6 3/4 x 40; keep it in a humidor.",
+  "verified": true,
+  "verifyNotes": "Swapped the halfwheel news link for the halfwheel Series 3 review, which states the humidor advice and the Series 2 blend and size. Removed an unsupported Smokingpipes 6 x 40 size from the notes and trimmed them."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Master Aged Series 3",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "North American fire-cured Kentucky",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": null,
+  "filler": "United States (fire-cured Kentucky)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 6.33,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "toast",
+   "cream",
+   "nuts",
+   "black pepper",
+   "wood",
+   "earth"
+  ],
+  "about": "The all-American blend in the Master Aged line, made in Lucca from stalk-cut, long fire-cured U.S. Kentucky tobacco for both wrapper and filler. It is aged 360 days after rolling.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-master-aged-serie-3/",
+   "https://halfwheel.com/toscano-master-aged-series-3/413816/",
+   "https://www.famous-smoke.com/toscano-master-aged-serie-3-cigars-maduro"
+  ],
+  "notes": "No binder; the maker spells it Serie 3. Maker rates strength and body 6 of 7 and Famous Smoke lists Full, but halfwheel's reviewer found it peaked just under medium in strength. Keep it in a humidor.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences. All other fields confirmed on the maker, halfwheel and Famous Smoke pages."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Master Aged Series 4",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Italian micro-fermented fire-cured Kentucky from Valtiberina, Tuscany",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Italy",
+  "binder": null,
+  "filler": "Italy (Valtiberina, Tuscany), United States (Kentucky, Tennessee)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Master Aged Series 4",
+    "length": 6.33,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "smoke",
+   "wood",
+   "toast",
+   "pepper"
+  ],
+  "about": "A thicker Master Aged release from 2023 whose Italian wrapper spends about ten days in a hot, humid room to start a micro-fermentation. It is aged 360 days after rolling.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-master-aged-serie-4/",
+   "https://halfwheel.com/toscano-announces-master-aged-series-4/424109/",
+   "https://www.famous-smoke.com/toscano-master-aged-serie-4-cigars-maduro"
+  ],
+  "notes": "No binder. Maker rates strength and body 6 of 7. Maker says the filler is half Tuscan and half Kentucky and Tennessee, while halfwheel reported all Italian; halfwheel gives 6 1/3 x 46 and Famous Smoke lists 6 3/4 x 44.",
+  "verified": true,
+  "verifyNotes": "Notes trimmed to three sentences. All other fields confirmed on the maker, halfwheel and Famous Smoke pages."
+ },
+ {
+  "brand": "Toscano",
+  "line": "Master Aged Series 5",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Italian fermented fire-cured Kentucky",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Italy",
+  "binder": null,
+  "filler": "Italy, United States (fire-cured Kentucky leaf)",
+  "country": "Italy",
+  "factory": "Manifatture Sigaro Toscano (Lucca)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "nuts",
+   "dark chocolate"
+  ],
+  "about": "The shortest and thickest Master Aged cigar, released in 2025 with a micro-fermented Italian wrapper over Italian and American Kentucky filler. It measures 50 ring at the middle and tapers to 38 at the ends.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.toscanocigars.com/cigars/toscano-master-aged-serie-5/",
+   "https://halfwheel.com/toscano-master-aged-series-5-goes-on-sale/448711/",
+   "https://www.famous-smoke.com/toscano-master-aged-serie-5-cigars-maduro"
+  ],
+  "notes": "No binder; the maker spells it Serie 5. Maker rates strength and body 6 of 7. Maker and halfwheel give 5 x 50, while Famous Smoke lists 5 1/2 x 46.",
+  "verified": true,
+  "verifyNotes": "filler reworded from 'Italy, United States (Kentucky)': the maker says North American and Italian Kentucky leaf and does not name the state. Notes trimmed to three sentences."
+ }
+]

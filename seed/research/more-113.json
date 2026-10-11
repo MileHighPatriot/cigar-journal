@@ -1,0 +1,494 @@
+[
+ {
+  "brand": "Ramon Allones",
+  "line": "Specially Selected",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": "Partagas (Francisco Perez German), Havana",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "espresso",
+   "nuts",
+   "earth",
+   "leather",
+   "spice"
+  ],
+  "about": "The robusto of the Cuban Ramon Allones brand and its best known cigar, often shortened to RASS. It is sold in boxes of 25 and cabinet bundles of 50.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://cigars.co.uk/brand/ramon-allones/",
+   "https://halfwheel.com/ramon-allones-specially-selected-2011/17666/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Cuban puro. Habanos also writes the name as Allones Specially Selected. halfwheel dates its debut to 1980, but no second source confirms the year, so it is left blank.",
+  "verified": true,
+  "verifyNotes": "All blend, size, factory and strength fields confirmed. Reworded about to drop 'rich, spicy' and trimmed notes."
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Gigantes",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": "Partagas (Francisco Perez German), Havana",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prominente (Double Corona)",
+    "length": 7.625,
+    "ring": 49
+   }
+  ],
+  "flavors": [],
+  "about": "The double corona of the Cuban Ramon Allones brand and one of only a few regular production sizes. Habanos names it alongside the Specially Selected as the brand's most renowned vitola.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/",
+   "https://cigars.co.uk/brand/ramon-allones/",
+   "https://halfwheel.com/ramon-allones-specially-selected-2011/17666/"
+  ],
+  "notes": "Cuban puro. The UK distributor lists it in the singular, as Gigante.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Swapped the Wikipedia source for the halfwheel review, which lists the size and states the brand is rolled at the Partagas factory."
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Small Club Coronas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": "Partagas (Francisco Perez German), Havana",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Minuto (Petit Corona)",
+    "length": 4.375,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "The smallest regular production Ramon Allones, a short Cuban petit corona in the Minuto format.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://cigars.co.uk/brand/ramon-allones/",
+   "https://halfwheel.com/ramon-allones-specially-selected-2011/17666/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Cuban puro. The UK distributor lists it in the singular, as Small Club Corona.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Removed an unsupported flavor claim from about, trimmed notes, and swapped the Wikipedia source for the halfwheel review that lists the size and factory."
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Allones No. 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo), aged at least two years",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Campanas (Belicoso)",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "coffee",
+   "honey",
+   "lemon",
+   "black pepper"
+  ],
+  "about": "The Ramon Allones Edicion Limitada for 2019, a Cuban belicoso sold worldwide in green boxes of 10. It brings back the size of the 2005 Ramon Allones Belicoso made for the UK.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-no-2-el-2019/391519/",
+   "https://www.habanos.com/en/news/habanos-s-a-presents-the-world-preview-of-the-ramon-allones-allones-no-2-limited-edition-in-the-uk/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Edicion Limitada 2019, announced in 2019 but first sold in the UK in August 2020. Habanos rates the brand full strength; halfwheel's review found this cigar medium-plus. Factory undisclosed.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added the factory vitola name Campanas from the Habanos launch release, added that release as a source, and removed a Blind Man's Puff strength claim that no listed source supports."
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Absolutos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo), aged at least two years",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nuevos",
+    "length": 6.125,
+    "ring": 49
+   }
+  ],
+  "flavors": [],
+  "about": "The Ramon Allones Edicion Limitada for 2024, a Cuban cigar in the Nuevos size, which was new to the Cuban range. It comes in boxes of 20 and went on sale first in Switzerland in April 2025.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://www.habanos.com/en/news/habanos-s-a-unveiled-ramon-allones-absolutos-edicion-limitada-2024-in-a-world-exclusive-event-in-basel/",
+   "https://halfwheel.com/ramon-allones-absolutos-el-2024-launching-in-switzerland-on-april-23/449069/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Edicion Limitada 2024, first sold April 2025. Habanos and the UK distributor give 156 mm x 49 (Nuevos), used here; halfwheel's reports list 6 3/8 x 47. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": "Size corrected from 6 3/8 x 47 Cazadores Especiales to 6 1/8 x 49 Nuevos: the Habanos launch release and Hunters & Frankau both give 156 mm x 49. Removed the Montecristo Herederos comparison from about and replaced one halfwheel source with the Habanos release."
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Carlemany",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Genios (Robusto Extra)",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban Edicion Regional made for Andorra and named for Charlemagne. It is a robusto extra limited to 10,000 numbered boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-carlemany-gones-on-sale-in-andorra/478741/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Andorra exclusive from the 2025 Edicion Regional program, on sale August 2026. Third Ramon Allones regional in the Genios size, after Sur and Hermitage. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Rosa Búlgara",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Capuleto (Double Robusto)",
+    "length": 6.375,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban Edicion Regional for Bulgaria that marks the 30th anniversary of distributor Kaliman Caribe. It is a double robusto limited to 6,000 numbered boxes of 10.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/kaliman-caribe-ltd-celebrates-30-years-with-ramon-allones-rosa-bulgara/472606/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Bulgaria exclusive from the 2025 Edicion Regional program, on shelves June 2026. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Casino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Montesco",
+    "length": 5.125,
+    "ring": 55
+   }
+  ],
+  "flavors": [],
+  "about": "The first Cuban Edicion Regional made for Monaco, named for the principality's casino. It shares its size with the Romeo y Julieta Wide Churchills and is limited to 6,000 numbered boxes of 10.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/monaco-getting-first-edicion-regional-cigar/460851/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Monaco exclusive from the 2025 Edicion Regional program. Announced January 2026 as coming within weeks; no on-sale date was found, so the release year is left blank. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": "Set released from 2026 to null: the only source is the January 2026 announcement, which says no release date had been set. Other fields confirmed."
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Private Stock 230",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Partagas 16 (Double Robusto)",
+    "length": 6.7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban Edicion Regional for the United Kingdom marking 230 years of distributor Hunters & Frankau. Its white band and yellow ribbon recall the original Ramon Allones Private Stock of the early 1900s.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-private-stock-230-released-in-the-u-k/416003/",
+   "https://halfwheel.com/ramon-allones-private-stock-230-debuts-in-limited-edition-hunters-frankau-humidor/414213/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "UK exclusive from the 2020 Edicion Regional program: 3,600 numbered boxes of 25. The size is 170 mm, given as 6 3/4 or 6 7/10 inches. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Noellas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Eminentes (Corona)",
+    "length": 5.2,
+    "ring": 42
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban Edicion Regional for Italy marking 20 years of distributor Diadema. It is a corona sold in decorative glass jars of 25, limited to 4,500 numbered jars.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-noellas-arrives-in-italy/414096/",
+   "https://halfwheel.com/ramon-allones-noellas-selected-as-italys-2020-edicion-regional-release/391385/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Italy exclusive from the 2020 Edicion Regional program, released September 2022. It is 3 mm shorter than the H. Upmann Noellas. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "40 Carat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "109 (Double Robusto)",
+    "length": 7.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban Edicion Regional for the Netherlands in the 109 shape, a long parejo with a rounded, tapered head. It is limited to 2,020 boxes of 40 cigars.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-40-carat-arrives-in-the-netherlands/407363/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Netherlands exclusive from the 2020 Edicion Regional program, released March 2022. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "King of North",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Dobles (Toro)",
+    "length": 6.1,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "peanuts",
+   "toast",
+   "leather",
+   "honey",
+   "white pepper",
+   "cedar"
+  ],
+  "about": "A Cuban Edicion Regional toro made for the Nordic and Baltic countries through Habanos Nordic. It is limited to 6,000 numbered boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-king-of-north-er-nordicos-balticos-2020/405833/",
+   "https://halfwheel.com/ramon-allones-king-of-north-debuts-in-baltic-nordic-regions/400912/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Nordic and Baltic exclusive from the 2020 Edicion Regional program, released October 2021. Habanos rates the brand full strength, but halfwheel's review found it medium in strength with a lighter body. Factory undisclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Sr. Henry",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Geniales",
+    "length": 5.9,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban Edicion Regional for Germany made to honor the 90th birthday of Heinrich Villiger, co-founder of the German distributor 5th Avenue. It is limited to 18,000 numbered boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-sr-henry-honors-heinrich-villiger/400511/",
+   "https://www.habanos.com/en/news/vii-habanos-day-in-germany/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Germany exclusive from the 2020 Edicion Regional program, launched September 2021 and also sold in Austria and Poland. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added the Habanos news page that gives 54 x 150 mm and the September 2021 launch, and changed 'who runs' to 'co-founder of' in about."
+ },
+ {
+  "brand": "Ramon Allones",
+  "line": "Perfecto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cuban (Vuelta Abajo)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Cuba",
+  "binder": "Cuba (Vuelta Abajo)",
+  "filler": "Cuba (Vuelta Abajo)",
+  "country": "Cuba",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tacos (Perfecto)",
+    "length": 6.25,
+    "ring": 47
+   }
+  ],
+  "flavors": [],
+  "about": "A Cuban Edicion Regional perfecto made for Mexico in the same shape as the Partagas Presidentes. It is limited to 6,000 numbered boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/ramon-allones-perfectos-er-mexico-arrives/394416/",
+   "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/"
+  ],
+  "notes": "Mexico exclusive, released May 2021. Not the same cigar as the 2014 Ramon Allones Perfectos for Switzerland, which was 5 2/5 x 48. Full is Habanos's rating for the brand as a whole, not this release.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

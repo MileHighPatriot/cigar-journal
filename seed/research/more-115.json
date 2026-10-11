@@ -1,0 +1,499 @@
+[
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Republic",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Kelner Boutique Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "El Ingeniero (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Baba Jan (Petit Corona)",
+    "length": 4,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "baking spice",
+   "brown sugar",
+   "earth",
+   "pepper"
+  ],
+  "about": "The Black line is a Dominican puro from Bob de Goede's Xhaxhi Bobi brand, rolled at Kelner Boutique Factory. Each size has its own name, such as El Ingeniero for the robusto.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-xhaxhi-bobi-black-el-ingeniero/",
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-el-ingeniero-robusto-1",
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-baba-jan-petit-corona"
+  ],
+  "notes": "El Ingeniero is the robusto. Baba Jan (petit corona) is listed with the same blend and photo but is not labeled Black. A Black Toro was added in 2026 with no size or blend published, and the distributor rates the line medium plus where Developing Palates reviewers called it medium.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, June 2021 release and medium strength confirmed on Developing Palates; medium plus and flavors confirmed on the distributor page. Removed the unsupported 'black-band' and Kelner Jr. ownership wording from about. Swapped the Black Toro link for the Baba Jan page, which is where the 4 x 43 size comes from; the Black Toro listing (sirlouiscigars.com/products/xhaxhi-bobi-black-toro-1) was checked and has no specs. Baba Jan is tied to Black by a shared photo and identical blend text, not by an explicit label."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "The Red line from Bob de Goede's Xhaxhi Bobi brand, whose cigars are made at several Dominican factories. The US distributor sells a Red Toro in bundles of 10.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-red-toro-1",
+   "https://halfwheel.com/xhaxhi-bobi-announces-new-u-s-distribution/431041/"
+  ],
+  "notes": "No blend or dimensions are published for the Red Toro. El Licenciado (robusto) and Mi Hermano (petit corona) are pictured with the same red band, so they look like the named sizes of this line, but no source says so outright.",
+  "verified": true,
+  "verifyNotes": "The Red Toro listing has no description, so wrapper and strength are confirmed as not published. Country rests on halfwheel's statement that all the brand's cigars are made in the Dominican Republic; the halfwheel page does not name this line. Reworded about and trimmed notes."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Mi Hermano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Republic",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "cream"
+  ],
+  "about": "A 4 x 43 petit corona from the Dominican brand Xhaxhi Bobi. The distributor lists it as an all-Dominican blend and pictures it with the red band.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-mi-hermano-petit-corona"
+  ],
+  "notes": "Appears to be the petit corona of the Red line, with El Licenciado as the robusto: the distributor uses the same photo for both. Mi Hermano is listed only as all Dominican, while El Licenciado has a detailed blend with Peruvian filler. Strength is listed as medium plus and the text calls it medium bodied.",
+  "verified": true,
+  "verifyNotes": "All blend fields, size and strength confirmed on the distributor page. Removed the halfwheel link because it does not mention this cigar. Reworded about so it no longer depends on that page."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "El Licenciado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Monte Plata Yamasa Claro (Dominican)",
+  "wrapperCategory": "Claro",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Cotui",
+  "filler": "Dominican San Vicente, Dominican Corojo, Dominican Piloto Cubano, Peruvian Pelo de Oro",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A 5 x 50 robusto from Bob de Goede's Xhaxhi Bobi brand, named in honor of Hendrik Kelner Jr. It uses a Dominican Yamasa wrapper over mostly Dominican tobaccos with some Peruvian Pelo de Oro.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-el-licenciado-robusto-1",
+   "https://halfwheel.com/pca-2022-xhaxhi-bobi/412126/"
+  ],
+  "notes": "Named after Hendrik Kelner Jr., who made Bob de Goede's first cigars. The listing does not name the factory outright. It wears the red band, so it looks like the robusto of the Red line, with Mi Hermano as the petit corona.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, size and medium strength confirmed on the distributor page. The page names Monte Plata Yamasa as the wrapper source without saying 'Dominican'; Yamasa is in the Dominican Republic. The halfwheel PCA 2022 page does not name this cigar and is kept only for the Hendrik Kelner Jr. background."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Sunrise / Sunset",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Habano",
+  "filler": "Dominican Habano, Piloto, San Vicente",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sunrise (Petit Corona)",
+    "length": 4,
+    "ring": 43
+   },
+   {
+    "name": "Sunset (Robusto)",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The Connecticut-wrapped cigar in the Xhaxhi Bobi range, made in the Dominican Republic. Sunrise is the petit corona and Sunset is the robusto, and the distributor rates the blend mild to medium.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-sunrise-petit-corona-1",
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-sunset-robusto-1"
+  ],
+  "notes": "Same blend in two sizes: Sunrise is the 4 x 43 petit corona and Sunset is the 5 x 50 robusto. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and strength confirmed on both distributor pages. Removed 'the mildest blend in the lineup' from about: the Limited Edition 2024 is also listed as mild to medium."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Grey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Torres Garcia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The Grey line from the Dominican brand Xhaxhi Bobi, listed by the distributor as blended and rolled at Torres Garcia.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-grey-robusto-1",
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-grey-petit-corona-1"
+  ],
+  "notes": "The blend is not published. The Sexy Cuchi lancero was previously listed by the distributor as Grey Lancero.",
+  "verified": true,
+  "verifyNotes": "Sizes, Dominican origin, medium strength and the Torres Garcia line confirmed on both distributor pages, which publish no blend. Reworded about to drop wording not on the pages. Torres Garcia appears only on the distributor listing; no second source was found."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Sexy Cuchi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Republic",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A 7 x 38 lancero from Xhaxhi Bobi, listed as an all-Dominican blend and sold in bundles of 10.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-grey-lancero-1"
+  ],
+  "notes": "The distributor's page was originally titled Grey Lancero, so this may be the lancero of the Grey line under a new name. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Size, all-Dominican blend and medium strength confirmed on the distributor page. The Grey Lancero link is supported by the page address and its photo caption. No second source was found."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "SQ Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesian Sumatra",
+  "filler": "Dominican Criollo 98, Nicaragua, Pennsylvania Broadleaf",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "SQ44",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "SQ50",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "espresso",
+   "leather"
+  ],
+  "about": "A box-pressed Ecuadorian Habano cigar made for Xhaxhi Bobi at Tabacalera El Artista in the Dominican Republic. SQ refers to the square press and the number to the ring gauge.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-sq50-habano",
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-sq44-habano",
+   "https://luxurycigarclub.com/products/xhaxhi-bobi-square"
+  ],
+  "notes": "Sold as SQ44 Habano (4 x 44) and SQ50 Habano (5 x 50), both box pressed. Luxury Cigar Club lists the Dominican filler as Corojo 98 instead of Criollo 98 and rates it medium plus.",
+  "verified": true,
+  "verifyNotes": "Confirmed on both distributor pages and cross-checked against Luxury Cigar Club, which agrees on wrapper, binder, factory and sizes. Added that page as a source and noted the two points where it differs (Corojo 98 filler, medium plus)."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "7 Vikings",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "SQ44",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "SQ50",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A box-pressed San Andres wrapped cigar from Xhaxhi Bobi with Dominican binder and filler. It comes in the same two SQ sizes as the SQ Habano.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-7-vikings-sq50",
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-7-vikings-sq-44",
+   "https://halfwheel.com/xhaxhi-bobi-announces-new-u-s-distribution/431041/"
+  ],
+  "notes": "Also written Seven Vikings. The distributor rates it medium strength but describes it as full flavored. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, sizes and medium strength confirmed on both distributor pages. Neither page gives the country; it rests on halfwheel's statement that all the brand's cigars are made in the Dominican Republic, which is why that link is kept although it does not name this line."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "El Rabo de Toro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Corojo",
+  "filler": "Dominican Habano, Corojo, Piloto",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 50 toro from Xhaxhi Bobi with an Ecuadorian Habano wrapper over Dominican binder and filler. The distributor sells it in five packs.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-el-rabo-de-toro-5-pack",
+   "https://halfwheel.com/xhaxhi-bobi-announces-new-u-s-distribution/431041/"
+  ],
+  "notes": "No strength or factory is published. The only listing found is a five pack that is currently sold out, so it is unclear whether it is still made.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler and 6 x 50 size confirmed on the distributor page, which gives no strength. Set production to null: nothing says whether it is a regular line and the only listing is sold out. Country rests on halfwheel's brand-level statement; the page does not call the size a toro, that comes from the name and the 6 x 50 dimensions."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Limited Edition 2024",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "H2000",
+  "filler": "HVA, Criollo 98, Havana 92",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Grande",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The 2024 limited edition from Bob de Goede's Xhaxhi Bobi brand, a 5.5 x 54 robusto grande with a Corojo wrapper sold in boxes of 10.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-limited-edition-2024-robusto-grande-1",
+   "https://halfwheel.com/xhaxhi-bobi-announces-new-u-s-distribution/431041/"
+  ],
+  "notes": "The listing gives seed varieties only (Corojo, H2000, HVA, Criollo 98, Havana 92) and not where the leaves were grown. The factory is not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, size and mild to medium strength confirmed on the distributor page. Country rests on halfwheel's brand-level statement, since the listing gives no origin."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Grinch Bobi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres (the 2025 edition is a San Andres and Habano barber pole)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "LE 2024 Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "LE 2025",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A holiday limited edition from Xhaxhi Bobi that has come out in a different form each time. The 2024 release was a San Andres toro and the 2025 release a San Andres and Habano barber pole.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-grinch-bobi-le-2026",
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-grinch-bobi-toro",
+   "https://privadacigarclub.com/products/xhaxhi-bobi-grinchy-aged-9-months"
+  ],
+  "notes": "The distributor lists binder and filler as undisclosed. Privada sells an aged earlier batch as Grinchy (6 x 50) and lists a Pennsylvania binder with Dominican and Nicaraguan filler. Size and wrapper change by year, so check the band year.",
+  "verified": true,
+  "verifyNotes": "Both distributor listings and the Privada Grinchy page confirmed: wrappers, sizes, medium strength, undisclosed binder and filler, Dominican manufacture. The first source link has 2026 in its address but the page is the LE 2025. Softened 'returns each year' in about."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Halloween Bobi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (2021 release)",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Halloween limited edition from Xhaxhi Bobi with a Mexican San Andres wrapper. It first appeared in October 2021 as a Privada Limited Cigar Association release, and the US distributor now sells a dated LE 2026 edition.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-halloween-bobi-le-2027",
+   "https://privadacigarclub.com/products/xhaxhi-bobi-halloween"
+  ],
+  "notes": "The distributor lists the LE 2026 binder and filler as undisclosed and gives its size only as \"5x5x50\", which is unclear. Privada's 2021 release was a 6 x 50 toro with a Pennsylvania binder and Dominican and Nicaraguan filler. Medium-full is the 2026 rating.",
+  "verified": true,
+  "verifyNotes": "San Andres wrapper, medium-full rating and undisclosed binder and filler confirmed on the distributor's LE 2026 page; October 8, 2021 release, 6 x 50 size and Dominican manufacture confirmed on Privada. Removed the guess that the 2026 size is 5 x 50, labeled the listed size as the 2021 release, and dropped 'yearly' from about since only the 2021 and 2026 editions were found."
+ },
+ {
+  "brand": "Xhaxhi Bobi",
+  "line": "Lover Boy Louis",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut, sweet tipped, with a maduro heart applied",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A small sweet-tipped perfecto from Xhaxhi Bobi with an Ecuadorian Connecticut wrapper and a maduro leaf heart on each cigar. It is sold in boxes of five through Sir Louis Cigars, the brand's US distributor.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://sirlouiscigars.com/products/xhaxhi-bobi-lover-boy-louis-1",
+   "https://halfwheel.com/xhaxhi-bobi-announces-new-u-s-distribution/431041/"
+  ],
+  "notes": "The cap is sweetened. The size is given only as Petite Perfecto with no measurements, and no strength or factory is published. The distributor calls it ultra limited.",
+  "verified": true,
+  "verifyNotes": "Wrapper, Dominican binder and filler, box count and Petite Perfecto shape confirmed on the distributor page, which gives no measurements or strength. Country rests on halfwheel's brand-level statement."
+ }
+]

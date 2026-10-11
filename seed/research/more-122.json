@@ -1,0 +1,462 @@
+[
+ {
+  "brand": "Firecracker",
+  "line": "Sungrown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sungrown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo)",
+  "filler": "Dominican Republic (including ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "leather",
+   "spice",
+   "cedar",
+   "earth"
+  ],
+  "about": "The original house blend of United Cigars' Firecracker, a 3 1/2 x 50 short robusto with a long pigtail cap shaped like a fuse. It is the regular production cigar behind the many limited Firecracker collaborations.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/firecracker-sungrown/",
+   "https://halfwheel.com/united-cigar-groups-firecracker-gets-packaging-update/393431/",
+   "https://www.neptunecigar.com/cigars/firecracker-sungrown"
+  ],
+  "notes": "United calls it full-bodied; Corona lists medium to full and Neptune medium. halfwheel and Neptune call the wrapper Ecuadorian Habano and add Nicaraguan filler. The Firecracker idea dates to 2006-2007 at Two Guys Smoke Shop; the house blend's own launch year is not published.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, size and strength confirmed on United, halfwheel, Corona and Neptune. Trimmed notes to under 350 characters and dropped the unverified reference to an older United page. Swapped the Corona link for Neptune's page, which backs the Habano wrapper and medium rating."
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Criollo)",
+  "filler": "Dominican Republic (including ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cayenne",
+   "leather",
+   "brownie",
+   "earth"
+  ],
+  "about": "The dark-wrapper version of United Cigars' regular production Firecracker, a 3 1/2 x 50 short robusto with a fuse-style pigtail. It was previously sold as the Black Bomb Firecracker.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/firecracker-maduro/",
+   "https://halfwheel.com/firecracker-connecticut-ships/437357/",
+   "https://www.neptunecigar.com/cigars/firecracker-maduro"
+  ],
+  "notes": "Formerly the Black Bomb Firecracker, whose 2023 blend halfwheel listed with a Sumatra binder and Dominican and Nicaraguan filler. United calls it full-bodied; Neptune lists medium and an Ecuadorian maduro wrapper.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on United, halfwheel and Neptune. Shortened notes."
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (shade grown)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo)",
+  "filler": "Dominican Republic (including ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "toast",
+   "citrus"
+  ],
+  "about": "The third regular production Firecracker blend from United Cigars, shown at TPE 2024 and shipped that April. It is a 3 1/2 x 50 short robusto with the line's fuse-style pigtail and a Connecticut shade wrapper.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://unitedcigargroup.com/firecracker-connecticut/",
+   "https://halfwheel.com/firecracker-connecticut-ships/437357/",
+   "https://www.cigaraficionado.com/article/united-cigars-goes-light-with-newest-firecracker-line"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Black Bomb",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A darker United Cigars house blend in the 3 1/2 x 50 Firecracker format with the fuse-style pigtail. It was reblended and repackaged in 2023 and is now sold as the Firecracker Maduro.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/revamped-black-bomb-firecracker-heading-to-stores/429175/",
+   "https://halfwheel.com/united-cigars-adding-black-bomb-firecracker/424768/",
+   "https://halfwheel.com/firecracker-connecticut-ships/437357/"
+  ],
+  "notes": "The name was retired: halfwheel reports it became the Firecracker Maduro. The blend shown is the 2023 version; United never disclosed the earlier blend or its launch year. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "2023 blend, factory and size confirmed on halfwheel; rename to Firecracker Maduro confirmed. United no longer has a Black Bomb page, so no strength is published."
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Irish Car Bomb",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Dominican Candela and Mexican San Andres",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic, Mexico",
+  "binder": "Nicaragua (Criollo)",
+  "filler": "Dominican Republic (ligero), Nicaragua, USA (Pennsylvania broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Magia Cubana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "hay",
+   "earth",
+   "spice"
+  ],
+  "about": "A St. Patrick's Day Firecracker from United Cigars with a green and dark barber pole wrapper and a candela fuse. It shipped in early 2021 in five-packs, with about 14,500 cigars made.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/united-cigars-announces-irish-car-bomb-firecrackers/390167/",
+   "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-united-cigar-irish-car-bomb-firecracker/"
+  ],
+  "notes": "Two-leaf barber pole wrapper, so no single wrapper type applies. halfwheel lists it at 3 x 50, but the Developing Palates review lists 3 1/2 x 50. Strength is from that review.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, strength and the 14,500 figure confirmed. The size disagreement between halfwheel (3 x 50) and Developing Palates (3 1/2 x 50) could not be settled by a third source; halfwheel's figure kept."
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Independence Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (HVA)",
+  "filler": "Dominican Republic (Piloto Cubano, ligero), Nicaragua (ligero)",
+  "country": "Dominican Republic",
+  "factory": "Arnold André Dominicana S.R.L.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "baking spices",
+   "citrus"
+  ],
+  "about": "The 2026 Firecracker, made with Arnold André for the 250th anniversary of the United States and sold in 12-count tins that double as ashtrays. The blend proved popular enough that United turned it into the regular Independence line in Robusto and Toro.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/united-cigars-shipping-independence-firecracker-this-week/472159/",
+   "https://unitedcigargroup.com/independence/",
+   "https://cigardojo.com/2026/01/united-cigars-announces-independence-firecracker-for-americas-250th-anniversary/"
+  ],
+  "notes": "United's page calls the blend full-bodied, but its announcement said medium-plus strength and Corona Cigar lists medium to full. Leaf details and flavors come from United's page for the regular Independence line, which is the same blend. Over 30,000 cigars were made.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Full to Medium-Full: United's announcement (via Cigar Dojo) says medium-plus strength and Corona lists medium to full; only United's line page says full-bodied. Replaced the third source with the Cigar Dojo announcement and rewrote notes."
+ },
+ {
+  "brand": "Firecracker",
+  "line": "El Baton Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cocoa",
+   "cedar",
+   "black pepper",
+   "earth"
+  ],
+  "about": "J.C. Newman's 2025 entry in the Firecracker Series, marking 60 years since Stanford Newman brought Cameroon wrapper to premium cigars. It wears the El Baton band but is a different blend, limited to 500 boxes of 20.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/el-baton-firecracker-scheduled-to-ship-next-week/453786/",
+   "https://www.coronacigar.com/el-baton-firecracker/",
+   "https://cigardojo.com/2025/08/el-baton-cameroon-firecracker-begins-shipping-to-retailers/"
+  ],
+  "notes": "Also called the El Baton Cameroon Firecracker. It is not the regular El Baton blend. Strength is from Corona Cigar's listing.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Firecracker",
+  "line": "JFR Lunatic Loco Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Corojo Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Aganorsa, Jalapa and Esteli)",
+  "filler": "Nicaragua (Corojo 99 and Criollo 98, Jalapa and Esteli)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa Leaf factory, Esteli",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "Aganorsa Leaf's 2024 Firecracker, putting the JFR Lunatic Loco blend into the 3 1/2 x 50 fuse-capped format. It is an all-Nicaraguan cigar sold in boxes of 20 as a limited release.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/jfr-lunatic-loco-firecracker-heading-to-stores/439458/",
+   "https://www.coronacigar.com/jfr-lunatic-loco-firecracker/",
+   "https://aganorsaleaf.com/cigars/lunatic-locos/"
+  ],
+  "notes": "Aganorsa bills Lunatic Loco as its strongest cigar. Production numbers were not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Perez-Carrillo Pledge Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-grown Habano seed",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Casa Carrillo (Tabacalera La Alianza)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "black pepper",
+   "baking spice",
+   "coffee"
+  ],
+  "about": "The 2023 Firecracker from E.P. Carrillo, using the Pledge blend in the 3 1/2 x 50 fuse-capped format. It was limited to 1,000 boxes of 20.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/perez-carrillo-pledge-firecracker-begins-shipping/424442/",
+   "https://casacarrillocigars.com/cigars/pledge/",
+   "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-e-p-carrillo-pledge-firecracker/"
+  ],
+  "notes": "The maker rates the Pledge line full, but the Developing Palates review of this short size found it closer to medium. It is one limited size of the Pledge line.",
+  "verified": true,
+  "verifyNotes": "Removed the flavor 'dark chocolate', which none of the sources mention. Notes said reviewers found medium or medium-full; the one review cited says medium, so corrected."
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Big Papi Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Negrito)",
+  "filler": "Dominican Republic (Criollo 98), Nicaragua (Jalapa), USA (Pennsylvania broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera El Artista",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "leather",
+   "toast",
+   "earth",
+   "white pepper"
+  ],
+  "about": "A Firecracker made by El Artista with baseball Hall of Famer David Ortiz, using a modified version of the Big Papi Slugger blend. It came out in March 2022 with 1,000 boxes of 20 and returned in 2023 with 200 more boxes.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/big-papi-firecracker/409163/",
+   "https://halfwheel.com/big-papi-firecracker-returns-to-celebrate-baseballs-opening-day/421316/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-el-artista-big-papi-firecracker/"
+  ],
+  "notes": "Strength and body come from halfwheel and Developing Palates reviews, which ranged from medium-plus to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Firecracker",
+  "line": "Wise Man Maduro Firecracker",
+  "found": true,
+  "officialName": "The Wise Man Maduro Firecracker",
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa Corojo)",
+  "filler": "Nicaragua (Esteli and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (Aganorsa)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "wood"
+  ],
+  "about": "Foundation Cigar Co.'s Firecracker, putting The Wise Man Maduro blend into the 3 1/2 x 50 fuse-capped size. It debuted in June 2021 with 500 boxes of 20 and came back in 2022 and 2023.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/the-wise-man-maduro-firecracker/400341/",
+   "https://halfwheel.com/bandolero-firecracker-wise-man-maduro-firecracker-return-for-2023/430135/",
+   "https://foundationcigarcompany.com/the-wise-man-maduro/"
+  ],
+  "notes": "One limited size of The Wise Man Maduro line. Foundation rates the line medium; halfwheel's review found medium-plus strength with medium-full body. United said the 2023 batch would be the last.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Firecracker",
+  "line": "HVC Black Friday Firecracker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Cafe",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Corojo 99 and Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (Aganorsa)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Firecracker",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "cedar",
+   "toasted wood",
+   "coffee"
+  ],
+  "about": "HVC's entry in the Firecracker Series, a 3 1/2 x 50 fuse-capped take on its annual Black Friday release. It shipped in November 2020 and was limited to 500 boxes of 20.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/hvc-black-friday-firecracker-arriving-in-november/380848/",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-hvc-black-friday-firecracker/"
+  ],
+  "notes": "No maker strength rating is published. The Developing Palates panel put it between medium-full and full, with most calling it full.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

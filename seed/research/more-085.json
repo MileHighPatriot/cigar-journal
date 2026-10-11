@@ -1,0 +1,900 @@
+[
+ {
+  "brand": "Rojas",
+  "line": "Bluebonnets",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "pepper",
+   "nuts",
+   "toast",
+   "earth",
+   "cocoa"
+  ],
+  "about": "A medium-strength Corojo-wrapped line from Noel Rojas, named after the Texas bluebonnet flower. Rojas keeps the line to ring gauges of 50 and under.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brands/rojas-cigars/rojas-bluebonnets",
+   "https://www.neptunecigar.com/rojas-cigar",
+   "https://www.atlanticcigar.com/rojas-bluebonnets/"
+  ],
+  "notes": "Famous and Neptune list an Ecuadorian Corojo wrapper over Nicaraguan binder and filler, while Atlantic calls the cigar a Corojo puro. Atlantic also lists the Toro at 6 x 52 instead of 6 x 50.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country and strength confirmed on Famous, Neptune and Atlantic. Replaced the halfwheel KSG link with Neptune, which states the blend. Reworded about and notes; changed flavor \"black pepper\" to \"pepper\" to match Famous. No source gives a release year."
+ },
+ {
+  "brand": "Rojas",
+  "line": "Breakfast Tacos Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Perfecto",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "sweet tobacco",
+   "baking spice",
+   "toast"
+  ],
+  "about": "The Connecticut-wrapped version of Rojas Breakfast Tacos, a small perfecto made as a roughly 30 minute smoke. The binder and filler are Nicaraguan tobaccos grown by Rojas.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rojas-cigars-to-debut-breakfast-tacos-at-tpe-announces-price-increase-to-street-tacos/417710/",
+   "https://halfwheel.com/rojas-cigars-raises-price-of-street-tacos-increases-ring-gauge-on-breakfast-tacos/431129/",
+   "https://www.famous-smoke.com/rojas-breakfast-tacos-petit-salomon-connecticut-cigars-natural"
+  ],
+  "notes": "One of three Breakfast Tacos wrappers (Connecticut, Maduro, Sumatra). It launched at 4 1/2 x 46 and moved to a 50 ring gauge in late 2023; Famous still lists 4 1/2 x 44. Strength is the Famous rating.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed against halfwheel and Famous. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Rojas",
+  "line": "Breakfast Tacos Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Perfecto",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "cocoa",
+   "nuts",
+   "wood",
+   "black pepper"
+  ],
+  "about": "The San Andrés maduro version of Rojas Breakfast Tacos, a small perfecto made as a roughly 30 minute smoke. The binder and filler are Nicaraguan tobaccos grown by Rojas.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rojas-breakfast-tacos-maduro/423511/",
+   "https://halfwheel.com/rojas-cigars-raises-price-of-street-tacos-increases-ring-gauge-on-breakfast-tacos/431129/",
+   "https://www.famous-smoke.com/rojas-breakfast-tacos-petit-salomon-maduro-cigars-maduro"
+  ],
+  "notes": "One of three Breakfast Tacos wrappers. It launched at 4 1/2 x 46 and moved to a 50 ring gauge in late 2023; Famous still lists 4 1/2 x 44. Famous rates it full and the halfwheel review found the strength medium-full to full.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed against halfwheel and Famous. Corrected the note: halfwheel found the strength medium-full to full, not closer to medium-full, and measured its samples at 42 ring gauge. Changed flavor \"espresso\" to \"coffee\" to match the sources."
+ },
+ {
+  "brand": "Rojas",
+  "line": "Breakfast Tacos Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Perfecto",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "fruit",
+   "earth"
+  ],
+  "about": "The Sumatra-wrapped version of Rojas Breakfast Tacos, a small perfecto made as a roughly 30 minute smoke. The binder and filler are Nicaraguan tobaccos grown by Rojas.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rojas-cigars-to-debut-breakfast-tacos-at-tpe-announces-price-increase-to-street-tacos/417710/",
+   "https://halfwheel.com/rojas-cigars-raises-price-of-street-tacos-increases-ring-gauge-on-breakfast-tacos/431129/",
+   "https://www.famous-smoke.com/rojas-breakfast-tacos-petit-salomon-sumatra-cigars-natural"
+  ],
+  "notes": "One of three Breakfast Tacos wrappers. It launched at 4 1/2 x 46 and moved to a 50 ring gauge in late 2023; Famous still lists 4 1/2 x 44. Strength is the Famous rating.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed against halfwheel and Famous. Reworded notes."
+ },
+ {
+  "brand": "Rojas",
+  "line": "Street Tacos Al Pastor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "white pepper",
+   "leather",
+   "nuts",
+   "bread"
+  ],
+  "about": "The fourth blend in the Rojas Street Tacos series and the third in regular production, named after the spit-roasted pork taco filling. It pairs an Ecuadorian Habano wrapper with a Mexican San Andrés binder.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rojas-street-tacos-al-pastor-toro-grande/454200/",
+   "https://halfwheel.com/pca-2025-rojas-cigars/450817/",
+   "https://www.famous-smoke.com/brands/rojas-cigars/rojas-street-tacos"
+  ],
+  "notes": "No strength is published. The halfwheel review had it starting at medium and finishing full, with medium-full body.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed against the halfwheel review, the PCA 2025 report and Famous. Reworded notes to drop the research detail."
+ },
+ {
+  "brand": "Rojas",
+  "line": "Street Tacos Cinco de Mayo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Nicaragua (Jalapa), USA (Connecticut Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cocoa",
+   "oak",
+   "black pepper",
+   "earth",
+   "coffee"
+  ],
+  "about": "An annual limited edition in the Rojas Street Tacos series, released each spring for Cinco de Mayo since 2024. Rojas says about 80 percent of the filler is Connecticut broadleaf aged seven years.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/rojas-street-tacos-cinco-de-mayo-2025/452532/",
+   "https://halfwheel.com/pca-2026-rojas-cigars/463132/",
+   "https://halfwheel.com/rojas-street-tacos-cinco-de-mayo-2024/444695/"
+  ],
+  "notes": "Released yearly: 2024 was 6 x 52 (35,000 cigars), 2025 was 6 x 54 (50,000) and 2026 is 6 x 54 (40,000). No strength is published. The halfwheel reviews found the 2024 mild and the 2025 medium to medium-full.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and production numbers confirmed against halfwheel. No maker or retailer strength exists, so strength stays null. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Rojas",
+  "line": "10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "coffee",
+   "black pepper",
+   "spice"
+  ],
+  "about": "A single-size limited edition marking ten years since Noel Rojas opened his own factory. It uses an Ecuadorian Habano Maduro wrapper from Oliva Tobacco Co. over filler Rojas grew in three regions of Nicaragua.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/rojas-celebrates-10th-anniversary-with-limited-edition/436253/",
+   "https://www.famous-smoke.com/brands/rojas-cigars/rojas-10th-anniversary",
+   "https://www.famous-smoke.com/brands/rojas-cigars"
+  ],
+  "notes": "Limited to 3,500 boxes of 10. Rojas described it as medium to full, while Famous lists it as full. halfwheel reports all-Nicaraguan filler, but Famous also mentions tobacco from Costa Rica and Panama, and the binder is not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country and strength confirmed. Added the Famous brand page as a source because the Costa Rica and Panama wording is there, not on the line page. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "Rojas",
+  "line": "Quiet Morning",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cream",
+   "bread",
+   "pepper",
+   "cereal",
+   "nuts",
+   "citrus"
+  ],
+  "about": "A regular production Connecticut-wrapped line Rojas introduced at the 2026 PCA show, blended to be the first cigar of the day. It comes in the same core sizes as the main Rojas line.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rojas-quiet-morning-corona-gorda/473429/",
+   "https://halfwheel.com/pca-2026-rojas-cigars/463132/",
+   "https://www.famous-smoke.com/brands/rojas-cigars"
+  ],
+  "notes": "Famous calls it mild to medium. The halfwheel review found the strength mild with medium body.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed. Swapped the Famous line page for the Famous brand page, which is where the mild-to-medium wording appears; the line page gives no strength."
+ },
+ {
+  "brand": "Rojas",
+  "line": "KSG",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Somoto)",
+  "filler": "Nicaragua (Somoto and undisclosed regions)",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.25,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "oak",
+   "bread",
+   "cedar",
+   "coffee",
+   "black pepper",
+   "leather"
+  ],
+  "about": "KSG stands for King of the Small Gauge, a limited Rojas line kept to thin ring gauges. The blend is built around tobacco from the Somoto region of Nicaragua under an aged Ecuadorian maduro wrapper.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/rojas-ksg-lonsdale-2022/413514/",
+   "https://halfwheel.com/rojas-ksg/376376/",
+   "https://www.neptunecigar.com/cigar/rojas-ksg"
+  ],
+  "notes": "Released in small runs: a 7 1/2 x 38 Lancero in 2020 (5,000 cigars) and a 6 1/4 x 42 Lonsdale in 2022 (1,000 boxes). The 2020 run was made at Tabacalera Flor de San Luis and the 2022 run at Rojas Cigar Factory. Neptune lists medium strength, and halfwheel found medium to medium-plus with full body.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: Neptune lists medium and both halfwheel reviews found medium to medium-plus, so no source says medium-full. Replaced the PCA 2022 link with the Neptune page. Trimmed notes."
+ },
+ {
+  "brand": "Rojas",
+  "line": "Factory Overruns",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "Budget-priced factory overrun cigars sold under the Rojas name by Famous Smoke Shop. Famous says they come from the same maker as Street Tacos and Unfinished Business, and the blends are not named.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.famous-smoke.com/brand-rojas-factory-overruns",
+   "https://www.famous-smoke.com/rojas-factory-overruns-robusto-cigars-natural",
+   "https://www.famous-smoke.com/brands/rojas-cigars"
+  ],
+  "notes": "Only Famous Smoke Shop lists these, and its specs are the only source. The blends are not named, so the binder is unpublished and the cigars may vary from batch to batch.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, strength and sizes confirmed on Famous, the only source. Production changed from regular to null because Famous describes them as limited-quantity overruns and nothing says they are a standing line. Reworded about."
+ },
+ {
+  "brand": "My Father",
+  "line": "La Lealtad",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado Oscuro",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras, Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "My Father Cigars Honduras",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo Box Pressed",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "leather",
+   "red pepper",
+   "nutmeg",
+   "raisin"
+  ],
+  "about": "The second line from My Father's Honduran factory, after My Father Blue. The name means loyalty, and the blend uses an Ecuadorian Rosado Oscuro wrapper over Honduran and Nicaraguan tobaccos from the Garcia family farms.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://myfathercigars.com/cigar/my-father-la-lealtad/",
+   "https://halfwheel.com/my-father-la-lealtad-toro/471983/",
+   "https://www.holts.com/cigars/all-cigar-brands/my-father-la-lealtad.html"
+  ],
+  "notes": "My Father calls the wrapper Ecuador Rosado Oscuro and rates the blend 3/4 to full body; halfwheel calls the wrapper Habano Oscuro Rosado. Holt's lists medium-full, while the halfwheel review found the strength closer to medium.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed against the My Father page, halfwheel and Holt's. Reworded notes so every claim comes from the listed sources."
+ },
+ {
+  "brand": "My Father",
+  "line": "Jaime Garcia Reserva Especial Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "almond",
+   "cedar",
+   "butterscotch",
+   "white pepper",
+   "cream"
+  ],
+  "about": "A Connecticut-wrapped extension of the broadleaf Jaime Garcia Reserva Especial, made by My Father Cigars. It began in 2012 as a New England regional release and went nationwide in 2024.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://myfathercigars.com/cigar/jaime-garcia-r-e-connecticut/",
+   "https://halfwheel.com/jaime-garcia-reserva-especial-connecticut-heading-to-stores-as-it-becomes-available-nationwide/442198/",
+   "https://www.holts.com/cigars/all-cigar-brands/jaime-garcia-reserva-especial-connecticut.html"
+  ],
+  "notes": "My Father describes it as a full flavor, mild to medium blend, while Holt's lists it as medium. The 2012 regional release used slightly different sizes.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed against the My Father page, halfwheel and Holt's. Reworded about (halfwheel says nationwide release, not confirmed regular production at the time) and limited notes to the listed sources."
+ },
+ {
+  "brand": "My Father",
+  "line": "Jaime Garcia Reserva Especial Sucesor",
+  "found": true,
+  "officialName": "Jaime Garcia Reserva Especial Sucesor Limited Edition 2024",
+  "wrapperLeaf": "Nicaraguan Sumatra-seed (Toro) or Nicaraguan Habano-seed (Torpedo)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "almond",
+   "cocoa",
+   "leather",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A 2024 limited edition under the Jaime Garcia Reserva Especial brand from My Father Cigars. It comes in two box-pressed sizes that each use a different wrapper over the same Nicaraguan blend.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/jaime-garcia-reserva-especial-sucesor-shipping-next-week/441551/",
+   "https://www.neptunecigar.com/cigar/jaime-garcia-reserva-especial-sucesor-le-2024",
+   "https://www.holts.com/cigars/all-cigar-brands/jaime-garcia-reserva-especial-sucesor.html"
+  ],
+  "notes": "The wrapper depends on the size: the 6 x 56 Toro is Sumatra-seed and the 6 1/8 x 52 Torpedo is Habano-seed, both grown in Nicaragua per Neptune. Retailers disagree on strength: Holt's says medium-full and Neptune says medium.",
+  "verified": true,
+  "verifyNotes": "Wrappers, country and sizes confirmed against halfwheel, Neptune and Holt's. Strength left null because Holt's says medium-full, Neptune says medium and My Father publishes none. Trimmed notes."
+ },
+ {
+  "brand": "My Father",
+  "line": "Flor de Las Antillas San Andres",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "dark chocolate",
+   "almond",
+   "espresso",
+   "raisin",
+   "cedar"
+  ],
+  "about": "A Mexican San Andrés-wrapped version of My Father's Flor de las Antillas that first reached Tobacconists' Association of America member stores in November 2025. It comes in two pressed sizes.",
+  "released": 2025,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/flor-de-las-antillas-san-andres-toro/458245/",
+   "https://atlanticcigar.com/flor-de-las-antillas-san-andres-by-my-father-robusto-5x52/",
+   "https://www.neptunecigar.com/cigar/flor-de-las-antillas-san-andres-taa-2025"
+  ],
+  "notes": "My Father has not published the blend or where it is made. Atlantic and Neptune list Nicaraguan binder and filler, but halfwheel found another retailer listing Honduran. Atlantic rates it medium-full and Neptune full, and Atlantic calls it limited while halfwheel lists regular production.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country and strength confirmed on Atlantic and Neptune; halfwheel confirms My Father has published nothing and lists every blend field as undisclosed. Changed \"soft-pressed\" to \"pressed\" in about and trimmed notes to three sentences."
+ },
+ {
+  "brand": "My Father",
+  "line": "Flor de Las Antillas 10th Anniversary",
+  "found": true,
+  "officialName": "Flor de las Antillas 10th Anniversary Limited Edition 2022",
+  "wrapperLeaf": "Nicaraguan (a darker, higher priming than the regular line)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "nuts",
+   "cedar",
+   "black pepper",
+   "dark chocolate",
+   "earth"
+  ],
+  "about": "A limited edition Nicaraguan puro marking ten years of My Father's Flor de las Antillas. It uses a modified version of the original blend with a darker, higher priming wrapper, all from Garcia family tobacco.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/flor-de-las-antillas-10th-anniversary-limited-edition-2022/422916/",
+   "https://www.holts.com/cigars/all-cigar-brands/flor-de-las-antillas-10th-anniversary.html"
+  ],
+  "notes": "Limited to 5,000 numbered boxes of 12, each cigar in its own coffin. It carries a 2022 name but did not ship until January 2023. Holt's lists it as full, while the halfwheel review found it starting near medium and ending just under full.",
+  "verified": true,
+  "verifyNotes": "Country, factory, strength, size and production confirmed against halfwheel and Holt's. Neither source calls this wrapper sun grown (that wording is only on the page for the regular line), so wrapperLeaf was reworded and wrapperCategory set to null. Removed the regular-line maker page, which does not mention this cigar. Trimmed notes."
+ },
+ {
+  "brand": "My Father",
+  "line": "Le Bijou 1922 100 Años",
+  "found": true,
+  "officialName": "Le Bijou 1922 100 Años Limited Edition",
+  "wrapperLeaf": "Nicaraguan Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Extra",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Corona Especial",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "leather",
+   "earth",
+   "spice",
+   "black pepper"
+  ],
+  "about": "A limited edition of My Father Le Bijou 1922 created for what would have been the 100th birthday of Pepin Garcia's father, born in 1922. It first shipped in 2022 and has returned every two years.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/my-father-cigars-ships-new-le-bijou-1922-100-anos-limited-edition/473785/",
+   "https://halfwheel.com/my-father-le-bijou-1922-100-anos-le2022-corona-especial/414856/",
+   "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922-100-anos.html"
+  ],
+  "notes": "halfwheel reports an all-Nicaraguan blend with a dark wrapper My Father calls Habano My Father, while Holt's lists the wrapper as Ecuador Habano Oscuro. Released in 2022, 2024 and 2026, limited to 1,922 boxes of 22 per size. Strength is the Holt's rating.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, factory, sizes and strength confirmed against halfwheel and Holt's. Trimmed notes to three sentences."
+ },
+ {
+  "brand": "My Father",
+  "line": "La Union",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Varies by blend: Ecuadorian Habano and Connecticut Broadleaf (My Father blends), Nicaraguan Corojo 99 and Ecuadorian Sumatra (Tatuaje blends)",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prominente Especial",
+    "length": 7.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited collaboration between My Father and Tatuaje marking 20 years of the Garcia family making Pete Johnson's cigars. Each side blended two cigars for the other, sold together in 40-count humidor boxes.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/my-father-tatuaje-ship-first-la-union-collaboration/433988/",
+   "https://halfwheel.com/my-father-tatuajes-la-union-red-humidor-shipping-in-late-september/454315/",
+   "https://www.neptunecigar.com/cigar/la-union"
+  ],
+  "notes": "Four blends, all 7 1/4 x 50 with a 109-style cap. Black Humidor (2024): Ecuadorian Habano from My Father and Nicaraguan Corojo 99 from Tatuaje. Red Humidor (2025): Connecticut Broadleaf from My Father and Ecuadorian Sumatra from Tatuaje, with 1,500 boxes per color at $2,400.",
+  "verified": true,
+  "verifyNotes": "Wrappers, binder, filler, country, size and production confirmed against halfwheel and Neptune. No single strength is published for the four blends, so strength stays null. Trimmed notes."
+ },
+ {
+  "brand": "My Father",
+  "line": "Humidor Deluxe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "cream",
+   "cocoa",
+   "earth",
+   "cinnamon"
+  ],
+  "about": "A Nicaraguan puro made for the 70th birthday of Jose Pepin Garcia and sold only with an Elie Bleu humidor. All the tobacco comes from My Father's own farms, under a Corojo 99 wrapper.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/my-father-begins-shipping-humidor-deluxe/387064/",
+   "https://halfwheel.com/my-father-humidor-deluxe/391875/"
+  ],
+  "notes": "Only 75 numbered humidors were made, 70 of them for retail, each sold with 100 cigars for $10,000. My Father describes the cigar as 3/4 to full body.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "My Father",
+  "line": "Limited Edition Pepin Mania",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "black pepper",
+   "leather",
+   "espresso",
+   "spice"
+  ],
+  "about": "A small-batch soft-pressed toro blended by Jose Pepin Garcia for Holt's annual Pepin Mania events. It uses a Connecticut Broadleaf wrapper over Nicaraguan filler from Garcia family farms and is aged three extra years.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/my-father-limited-edition-pepin-mania.html"
+  ],
+  "notes": "A Holt's exclusive, and Holt's is the only source for the blend. The binder, the wrapper's growing country and the release year are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "My Father",
+  "line": "Limited Edition Pepin Mania 10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "hickory",
+   "espresso",
+   "leather",
+   "spice"
+  ],
+  "about": "A limited toro blended by Jose Pepin Garcia to mark ten years of Holt's annual Pepin Mania events. It has a San Andrés Oscuro wrapper over Nicaraguan filler from Garcia family farms and is aged three years after rolling.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/my-father-limited-edition-pepin-mania-10th-anniversary.html"
+  ],
+  "notes": "A Holt's exclusive, and Holt's is the only source for the blend. The binder, factory and release year are not published.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, strength and size confirmed on Holt's, the only source. Factory set to null because the page gives only the country and does not name the factory."
+ }
+]

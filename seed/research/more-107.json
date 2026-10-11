@@ -1,0 +1,977 @@
+[
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano 92",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": "Sun Grown Habano 44",
+  "filler": "Habano 92",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Suntuoso",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Mystic Knight",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Sereno",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Petit Perfecto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Fat Boy",
+    "length": 3.5,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "dried fruit"
+  ],
+  "about": "The core line from Philip Wynne's Felipe Gregorio brand, founded in 1990. It is a medium to full Habano blend sold in seven sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://www.cigaraficionado.com/article/philip-wynn-invests-in-costa-rica-17742",
+   "https://luxurycigarclub.com/collections/felipe-gregorio"
+  ],
+  "notes": "The maker does not say where the leaf is grown or where it is rolled now. Cigar Aficionado reported in 2014 that the core line had been reblended as a Costa Rican puro made at Wynne's own factory there. A San Andres maduro version is also sold.",
+  "verified": true,
+  "verifyNotes": "Removed \"boutique\" from about. Blend, strength and sizes match the maker; maker publishes no country."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Power",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican Pelo de Oro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Habano 92",
+  "filler": "Corojo",
+  "country": "Costa Rica",
+  "factory": "Tres Tierras",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Triple R",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Special Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Supreme Power",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "espresso",
+   "grass"
+  ],
+  "about": "A limited line that Felipe Gregorio brings back only every seven years, built around Pelo de Oro, an old Cuban-seed tobacco grown in Costa Rica. The first edition came out in 2007 and the second in 2014.",
+  "released": 2007,
+  "production": "limited",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://halfwheel.com/felipe-gregorio-power-2014-triple-r/72224/",
+   "https://www.cigaraficionado.com/article/philip-wynn-invests-in-costa-rica-17742"
+  ],
+  "notes": "Blend and sizes are the maker's. Country and factory are for the 2014 edition, a Costa Rican puro per halfwheel; Cigar Aficionado names the factory Fabrica de Tabacos Santa Marta. The 2007 original was made in the Dominican Republic.",
+  "verified": true,
+  "verifyNotes": "Tightened notes. halfwheel 2014 lists Special Robusto as 5 x 52 and the wrapper as Costa Rican rosado; maker values kept."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Art of Power",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "San Andres Negro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Pennsylvania",
+  "filler": "Dominican Republic (Criollo)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lord Byron",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Maximus",
+    "length": 5.5,
+    "ring": 58
+   },
+   {
+    "name": "Optimus",
+    "length": 5.875,
+    "ring": 54
+   },
+   {
+    "name": "Caesar",
+    "length": 4.875,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "nuts",
+   "earth",
+   "white pepper",
+   "cedar",
+   "caramel"
+  ],
+  "about": "An offshoot of the Felipe Gregorio Power line that was reblended and relaunched in 2015 in regular parejo sizes. The Lord Byron size placed 15th on Cigar Coop's 2015 cigar of the year list.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://cigar-coop.com/2015/10/cigar-review-felipe-gregorio-art-of-power-lord-byron-2015-edition.html",
+   "https://cigar-coop.com/2015/12/2015-cigar-of-the-year-countdown-15-felipe-gregorio-art-of-power-lord-byron-2015-part-16-of-the-box-worthy-30.html"
+  ],
+  "notes": "The maker lists a San Andres Negro wrapper, Pennsylvania binder and full strength. Cigar Coop's 2015 review listed an Ecuadorian Habano wrapper with Piloto Cubano binder and called it medium to medium-full. Country is from that 2015 review; the maker does not state it.",
+  "verified": true,
+  "verifyNotes": "Added the Cigar Coop countdown page as a source and gave the placing (15th). Notes now say the country comes from the 2015 edition."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "1957 Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica (Habano 2000)",
+  "filler": "Dominican Republic (Criollo 94)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "FG 52 (Rex)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "FG 54 (Victory)",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "FG 50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "FG 48",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee",
+   "nutmeg"
+  ],
+  "about": "A medium line Philip Wynne created to mark his fiftieth birthday, named for his birth year. The filler is aged seven years, and two sizes scored 90 in Cigar Aficionado.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://halfwheel.com/ipcpr-2017-felipe-gregorio/169637/",
+   "https://luxurycigarclub.com/collections/felipe-gregorio"
+  ],
+  "notes": "halfwheel's 2017 trade show report called the wrapper Cuban-seed Costa Rican leaf and listed other sizes (FG 56, 54, 52, 46); the maker lists Ecuadorian Cameroon. Country and the box press are from the retailer the maker links to.",
+  "verified": true,
+  "verifyNotes": "Notes now say the country comes from the maker-linked retailer, not the maker."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Felipe Dominicana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "San Vicente",
+  "filler": "Dominican Olor",
+  "country": null,
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Series 749",
+    "length": 7.5,
+    "ring": 49
+   },
+   {
+    "name": "Series 546",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Series 550",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "citrus",
+   "cedar",
+   "white pepper"
+  ],
+  "about": "The mild, creamy cigar in the Felipe Gregorio range, with an Ecuadorian Connecticut wrapper over Dominican tobaccos.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/"
+  ],
+  "notes": "The maker does not publish where this line is rolled.",
+  "verified": true,
+  "verifyNotes": "Trimmed research-diary sentence from notes."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Felipe Felipe",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua (Habano Condega)",
+  "filler": "Costa Rica (Cola de Gallo)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Magnum 54",
+    "length": 4.375,
+    "ring": 55
+   },
+   {
+    "name": "Magnum 56",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "nuts",
+   "vanilla",
+   "almond",
+   "leather"
+  ],
+  "about": "A medium to full Felipe Gregorio blend with a Brazilian Arapiraca wrapper, sold in two short, thick sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://luxurycigarclub.com/collections/felipe-gregorio"
+  ],
+  "notes": "The maker does not publish where this line is rolled. The Magnum 54 is actually a 55 ring gauge.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "ReFusion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Piloto Cubano",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "F1",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "F2",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "F3",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "F5",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "F7",
+    "length": 5.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [],
+  "about": "A medium to full Felipe Gregorio line whose tobaccos were aged together for more than five years in cedar trunks, which the maker says fuses the blend.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://www.cigaraficionado.com/article/philip-wynn-invests-in-costa-rica-17742"
+  ],
+  "notes": "Country is from a 2014 Cigar Aficionado report that Refusion is made in the Dominican Republic; the maker's site does not state it.",
+  "verified": true,
+  "verifyNotes": "Removed an unconfirmed sentence about a \"Fusion\" spelling from notes."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Pelo de Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican Pelo de Oro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Costa Rica (Vuelta Abajo 1941)",
+  "filler": "Peru (Pelo de Oro)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Laguito No. 5",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "sea salt",
+   "butterscotch"
+  ],
+  "about": "A Felipe Gregorio line built around Pelo de Oro, an old Cuban-seed tobacco that Philip Wynne grows in Costa Rica. It first appeared in 2006 and was relaunched in 2014.",
+  "released": 2006,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://halfwheel.com/felipe-gregorio-pelo-de-oro-corona/80937/",
+   "https://luxurycigarclub.com/collections/felipe-gregorio"
+  ],
+  "notes": "The blend has changed over time. The 2014 version was a Costa Rican puro rolled at the Tres Tierras factory in Costa Rica in five sizes (halfwheel); the maker's site now lists a Peruvian filler and two sizes and does not say where it is rolled.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Don Cirilo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Broadleaf)",
+  "filler": "Nicaragua (Habano 92, Esteli)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Reserva Familiar No. 2",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Reserva Familiar No. 3",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Reserva Familiar No. 4",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "floral",
+   "cocoa",
+   "walnut",
+   "black cherry",
+   "espresso"
+  ],
+  "about": "A box-pressed, medium to full Felipe Gregorio line sold as Don Cirilo Reserva Familiar. It starts nutty and floral and builds toward cocoa and espresso.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://kohnhed.com/2014/10/05/don-cirilo-reserva-familiar-maduro-cigar-review/"
+  ],
+  "notes": "The maker does not publish where this line is rolled. The No. 2 is a torpedo. A 2014 blog review covered a Maduro version with an Ecuadorian Cameroon maduro wrapper and said the line debuted in 2012.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Silencio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Copan)",
+  "filler": "Nicaragua (Jalapa)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Salomon",
+    "length": 7.5,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "hazelnut",
+   "dried fig",
+   "milk chocolate",
+   "oak"
+  ],
+  "about": "A medium Felipe Gregorio line best known for its large Salomon figurado. It has an Ecuadorian Habano wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "http://www.cigarmayven.com/silencio-not-to-be-silenced/",
+   "https://kohnhed.com/2014/12/09/felipe-gregorio-silencio-cigar-review/"
+  ],
+  "notes": "The maker does not publish where this line is rolled. Older reviews list a different blend under the same wrapper: Nicaraguan Habano 92 binder with Dominican Corojo, Mata Fina and Nicaraguan filler, and more figurado sizes.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Felipe Capas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon and Mexican San Andres",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador, Mexico",
+  "binder": "Ecuador (Broadleaf)",
+  "filler": "Nicaragua (Habano 92)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prominente",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Polo",
+    "length": 4.875,
+    "ring": 52
+   },
+   {
+    "name": "Short Perfecto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Unicos",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Fat Winston",
+    "length": 5.125,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark chocolate"
+  ],
+  "about": "A medium to full Felipe Gregorio line that uses two wrapper leaves, Ecuadorian Cameroon and Mexican San Andres. Capas is Spanish for wrappers.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/"
+  ],
+  "notes": "Two wrappers are used, so no single wrapper category fits. The maker does not publish where this line is rolled.",
+  "verified": true,
+  "verifyNotes": "Trimmed research-diary sentence from notes."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Minotaur",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Nicaragua (Habano, Esteli)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Colossus",
+    "length": 6.8,
+    "ring": 68
+   },
+   {
+    "name": "Taurus",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Bora",
+    "length": 4,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "citrus",
+   "nutmeg",
+   "almond"
+  ],
+  "about": "A big ring gauge Felipe Gregorio line with a closed foot and an Ecuadorian Sumatra wrapper. The maker rates it full.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://www.cigaraficionado.com/article/philip-wynn-invests-in-costa-rica-17742",
+   "https://luxurycigarclub.com/products/felipe-gregorio-minotaur"
+  ],
+  "notes": "Country is from a 2014 Cigar Aficionado report that Minotaur is made in the Dominican Republic. The maker calls it full; the retailer the maker links to calls it medium-plus and sells it as No. 1 to No. 4 (6.8 x 68, 5 x 60, 4 x 60, 3 x 56).",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Ras Tafari",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Criollo 92)",
+  "filler": "Jamaica (Cow Tongue)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Afrika",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Negus",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "floral",
+   "citrus",
+   "cream"
+  ],
+  "about": "A medium Felipe Gregorio cigar named for Emperor Haile Selassie, who was known as Ras Tafari before his coronation. A share of the proceeds goes to the Ethiopian Crown Council.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://felipegregoriocigars.com/collaborations/"
+  ],
+  "notes": "The maker writes the name both as Ras Tafari and Rastafari. The maker does not publish where this line is rolled. The filler is listed as Jamaican Cow Tongue tobacco.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Petrus Oro Negro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic (Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Augustus",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "Sacro",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "Gregorius",
+    "length": 4.875,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nutmeg",
+   "dark chocolate"
+  ],
+  "about": "The maduro cigar in Felipe Gregorio's Petrus family, with a Mexican San Andres wrapper. The maker rates it full.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://www.cigaraficionado.com/article/philip-wynn-invests-in-costa-rica-17742"
+  ],
+  "notes": "Country is from a 2014 Cigar Aficionado report that the Petrus brand is made in the Dominican Republic; the maker's site does not state it for this line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Petrus Sublime",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Corojo",
+  "filler": "Piloto Cubano",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Grand Cru",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "No. II",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "No. III",
+    "length": 6.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "caramel",
+   "nutmeg"
+  ],
+  "about": "A creamy, medium cigar in Felipe Gregorio's Petrus family, with an Ecuadorian HVA wrapper over Corojo binder and Piloto Cubano filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/cigars/",
+   "https://luxurycigarclub.com/products/felipe-gregorio-petrus-sublime",
+   "https://www.cigaraficionado.com/article/philip-wynn-invests-in-costa-rica-17742"
+  ],
+  "notes": "Country is from a 2014 Cigar Aficionado report that the Petrus brand is made in the Dominican Republic; the maker's site does not state it for this line.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "30 Aniversario Don Felipe XLP",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica (Pelo de Oro, aged 10 years)",
+  "filler": "Honduras (Habano 98, Copan Ruinas, 1998 crop)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Don Felipe",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "bread",
+   "cream",
+   "white pepper",
+   "wood",
+   "coffee",
+   "black pepper"
+  ],
+  "about": "A single-size limited edition marking 30 years of Felipe Gregorio, sold in jars of 25. Its filler is a 1998 Honduran crop harvested before Hurricane Mitch stripped the topsoil in Copan.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://felipegregoriocigars.com/special-releases/",
+   "https://halfwheel.com/felipe-gregorio-30-aniversario-don-felipe-xlp/401863/"
+  ],
+  "notes": "The factory is undisclosed. halfwheel reported 300 jars of 25 (7,500 cigars) at $40 each, while the maker's site says 500 jars. A later batch has been sold without jars.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Felipe Excellence Reserva del Patron",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Habano 2000",
+  "filler": "Habano (Medio Tiempo)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Dalia",
+    "length": 6.75,
+    "ring": 43
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Felipe Gregorio release made with tobacco aged 15 years, with the finished cigars rested five more years in cedar trunks. It comes in signed, dated and numbered cabinet boxes of 25.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://felipegregoriocigars.com/special-releases/"
+  ],
+  "notes": "The maker does not publish where this line is rolled, tasting notes or a release year.",
+  "verified": true,
+  "verifyNotes": "Trimmed research-diary wording from notes."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Pussy Galore",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Broadleaf)",
+  "filler": "Costa Rica (Corojo)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "caramel",
+   "coffee",
+   "walnut",
+   "floral",
+   "spice"
+  ],
+  "about": "A limited torpedo named after the Bond character from Goldfinger, made with ten-year-old tobaccos. Only 5,000 cigars were made, and it was the first cigar in the series that later produced Octopussy.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://felipegregoriocigars.com/special-releases/",
+   "https://www.cigaraficionado.com/article/the-octopussy-cigar-set-by-felipe-gregorio",
+   "https://www.cigarjournal.com/felipe-gregorio-launches-octopussy-2024/"
+  ],
+  "notes": "Release year is disputed, so it is left blank: Cigar Aficionado and Cigar Journal both say 2012, while the maker's site says 2023. The maker does not publish where this line is rolled.",
+  "verified": true,
+  "verifyNotes": "Set released to null (was 2012): the maker says 2023, Cigar Aficionado and Cigar Journal say 2012."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Octopussy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 Rosado (Coral Red) or Mexican San Andres Negrito (Sepia Maduro)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador, Mexico",
+  "binder": "Costa Rica (Pelo de Oro)",
+  "filler": "Brazil, Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "ABAM",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cañonazo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Bond-themed collector's set from Felipe Gregorio: a carbon fiber humidor of 26 cigars with a matching cutter and lighter. It comes in two blends, Coral Red and Sepia Maduro, with fillers aged seven years.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://felipegregoriocigars.com/special-releases/",
+   "https://www.cigaraficionado.com/article/the-octopussy-cigar-set-by-felipe-gregorio",
+   "https://www.cigarjournal.com/felipe-gregorio-launches-octopussy-2024/"
+  ],
+  "notes": "Two versions, so no single wrapper or strength: Coral Red is medium, Sepia Maduro is fuller. Cigar Aficionado lists Brazilian, Nicaraguan and Dominican filler; the maker says Costa Rica, Nicaragua and the Dominican Republic. 500 boxes of each at $728, billed as Octopussy 2024 but shipped in 2025.",
+  "verified": true,
+  "verifyNotes": "Cut notes from five sentences to three. Blend, size, country and factory match Cigar Aficionado."
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Aphrodisiac",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano HVA",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Costa Rica",
+  "filler": "Nicaragua (Viso, Ligero, Corojo)",
+  "country": null,
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Venus",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "peat"
+  ],
+  "about": "A limited Felipe Gregorio cigar whose tobaccos spend three years in cedar trunks with Bois Bande bark, cocoa beans, vanilla and spices. The one size, Venus, comes in boxes of 24 decorated with Botticelli's Birth of Venus.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://felipegregoriocigars.com/special-releases/",
+   "https://www.cigarjournal.com/aphrodisiac-venus-by-felipe-gregorio-longing-in-every-puff/",
+   "https://luxurycigarclub.com/products/felipe-gregorio-aphrodisiac"
+  ],
+  "notes": "The maker's site gives no blend or strength; those come only from the retailer the maker links to, so treat them as unconfirmed. First announced for 2022 and held back for more aging. The maker does not publish where this line is rolled.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Felipe Gregorio",
+  "line": "Marine Reconnaissance",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Esteli)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo, Jalapa)",
+  "filler": "Dominican Republic (Corojo)",
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "black pepper",
+   "cardamom"
+  ],
+  "about": "A collaboration cigar Felipe Gregorio makes for the Marine Reconnaissance Foundation, which supports the Marine Recon community. It comes in one toro size.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://felipegregoriocigars.com/collaborations/"
+  ],
+  "notes": "The maker does not publish a strength or where it is rolled.",
+  "verified": true,
+  "verifyNotes": "Trimmed research-diary sentence from notes."
+ }
+]

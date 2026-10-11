@@ -1,0 +1,655 @@
+[
+ {
+  "brand": "Vega Fina",
+  "line": "Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (TBN)",
+  "filler": "Colombia, Dominican Republic, Honduras",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 43
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "coffee",
+   "cream",
+   "white pepper",
+   "almond"
+  ],
+  "about": "The core VegaFina blend, a Connecticut Shade cigar made by Altadis at Tabacalera de García. The brand dates to 1998 and is far better known in Europe than in the U.S.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/vegafina/vegafina-original/",
+   "https://www.neptunecigar.com/vegafina-cigar",
+   "https://www.holts.com/cigars/all-cigar-brands/vega-fina.html"
+  ],
+  "notes": "Also sold as VegaFina Classic or just VegaFina. Altadis calls it medium body; Neptune lists it as mild and Holt's as mild to medium.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, factory and sizes match the Altadis page; strength split (Neptune mild, Holt's mild-medium) is as stated. The 1998 founding year is on the Altadis VegaFina brand page."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "1998 Wonders Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "10-year-old Mexican Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Colombia, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nabateos (Churchill)",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A limited series under the VegaFina 1998 name that honors historical wonders of the world. The first release, Nabateos, is a Churchill launched in the U.S. in 2025 and named for the Nabataeans, whose capital was Petra.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/altadis-u-s-a-plans-vegafina-push-next-month/453166/",
+   "https://www.neptunecigar.com/vegafina-1998-wonders-collection-cigar"
+  ],
+  "notes": "The blend shown is for Nabateos, the first release. Neptune describes the series as annual with a new blend each year, so later releases may differ.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel does not clearly call Nabateos a U.S. exclusive (only the tins are said to be), and it says Petra was the Nabataean capital. Blend, size, factory and medium strength confirmed on halfwheel and Neptune."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Exclusivo USA Patriot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The first VegaFina made only for the U.S. market, part of the brand's country exclusive series. The tobaccos were aged two years and the run was 1,776 boxes of 10.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-exclusivo-usa-patriot-begins-shipping/428466/",
+   "https://www.neptunecigar.com/vegafina-exclusivo-usa-patriot-cigar"
+  ],
+  "notes": "The wrapper seed type is not published, only that it is Ecuadorian.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, size, factory and box count match halfwheel; medium strength is from Neptune."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Year of the Tiger",
+  "found": true,
+  "officialName": "Year of the Tiger 2022",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (U.S. version)",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "International version",
+    "length": 6.625,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "VegaFina's Chinese New Year release for 2022 and the first of the zodiac series sold in the U.S. It came in red and gold boxes of 16.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/altadis-u-s-a-shows-off-vegafina-year-of-the-tiger-2022/404609/",
+   "https://www.neptunecigar.com/vegafina-year-of-the-tiger-cigar"
+  ],
+  "notes": "Two versions were made with the same blend: a 6 1/8 x 52 for the U.S. (500 boxes) and a 6 5/8 x 52 for other markets.",
+  "verified": true,
+  "verifyNotes": "No changes. Ecuadorian habano wrapper, both sizes, factory and 500 U.S. boxes match halfwheel; medium strength is from Neptune."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Year of the Dragon",
+  "found": true,
+  "officialName": "Year of the Dragon 2024",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Long Magnum (Toro Extra)",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "VegaFina's Chinese New Year release for 2024, a long toro in red and gold packaging. Of 6,888 boxes made, 500 went to the U.S.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-year-of-the-dragon-2024-heading-to-the-u-s/434120/",
+   "https://www.neptunecigar.com/vegafina-year-of-the-dragon-cigar"
+  ],
+  "notes": "Launched abroad in December 2023 and reached the U.S. in February 2024. Halfwheel only says Ecuadorian wrapper; the Habano detail comes from Neptune, which also lists only Dominican filler.",
+  "verified": true,
+  "verifyNotes": "Added the total run (6,888 boxes) to about and tightened notes. Habano seed is stated only by Neptune; halfwheel and Cigar Coop say just Ecuadorian. Kept with that caveat in notes."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Year of the Rabbit",
+  "found": true,
+  "officialName": "Year of the Rabbit 2023",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "VegaFina's Chinese New Year release for 2023, a torpedo sold in red boxes of 16. The U.S. received 1,500 boxes.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-year-of-the-rabbit-2023-slated-to-debut-this-month/416614/",
+   "https://www.neptunecigar.com/vegafina-year-of-the-rabbit-cigar"
+  ],
+  "notes": "Altadis says the blend is built to start mild and grow to full-bodied by the end, so no single strength is given. It reached U.S. stores in December 2022.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, size, factory and 1,500 U.S. boxes match halfwheel. Strength left null because the maker describes it as mild building to full-bodied."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Year of the Ox",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro Gordo",
+    "length": 6.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cocoa",
+   "leather",
+   "earth",
+   "caramel",
+   "black pepper"
+  ],
+  "about": "VegaFina's Chinese New Year release for 2021, the fourth in its zodiac series. It was limited to 4,300 boxes of 16 and was not sold in the U.S.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-year-of-the-ox-arriving-next-month/384188/",
+   "https://halfwheel.com/vegafina-year-of-the-ox/389547/"
+  ],
+  "notes": "VegaFina calls it full-bodied, but halfwheel's review found it medium at most. Not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "No changes. Halfwheel's review table lists ring gauge 54, but its text, its news story and Cigar Coop all say 56, so 56 is kept. Cigar Coop found it medium to medium-full."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Year of the Snake",
+  "found": true,
+  "officialName": "Year of the Snake 2025",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Extra",
+    "length": 6.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "wood",
+   "floral",
+   "coffee",
+   "almond",
+   "vanilla",
+   "leather"
+  ],
+  "about": "VegaFina's Chinese New Year release for 2025, with a long pigtail cap meant to look like a snake's tongue. Production was 5,750 boxes of 16.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-year-of-the-snake-2025-launching-next-month/444362/",
+   "https://www.neptunecigar.com/vegafina-year-of-the-snake-cigar"
+  ],
+  "notes": "The wrapper seed type is not published, only that it is Ecuadorian. Strength comes from Neptune, which calls it medium-bodied.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, size, factory and 5,750 boxes match halfwheel; medium and the flavor notes are from Neptune's description."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Year of the Horse",
+  "found": true,
+  "officialName": "Year of the Horse 2026",
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Higüeyanos",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "VegaFina's Chinese New Year release for 2026, which also honors the Paso Higüeyano horse breed of the Dominican Republic. It has a long pigtail cap and was limited to 4,300 boxes of 16.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-year-of-the-horse-2026-launching-next-month/455919/"
+  ],
+  "notes": "The wrapper seed type and strength are not published. It debuted in China before other international markets.",
+  "verified": true,
+  "verifyNotes": "No changes. Wrapper, factory, size and box count match halfwheel. No strength is given there, and the Altadis USA site does not list this cigar."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Series 2 Coupage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dual wrapper: Dominican with a lighter Ecuadorian leaf on top",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic, Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Paraguay",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited belicoso in VegaFina's Series 2 line that pays tribute to winemaking and uses two wrappers. Production was 5,900 boxes of 20.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-series-2-coupage/444413/"
+  ],
+  "notes": "Series 2 is the new name for the Fortaleza 2 line. The change was made because buyers took Fortaleza, Spanish for strength, to mean a strong cigar.",
+  "verified": true,
+  "verifyNotes": "No changes. Dual wrapper, binder, filler, size and 5,900 boxes match halfwheel. No strength is given there, and the Altadis USA site does not list this cigar."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Serie 2 San Juan de la Maguana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Sanjuaneros (Double Perfecto)",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "dried fruit",
+   "cocoa",
+   "spice",
+   "sweetness"
+  ],
+  "about": "An all-Dominican double perfecto in VegaFina's Serie 2 line, named for a city in the San Juan Valley. It went on sale in Spain in early 2026.",
+  "released": 2026,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/vegafina-serie-2-san-juan-de-la-maguana-goes-on-sale/463963/"
+  ],
+  "notes": "Halfwheel does not say whether this is a limited edition or give a production number.",
+  "verified": true,
+  "verifyNotes": "No changes. All-Dominican blend, size, factory, medium-full and the flavor notes match halfwheel's report of the maker's description."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Fortaleza 2 Capa 20",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "20-year-old Mexican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Mexico",
+  "binder": "USA",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Fortaleza 2 release named for its 20-year-old Mexican wrapper. It was limited to 4,500 boxes of 12 and was not sold in the U.S.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-fortaleza-2-capa-20-coming-this-month/395698/",
+   "https://cigar-coop.com/2021/09/cigar-review-vegafina-fortaleza-2-capa-20.html"
+  ],
+  "notes": "Halfwheel only says the wrapper is Mexican; Cigar Coop's review calls it Mexican Habano. Strength is from that review, since the maker gives none. Not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "Added strength and body (both medium) from Cigar Coop's review, which also confirms the factory; halfwheel names the factory only in its tags. Left wrapperCategory null because only Cigar Coop calls the leaf Habano."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Fortaleza 2 Doble Capote",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic, Nicaragua (double binder)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra (box-pressed)",
+    "length": 5.875,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Fortaleza 2 release built around two binders, each aged four years. It was the first box-pressed VegaFina, with 3,960 boxes of 12 made.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-fortaleza-2-doble-capote-launching-in-spain-this-month/413546/"
+  ],
+  "notes": "The wrapper seed type is not published, only that it is Ecuadorian. Not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "No changes. Blend, size, factory and 3,960 boxes match halfwheel and Cigar Coop. Neither gives a strength."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Nicaragua Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Maestros",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "VegaFina's first Reserva, a Nicaraguan puro with a pigtail cap made from tobaccos aged at least three years. It was limited to 8,000 boxes of 12.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-launching-first-reserva-line/415539/"
+  ],
+  "notes": "It is a different blend from the regular VegaFina Nicaragua. All Nicaraguan tobacco but rolled in the Dominican Republic. Not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "No changes. Nicaraguan puro, Maestros size, factory and 8,000 boxes match halfwheel and Cigar Coop. Neither gives a strength."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Nicaragua Gran Reserva X Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6.6,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan puro marking ten years of the VegaFina Nicaragua line, which launched in 2014. It was limited to 6,700 boxes of 20 that double as humidors.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-nicaragua-gran-reserva-x-aniversario-heading-to-stores-in-may/451388/"
+  ],
+  "notes": "Described as medium to medium-full. All Nicaraguan tobacco but rolled in the Dominican Republic. Not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "No changes. Halfwheel says medium to medium-full, so Medium-Full is the top of the stated range; notes already say so."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Reposado 10 Años",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Cibao Valley)",
+  "filler": "Dominican Republic (Cibao Valley)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited VegaFina whose cigars rested for ten years after they were rolled. It was limited to 3,930 boxes of 10 and debuted in Spain.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-reposado-10-anos-debuts-in-spain-this-month/423610/",
+   "https://cigar-coop.com/2023/05/cigar-news-vegafina-fortaleza-2-reposado-10-anos-announced.html",
+   "https://www.cigarslover.com/vegafina-fortaleza-2-reposado-10-anos-2/"
+  ],
+  "notes": "The ten years refers to aging of the finished cigars, not just the leaf. The maker gives no strength; CigarsLover found it light, building to medium. Some outlets list it under the Fortaleza 2 line, and it is not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "Added a note that other outlets file it under Fortaleza 2 and what CigarsLover found for strength; added Cigar Coop as a second source. Strength left null since the maker gives none."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Classic Tributo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Dominicus",
+    "length": 4.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A limited edition in the VegaFina Classic family that honors the brand's home country, the Dominican Republic. It is made entirely of Dominican tobacco aged three years and was sold in boxes of 10.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-debuting-classic-tributo-dominicus-in-spain-this-week/410522/",
+   "https://cigar-coop.com/2022/07/cigar-news-vegafina-classic-tributo-announced.html",
+   "https://cigar-coop.com/2023/09/cigar-review-vegafina-classic-tributo-dominicus.html"
+  ],
+  "notes": "All Dominican tobacco, with the leaf types not published. Strength is from Cigar Coop's review (mild, building to mild-medium), since the maker gives none. Not sold in the U.S.",
+  "verified": true,
+  "verifyNotes": "Filled wrapper, binder and filler as Dominican: halfwheel says it is made of Dominican tobacco and Cigar Coop lists all three as Dominican. Added strength and body from Cigar Coop's review. Factory confirmed by Cigar Coop."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Vindobona Exclusivo Austria",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Mild",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A VegaFina made only for Austria, named for the Roman camp that became Vienna. It is a pigtail toro limited to 1,230 numbered boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/vegafina-vindobona-exclusivo-austria-goes-on-sale/395660/",
+   "https://cigar-coop.com/2021/12/cigar-review-vegafina-vindobona-exclusivo-austria.html"
+  ],
+  "notes": "Sold only in Austria. The wrapper seed type is not published, only that it is Ecuadorian. Strength is from Cigar Coop's review, since the maker gives none.",
+  "verified": true,
+  "verifyNotes": "Added strength (mild) and body (mild to medium) from Cigar Coop's review, which also confirms the factory; halfwheel names the factory only in its tags."
+ }
+]

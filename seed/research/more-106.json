@@ -1,0 +1,1055 @@
+[
+ {
+  "brand": "Tatiana",
+  "line": "Amaretto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "amaretto",
+   "nuts",
+   "fruit"
+  ],
+  "about": "An amaretto flavored cigar in the Tatiana line from Miami Cigar & Co., rolled at La Aurora. The Classic corona and Mini tin sizes were added in 2026 alongside the older Dolce.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/amaretto/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/new-sizes-for-tatiana-cappuccino-and-amaretto-head-to-stores/476675/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Cappuccino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream"
+  ],
+  "about": "A cappuccino flavored cigar in the Tatiana line from Miami Cigar & Co., rolled at La Aurora. The Classic corona and Mini tin sizes were added in 2026 alongside the older Dolce.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/cappuccino/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/new-sizes-for-tatiana-cappuccino-and-amaretto-head-to-stores/476675/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Caribbean Chill",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "mint",
+   "rum",
+   "citrus"
+  ],
+  "about": "A flavored Tatiana corona from Miami Cigar & Co. with mint, rum and citrus flavoring. It was introduced at the 2018 IPCPR trade show and comes in one size.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/caribbean-chill/",
+   "https://halfwheel.com/miami-cigar-co-adding-tatiana-caribbean-chill-harvest-moon/269706/",
+   "https://www.famous-smoke.com/tatiana-classic-caribbean-chill-cigars-natural"
+  ],
+  "notes": "Famous Smoke lists it Mild-Medium on the item page but Mild on its Tatiana Classic page; Neptune lists the same blend in other flavors as Mild. Halfwheel's 2018 launch report called it a Dominican puro, but later halfwheel reports and retailers give an Indonesian wrapper.",
+  "verified": true,
+  "verifyNotes": "Kept Mild-Medium from the Famous Smoke item page; added to the note that Famous Smoke's Tatiana Classic page says Mild. No second retailer page for this flavor could be opened."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Cherry",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "cherry"
+  ],
+  "about": "The cherry flavored cigar in the Tatiana line from Miami Cigar & Co., one of the core flavors of the brand. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/cherry/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/miami-cigar-co-ships-four-new-tatianas/428856/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Chocolate",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "chocolate"
+  ],
+  "about": "The chocolate flavored cigar in the Tatiana line from Miami Cigar & Co., one of the core flavors of the brand. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/chocolate/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/miami-cigar-co-brings-back-three-tatiana-toros/446582/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Cinnamon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   }
+  ],
+  "flavors": [
+   "cinnamon"
+  ],
+  "about": "A cinnamon flavored cigar in the Tatiana line from Miami Cigar & Co. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/cinnamon/",
+   "https://www.neptunecigar.com/cigars/tatiana-cinnamon-classic-corona",
+   "https://halfwheel.com/miami-cigar-co-ships-four-new-tatianas/428856/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild). Replaced the Neptune brand page with the Neptune item page, which states the strength and maker."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Cognac",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "cognac"
+  ],
+  "about": "A cognac flavored cigar in the Tatiana line from Miami Cigar & Co., added to the brand in 2010. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/cognac/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/weekly-news-august-16-2010/1708/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Delights",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Corojo, Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sugar",
+   "black pepper",
+   "toast",
+   "honey",
+   "cream"
+  ],
+  "about": "A Tatiana line from Miami Cigar & Co. that is not infused. It is a traditional Connecticut blend in full sizes with only a sweetened cap, made by La Aurora.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/delights/",
+   "https://halfwheel.com/tatiana-delights-robusto/441789/",
+   "https://www.neptunecigar.com/tatiana-cigar"
+  ],
+  "notes": "Not a flavored cigar like the rest of Tatiana: only the cap is sweetened.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Fusion Frenzy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Petite",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "passion fruit",
+   "vanilla",
+   "cognac"
+  ],
+  "about": "A multi-flavor Tatiana cigar from Miami Cigar & Co. flavored with passion fruit, vanilla and cognac. It joined the brand in 2011 as part of the Trio series.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/fusion-frenzy/",
+   "https://www.neptunecigar.com/cigars/tatiana-fusion-frenzy-classic-corona",
+   "https://halfwheel.com/la-auroramiami-cigar-ipcpr-preview/7908/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium. Some retailers sell it as Tatiana Trio Fusion Frenzy.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Groovy Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Petite",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "berries",
+   "vanilla",
+   "honey",
+   "cognac"
+  ],
+  "about": "A berry flavored Tatiana cigar from Miami Cigar & Co. with vanilla, honey and cognac flavoring. It is one of the best sellers in the brand and is made by La Aurora.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/groovy-blue/",
+   "https://halfwheel.com/tatiana-adds-groovy-blue-la-vita/158016/",
+   "https://www.neptunecigar.com/tatiana-cigar"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium. Some retailers sell it as Tatiana Trio Groovy Blue. A 6.25 x 52 Belicoso has been a limited TAA exclusive.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Harvest Moon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "pumpkin",
+   "cinnamon",
+   "brown sugar"
+  ],
+  "about": "A fall themed Tatiana corona from Miami Cigar & Co. flavored with pumpkin, cinnamon and brown sugar. It was introduced at the 2018 IPCPR trade show and comes in one size.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/harvest-moon/",
+   "https://halfwheel.com/miami-cigar-co-adding-tatiana-caribbean-chill-harvest-moon/269706/",
+   "https://www.neptunecigar.com/cigars/tatiana-harvest-moon-classic-corona"
+  ],
+  "notes": "Neptune lists it Mild; Famous Smoke lists it Mild-Medium. Halfwheel's 2018 launch report called it a Dominican puro, but later halfwheel reports and retailers give an Indonesian wrapper.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel Dominican puro discrepancy to the note, as on Caribbean Chill. Replaced the Neptune brand page with the Neptune item page."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Honey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "honey"
+  ],
+  "about": "The honey flavored cigar in the Tatiana line from Miami Cigar & Co., one of the core flavors of the brand. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/honey/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/miami-cigar-co-ships-four-new-tatianas/428856/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Mandarine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "mandarin orange",
+   "citrus"
+  ],
+  "about": "A mandarin orange flavored Tatiana from Miami Cigar & Co., offered only in the small Dolce and Minis sizes. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/mandarine/",
+   "https://www.neptunecigar.com/cigars/tatiana-mandarin-miniatures",
+   "https://halfwheel.com/miami-cigar-co-ships-four-new-tatianas/428856/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium. Retailers spell it Mandarin.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild). Replaced the Neptune brand page with the Neptune item page, which states the strength and maker."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Mocha",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Caramely",
+    "length": 6.25,
+    "ring": 44
+   },
+   {
+    "name": "Stobona",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Eden",
+    "length": 5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "vanilla",
+   "coffee"
+  ],
+  "about": "A coffee and chocolate flavored Tatiana from Miami Cigar & Co., sold in three sizes with their own names. It is made in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/mocha/",
+   "https://www.neptunecigar.com/cigars/tatiana-mocha-eden",
+   "https://www.famous-smoke.com/brand/tatiana-mocha-cigars"
+  ],
+  "notes": "Retailers disagree on the blend: Neptune lists a Nicaraguan binder with Mexican and Honduran filler, Famous Smoke lists Dominican filler. Both give a Sumatra wrapper. Neptune says Mild, Famous Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Removed 'its own blend' from about, since retailers disagree on the blend. Note now says Famous lists Dominican filler, which is what its page states."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Night Cap",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Petite",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "almond",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "A multi-flavor Tatiana cigar from Miami Cigar & Co. flavored with vanilla, almond, coffee and cocoa. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/night-cap/",
+   "https://www.neptunecigar.com/cigars/tatiana-night-cap-classic-corona",
+   "https://halfwheel.com/miami-cigar-co-ships-four-new-tatianas/428856/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium. Some retailers sell it as Tatiana Trio Night Cap.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild). Replaced the Neptune brand page with the Neptune item page, which states the strength and maker."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Rum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "rum"
+  ],
+  "about": "The rum flavored cigar in the Tatiana line from Miami Cigar & Co., one of the core flavors of the brand. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/rum/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/miami-cigar-co-ships-four-new-tatianas/428856/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Sweet Euphoria",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Petite",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "sugar",
+   "candy"
+  ],
+  "about": "A multi-flavor Tatiana cigar from Miami Cigar & Co. with a sweet dried fruit and candy profile. It joined the brand in 2011 as part of the Trio series.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/sweet-euphoria/",
+   "https://www.neptunecigar.com/cigars/tatiana-sweet-euphoria-classic-corona",
+   "https://halfwheel.com/la-auroramiami-cigar-ipcpr-preview/7908/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium. Some retailers sell it as Tatiana Trio Sweet Euphoria.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Tropical",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   }
+  ],
+  "flavors": [
+   "tropical"
+  ],
+  "about": "A tropical flavored Tatiana from Miami Cigar & Co., offered only as the 5 x 30 Dolce cigarillo. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/tropical/",
+   "https://www.famous-smoke.com/tatiana-dolce-tropical-cigars-natural",
+   "https://halfwheel.com/miami-cigar-co-ships-four-new-tatianas/428856/"
+  ],
+  "notes": "Famous Smoke lists it Mild-Medium; Neptune lists other Tatiana Dolce flavors as Mild. Sources do not say which fruits the flavor is based on.",
+  "verified": true,
+  "verifyNotes": "Trimmed the note. Strength rests on Famous Smoke alone; no second retailer page for this flavor could be opened."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Vanilla",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Dolce",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "cream"
+  ],
+  "about": "The vanilla flavored cigar in the Tatiana line from Miami Cigar & Co., one of the core flavors of the brand. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/vanilla/",
+   "https://www.neptunecigar.com/tatiana-cigar",
+   "https://halfwheel.com/miami-cigar-co-brings-back-three-tatiana-toros/446582/"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild)."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "Waking Dream",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Classic",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vita",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Petite",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "Minis",
+    "length": 3.5,
+    "ring": 26
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "cream",
+   "hazelnut",
+   "whiskey"
+  ],
+  "about": "A multi-flavor Tatiana cigar from Miami Cigar & Co. flavored with vanilla cream, hazelnut and whiskey. Made for Miami Cigar & Co. by La Aurora in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://miamicigar.com/cigar-blend/waking-dream/",
+   "https://www.neptunecigar.com/cigars/tatiana-waking-dream-classic-corona",
+   "https://www.holts.com/cigars/all-cigar-brands/tatiana-trio.html"
+  ],
+  "notes": "Retailers vary on strength: Neptune lists it Mild, and Famous Smoke lists some Tatiana cigars Mild and others Mild-Medium. Some retailers sell it as Tatiana Trio Waking Dream.",
+  "verified": true,
+  "verifyNotes": "Reworded the strength note: Famous Smoke is not uniformly Mild-Medium (its Tatiana Classic page and Classic Vanilla page say Mild). Replaced the Neptune brand page with the Neptune item page, which states the strength and maker."
+ },
+ {
+  "brand": "Tatiana",
+  "line": "25th Anniversary Limited Edition",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "La Aurora Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "vanilla",
+   "wood",
+   "earth",
+   "nuts"
+  ],
+  "about": "A limited flavored toro released in October 2023 for the 25th anniversary of the Tatiana brand. Miami Cigar & Co. made 2,500 boxes of 10 at La Aurora.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/tatiana-25th-anniversary-limited-edition-toro/432950/",
+   "https://www.neptunecigar.com/cigars/tatiana-25th-anniversary-limited-edition-toro"
+  ],
+  "notes": "The blend and the flavoring are undisclosed. One size only, 25,000 cigars total. Halfwheel rated strength mild-medium; Neptune lists it Mild.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

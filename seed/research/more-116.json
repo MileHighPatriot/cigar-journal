@@ -1,0 +1,629 @@
+[
+ {
+  "brand": "ADVentura",
+  "line": "The Explorer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Habano-seed",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic, Ecuador",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro (box-pressed)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "spice",
+   "nuts",
+   "leather",
+   "sweet wood"
+  ],
+  "about": "The first line from ADV & McKay, the company founded by Henderson Ventura and Swiss sommelier Marcel Knobel. It is a medium Dominican-made cigar with a Mexican wrapper and it opens the brand's ongoing explorer story.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/theexplorer",
+   "https://halfwheel.com/adv-mckay-cigars-co-to-make-ipcpr-debut-with-adventura-the-conqueror/299164/",
+   "https://www.neptunecigar.com/cigar/adventura-the-explorer"
+  ],
+  "notes": "The maker only says Mexican wrapper; halfwheel says Mexican habano seed, and Neptune's write-up says Ecuadorian Habano. halfwheel lists the Gran Toro as 6 x 54, retailers as 6 x 56. Sold in Europe from 2017 and widely in the US from 2019; made at Mina del Rey since 2023.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes and 2017 debut confirmed on the maker page, the maker blog and halfwheel; medium confirmed on Neptune and the maker blog. Factory confirmed by halfwheel (https://halfwheel.com/adv-mckay-cigars-co-announces-opening-of-new-mina-del-rey-factory/432108/). Rewrote notes to add the Gran Toro ring gauge conflict. halfwheel also lists a 6 x 52 Torpedo that current retailers do not carry, so it is left out."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "The Navigator",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua, Ecuador",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Pinzón",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Cabral",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Francis D.",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Ponce de Leon",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "mocha",
+   "roasted nuts",
+   "leather",
+   "spice",
+   "toffee",
+   "caramel"
+  ],
+  "about": "The second ADVentura core line, a medium Dominican-made cigar with a Mexican San Andrés maduro wrapper over tobaccos from four other countries. The maker calls it the most complex blend in its portfolio.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/thenavigator",
+   "https://halfwheel.com/adventura-the-navigator-adding-francis-d-corona/390919/",
+   "https://www.neptunecigar.com/cigar/adventura-the-navigator"
+  ],
+  "notes": "Sold in Europe before its US arrival in June 2019; no source gives the original release year. halfwheel lists Pinzón as 5 x 50, while Neptune and Cigars Direct list 5.5 x 50. Made at Mina del Rey since 2023; Tabacalera William Ventura before.",
+  "verified": true,
+  "verifyNotes": "Changed Pinzón from 5.5 x 50 to 5 x 50: halfwheel gives 5 x 50 in three articles and the maker page lists no sizes, so the claim that the maker lists 5.5 was removed. Neptune and Cigars Direct list 5.5 x 50. Factory confirmed by halfwheel (https://halfwheel.com/adv-mckay-cigars-co-announces-opening-of-new-mina-del-rey-factory/432108/)."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "The Conqueror",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Comandante",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Almirante",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "El Capitán",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "salt",
+   "caramel",
+   "sweet wood",
+   "nuts",
+   "cedar"
+  ],
+  "about": "The third ADVentura line and the one the company used for its US trade show debut in 2019. It has an Ecuadorian Habano 2000 wrapper and is known for boxes shaped like boats.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/conqueror",
+   "https://halfwheel.com/adventura-the-conqueror-comandante-2/391327/",
+   "https://www.neptunecigar.com/cigar/adventura-the-conqueror"
+  ],
+  "notes": "The maker calls it medium plus; Neptune lists medium. The 7 x 40 Emperor's Edition lancero is a limited release. Made at Mina del Rey since 2023; Tabacalera William Ventura before.",
+  "verified": true,
+  "verifyNotes": "Renamed the 6 x 60 size to El Capitán as halfwheel has it. Almirante 6 x 54 confirmed on halfwheel (https://halfwheel.com/adventura-mckays-the-conqueror-almirante-shipping-tomorrow/408158/) and Neptune. Factory confirmed by halfwheel (https://halfwheel.com/adv-mckay-cigars-co-announces-opening-of-new-mina-del-rey-factory/432108/). Notes cut to three sentences; the old halfwheel binder error was dropped since the maker and later halfwheel coverage agree on Indonesia."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "The Royal Return Queen's Pearls",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Dominican Republic, Ecuador, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Tear",
+    "length": 3.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "sweet wood",
+   "vanilla",
+   "hazelnut",
+   "honey",
+   "cream",
+   "hay"
+  ],
+  "about": "ADVentura's Connecticut shade blend, released in 2020 alongside King's Gold as part of The Royal Return. The Corona placed third on halfwheel's Top 25 cigars of 2020.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/theroyalreturn",
+   "https://halfwheel.com/adventura-the-royal-return-queens-pearls-corona/383004/",
+   "https://www.adventuracigars.com/post/which-adv-is-right-for-me"
+  ],
+  "notes": "The maker describes it as a mild cigar with full flavor; Neptune lists medium and halfwheel's reviewer found medium strength. The 3.5 x 44 Tear five-pack was added in 2026. Now made at Mina del Rey; Tabacalera William Ventura before 2023.",
+  "verified": true,
+  "verifyNotes": "No field changes. Neptune medium listing checked on https://www.neptunecigar.com/cigar/adventura-the-royal-return-queen-s-pearls. Mina del Rey and the Tear size confirmed on https://halfwheel.com/adventuras-kings-gold-and-queens-pearls-go-small-with-petit-royals/466918/."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "The Royal Return King's Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "US Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic, USA, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "King's Golden Tooth (box-pressed)",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "espresso",
+   "raisin"
+  ],
+  "about": "ADVentura's Connecticut broadleaf blend, released in 2020 as the fuller counterpart to Queen's Pearls. It is made in batches because the broadleaf wrapper is hard to get, so it goes out of stock at times.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/theroyalreturn",
+   "https://halfwheel.com/adventura-the-royal-return-kings-gold-gets-two-new-vitolas/442050/",
+   "https://www.adventuracigars.com/post/which-adv-is-right-for-me"
+  ],
+  "notes": "The maker calls it full-bodied and full-strength; Neptune lists medium and halfwheel's reviewer found it under medium in strength. A 3.5 x 44 Golden Tooth five-pack was added in 2026. Now made at Mina del Rey; Tabacalera William Ventura before 2023.",
+  "verified": true,
+  "verifyNotes": "No field changes. Neptune medium listing checked on https://www.neptunecigar.com/cigar/adventura-the-royal-return-king-s-gold; the reviewer strength comment is from https://halfwheel.com/adventura-the-royal-return-the-kings-gold-toro/382805/."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "The Royal Return The Chancellor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo (origin undisclosed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Sumatra-seed tobacco (origins not published)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cardamom",
+   "anise",
+   "black tea",
+   "wood"
+  ],
+  "about": "A one-size limited extension of The Royal Return, launched at PCA 2024 as the first cigar from ADVentura's Elite Broker program. It was created with sales broker Adrian Acosta, whose father supplied some of the tobacco.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://www.adventuracigars.com/post/welcome-the-chancellor",
+   "https://halfwheel.com/adv-mckay-cigars-co-to-release-adventura-the-chancellor-at-pca-2024/436492/",
+   "https://www.neptunecigar.com/cigar/adventura-the-royal-return-the-chancellor"
+  ],
+  "notes": "One-time run of 2,000 boxes of 10, and the wrapper's origin is not disclosed. The maker and halfwheel give a Dominican binder with Sumatra-seed filler; Neptune lists a Sumatra binder and Dominican filler. Strength is Neptune's listing only.",
+  "verified": true,
+  "verifyNotes": "Filler reworded to a leaf description and notes cut to three sentences. The maker and halfwheel give no strength, so medium rests on Neptune alone. Mina del Rey is Neptune's listing, consistent with halfwheel saying all production moved there in 2023."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "Barbarroja's Invasion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (including Medio Tiempo)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nougat",
+   "sweet wood",
+   "black pepper"
+  ],
+  "about": "A 2022 ADVentura line with a Mexican San Andrés wrapper over Dominican tobaccos that include medio tiempo leaf. It is known for its talking box, which plays a pirate recording when the lid is opened.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/barbarroja",
+   "https://halfwheel.com/adventura-barbarrojas-invasion-corona/417380/",
+   "https://www.neptunecigar.com/cigar/adventura-barbarroja-s-invasion"
+  ],
+  "notes": "The maker calls it medium plus to full-bodied; Neptune lists medium. First made at Tabacalera William Ventura; halfwheel reports all production moved to the company's Mina del Rey factory in 2023.",
+  "verified": true,
+  "verifyNotes": "Body changed from Medium to Medium-Full: the maker blog (https://www.adventuracigars.com/post/barbarroja-s-invasion-a-cult-classic-returns-for-the-bold) says medium-plus to full-bodied, and Medium was only Neptune's wording. The move to Mina del Rey is confirmed by halfwheel (https://halfwheel.com/adv-mckay-cigars-co-announces-opening-of-new-mina-del-rey-factory/432108/)."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "Blue Eyed Jack's Revenge",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Colorado",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "floral",
+   "spice",
+   "cream",
+   "earth",
+   "pepper"
+  ],
+  "about": "The 2024 follow-up to Barbarroja's Invasion, with a lighter Mexican San Andrés wrapper over Dominican binder and filler. The company says it is its fastest-selling blend, and its box also plays a recording when opened.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/blue-eyed-jack",
+   "https://halfwheel.com/adventura-blue-eyed-jacks-revenge-robusto/443912/",
+   "https://www.neptunecigar.com/cigar/adventura-blue-eyed-jack-s-revenge"
+  ],
+  "notes": "The maker does not state a strength; medium is Neptune's listing, and halfwheel's reviewer found little nicotine strength. A maduro version called High Tide is a separate limited release.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "ADVentura",
+  "line": "Blue Eyed Jack's Revenge Maduro",
+  "found": true,
+  "officialName": "Blue Eyed Jack's Revenge Maduro High Tide",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "High Tide Diadema",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "salt",
+   "wood",
+   "leather",
+   "cedar"
+  ],
+  "about": "The maduro version of Blue Eyed Jack's Revenge, swapping in a darker Mexican San Andrés wrapper on the same Dominican binder and filler. It comes in a single diadema size and returned for a second limited run in 2026.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-adv-mckay-cigars-co/461856/",
+   "https://halfwheel.com/adventura-blue-eyed-jacks-revenge-maduro-high-tide/454240/",
+   "https://www.adventuracigars.com/post/high-tide-a-new-chapter-of-refinement"
+  ],
+  "notes": "Known as High Tide; the maker gives no strength, Neptune lists full and halfwheel's reviewer found medium-plus. Neptune lists 6 x 50, but the maker confirmed 6.5 x 50 to halfwheel. The 2026 run was 1,000 boxes of 10 for retailers who attended PCA.",
+  "verified": true,
+  "verifyNotes": "No field changes; notes reworded. Full strength rests on Neptune alone since the maker states none. Size correction checked on https://halfwheel.com/adventura-blue-eyed-jacks-revenge-maduro-high-tide-coming-back-for-second-installment/466913/."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "Blackfin's Parlay",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "bread",
+   "cream",
+   "black pepper"
+  ],
+  "about": "The newest ADVentura core line, cast in the brand's story as the truce between the pirates of Barbarroja's Invasion and Blue Eyed Jack's Revenge. It is the company's first cigar to use binder and filler from its own Dominican farm.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/blackfinsparlay",
+   "https://halfwheel.com/adventura-blackfins-parlay-robusto/481413/",
+   "https://halfwheel.com/pca-2026-adv-mckay-cigars-co/461856/"
+  ],
+  "notes": "First appeared in 2025 as a 5 x 52 belicoso in the Captain's Collection sampler with an undisclosed blend; the three regular sizes shipped in July 2026 with a refined blend. The maker's page does not name the wrapper; Ecuadorian Sumatra-seed is from halfwheel and Neptune.",
+  "verified": true,
+  "verifyNotes": "No field changes. The maker page gives binder, filler and medium strength but no wrapper, so the wrapper rests on halfwheel and Neptune; notes now say so."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "La Llorona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Medio Tiempo)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "leather",
+   "caramel",
+   "coffee",
+   "black pepper",
+   "toast"
+  ],
+  "about": "A line ADVentura makes only for its Elite Accounts, about 20 retailers, named for the crying woman of Mexican folklore. It launched in 2022 as a robusto, with a corona and a metal-banded toro added later as limited runs.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://www.adventuracigars.com/la-llorona",
+   "https://halfwheel.com/la-llorona-toro/458357/",
+   "https://halfwheel.com/adventura-la-llorona-corona/436125/"
+  ],
+  "notes": "The maker calls it medium plus; Neptune lists medium. halfwheel lists Dominican and Nicaraguan filler for the robusto and corona, and Dominican plus Indonesian binders for the toro. The corona (1,000 boxes of 10, 2023) and toro (800 boxes of 10, 2025) were limited runs.",
+  "verified": true,
+  "verifyNotes": "No field changes. halfwheel calls the line limited production for elite accounts but lists the robusto itself as regular production. halfwheel lists the factory as William Ventura for the robusto, El Maestro for the corona and Mina del Rey for the toro. Neptune checked on https://www.neptunecigar.com/cigar/adventura-la-llorona."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "Piece of Heart",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic, Ecuador",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Mina del Rey",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Belicoso",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "ADVentura's charity cigar, a Connecticut shade short belicoso sold in sealed humidified packs. Part of each pack's price goes to El Aposento, a project in Tamboril that provides eyeglasses and school supplies for children of cigar workers.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.adventuracigars.com/piecofheart",
+   "https://halfwheel.com/adventura-piece-of-heart-arrives-at-u-s-retailers/408679/",
+   "https://www.neptunecigar.com/cigar/adventura-piece-of-heart"
+  ],
+  "notes": "Launched in Switzerland in 2019 and reached US retailers in May 2022. The maker's page says mild-medium; halfwheel reports the company calling it mild. The maker and halfwheel give the size as 5 x 52; Neptune lists 4 x 52 and sells a 4-cigar pack.",
+  "verified": true,
+  "verifyNotes": "Factory filled in: halfwheel named Tabacalera William Ventura at launch (https://halfwheel.com/adventura-cigars-to-release-piece-of-heart-in-switzerland-as-charity-cigar/367127/), says the whole portfolio moved to Mina del Rey in 2023 (https://halfwheel.com/adv-mckay-cigars-co-announces-opening-of-new-mina-del-rey-factory/432108/), and Neptune files it under Mina del Rey. Notes updated."
+ },
+ {
+  "brand": "ADVentura",
+  "line": "10th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A toro sold in boxes of 10 that marks ten years of the ADVentura brand, which was founded in 2016. It is made in the Dominican Republic with Dominican binder and filler under a wrapper the company has not disclosed.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigar/adventura-10th-anniversary"
+  ],
+  "notes": "Neptune's listing is the only source found; the maker's site and halfwheel do not cover it. Neptune says the wrapper is undisclosed. Release year and production run are not stated, and Neptune's factory entry (Tabacalera William Ventura) could not be confirmed.",
+  "verified": false,
+  "verifyNotes": "wrapperLeaf changed from the word Undisclosed to null. Country, medium strength and the undisclosed wrapper match Neptune, but that is the only page: no page for this cigar on the maker site or in halfwheel's ADV & McKay coverage, so nothing could be cross-checked."
+ }
+]

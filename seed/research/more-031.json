@@ -1,0 +1,506 @@
+[
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star Aromatic Dulce Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus Cornell & Diehl pipe tobacco (Black Cavendish, Golden Virginia, Burley)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A handmade cigar from Steve Saka's Dunbarton Tobacco & Trust that mixes Cornell & Diehl aromatic pipe tobacco into the filler and has a sweetened cap. It is the old StillWell Star Aromatic No. 1 blend under a new name, part of the 2026 revamp of the line.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/revamped-stillwell-star-line-on-the-way-to-retailers/477748/",
+   "https://www.neptunecigar.com/cigar/stillwell-star-aromatic-dulce-dark",
+   "https://www.dunbartoncigars.com/marca/stillwell-star/"
+  ],
+  "notes": "Same blend as the original Aromatic No. 1 from 2021, renamed in 2026 and sold by Neptune as Aromatic Dulce Dark. Despite the Maduro name the wrapper is Ecuadorian Habano. Dunbarton's own strength meter puts the blend at 4 out of 10, while Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild to Mild-Medium: Dunbarton's page shows a 4 of 10 strength meter for this blend (as Aromatic No. 1) and only calls the base cigar tobacco mild, and Neptune and Corona Cigar both list medium. Notes reworded to match. Wrapper, binder, filler, factory, sizes and release date confirmed on halfwheel."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star Aromatic Dulce Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus Cornell & Diehl pipe tobacco (Black Cavendish, Golden Virginia, Red Virginia)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A handmade cigar from Dunbarton Tobacco & Trust with Cornell & Diehl aromatic pipe tobacco in the filler, a light Ecuadorian Connecticut wrapper and a sweetened cap. It is a new blend for the 2026 StillWell Star revamp, built from the earlier Holiday releases.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/revamped-stillwell-star-line-on-the-way-to-retailers/477748/",
+   "https://www.neptunecigar.com/cigar/stillwell-star-aromatic-dulce",
+   "https://www.coronacigar.com/stillwell-star-aromatic-dulce-claro-toro/"
+  ],
+  "notes": "New 2026 blend described as a hybrid of the earlier StillWell Star Holiday releases. Contains pipe tobacco and has a sweetened cap, so tell guests it is not a traditional cigar. Neptune lists it as mild and Corona Cigar as mild to medium.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and release confirmed on halfwheel. Strength kept as Mild (Neptune); added that Corona Cigar lists mild to medium and added that page as a source."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "StillWell Star English Dulce Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus Cornell & Diehl pipe tobacco (caked Latakia, Turkish, Burley)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A handmade cigar from Dunbarton Tobacco & Trust that adds an English style pipe blend with Latakia from Cornell & Diehl to Nicaraguan filler, finished with a sweetened cap. It is a reworked version of the earlier StillWell Star English No. 27.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/revamped-stillwell-star-line-on-the-way-to-retailers/477748/",
+   "https://www.neptunecigar.com/cigar/stillwell-star-english-dulce"
+  ],
+  "notes": "A tweaked version of the original English No. 27, now with a sweetened cap. Despite the Maduro name the wrapper is Ecuadorian Habano. Neptune sells it as English Dulce and lists it as medium.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel and Neptune; Corona Cigar also lists medium. Notes reworded to mention the shorter retail name."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "10th Jubilee",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "bread",
+   "cinnamon",
+   "nuts",
+   "cedar",
+   "black pepper"
+  ],
+  "about": "The cigar Steve Saka made to mark ten years of Dunbarton Tobacco & Trust, offered in one corona gorda size. It is the company's first national release with an Ecuadorian Sumatra wrapper and was blended to taste different from the rest of the lineup.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/dunbarton-tobacco-trust-10th-jubilee/466118/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-ships-10th-jubilee-todos-las-dias-double-wide/463070/",
+   "https://www.neptunecigar.com/cigar/dunbarton-tobacco-and-trust-10th-jubilee"
+  ],
+  "notes": "Announced in 2025 for the company's 10th anniversary but it did not ship until February 2026. Halfwheel reports it is a regular production cigar, not a limited edition. Neptune lists the binder as Mexican San Andrés.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Year of the Pausers",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Two blends: Nicaraguan Capa Camaleón (Tom's Blend) and Mexican San Andrés Negro Cultivo Tonto (Michelle's Blend)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua (Tom's Blend), Mexico (Michelle's Blend)",
+  "binder": "Mexico San Andrés Negro (Tom's Blend), Ecuador Habano Rosado (Michelle's Blend)",
+  "filler": "Dominican Republic, Nicaragua (Tom's Blend); Nicaragua, USA Pennsylvania (Michelle's Blend)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (Tom's Blend), Fábrica de Tabacos Joya de Nicaragua S.A. (Michelle's Blend)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "wood",
+   "nuts",
+   "cream",
+   "leather",
+   "black pepper",
+   "earth"
+  ],
+  "about": "The second cigar in Dunbarton's Year of series, which honors friends of the company instead of zodiac animals. Each box of 14 holds seven each of two different 6 x 48 blends made for Alaska couple Tom and Michelle Pauser.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dunbarton-tobacco-trust-year-of-the-pausers-toms-blend/473172/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-year-of-the-pausers-slated-for-march/459769/",
+   "https://www.neptunecigar.com/cigar/dunbarton-year-of-the-pausers"
+  ],
+  "notes": "Two different cigars in one box, so there is no single wrapper: Tom's is a Nicaraguan broadleaf and habano 2000 hybrid leaf, Michelle's is a reworked Sin Compromiso Paladin de Saka. Limited to 2,700 boxes of 14. Neptune lists medium, but halfwheel found Tom's Blend medium-plus or stronger.",
+  "verified": true,
+  "verifyNotes": "Both blends, factories, size and box count confirmed on halfwheel. Notes trimmed to three sentences. Strength left at Medium (Neptune); Corona Cigar lists medium-full, so treat it as approximate."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Year of the Duque",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "anise",
+   "cedar",
+   "cloves",
+   "earth",
+   "raisin",
+   "black pepper"
+  ],
+  "about": "The first release in Dunbarton's Year of series, named for longtime company volunteer Chris Duque instead of a zodiac animal. Steve Saka built it as a mix of Duque's two favorites, Sobremesa Solita and Todos Las Dias.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dunbarton-tobacco-trust-year-of-the-duque/452151/"
+  ],
+  "notes": "Limited to 2,000 boxes of 14 and shipped in April 2025. Strength and body are from halfwheel's review, which called the flavor full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Overseas No. 1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "leather",
+   "black pepper",
+   "toast"
+  ],
+  "about": "Dunbarton Tobacco & Trust's first cigar made only for markets outside the United States, a 6 x 50 toro with a coiled cap. Steve Saka has said later Overseas releases may use different blends.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/overseas-no-1/459422/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-slates-overseas-no-1-for-2025/442703/",
+   "https://www.smokeinn.com/Dunbarton-Tobacco-and-Trust-Overseas-No.-1/"
+  ],
+  "notes": "International exclusive, not officially sold in the US, though Smoke Inn has brought some in from overseas distributors. Strength and body are from halfwheel's review, which found it medium for most of the cigar and stronger in the final third. Smoke Inn lists it as medium-full.",
+  "verified": true,
+  "verifyNotes": "All fields confirmed on halfwheel. Added Smoke Inn's medium-full strength listing to notes and its page as a source."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Corona Alpha",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Grade A1 dark",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "A new corona blend from Steve Saka that is only available inside Dunbarton's Cosmic Corona Sampler, a 14 cigar box of seven different 5 x 44 coronas. Saka developed it as a possible Muestra de Saka release that never came out on its own.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-dunbarton-tobacco-trust/462355/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-teases-cosmic-corona-sampler/464031/",
+   "https://www.neptunecigar.com/cigar/dunbarton-tobacco-and-trust-alpha"
+  ],
+  "notes": "Sold only as part of the Cosmic Corona Sampler, two per box, not on its own. Binder, filler and factory have not been published. Halfwheel listed the sampler as shipping in November 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Corona Omega",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 sun grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "A new corona blend from Steve Saka that is only available inside Dunbarton's Cosmic Corona Sampler, a 14 cigar box of seven different 5 x 44 coronas. Like its partner the Corona Alpha, it was first developed as a possible Muestra de Saka release.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2026-dunbarton-tobacco-trust/462355/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-teases-cosmic-corona-sampler/464031/",
+   "https://www.neptunecigar.com/cigar/dunbarton-tobacco-and-trust-omega"
+  ],
+  "notes": "Sold only as part of the Cosmic Corona Sampler, two per box, not on its own. Binder, filler and factory have not been published. Halfwheel listed the sampler as shipping in November 2026.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Famous 80th",
+  "found": true,
+  "officialName": "Famous Smoke Shop 80th Anniversary",
+  "wrapperLeaf": "Nicaraguan sun grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Larga",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "chocolate",
+   "baking spice",
+   "citrus",
+   "red pepper"
+  ],
+  "about": "A Nicaraguan puro that Steve Saka made for Famous Smoke Shop's 80th anniversary and that is sold only by that retailer. It started as a small 2019 run of box-pressed toros and has been brought back since because of demand.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-dunbarton-famous-80th",
+   "https://halfwheel.com/dunbarton-tobacco-trust-creates-famous-smoke-shop-80th-anniversary/364497/",
+   "https://cigar-coop.com/2024/07/dunbarton-tobacco-trust-famous-80th-anniversary-corona-larga-cigar-review.html"
+  ],
+  "notes": "Famous Smoke Shop exclusive. The 2019 and 2020 runs were limited 6 x 52 toros; it became an ongoing line in four box-pressed sizes in 2024, though Famous currently lists only the robusto. Famous rates it full, while Cigar Coop's review found it medium.",
+  "verified": true,
+  "verifyNotes": "Flavors replaced: cocoa, coffee, wood and pepper are not on the Famous page or halfwheel, so they now come from Cigar Coop's review. Sizes expanded to the four box-pressed sizes Cigar Coop lists for the ongoing line (Famous shows only the robusto today). Cigar Coop confirms NACSA for the ongoing line, so the factory caveat was dropped. Swapped the second halfwheel link for the Cigar Coop review. Strength Full confirmed on Famous."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka U-Boat",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000 sun grown",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua, Dominican Republic, USA (Connecticut broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A store exclusive made by Dunbarton Tobacco & Trust for Rocky's Cigars in Syracuse, New York. It is an offshoot of the Muestra de Saka Unstolen Valor with the filler proportions changed, sold in gray-banded boxes of 10.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dunbarton-tobacco-trusts-u-boat-returns-to-rockys-cigars/429822/",
+   "https://halfwheel.com/muestra-de-saka-u-boat-returns-to-rockys-cigars/400496/",
+   "https://rockyscigars.com/products/dunbarton-trust-tobacco-uboat"
+  ],
+  "notes": "Rocky's Cigars exclusive released in small batches most years since 2020, including 2026. The Churchill is the main size; the 2022 boxes added two 6 x 54 torpedoes and the 2023 boxes two 4 3/4 x 60 Depth Charge perfectos. Strength is Rocky's own listing of medium to full.",
+  "verified": true,
+  "verifyNotes": "Strength filled in as Medium-Full from the Rocky's Cigars product page, the only seller; it is a retailer listing, not a maker rating. Added that page as a source and reworded notes. Blend, factory, size and 2020 debut confirmed on halfwheel."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "CANH Fiddlehead",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Dominican Republic (Criollo 92), Nicaragua (Condega, Jalapa, Ometepe), USA (Connecticut broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Fiddlehead",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A 6 x 48 cigar with a coiled fiddlehead cap that Dunbarton Tobacco & Trust makes only for retail members of the Cigar Association of New Hampshire, its home state. Part of the proceeds goes to the association.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/dunbarton-tobacco-trust-announces-canh-fiddlehead-as-cigar-association-of-new-hampshire-exclusive/448022/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-10th-jubilee/466118/"
+  ],
+  "notes": "Sold only by New Hampshire shops that belong to the Cigar Association of New Hampshire; the first run was a little over 700 boxes of 10. It was Dunbarton's first cigar with an Ecuadorian Sumatra wrapper. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, size and release confirmed on halfwheel. Notes trimmed from four sentences to three; nothing else changed."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Mi Querida Green",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (ligero)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 2 Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "spice"
+  ],
+  "about": "A small-batch branch of Steve Saka's Mi Querida broadleaf line. It began as the event-only Pataperro and then came to Smoke Inn in Florida as a 6 x 52 torpedo with a stronger ligero broadleaf wrapper.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/mi-querida-green-no-2-torpedo-goes-on-sale-at-smoke-inn/444847/",
+   "https://halfwheel.com/mi-querida-green-torpedo-coming-to-smoke-inn/442463/"
+  ],
+  "notes": "Smoke Inn exclusive torpedo first sold in November 2024 (600 bundles of 10); it returned in late 2025 renamed Mi Querida The Emerald Fish. The blend details are for the torpedo, which Saka says is revised and stronger than the event-only Pataperro. No strength rating is published.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

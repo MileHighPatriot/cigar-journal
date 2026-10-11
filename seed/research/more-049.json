@@ -1,0 +1,1240 @@
+[
+ {
+  "brand": "Curivari",
+  "line": "Seleccion Privada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robustos",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Royales",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Diplomaticos",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.375,
+    "ring": 42
+   },
+   {
+    "name": "Corona",
+    "length": 5.125,
+    "ring": 44
+   },
+   {
+    "name": "Cazadores",
+    "length": 6.125,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "vanilla"
+  ],
+  "about": "A medium-bodied Nicaraguan puro from Curivari, built on Cuban-seed Criollo and Corojo tobacco and finished with a triple cap. Halfwheel notes its band is styled after Partagas.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.curivari.com/cigars-seleccionprivada.htm",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=333795",
+   "https://halfwheel.com/review-curivari-seleccion-privada-eminentes/25209/"
+  ],
+  "notes": "Curivari only says the tobacco is Nicaraguan Cuban-seed Criollo and Corojo; Smokingpipes lists the wrapper as Corojo. A darker Maduro version is sold separately, and limited lanceros were released in 2021 and 2022.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Seleccion Privada Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Eminentes",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Magnificos",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Fabulosos",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "fruit",
+   "earth",
+   "leather"
+  ],
+  "about": "The darker-wrapped version of Curivari's Seleccion Privada, a Nicaraguan puro sold in the larger Eminentes, Magnificos and Fabulosos sizes.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/curivari-seleccion-privada-maduro",
+   "https://www.cigarplace.biz/curivari-seleccion-privada-maduro-magnificos.html",
+   "https://halfwheel.com/review-curivari-seleccion-privada-eminentes/25209/"
+  ],
+  "notes": "Strength is listed differently everywhere: halfwheel's Eminentes review and Neptune say medium, Cigar Place medium-full, Smokingpipes full. Halfwheel dates the Eminentes size to November 2011; the Seleccion Privada name dates to 2010.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Gloria de Leon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo (Rosado)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Fuerza",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Dominante",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Prominente",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "black cherry",
+   "cocoa"
+  ],
+  "about": "One of Curivari's original Cuban-styled lines, a Nicaraguan puro with a reddish brown wrapper. Halfwheel says it was blended to recall Romeo y Julieta.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.curivari.com/cigars-gloriadeleon.htm",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=507545",
+   "https://halfwheel.com/review-curivari-seleccion-privada-eminentes/25209/"
+  ],
+  "notes": "Curivari only says the tobacco is Nicaraguan Cuban-seed Criollo and Corojo; Smokingpipes lists the wrapper as Criollo with a Rosado shade and rates strength 4 of 5. Smokingpipes also sells a Gloria de Leon Gran Dominio in three smaller sizes.",
+  "verified": true,
+  "verifyNotes": "Removed the flavors cream and spice, which the listed pages do not give. Swapped the Cigar Place link for the halfwheel review that the Romeo y Julieta remark comes from; Cigar Place also lists medium-full. Factory rests on halfwheel's general statement about Curivari, not a Gloria de Leon page."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Reserva Limitada Classica",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Epicures",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Monarcas",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Imperiales",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "spice",
+   "toast"
+  ],
+  "about": "One of the three Curivari Reserva Limitada blends, a Nicaraguan puro with a dark, oily wrapper that the maker describes as full-bodied. It sits alongside the Cafe and 1000 Series.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.curivari.com/cigars-reservalimitada-classica.htm",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=343507",
+   "https://www.cigarplace.biz/curivari-reserva-limitada-classica-monarcas.html"
+  ],
+  "notes": "Curivari calls it full-bodied and Cigar Place lists it as full, but Smokingpipes rates the strength only medium. Curivari itself just says Nicaraguan Cuban-seed Criollo and Corojo; Habano is the Smokingpipes wrapper label.",
+  "verified": true,
+  "verifyNotes": "Reworded about: no source calls it the fullest of the three Reserva Limitada blends. Factory rests on halfwheel's general statement about Curivari."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Reserva Limitada 1000 Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, dark Colorado shade",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Reserva 2000",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Reserva 3000",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Reserva 4000 (Torpedo)",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "coffee",
+   "berries"
+  ],
+  "about": "One of the three Curivari Reserva Limitada blends, a Nicaraguan puro with a dark Colorado wrapper sold in three sizes numbered 2000 to 4000.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.curivari.com/cigars-reservalimitada-1000-series.htm",
+   "https://halfwheel.com/curivari-reserva-limitada-1000-series-reserva-2000/17642/",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=377796"
+  ],
+  "notes": "Curivari calls it full-bodied, but halfwheel's 2011 review found medium strength and Smokingpipes rates it 4 of 5. Smokingpipes lists the wrapper as Criollo.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: halfwheel's review says a solid medium, and only Smokingpipes (4 of 5) points higher. Note reworded to show all three views."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Reserva Limitada Cafe Noir",
+  "found": true,
+  "officialName": "Reserva Limitada Café Noir",
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Café Noir 54",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Café Noir 56",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Café Noir 62",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "toffee",
+   "spice",
+   "nuts",
+   "earth"
+  ],
+  "about": "A semi-pressed Nicaraguan puro with a near-black wrapper, added to Curivari's Reserva Limitada group at the 2013 IPCPR show. The 62 size scored 90 points in Cigar Insider.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2013-curivari/39073/",
+   "https://www.cigaraficionado.com/ratings/16991/name/curivari-cafe-noir-reserva-limitada-cafe-noir-62-grande",
+   "https://www.neptunecigar.com/cigar/curivari-reserva-limitada-cafe-noir"
+  ],
+  "notes": "Cigar Aficionado rates it medium-full, Neptune medium; the 62 size is actually a 60 ring gauge. It is separate from the original Reserva Limitada Cafe, which comes in different sizes. Neptune names Plasencia as the factory, while halfwheel says Curivari's cigars are made at Tabacalera de Nicaragua S.A.",
+  "verified": true,
+  "verifyNotes": "Added the factory disagreement to notes: Neptune's page names Plasencia Cigars. Trimmed the unverified wrapper-colour remark about the original Cafe."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mini BV",
+    "length": 3.5,
+    "ring": 50
+   },
+   {
+    "name": "Petit BV",
+    "length": 4.25,
+    "ring": 54
+   },
+   {
+    "name": "BV 500",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "BV 560",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "BV 600",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "cedar",
+   "white pepper",
+   "earth"
+  ],
+  "about": "The maduro version of Curivari's value-priced Buenaventura, with a Mexican San Andrés wrapper over all-Nicaraguan binder and filler. It debuted at the 2023 PCA show, eleven years after the original.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/curivari-debuting-buenaventura-maduro-at-pca-2023/425361/",
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-maduro",
+   "https://www.cigaraficionado.com/rating/curivari-buenaventura-maduro-bv600"
+  ],
+  "notes": "Cigar Aficionado rated the BV600 medium-full and the smaller Petit BV full; Neptune lists the line as medium.",
+  "verified": true,
+  "verifyNotes": "Added Cigar Aficionado's ratings (BV600 medium-full, Petit BV full) in place of the Cigar Place link, and took the flavors from its tasting note."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Cremas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "C100",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "C200",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "C300",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "C400",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "CT",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "spice"
+  ],
+  "about": "The Connecticut-wrapped member of Curivari's value-priced Buenaventura family, with an Ecuadorian shade wrapper over Nicaraguan binder and filler. It was introduced at the 2016 IPCPR show.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-cremas",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=333807",
+   "https://www.cigarplace.biz/curivari-buenaventura-cremas-c100.html"
+  ],
+  "notes": "Neptune and Cigar Place list it as medium; Smokingpipes rates it milder, 2 of 5. Both retailers name Plasencia as the factory, while halfwheel says Curivari's cigars are made at Tabacalera de Nicaragua S.A.",
+  "verified": true,
+  "verifyNotes": "Added the factory disagreement to notes: Neptune, Cigar Place and a 2016 Blind Man's Puff review all name Plasencia. Release year 2016 also confirmed there."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Dimensiones",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (natural)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "D4",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "D6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "D8",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "graham cracker",
+   "leather",
+   "earth",
+   "spice"
+  ],
+  "about": "A Nicaraguan puro extension of Curivari's value-priced Buenaventura family, sold in three sizes labeled D4, D6 and D8.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-dimensiones",
+   "https://www.cigaraficionado.com/ratings/26467/name/curivari-buenaventura-dimensiones-d8-churchill",
+   "https://halfwheel.com/curivari-ships-new-buenaventura-favoritos/444340/"
+  ],
+  "notes": "Cigar Aficionado rated the D8 medium-full and gave it 90 points in 2026; Neptune lists the line as medium. Neptune names Plasencia as the factory, while halfwheel says Curivari's cigars are made at Tabacalera de Nicaragua S.A.",
+  "verified": true,
+  "verifyNotes": "Strength filled in as Medium-Full from Cigar Aficionado's D8 rating (90 points, Feb 2026), which also supplied the flavors. Added that page as a source and trimmed the note."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Favoritos Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "bread",
+   "earth",
+   "cream",
+   "black tea",
+   "citrus"
+  ],
+  "about": "The yellow-band member of Curivari's low-priced Buenaventura Favoritos trio, with an Ecuadorian Connecticut-seed wrapper over Nicaraguan binder and filler. It began shipping in October 2024 at under $6 a cigar.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/curivari-ships-new-buenaventura-favoritos/444340/",
+   "https://halfwheel.com/review-buenaventura-favoritos-50-connecticut/448091/",
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-favoritos-connecticut"
+  ],
+  "notes": "Neptune and Smokingpipes both list it as medium, but halfwheel's review found the nicotine strength mild with medium-full flavor.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Favoritos Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "56",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "black pepper",
+   "white pepper",
+   "earth",
+   "chocolate",
+   "cream"
+  ],
+  "about": "The red-band member of Curivari's low-priced Buenaventura Favoritos trio, a Nicaraguan puro with a habano-seed wrapper from Jalapa. The 56 size placed 23rd on halfwheel's Top 25 of 2024.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/curivari-ships-new-buenaventura-favoritos/444340/",
+   "https://halfwheel.com/buenaventura-favoritos-56-natural/445568/",
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-favoritos-natural"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Favoritos Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "56",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "bread",
+   "chocolate",
+   "spice",
+   "leather",
+   "cedar"
+  ],
+  "about": "The blue-band member of Curivari's low-priced Buenaventura Favoritos trio, with a Mexican San Andrés wrapper over Nicaraguan binder and filler. It began shipping in October 2024 at under $6 a cigar.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/curivari-ships-new-buenaventura-favoritos/444340/",
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-favoritos-maduro",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=639462"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Pralines",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "P460",
+    "length": 4.875,
+    "ring": 60
+   },
+   {
+    "name": "P554",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "P652",
+    "length": 6.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "cream",
+   "bread",
+   "chocolate"
+  ],
+  "about": "A maduro-wrapped member of Curivari's value-priced Buenaventura family, with a dark Mexican San Andrés wrapper over Nicaraguan Cuban-seed binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=333805",
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-pralines",
+   "https://halfwheel.com/curivari-ships-new-buenaventura-favoritos/444340/"
+  ],
+  "notes": "Neptune and the Smokingpipes description both say the wrapper is Mexican San Andrés, though the Smokingpipes spec table lists Nicaragua. Smokingpipes rates the strength 4 of 5.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel page that states the factory. Trimmed the note. Strength left blank: Curivari publishes none and only Smokingpipes rates it."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Picadores",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Fumas 44",
+    "length": 4.25,
+    "ring": 44
+   },
+   {
+    "name": "46",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "52",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "spice",
+   "chocolate",
+   "leather",
+   "cedar"
+  ],
+  "about": "The lowest-priced version of Curivari's Buenaventura, a Nicaraguan puro made with a blend of long and mixed filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=333812",
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura-picadores",
+   "https://halfwheel.com/curivari-ships-new-buenaventura-favoritos/444340/"
+  ],
+  "notes": "Mixed filler, not all long filler. Neptune calls the wrapper a dark habano and the cigar medium strength; Smokingpipes lists the wrapper as Rosado and rates strength 4 of 5.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel page that states the factory. Sizes confirmed on Smokingpipes. Strength left blank: Curivari publishes none and the two retailers disagree."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Limited Edition",
+  "found": true,
+  "officialName": "Buenaventura Limited Edition 2021",
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "BV554",
+    "length": 5.625,
+    "ring": 54
+   },
+   {
+    "name": "BV654",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "Two limited sizes of Curivari's Buenaventura, both Nicaraguan puros, released in late 2021 in boxes of 10 with 5,000 cigars made per size. Both sizes first appeared in 2014 as short runs.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/curivari-releases-trio-of-limited-editions/402604/",
+   "https://halfwheel.com/pca-2022-curivari/409431/"
+  ],
+  "notes": "Curivari described it as an outtake blend from the Buenaventura sessions, not the regular blend. A 2022 edition followed with a Mexican San Andrés wrapper in 5 x 54 and 6 x 54.",
+  "verified": true,
+  "verifyNotes": "Factory set to null: neither halfwheel page names one, and halfwheel listed the factory as undisclosed for the sister 2021 limited edition. Strength is not published."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura Trail Mix",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "citrus",
+   "black pepper",
+   "cocoa",
+   "dried fruit"
+  ],
+  "about": "A single-size Nicaraguan puro made by Curivari for the Limited Cigar Association and released to LCA retailers in March 2021. It wears the Buenaventura band but is a different blend.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/buenaventura-trail-mix-hits-lca-retailers-on-friday/390728/",
+   "https://halfwheel.com/buenaventura-trail-mix/392375/"
+  ],
+  "notes": "Not the regular Buenaventura blend: it uses higher primings and some different tobaccos. Halfwheel lists the factory as undisclosed and production numbers were not released.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Achilles Invencibles",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Colorado shade)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Invencibles 4",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Invencibles 5",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Invencibles 6",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A version of Curivari's Achilles, a Nicaraguan puro that keeps the original Achilles fillers under a lighter habano wrapper.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=504418",
+   "https://www.smokingpipes.com/cigars/curivari/?page=1",
+   "https://www.cigaraficionado.com/article/achilles-mirmidones-from-curivari-ships-to-retail-18354"
+  ],
+  "notes": "Part of the Achilles family, launched in 2013 as one of Curivari's strongest blends; Smokingpipes rates this version 3 of 5. Cigar Aficionado spelled it Invensibles and reported a September 2015 release. Factory is unclear: 2015 reports name Plasencia for Achilles, while halfwheel now says Tabacalera de Nicaragua S.A.",
+  "verified": true,
+  "verifyNotes": "Factory set to null: halfwheel and Cigar Aficionado both named Plasencia for Achilles in 2015. Added release year 2015 and the Colorado wrapper shade from Cigar Aficionado, and added that article as a source. Strength left blank: only Smokingpipes rates it."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Ciclope",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "460",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "554",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "556",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "652",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "754",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "chocolate"
+  ],
+  "about": "One of Curivari's Greek-themed lines, named for the Cyclops of the Odyssey. It pairs a Mexican San Andrés maduro wrapper with Nicaraguan binder and filler.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-curivari/168618/",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=504430",
+   "https://www.neptunecigar.com/cigar/curivari-ciclope"
+  ],
+  "notes": "Strength sources disagree: Neptune calls it full strength, Smokingpipes rates it 3 of 5. It was previewed in 2016 ahead of the FDA deadline; halfwheel lists the launch as August 2017.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Socrates",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "458",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "552",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "654",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "T",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cinnamon",
+   "earth",
+   "oak",
+   "spice"
+  ],
+  "about": "One of Curivari's Greek-themed lines, named for the philosopher. It pairs a dark Mexican San Andrés maduro wrapper with Nicaraguan Cuban-seed binder and filler.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-curivari/168618/",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=439606",
+   "https://www.neptunecigar.com/cigar/curivari-socrates"
+  ],
+  "notes": "Strength sources disagree: Neptune describes it as medium-bodied, Smokingpipes rates it 5 of 5. It was previewed in 2016 ahead of the FDA deadline; halfwheel lists the launch as August 2017.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano, sun grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "460",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "550",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "554",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "652",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "leather",
+   "hay",
+   "chocolate"
+  ],
+  "about": "A Nicaraguan puro from Curivari's Micro Blend Series with a sun-grown habano wrapper. A Maduro version is sold alongside it.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-curivari/168618/",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=374245",
+   "https://halfwheel.com/ipcpr-2018-curivari/268214/"
+  ],
+  "notes": "A torpedo (T) also exists; halfwheel prints it as 6 x 52, the same as the 652, so it is left out here. Previewed in 2016 ahead of the FDA deadline; halfwheel lists the launch as August 2017.",
+  "verified": true,
+  "verifyNotes": "Swapped the Neptune link for halfwheel's IPCPR 2018 report, the page that names the Micro Blend Series, and took the flavors from Smokingpipes. Strength comes from Smokingpipes alone (4 of 5, medium to full bodied)."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Sun Grown Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "450",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "554",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "550",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "654",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "chocolate",
+   "pepper",
+   "leather",
+   "hay"
+  ],
+  "about": "The dark-wrapped partner to Curivari's Sun Grown. Smokingpipes describes it as slightly sweeter than the regular version.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-curivari/168618/",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=374248",
+   "https://www.neptunecigar.com/cigar/curivari-sun-grown-maduro"
+  ],
+  "notes": "Wrapper sources disagree: halfwheel's 2017 trade show report lists Mexican San Andrés, while Smokingpipes and Neptune describe a Nicaraguan puro with a habano maduro wrapper. Halfwheel lists the launch as August 2017.",
+  "verified": true,
+  "verifyNotes": "Reworded about to name who calls it sweeter and dropped the Micro Blend mention, which none of the listed pages state. Strength comes from Smokingpipes alone (4 of 5, medium to full bodied)."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Centauro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "44",
+    "length": 5.125,
+    "ring": 44
+   },
+   {
+    "name": "50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "T",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "sweetness"
+  ],
+  "about": "One of Curivari's Greek-themed lines, named for the centaur of mythology. It is a Nicaraguan puro of Cuban-seed Criollo and Corojo tobacco with a triple cap.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-curivari/168618/",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=377795",
+   "https://www.neptunecigar.com/cigar/curivari-centauro"
+  ],
+  "notes": "Smokingpipes rates the strength 4 of 5. Previewed in 2016 ahead of the FDA deadline; halfwheel lists the launch as August 2017. Smokingpipes lists the 44 as 4 x 44 and the T as 6 x 52, shorter than halfwheel's figures.",
+  "verified": true,
+  "verifyNotes": "Trimmed the note and added a size disagreement between Smokingpipes and halfwheel. Factory rests on halfwheel's general statement. Strength left blank: only Smokingpipes rates it."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Gran Reserva Edición 2025",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (leaf undisclosed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Mild",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "458",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "554",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "552",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "654",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "T",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "pepper",
+   "cream",
+   "earth",
+   "wood",
+   "cereal"
+  ],
+  "about": "A limited Nicaraguan puro made with vintage tobacco from Curivari's own farm in Jalapa, a project owner Andreas Throuvalas says took ten years. Only 1,000 boxes of 10 were made across five sizes.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/curivari-gran-reserva-edicion-2025-arrives-at-stores/467310/",
+   "https://halfwheel.com/curivari-gran-reserva-edicion-2025-654/471855/",
+   "https://www.smokingpipes.com/cigars/curivari/moreinfo.cfm?product_id=724082"
+  ],
+  "notes": "Shown at the 2025 PCA show but it did not ship until April 2026. Halfwheel's review found mild nicotine strength with medium body and medium-plus flavor; Smokingpipes rates it medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Curivari",
+  "line": "Virtudes Edición 2026",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Jalapa)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (sun grown)",
+  "filler": "Nicaragua (aged)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "50",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "54",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "56",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "T (Torpedo)",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited-edition spin-off of Curivari's Virtudes line, a Nicaraguan puro with a Jalapa wrapper. About 200 boxes of 10 were planned for each of its five sizes.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/curivari-virtudes-edicion-2026-scheduled-for-august/467277/",
+   "https://halfwheel.com/pca-2026-curivari/467285/"
+  ],
+  "notes": "Announced at the 2026 PCA show with shipping scheduled for August 2026. The original Virtudes was one of the lines Curivari previewed in 2016 and 2017.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

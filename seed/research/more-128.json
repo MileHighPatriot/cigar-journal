@@ -1,0 +1,900 @@
+[
+ {
+  "brand": "Casa Cuevas",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice"
+  ],
+  "about": "The mildest of the three core Casa Cuevas blends, rolled at the Cuevas family's own factory in Santiago. It pairs an Ecuadorian Connecticut wrapper with Dominican and Nicaraguan filler.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/",
+   "https://halfwheel.com/casa-cuevas-formally-debuts/145637/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-connecticut"
+  ],
+  "notes": "Maker's website calls it mild; the maker's catalog and Neptune's description say mild to medium. A 6 x 60 Gordo is in the maker's catalog but not on its website size list.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory, sizes and strength confirmed on the maker site, halfwheel and Neptune. Reworded notes: the maker catalog rates it mild to medium and still lists a 6 x 60 Gordo."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Prensado",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "pepper"
+  ],
+  "about": "The red-banded core Casa Cuevas blend, made at the family's Tabacalera Las Lavas factory in Santiago. An Ecuadorian Habano wrapper sits over a Nicaraguan binder and Dominican and Nicaraguan filler.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/",
+   "https://halfwheel.com/casa-cuevas-adds-limited-editions/275020/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-habano"
+  ],
+  "notes": "The Prensado is box pressed. Maker's website lists Dominican and Nicaraguan filler; its catalog adds Colombian and Pennsylvania leaf and calls the cigar medium plus. A 6 x 60 Gordo is in the catalog but not on the website.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker site, halfwheel and Neptune. Notes rewritten to add what the maker catalog says differently (filler, medium plus, Gordo)."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Colombia, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Prensado",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "earth",
+   "dark chocolate",
+   "oak",
+   "coffee",
+   "cherry"
+  ],
+  "about": "The black-banded core Casa Cuevas blend with a naturally fermented Mexican San Andres wrapper. It is made at the family's Tabacalera Las Lavas factory and is known for mixing sweetness with spice.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/",
+   "https://halfwheel.com/casa-cuevas-maduro-toro/152909/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-maduro"
+  ],
+  "notes": "Maker's website says medium-plus; its catalog and Neptune say medium. The catalog and halfwheel also list Pennsylvania filler, which the website leaves out. The Prensado is box pressed; a 6 x 60 Gordo is in the catalog only.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker site, halfwheel and Neptune. Notes rewritten: Pennsylvania filler is also in the maker catalog, not only halfwheel."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Reserva Natural",
+  "found": true,
+  "officialName": "Cuevas Reserva Natural",
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Habano (origin undisclosed)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "spice"
+  ],
+  "about": "A family blend first made by Luis Cuevas Sr. in the early 2000s and brought back in 2019. It uses an Ecuadorian Connecticut wrapper over a Habano binder and three-country filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/",
+   "https://halfwheel.com/casa-cuevas-ships-cuevas-reserva/364784/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-reserva-natural"
+  ],
+  "notes": "Maker says the blend dates to 2005 and came back in 2019. Maker calls it smooth and mellow; the medium rating is Neptune's. The maker does not say where the Habano binder is grown; Neptune calls it Dominican.",
+  "verified": true,
+  "verifyNotes": "Binder reworded from \"Habano\" to \"Habano (origin undisclosed)\" since halfwheel says the origin is not disclosed. Notes trimmed. Strength rests on Neptune only; the maker gives no strength word."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Reserva Maduro",
+  "found": true,
+  "officialName": "Cuevas Reserva Maduro",
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Dominican Republic, Nicaragua (Ometepe)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "toast",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "The maduro version of the Cuevas Reserva, an older family blend that returned in 2019. It has a Mexican San Andres wrapper over a Dominican Piloto Cubano binder and is said to be a favorite of Luis Cuevas Sr.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/",
+   "https://halfwheel.com/casa-cuevas-reserva-maduro-toro/369107/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-reserva-maduro"
+  ],
+  "notes": "Company describes it as full flavored with medium to full body. Neptune's spec says medium strength while its description says full; halfwheel's review found medium-plus. The maker's catalog lists an Olor binder instead of Piloto Cubano.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on the maker site, halfwheel and Neptune. Added to notes that the maker catalog lists an Olor binder."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Patrimonio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Ecuador (Habano)",
+  "filler": "Peru, Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "earth",
+   "white pepper"
+  ],
+  "about": "A 2021 line blended by Luis Cuevas Jr. and his son Alec as a tribute to Luis Cuevas Sr. and the family's tobacco lineage. It uses a Honduran Corojo wrapper and filler that includes Peruvian leaf.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/",
+   "https://halfwheel.com/casa-cuevas-patrimonio-toro/401242/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-patrimonio"
+  ],
+  "notes": "The maker and Neptune call it full bodied. Halfwheel's review found the strength closer to medium to medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "La Mandarria",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Colombia, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Named for the Spanish word for sledgehammer, after burglars used sledgehammers to break into the company's Miami warehouse in 2019. It is a single 6 x 52 toro with a shaggy foot and pigtail cap, billed as the company's first full strength cigar.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/wp-content/uploads/2026/09/CC-Catalogue-2022.pdf",
+   "https://halfwheel.com/casa-cuevas-makes-la-mandarria-regular-production-updates-bands/371825/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-la-mandarria"
+  ],
+  "notes": "Began as a 500-box limited edition in 2019 and became regular production in 2020. Blend is from the maker's catalog and halfwheel; the maker's website instead lists a Dominican Olor binder and no Colombian filler.",
+  "verified": true,
+  "verifyNotes": "Binder changed from Dominican Republic (Olor) to Nicaragua and filler from Dominican Republic, Nicaragua to Colombia, Dominican Republic, Nicaragua: the maker catalog, halfwheel and Neptune all give a Nicaraguan binder, and only the maker home page (same text pasted under both Mandarrias) says Olor. Maker home page swapped for the maker catalog in sources."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "La Mandarria Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "cedar",
+   "cream",
+   "pepper",
+   "earth"
+  ],
+  "about": "The darker follow-up to La Mandarria, released in 2024 in the same 6 x 52 toro with an uncovered foot and pigtail cap. It swaps in a Mexican San Andres wrapper over an Ecuadorian Habano binder.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-cuevas-la-mandarria-oscuro/447895/",
+   "https://cigar-coop.com/2025/01/2024-cigar-of-the-year-countdown-coops-list-10-casa-cuevas-la-mandarria-oscuro.html",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-la-mandarria"
+  ],
+  "notes": "Blend is from halfwheel, Cigar Coop and Neptune. The maker's catalog instead lists a Habano Oscuro wrapper, Honduran Corojo binder and Dominican and Nicaraguan filler. Strength varies: halfwheel says medium, Cigar Coop medium to full, Neptune full.",
+  "verified": true,
+  "verifyNotes": "San Andres wrapper, Ecuadorian Habano binder and three-country filler confirmed on halfwheel (three articles), Cigar Coop and Neptune. Notes rewritten to flag that the maker catalog lists a different blend (Habano Oscuro wrapper, Honduran Corojo binder)."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Sangre Nueva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Corojo)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania Broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Perfecto",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "smoke",
+   "charred meat",
+   "nuts",
+   "cocoa",
+   "floral"
+  ],
+  "about": "Spanish for new blood, this 2022 line was blended by Alec Cuevas, the fifth generation of the family. It was the first Casa Cuevas cigar to use a Cameroon-seed wrapper, grown in Ecuador.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://casacuevascigars.com/",
+   "https://halfwheel.com/casa-cuevas-sangre-nueva-toro/415819/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-sangre-nueva"
+  ],
+  "notes": "The maker and Neptune list the Robusto at 4 3/4 x 54; halfwheel lists 4 3/4 x 52. Alec Cuevas told halfwheel the filler also has about two percent Kentucky fire-cured tobacco. Maker says medium to full; Neptune lists full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Flaco Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Colombia, Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Flaco",
+    "length": 7,
+    "ring": 43
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "earth",
+   "leather",
+   "nuts",
+   "coffee",
+   "white pepper"
+  ],
+  "about": "A limited 7 x 43 pigtail-capped size of the Casa Cuevas Habano blend that the company calls a lancero. Flaco is Spanish for skinny, and the company says the cigars are named for Alec Cuevas.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/casa-cuevas-bringing-back-limited-edition-flaco-habano-maduro-at-tpe-2022/404304/",
+   "https://halfwheel.com/casa-cuevas-el-flaco-habano-limited-edition/292908/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-limited-edition-habano"
+  ],
+  "notes": "One limited size of the Habano line. First released in 2018 at 500 boxes of 10, then brought back in 2022 as Limited Edition Flaco Habano 2021 at 750 boxes of 10. The 2018 release was listed with Dominican and Nicaraguan filler only.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel and Neptune; the maker catalog confirms the four-country filler. Removed the note sentence saying the maker gives no blend details, which is wrong."
+ },
+ {
+  "brand": "Casa Cuevas",
+  "line": "Flaco Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Colombia, Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Las Lavas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Flaco",
+    "length": 7,
+    "ring": 43
+   }
+  ],
+  "flavors": [],
+  "about": "A limited 7 x 43 pigtail-capped size of the Casa Cuevas Maduro blend that the company calls a lancero. Flaco is Spanish for skinny, and the company says the cigars are named for Alec Cuevas.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/casa-cuevas-bringing-back-limited-edition-flaco-habano-maduro-at-tpe-2022/404304/",
+   "https://halfwheel.com/casa-cuevas-adds-limited-editions/275020/",
+   "https://www.neptunecigar.com/cigar/casa-cuevas-limited-edition-maduro"
+  ],
+  "notes": "One limited size of the Maduro line. First released in 2018 at 500 boxes of 10, then brought back in 2022 as Limited Edition Flaco Maduro 2021 at 750 boxes of 10.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel and Neptune; the maker catalog confirms the blend. Removed the note sentence saying the maker gives no blend details, which is wrong."
+ },
+ {
+  "brand": "J. London",
+  "line": "Gold Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Connecticut-seed)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Mild-Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "Box Press Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "floral",
+   "cedar",
+   "wheat",
+   "vanilla",
+   "bread"
+  ],
+  "about": "The first and longest-running line from Jonathan Fiant's J. London Cigars, introduced in 2014. It uses an Ecuadorian Connecticut-seed leaf for both wrapper and binder and is made at Tabacalera William Ventura.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://jlondonbrands.com/cigars/gold-series/",
+   "https://halfwheel.com/j-london-begins-shipping-10th-anniversary-gold-series/454903/",
+   "https://halfwheel.com/j-london-gold-series-fat-robusto/401022/"
+  ],
+  "notes": "Maker rates it mild to medium in strength with medium to full body. The Nicaraguan filler was first disclosed in 2025; older listings say Dominican only. Made in small annual runs; sizes such as the Fat Robusto, The A, Piramide and 10th Anniversary were small batches or store exclusives.",
+  "verified": true,
+  "verifyNotes": "Confirmed on the maker page (jlondonbrands.com), which the researcher had not used: strength mild to medium, body medium to full (body added), flavor list replaced with the maker notes plus bread from halfwheel. Neptune source swapped for the maker page. Notes trimmed."
+ },
+ {
+  "brand": "J. London",
+  "line": "The Ripper",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "United States",
+  "factory": "Martinez Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black cherry",
+   "applewood",
+   "earth",
+   "cayenne",
+   "leather"
+  ],
+  "about": "A regular production line that Jonathan Fiant of J. London created with Jesus Martinez of Martinez Cigars, released in 2023. One cigar in each box of 10 robustos carries a dagger and blood drops cut from darker tobacco.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://jlondonbrands.com/cigars/the-ripper/",
+   "https://halfwheel.com/j-london-cigars-the-ripper-getting-official-release-at-pca-2023/424849/",
+   "https://halfwheel.com/pca-2023-j-london-cigars/424819/"
+  ],
+  "notes": "The maker lists the country of origin as the United States, rolled by Martinez Cigars in New York City. The maker does not publish a strength. Halfwheel gives the wrapper and binder as Ecuadorian; the maker's page just says Corojo and Habano.",
+  "verified": true,
+  "verifyNotes": "Country was null: the maker page gives Country of Origin as United States (NYC), and Martinez Cigars says all its cigars are made in its New York City factory. Added the 6 x 54 Toro and the flavor notes from the maker page, added the maker page as a source, and reworded about and notes."
+ },
+ {
+  "brand": "J. London",
+  "line": "Mr. London",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo 99 (origin undisclosed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Mexico (San Andres)",
+  "filler": "Criollo 98, Habano 92, Habano 2000, HVA, Piloto Cubano (origins undisclosed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Diaz Cabrera",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Super Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Fat Robusto",
+    "length": 4,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "cayenne",
+   "earth",
+   "toast"
+  ],
+  "about": "A 2024 limited edition blended by Jonathan Fiant with Eladio Diaz and rolled at Diaz's factory in the Dominican Republic. It is the first cigar built around the Mr. London character, planned as a once-a-year release.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://jlondonbrands.com/cigars/mr-london/",
+   "https://halfwheel.com/j-london-ships-mr-london/438445/",
+   "https://halfwheel.com/j-london-cigars-introduces-mr-london/436748/"
+  ],
+  "notes": "The first release, called The Introduction, was limited to 400 boxes of 10 and aged a year after rolling. The company has not disclosed where the wrapper or filler tobaccos were grown and does not publish a strength.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country and factory confirmed on the maker page and halfwheel; the maker publishes no strength. Added the maker flavor notes and the 4 x 56 Fat Robusto the maker page lists, and added the maker page as a source."
+ },
+ {
+  "brand": "J. London",
+  "line": "Blue Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Corojo (origin undisclosed)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": null,
+  "binder": "Olor (origin undisclosed)",
+  "filler": "Broadleaf, Criollo 98 (origins undisclosed)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "The first release in J. London's Telephone Booth Series of small batch limited editions, shipped in December 2022. It is an unbanded robusto sold in paper-wrapped packs of five with a blue phone booth sticker.",
+  "released": 2022,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/j-londons-telephone-booth-series-debuting-this-month/416332/",
+   "https://halfwheel.com/j-londons-neon-green-telephone-booth-ships-to-stores/422553/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 600 numbered packs of five, 3,000 cigars. The countries the tobaccos come from are not disclosed. No published strength was found.",
+  "verified": true,
+  "verifyNotes": "Added the halfwheel Neon Green story as a source, since it is the page that says the Blue came unbanded. Nothing else changed."
+ },
+ {
+  "brand": "J. London",
+  "line": "Neon Green Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor Ligero)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro Extra",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "The second release in J. London's Telephone Booth Series, shipped in April 2023. It is a 6 x 56 with a Mexican San Andres wrapper, sold unbanded in five-count paper-wrapped packs.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/j-londons-neon-green-telephone-booth-ships-to-stores/422553/",
+   "https://halfwheel.com/j-londons-telephone-booth-series-debuting-this-month/416332/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 600 packs of five, 3,000 cigars. Halfwheel also refers to it as the Green Telephone Booth. No published strength was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J. London",
+  "line": "Pink Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano Maduro (origin undisclosed)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Olor Viso (origin undisclosed)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The third release in J. London's Telephone Booth Series, shipped in July 2023. It is a short 4 1/2 x 54 robusto with a pigtail cap and a habano maduro wrapper.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/pca-2023-j-london-cigars/424819/",
+   "https://halfwheel.com/j-londons-pink-telephone-booth-returns-in-new-size-as-store-exclusive/451685/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 800 packs of five, 4,000 cigars. In 2025 the blend returned as a 6 3/4 x 42 store exclusive for LA Aficionados Cigar Collective, 190 packs of 10. No published strength was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J. London",
+  "line": "Orange Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Criollo 98, Olor (origins undisclosed)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A September 2023 release in J. London's Telephone Booth Series, a 5 1/2 x 46 corona gorda with an Ecuadorian Sumatra wrapper. It was the first cigar in the series to wear a band.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/j-london-ships-orange-telephone-booth/429185/",
+   "https://halfwheel.com/pca-2023-j-london-cigars/424819/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 800 packs of five, 4,000 cigars. The tobacco is said to be aged four to six years. No published strength was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J. London",
+  "line": "Lavender Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Olor (origin undisclosed)",
+  "filler": "Criollo 98 Ligero, Olor Viso (origins undisclosed)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A November 2023 release in J. London's Telephone Booth Series, a 5 x 50 robusto. Its Dominican broadleaf maduro wrapper was grown on virgin soil, according to owner Jonathan Fiant.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/j-londons-lavender-telephone-booth-heads-to-stores/431931/",
+   "https://halfwheel.com/pca-2023-j-london-cigars/424819/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 800 packs of five, 4,000 cigars. It was previewed at PCA 2023 as the Purple Telephone Booth. No published strength was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J. London",
+  "line": "Teal Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Olor (origin undisclosed)",
+  "filler": "Olor, Criollo 98 (origins undisclosed)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lonsdale",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [],
+  "about": "A May 2024 release in J. London's Telephone Booth Series, a 5 1/2 x 46 that the company calls a lonsdale. It uses a Mexican San Andres wrapper over olor and criollo 98 tobaccos.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/j-london-teal-telephone-booth-arrives-at-stores/438767/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 800 packs of five, 4,000 cigars. No published strength was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J. London",
+  "line": "Gold Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor San Victor)",
+  "filler": "Criollo 98 Medio Tiempo (origin undisclosed), Dominican Republic (Olor San Victor Medio Tiempo), USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "An August 2024 release in J. London's Telephone Booth Series, a 5 1/2 x 52 robusto. It uses a Mexican San Andres wrapper with medio tiempo leaves and Pennsylvania tobacco in the filler.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/j-london-gold-telephone-booth-shipping-to-stores/441760/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 800 packs of five, 4,000 cigars. Not the same cigar as the J. London Gold Series. No published strength was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J. London",
+  "line": "Dark Orange Telephone Booth",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican San Victor Olor",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Mexico (San Andres)",
+  "filler": "Dominican Republic (San Victor Olor), Criollo 98 Viso and Medio Tiempo (origin undisclosed)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A December 2024 release in J. London's Telephone Booth Series, a 5 1/2 x 50 robusto. It is unusual for using a Dominican olor leaf as the wrapper, over a Mexican San Andres binder.",
+  "released": 2024,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/j-london-ships-newest-telephone-booth-series-release-dark-orange/445544/"
+  ],
+  "notes": "Made at an undisclosed factory in the Dominican Republic. Limited to 800 packs of five, 4,000 cigars. Not the same cigar as the 2023 Orange Telephone Booth. No published strength was found.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

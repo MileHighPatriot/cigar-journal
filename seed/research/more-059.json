@@ -1,0 +1,814 @@
+[
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Reserva Real Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cocoa",
+   "pepper",
+   "spice",
+   "floral"
+  ],
+  "about": "An all-Nicaraguan version of the Reserva Real, blended by Rafael Nodal and AJ Fernandez and rolled at Fernandez's factory in Esteli from tobacco grown on his farms. It wears a blue and gold band.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-reserva-real-nicaragua",
+   "https://halfwheel.com/romeo-y-julieta-adding-reserva-real-nicaragua/370628/",
+   "https://halfwheel.com/romeo-y-julieta-reserva-real-nicaragua-robusto-2/412855/"
+  ],
+  "notes": "Nicaraguan puro; the wrapper varietal is not published. The maker calls it medium-bodied, while Neptune describes it as full strength. It launched in four sizes in May 2020; the Corona and No. 2 were added later.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Reserva Real Nicaragua Profundo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "black pepper",
+   "molasses",
+   "earth"
+  ],
+  "about": "A darker take on the Reserva Real Nicaragua from AJ Fernandez and Rafael Nodal, using a Nicaraguan oscuro wrapper that gets its color from extended fermentation. It is a Nicaraguan puro rolled at Fernandez's factory in Esteli.",
+  "released": 2026,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-juleita-reserva-real-nicaragua-profundo",
+   "https://halfwheel.com/romeo-y-julieta-reserva-real-nicaragua-profundo-toro/466359/",
+   "https://halfwheel.com/romeo-y-julieta-reserva-real-nicaragua-profundo-lands-at-casa-de-montecristo/462559/"
+  ],
+  "notes": "The company describes it as medium to full-bodied; halfwheel's review found the strength closer to mild to medium. Beyond the oscuro wrapper grown by AJ Fernandez, blend details are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Reserva Real Nicaragua Midnight Twist",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Two Nicaraguan wrappers in a barber pole",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Twisted Love Story",
+    "length": 4.25,
+    "ring": 46
+   },
+   {
+    "name": "Twisted Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "cashew"
+  ],
+  "about": "A barber pole version of the Reserva Real Nicaragua, with two Nicaraguan wrappers of different shades striped over the same all-Nicaraguan binder and filler. It is made at AJ Fernandez's factory in Esteli.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-reserva-real-nicaragua-midnight-twist",
+   "https://halfwheel.com/romeo-y-julieta-reserva-real-nicaragua-midnight-twist-love-story/444096/"
+  ],
+  "notes": "Dual wrapper cigar, so no single wrapper category applies. The Twisted Love Story is a small perfecto; the Twisted Toro is a straight-sided parejo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Reserva Real Twisted",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano and Ecuadorian Connecticut Shade in a barber pole",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Twisted Love Story",
+    "length": 4.25,
+    "ring": 46
+   },
+   {
+    "name": "Twisted Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "earth",
+   "chocolate",
+   "wood",
+   "spice",
+   "cream"
+  ],
+  "about": "A barber pole extension of the Reserva Real, with alternating stripes of Ecuadorian Habano and Ecuadorian Connecticut Shade wrapper over a Nicaraguan binder and Dominican and Nicaraguan filler. It is made in the Dominican Republic.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-reserva-real-twisted",
+   "https://halfwheel.com/romeo-y-julieta-reserva-real-twisted-love-story/427780/"
+  ],
+  "notes": "Dual wrapper cigar, so no single wrapper category applies. The Twisted Love Story is a short perfecto often compared to Arturo Fuente's Hemingway Between the Lines.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "150th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Peru, Honduras, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prologue",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Balconet",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Crescendo",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "chocolate",
+   "coffee",
+   "earth"
+  ],
+  "about": "Altadis U.S.A.'s cigar for the 150th anniversary of the Romeo y Julieta brand, dated from 1875. It pairs an Ecuadorian Sumatra wrapper aged by AJ Fernandez with a Turrent family San Andres binder and filler from Peru, Honduras and the Dominican Republic, sold in 16-count boxes.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-150th-anniversary",
+   "https://halfwheel.com/romeo-y-julieta-150th-anniversary-balconet/453221/",
+   "https://www.neptunecigar.com/cigar/romeo-y-julieta-150th-anniversary"
+  ],
+  "notes": "The maker's site lists the Balconet as 6 x 52; halfwheel, Cigar Aficionado's launch report and Neptune give 6 x 54. The three sizes are regular production; only the Reconciliation belicoso sold in the 150th Anniversary Humidor is limited. The filler also includes an undisclosed aged leaf.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, sizes and regular production confirmed on the maker page and halfwheel. Strength is Neptune's rating; the maker gives none. Rewrote notes: dropped an unchecked claim that Famous lists 6 x 54."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Devocion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Honduras",
+  "factory": "La Flor de Copan",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "coffee",
+   "spice"
+  ],
+  "about": "A Honduran-made Romeo y Julieta blended by Rafael Nodal and Altadis U.S.A.'s Grupo de Maestros as a tribute to the people who grow and roll cigars. It has an Ecuadorian Habano wrapper over a U.S. binder and Dominican and Honduran filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/romeo-y-julieta-devocion",
+   "https://www.neptunecigar.com/cigars/romeo-y-julieta-devocion-toro"
+  ],
+  "notes": "Devocion is Spanish for devotion. The published blend and factory match the JR Cigar exclusive Romeo y Julieta Pasion.",
+  "verified": true,
+  "verifyNotes": "All fields match Neptune's line and toro pages, the only source found. The maker's site has no page for it and no release year was found."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Envy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Jalapa)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Amulet",
+    "length": 6,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "cashew",
+   "pepper",
+   "sweetness"
+  ],
+  "about": "A limited Nicaraguan puro made for Altadis U.S.A. by Plasencia in Esteli, released as a follow-up to the Romeo y Julieta Eternal. It comes in one size, the Amulet, in boxes of 11 with a green band and an evil eye symbol.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/romeo-y-julieta-envy-amulet-toro/423189/",
+   "https://www.neptunecigar.com/cigar/romeo-y-julieta-envy",
+   "https://www.famous-smoke.com/brand-romeo-y-julieta-envy"
+  ],
+  "notes": "Limited to 100,000 cigars in one size, the 6 x 55 Amulet. Neptune lists it as Medium and Famous as Full; halfwheel's review found medium strength building to medium-full. Cigar Aficionado and Famous say the wrapper is aged leaf from Jalapa.",
+  "verified": true,
+  "verifyNotes": "Wrapper leaf made more specific: Cigar Aficionado's launch report and Famous both name a Jalapa wrapper. Other fields confirmed on halfwheel, Neptune and Famous."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "151st Kentucky Derby",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet spice",
+   "dried fruit",
+   "cedar"
+  ],
+  "about": "A limited Romeo y Julieta made in partnership with Churchill Downs for the 151st running of the Kentucky Derby in 2025. It is an all-Nicaraguan blend rolled in the Dominican Republic, sold in 20-count boxes and single coffins.",
+  "released": 2025,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/altadis-u-s-a-creates-romeo-y-julieta-for-the-kentucky-derby/449557/",
+   "https://www.cigaraficionado.com/article/a-romeo-y-julieta-made-just-for-the-kentucky-derby",
+   "https://www.neptunecigar.com/cigar/romeo-y-julieta-run-for-the-roses-limited-editio"
+  ],
+  "notes": "Limited to 1,350 boxes of 20, plus single coffins sold only at Churchill Downs during Derby Week. All-Nicaraguan tobacco but rolled in the Dominican Republic. Also called the 2025 Limited Edition Run For The Roses; a different Derby cigar came out in 2024.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed on halfwheel, Cigar Aficionado and Neptune; added the Cigar Aficionado article as a source. Notes: removed the unconfirmed name of the 2024 release and added this cigar's other name."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "152nd Kentucky Derby",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The 2026 Romeo y Julieta made with Churchill Downs for the 152nd Kentucky Derby. It is an all-Nicaraguan blend rolled at the Plasencia family's Tabacos de Oriente factory in Danli, Honduras, sold in 10-count boxes and single coffins.",
+  "released": 2026,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/romeo-y-julieta-152nd-kentucky-derby-coming-in-mid-april/465090/",
+   "https://www.cigaraficionado.com/article/a-rosy-romeo-returns-just-for-the-kentucky-derby",
+   "https://www.neptunecigar.com/cigar/romeo-y-julieta-run-for-the-roses-limited-editio"
+  ],
+  "notes": "Third Romeo y Julieta release for the Kentucky Derby. All-Nicaraguan tobacco but rolled in Honduras. Coffin singles were sold at Churchill Downs during Derby Week.",
+  "verified": true,
+  "verifyNotes": "Blend, factory and size confirmed on halfwheel and Cigar Aficionado; added the Cigar Aficionado article as a source. Strength rests only on Neptune's Medium tag. Notes: sources do not say the coffins were sold only at the track, so dropped 'only'."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Pasion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Honduras",
+  "factory": "Flor de Copan",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Romeo y Julieta line made for JR Cigar at the Flor de Copan factory in Honduras. It uses an Ecuadorian Habano wrapper, an American binder and Dominican and Honduran filler in a medium-bodied blend.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/romeo-y-julieta-pasion-heads-to-jr-cigar/375686/"
+  ],
+  "notes": "JR Cigar exclusive, launched May 1, 2020. Properly spelled Pasión. Current availability at JR was not confirmed.",
+  "verified": true,
+  "verifyNotes": "All fields match halfwheel's launch article. JR's own page could not be read, so regular production rests on halfwheel describing an ongoing line."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Edicion Limitada JR 50th",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Romeo y Julieta made by Altadis U.S.A. in 2021 to mark the 50th anniversary of retailer JR Cigar. It is a single 5 x 54 size with a Mexican criollo wrapper, sold only through JR.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/romeo-y-julieta-edicion-limitada-jr-50th-launching-next-week/389992/"
+  ],
+  "notes": "Limited to 500 boxes of 12 and sold only by JR Cigar. No strength rating was found.",
+  "verified": true,
+  "verifyNotes": "Blend, factory, size and the 500-box limit match halfwheel. No strength is given there and the maker's site has no page for it; JR's own page could not be read."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Esteli",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet spice"
+  ],
+  "about": "A full-bodied Nicaraguan puro sold only by Famous Smoke Shop, named for the cigar-making city of Esteli. It uses sun-grown Nicaraguan tobacco under a Nicaraguan Habano wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-romeo-y-julieta-esteli",
+   "https://www.famous-smoke.com/romeo-y-julieta-esteli-toro-cigars-natural"
+  ],
+  "notes": "Famous Smoke Shop exclusive. Famous calls it a Nicaraguan puro but does not name the factory or itemize binder and filler.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Verona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Short Magnum",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "sweet spice",
+   "roasted coffee",
+   "leather",
+   "nuts"
+  ],
+  "about": "A value-priced, medium-bodied Romeo y Julieta sold by Famous Smoke Shop as a companion to its Capulet and Montague lines. It has a dark Mexican San Andres wrapper over Dominican, Nicaraguan and Peruvian filler and is made in Honduras.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-romeo-y-julieta-verona",
+   "https://www.famous-smoke.com/romeo-y-julieta-verona-toro-cigars-natural"
+  ],
+  "notes": "Famous's spec table labels the wrapper leaf as Habano with Mexican origin, while its description calls it San Andres. The binder and factory are not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "House of Romeo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Connecticut seed",
+  "filler": "Honduras, Dominican Republic",
+  "country": "Honduras",
+  "factory": "Flor de Copan",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "dried fruit",
+   "earth",
+   "pepper",
+   "sweet spice"
+  ],
+  "about": "A Famous Smoke Shop exclusive that rounds out the retailer's House of collection alongside Capulet and Montague. It was blended by Altadis U.S.A.'s Grupo de Maestros with Rafael Nodal and is rolled at Flor de Copan in Honduras with an Ecuadorian Habano wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-romeo-y-julieta-house-of-romeo",
+   "https://www.famous-smoke.com/romeo-y-julieta-house-of-romeo-toro-cigars-natural"
+  ],
+  "notes": "Sold only at Famous. Famous rates it Medium but describes it as dark and full-bodied.",
+  "verified": true,
+  "verifyNotes": "Removed the flavor 'cedar', which Famous does not mention, and replaced it with 'sweet spice' from the toro page. Removed the note about a Dominican and Nicaraguan filler listing: neither Famous page says that."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "House of Romeo Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Morron",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A fuller version of the House of Romeo sold only by Famous Smoke Shop, with a dark Mexican San Andres wrapper over Nicaraguan binder and filler. The blend was developed with Altadis U.S.A.'s Grupo de Maestros.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-romeo-y-julieta-house-of-romeo-nicaragua",
+   "https://www.famous-smoke.com/ryj-house-of-romeo-nicaragua-churchill-cigars-maduro"
+  ],
+  "notes": "Famous Smoke Shop exclusive. Nicaragua refers to the binder and filler: Famous lists the country of origin as Honduras and does not name the factory.",
+  "verified": true,
+  "verifyNotes": "Fields match Famous. Binder and filler come from Famous's phrase 'all-Nicaraguan core'; they are not itemized."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "House of Capulet Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "La Flor de Copan",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet tobacco",
+   "oak",
+   "spice",
+   "coffee",
+   "earth",
+   "floral"
+  ],
+  "about": "A richer take on Famous Smoke Shop's House of Capulet that swaps the original Connecticut Shade wrapper for a Nicaraguan Habano 2000 leaf over all-Nicaraguan tobaccos. It is rolled at La Flor de Copan in Honduras.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-romeo-y-julieta-capulet-nicaragua",
+   "https://www.famous-smoke.com/brands/romeo-y-julieta-cigars/romeo-y-julieta-capulet"
+  ],
+  "notes": "Famous lists it as Capulet Nicaragua. Despite the name it is rolled in Honduras. The binder is not itemized beyond an all-Nicaraguan core.",
+  "verified": true,
+  "verifyNotes": "Fields match Famous, which titles the line Capulet Nicaragua and uses House of Capulet Nicaragua in the description."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Reserva Real Cabinet Seleccion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream"
+  ],
+  "about": "A cabinet-boxed offshoot of the Reserva Real carried by Famous Smoke Shop, with an Ecuadorian Connecticut Shade wrapper, Nicaraguan binder and Dominican and Nicaraguan filler. The cigars come bundled in wooden cabinet boxes without individual sleeves.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-romeo-y-julieta-reserva-real-cabinet-seleccion",
+   "https://www.famous-smoke.com/romeo-y-julieta-reserva-real-cabinet-seleccion-toro-cigars-natural"
+  ],
+  "notes": "Found only at Famous, which rates it Medium but describes it as leaning medium to full. Some sizes differ from the regular Reserva Real. The factory is not stated.",
+  "verified": true,
+  "verifyNotes": "Fields match Famous. Trimmed notes to three sentences (removed the stock remark)."
+ }
+]
