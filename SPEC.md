@@ -34,7 +34,7 @@ These came from Kohlton's answers and override the original brief where they dif
    - "No commit until I say save" still holds. "Save" now means commit, push to both hosts, and the live site updates a minute or two later.
    - Journal entries and photos never go to GitHub. Only code and the seed catalog are public. The site carries `noindex`.
 2. **Seed file.** Use `~/Downloads/stanley_pappas_cigar_list.xlsx` (dated Oct 9). The build session copies it to `seed/stanley-cigar-guide.xlsx`. The Downloads copy is left alone.
-3. **Each size is its own cigar** with its own page and score trend. Sizes of the same line link to each other.
+3. ~~Each size is its own cigar.~~ **Changed 2026-10-10: the size is noted on each smoke** (`vitola`, `lengthIn`, `ringGauge` on the smoke), picked from chips on the last log step. A cigar stays one entry per line with one score trend. A cigar's own size fields remain for cigars Kohlton adds by hand, and a smoke with no size falls back to them. See section 23.
 4. **Extra sheet columns kept:** "Other Wrapper Versions" and "If they like this, suggest", as reference text on the cigar page. Not kept: Smoke Time, Best For, Wrapper Confidence, Tried it.
 5. **Extra field:** "Price paid" on a smoke, for singles bought and smoked the same day. It feeds spend by month.
 6. **Sheet flavor notes show on the cigar page only.** Nothing is suggested in the tag picker while tasting.
@@ -749,8 +749,19 @@ Scripts to define in `package.json`:
 - **Styles** are plain CSS files in `src/styles/` (tokens, fonts, base, app), not CSS modules.
 - **Fonts** are loaded with our own `@font-face` rules pointing at the two Latin woff2 files in the fontsource packages, so only two font files ship.
 - **Screenshots** were taken with Playwright driving Chrome (`channel: "chrome"`, borrowed from `~/site-audit`), because Claude in Chrome was not available in the build session.
+- **Bigger cigar list** (Kohlton's request, 2026-10-10): `seed/general-cigars.txt` adds 819 lines across the major brands, written from general knowledge and not checked against the makers. The seed script merges it after the lounge sheet (the sheet wins on the same brand and line), for 946 cigars in 121 brands, all unconfirmed. `SEED_VERSION` is 2, so a device that seeded the first list gains the new cigars without touching its own edits. Bump it again whenever the list changes.
+- **Size on the smoke**: see decision 3 in section 2. Records saved before the size fields existed get them as empty when loaded, so no database version bump was needed. Common sizes live in `src/domain/sizes.ts`.
+- **Livelier look** (Kohlton's request, 2026-10-10; no artwork of cigars, since his own photos of bands and sticks are the pictures). This loosens "the interface stays calm" in section 12, within the same palette and fonts:
+  - Journal header card with the average as a score ring, counts, and a line chart of the last 12 scores, over a slow drifting glow.
+  - Score rings around score numerals everywhere (70 to 100 mapped onto the circle). "Box-worthy" reads in cedar green.
+  - Flavor tags carry a dot in their family's color (`--fam-*` tokens). Wrapper names carry a leaf-shade dot (`--leaf-*`). The picker shows a brass medallion with the brand's initials.
+  - The newest smoke shows its photo wide across the card; other cards use an 88 px thumbnail. Month headings break up the list.
+  - Motion: screens and cards ease in, rings and bars fill, numerals count up, taps press and pop. All of it stops under `prefers-reduced-motion`.
+  - The soft glow on the Log button is the one exception to "no drop shadows".
+  - Build the remaining screens in this livelier style.
 - **Fills the window** (Kohlton's request at the design checkpoint, 2026-10-10): no screen sits in a narrow centered column. From 768 px up the log flow spans the full width: cigar rows flow into columns, the four scales sit two by two with no scrolling, and Finish puts flavors beside photos. On a laptop the journal's right pane opens the newest smoke when none is picked, and the smoke detail fills its pane (photo beside the details once the pane is 820 px or wider). Build the remaining screens the same way.
 - **Stick photos**: a "Stick" photo type was added next to Band and Wrapper at Kohlton's request.
+- **Pages had to be switched on by hand** before the first deploy: `gh api -X POST repos/MileHighPatriot/cigar-journal/pages -f build_type=workflow`. The workflow's own token cannot create the Pages site.
 - **Step 4 status**: steps 0 to 3 are built. Humidor, Stats, Cigars, Wishlist, Compare, and Settings show a one-line placeholder until their steps. The Full switch on the picker saves the choice but still runs the quick flow until step 5.
 
 ## 24. Ideas noticed during planning (not in Phase 1)

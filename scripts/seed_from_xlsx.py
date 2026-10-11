@@ -1,6 +1,8 @@
-"""One-time converter: lounge sheet (xlsx) -> src/seed/catalog.json.
+"""Converter: lounge sheet (xlsx) plus the general list -> src/seed/catalog.json.
 
 Standard library only. Run with: npm run seed
+Bump SEED_VERSION whenever the output changes, so devices that already seeded pick up
+the new cigars. Existing ids are never overwritten on a device.
 """
 import json
 import sys
@@ -15,7 +17,7 @@ P = "http://schemas.openxmlformats.org/package/2006/relationships"
 # Fixed so the phone and the laptop seed identical records and a merge never doubles the catalog.
 NAMESPACE = uuid.UUID("6f1d2c1e-5b0a-4f0e-9a51-c16a47b0a001")
 SEED_TIMESTAMP = "2026-10-10T00:00:00.000Z"
-SEED_VERSION = 1
+SEED_VERSION = 2
 
 STRENGTH = {"mild": 1, "mild-medium": 2, "medium": 3, "medium-full": 4, "full": 5}
 PRICE = {"$": 1, "$$": 2, "$$$": 3}
@@ -133,7 +135,33 @@ def record(brand, line, **fields):
     return base
 
 
-def main(src, dest):
+def general_list(path):
+    """Brand|Line|Strength|Wrapper|Country, one per line. '#' starts a comment."""
+    rows = []
+    with open(path, encoding="utf-8") as f:
+        for number, raw in enumerate(f, 1):
+            line = raw.strip()
+            if not line or line.startswith("#"):
+                continue
+            parts = [part.strip() for part in line.split("|")]
+            if len(parts) != 5:
+                raise SystemExit("%s line %d: expected 5 fields" % (path, number))
+            brand, name, strength, wrapper, country = parts
+            if strength and strength.lower() not in STRENGTH:
+                raise SystemExit("%s line %d: unknown strength %r" % (path, number, strength))
+            rows.append(
+                record(
+                    brand,
+                    name,
+                    strength=STRENGTH.get(strength.lower()),
+                    wrapperType=wrapper or None,
+                    country=country or None,
+                )
+            )
+    return rows
+
+
+def main(src, dest, general=None):
     book = load(src)
     cigars = []
 
@@ -174,6 +202,16 @@ def main(src, dest):
     if len(ids) != len(cigars):
         raise SystemExit("Duplicate brand + line in the sheet")
 
+    sheet_count = len(cigars)
+    if general:
+        for cigar in general_list(general):
+            # The lounge sheet wins when both list the same brand and line.
+            if cigar["id"] in ids:
+                continue
+            ids.add(cigar["id"])
+            cigars.append(cigar)
+    print("%d from the lounge sheet, %d from the general list" % (sheet_count, len(cigars) - sheet_count))
+
     with open(dest, "w", encoding="utf-8") as f:
         json.dump({"seedVersion": SEED_VERSION, "cigars": cigars}, f, ensure_ascii=False, indent=1)
         f.write("\n")
@@ -181,4 +219,4 @@ def main(src, dest):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1], sys.argv[2], sys.argv[3] if len(sys.argv) > 3 else None)

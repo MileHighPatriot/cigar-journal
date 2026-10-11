@@ -16,6 +16,44 @@
   --error: #e07a6a;
   --destructive: #8e332c;
 
+  /* Flavor families: a dot of color beside each tag. Decorative, never the only cue. */
+  --fam-wood: #b08355;
+  --fam-earth: #8c7a62;
+  --fam-leather: #a0623d;
+  --fam-cream: #e3d2b0;
+  --fam-pepper: #c2543f;
+  --fam-spice: #c98b45;
+  --fam-sweet: #d9a441;
+  --fam-cocoa: #7b5540;
+  --fam-nut: #b5946a;
+  --fam-toast: #d1b07a;
+  --fam-fruit: #b34b5e;
+  --fam-floral: #c4a0b5;
+  --fam-herbal: #8fa36b;
+  --fam-off: #8e9aa0;
+  --fam-custom: #b3a48e;
+
+  /* Wrapper leaf shades, light to dark. */
+  --leaf-connecticut: #c9a66b;
+  --leaf-candela: #7c8b4a;
+  --leaf-claro: #c2a06a;
+  --leaf-natural: #9a6b3f;
+  --leaf-cameroon: #8a5a34;
+  --leaf-sumatra: #80512e;
+  --leaf-corojo: #7a4526;
+  --leaf-criollo: #744327;
+  --leaf-habano: #6e3f24;
+  --leaf-rosado: #8b4a32;
+  --leaf-colorado: #7b4429;
+  --leaf-matafina: #4a2c1c;
+  --leaf-sanandres: #3b2317;
+  --leaf-maduro: #33201a;
+
+  /* Ambient glow behind page headers. */
+  --glow-brass: rgb(201 160 99 / 0.16);
+  --glow-ember: rgb(190 84 52 / 0.12);
+  --glow-cedar: rgb(126 154 106 / 0.55);
+
   --font-display: "Libre Caslon Display", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
   --font-body: "IBM Plex Sans Variable", system-ui, -apple-system, sans-serif;
 

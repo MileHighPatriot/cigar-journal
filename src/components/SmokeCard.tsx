@@ -1,59 +1,74 @@
 import { Link } from 'wouter'
 import type { Photo } from '../data/types'
-import { cigarSubtitle, cigarTitle, formatDate, formatMinutes } from '../domain/format'
+import { cigarTitle, formatDate, formatMinutes } from '../domain/format'
 import { shownScore, verdictFor } from '../domain/scoring'
 import type { SmokeRow } from '../domain/search'
+import { smokeSize } from '../domain/sizes'
 import { effectiveTags } from '../domain/tags'
 import { usePhotoUrl } from '../photos/usePhotoUrl'
+import { FlavorTags } from './FlavorTags'
 import { useNearViewport } from './hooks'
+import { ScoreRing } from './ScoreRing'
 
 interface Props {
   row: SmokeRow
   /** The photo to show, already picked by the list (band first). */
   photo: Photo | undefined
   selected?: boolean
+  /** The newest smoke gets a wide photo across the top. */
+  featured?: boolean
 }
 
-export function SmokeCard({ row, photo, selected }: Props) {
+export function SmokeCard({ row, photo, selected, featured }: Props) {
   const { smoke, cigar } = row
   const [ref, near] = useNearViewport<HTMLAnchorElement>()
-  const thumb = usePhotoUrl(photo?.id, 'thumb', near)
+  const wide = Boolean(featured && photo)
+  const image = usePhotoUrl(photo?.id, wide ? 'full' : 'thumb', near)
   const shown = smoke.score === null ? null : shownScore(smoke.score)
   const tags = effectiveTags(smoke).slice(0, 3)
+  const size = smokeSize(smoke, cigar)
   const meta = [formatDate(smoke.smokedAt), formatMinutes(smoke.durationMin)].filter(Boolean)
+  const verdict = shown === null ? null : verdictFor(shown)
 
   return (
     <Link
       ref={ref}
       href={`/smokes/${smoke.id}`}
-      className="smoke-card"
+      className={wide ? 'smoke-card is-featured' : 'smoke-card'}
       aria-current={selected ? 'true' : undefined}
     >
       {/* The one signature detail: a brass band rule with the brand in small caps. */}
       <span className="band">
         <span className="band-brand">{cigar?.brand || 'Unknown brand'}</span>
       </span>
+      {wide && (
+        <span className="smoke-card-photo">
+          {image && <img src={image} alt="" loading="lazy" />}
+        </span>
+      )}
       <span className="smoke-card-body">
-        {photo && (
+        {photo && !wide && (
           <span className="smoke-card-thumb">
-            {thumb && <img src={thumb} alt="" width={72} height={72} />}
+            {image && <img src={image} alt="" width={88} height={88} />}
           </span>
         )}
         <span className="smoke-card-main">
           <span className="smoke-card-title">{cigar ? cigarTitle(cigar) : 'Unknown cigar'}</span>
-          {cigar && cigarSubtitle(cigar) && (
-            <span className="smoke-card-sub">{cigarSubtitle(cigar)}</span>
-          )}
+          {size && <span className="smoke-card-sub">{size}</span>}
           <span className="smoke-card-meta num">{meta.join(' · ')}</span>
-          {tags.length > 0 && <span className="smoke-card-tags">{tags.join(' · ')}</span>}
+          <FlavorTags tags={tags} className="smoke-card-tags" />
         </span>
         <span className="smoke-card-score">
           {shown === null ? (
             <span className="smoke-card-noscore">No score</span>
           ) : (
             <>
-              <span className="numeral num">{shown}</span>
-              <span className="smoke-card-verdict">{verdictFor(shown)}</span>
+              <ScoreRing shown={shown} size={68}>
+                <span className="numeral numeral-sm num">{shown}</span>
+              </ScoreRing>
+              <span className="verdict" data-verdict={verdict}>
+                {verdict}
+              </span>
             </>
           )}
         </span>

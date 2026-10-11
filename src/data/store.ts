@@ -99,7 +99,10 @@ export async function reloadFromDisk() {
   const toMap = <T extends { id: string }>(rows: T[]) => new Map(rows.map((row) => [row.id, row]))
   setState({
     cigars: toMap(cigars),
-    smokes: toMap(smokes),
+    // Smokes saved before the size fields existed get them as empty.
+    smokes: toMap(
+      smokes.map((smoke) => ({ ...{ vitola: null, lengthIn: null, ringGauge: null }, ...smoke })),
+    ),
     lots: toMap(lots),
     wishlist: toMap(wishlist),
     customTags: toMap(customTags),

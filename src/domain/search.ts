@@ -17,6 +17,7 @@ export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): 
       cigar?.brand,
       cigar?.line,
       cigar?.vitola,
+      smoke.vitola,
       cigar?.wrapperType,
       cigar?.country,
       smoke.summary,

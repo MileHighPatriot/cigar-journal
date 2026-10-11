@@ -1,6 +1,6 @@
 // Dev only. Makes fake smokes for screenshots and the 500-entry speed check.
 // Every fake record id starts with "fake-" so it can be removed exactly.
-import { newCigar, newLot, newPhoto, newSmoke } from '../data/factories'
+import { newLot, newPhoto, newSmoke } from '../data/factories'
 import { IdbRepository } from '../data/repository'
 import { getRepo, getState, reloadFromDisk } from '../data/store'
 import type { Cigar, Lot, Photo, PhotoKind, Smoke } from '../data/types'
@@ -101,23 +101,8 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
   const seedCigars = [...getState().cigars.values()].filter((c) => !c.deletedAt && c.line)
   const words = TAG_FAMILIES.flatMap((family) => family.words)
 
-  // A handful of sized cigars copied from seeded lines, so sizes show in the list.
-  const cigars: Cigar[] = []
-  for (let i = 0; i < 18; i++) {
-    const base = pick(random, seedCigars)
-    const [vitola, lengthIn, ringGauge] = pick(random, SIZES)
-    cigars.push(
-      newCigar({
-        ...base,
-        id: fakeId(),
-        vitola,
-        lengthIn,
-        ringGauge,
-        confirmed: true,
-        source: 'manual',
-      }),
-    )
-  }
+  // A handful of seeded lines, so the same cigars come up more than once.
+  const cigars: Cigar[] = Array.from({ length: 18 }, () => pick(random, seedCigars))
 
   const lots: Lot[] = cigars
     .slice(0, 3)
@@ -130,6 +115,7 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
   const now = Date.now()
   for (let i = 0; i < count; i++) {
     const cigar = pick(random, cigars)
+    const [vitola, lengthIn, ringGauge] = pick(random, SIZES)
     const quality = 6.2 + random() * 2.8
     const ratings = {
       appearance: halfSteps(random, quality),
@@ -145,6 +131,9 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
       newSmoke(cigar.id, {
         id: fakeId(),
         status: 'complete',
+        vitola,
+        lengthIn,
+        ringGauge,
         smokedAt,
         createdAt: smokedAt,
         ratings,
@@ -181,7 +170,7 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
     }
   }
 
-  await repo.putMany({ cigars, lots, smokes, photos })
+  await repo.putMany({ lots, smokes, photos })
   await reloadFromDisk()
 }
 

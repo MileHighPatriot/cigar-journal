@@ -2,6 +2,7 @@ import { Plus, Search, X } from 'lucide-react'
 import { type FormEvent, useEffect, useMemo, useState } from 'react'
 import { useLocation } from 'wouter'
 import { FlowLayout } from '../components/FlowLayout'
+import { Monogram, WrapperDot } from '../components/Monogram'
 import { Sheet } from '../components/Sheet'
 import { newCigar, newSmoke } from '../data/factories'
 import { getRepo, saveBatch, useStore } from '../data/store'
@@ -17,10 +18,14 @@ function CigarRow({ cigar, note, onPick }: { cigar: Cigar; note?: string; onPick
   return (
     <li>
       <button type="button" className="pick-row" onClick={onPick}>
+        <Monogram brand={cigar.brand || cigar.line} />
         <span className="pick-main">
           <span className="pick-brand">{cigar.brand}</span>
           <span className="pick-title">{cigarTitle(cigar)}</span>
-          {cigarSubtitle(cigar) && <span className="muted">{cigarSubtitle(cigar)}</span>}
+          <span className="pick-sub">
+            {cigarSubtitle(cigar) && <span>{cigarSubtitle(cigar)}</span>}
+            <WrapperDot wrapper={cigar.wrapperType} />
+          </span>
         </span>
         <span className="pick-note muted num">{note ?? levelLabel(cigar.strength)}</span>
       </button>

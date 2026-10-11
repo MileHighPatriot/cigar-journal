@@ -97,6 +97,10 @@ export interface Smoke extends SyncFields {
   lotId: string | null
   pricePaid: number | null
   smokedAt: Iso
+  /** Size noted on this smoke. The cigar itself stays one entry per line. */
+  vitola: string | null
+  lengthIn: number | null
+  ringGauge: number | null
   timerStartedAt: Iso | null
   timerStoppedAt: Iso | null
   durationMin: number | null

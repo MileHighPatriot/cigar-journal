@@ -4,7 +4,9 @@ import { Link, useLocation } from 'wouter'
 import { FlowLayout } from '../components/FlowLayout'
 import { useAutosaveText } from '../components/hooks'
 import { PhotoSection } from '../components/PhotoSection'
+import { ScoreRing } from '../components/ScoreRing'
 import { Sheet } from '../components/Sheet'
+import { SizePicker } from '../components/SizePicker'
 import { TagPicker } from '../components/TagPicker'
 import { showToast } from '../components/toast'
 import { patchSmoke, useStore, whenSaved } from '../data/store'
@@ -105,9 +107,13 @@ export function LogFinish({ id }: { id: string }) {
     >
       {score && (
         <div className="readout readout-static">
-          <span className="numeral numeral-lg num">{score.shown}</span>
+          <ScoreRing shown={score.shown} size={72} stroke={4}>
+            <span className="numeral numeral-sm num">{score.shown}</span>
+          </ScoreRing>
           <span className="readout-text">
-            <span className="readout-verdict">{verdictFor(score.shown)}</span>
+            <span className="verdict verdict-lg" data-verdict={verdictFor(score.shown)}>
+              {verdictFor(score.shown)}
+            </span>
             <span className="muted">Lounge 100</span>
           </span>
         </div>
@@ -142,6 +148,8 @@ export function LogFinish({ id }: { id: string }) {
 
         <div className="finish-side">
           <PhotoSection smokeId={id} />
+
+          <SizePicker smoke={smoke} />
 
           {smoke.lotId === null && (
             <section className="stack">

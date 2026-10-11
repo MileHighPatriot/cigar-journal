@@ -22,7 +22,7 @@ Phase 1 build in progress. Steps 0 to 3 of SPEC section 16 are done (setup, shel
 
 ## Addresses (each has its own separate data)
 
-- Live, the real app: https://milehighpatriot.github.io/cigar-journal/ (TODO(build): exists after the first "save")
+- Live, the real app: https://milehighpatriot.github.io/cigar-journal/ (live since 2026-10-10; each save updates it)
 - Mac: http://localhost:5173 (dev), http://localhost:4173 (preview; offline and install checks happen here)
 - Phone layout preview on home Wi-Fi: http://kohltons-macbook-pro.local:5173, or by IP from `ipconfig getifaddr en0`. Plain HTTP, so no offline or install there. Test data only.
 
@@ -45,6 +45,7 @@ Phase 1 build in progress. Steps 0 to 3 of SPEC section 16 are done (setup, shel
 - Dark only. Libre Caslon Display for titles and the score numeral (24 px and up), IBM Plex Sans for the rest, tabular numbers for scores, dates, and counts.
 - Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone.
 - The brass "band" rule belongs on smoke cards only.
+- The look is lively on purpose (score rings, charts, color dots, motion; SPEC section 23), but no artwork or stock pictures of cigars: Kohlton's own photos are the pictures. Honor reduced motion.
 - The "avoid" list in SPEC section 12 is binding.
 
 ## Verify before calling anything done

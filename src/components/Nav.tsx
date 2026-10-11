@@ -102,7 +102,10 @@ export function Sidebar() {
   const items = [journal, cigars, humidor, wishlist, stats, compare, settings]
   return (
     <nav className="sidebar" aria-label="Main">
-      <p className="sidebar-name">Cigar Journal</p>
+      <p className="sidebar-name">
+        <img className="sidebar-mark" src={`${import.meta.env.BASE_URL}icon.svg`} alt="" />
+        Cigar Journal
+      </p>
       <Link href="/log" className="btn btn-primary btn-block">
         <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
         New log

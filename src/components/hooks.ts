@@ -97,3 +97,32 @@ export function useMediaQuery(query: string): boolean {
 
 export const LAPTOP = '(min-width: 1024px)'
 export const TABLET_UP = '(min-width: 768px)'
+
+/** Counts up to a number over a short moment. Jumps straight there with reduced motion. */
+export function useCountUp(target: number | null, ms = 350): number | null {
+  const [value, setValue] = useState(target)
+  const from = useRef(target)
+
+  useEffect(() => {
+    if (target === null || from.current === null || prefersReducedMotion()) {
+      from.current = target
+      setValue(target)
+      return
+    }
+    const start = from.current
+    const began = performance.now()
+    let frame = 0
+    const tick = (now: number) => {
+      const progress = Math.min(1, (now - began) / ms)
+      const eased = 1 - (1 - progress) ** 3
+      const next = Math.round(start + (target - start) * eased)
+      from.current = next
+      setValue(next)
+      if (progress < 1) frame = requestAnimationFrame(tick)
+    }
+    frame = requestAnimationFrame(tick)
+    return () => cancelAnimationFrame(frame)
+  }, [target, ms])
+
+  return value
+}

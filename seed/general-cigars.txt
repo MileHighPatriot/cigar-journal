@@ -1,0 +1,1062 @@
+# General cigar list, written from general knowledge and NOT checked against the makers.
+# Every record is seeded as "unconfirmed". Blank fields mean "not sure".
+# Format: Brand|Line|Strength|Wrapper|Country made
+# Strength: Mild, Mild-Medium, Medium, Medium-Full, Full. Wrapper uses the lounge sheet's words.
+# Lines already in the lounge sheet are skipped by the seed script (same brand and line).
+
+# 5 Vegas
+5 Vegas|Gold|Mild|Connecticut|Honduras
+5 Vegas|Classic|Medium|Sumatra|Nicaragua
+5 Vegas|Series A|Medium||Nicaragua
+5 Vegas|Triple-A|Full||Nicaragua
+5 Vegas|Miami|Medium-Full||Nicaragua
+
+# 601
+601|Blue Label Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+601|Red Label Habano|Full|Habano|Nicaragua
+601|Green Label Oscuro|Full|Habano|Nicaragua
+601|La Bomba|Full|Habano|Nicaragua
+
+# Acid
+Acid|Kuba Kuba|Medium|Sumatra|Nicaragua
+Acid|Blondie|Mild-Medium|Connecticut|Nicaragua
+Acid|Toast|Medium|Maduro/Broadleaf|Nicaragua
+Acid|Cold Infusion|Mild|Connecticut|Nicaragua
+Acid|Kuba Maduro|Medium|Maduro/Broadleaf|Nicaragua
+Acid|1400cc|Medium|Sumatra|Nicaragua
+Acid|20 Connecticut|Mild-Medium|Connecticut|Nicaragua
+
+# Aganorsa Leaf
+Aganorsa Leaf|Signature Selection|Medium-Full|Corojo|Nicaragua
+Aganorsa Leaf|Signature Maduro|Medium-Full|San Andrés|Nicaragua
+Aganorsa Leaf|Rare Leaf|Medium-Full|Corojo|Nicaragua
+Aganorsa Leaf|Rare Leaf Maduro|Full|Maduro/Broadleaf|Nicaragua
+Aganorsa Leaf|Supreme Leaf|Medium-Full|Corojo|Nicaragua
+Aganorsa Leaf|Connecticut|Mild-Medium|Connecticut|Nicaragua
+Aganorsa Leaf|Guardian of the Farm|Medium-Full|Corojo|Nicaragua
+Aganorsa Leaf|JFR Lunatic|Full||Nicaragua
+Aganorsa Leaf|JFR Corojo|Medium-Full|Corojo|Nicaragua
+Aganorsa Leaf|JFR Maduro|Medium-Full|San Andrés|Nicaragua
+
+# Aging Room
+Aging Room|Quattro Nicaragua|Medium-Full|Sumatra|Nicaragua
+Aging Room|Quattro Original|Medium|Sumatra|Dominican Republic
+Aging Room|Quattro Connecticut|Mild-Medium|Connecticut|Dominican Republic
+Aging Room|Quattro Maduro|Medium-Full|San Andrés|Nicaragua
+Aging Room|Pura Cepa|Medium-Full|Habano|Nicaragua
+Aging Room|Rare Collection|Medium-Full||Nicaragua
+Aging Room|Core Habano|Medium|Habano|Dominican Republic
+
+# AJ Fernandez
+AJ Fernandez|New World Puro Especial|Medium-Full|Habano|Nicaragua
+AJ Fernandez|New World Connecticut|Mild-Medium|Connecticut|Nicaragua
+AJ Fernandez|New World Cameroon|Medium|Cameroon|Nicaragua
+AJ Fernandez|New World Oscuro|Medium-Full|Habano|Nicaragua
+AJ Fernandez|San Lotano Requiem Habano|Medium-Full|Habano|Nicaragua
+AJ Fernandez|San Lotano Requiem Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+AJ Fernandez|San Lotano The Bull|Full|Habano|Nicaragua
+AJ Fernandez|Last Call|Medium|Habano|Nicaragua
+AJ Fernandez|Last Call Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+AJ Fernandez|Enclave Broadleaf|Full|Maduro/Broadleaf|Nicaragua
+AJ Fernandez|Dias de Gloria Brazil|Medium-Full|Mata Fina|Nicaragua
+AJ Fernandez|Bellas Artes Maduro|Medium-Full|Mata Fina|Nicaragua
+AJ Fernandez|Blend 15|Medium|Habano|Nicaragua
+
+# Alec Bradley
+Alec Bradley|Prensado|Medium-Full|Corojo|Honduras
+Alec Bradley|Tempus Natural|Medium-Full|Criollo|Honduras
+Alec Bradley|Black Market|Medium-Full||Honduras
+Alec Bradley|Black Market Estelí|Medium-Full||Nicaragua
+Alec Bradley|Magic Toast|Medium-Full||Honduras
+Alec Bradley|American Sun Grown|Medium|Natural/Sun Grown|Nicaragua
+Alec Bradley|American Classic|Mild-Medium|Connecticut|Nicaragua
+Alec Bradley|Connecticut|Mild-Medium|Connecticut|Honduras
+Alec Bradley|Project 40|Medium||Nicaragua
+Alec Bradley|Project 40 Maduro|Medium|San Andrés|Nicaragua
+Alec Bradley|Kintsugi|Medium|Habano|Honduras
+Alec Bradley|Gatekeeper|Medium|Habano|Dominican Republic
+Alec Bradley|Nica Puro|Medium-Full||Nicaragua
+Alec Bradley|Fine & Rare|Full||Honduras
+Alec Bradley|The Lineage|Medium-Full||Honduras
+Alec Bradley|Double Broadleaf|Medium-Full|Maduro/Broadleaf|Honduras
+Alec Bradley|Blind Faith|Medium-Full||Honduras
+
+# All Saints
+All Saints|Dedicación|Medium|Habano|Nicaragua
+All Saints|Dedicación Maduro|Medium-Full||Nicaragua
+All Saints|St. Francis|Medium-Full||Nicaragua
+All Saints|Solamente|Medium||Nicaragua
+
+# Arturo Fuente
+Arturo Fuente|Hemingway|Medium|Cameroon|Dominican Republic
+Arturo Fuente|Hemingway Signature|Medium|Cameroon|Dominican Republic
+Arturo Fuente|Hemingway Classic|Medium|Cameroon|Dominican Republic
+Arturo Fuente|Hemingway Work of Art|Medium|Cameroon|Dominican Republic
+Arturo Fuente|Hemingway Maduro|Medium|Maduro/Broadleaf|Dominican Republic
+Arturo Fuente|Añejo|Full|Maduro/Broadleaf|Dominican Republic
+Arturo Fuente|Casa Cuba|Medium|Habano|Dominican Republic
+Arturo Fuente|Rosado Sungrown Magnum R|Medium|Rosado|Dominican Republic
+Arturo Fuente|Chateau Fuente Sun Grown|Medium|Natural/Sun Grown|Dominican Republic
+Arturo Fuente|Chateau Fuente Maduro|Medium|Maduro/Broadleaf|Dominican Republic
+Arturo Fuente|Gran Reserva|Medium|Cameroon|Dominican Republic
+Arturo Fuente|Curly Head Deluxe Maduro|Mild-Medium|Maduro/Broadleaf|Dominican Republic
+Arturo Fuente|Brevas Royale|Mild-Medium||Dominican Republic
+Arturo Fuente|Don Carlos Eye of the Shark|Medium-Full|Cameroon|Dominican Republic
+Arturo Fuente|Opus X Angel's Share|Medium-Full|Rosado|Dominican Republic
+Arturo Fuente|Between the Lines|Medium||Dominican Republic
+Arturo Fuente|Casa Fuente|Medium-Full|Cameroon|Dominican Republic
+
+# Ashton
+Ashton|Heritage Puro Sol|Medium|Cameroon|Dominican Republic
+Ashton|Symmetry|Medium-Full|Habano|Dominican Republic
+Ashton|Benchmade|Mild-Medium|Connecticut|Dominican Republic
+
+# Asylum
+Asylum|13|Full|Habano|Honduras
+Asylum|13 Connecticut|Mild-Medium|Connecticut|Honduras
+Asylum|Straight Jacket|Full|Habano|Honduras
+Asylum|Nyctophilia|Medium-Full|San Andrés|Honduras
+Asylum|Lobotomy|Full|Habano|Honduras
+
+# AVO
+AVO|XO|Mild-Medium|Connecticut|Dominican Republic
+AVO|Maduro|Medium|Maduro/Broadleaf|Dominican Republic
+AVO|Syncro Nicaragua|Medium|Connecticut|Dominican Republic
+AVO|Syncro Nicaragua Fogata|Medium|Habano|Dominican Republic
+AVO|Syncro South America Ritmo|Medium-Full||Dominican Republic
+
+# Baccarat
+Baccarat|Havana Selection Maduro|Mild|Maduro/Broadleaf|Honduras
+Baccarat|Candela|Mild|Candela|Honduras
+
+# Balmoral
+Balmoral|Añejo XO|Medium||Dominican Republic
+Balmoral|Añejo XO Oscuro|Medium-Full|San Andrés|Dominican Republic
+Balmoral|Añejo XO Connecticut|Mild-Medium|Connecticut|Dominican Republic
+Balmoral|Serie Signaturas Dueto|Medium||Nicaragua
+
+# Black Label Trading Co.
+Black Label Trading Co.|Lawless|Medium-Full|Habano|Nicaragua
+Black Label Trading Co.|Salvation|Medium-Full|Habano|Nicaragua
+Black Label Trading Co.|Royalty|Medium|Corojo|Nicaragua
+Black Label Trading Co.|Last Rites|Full|Maduro/Broadleaf|Nicaragua
+Black Label Trading Co.|Bishops Blend|Full|Maduro/Broadleaf|Nicaragua
+
+# Black Works Studio
+Black Works Studio|Killer Bee|Medium-Full|Maduro/Broadleaf|Nicaragua
+Black Works Studio|NBK|Medium-Full|Habano|Nicaragua
+Black Works Studio|Rorschach|Medium||Nicaragua
+
+# Blackbird
+Blackbird|Crow|Medium||Dominican Republic
+Blackbird|Rook|Medium-Full||Dominican Republic
+Blackbird|Cuco|Medium||Dominican Republic
+Blackbird|Finch|Mild-Medium|Connecticut|Dominican Republic
+
+# Bolivar
+Bolivar|Cofradia|Full|Habano|Honduras
+
+# C.L.E.
+C.L.E.|Connecticut|Mild-Medium|Connecticut|Honduras
+C.L.E.|Corojo|Medium|Corojo|Honduras
+C.L.E.|Habano|Medium|Habano|Honduras
+C.L.E.|Prieto|Medium-Full|Maduro/Broadleaf|Honduras
+C.L.E.|Chele|Medium|Connecticut|Honduras
+C.L.E.|25th Anniversary|Medium||Honduras
+C.L.E.|Azabache|Medium||Honduras
+
+# Cain
+Cain|F|Full|Habano|Nicaragua
+Cain|Habano|Full|Habano|Nicaragua
+Cain|Maduro|Full|Maduro/Broadleaf|Nicaragua
+Cain|Daytona|Medium||Nicaragua
+
+# Caldwell
+Caldwell|Blind Man's Bluff|Medium|Habano|Honduras
+Caldwell|Blind Man's Bluff Connecticut|Mild-Medium|Connecticut|Honduras
+Caldwell|Blind Man's Bluff Maduro|Medium-Full|San Andrés|Honduras
+Caldwell|The King Is Dead|Medium||Dominican Republic
+Caldwell|Savages|Medium|Habano|Dominican Republic
+Caldwell|Anastasia|Medium||Dominican Republic
+Caldwell|Midnight Express|Medium-Full||Dominican Republic
+Caldwell|Yellow Cake|Medium||Dominican Republic
+Caldwell|The T|Medium-Full|San Andrés|Nicaragua
+Caldwell|All Out Kings|Full||Nicaragua
+
+# Camacho
+Camacho|Corojo|Full|Corojo|Honduras
+Camacho|Connecticut|Mild-Medium|Connecticut|Honduras
+Camacho|Criollo|Medium-Full|Criollo|Honduras
+Camacho|Ecuador|Medium-Full|Habano|Honduras
+Camacho|Triple Maduro|Full|San Andrés|Honduras
+Camacho|Broadleaf|Medium-Full|Maduro/Broadleaf|Honduras
+Camacho|American Barrel-Aged|Medium-Full|Maduro/Broadleaf|Dominican Republic
+Camacho|Nicaragua|Medium-Full||Honduras
+Camacho|Diploma|Full|Corojo|Honduras
+Camacho|Coyolar|Full||Honduras
+
+# CAO
+CAO|Italia|Medium-Full|Habano|Nicaragua
+CAO|America|Medium-Full||Nicaragua
+CAO|Colombia|Medium||Nicaragua
+CAO|Mx2|Medium-Full|Maduro/Broadleaf|Nicaragua
+CAO|Black|Mild-Medium|Connecticut|Nicaragua
+CAO|Cameroon|Medium|Cameroon|Nicaragua
+CAO|Maduro|Medium|Maduro/Broadleaf|Nicaragua
+CAO|La Traviata|Medium-Full|Habano|Nicaragua
+CAO|La Traviata Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+CAO|Session|Medium|Maduro/Broadleaf|Nicaragua
+CAO|Nicaragua|Medium-Full||Nicaragua
+CAO|Bones|Medium-Full|Maduro/Broadleaf|Nicaragua
+CAO|BX3|Medium-Full|Mata Fina|Nicaragua
+CAO|Fuma em Corda|Medium-Full||Nicaragua
+CAO|Zócalo|Medium-Full|San Andrés|Nicaragua
+CAO|Moontrance|Mild|Cameroon|Nicaragua
+CAO|Bella Vanilla|Mild|Cameroon|Nicaragua
+CAO|Eileen's Dream|Mild|Cameroon|Nicaragua
+
+# Casa Magna
+Casa Magna|Colorado|Medium-Full|Colorado|Nicaragua
+Casa Magna|Oscuro|Medium-Full||Honduras
+Casa Magna|Liga F|Full||Nicaragua
+
+# Casa Turrent
+Casa Turrent|1880|Medium|San Andrés|Mexico
+Casa Turrent|1942|Medium-Full|San Andrés|Mexico
+Casa Turrent|1901|Medium||Mexico
+Casa Turrent|Origins|Medium||Mexico
+
+# Cavalier Genève
+Cavalier Genève|White Series|Medium|Habano|Honduras
+Cavalier Genève|Black Series II|Medium-Full|San Andrés|Honduras
+Cavalier Genève|Viso Jalapa|Medium||Honduras
+
+# Cohiba
+Cohiba|Blue|Medium||Dominican Republic
+Cohiba|Nicaragua|Medium-Full||Nicaragua
+Cohiba|Royale|Full||Honduras
+Cohiba|Puro Dominicana|Medium-Full||Dominican Republic
+Cohiba|Riviera|Medium-Full|San Andrés|Dominican Republic
+Cohiba|Spectre|Full||Dominican Republic
+Cohiba|Weller|Medium-Full||Dominican Republic
+
+# Cornelius & Anthony
+Cornelius & Anthony|Cornelius|Medium||United States
+Cornelius & Anthony|Daddy Mac|Medium||Nicaragua
+Cornelius & Anthony|Venganza|Medium-Full||Nicaragua
+Cornelius & Anthony|Meridian|Medium||Nicaragua
+
+# Crowned Heads
+Crowned Heads|Four Kicks|Medium|Habano|Dominican Republic
+Crowned Heads|Four Kicks Maduro|Medium-Full|Maduro/Broadleaf|Dominican Republic
+Crowned Heads|Jericho Hill|Medium-Full|San Andrés|Nicaragua
+Crowned Heads|Las Calaveras|Medium-Full||Nicaragua
+Crowned Heads|Le Carême|Medium|Maduro/Broadleaf|Dominican Republic
+Crowned Heads|Mil Días|Medium-Full|Habano|Nicaragua
+Crowned Heads|Headley Grange|Medium|Sumatra|Dominican Republic
+Crowned Heads|La Imperiosa|Medium-Full|Habano|Nicaragua
+Crowned Heads|Juarez|Medium|San Andrés|Nicaragua
+Crowned Heads|Court Reserve XVIII|Medium||Nicaragua
+Crowned Heads|Luminosa|Mild-Medium|Connecticut|Dominican Republic
+Crowned Heads|J.D. Howard Reserve|Medium||Dominican Republic
+Crowned Heads|Buckeye Land|Medium||Dominican Republic
+
+# Curivari
+Curivari|Buenaventura|Medium||Nicaragua
+Curivari|Reserva Limitada Café|Medium||Nicaragua
+Curivari|El Gran Rey|Medium||Nicaragua
+Curivari|Achilles|Medium-Full||Nicaragua
+
+# Dapper
+Dapper|La Madrina|Medium||Nicaragua
+Dapper|Cubo Sumatra|Medium|Sumatra|Nicaragua
+Dapper|Cubo Claro|Mild-Medium||Nicaragua
+Dapper|El Borracho|Medium-Full||Nicaragua
+Dapper|Siempre|Medium||Nicaragua
+
+# Davidoff
+Davidoff|Signature|Mild|Connecticut|Dominican Republic
+Davidoff|Grand Cru|Mild-Medium|Connecticut|Dominican Republic
+Davidoff|Aniversario|Mild-Medium|Connecticut|Dominican Republic
+Davidoff|Millennium|Medium-Full||Dominican Republic
+Davidoff|Winston Churchill|Medium||Dominican Republic
+Davidoff|Winston Churchill The Late Hour|Medium-Full|Habano|Dominican Republic
+Davidoff|Nicaragua|Medium|Habano|Dominican Republic
+Davidoff|Escurio|Medium-Full|Habano|Dominican Republic
+Davidoff|Yamasá|Medium-Full||Dominican Republic
+Davidoff|Colorado Claro|Medium||Dominican Republic
+Davidoff|Dominicana|Medium-Full||Dominican Republic
+Davidoff|Royal Release|Medium||Dominican Republic
+
+# Diesel
+Diesel|Unlimited|Full||Nicaragua
+Diesel|Hair of the Dog|Medium-Full|Habano|Nicaragua
+Diesel|Crucible|Full||Nicaragua
+Diesel|Sunday Gravy|Medium||Nicaragua
+Diesel|Estelí Puro|Medium-Full||Nicaragua
+Diesel|Whiskey Row Sherry Cask|Medium-Full||Nicaragua
+Diesel|Cask Aged|Medium-Full||Nicaragua
+Diesel|Disciple|Full||Nicaragua
+Diesel|Vintage Series|Medium-Full||Nicaragua
+
+# Don Diego
+Don Diego|Original|Mild|Connecticut|Dominican Republic
+
+# Don Pepin Garcia
+Don Pepin Garcia|Original (Blue)|Full|Corojo|Nicaragua
+Don Pepin Garcia|Cuban Classic (Black)|Medium-Full|Habano|Nicaragua
+Don Pepin Garcia|Series JJ|Medium-Full|Corojo|Nicaragua
+Don Pepin Garcia|Vegas Cubanas|Medium|Habano|Nicaragua
+Don Pepin Garcia|15th Anniversary|Full||Nicaragua
+
+# Don Tomás
+Don Tomás|Clasico Natural|Mild-Medium||Honduras
+Don Tomás|Clasico Maduro|Medium|Maduro/Broadleaf|Honduras
+Don Tomás|Sun Grown|Medium|Natural/Sun Grown|Honduras
+
+# Drew Estate
+Drew Estate|Liga Privada No. 9|Full|Maduro/Broadleaf|Nicaragua
+Drew Estate|Liga Privada T52|Full|Habano|Nicaragua
+Drew Estate|Liga Privada H99|Medium-Full|Corojo|Nicaragua
+Drew Estate|Liga Privada 10 Aniversario|Full|Maduro/Broadleaf|Nicaragua
+Drew Estate|Liga Privada Unico Feral Flying Pig|Full|Maduro/Broadleaf|Nicaragua
+Drew Estate|Liga Privada Unico Dirty Rat|Full|Sumatra|Nicaragua
+Drew Estate|Undercrown Maduro|Medium-Full|San Andrés|Nicaragua
+Drew Estate|Undercrown Shade|Mild-Medium|Connecticut|Nicaragua
+Drew Estate|Undercrown Sun Grown|Medium-Full|Sumatra|Nicaragua
+Drew Estate|Undercrown 10|Medium-Full|Maduro/Broadleaf|Nicaragua
+Drew Estate|Herrera Estelí Habano|Medium|Habano|Nicaragua
+Drew Estate|Herrera Estelí Norteño|Medium-Full|San Andrés|Nicaragua
+Drew Estate|Herrera Estelí Brazilian Maduro|Medium|Mata Fina|Nicaragua
+Drew Estate|Herrera Estelí Miami|Medium-Full|Habano|United States
+Drew Estate|Factory Smokes Sun Grown|Medium|Natural/Sun Grown|Nicaragua
+Drew Estate|Factory Smokes Maduro|Medium|Maduro/Broadleaf|Nicaragua
+Drew Estate|Factory Smokes Shade|Mild-Medium|Connecticut|Nicaragua
+Drew Estate|Tabak Especial Dulce|Mild-Medium|Connecticut|Nicaragua
+Drew Estate|Tabak Especial Negra|Medium|Maduro/Broadleaf|Nicaragua
+Drew Estate|Kentucky Fire Cured|Medium||Nicaragua
+Drew Estate|Nica Rustica|Full|Maduro/Broadleaf|Nicaragua
+Drew Estate|Isla del Sol|Mild-Medium|Sumatra|Nicaragua
+Drew Estate|Deadwood Sweet Jane|Medium|Maduro/Broadleaf|Nicaragua
+Drew Estate|Deadwood Fat Bottom Betty|Medium|Maduro/Broadleaf|Nicaragua
+Drew Estate|Deadwood Crazy Alice|Medium|Maduro/Broadleaf|Nicaragua
+Drew Estate|Blackened M81|Full|San Andrés|Nicaragua
+Drew Estate|Blackened S84 Shade|Medium|Connecticut|Nicaragua
+Drew Estate|20 Acre Farm|Medium|Connecticut|Nicaragua
+Drew Estate|Florida Sun Grown|Medium-Full||Nicaragua
+Drew Estate|La Vieja Habana|Mild-Medium||Nicaragua
+Drew Estate|Pappy Van Winkle Barrel Fermented|Medium-Full||Nicaragua
+Drew Estate|Java Maduro|Medium|Maduro/Broadleaf|Nicaragua
+Drew Estate|Java Latte|Mild-Medium|Connecticut|Nicaragua
+Drew Estate|Java Mint|Medium|Maduro/Broadleaf|Nicaragua
+
+# Dunbarton
+Dunbarton|Sin Compromiso|Medium-Full|San Andrés|Nicaragua
+Dunbarton|Umbagog|Full|Maduro/Broadleaf|Nicaragua
+Dunbarton|Mi Querida Triqui Traca|Full|Maduro/Broadleaf|Nicaragua
+Dunbarton|Sobremesa Brûlée|Mild-Medium|Connecticut|Nicaragua
+Dunbarton|Sobremesa Brûlée Blue|Mild-Medium|Connecticut|Nicaragua
+Dunbarton|Todos Las Dias|Full|Natural/Sun Grown|Nicaragua
+Dunbarton|Red Meat Lovers|Full||Nicaragua
+Dunbarton|Stillwell Star|Medium||Nicaragua
+Dunbarton|Polpetta|Medium-Full||Nicaragua
+
+# Eiroa
+Eiroa|The First 20 Years|Medium-Full||Honduras
+Eiroa|CBT Maduro|Full|Maduro/Broadleaf|Honduras
+Eiroa|Classic|Medium||Honduras
+
+# El Rey del Mundo
+El Rey del Mundo|Natural|Medium|Sumatra|Honduras
+El Rey del Mundo|Oscuro|Medium-Full|Maduro/Broadleaf|Honduras
+
+# EP Carrillo
+EP Carrillo|La Historia|Medium-Full|San Andrés|Dominican Republic
+EP Carrillo|Allegiance|Medium-Full|Sumatra|Nicaragua
+EP Carrillo|Endure|Medium-Full|Sumatra|Nicaragua
+EP Carrillo|Core Plus Natural|Medium||Dominican Republic
+EP Carrillo|Dusk|Medium-Full|Maduro/Broadleaf|Dominican Republic
+EP Carrillo|Capa de Sol|Medium-Full|Natural/Sun Grown|Dominican Republic
+EP Carrillo|Interlude|Medium||Dominican Republic
+EP Carrillo|New Wave Reserva|Mild-Medium|Connecticut|Dominican Republic
+EP Carrillo|Elencos|Medium-Full||Dominican Republic
+EP Carrillo|Inch Maduro|Medium-Full|Maduro/Broadleaf|Dominican Republic
+EP Carrillo|Inch Natural|Medium|Sumatra|Dominican Republic
+EP Carrillo|Seleccion Oscuro|Medium-Full|San Andrés|Dominican Republic
+
+# Espinosa
+Espinosa|Habano|Medium|Habano|Nicaragua
+Espinosa|Crema|Mild-Medium|Connecticut|Nicaragua
+Espinosa|Laranja Reserva|Medium-Full||Nicaragua
+Espinosa|Laranja Reserva Escuro|Medium-Full||Nicaragua
+Espinosa|Murcielago|Medium-Full|San Andrés|Nicaragua
+Espinosa|Knuckle Sandwich Habano|Medium-Full|Habano|Nicaragua
+Espinosa|Knuckle Sandwich Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Espinosa|Knuckle Sandwich Connecticut|Mild-Medium|Connecticut|Nicaragua
+Espinosa|Las 6 Provincias|Medium-Full||Nicaragua
+Espinosa|Warhead|Full|Maduro/Broadleaf|Nicaragua
+
+# Ferio Tego
+Ferio Tego|Timeless Supreme|Medium||Dominican Republic
+Ferio Tego|Timeless Sterling|Mild-Medium|Connecticut|Dominican Republic
+Ferio Tego|Generoso|Medium-Full||Nicaragua
+Ferio Tego|Elegancia|Medium||Dominican Republic
+Ferio Tego|Metropolitan Host|Mild|Connecticut|Honduras
+
+# Flor de Selva
+Flor de Selva|Classic|Mild-Medium|Connecticut|Honduras
+Flor de Selva|Maduro|Medium|Maduro/Broadleaf|Honduras
+
+# Fonseca
+Fonseca|Classic|Mild|Connecticut|Dominican Republic
+Fonseca|by My Father|Medium||Nicaragua
+
+# Foundation
+Foundation|El Güegüense|Medium-Full|Corojo|Nicaragua
+Foundation|Wise Man Corojo|Medium|Corojo|Nicaragua
+Foundation|The Tabernacle Havana Seed CT #142|Full||Nicaragua
+Foundation|Charter Oak Maduro|Medium|Maduro/Broadleaf|Nicaragua
+Foundation|Charter Oak Habano|Medium|Habano|Nicaragua
+Foundation|Olmec Maduro|Medium-Full|San Andrés|Nicaragua
+Foundation|The Upsetters|Medium||Nicaragua
+Foundation|Menelik|Full||Nicaragua
+Foundation|Metapa|Medium||Nicaragua
+Foundation|Highclere Castle Edwardian|Mild-Medium|Connecticut|Nicaragua
+Foundation|Highclere Castle Victorian|Medium|Habano|Nicaragua
+
+# Fratello
+Fratello|Classico|Medium-Full|Habano|Nicaragua
+Fratello|Bianco|Medium-Full|San Andrés|Nicaragua
+Fratello|Oro|Mild-Medium|Connecticut|Dominican Republic
+Fratello|Navetta|Medium-Full|Habano|Nicaragua
+
+# Gispert
+Gispert|Original|Mild-Medium|Connecticut|Honduras
+
+# God of Fire
+God of Fire|by Don Carlos|Medium||Dominican Republic
+God of Fire|by Carlito|Medium-Full||Dominican Republic
+God of Fire|Serie B|Full|Maduro/Broadleaf|Dominican Republic
+
+# Gran Habano
+Gran Habano|Connecticut #1|Mild|Connecticut|Honduras
+Gran Habano|Habano #3|Medium|Habano|Honduras
+Gran Habano|Corojo #5|Full|Corojo|Honduras
+Gran Habano|Corojo #5 Maduro|Full|Maduro/Broadleaf|Honduras
+Gran Habano|La Conquista|Medium-Full||Honduras
+Gran Habano|Blue in Green|Mild-Medium|Connecticut|Honduras
+
+# Graycliff
+Graycliff|Red Label|Medium||Bahamas
+Graycliff|Blue Label|Mild-Medium||Bahamas
+Graycliff|G2|Mild-Medium||Bahamas
+Graycliff|Espresso|Full||Bahamas
+
+# Gurkha
+Gurkha|Cellar Reserve 15 Year|Medium-Full||Dominican Republic
+Gurkha|Cellar Reserve 12 Year|Medium||Dominican Republic
+Gurkha|Ghost|Medium-Full|Maduro/Broadleaf|Dominican Republic
+Gurkha|Nicaragua Series|Medium-Full||Nicaragua
+Gurkha|Royal Challenge|Mild-Medium|Connecticut|Honduras
+Gurkha|Beauty|Mild-Medium|Connecticut|Dominican Republic
+Gurkha|Beast|Full||Dominican Republic
+Gurkha|Grand Reserve|Mild-Medium|Connecticut|Dominican Republic
+Gurkha|Evil|Medium-Full|Maduro/Broadleaf|Nicaragua
+Gurkha|Centurian|Medium|Connecticut|Dominican Republic
+
+# H. Upmann
+H. Upmann|1844 Reserve|Medium|Habano|Dominican Republic
+H. Upmann|1844 Añejo|Medium||Dominican Republic
+H. Upmann|Vintage Cameroon|Mild-Medium|Cameroon|Dominican Republic
+H. Upmann|The Banker|Medium-Full|Habano|Dominican Republic
+H. Upmann|by AJ Fernandez|Medium-Full|Sumatra|Nicaragua
+H. Upmann|Nicaragua by AJ Fernandez|Medium-Full||Nicaragua
+H. Upmann|Connecticut|Mild-Medium|Connecticut|Dominican Republic
+H. Upmann|Legacy|Medium||Dominican Republic
+H. Upmann|Herman's Batch|Medium|Habano|Dominican Republic
+
+# Henry Clay
+Henry Clay|Stalk Cut|Medium-Full|Maduro/Broadleaf|Dominican Republic
+Henry Clay|War Hawk|Medium|Connecticut|Honduras
+Henry Clay|Rustic Cheroot|Medium|Maduro/Broadleaf|Dominican Republic
+
+# Hiram & Solomon
+Hiram & Solomon|Entered Apprentice|Mild-Medium|Connecticut|Nicaragua
+Hiram & Solomon|Fellow Craft|Medium||Nicaragua
+Hiram & Solomon|Master Mason|Medium-Full||Nicaragua
+Hiram & Solomon|Traveling Man|Medium||Nicaragua
+
+# Hoyo de Monterrey
+Hoyo de Monterrey|Excalibur Natural|Medium|Connecticut|Honduras
+Hoyo de Monterrey|Excalibur Maduro|Medium|Maduro/Broadleaf|Honduras
+Hoyo de Monterrey|Hoyo La Amistad|Medium-Full|Habano|Nicaragua
+Hoyo de Monterrey|La Amistad Black|Full||Nicaragua
+Hoyo de Monterrey|Dark Sumatra|Medium-Full|Sumatra|Honduras
+Hoyo de Monterrey|Rothschild|Medium||Honduras
+
+# HVC
+HVC|La Rosa 520|Medium-Full|Corojo|Nicaragua
+HVC|Hot Cake|Medium-Full|San Andrés|Nicaragua
+HVC|First Selection|Medium||Nicaragua
+HVC|Seleccion No. 1|Medium|Corojo|Nicaragua
+HVC|Serie A|Medium||Nicaragua
+HVC|Black Friday|Medium-Full||Nicaragua
+
+# Illusione
+Illusione|Original Documents|Medium-Full|Corojo|Nicaragua
+Illusione|Epernay|Medium|Corojo|Nicaragua
+Illusione|Rothchildes|Medium-Full|San Andrés|Nicaragua
+Illusione|Fume d'Amour|Medium||Nicaragua
+Illusione|Haut 10|Medium-Full||Nicaragua
+Illusione|Cruzado|Medium-Full||Nicaragua
+Illusione|Garagiste|Medium-Full||Nicaragua
+Illusione|OneOff|Medium||Nicaragua
+Illusione|Ultra|Full||Nicaragua
+Illusione|Singularé|Medium||Nicaragua
+
+# Indian Motorcycle
+Indian Motorcycle|Habano|Medium|Habano|Dominican Republic
+Indian Motorcycle|Maduro|Medium|Maduro/Broadleaf|Dominican Republic
+Indian Motorcycle|Connecticut|Mild-Medium|Connecticut|Dominican Republic
+
+# J.C. Newman
+J.C. Newman|Brick House Maduro|Medium|Maduro/Broadleaf|Nicaragua
+J.C. Newman|Brick House Double Connecticut|Mild-Medium|Connecticut|Nicaragua
+J.C. Newman|Perla del Mar|Mild-Medium|Connecticut|Nicaragua
+J.C. Newman|Perla del Mar Maduro|Medium|Maduro/Broadleaf|Nicaragua
+J.C. Newman|Quorum|Mild-Medium|Sumatra|Nicaragua
+J.C. Newman|Quorum Maduro|Medium|Maduro/Broadleaf|Nicaragua
+J.C. Newman|Diamond Crown Maximus|Medium-Full|Natural/Sun Grown|Dominican Republic
+J.C. Newman|Diamond Crown Julius Caeser|Medium|Habano|Dominican Republic
+J.C. Newman|Diamond Crown Black Diamond|Medium-Full|Maduro/Broadleaf|Dominican Republic
+J.C. Newman|The American|Medium||United States
+J.C. Newman|Cuesta-Rey Centro Fino|Medium||Dominican Republic
+J.C. Newman|Yagua|Medium-Full|Maduro/Broadleaf|Nicaragua
+J.C. Newman|Angel Cuesta|Medium||United States
+
+# Joya de Nicaragua
+Joya de Nicaragua|Antaño 1970|Full|Habano|Nicaragua
+Joya de Nicaragua|Antaño Dark Corojo|Full|Corojo|Nicaragua
+Joya de Nicaragua|Antaño CT|Medium|Connecticut|Nicaragua
+Joya de Nicaragua|Antaño Gran Reserva|Full||Nicaragua
+Joya de Nicaragua|Cabinetta|Mild-Medium|Connecticut|Nicaragua
+Joya de Nicaragua|Clasico|Mild|Connecticut|Nicaragua
+Joya de Nicaragua|Cuatro Cinco|Medium-Full||Nicaragua
+Joya de Nicaragua|Cinco Décadas|Medium-Full||Nicaragua
+Joya de Nicaragua|Joya Red|Medium|Habano|Nicaragua
+Joya de Nicaragua|Joya Black|Medium|San Andrés|Nicaragua
+Joya de Nicaragua|Joya Silver|Medium-Full||Nicaragua
+Joya de Nicaragua|Joya Copper|Medium||Nicaragua
+Joya de Nicaragua|Número Uno|Medium|Connecticut|Nicaragua
+Joya de Nicaragua|Rosalones|Medium||Nicaragua
+
+# JRE
+JRE|Aladino Corojo|Medium|Corojo|Honduras
+JRE|Aladino Corojo Reserva|Medium-Full|Corojo|Honduras
+JRE|Aladino Maduro|Medium|San Andrés|Honduras
+JRE|Aladino Cameroon|Medium|Cameroon|Honduras
+JRE|Aladino Connecticut|Mild-Medium|Connecticut|Honduras
+JRE|Rancho Luna|Medium||Honduras
+JRE|Tatascan|Medium||Honduras
+
+# Kristoff
+Kristoff|Sumatra|Medium|Sumatra|Dominican Republic
+Kristoff|Maduro|Medium-Full|Maduro/Broadleaf|Dominican Republic
+Kristoff|Connecticut|Mild-Medium|Connecticut|Dominican Republic
+Kristoff|San Andrés|Medium-Full|San Andrés|Dominican Republic
+Kristoff|Habano|Medium|Habano|Dominican Republic
+Kristoff|Cameroon|Medium|Cameroon|Dominican Republic
+Kristoff|GC Signature Series|Full|Maduro/Broadleaf|Dominican Republic
+Kristoff|Pistoff Kristoff|Full|San Andrés|Dominican Republic
+Kristoff|Shade Grown|Mild-Medium|Connecticut|Dominican Republic
+Kristoff|Vengeance|Medium-Full||Dominican Republic
+Kristoff|Kristania|Medium||Dominican Republic
+Kristoff|Brittania Reserva|Mild-Medium|Connecticut|Dominican Republic
+
+# La Aroma De Cuba
+La Aroma De Cuba|Edición Especial|Medium-Full|Sumatra|Nicaragua
+La Aroma De Cuba|Reserva|Medium-Full||Nicaragua
+La Aroma De Cuba|Connecticut|Mild-Medium|Connecticut|Nicaragua
+La Aroma De Cuba|Pasión|Medium-Full||Nicaragua
+
+# La Aurora
+La Aurora|107|Medium|Sumatra|Dominican Republic
+La Aurora|107 Nicaragua|Medium-Full||Dominican Republic
+La Aurora|1903 Cameroon|Medium|Cameroon|Dominican Republic
+La Aurora|1962 Corojo|Medium|Corojo|Dominican Republic
+La Aurora|1987 Connecticut|Mild-Medium|Connecticut|Dominican Republic
+La Aurora|1985 Maduro|Medium|Maduro/Broadleaf|Dominican Republic
+La Aurora|Preferidos Sapphire|Mild-Medium|Connecticut|Dominican Republic
+La Aurora|Preferidos Ruby|Medium|Maduro/Broadleaf|Dominican Republic
+La Aurora|Preferidos Emerald|Medium|Natural/Sun Grown|Dominican Republic
+La Aurora|ADN Dominicano|Medium-Full||Dominican Republic
+La Aurora|115 Aniversario|Medium-Full||Dominican Republic
+La Aurora|Barrel Aged by Karl Malone|Medium||Dominican Republic
+
+# La Barba
+La Barba|Purple|Medium||Dominican Republic
+La Barba|Ricochet|Medium||Dominican Republic
+
+# La Flor Dominicana
+La Flor Dominicana|Coronado|Full|Natural/Sun Grown|Dominican Republic
+La Flor Dominicana|Colorado Oscuro|Full||Dominican Republic
+La Flor Dominicana|Cameroon Cabinet|Medium|Cameroon|Dominican Republic
+La Flor Dominicana|Reserva Especial|Mild-Medium|Connecticut|Dominican Republic
+La Flor Dominicana|Suave|Mild|Connecticut|Dominican Republic
+La Flor Dominicana|La Nox|Medium-Full||Dominican Republic
+La Flor Dominicana|1994|Medium-Full|San Andrés|Dominican Republic
+La Flor Dominicana|La Volcada|Medium-Full|San Andrés|Dominican Republic
+La Flor Dominicana|Litto Gomez Diez|Full||Dominican Republic
+La Flor Dominicana|Double Claro|Mild-Medium|Candela|Dominican Republic
+
+# La Galera
+La Galera|Connecticut|Mild-Medium|Connecticut|Dominican Republic
+La Galera|Habano|Medium|Habano|Dominican Republic
+La Galera|Maduro|Medium|San Andrés|Dominican Republic
+La Galera|1936 Box Pressed|Medium||Dominican Republic
+
+# La Gloria Cubana
+La Gloria Cubana|Serie N|Medium-Full|Sumatra|Dominican Republic
+La Gloria Cubana|Serie RF|Full||Dominican Republic
+La Gloria Cubana|Esteli|Medium-Full||Nicaragua
+La Gloria Cubana|Spanish Press|Medium||Nicaragua
+La Gloria Cubana|Society|Medium|Sumatra|Dominican Republic
+La Gloria Cubana|Colección Reserva|Medium-Full||Dominican Republic
+La Gloria Cubana|Gilded Age|Medium||Dominican Republic
+
+# La Palina
+La Palina|Classic|Medium||Honduras
+La Palina|Classic Connecticut|Mild-Medium|Connecticut|Honduras
+La Palina|Classic Maduro|Medium||Honduras
+La Palina|Black Label|Medium-Full||Dominican Republic
+La Palina|Red Label|Medium|Habano|Honduras
+La Palina|Blue Label|Medium||Honduras
+La Palina|Bronze Label|Medium|Habano|Honduras
+La Palina|Goldie|Medium|Habano|United States
+La Palina|El Diario|Medium-Full||Honduras
+La Palina|Nicaragua Oscuro|Medium-Full||Nicaragua
+La Palina|Nicaragua Connecticut|Mild-Medium|Connecticut|Nicaragua
+
+# Luciano
+Luciano|The Dreamer|Medium||Nicaragua
+Luciano|Fiat Lux|Medium||Nicaragua
+Luciano|Foreign Affair|Medium||Nicaragua
+
+# Macanudo
+Macanudo|Maduro|Mild-Medium|Maduro/Broadleaf|Dominican Republic
+Macanudo|Cru Royale|Medium|Habano|Dominican Republic
+Macanudo|Inspirado Orange|Medium||Honduras
+Macanudo|Inspirado Red|Medium-Full|Habano|Nicaragua
+Macanudo|Inspirado Green|Medium||Dominican Republic
+Macanudo|Inspirado Brazilian Shade|Mild-Medium||Dominican Republic
+Macanudo|Heritage Nuevo|Mild-Medium|Connecticut|Dominican Republic
+Macanudo|Vintage|Mild-Medium|Connecticut|Dominican Republic
+Macanudo|M Coffee|Mild-Medium||Dominican Republic
+Macanudo|1968|Medium-Full||Dominican Republic
+
+# Man O' War
+Man O' War|Ruination|Full|Habano|Nicaragua
+Man O' War|Virtue|Mild-Medium|Connecticut|Nicaragua
+Man O' War|Puro Authentico|Full||Nicaragua
+Man O' War|Armada|Full||Nicaragua
+
+# Matilde
+Matilde|Oscura|Medium-Full|San Andrés|Dominican Republic
+Matilde|Quadrata|Medium||Dominican Republic
+Matilde|Serena|Mild-Medium|Connecticut|Dominican Republic
+Matilde|Limited Exposure|Medium||Dominican Republic
+
+# MBombay
+MBombay|Classic|Mild-Medium|Connecticut|Costa Rica
+MBombay|Habano|Medium|Habano|Costa Rica
+MBombay|Gaaja|Medium||Costa Rica
+MBombay|Mora|Medium||Costa Rica
+
+# Micallef
+Micallef|A|Medium||Nicaragua
+Micallef|Black|Medium-Full|San Andrés|Nicaragua
+Micallef|Red|Medium|Sumatra|Nicaragua
+Micallef|Blue|Medium-Full|Habano|Nicaragua
+Micallef|Herencia Habano|Medium|Habano|Nicaragua
+Micallef|Herencia Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Micallef|Reata|Medium||Nicaragua
+Micallef|Migdalia|Medium||Nicaragua
+Micallef|Leyenda|Medium||Nicaragua
+
+# Montecristo
+Montecristo|Nicaragua|Medium-Full||Nicaragua
+Montecristo|Monte by Montecristo|Medium-Full|Habano|Dominican Republic
+Montecristo|Monte by Montecristo AJ Fernandez|Medium-Full|Habano|Nicaragua
+Montecristo|Crafted by AJ Fernandez|Medium-Full||Nicaragua
+Montecristo|White Vintage Connecticut|Mild-Medium|Connecticut|Dominican Republic
+Montecristo|Epic Craft Cured|Medium-Full|Habano|Nicaragua
+Montecristo|Pilotico Pepe Mendez|Medium||Dominican Republic
+Montecristo|Volume 1|Medium-Full||Nicaragua
+Montecristo|Artisan Series|Medium||Dominican Republic
+Montecristo|Cincuenta|Medium-Full||Dominican Republic
+Montecristo|Relentless|Medium||Dominican Republic
+
+# My Father
+My Father|Original|Medium-Full|Habano|Nicaragua
+My Father|Connecticut|Mild-Medium|Connecticut|Nicaragua
+My Father|La Gran Oferta|Medium-Full|Habano|Nicaragua
+My Father|La Promesa|Medium-Full|Habano|Nicaragua
+My Father|La Duena|Medium|Maduro/Broadleaf|Nicaragua
+My Father|El Centurion|Medium-Full||Nicaragua
+My Father|El Centurion H-2K-CT|Medium-Full|Habano|Nicaragua
+My Father|Jaime Garcia Reserva Especial|Medium-Full|Maduro/Broadleaf|Nicaragua
+My Father|Tabacos Baez Serie SF|Medium||Nicaragua
+My Father|Flor de Las Antillas Maduro|Medium-Full||Nicaragua
+My Father|Garcia & Garcia|Full||Nicaragua
+My Father|Blue|Medium-Full|Rosado|Honduras
+
+# Nestor Miranda
+Nestor Miranda|Special Selection|Medium||Nicaragua
+Nestor Miranda|Collection Corojo|Medium|Corojo|Nicaragua
+Nestor Miranda|Collection Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Nestor Miranda|Collection Connecticut|Mild-Medium|Connecticut|Nicaragua
+Nestor Miranda|Don Lino Africa|Medium-Full|Habano|Nicaragua
+
+# Nub
+Nub|Connecticut|Mild-Medium|Connecticut|Nicaragua
+Nub|Habano|Medium-Full|Habano|Nicaragua
+Nub|Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Nub|Cameroon|Medium|Cameroon|Nicaragua
+Nub|Sumatra|Medium|Sumatra|Nicaragua
+Nub|Nuance Double Roast|Mild-Medium||Nicaragua
+Nub|Dub|Medium-Full||Nicaragua
+
+# Oliva
+Oliva|Serie V|Full|Habano|Nicaragua
+Oliva|Serie V Melanio|Medium-Full|Sumatra|Nicaragua
+Oliva|Serie V Melanio Maduro|Full|San Andrés|Nicaragua
+Oliva|Serie V Maduro Especial|Full|Maduro/Broadleaf|Nicaragua
+Oliva|Serie O|Medium|Habano|Nicaragua
+Oliva|Serie O Maduro|Medium|Maduro/Broadleaf|Nicaragua
+Oliva|Serie G|Medium|Cameroon|Nicaragua
+Oliva|Serie G Maduro|Medium|Maduro/Broadleaf|Nicaragua
+Oliva|Connecticut Reserve|Mild-Medium|Connecticut|Nicaragua
+Oliva|Master Blends 3|Medium-Full|Maduro/Broadleaf|Nicaragua
+Oliva|Saison|Medium||Nicaragua
+Oliva|Flor de Oliva|Mild-Medium|Sumatra|Nicaragua
+Oliva|Gilberto Oliva Reserva|Medium|Sumatra|Nicaragua
+Oliva|Gilberto Oliva Reserva Blanc|Mild-Medium|Connecticut|Nicaragua
+Oliva|Inferno|Medium-Full||Nicaragua
+Oliva|Baptiste|Medium||Nicaragua
+
+# Onyx
+Onyx|Reserve|Medium|Maduro/Broadleaf|Dominican Republic
+
+# Oscar Valladares
+Oscar Valladares|Leaf by Oscar Corojo|Medium|Corojo|Honduras
+Oscar Valladares|Leaf by Oscar Maduro|Medium|Maduro/Broadleaf|Honduras
+Oscar Valladares|Leaf by Oscar Connecticut|Mild-Medium|Connecticut|Honduras
+Oscar Valladares|Leaf by Oscar Sumatra|Medium|Sumatra|Honduras
+Oscar Valladares|2012 by Oscar Corojo|Medium|Corojo|Honduras
+Oscar Valladares|2012 by Oscar Maduro|Medium-Full|San Andrés|Honduras
+Oscar Valladares|2012 by Oscar Connecticut|Mild-Medium|Connecticut|Honduras
+Oscar Valladares|Super Fly|Medium||Honduras
+Oscar Valladares|Altar Q|Medium-Full|San Andrés|Honduras
+Oscar Valladares|McFly|Medium||Honduras
+Oscar Valladares|Island Jim No. 2|Medium||Honduras
+
+# Ozgener Family
+Ozgener Family|Bosphorus|Medium||Nicaragua
+Ozgener Family|Aramas|Medium||Nicaragua
+Ozgener Family|Pi Synesthesia|Medium-Full||Nicaragua
+
+# Padron
+Padron|4000|Medium-Full|Natural/Sun Grown|Nicaragua
+Padron|5000|Medium-Full|Natural/Sun Grown|Nicaragua
+Padron|6000|Medium-Full|Natural/Sun Grown|Nicaragua
+Padron|7000|Medium-Full|Natural/Sun Grown|Nicaragua
+Padron|Londres|Medium|Natural/Sun Grown|Nicaragua
+Padron|Delicias|Medium|Natural/Sun Grown|Nicaragua
+Padron|Ambassador|Medium|Natural/Sun Grown|Nicaragua
+Padron|Executive|Medium-Full|Natural/Sun Grown|Nicaragua
+Padron|Dámaso|Mild-Medium|Connecticut|Nicaragua
+Padron|1964 Anniversary Maduro|Full|Maduro/Broadleaf|Nicaragua
+Padron|1926 Series Maduro|Full|Maduro/Broadleaf|Nicaragua
+Padron|1926 Series 80 Years|Full||Nicaragua
+Padron|1926 Series 40th Anniversary|Full||Nicaragua
+Padron|Family Reserve 45 Years|Full||Nicaragua
+Padron|Family Reserve 50 Years|Full||Nicaragua
+Padron|Family Reserve 85 Years|Full||Nicaragua
+
+# Partagas
+Partagas|Original|Medium|Cameroon|Dominican Republic
+Partagas|Legend|Medium-Full|Maduro/Broadleaf|Dominican Republic
+Partagas|Heritage|Medium||Dominican Republic
+Partagas|1845 Extra Fuerte|Full||Dominican Republic
+Partagas|1845 Extra Oscuro|Full|Maduro/Broadleaf|Dominican Republic
+Partagas|Cortado|Medium||Dominican Republic
+Partagas|Añejo|Medium-Full||Dominican Republic
+Partagas|Limited Reserve Decadas|Medium|Cameroon|Dominican Republic
+Partagas|Valle Verde|Medium||Dominican Republic
+
+# Patina
+Patina|Habano|Medium|Habano|Nicaragua
+Patina|Connecticut|Mild-Medium|Connecticut|Nicaragua
+Patina|Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+
+# PDR
+PDR|1878 Capa Natural|Medium||Dominican Republic
+PDR|1878 Capa Oscura|Medium-Full||Dominican Republic
+PDR|1878 Capa Madura|Medium-Full|Maduro/Broadleaf|Dominican Republic
+PDR|A. Flores Gran Reserva Corojo|Medium|Corojo|Dominican Republic
+PDR|El Trovador|Medium||Dominican Republic
+
+# Perdomo
+Perdomo|Reserve 10th Anniversary Champagne|Mild-Medium|Connecticut|Nicaragua
+Perdomo|Reserve 10th Anniversary Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Perdomo|Reserve 10th Anniversary Sun Grown|Medium|Natural/Sun Grown|Nicaragua
+Perdomo|20th Anniversary Connecticut|Mild-Medium|Connecticut|Nicaragua
+Perdomo|20th Anniversary Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Perdomo|20th Anniversary Sun Grown|Medium-Full|Natural/Sun Grown|Nicaragua
+Perdomo|30th Anniversary Connecticut|Mild-Medium|Connecticut|Nicaragua
+Perdomo|30th Anniversary Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Perdomo|30th Anniversary Sun Grown|Medium-Full|Natural/Sun Grown|Nicaragua
+Perdomo|Habano Bourbon Barrel-Aged Connecticut|Mild-Medium|Connecticut|Nicaragua
+Perdomo|Habano Bourbon Barrel-Aged Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Perdomo|Habano Bourbon Barrel-Aged Sun Grown|Medium|Natural/Sun Grown|Nicaragua
+Perdomo|Lot 23 Connecticut|Mild-Medium|Connecticut|Nicaragua
+Perdomo|Lot 23 Maduro|Medium|Maduro/Broadleaf|Nicaragua
+Perdomo|Fresco|Mild-Medium||Nicaragua
+Perdomo|Inmenso Seventy|Medium||Nicaragua
+Perdomo|Small Batch|Medium||Nicaragua
+Perdomo|Craft Series Pilsner|Mild-Medium|Connecticut|Nicaragua
+Perdomo|Craft Series Amber|Medium|Natural/Sun Grown|Nicaragua
+Perdomo|Craft Series Stout|Medium|Maduro/Broadleaf|Nicaragua
+Perdomo|Estate Seleccion Vintage|Medium||Nicaragua
+Perdomo|Legacy|Medium||Nicaragua
+
+# Placencia
+Placencia|Alma del Campo|Medium||Nicaragua
+Placencia|Alma del Fuego|Full||Nicaragua
+Placencia|Alma del Cielo|Medium-Full||Nicaragua
+Placencia|Cosecha 146|Medium||Honduras
+Placencia|Cosecha 149|Medium-Full||Honduras
+Placencia|Cosecha 151|Medium||Honduras
+
+# Powstanie
+Powstanie|Broadleaf|Medium-Full|Maduro/Broadleaf|Nicaragua
+Powstanie|Habano|Medium|Habano|Nicaragua
+Powstanie|Wojtek|Medium-Full||Nicaragua
+
+# Protocol
+Protocol|Blue|Medium|Habano|Nicaragua
+Protocol|Gold|Mild-Medium|Connecticut|Nicaragua
+Protocol|Themis|Mild-Medium|Connecticut|Nicaragua
+Protocol|Official Misconduct|Medium|Habano|Nicaragua
+Protocol|Sir Robert Peel Natural|Medium-Full||Nicaragua
+Protocol|Sir Robert Peel Maduro|Full|Maduro/Broadleaf|Nicaragua
+
+# Punch
+Punch|Clasico|Medium|Sumatra|Honduras
+Punch|Diablo|Full|Sumatra|Nicaragua
+Punch|Knuckle Buster|Medium|Habano|Nicaragua
+Punch|Signature|Medium-Full|Corojo|Honduras
+Punch|Bareknuckle|Full||Honduras
+Punch|Deluxe|Medium||Honduras
+Punch|Golden Circle|Medium||Honduras
+Punch|The People's Champ|Medium||Nicaragua
+
+# Quesada
+Quesada|40th Anniversary|Medium|San Andrés|Dominican Republic
+Quesada|Reserva Privada|Mild-Medium|Connecticut|Dominican Republic
+Quesada|Oktoberfest|Medium-Full||Dominican Republic
+Quesada|Heisenberg|Medium||Dominican Republic
+
+# Recluse
+Recluse|Draconian|Medium-Full||Dominican Republic
+Recluse|Amadeus Habano|Medium|Habano|Dominican Republic
+Recluse|OTG|Medium-Full||Dominican Republic
+
+# Rocky Patel
+Rocky Patel|Edge Maduro|Full|Maduro/Broadleaf|Honduras
+Rocky Patel|Edge Connecticut|Mild-Medium|Connecticut|Honduras
+Rocky Patel|Edge Sumatra|Medium-Full|Sumatra|Honduras
+Rocky Patel|Edge Habano|Medium-Full|Habano|Honduras
+Rocky Patel|Vintage 1992|Medium|Sumatra|Honduras
+Rocky Patel|Vintage 2003 Cameroon|Medium|Cameroon|Honduras
+Rocky Patel|Vintage 2006 San Andreas|Medium|San Andrés|Honduras
+Rocky Patel|Fifteenth Anniversary|Full|Habano|Nicaragua
+Rocky Patel|Twentieth Anniversary|Medium-Full||Honduras
+Rocky Patel|Twenty-Fifth Anniversary|Medium-Full||Nicaragua
+Rocky Patel|Sixty|Full|San Andrés|Nicaragua
+Rocky Patel|LB1|Medium|Habano|Honduras
+Rocky Patel|A.L.R. Second Edition|Medium-Full|San Andrés|Nicaragua
+Rocky Patel|Number 6|Medium|Corojo|Honduras
+Rocky Patel|Grand Reserve|Medium||Nicaragua
+Rocky Patel|Disciple|Medium-Full|San Andrés|Nicaragua
+Rocky Patel|DBS|Full||Nicaragua
+Rocky Patel|Olde World Reserve|Medium-Full||Honduras
+Rocky Patel|Hamlet 25th Year|Medium||Honduras
+Rocky Patel|Tavicusa|Medium-Full|San Andrés|Nicaragua
+Rocky Patel|White Label|Mild-Medium|Connecticut|Nicaragua
+Rocky Patel|Super Ligero|Full||Nicaragua
+Rocky Patel|Winter Collection|Medium-Full||Nicaragua
+Rocky Patel|Sun Grown Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Rocky Patel|Emerald|Medium||Nicaragua
+Rocky Patel|Quarter Century|Medium-Full||Nicaragua
+Rocky Patel|Cuban Blend|Medium||Honduras
+Rocky Patel|Catch 22|Medium||Nicaragua
+
+# Rojas
+Rojas|Street Tacos Barbacoa|Medium-Full||Nicaragua
+Rojas|Street Tacos Carnitas|Medium||Nicaragua
+Rojas|Statement Habano|Medium|Habano|Nicaragua
+Rojas|Statement Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Rojas|Unfinished Business|Medium||Nicaragua
+
+# RoMa Craft
+RoMa Craft|CroMagnon|Full|Maduro/Broadleaf|Nicaragua
+RoMa Craft|Intemperance BA XXI|Medium||Nicaragua
+RoMa Craft|Intemperance EC XVIII|Mild-Medium|Connecticut|Nicaragua
+RoMa Craft|Neanderthal|Full|San Andrés|Nicaragua
+RoMa Craft|Aquitaine|Full|Habano|Nicaragua
+RoMa Craft|Baka|Medium-Full|Cameroon|Nicaragua
+RoMa Craft|Wunder Lust|Medium||Nicaragua
+
+# Romeo Y Julieta
+Romeo Y Julieta|1875 Nicaragua|Medium||Nicaragua
+Romeo Y Julieta|1875 Connecticut|Mild-Medium|Connecticut|Dominican Republic
+Romeo Y Julieta|Reserve|Medium||Honduras
+Romeo Y Julieta|House of Capulet|Mild-Medium|Connecticut|Dominican Republic
+Romeo Y Julieta|House of Montague|Medium||Dominican Republic
+Romeo Y Julieta|Romeo by Romeo y Julieta|Medium-Full|Habano|Dominican Republic
+Romeo Y Julieta|Romeo 505 Nicaragua|Medium-Full||Nicaragua
+Romeo Y Julieta|Romeo San Andrés|Medium-Full|San Andrés|Nicaragua
+Romeo Y Julieta|Crafted by AJ Fernandez|Medium-Full||Nicaragua
+Romeo Y Julieta|Eternal|Medium||Dominican Republic
+Romeo Y Julieta|Book of Love|Medium-Full||Nicaragua
+
+# Room 101
+Room 101|Farce|Medium-Full||Dominican Republic
+Room 101|Farce Connecticut|Mild-Medium|Connecticut|Dominican Republic
+Room 101|Farce Maduro|Medium-Full|Maduro/Broadleaf|Dominican Republic
+Room 101|12th Anniversary|Medium||Nicaragua
+Room 101|Doomsayer|Medium-Full||Dominican Republic
+
+# Saint Luis Rey
+Saint Luis Rey|Serie G|Medium-Full|Maduro/Broadleaf|Honduras
+Saint Luis Rey|Carenas|Medium-Full||Nicaragua
+Saint Luis Rey|Reserva Especial|Medium||Honduras
+
+# San Cristobal
+San Cristobal|Original|Full|Habano|Nicaragua
+San Cristobal|Elegancia|Mild-Medium|Connecticut|Nicaragua
+San Cristobal|Quintessence|Medium-Full|Habano|Nicaragua
+San Cristobal|Revelation|Medium-Full|Sumatra|Nicaragua
+San Cristobal|Ovation|Full|San Andrés|Nicaragua
+
+# Sancho Panza
+Sancho Panza|Original|Mild-Medium|Connecticut|Honduras
+Sancho Panza|Extra Fuerte|Medium-Full||Honduras
+Sancho Panza|Extra Chido|Medium|San Andrés|Honduras
+
+# Southern Draw
+Southern Draw|Kudzu|Medium-Full|Habano|Nicaragua
+Southern Draw|Firethorn|Medium|Rosado|Nicaragua
+Southern Draw|Jacobs Ladder|Full|Maduro/Broadleaf|Nicaragua
+Southern Draw|Rose of Sharon|Mild-Medium|Connecticut|Nicaragua
+Southern Draw|Cedrus|Medium-Full||Nicaragua
+Southern Draw|300 Hands Habano|Medium|Habano|Nicaragua
+Southern Draw|300 Hands Maduro|Medium-Full|Maduro/Broadleaf|Nicaragua
+Southern Draw|Quickdraw|Medium||Nicaragua
+
+# Stolen Throne
+Stolen Throne|Crook of the Crown|Medium-Full||Dominican Republic
+Stolen Throne|Three Kingdoms|Medium||Dominican Republic
+Stolen Throne|Call to Arms|Medium||Dominican Republic
+
+# Surrogates
+Surrogates|Skull Breaker|Full|Maduro/Broadleaf|Nicaragua
+Surrogates|Tramp Stamp|Full|Habano|Nicaragua
+Surrogates|Crystal Baller|Medium-Full||Nicaragua
+
+# Tatuaje
+Tatuaje|Seleccion de Cazador (Brown Label)|Medium-Full|Habano|United States
+Tatuaje|Havana VI|Medium|Corojo|Nicaragua
+Tatuaje|Fausto|Full|Habano|Nicaragua
+Tatuaje|Cojonu|Full|Habano|Nicaragua
+Tatuaje|Black Label|Medium-Full|Criollo|Nicaragua
+Tatuaje|Tattoo|Medium-Full|Habano|Nicaragua
+Tatuaje|Mexican Experiment|Medium-Full|San Andrés|Nicaragua
+Tatuaje|Reserva Broadleaf Collection|Full|Maduro/Broadleaf|Nicaragua
+Tatuaje|7th Reserva|Medium-Full|Maduro/Broadleaf|Nicaragua
+Tatuaje|Monster Series|Medium-Full||Nicaragua
+Tatuaje|Nuevitas|Medium||Nicaragua
+Tatuaje|Verocu|Full|Habano|Nicaragua
+Tatuaje|Avion|Full||Nicaragua
+Tatuaje|Negociant Monopole|Medium||Nicaragua
+Tatuaje|L'Atelier Selection Speciale|Medium-Full||Nicaragua
+
+# Te-Amo
+Te-Amo|Clasico|Mild-Medium|San Andrés|Mexico
+Te-Amo|Revolution|Medium-Full|San Andrés|Mexico
+
+# The Griffin's
+The Griffin's|Classic|Mild|Connecticut|Dominican Republic
+The Griffin's|Nicaragua|Medium||Dominican Republic
+
+# Toraño
+Toraño|Exodus 1959 50 Years|Medium-Full||Nicaragua
+Toraño|Exodus 1959 Gold|Medium||Honduras
+Toraño|Vault|Medium||Nicaragua
+Toraño|Casa Toraño|Mild-Medium|Connecticut|Honduras
+Toraño|Master|Medium|Habano|Nicaragua
+
+# Trinidad
+Trinidad|Espiritu|Medium-Full||Nicaragua
+Trinidad|Santiago|Medium-Full||Dominican Republic
+
+# Vega Fina
+Vega Fina|Nicaragua|Medium|Habano|Nicaragua
+Vega Fina|Fortaleza 2|Medium||Dominican Republic
+Vega Fina|1998|Medium||Dominican Republic
+
+# Ventura
+Ventura|Psyko Seven|Medium||Dominican Republic
+Ventura|Psyko Seven Maduro|Medium-Full|San Andrés|Dominican Republic
+Ventura|Case Study|Medium||Nicaragua
+Ventura|Archetype Axis Mundi|Medium-Full||Nicaragua
+
+# Viaje
+Viaje|Oro|Medium-Full|Corojo|Honduras
+Viaje|Platino|Medium|Corojo|Honduras
+Viaje|Exclusivo|Medium-Full||Nicaragua
+Viaje|Skull and Bones|Full||Honduras
+
+# Villiger
+Villiger|La Flor de Ynclan|Medium||Dominican Republic
+Villiger|La Vencedora|Full||Nicaragua
+Villiger|San'Doro Colorado|Medium-Full||Nicaragua
+Villiger|San'Doro Maduro|Medium-Full|Maduro/Broadleaf|Brazil
+Villiger|1888|Medium||Dominican Republic
+Villiger|La Meridiana|Medium||Nicaragua
+
+# Warped
+Warped|La Colmena|Medium||United States
+Warped|El Oso|Medium||United States
+Warped|Flor del Valle|Medium|Corojo|Nicaragua
+Warped|Maestro del Tiempo|Medium|Corojo|Nicaragua
+Warped|La Hacienda|Medium|Corojo|Nicaragua
+Warped|Cloud Hopper|Medium||Nicaragua
+Warped|Corto|Medium-Full||Nicaragua
+Warped|Serie Gran Reserva 1988|Medium||Nicaragua
+
+# West Tampa Tobacco Co.
+West Tampa Tobacco Co.|Black|Medium-Full|San Andrés|Nicaragua
+West Tampa Tobacco Co.|White|Medium|Habano|Nicaragua
+West Tampa Tobacco Co.|Red|Medium-Full||Nicaragua
+West Tampa Tobacco Co.|Attic Series|Medium||Nicaragua
+
+# Wynwood Hills
+Wynwood Hills|Deranged|Medium||Honduras
+Wynwood Hills|Unhinged|Medium-Full|Maduro/Broadleaf|Honduras
+Wynwood Hills|Mayhem|Medium||Honduras
+
+# Zino
+Zino|Platinum|Medium||Dominican Republic
+Zino|Nicaragua|Medium|Connecticut|Honduras

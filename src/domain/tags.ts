@@ -174,3 +174,14 @@ export function familiesWithCustom(customTags: Iterable<CustomTag>): TagFamily[]
     words: [...new Set([...family.words, ...(extra.get(family.key) ?? [])])],
   }))
 }
+
+const FAMILY_BY_WORD = new Map<string, string>()
+for (const family of TAG_FAMILIES) {
+  for (const word of family.words) FAMILY_BY_WORD.set(word, family.key)
+}
+for (const note of OFF_NOTES) FAMILY_BY_WORD.set(note.word, 'off')
+
+/** The family key for a built-in tag, or "custom" for one Kohlton added. */
+export function tagFamily(tag: string): string {
+  return FAMILY_BY_WORD.get(tag) ?? 'custom'
+}

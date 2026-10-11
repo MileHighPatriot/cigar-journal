@@ -9,9 +9,11 @@ let n = 0
 const freshRepo = () => IdbRepository.open(`seed-test-${++n}`)
 
 describe('seed catalog file', () => {
-  it('has 127 unconfirmed cigars with unique ids', () => {
-    expect(catalog.cigars).toHaveLength(127)
-    expect(new Set(catalog.cigars.map((c) => c.id)).size).toBe(127)
+  const total = catalog.cigars.length
+
+  it('has a big list of unconfirmed cigars with unique ids', () => {
+    expect(total).toBeGreaterThan(900)
+    expect(new Set(catalog.cigars.map((c) => c.id)).size).toBe(total)
     expect(catalog.cigars.every((c) => c.confirmed === false && c.source === 'seed')).toBe(true)
     expect(catalog.cigars.every((c) => c.vitola === null && c.lengthIn === null)).toBe(true)
   })
@@ -32,9 +34,9 @@ describe('seed catalog file', () => {
 describe('seeding', () => {
   it('adds every cigar the first time and nothing the second time', async () => {
     const repo = await freshRepo()
-    expect(await seedCatalog(repo, catalog)).toHaveLength(127)
+    expect(await seedCatalog(repo, catalog)).toHaveLength(catalog.cigars.length)
     expect(await seedCatalog(repo, catalog)).toHaveLength(0)
-    expect(await repo.getAll('cigars')).toHaveLength(127)
+    expect(await repo.getAll('cigars')).toHaveLength(catalog.cigars.length)
   })
 
   it('never overwrites an edit or brings back a deleted seed cigar', async () => {
@@ -49,9 +51,27 @@ describe('seeding', () => {
     await seedCatalog(repo, { ...catalog, seedVersion: catalog.seedVersion + 1 })
 
     const after = await repo.getAll('cigars')
-    expect(after).toHaveLength(127)
+    expect(after).toHaveLength(catalog.cigars.length)
     expect(after.find((c) => c.id === first.id)?.vitola).toBe('Robusto')
     expect(after.find((c) => c.id === second.id)?.deletedAt).not.toBeNull()
+  })
+})
+
+describe('a device that seeded the first, smaller catalog', () => {
+  it('gains the new cigars and keeps its own edits', async () => {
+    const repo = await freshRepo()
+    const first = { seedVersion: 1, cigars: catalog.cigars.slice(0, 127) }
+    await seedCatalog(repo, first)
+    const [mine] = await repo.getAll('cigars')
+    if (!mine) throw new Error('seed is empty')
+    await repo.put('cigars', { ...mine, notes: 'My favorite' })
+
+    const added = await seedCatalog(repo, catalog)
+
+    expect(added).toHaveLength(catalog.cigars.length - 127)
+    const after = await repo.getAll('cigars')
+    expect(after).toHaveLength(catalog.cigars.length)
+    expect(after.find((c) => c.id === mine.id)?.notes).toBe('My favorite')
   })
 })
 

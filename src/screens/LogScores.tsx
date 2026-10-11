@@ -2,7 +2,8 @@ import { ChevronLeft } from 'lucide-react'
 import { useRef } from 'react'
 import { Link, useLocation } from 'wouter'
 import { FlowLayout } from '../components/FlowLayout'
-import { prefersReducedMotion, TABLET_UP } from '../components/hooks'
+import { prefersReducedMotion, TABLET_UP, useCountUp } from '../components/hooks'
+import { ScoreRing } from '../components/ScoreRing'
 import { TapScale } from '../components/TapScale'
 import { showToast } from '../components/toast'
 import { patchSmoke, useStore } from '../data/store'
@@ -15,6 +16,8 @@ export function LogScores({ id }: { id: string }) {
   const [, navigate] = useLocation()
   const sections = useRef(new Map<RatingKey, HTMLDivElement>())
   const smoke = state.smokes.get(id)
+  const score = smoke ? computeScore(smoke.ratings) : null
+  const counted = useCountUp(score?.shown ?? null)
 
   if (!smoke || smoke.deletedAt) {
     return (
@@ -28,7 +31,6 @@ export function LogScores({ id }: { id: string }) {
   }
 
   const cigar = state.cigars.get(smoke.cigarId)
-  const score = computeScore(smoke.ratings)
   const rated = RUBRIC.filter((category) => smoke.ratings[category.key] !== null).length
 
   function rate(key: RatingKey, value: number) {
@@ -89,21 +91,25 @@ export function LogScores({ id }: { id: string }) {
         </>
       }
     >
-      <div className="readout" aria-live="polite">
-        {score ? (
-          <>
-            <span className="numeral numeral-lg num">{score.shown}</span>
-            <span className="readout-text">
-              <span className="readout-verdict">{verdictFor(score.shown)}</span>
+      <div className="readout">
+        <ScoreRing shown={score?.shown ?? null} size={72} stroke={4}>
+          <span className="numeral numeral-sm num">{score ? counted : ''}</span>
+        </ScoreRing>
+        <span className="readout-text" aria-live="polite">
+          {score ? (
+            <>
+              <span className="verdict verdict-lg" data-verdict={verdictFor(score.shown)}>
+                {verdictFor(score.shown)}
+              </span>
               <span className="muted">Lounge 100</span>
-            </span>
-          </>
-        ) : (
-          <span className="readout-text">
-            <span className="readout-verdict">Score it</span>
-            <span className="muted">Tap a number. Tap it again for a half point.</span>
-          </span>
-        )}
+            </>
+          ) : (
+            <>
+              <span className="readout-verdict">Score it</span>
+              <span className="muted">Tap a number. Tap it again for a half point.</span>
+            </>
+          )}
+        </span>
       </div>
 
       <div className="scales">

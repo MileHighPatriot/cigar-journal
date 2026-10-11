@@ -1,12 +1,15 @@
 import { ChevronLeft, Trash2 } from 'lucide-react'
 import { useState } from 'react'
 import { Link, useLocation } from 'wouter'
+import { FlavorTags } from '../components/FlavorTags'
+import { useCountUp } from '../components/hooks'
+import { WrapperDot } from '../components/Monogram'
 import { PHOTO_KINDS } from '../components/PhotoSection'
+import { ScoreRing } from '../components/ScoreRing'
 import { showToast } from '../components/toast'
 import { deleteSmoke, photosForSmoke, useStore } from '../data/store'
 import type { Photo } from '../data/types'
 import {
-  cigarSubtitle,
   cigarTitle,
   formatDateLong,
   formatMinutes,
@@ -14,7 +17,8 @@ import {
   formatRating,
   formatTime,
 } from '../domain/format'
-import { RUBRIC, shownScore, verdictFor } from '../domain/scoring'
+import { levelLabel, RUBRIC, shownScore, verdictFor } from '../domain/scoring'
+import { smokeSize } from '../domain/sizes'
 import { effectiveTags } from '../domain/tags'
 import { usePhotoUrl } from '../photos/usePhotoUrl'
 
@@ -59,6 +63,8 @@ export function SmokeDetail({ id }: { id: string }) {
   const state = useStore()
   const [, navigate] = useLocation()
   const smoke = state.smokes.get(id)
+  const shown = smoke && smoke.score !== null ? shownScore(smoke.score) : null
+  const counted = useCountUp(shown)
 
   if (!smoke || smoke.deletedAt) {
     return (
@@ -73,7 +79,9 @@ export function SmokeDetail({ id }: { id: string }) {
 
   const cigar = state.cigars.get(smoke.cigarId)
   const photos = photosForSmoke(state.photos, smoke.id)
-  const shown = smoke.score === null ? null : shownScore(smoke.score)
+  const size = smokeSize(smoke, cigar)
+  const verdict = shown === null ? null : verdictFor(shown)
+  const strength = levelLabel(smoke.strength ?? cigar?.strength ?? null)
   const tags = effectiveTags(smoke)
   const where = smoke.setting === 'other' ? smoke.settingOther : SETTING_LABELS[smoke.setting]
   const meta = [
@@ -101,16 +109,25 @@ export function SmokeDetail({ id }: { id: string }) {
         <div>
           <p className="band-brand">{cigar?.brand || 'Unknown brand'}</p>
           <h1>{cigar ? cigarTitle(cigar) : 'Unknown cigar'}</h1>
-          {cigar && cigarSubtitle(cigar) && <p className="muted">{cigarSubtitle(cigar)}</p>}
+          {size && <p className="muted">{size}</p>}
           <p className="muted num detail-meta">{meta.join(' · ')}</p>
+          <p className="detail-facts">
+            <WrapperDot wrapper={cigar?.wrapperType ?? null} />
+            {strength && <span>{strength}</span>}
+            {cigar?.country && <span>{cigar.country}</span>}
+          </p>
         </div>
         <div className="detail-score">
           {shown === null ? (
             <span className="muted">No score</span>
           ) : (
             <>
-              <span className="numeral numeral-lg num">{shown}</span>
-              <span className="detail-verdict">{verdictFor(shown)}</span>
+              <ScoreRing shown={shown} size={112} stroke={5}>
+                <span className="numeral numeral-lg num">{counted}</span>
+              </ScoreRing>
+              <span className="verdict verdict-lg" data-verdict={verdict}>
+                {verdict}
+              </span>
             </>
           )}
         </div>
@@ -152,11 +169,7 @@ export function SmokeDetail({ id }: { id: string }) {
           {tags.length > 0 && (
             <section className="detail-section">
               <h2>Flavors</h2>
-              <ul className="tag-list">
-                {tags.map((tag) => (
-                  <li key={tag}>{tag}</li>
-                ))}
-              </ul>
+              <FlavorTags tags={tags} className="flavors-boxed" />
             </section>
           )}
 
