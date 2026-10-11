@@ -1,0 +1,129 @@
+import {
+  Archive,
+  Bookmark,
+  BookOpen,
+  ChartColumn,
+  Columns2,
+  Ellipsis,
+  Leaf,
+  type LucideIcon,
+  Plus,
+  Settings,
+} from 'lucide-react'
+import { Link, useLocation } from 'wouter'
+import { SavedBadge } from './SavedBadge'
+
+interface NavItem {
+  href: string
+  label: string
+  icon: LucideIcon
+  match: (path: string) => boolean
+}
+
+const journal: NavItem = {
+  href: '/',
+  label: 'Journal',
+  icon: BookOpen,
+  match: (path) => path === '/' || path.startsWith('/smokes'),
+}
+const humidor: NavItem = {
+  href: '/humidor',
+  label: 'Humidor',
+  icon: Archive,
+  match: (path) => path.startsWith('/humidor'),
+}
+const stats: NavItem = {
+  href: '/stats',
+  label: 'Stats',
+  icon: ChartColumn,
+  match: (path) => path.startsWith('/stats'),
+}
+const cigars: NavItem = {
+  href: '/cigars',
+  label: 'Cigars',
+  icon: Leaf,
+  match: (path) => path.startsWith('/cigars'),
+}
+const wishlist: NavItem = {
+  href: '/wishlist',
+  label: 'Wishlist',
+  icon: Bookmark,
+  match: (path) => path.startsWith('/wishlist'),
+}
+const compare: NavItem = {
+  href: '/compare',
+  label: 'Compare',
+  icon: Columns2,
+  match: (path) => path.startsWith('/compare'),
+}
+const settings: NavItem = {
+  href: '/settings',
+  label: 'Settings',
+  icon: Settings,
+  match: (path) => path.startsWith('/settings'),
+}
+const more: NavItem = {
+  href: '/more',
+  label: 'More',
+  icon: Ellipsis,
+  match: (path) =>
+    ['/more', '/cigars', '/wishlist', '/settings', '/compare'].some((p) => path.startsWith(p)),
+}
+
+function TabLink({ item, path }: { item: NavItem; path: string }) {
+  const active = item.match(path)
+  return (
+    <Link href={item.href} className="tab" aria-current={active ? 'page' : undefined}>
+      <item.icon size={24} strokeWidth={1.5} aria-hidden="true" />
+      <span>{item.label}</span>
+    </Link>
+  )
+}
+
+/** Phone and tablet: bottom tab bar with a raised Log button in the middle. */
+export function TabBar() {
+  const [path] = useLocation()
+  return (
+    <nav className="tabbar" aria-label="Main">
+      <TabLink item={journal} path={path} />
+      <TabLink item={humidor} path={path} />
+      <Link href="/log" className="tab-log" aria-label="Log a smoke">
+        <Plus size={28} strokeWidth={1.5} aria-hidden="true" />
+      </Link>
+      <TabLink item={stats} path={path} />
+      <TabLink item={more} path={path} />
+    </nav>
+  )
+}
+
+/** Laptop: left sidebar. */
+export function Sidebar() {
+  const [path] = useLocation()
+  const items = [journal, cigars, humidor, wishlist, stats, compare, settings]
+  return (
+    <nav className="sidebar" aria-label="Main">
+      <p className="sidebar-name">Cigar Journal</p>
+      <Link href="/log" className="btn btn-primary btn-block">
+        <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
+        New log
+      </Link>
+      <ul className="sidebar-list">
+        {items.map((item) => (
+          <li key={item.href}>
+            <Link
+              href={item.href}
+              className="sidebar-link"
+              aria-current={item.match(path) ? 'page' : undefined}
+            >
+              <item.icon size={20} strokeWidth={1.5} aria-hidden="true" />
+              {item.label}
+            </Link>
+          </li>
+        ))}
+      </ul>
+      <div className="sidebar-foot">
+        <SavedBadge />
+      </div>
+    </nav>
+  )
+}

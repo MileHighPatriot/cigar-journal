@@ -1,0 +1,8 @@
+node_modules
+dist
+dev-dist
+screenshots
+seed/*.xlsx
+certs
+*.cigarbak
+.DS_Store

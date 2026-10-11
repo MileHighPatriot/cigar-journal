@@ -1,0 +1,60 @@
+/* Design tokens: "after-hours lounge". Nothing else hard-codes a color, radius, or font. */
+:root {
+  color-scheme: dark;
+
+  --bg: #16110d;
+  --surface: #211912;
+  --raised: #2c2219;
+  --hairline: #3a2e23;
+  /* Edges of inputs and unselected chips. The hairline is too faint for a control. */
+  --control-border: #8a7964;
+  --text: #f0e6d6;
+  --text-2: #b3a48e;
+  --brass: #c9a063;
+  --on-brass: #16110d;
+  --cedar: #7e9a6a;
+  --error: #e07a6a;
+  --destructive: #8e332c;
+
+  --font-display: "Libre Caslon Display", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --font-body: "IBM Plex Sans Variable", system-ui, -apple-system, sans-serif;
+
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-md: 16px;
+  --text-lg: 18px;
+  --title: 30px;
+  --numeral: 40px;
+
+  /* 4px spacing base */
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 20px;
+  --s6: 24px;
+  --s8: 32px;
+  --s10: 40px;
+  --s12: 48px;
+
+  --radius: 6px;
+  --radius-sheet: 12px;
+  --tap: 48px;
+
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --dur: 180ms;
+
+  --tabbar-h: 64px;
+  --actionbar-h: 72px;
+  --sidebar-w: 232px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur: 0ms;
+  }
+}

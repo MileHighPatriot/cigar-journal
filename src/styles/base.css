@@ -1,0 +1,263 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: var(--text-md);
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-size: var(--title);
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: 0.005em;
+}
+
+h2 {
+  font-size: var(--text-md);
+  font-weight: 600;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--brass);
+  outline-offset: 2px;
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+.muted {
+  color: var(--text-2);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--s2);
+  min-height: var(--tap);
+  padding: 0 var(--s5);
+  border-radius: var(--radius);
+  font-weight: 600;
+  transition:
+    background-color var(--dur) var(--ease),
+    border-color var(--dur) var(--ease),
+    opacity var(--dur) var(--ease);
+}
+
+.btn-primary {
+  background: var(--brass);
+  color: var(--on-brass);
+}
+
+.btn-primary:disabled {
+  background: var(--raised);
+  color: var(--text-2);
+  cursor: default;
+}
+
+.btn-quiet {
+  border: 1px solid var(--control-border);
+  color: var(--text);
+}
+
+.btn-quiet:hover {
+  background: var(--raised);
+}
+
+.btn-destructive {
+  background: var(--destructive);
+  color: var(--text);
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--tap);
+  height: var(--tap);
+  border-radius: var(--radius);
+  color: var(--text-2);
+}
+
+.icon-btn:hover {
+  color: var(--text);
+  background: var(--raised);
+}
+
+/* Fields */
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s2);
+}
+
+.field > span,
+.field-label {
+  font-size: var(--text-sm);
+  color: var(--text-2);
+}
+
+.input {
+  width: 100%;
+  min-height: var(--tap);
+  padding: 0 var(--s3);
+  background: var(--surface);
+  border: 1px solid var(--control-border);
+  border-radius: var(--radius);
+  color: var(--text);
+}
+
+.input::placeholder {
+  color: var(--text-2);
+  opacity: 1;
+}
+
+.input:focus-visible {
+  outline-offset: 0;
+}
+
+/* Chips */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--s1);
+  min-height: var(--tap);
+  min-width: var(--tap);
+  padding: 0 var(--s4);
+  border: 1px solid var(--control-border);
+  border-radius: var(--radius);
+  color: var(--text);
+  transition:
+    background-color var(--dur) var(--ease),
+    border-color var(--dur) var(--ease),
+    color var(--dur) var(--ease);
+}
+
+.chip[aria-pressed="true"],
+.chip[aria-checked="true"] {
+  background: var(--brass);
+  border-color: var(--brass);
+  color: var(--on-brass);
+  font-weight: 600;
+}
+
+.chip:disabled {
+  border-color: var(--hairline);
+  color: var(--text-2);
+  cursor: default;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2);
+}
+
+/* Small label on a hairline pill-free tag */
+.tag {
+  font-size: var(--text-sm);
+  color: var(--text-2);
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+}
+
+.banner {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--s3);
+  padding: var(--s3) var(--s4);
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  font-size: var(--text-sm);
+}
+
+.error-text {
+  color: var(--error);
+  font-size: var(--text-sm);
+}
