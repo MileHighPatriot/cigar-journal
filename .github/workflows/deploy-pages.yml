@@ -29,6 +29,10 @@ jobs:
         run: npm run build
         env:
           VITE_BASE_PATH: /${{ github.event.repository.name }}/
+          # Sync. A project of its own, separate from every other app. Public by design:
+          # each signed-in user can only reach their own rows and photos.
+          VITE_SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
       - uses: actions/configure-pages@v5
         with:
           enablement: true

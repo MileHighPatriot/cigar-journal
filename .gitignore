@@ -6,3 +6,6 @@ seed/*.xlsx
 certs
 *.cigarbak
 .DS_Store
+.env
+.env.*
+!.env.example

@@ -134,6 +134,13 @@ export function describeError(error: unknown): string {
 let queue: Promise<void> = Promise.resolve()
 let pending = 0
 let firstSaveDone = false
+const savedListeners = new Set<() => void>()
+
+/** Tells sync that something was just saved on this device. */
+export function onSaved(listener: () => void): () => void {
+  savedListeners.add(listener)
+  return () => savedListeners.delete(listener)
+}
 // True once any write in the current run of saves has failed, so a later success in the
 // same run does not hide the error.
 let runFailed = false
@@ -160,6 +167,7 @@ function persist(batch: RecordBatch): Promise<void> {
         firstSaveDone = true
         void requestPersist(getRepo())
       }
+      for (const listener of savedListeners) listener()
     },
     (error) => {
       pending -= 1

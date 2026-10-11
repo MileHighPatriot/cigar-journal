@@ -18,6 +18,7 @@ import {
   summaryText,
 } from '../backup/importBackup'
 import { Sheet } from '../components/Sheet'
+import { SyncCard } from '../components/SyncCard'
 import { showToast } from '../components/toast'
 import { describeError, getRepo, useMeta, useStore } from '../data/store'
 import { backupStatus } from '../domain/backupStatus'
@@ -213,6 +214,7 @@ export function Settings() {
       )}
 
       <div className="settings-grid">
+        <SyncCard />
         <section className="card settings-card">
           <h2>Backup</h2>
           <p className="muted">

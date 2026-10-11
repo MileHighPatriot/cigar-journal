@@ -203,4 +203,14 @@ export interface Meta {
   installHintDismissed: boolean
   lastLogMode: 'quick' | 'full'
   deviceId: string
+  /** Sync: the server time of the newest row pulled so far. */
+  syncPulledAt: Iso
+  /** Sync: this device's clock when the last push began. */
+  syncPushedAt: Iso
+  /** Sync: photos whose bytes are already on the server. */
+  syncUploadedPhotos: string[]
+  /** Sync: when the last full round finished on this device. */
+  syncLastAt: Iso
+  /** Sync: the saved sign-in, kept here and not in localStorage (other sites share this address). */
+  syncSession: string
 }
