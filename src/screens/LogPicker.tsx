@@ -5,7 +5,7 @@ import { FlowLayout } from '../components/FlowLayout'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { Sheet } from '../components/Sheet'
 import { newCigar, newSmoke } from '../data/factories'
-import { getRepo, saveBatch, useStore } from '../data/store'
+import { getRepo, logPath, saveBatch, useStore } from '../data/store'
 import type { Cigar } from '../data/types'
 import { cigarSubtitle, cigarTitle } from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
@@ -55,9 +55,10 @@ export function LogPicker() {
 
   /** A smoke exists from the moment a cigar is picked, so nothing typed after is lost. */
   function start(cigar: Cigar, lotId: string | null, isNew = false) {
-    const smoke = newSmoke(cigar.id, { lotId, mode, draftStep: 'scores' })
+    const draftStep = mode === 'full' ? 'full/prelight' : 'scores'
+    const smoke = newSmoke(cigar.id, { lotId, mode, draftStep })
     void saveBatch(isNew ? { cigars: [cigar], smokes: [smoke] } : { smokes: [smoke] })
-    navigate(`/log/${smoke.id}/scores`, { replace: true })
+    navigate(logPath(smoke), { replace: true })
   }
 
   const humidorRows = useMemo(() => {

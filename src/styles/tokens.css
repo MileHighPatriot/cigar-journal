@@ -49,6 +49,13 @@
   --leaf-sanandres: #3b2317;
   --leaf-maduro: #33201a;
 
+  /* Strength, mild to full. */
+  --strength-1: #dcc08a;
+  --strength-2: #c9a063;
+  --strength-3: #a87a42;
+  --strength-4: #84552d;
+  --strength-5: #5c3a20;
+
   /* Ambient glow behind page headers. */
   --glow-brass: rgb(201 160 99 / 0.16);
   --glow-ember: rgb(190 84 52 / 0.12);

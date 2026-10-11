@@ -1,6 +1,15 @@
 import { describe, expect, it } from 'vitest'
 import { newLot, newSmoke } from '../src/data/factories'
-import { daysAged, humidorValue, isReady, remaining, smokedCountByLot } from '../src/domain/humidor'
+import {
+  addDays,
+  daysAged,
+  humidorTotals,
+  humidorValue,
+  isReady,
+  remaining,
+  restInfo,
+  smokedCountByLot,
+} from '../src/domain/humidor'
 
 describe('humidor count', () => {
   const lot = newLot('cigar-1', { quantityPurchased: 5, priceEach: 12 })
@@ -46,5 +55,36 @@ describe('humidor count', () => {
     expect(isReady({ ...lot, restUntil: '2026-10-10' }, none, '2026-10-10')).toBe(true)
     expect(isReady({ ...lot, restUntil: '2026-11-01' }, none, '2026-10-10')).toBe(false)
     expect(isReady({ ...lot, quantityRemoved: 5 }, none, '2026-10-10')).toBe(false)
+  })
+
+  it('tracks the rest period from purchase to the rest-until date', () => {
+    const resting = { ...lot, purchaseDate: '2026-10-01', restUntil: '2026-10-21' }
+    expect(restInfo(resting, '2026-10-11')).toEqual({ resting: true, daysLeft: 10, progress: 0.5 })
+    expect(restInfo(resting, '2026-10-21')).toEqual({ resting: false, daysLeft: 0, progress: 1 })
+    expect(restInfo({ ...lot, restUntil: null }, '2026-10-11').resting).toBe(false)
+  })
+
+  it('adds days across a month end', () => {
+    expect(addDays('2026-10-25', 14)).toBe('2026-11-08')
+  })
+
+  it('totals what is on hand, ready, resting, and its value', () => {
+    const ready = newLot('a', { quantityPurchased: 5, priceEach: 10 })
+    const resting = newLot('b', {
+      quantityPurchased: 3,
+      priceEach: 20,
+      purchaseDate: '2026-10-01',
+      restUntil: '2026-12-01',
+    })
+    const deleted = newLot('c', { quantityPurchased: 9, deletedAt: '2026-10-02T00:00:00.000Z' })
+    const smoke = newSmoke('a', { lotId: ready.id })
+    expect(
+      humidorTotals([ready, resting, deleted], smokedCountByLot([smoke]), '2026-10-10'),
+    ).toEqual({
+      onHand: 7,
+      ready: 4,
+      resting: 3,
+      value: 100,
+    })
   })
 })

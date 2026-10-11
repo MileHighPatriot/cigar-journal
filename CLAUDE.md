@@ -6,7 +6,7 @@ Kohlton's personal cigar journal: an offline-capable Home Screen web app (PWA) f
 
 ## Status
 
-Phase 1 build in progress. Steps 0 to 3 of SPEC section 16 are done (setup, shell and PWA, data layer, journal list and quick log). Waiting at the design checkpoint for Kohlton's OK before step 5.
+Phase 1 build in progress, one tab at a time at Kohlton's request (he looks at each before the next). Done: setup, shell and PWA, data layer, journal list, quick log, Cigars tab, Humidor tab, Settings and backup, Wishlist, Stats, Compare, full log. Every Phase 1 screen is built; what is left is the final acceptance pass in SPEC section 19 and Kohlton's phone checks. SPEC section 23 lists what changed along the way.
 
 ## Commands
 

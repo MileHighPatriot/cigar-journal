@@ -67,7 +67,7 @@ const more: NavItem = {
   label: 'More',
   icon: Ellipsis,
   match: (path) =>
-    ['/more', '/cigars', '/wishlist', '/settings', '/compare'].some((p) => path.startsWith(p)),
+    ['/more', '/stats', '/wishlist', '/settings', '/compare'].some((p) => path.startsWith(p)),
 }
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
@@ -86,11 +86,11 @@ export function TabBar() {
   return (
     <nav className="tabbar" aria-label="Main">
       <TabLink item={journal} path={path} />
-      <TabLink item={humidor} path={path} />
+      <TabLink item={cigars} path={path} />
       <Link href="/log" className="tab-log" aria-label="Log a smoke">
         <Plus size={28} strokeWidth={1.5} aria-hidden="true" />
       </Link>
-      <TabLink item={stats} path={path} />
+      <TabLink item={humidor} path={path} />
       <TabLink item={more} path={path} />
     </nav>
   )

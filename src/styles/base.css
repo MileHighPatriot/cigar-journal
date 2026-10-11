@@ -172,6 +172,7 @@ ol {
 }
 
 .field > span,
+.field > label,
 .field-label {
   font-size: var(--text-sm);
   color: var(--text-2);

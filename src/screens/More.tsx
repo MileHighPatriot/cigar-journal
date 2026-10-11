@@ -1,8 +1,15 @@
-import { Bookmark, ChevronRight, Leaf, type LucideIcon, Settings, Wrench } from 'lucide-react'
+import {
+  Bookmark,
+  ChartColumn,
+  ChevronRight,
+  type LucideIcon,
+  Settings,
+  Wrench,
+} from 'lucide-react'
 import { Link } from 'wouter'
 
 const LINKS: { href: string; label: string; icon: LucideIcon }[] = [
-  { href: '/cigars', label: 'Cigars', icon: Leaf },
+  { href: '/stats', label: 'Stats', icon: ChartColumn },
   { href: '/wishlist', label: 'Wishlist', icon: Bookmark },
   { href: '/settings', label: 'Settings and backup', icon: Settings },
 ]

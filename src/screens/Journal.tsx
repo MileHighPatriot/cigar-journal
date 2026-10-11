@@ -1,6 +1,7 @@
 import { Search, Trash2 } from 'lucide-react'
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'wouter'
+import { BackupReminder } from '../components/BackupReminder'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { InstallHint } from '../components/InstallHint'
 import { ScoreRing } from '../components/ScoreRing'
@@ -162,6 +163,7 @@ export function Journal({ selectedId }: { selectedId?: string }) {
         <Hero complete={complete} />
 
         <InstallHint />
+        <BackupReminder />
 
         {drafts.map((row) => (
           <ResumeCard key={row.smoke.id} row={row} />

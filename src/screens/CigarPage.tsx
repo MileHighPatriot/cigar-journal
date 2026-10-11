@@ -1,0 +1,325 @@
+import { Archive, Bookmark, Check, ChevronLeft, Pencil, Plus, Trash2 } from 'lucide-react'
+import { useMemo, useState } from 'react'
+import { Link, useLocation } from 'wouter'
+import { CigarForm } from '../components/CigarForm'
+import { FlavorTags } from '../components/FlavorTags'
+import { LotForm } from '../components/LotForm'
+import { WrapperDot } from '../components/Monogram'
+import { ScoreRing } from '../components/ScoreRing'
+import { Sparkline } from '../components/Sparkline'
+import { showToast } from '../components/toast'
+import { WishForm } from '../components/WishForm'
+import { restoreRecord, saveRecord, softDelete, startLog, useStore } from '../data/store'
+import { priceLabel, wrapperOptions } from '../domain/cigars'
+import { cigarSubtitle, cigarTitle, formatDate, formatMinutes } from '../domain/format'
+import { remaining, smokedCountByLot } from '../domain/humidor'
+import { levelLabel, shownScore, verdictFor } from '../domain/scoring'
+import { smokeSize } from '../domain/sizes'
+import { effectiveTags, normalizeTag } from '../domain/tags'
+
+export function CigarPage({ id }: { id: string }) {
+  const state = useStore()
+  const [, navigate] = useLocation()
+  const [editing, setEditing] = useState(false)
+  const [stocking, setStocking] = useState(false)
+  const [wishing, setWishing] = useState(false)
+  const cigar = state.cigars.get(id)
+
+  const smokes = useMemo(
+    () =>
+      [...state.smokes.values()]
+        .filter((s) => s.cigarId === id && !s.deletedAt && s.status === 'complete')
+        .sort((a, b) => (a.smokedAt < b.smokedAt ? 1 : -1)),
+    [state.smokes, id],
+  )
+  const wrappers = useMemo(() => wrapperOptions(state.cigars.values()), [state.cigars])
+  const onHand = useMemo(() => {
+    const smoked = smokedCountByLot(state.smokes.values())
+    return [...state.lots.values()]
+      .filter((lot) => lot.cigarId === id && !lot.deletedAt)
+      .map((lot) => ({ lot, left: remaining(lot, smoked) }))
+      .filter((entry) => entry.left > 0)
+  }, [state.lots, state.smokes, id])
+
+  const wished = [...state.wishlist.values()].some(
+    (item) => item.cigarId === id && !item.deletedAt && item.status === 'open',
+  )
+
+  if (!cigar || cigar.deletedAt) {
+    return (
+      <div className="detail">
+        <p className="muted">This cigar is not in your list.</p>
+        <Link href="/cigars" className="btn btn-quiet">
+          Back to cigars
+        </Link>
+      </div>
+    )
+  }
+
+  const scores = smokes.filter((s) => s.score !== null).map((s) => shownScore(s.score ?? 0))
+  const average =
+    scores.length > 0 ? Math.round(scores.reduce((sum, n) => sum + n, 0) / scores.length) : null
+  const trend = [...scores].reverse()
+  const myTags = [...new Set(smokes.flatMap((s) => effectiveTags(s)))].slice(0, 12)
+  const sheetTags = [...new Set(cigar.sheetFlavors.map(normalizeTag))]
+  const sizes = new Map<string, number>()
+  for (const smoke of smokes) {
+    const size = smokeSize(smoke, cigar)
+    if (size) sizes.set(size, (sizes.get(size) ?? 0) + 1)
+  }
+
+  const facts: [string, string | null][] = [
+    ['Wrapper origin', cigar.wrapperOrigin],
+    ['Binder', cigar.binder],
+    ['Filler', cigar.filler],
+    ['Country made', cigar.country],
+    ['Factory', cigar.factory],
+    ['Strength', levelLabel(cigar.strength) || null],
+    ['Price tier', priceLabel(cigar.priceTier) || null],
+    ['Size', cigarSubtitle(cigar) || null],
+    ['Shape', cigar.shape],
+  ]
+  const known = facts.filter(([, value]) => value)
+
+  async function log() {
+    navigate(await startLog(id))
+  }
+
+  function remove() {
+    void softDelete('cigars', id)
+    navigate('/cigars')
+    showToast({
+      message: 'Cigar removed',
+      actionLabel: 'Undo',
+      onAction: () => void restoreRecord('cigars', id),
+    })
+  }
+
+  return (
+    <article className="detail">
+      <div className="detail-bar">
+        <Link href="/cigars" className="icon-btn detail-back" aria-label="Back to cigars">
+          <ChevronLeft size={24} strokeWidth={1.5} aria-hidden="true" />
+        </Link>
+      </div>
+
+      <header className="detail-head">
+        <div>
+          <p className="band-brand">{cigar.brand || 'No brand yet'}</p>
+          <h1>{cigarTitle(cigar)}</h1>
+          <p className="detail-facts">
+            <WrapperDot wrapper={cigar.wrapperType} />
+            {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
+            {cigar.country && <span>{cigar.country}</span>}
+          </p>
+        </div>
+        {average !== null && (
+          <div className="detail-score">
+            <ScoreRing shown={average} size={112} stroke={5}>
+              <span className="numeral numeral-lg num">{average}</span>
+            </ScoreRing>
+            <span className="verdict">
+              Average of {scores.length} {scores.length === 1 ? 'smoke' : 'smokes'}
+            </span>
+          </div>
+        )}
+      </header>
+
+      {!cigar.confirmed && (
+        <div className="banner">
+          <p>
+            <strong>Unconfirmed.</strong> These details have not been checked against the cigar in
+            your hand.
+          </p>
+          <button
+            type="button"
+            className="btn btn-quiet"
+            onClick={() => void saveRecord('cigars', { ...cigar, confirmed: true })}
+          >
+            <Check size={20} strokeWidth={1.5} aria-hidden="true" />
+            Looks right
+          </button>
+        </div>
+      )}
+
+      <div className="detail-actions detail-actions-top">
+        <button type="button" className="btn btn-primary" onClick={() => void log()}>
+          <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
+          Log this cigar
+        </button>
+        <button type="button" className="btn btn-quiet" onClick={() => setEditing(true)}>
+          <Pencil size={20} strokeWidth={1.5} aria-hidden="true" />
+          Edit
+        </button>
+        <button type="button" className="btn btn-quiet" onClick={() => setStocking(true)}>
+          <Archive size={20} strokeWidth={1.5} aria-hidden="true" />
+          Add to humidor
+        </button>
+        {wished ? (
+          <Link href="/wishlist" className="btn btn-quiet">
+            <Bookmark size={20} strokeWidth={1.5} aria-hidden="true" />
+            On your wishlist
+          </Link>
+        ) : (
+          <button type="button" className="btn btn-quiet" onClick={() => setWishing(true)}>
+            <Bookmark size={20} strokeWidth={1.5} aria-hidden="true" />
+            Add to wishlist
+          </button>
+        )}
+      </div>
+
+      {onHand.length > 0 && (
+        <p className="on-hand">
+          <span className="ready-line">In your humidor</span>
+          {onHand.map(({ lot, left }) => (
+            <Link key={lot.id} href={`/humidor/${lot.id}`} className="text-link num">
+              {left} left
+            </Link>
+          ))}
+        </p>
+      )}
+
+      <section className="detail-section">
+        <h2>Details</h2>
+        {known.length === 0 ? (
+          <p className="muted">Nothing filled in yet. Tap Edit to add what you know.</p>
+        ) : (
+          <dl className="facts">
+            {known.map(([label, value]) => (
+              <div key={label}>
+                <dt>{label}</dt>
+                <dd>{value}</dd>
+              </div>
+            ))}
+          </dl>
+        )}
+        {cigar.notes && <p className="detail-note">{cigar.notes}</p>}
+      </section>
+
+      <section className="detail-section">
+        <h2>Your smokes</h2>
+        {smokes.length === 0 ? (
+          <p className="muted">You have not logged this one yet.</p>
+        ) : (
+          <>
+            {trend.length > 1 && (
+              <div className="trend">
+                <Sparkline
+                  values={trend}
+                  label={`Your scores for this cigar, oldest to newest: ${trend.join(', ')}`}
+                />
+                <span className="hero-label">Score trend, oldest to newest</span>
+              </div>
+            )}
+            {sizes.size > 0 && (
+              <p className="muted">
+                Sizes smoked:{' '}
+                {[...sizes].map(([size, n]) => (n > 1 ? `${size} (${n})` : size)).join(', ')}
+              </p>
+            )}
+            <ul className="mini-list">
+              {smokes.map((smoke) => {
+                const shown = smoke.score === null ? null : shownScore(smoke.score)
+                const meta = [
+                  formatDate(smoke.smokedAt),
+                  smokeSize(smoke, cigar),
+                  formatMinutes(smoke.durationMin),
+                ].filter(Boolean)
+                return (
+                  <li key={smoke.id}>
+                    <Link href={`/smokes/${smoke.id}`} className="mini-row">
+                      <span className="mini-main">
+                        <span className="num">{meta.join(' · ')}</span>
+                        <FlavorTags tags={effectiveTags(smoke).slice(0, 3)} />
+                      </span>
+                      {shown === null ? (
+                        <span className="muted">No score</span>
+                      ) : (
+                        <span className="mini-score">
+                          <span className="numeral numeral-sm num">{shown}</span>
+                          <span className="verdict" data-verdict={verdictFor(shown)}>
+                            {verdictFor(shown)}
+                          </span>
+                        </span>
+                      )}
+                    </Link>
+                  </li>
+                )
+              })}
+            </ul>
+          </>
+        )}
+      </section>
+
+      {myTags.length > 0 && (
+        <section className="detail-section">
+          <h2>Flavors you found</h2>
+          <FlavorTags tags={myTags} className="flavors-boxed" />
+        </section>
+      )}
+
+      {(sheetTags.length > 0 ||
+        cigar.sheetPairings.length > 0 ||
+        cigar.otherWrapperVersions ||
+        cigar.similarCigars) && (
+        <section className="detail-section">
+          <h2>From the lounge sheet</h2>
+          {sheetTags.length > 0 && <FlavorTags tags={sheetTags} className="flavors-boxed" />}
+          <dl className="facts">
+            {cigar.sheetPairings.length > 0 && (
+              <div>
+                <dt>Pairings</dt>
+                <dd>{cigar.sheetPairings.join(', ')}</dd>
+              </div>
+            )}
+            {cigar.otherWrapperVersions && (
+              <div>
+                <dt>Other wrapper versions</dt>
+                <dd>{cigar.otherWrapperVersions}</dd>
+              </div>
+            )}
+            {cigar.similarCigars && (
+              <div>
+                <dt>If they like this, suggest</dt>
+                <dd>{cigar.similarCigars}</dd>
+              </div>
+            )}
+          </dl>
+        </section>
+      )}
+
+      {smokes.length === 0 && (
+        <div className="detail-actions">
+          <button type="button" className="btn btn-quiet" onClick={remove}>
+            <Trash2 size={20} strokeWidth={1.5} aria-hidden="true" />
+            Remove from list
+          </button>
+        </div>
+      )}
+
+      <LotForm
+        open={stocking}
+        lot={null}
+        cigarId={id}
+        onClose={() => setStocking(false)}
+        onSaved={() => showToast({ message: 'Added to your humidor' })}
+      />
+
+      <WishForm
+        open={wishing}
+        item={null}
+        cigarId={id}
+        onClose={() => setWishing(false)}
+        onSaved={() => showToast({ message: 'Added to your wishlist' })}
+      />
+
+      <CigarForm
+        open={editing}
+        cigar={cigar}
+        wrappers={wrappers}
+        onClose={() => setEditing(false)}
+        onSaved={() => showToast({ message: 'Cigar saved' })}
+      />
+    </article>
+  )
+}

@@ -1,19 +1,23 @@
-import { useSyncExternalStore } from 'react'
+import { useEffect, useState, useSyncExternalStore } from 'react'
 import { computeScore } from '../domain/scoring'
 import { processPhoto } from '../photos/pipeline'
 import { requestPersist } from '../pwa/storage'
-import { newPhoto } from './factories'
+import { newPhoto, newSmoke } from './factories'
 import { IdbRepository, nowIso, type RecordBatch, type Repository } from './repository'
 import { type SeedCatalog, seedCatalog } from './seed'
 import type {
   Cigar,
   CustomTag,
   Lot,
+  Meta,
   Photo,
   PhotoKind,
+  Prelight,
   RecordMap,
   Smoke,
   StoreName,
+  Third,
+  ThirdKey,
   WishlistItem,
 } from './types'
 import { STORE_NAMES } from './types'
@@ -257,4 +261,70 @@ export async function addPhoto(smokeId: string, file: Blob, kind: PhotoKind): Pr
   )
   await saveRecord('photos', photo)
   return photo
+}
+
+/** Where a log picks up: the quick flow's scores, or the full log's first step. */
+export function logPath(smoke: Pick<Smoke, 'id' | 'draftStep'>): string {
+  return `/log/${smoke.id}/${smoke.draftStep ?? 'scores'}`
+}
+
+/** Starts a log for a cigar from outside the picker, in the mode used last time. Returns its path. */
+export async function startLog(cigarId: string, lotId: string | null = null): Promise<string> {
+  const mode = (await getRepo().getMeta('lastLogMode')) ?? 'quick'
+  const draftStep = mode === 'full' ? 'full/prelight' : 'scores'
+  const smoke = newSmoke(cigarId, { lotId, mode, draftStep })
+  void saveRecord('smokes', smoke)
+  return logPath(smoke)
+}
+
+// Nested parts of a smoke are patched from the latest saved copy, so two quick edits
+// to different fields never overwrite each other.
+export function patchPrelight(id: string, patch: Partial<Prelight>): Promise<void> {
+  const current = state.smokes.get(id)
+  if (!current) return Promise.resolve()
+  return patchSmoke(id, { prelight: { ...current.prelight, ...patch } })
+}
+
+export function patchThird(id: string, third: ThirdKey, patch: Partial<Third>): Promise<void> {
+  const current = state.smokes.get(id)
+  if (!current) return Promise.resolve()
+  return patchSmoke(id, {
+    thirds: { ...current.thirds, [third]: { ...current.thirds[third], ...patch } },
+  })
+}
+
+// Device settings (meta) are not part of the record stores, so they get their own signal.
+let metaVersion = 0
+const metaListeners = new Set<() => void>()
+
+export async function setMeta<K extends keyof Meta>(key: K, value: Meta[K]): Promise<void> {
+  await getRepo().setMeta(key, value)
+  metaVersion += 1
+  for (const listener of metaListeners) listener()
+}
+
+/** A device setting, re-read whenever any setting changes. Undefined until loaded or unset. */
+export function useMeta<K extends keyof Meta>(key: K): Meta[K] | undefined {
+  const [value, setValue] = useState<Meta[K] | undefined>(undefined)
+  const version = useSyncExternalStore(
+    (listener) => {
+      metaListeners.add(listener)
+      return () => metaListeners.delete(listener)
+    },
+    () => metaVersion,
+  )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: version is the signal to re-read
+  useEffect(() => {
+    let cancelled = false
+    getRepo()
+      .getMeta(key)
+      .then((next) => {
+        if (!cancelled) setValue(next)
+      })
+      .catch(() => {})
+    return () => {
+      cancelled = true
+    }
+  }, [key, version])
+  return value
 }

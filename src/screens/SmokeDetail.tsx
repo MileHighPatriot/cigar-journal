@@ -1,4 +1,4 @@
-import { ChevronLeft, Trash2 } from 'lucide-react'
+import { ChevronLeft, Copy, Pencil, Trash2 } from 'lucide-react'
 import { useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
@@ -19,6 +19,7 @@ import {
 } from '../domain/format'
 import { levelLabel, RUBRIC, shownScore, verdictFor } from '../domain/scoring'
 import { smokeSize } from '../domain/sizes'
+import { smokeSummary } from '../domain/summary'
 import { effectiveTags } from '../domain/tags'
 import { usePhotoUrl } from '../photos/usePhotoUrl'
 
@@ -90,6 +91,75 @@ export function SmokeDetail({ id }: { id: string }) {
     where,
     formatMinutes(smoke.durationMin),
   ].filter(Boolean)
+
+  const THIRD_LABELS = [
+    ['first', 'First third'],
+    ['second', 'Second third'],
+    ['final', 'Final third'],
+  ] as const
+  const thirdRows = THIRD_LABELS.map(([key, label]) => ({
+    key,
+    label,
+    third: smoke.thirds[key],
+  })).filter(
+    ({ third }) =>
+      third.tags.length > 0 ||
+      third.strength ||
+      third.body ||
+      third.retrohale ||
+      third.note ||
+      third.issues.length > 0,
+  )
+  const BUY_LABELS = { no: 'No', single: 'A single', few: 'A few', box: 'A box' } as const
+  const fact = (label: string, value: string | number | null | undefined): [string, string][] =>
+    value === null || value === undefined || value === '' ? [] : [[label, String(value)]]
+  const groups = [
+    {
+      title: 'Pre-light',
+      facts: [
+        ...fact('Wrapper', smoke.prelight.wrapperNotes),
+        ...fact('Foot aroma', smoke.prelight.footAroma),
+        ...fact('Cold draw', smoke.prelight.coldDraw),
+        ...fact('Cut', smoke.prelight.cutType),
+        ...fact('Light', smoke.prelight.lightMethod),
+      ],
+    },
+    {
+      title: 'Construction',
+      facts: [
+        ...fact('Draw', smoke.draw),
+        ...fact('Burn', smoke.burn),
+        ...fact('Ash', [smoke.ashFirmness, smoke.ashColor].filter(Boolean).join(', ')),
+        ...fact('Smoke volume', smoke.smokeVolume),
+        ...fact('Relights', smoke.relights > 0 ? smoke.relights : null),
+        ...fact('Touch-ups', smoke.touchUps > 0 ? smoke.touchUps : null),
+        ...fact('Body', levelLabel(smoke.body)),
+      ],
+    },
+    {
+      title: 'Pairing and setting',
+      facts: [
+        ...fact('Pairing', [smoke.pairingType, smoke.pairingName].filter(Boolean).join(', ')),
+        ...fact('Indoor or outdoor', smoke.environment),
+        ...fact('Company', smoke.company),
+        ...fact('Conditions', smoke.conditions),
+        ...fact('Mood', smoke.mood),
+        ...fact('Would buy again', smoke.wouldBuyAgain ? BUY_LABELS[smoke.wouldBuyAgain] : null),
+        ...fact('Price paid', smoke.pricePaid === null ? null : formatMoney(smoke.pricePaid)),
+      ],
+    },
+  ].filter((group) => group.facts.length > 0)
+
+  async function copy() {
+    if (!smoke) return
+    const summary = smokeSummary(smoke, cigar)
+    try {
+      await navigator.clipboard.writeText(summary)
+      showToast({ message: 'Summary copied' })
+    } catch {
+      showToast({ message: 'Could not copy. Your browser blocked it.' })
+    }
+  }
 
   function remove() {
     const { undo } = deleteSmoke(id)
@@ -173,12 +243,46 @@ export function SmokeDetail({ id }: { id: string }) {
             </section>
           )}
 
-          {(smoke.pairingType || smoke.pairingName) && (
+          {thirdRows.length > 0 && (
             <section className="detail-section">
-              <h2>Pairing</h2>
-              <p>{[smoke.pairingType, smoke.pairingName].filter(Boolean).join(', ')}</p>
+              <h2>By third</h2>
+              <ol className="thirds">
+                {thirdRows.map(({ key, label, third }) => (
+                  <li key={key}>
+                    <h3>{label}</h3>
+                    <FlavorTags tags={third.tags} />
+                    {(third.strength || third.body) && (
+                      <p className="muted">
+                        {[
+                          third.strength && `Strength ${levelLabel(third.strength)}`,
+                          third.body && `Body ${levelLabel(third.body)}`,
+                        ]
+                          .filter(Boolean)
+                          .join(' \u00B7 ')}
+                      </p>
+                    )}
+                    {third.retrohale && <p>Retrohale: {third.retrohale}</p>}
+                    {third.note && <p className="detail-note">{third.note}</p>}
+                    {third.issues.length > 0 && <p className="muted">{third.issues.join(', ')}</p>}
+                  </li>
+                ))}
+              </ol>
             </section>
           )}
+
+          {groups.map((group) => (
+            <section key={group.title} className="detail-section">
+              <h2>{group.title}</h2>
+              <dl className="facts">
+                {group.facts.map(([label, value]) => (
+                  <div key={label}>
+                    <dt>{label}</dt>
+                    <dd>{value}</dd>
+                  </div>
+                ))}
+              </dl>
+            </section>
+          ))}
 
           {smoke.summary && (
             <section className="detail-section">
@@ -186,17 +290,18 @@ export function SmokeDetail({ id }: { id: string }) {
               <p className="detail-note">{smoke.summary}</p>
             </section>
           )}
-
-          {smoke.pricePaid !== null && (
-            <section className="detail-section">
-              <h2>Price paid</h2>
-              <p className="num">{formatMoney(smoke.pricePaid)}</p>
-            </section>
-          )}
         </div>
       </div>
 
       <div className="detail-actions">
+        <Link href={`/log/${smoke.id}/full/prelight`} className="btn btn-quiet">
+          <Pencil size={20} strokeWidth={1.5} aria-hidden="true" />
+          {smoke.mode === 'full' ? 'Edit' : 'Add detail'}
+        </Link>
+        <button type="button" className="btn btn-quiet" onClick={() => void copy()}>
+          <Copy size={20} strokeWidth={1.5} aria-hidden="true" />
+          Copy summary
+        </button>
         <button type="button" className="btn btn-quiet" onClick={remove}>
           <Trash2 size={20} strokeWidth={1.5} aria-hidden="true" />
           Delete

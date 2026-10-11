@@ -104,17 +104,48 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
   // A handful of seeded lines, so the same cigars come up more than once.
   const cigars: Cigar[] = Array.from({ length: 18 }, () => pick(random, seedCigars))
 
-  const lots: Lot[] = cigars
-    .slice(0, 3)
-    .map((cigar, i) =>
-      newLot(cigar.id, { id: fakeId(), quantityPurchased: 5 + i, priceEach: 11 + i * 3 }),
-    )
+  const today = new Date()
+  const daysAgo = (days: number) => {
+    const date = new Date(today)
+    date.setDate(date.getDate() - days)
+    return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
+  }
+  const lots: Lot[] = [
+    newLot(cigars[0]?.id ?? '', {
+      id: fakeId(),
+      quantityPurchased: 5,
+      priceEach: 11,
+      purchaseDate: daysAgo(64),
+    }),
+    newLot(cigars[1]?.id ?? '', {
+      id: fakeId(),
+      quantityPurchased: 10,
+      priceEach: 14.5,
+      purchaseDate: daysAgo(20),
+      boxCode: 'MAY 25',
+    }),
+    newLot(cigars[2]?.id ?? '', {
+      id: fakeId(),
+      quantityPurchased: 24,
+      priceEach: 9,
+      purchaseDate: daysAgo(12),
+      restUntil: daysAgo(-48),
+    }),
+    newLot(cigars[3]?.id ?? '', {
+      id: fakeId(),
+      quantityPurchased: 2,
+      priceEach: 22,
+      purchaseDate: daysAgo(5),
+      restUntil: daysAgo(-9),
+    }),
+  ]
 
   const smokes: Smoke[] = []
   const photos: Photo[] = []
   const now = Date.now()
   for (let i = 0; i < count; i++) {
-    const cigar = pick(random, cigars)
+    const fromLot = i === 1 || i === 4 ? cigars[0] : i === 2 ? cigars[1] : undefined
+    const cigar = fromLot ?? pick(random, cigars)
     const [vitola, lengthIn, ringGauge] = pick(random, SIZES)
     const quality = 6.2 + random() * 2.8
     const ratings = {
@@ -131,6 +162,7 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
       newSmoke(cigar.id, {
         id: fakeId(),
         status: 'complete',
+        lotId: i === 1 || i === 4 ? (lots[0]?.id ?? null) : i === 2 ? (lots[1]?.id ?? null) : null,
         vitola,
         lengthIn,
         ringGauge,
@@ -140,6 +172,7 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
         score: computeScore(ratings)?.exact ?? null,
         quickTags: tags,
         durationMin: 40 + Math.floor(random() * 60),
+        pricePaid: fromLot || random() < 0.35 ? null : 8 + Math.floor(random() * 19),
         summary: pick(random, NOTES),
         pairingType,
         pairingName,

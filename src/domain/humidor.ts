@@ -39,3 +39,57 @@ export function humidorValue(lots: Iterable<Lot>, smoked: Map<string, number>): 
   }
   return total
 }
+
+function dayMs(date: string): number {
+  return Date.parse(`${date}T00:00:00`)
+}
+
+export function addDays(date: string, days: number): string {
+  const next = new Date(dayMs(date))
+  next.setDate(next.getDate() + days)
+  return localDate(next)
+}
+
+export interface RestInfo {
+  /** True while the rest-until date is still ahead. */
+  resting: boolean
+  daysLeft: number
+  /** 0 to 1, from the purchase date to the rest-until date. */
+  progress: number
+}
+
+export function restInfo(lot: Lot, today = localDate()): RestInfo {
+  if (!lot.restUntil || lot.restUntil <= today) return { resting: false, daysLeft: 0, progress: 1 }
+  const total = Math.max(1, dayMs(lot.restUntil) - dayMs(lot.purchaseDate))
+  const done = dayMs(today) - dayMs(lot.purchaseDate)
+  return {
+    resting: true,
+    daysLeft: Math.round((dayMs(lot.restUntil) - dayMs(today)) / 86_400_000),
+    progress: Math.min(1, Math.max(0, done / total)),
+  }
+}
+
+export interface HumidorTotals {
+  /** Cigars on hand across every lot. */
+  onHand: number
+  ready: number
+  resting: number
+  value: number
+}
+
+export function humidorTotals(
+  lots: Iterable<Lot>,
+  smoked: Map<string, number>,
+  today = localDate(),
+): HumidorTotals {
+  const totals: HumidorTotals = { onHand: 0, ready: 0, resting: 0, value: 0 }
+  for (const lot of lots) {
+    if (lot.deletedAt) continue
+    const left = remaining(lot, smoked)
+    totals.onHand += left
+    totals.value += left * (lot.priceEach ?? 0)
+    if (restInfo(lot, today).resting) totals.resting += left
+    else totals.ready += left
+  }
+  return totals
+}

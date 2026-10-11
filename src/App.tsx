@@ -6,12 +6,18 @@ import { Sidebar, TabBar } from './components/Nav'
 import { Toaster } from './components/Toaster'
 import { UpdatePrompt } from './components/UpdatePrompt'
 import { useStore } from './data/store'
+import { Cigars } from './screens/Cigars'
+import { Compare } from './screens/Compare'
+import { Humidor } from './screens/Humidor'
 import { Journal } from './screens/Journal'
 import { LogFinish } from './screens/LogFinish'
+import { LogFull } from './screens/LogFull'
 import { LogPicker } from './screens/LogPicker'
 import { LogScores } from './screens/LogScores'
 import { More } from './screens/More'
-import { Placeholder } from './screens/Placeholder'
+import { Settings } from './screens/Settings'
+import { Stats } from './screens/Stats'
+import { Wishlist } from './screens/Wishlist'
 
 // Dev tools are compiled out of the production build.
 const DevScreen = import.meta.env.DEV ? lazy(() => import('./dev/DevScreen')) : null
@@ -53,8 +59,11 @@ function Shell() {
       if (document.querySelector('dialog[open]')) return
       if (event.key === '/') {
         event.preventDefault()
-        if (!document.getElementById('journal-search')) navigate('/')
-        requestAnimationFrame(() => document.getElementById('journal-search')?.focus())
+        // Focus the search on this screen if it has one, otherwise go to the journal's.
+        const find = () =>
+          document.querySelector<HTMLElement>('#journal-search, #cigar-list-search')
+        if (!find()) navigate('/')
+        requestAnimationFrame(() => find()?.focus())
       } else if (event.key === 'n') {
         event.preventDefault()
         navigate('/log')
@@ -93,23 +102,28 @@ function Shell() {
           </Route>
           <Route path="/log/:id/scores">{(params) => <LogScores id={params.id} />}</Route>
           <Route path="/log/:id/finish">{(params) => <LogFinish id={params.id} />}</Route>
-          <Route path="/humidor">
-            <Placeholder title="Humidor" />
+          <Route path="/log/:id/full/:step">
+            {(params) => <LogFull id={params.id} step={params.step} />}
           </Route>
+          <Route path="/humidor">
+            <Humidor />
+          </Route>
+          <Route path="/humidor/:id">{(params) => <Humidor selectedId={params.id} />}</Route>
           <Route path="/stats">
-            <Placeholder title="Stats" />
+            <Stats />
           </Route>
           <Route path="/cigars">
-            <Placeholder title="Cigars" />
+            <Cigars />
           </Route>
+          <Route path="/cigars/:id">{(params) => <Cigars selectedId={params.id} />}</Route>
           <Route path="/wishlist">
-            <Placeholder title="Wishlist" />
+            <Wishlist />
           </Route>
           <Route path="/compare">
-            <Placeholder title="Compare" />
+            <Compare />
           </Route>
           <Route path="/settings">
-            <Placeholder title="Settings" />
+            <Settings />
           </Route>
           <Route path="/more">
             <More />

@@ -49,7 +49,14 @@ function Thumb({
 }
 
 /** Take photo (rear camera) and Choose photo (library), with the kind picked after capture. */
-export function PhotoSection({ smokeId }: { smokeId: string }) {
+export function PhotoSection({
+  smokeId,
+  defaultKind = 'band',
+}: {
+  smokeId: string
+  /** What a new photo is filed as until changed. */
+  defaultKind?: PhotoKind
+}) {
   const state = useStore()
   const photos = photosForSmoke(state.photos, smokeId)
   const [selectedId, setSelectedId] = useState<string | null>(null)
@@ -67,7 +74,7 @@ export function PhotoSection({ smokeId }: { smokeId: string }) {
     setError(null)
     try {
       for (const file of files) {
-        const photo = await addPhoto(smokeId, file, 'band')
+        const photo = await addPhoto(smokeId, file, defaultKind)
         setSelectedId(photo.id)
       }
     } catch (caught) {

@@ -8,6 +8,8 @@ const base = loadEnv('production', '.', 'VITE_').VITE_BASE_PATH ?? '/'
 
 export default defineConfig({
   base,
+  // Shown in Settings, so it is easy to tell which version a device is running.
+  define: { __BUILD_TIME__: JSON.stringify(new Date().toISOString()) },
   plugins: [
     react(),
     VitePWA({

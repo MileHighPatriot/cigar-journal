@@ -83,3 +83,12 @@ export function cigarFullName(cigar: Cigar): string {
 export function lineKey(cigar: Pick<Cigar, 'brand' | 'line'>): string {
   return `${cigar.brand.trim().toLowerCase()}|${cigar.line.trim().toLowerCase()}`
 }
+
+/** A plain calendar date ("2026-10-10") shown as "Oct 10, 2026". */
+export function formatDay(date: string): string {
+  return dateLong.format(new Date(`${date}T00:00:00`))
+}
+
+export function plural(count: number, one: string, many = `${one}s`): string {
+  return `${count} ${count === 1 ? one : many}`
+}
