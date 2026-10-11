@@ -17,6 +17,7 @@ import {
   inspectBackup,
   summaryText,
 } from '../backup/importBackup'
+import { HeroArt } from '../components/HeroArt'
 import { Sheet } from '../components/Sheet'
 import { SyncCard } from '../components/SyncCard'
 import { showToast } from '../components/toast'
@@ -172,7 +173,7 @@ export function Settings() {
   return (
     <div className="page settings">
       <header className="hero">
-        <span className="hero-glow" aria-hidden="true" />
+        <HeroArt art="rosette" />
         <h1>Settings</h1>
         <p className="backup-state">
           <span className={unsaved > 0 ? 'state-dot is-due' : 'state-dot'} aria-hidden="true" />

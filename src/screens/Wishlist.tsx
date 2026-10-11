@@ -1,6 +1,7 @@
 import { Check, Pencil, Plus, Trash2 } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link } from 'wouter'
+import { HeroArt } from '../components/HeroArt'
 import { LotForm } from '../components/LotForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { showToast } from '../components/toast'
@@ -113,7 +114,7 @@ export function Wishlist() {
   return (
     <div className="page">
       <header className="hero">
-        <span className="hero-glow" aria-hidden="true" />
+        <HeroArt art="leaf" />
         <div className="hero-top">
           <h1>Wishlist</h1>
           <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>

@@ -23,8 +23,8 @@ export default defineConfig({
         description: 'A personal cigar journal that works offline.',
         display: 'standalone',
         orientation: 'portrait',
-        theme_color: '#16110D',
-        background_color: '#16110D',
+        theme_color: '#150F0A',
+        background_color: '#150F0A',
         start_url: base,
         scope: base,
         icons: [
@@ -39,7 +39,7 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,woff2,png,svg,ico,json,webmanifest}'],
+        globPatterns: ['**/*.{js,css,html,woff2,png,jpg,webp,svg,ico,json,webmanifest}'],
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       },
     }),

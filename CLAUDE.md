@@ -47,10 +47,11 @@ The cigar list is researched (2026-10-11): 935 cigars, 914 fact-checked against 
 ## Design
 
 - Tokens: `src/styles/tokens.css`. Nothing else hard-codes a color, radius, or font.
+- The finish (`src/styles/finish.css`, chosen by Kohlton 2026-10-11): the page is a wrapper leaf under a lamp, headers are cedar box lids with a gold label frame, smoke, and a fine gold line drawing (`HeroArt`), journal cards wear an oxblood and gold band, titles and scores are gold foil. The textures in `src/assets/textures/` were generated for this app, not stock.
 - Dark only. Libre Caslon Display for titles and the score numeral (24 px and up), IBM Plex Sans for the rest, tabular numbers for scores, dates, and counts.
 - Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone.
-- The brass "band" rule belongs on smoke cards only.
-- The look is lively on purpose (score rings, charts, color dots, motion; SPEC section 23), but no artwork or stock pictures of cigars: Kohlton's own photos are the pictures. Honor reduced motion.
+- The cigar band (oxblood between gold edges) belongs on smoke cards only.
+- The look is lively on purpose (score rings, charts, color dots, motion; SPEC section 23). Illustrations are welcome when they are on theme (cigar boxes, tobacco leaves) and drawn as fine engraved line work or real materials. Nothing bright or cartoon-like: he turned down three colorful illustrated themes as "too cartoony" and prefers the brown. No stock photos. Honor reduced motion.
 - The "avoid" list in SPEC section 12 is binding.
 
 ## Verify before calling anything done

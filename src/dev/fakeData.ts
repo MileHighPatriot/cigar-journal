@@ -51,32 +51,115 @@ const PAIRINGS: [Smoke['pairingType'], string][] = [
   [null, ''],
 ]
 
-/** Plain warm-toned placeholder, clearly labeled. Not a stock photo. */
+/** A drawn stand-in for one of Kohlton's photos, clearly labeled. Not a stock photo. */
 async function placeholderPhoto(random: () => number, label: string): Promise<Blob> {
   const portrait = random() > 0.5
   const canvas = document.createElement('canvas')
-  canvas.width = portrait ? 900 : 1200
-  canvas.height = portrait ? 1200 : 900
-  const context = canvas.getContext('2d')
-  if (!context) throw new Error('No canvas')
-  const hue = 18 + random() * 22
-  const gradient = context.createLinearGradient(0, 0, canvas.width, canvas.height)
-  gradient.addColorStop(0, `hsl(${hue} 45% ${20 + random() * 10}%)`)
-  gradient.addColorStop(1, `hsl(${hue + 8} 55% ${8 + random() * 8}%)`)
-  context.fillStyle = gradient
-  context.fillRect(0, 0, canvas.width, canvas.height)
-  context.fillStyle = `hsl(${hue + 6} 50% ${34 + random() * 12}%)`
-  context.fillRect(0, canvas.height * (0.38 + random() * 0.1), canvas.width, canvas.height * 0.2)
-  context.fillStyle = 'hsl(38 48% 59%)'
-  context.fillRect(
-    canvas.width * 0.42,
-    canvas.height * 0.36,
-    canvas.width * 0.1,
-    canvas.height * 0.26,
+  const w = portrait ? 900 : 1200
+  const h = portrait ? 1200 : 900
+  canvas.width = w
+  canvas.height = h
+  const c = canvas.getContext('2d')
+  if (!c) throw new Error('No canvas')
+
+  // A table top under a low light.
+  const tableHue = pick(random, [205, 28, 160, 350, 215])
+  const table = c.createRadialGradient(
+    w * 0.42,
+    h * 0.38,
+    40,
+    w * 0.5,
+    h * 0.5,
+    Math.max(w, h) * 0.8,
   )
-  context.fillStyle = 'hsl(36 40% 80% / 0.7)'
-  context.font = '28px sans-serif'
-  context.fillText(`Sample ${label} photo`, 32, canvas.height - 36)
+  table.addColorStop(0, `hsl(${tableHue} 22% 34%)`)
+  table.addColorStop(0.55, `hsl(${tableHue} 26% 17%)`)
+  table.addColorStop(1, `hsl(${tableHue} 30% 6%)`)
+  c.fillStyle = table
+  c.fillRect(0, 0, w, h)
+  // Wood grain, faint.
+  c.strokeStyle = 'hsl(0 0% 100% / 0.035)'
+  c.lineWidth = 3
+  for (let i = 0; i < 26; i++) {
+    const y = (h / 26) * i + random() * 20
+    c.beginPath()
+    c.moveTo(0, y)
+    c.bezierCurveTo(w * 0.3, y + random() * 30 - 15, w * 0.7, y + random() * 30 - 15, w, y)
+    c.stroke()
+  }
+
+  // The stick, lying at a slant, with its shadow.
+  const length = Math.min(w, h) * (0.62 + random() * 0.12)
+  const thick = length * 0.115
+  const leaf = 18 + random() * 14
+  const dark = 16 + random() * 22
+  c.translate(w / 2, h / 2)
+  c.rotate((random() - 0.5) * 0.7)
+  c.fillStyle = 'hsl(0 0% 0% / 0.4)'
+  c.filter = 'blur(18px)'
+  c.beginPath()
+  c.roundRect(-length / 2 + 10, -thick / 2 + 22, length, thick, thick / 2)
+  c.fill()
+  c.filter = 'none'
+  const body = c.createLinearGradient(0, -thick / 2, 0, thick / 2)
+  body.addColorStop(0, `hsl(${leaf} 46% ${dark + 16}%)`)
+  body.addColorStop(0.35, `hsl(${leaf} 50% ${dark + 8}%)`)
+  body.addColorStop(1, `hsl(${leaf} 55% ${dark - 6}%)`)
+  c.fillStyle = body
+  c.beginPath()
+  c.roundRect(-length / 2, -thick / 2, length, thick, [thick / 2, thick / 6, thick / 6, thick / 2])
+  c.fill()
+  // Leaf seams.
+  c.strokeStyle = 'hsl(0 0% 0% / 0.16)'
+  c.lineWidth = 2
+  for (let x = -length / 2 + thick; x < length / 2 - 20; x += thick * 0.9) {
+    c.beginPath()
+    c.moveTo(x, -thick / 2)
+    c.lineTo(x + thick * 0.45, thick / 2)
+    c.stroke()
+  }
+  // Ash at the foot.
+  const ash = c.createLinearGradient(length / 2 - thick * 0.9, 0, length / 2, 0)
+  ash.addColorStop(0, 'hsl(18 80% 45%)')
+  ash.addColorStop(0.18, 'hsl(30 8% 62%)')
+  ash.addColorStop(1, 'hsl(30 6% 80%)')
+  c.fillStyle = ash
+  c.beginPath()
+  c.roundRect(length / 2 - thick * 0.9, -thick / 2, thick * 0.9, thick, [
+    0,
+    thick / 5,
+    thick / 5,
+    0,
+  ])
+  c.fill()
+  // The band.
+  const bandHue = pick(random, [4, 42, 150, 215, 280, 24])
+  const bandAt = -length / 2 + thick * 1.5
+  const bandWide = thick * 0.95
+  c.fillStyle = `hsl(${bandHue} 62% 38%)`
+  c.fillRect(bandAt, -thick / 2 - 2, bandWide, thick + 4)
+  c.fillStyle = 'hsl(44 70% 62%)'
+  c.fillRect(bandAt, -thick / 2 - 2, bandWide * 0.12, thick + 4)
+  c.fillRect(bandAt + bandWide * 0.88, -thick / 2 - 2, bandWide * 0.12, thick + 4)
+  c.beginPath()
+  c.ellipse(bandAt + bandWide / 2, 0, bandWide * 0.24, thick * 0.3, 0, 0, Math.PI * 2)
+  c.fill()
+  // A soft highlight along the top.
+  c.fillStyle = 'hsl(0 0% 100% / 0.1)'
+  c.beginPath()
+  c.roundRect(
+    -length / 2 + thick / 2,
+    -thick / 2 + thick * 0.12,
+    length - thick * 1.6,
+    thick * 0.14,
+    thick,
+  )
+  c.fill()
+  c.setTransform(1, 0, 0, 1, 0, 0)
+
+  c.fillStyle = 'hsl(36 40% 85% / 0.7)'
+  c.font = '28px sans-serif'
+  c.fillText(`Sample ${label} photo`, 32, h - 36)
   return new Promise((resolve, reject) =>
     canvas.toBlob(
       (blob) => (blob ? resolve(blob) : reject(new Error('No blob'))),

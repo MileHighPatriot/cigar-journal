@@ -2,6 +2,7 @@ import { Search, Trash2 } from 'lucide-react'
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'wouter'
 import { BackupReminder } from '../components/BackupReminder'
+import { HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { InstallHint } from '../components/InstallHint'
 import { ScoreRing } from '../components/ScoreRing'
@@ -79,7 +80,7 @@ function Hero({ complete }: { complete: SmokeRow[] }) {
 
   return (
     <header className="hero">
-      <span className="hero-glow" aria-hidden="true" />
+      <HeroArt art="leaves" />
       <h1>Journal</h1>
       {complete.length > 0 && (
         <div className="hero-stats">

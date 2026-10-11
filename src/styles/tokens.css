@@ -1,18 +1,19 @@
-/* Design tokens: "after-hours lounge". Nothing else hard-codes a color, radius, or font. */
+/* Design tokens: "after-hours lounge", in its cigar box finish. Nothing else hard-codes a
+   color, radius, or font. */
 :root {
   color-scheme: dark;
 
-  --bg: #16110d;
-  --surface: #211912;
-  --raised: #2c2219;
-  --hairline: #3a2e23;
+  --bg: #150f0a;
+  --surface: #21160e;
+  --raised: #2d1f14;
+  --hairline: #413020;
   /* Edges of inputs and unselected chips. The hairline is too faint for a control. */
-  --control-border: #8a7964;
-  --text: #f0e6d6;
-  --text-2: #b3a48e;
-  --brass: #c9a063;
-  --on-brass: #16110d;
-  --cedar: #7e9a6a;
+  --control-border: #96825f;
+  --text: #f6ebd9;
+  --text-2: #c2b197;
+  --brass: #e0b25f;
+  --on-brass: #1a1109;
+  --cedar: #74b592;
   --error: #e07a6a;
   --destructive: #8e332c;
 
@@ -56,8 +57,39 @@
   --strength-4: #84552d;
   --strength-5: #5c3a20;
 
+  /* The finish: wrapper leaf, cedar, gold foil, and cigar band colors (finish.css). */
+  --oxblood: #7a2620;
+  --oxblood-deep: #4e1612;
+  --gold-hi: #f8e6ae;
+  --gold-lo: #9c6f2c;
+  --foil: linear-gradient(176deg, #f8e6ae 8%, #e0b25f 38%, #9c6f2c 58%, #eccb82 82%);
+  --foil-flat: linear-gradient(180deg, #f3d995, #d2a04c 55%, #b9873a);
+  --edge-gold: rgb(224 178 95 / 0.28);
+  --ink-line: #e0b25f;
+  --lamp: rgb(255 190 110 / 0.17);
+  --shade: rgb(21 15 10 / 0.6);
+  --wood-veil: linear-gradient(180deg, rgb(33 22 14 / 0.5), rgb(21 15 10 / 0.86));
+  --bar-veil: linear-gradient(180deg, rgb(33 22 14 / 0.78), rgb(21 15 10 / 0.92));
+  --input-fill: rgb(21 15 10 / 0.55);
+  --card-shadow: 0 16px 34px rgb(0 0 0 / 0.5), inset 0 1px 0 rgb(255 228 180 / 0.07);
+  --card-sheen: linear-gradient(180deg, rgb(255 226 176 / 0.07), transparent 34%);
+  --band-shadow: 0 2px 6px rgb(0 0 0 / 0.35);
+  --text-emboss: drop-shadow(0 1px 0 rgb(0 0 0 / 0.55));
+  --brass-emboss:
+    inset 0 1px 0 rgb(255 255 255 / 0.45), inset 0 -2px 0 rgb(80 50 10 / 0.35),
+    0 6px 16px rgb(0 0 0 / 0.4);
+  --brass-hi: inset 0 1px 0 rgb(255 255 255 / 0.5);
+  --ring-glow: drop-shadow(0 0 3px rgb(224 178 95 / 0.55));
+  --ember: rgb(255 132 60 / 0.5);
+  --leaf: url("../assets/textures/leaf.jpg");
+  --wood: url("../assets/textures/cedar.jpg");
+  --smoke-a: url("../assets/textures/smoke-a.webp");
+  --smoke-b: url("../assets/textures/smoke-b.webp");
+  /* A brass stud for the corners of a label frame. */
+  --stud: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14'%3E%3Cpath d='M7 0l7 7-7 7-7-7z' fill='%23e0b25f'/%3E%3Cpath d='M7 3.4l3.6 3.6L7 10.6 3.4 7z' fill='%2321160e'/%3E%3Ccircle cx='7' cy='7' r='1.3' fill='%23f8e6ae'/%3E%3C/svg%3E");
+
   /* Ambient glow behind page headers. */
-  --glow-brass: rgb(201 160 99 / 0.16);
+  --glow-brass: rgb(224 178 95 / 0.12);
   --glow-ember: rgb(190 84 52 / 0.12);
   --glow-cedar: rgb(126 154 106 / 0.55);
 
@@ -68,7 +100,7 @@
   --text-sm: 14px;
   --text-md: 16px;
   --text-lg: 18px;
-  --title: 30px;
+  --title: 34px;
   --numeral: 40px;
 
   /* 4px spacing base */

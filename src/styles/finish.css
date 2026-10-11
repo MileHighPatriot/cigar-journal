@@ -1,0 +1,299 @@
+/* The finish: what makes the brown feel like a cigar box instead of a flat screen.
+   The page is a wrapper leaf under a low lamp. Headers are cedar lids with a label frame,
+   smoke, and a fine gold line drawing. Journal cards wear a band. Every color is a token. */
+
+/* ---------- The page ---------- */
+
+body {
+  background:
+    radial-gradient(110% 560px at 50% -120px, var(--lamp), transparent 70%) no-repeat,
+    linear-gradient(var(--shade), var(--shade)),
+    var(--leaf) 0 0 / 420px;
+  background-color: var(--bg);
+}
+
+/* The page glow is already in the lamp light. */
+.page,
+.detail {
+  background: none;
+}
+
+/* ---------- Gold foil type ---------- */
+
+h1,
+.numeral,
+.sidebar-name {
+  background: var(--foil);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: var(--text-emboss);
+}
+
+h1 {
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Cards, lifted off the leaf ---------- */
+
+.smoke-card,
+.pick-list,
+.mini-list,
+.lot-card,
+.compare-head,
+.timer,
+.banner {
+  background: var(--card-sheen), var(--surface);
+  border-color: var(--edge-gold);
+  box-shadow: var(--card-shadow);
+}
+
+.smoke-card:hover,
+.smoke-card[aria-current="true"] {
+  background: var(--card-sheen), var(--raised);
+}
+
+/* ---------- The page header: the lid of a cigar box ---------- */
+
+.hero {
+  padding: calc(var(--s4) + 6px);
+  background:
+    var(--wood-veil),
+    var(--wood) 0 0 / 450px;
+  border-color: var(--edge-gold);
+  box-shadow: var(--card-shadow);
+}
+
+.hero::after {
+  content: none;
+}
+
+.hero > .hero-fx {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+/* A double gold rule inside the lid, with a brass stud at each corner, like a box label. */
+.hero-fx::before {
+  content: "";
+  position: absolute;
+  inset: 6px;
+  border: 3px double var(--edge-gold);
+  border-radius: 3px;
+}
+
+.hero-fx::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    var(--stud) left 0.5px top 0.5px / 14px no-repeat,
+    var(--stud) right 0.5px top 0.5px / 14px no-repeat,
+    var(--stud) left 0.5px bottom 0.5px / 14px no-repeat,
+    var(--stud) right 0.5px bottom 0.5px / 14px no-repeat;
+}
+
+/* The line drawing sits to the right, fading toward the words. The mask only keeps or
+   drops pixels, so its black is not a color in the design. */
+.etching {
+  position: absolute;
+  inset: 0 0 0 auto;
+  width: min(62%, 420px);
+  height: 100%;
+  fill: none;
+  stroke: var(--ink-line);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.34;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 45%);
+  mask-image: linear-gradient(to right, transparent, #000 45%);
+}
+
+.etch-fill {
+  fill: var(--ink-line);
+  fill-opacity: 0.07;
+  stroke: none;
+}
+
+.etching .turn {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: spin 240s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Smoke: thin wisps rising off the bottom edge, in two layers at different speeds. Only the
+   picture inside each layer moves, so nothing ever leaves the header's own box. */
+.smoke {
+  position: absolute;
+  inset: 0;
+  background-repeat: repeat;
+  mix-blend-mode: screen;
+}
+
+.smoke-a {
+  background-image: var(--smoke-a);
+  background-size: 720px 720px;
+  opacity: 0.5;
+  animation: smoke-a 34s linear infinite;
+}
+
+.smoke-b {
+  background-image: var(--smoke-b);
+  background-size: 520px 520px;
+  background-position: 180px 0;
+  opacity: 0.34;
+  animation: smoke-b 52s linear infinite;
+}
+
+@keyframes smoke-a {
+  to {
+    background-position: 40px -720px;
+  }
+}
+
+@keyframes smoke-b {
+  from {
+    background-position: 180px 0;
+  }
+
+  to {
+    background-position: 150px -520px;
+  }
+}
+
+/* The frame takes a little width, so the three labels stay on one line each. */
+.hero-facts {
+  gap: var(--s1);
+}
+
+.hero-facts dt {
+  white-space: nowrap;
+  font-size: 11px;
+  letter-spacing: -0.01em;
+}
+
+.hero-facts dd {
+  color: var(--gold-hi);
+}
+
+/* ---------- Brass ---------- */
+
+.btn-primary:not(:disabled) {
+  background: var(--foil-flat);
+  box-shadow: var(--brass-emboss);
+}
+
+.chip[aria-pressed="true"],
+.chip[aria-checked="true"] {
+  background: var(--foil-flat);
+}
+
+/* The Log button glows like an ember. */
+.tab-log {
+  background: var(--foil-flat);
+  box-shadow:
+    0 0 0 4px var(--bg),
+    var(--brass-hi),
+    0 0 26px var(--ember);
+  animation: ember 3.6s ease-in-out infinite alternate;
+}
+
+@keyframes ember {
+  from {
+    box-shadow:
+      0 0 0 4px var(--bg),
+      var(--brass-hi),
+      0 0 10px transparent;
+  }
+}
+
+.tabbar,
+.sidebar {
+  background:
+    var(--bar-veil),
+    var(--wood) 0 0 / 450px;
+  border-color: var(--edge-gold);
+}
+
+.ring-fill {
+  filter: var(--ring-glow);
+}
+
+.input {
+  background: var(--input-fill);
+}
+
+/* ---------- Band detailing ---------- */
+
+/* Each journal card wears a real band: oxblood between two gold edges. */
+.band {
+  border-top: 0;
+  padding: 7px var(--s4);
+  background:
+    linear-gradient(var(--gold-hi), var(--brass)) top / 100% 2px no-repeat,
+    linear-gradient(var(--brass), var(--gold-lo)) bottom / 100% 2px no-repeat,
+    radial-gradient(120% 220% at 20% 0%, var(--oxblood), var(--oxblood-deep));
+  box-shadow: var(--band-shadow);
+}
+
+.band-brand {
+  color: var(--gold-hi);
+  letter-spacing: 0.16em;
+}
+
+/* Month headings: a rule on both sides of the words. */
+.month-head {
+  justify-content: center;
+  color: var(--brass);
+}
+
+.month-head::before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(270deg, var(--edge-gold), transparent);
+}
+
+.month-head::after {
+  background: linear-gradient(90deg, var(--edge-gold), transparent);
+}
+
+/* The best verdict is stamped like a seal. */
+.verdict[data-verdict="Box-worthy"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--gold-hi);
+}
+
+.verdict[data-verdict="Box-worthy"]::before {
+  content: "";
+  flex: none;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, var(--gold-hi), var(--brass) 55%, var(--gold-lo));
+  box-shadow: 0 0 0 1.5px var(--oxblood);
+}
+
+.detail-section > h2 {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+  color: var(--gold-hi);
+}
+
+.detail-section > h2::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--edge-gold), transparent);
+}

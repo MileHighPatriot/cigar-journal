@@ -2,6 +2,7 @@ import { Plus, Search, X } from 'lucide-react'
 import { type ReactNode, useMemo, useState, useSyncExternalStore } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
+import { HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { Monogram } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
@@ -148,7 +149,7 @@ export function Compare() {
   return (
     <div className="page compare">
       <header className="hero">
-        <span className="hero-glow" aria-hidden="true" />
+        <HeroArt art="rosette" />
         <div className="hero-top">
           <h1>Compare</h1>
           <div className="segmented compare-mode" role="group" aria-label="What to compare">
