@@ -1,0 +1,1005 @@
+[
+  {
+    "brand": "My Father",
+    "line": "Flor de Las Antillas",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Sun Grown",
+    "wrapperCategory": "Natural/Sun Grown",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Belicoso",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6.5,
+        "ring": 56
+      },
+      {
+        "name": "Toro Grande",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro Tubo",
+        "length": 6,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "cream",
+      "spice",
+      "nutmeg",
+      "white pepper"
+    ],
+    "about": "A box-pressed Nicaraguan puro from the Garcia family, named for Cuba and dressed in early 1900s label art. It was Cigar Aficionado's number one cigar of 2012.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/flor-de-las-antillas/",
+      "https://halfwheel.com/review-father-flor-de-las-antillas-toro/",
+      "https://www.famous-smoke.com/brand/flor-de-las-antillas-cigars"
+    ],
+    "notes": "Sold under its own name, made by My Father Cigars. The maker rates it 3/4 to full and Holt's lists medium-full, but halfwheel's reviewer found it closer to medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "La Antiguedad",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Rosado Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Criollo and Corojo double binder)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 5.625,
+        "ring": 55
+      },
+      {
+        "name": "Corona Grande",
+        "length": 6.375,
+        "ring": 47
+      },
+      {
+        "name": "Super Toro",
+        "length": 7,
+        "ring": 56
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "toast",
+      "walnut",
+      "spice",
+      "raisin",
+      "toffee"
+    ],
+    "about": "The Garcia family's follow-up to Flor de las Antillas, reviving an old Cuban brand name and its artwork. All five sizes are box-pressed, with filler from three Garcia farms aged at least three and a half years.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/la-antiguedad/",
+      "https://halfwheel.com/father-cigars-confirms-la-antiguedad/50494/",
+      "https://www.holts.com/cigars/all-cigar-brands/la-antiguedad.html"
+    ],
+    "notes": "Sold under its own name, made by My Father Cigars. The maker calls it medium to full; Famous lists medium and Holt's lists full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "The Judge",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra Oscuro",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Corojo and Criollo)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Grand Robusto",
+        "length": 5,
+        "ring": 60
+      },
+      {
+        "name": "Toro Fino",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "chocolate",
+      "pepper",
+      "leather",
+      "cedar",
+      "earth"
+    ],
+    "about": "A stronger extension of the core My Father line, named for a judge who is a friend of the Garcia family. It uses three Nicaraguan fillers from the family's farms and a label taken from a 1905 lithograph.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father-mf-the-judge/",
+      "https://halfwheel.com/father-cigars-judge-6-x-56/137708/",
+      "https://www.famous-smoke.com/brand-my-father-the-judge"
+    ],
+    "notes": "The maker's site shows the name as MF The Judge. Three of the four sizes are box-pressed; the Corona Gorda is not listed as pressed.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "La Opulencia",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican Rosado Oscuro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Criollo and Corojo)",
+    "filler": "Nicaragua (Corojo, Criollo, Habano)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Petite",
+        "length": 4.5,
+        "ring": 48
+      },
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 7,
+        "ring": 56
+      },
+      {
+        "name": "Super Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "earth",
+      "wood",
+      "pepper",
+      "leather",
+      "vanilla"
+    ],
+    "about": "A box-pressed extension of the core My Father line with a Mexican wrapper, named after an old Cuban trademark the Garcias revived. The label reworks artwork dating to 1897.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father-la-opulencia/",
+      "https://halfwheel.com/father-la-opulencia-petite/215443/",
+      "https://www.famous-smoke.com/brand-my-father-la-opulencia"
+    ],
+    "notes": "Maker calls it medium to 3/4 body; halfwheel found medium-full; Famous and Holt's list full. The maker only says Mexican rosado oscuro for the wrapper; Holt's names it San Andres. Torpedo is 6 1/8 inches per the maker, 6 1/2 per halfwheel.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "Le Bijou 1922",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Petit Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Grand Robusto",
+        "length": 5.625,
+        "ring": 55
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo Box Pressed",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "leather",
+      "earth",
+      "espresso",
+      "dark cocoa",
+      "spice"
+    ],
+    "about": "A darker, fuller blend in the My Father family that Jose \"Pepin\" Garcia made in memory of his father, who was born in 1922. The name means The Jewel.",
+    "released": 2009,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father-le-bijou-1922/",
+      "https://halfwheel.com/my-father-le-bijou-1922-toro-fino/98303/",
+      "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html"
+    ],
+    "notes": "Sources disagree on the wrapper: halfwheel lists a Nicaraguan Habano Oscuro wrapper, while Holt's says Ecuador Habano and Famous shows both. The maker only says Habano Oscuro.",
+    "verified": true,
+    "verifyNotes": "Reworded notes: Famous lists the wrapper as Nicaraguan in its spec table and Ecuador in its description, so it does not side only with Holt's. Wrapper kept as Nicaraguan, which two halfwheel reviews state."
+  },
+  {
+    "brand": "My Father",
+    "line": "Original",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Rosado",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "No. 1 Robusto",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "No. 2 Belicoso",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "No. 3 Crema",
+        "length": 6,
+        "ring": 49
+      },
+      {
+        "name": "No. 4 Lancero",
+        "length": 7.5,
+        "ring": 38
+      },
+      {
+        "name": "No. 5 Toro",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "No. 6 Toro Gordo Box Pressed",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Cedros Deluxe Eminentes",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Cedros Deluxe Cervantes",
+        "length": 6.5,
+        "ring": 44
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "cedar",
+      "coffee",
+      "leather",
+      "cocoa",
+      "caramel"
+    ],
+    "about": "The core line of the brand, created by Jaime Garcia as a tribute to his father Jose \"Pepin\" Garcia. It pairs an Ecuadorian Habano Rosado wrapper with tobacco from the family's farms in Esteli.",
+    "released": 2008,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father/",
+      "https://www.famous-smoke.com/brand-my-father",
+      "https://halfwheel.com/review-my-father-no-4-2/6081/"
+    ],
+    "notes": "The maker calls this line simply My Father; shops often add Original. It is not the Don Pepin Garcia Original (Blue Label). Famous describes the wrapper as a Habano Rosado and Criollo hybrid.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Corojo 99)",
+    "filler": "Nicaragua (Habano, Criollo)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 6,
+        "ring": 48
+      },
+      {
+        "name": "Toro",
+        "length": 6.5,
+        "ring": 54
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cream",
+      "nuts",
+      "spice",
+      "earth"
+    ],
+    "about": "The lighter member of the My Father family, blended by Pepin and Jaime Garcia with an Ecuadorian Connecticut wrapper over Nicaraguan tobacco from their own farms. It keeps some of the house spice in a milder format.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father-connecticut/",
+      "https://halfwheel.com/father-connecticut-begins-arriving-stores/66992/",
+      "https://www.famous-smoke.com/brand-my-father-connecticut"
+    ],
+    "notes": "Strength listings disagree: Famous says mild-medium and the launch announcement called it mild, while Holt's lists medium-full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "La Gran Oferta",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Rosado",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Habano, Criollo)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Lancero",
+        "length": 7.5,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "cream",
+      "earth",
+      "oak",
+      "dark chocolate",
+      "cherry",
+      "black pepper"
+    ],
+    "about": "A My Father line with an oily Ecuadorian Habano Rosado wrapper over Cuban-seed tobacco from the Garcia farms. The name means The Great Offering and the artwork follows a cigar brand of the same name from around 1913.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father-la-gran-oferta/",
+      "https://halfwheel.com/my-father-la-gran-oferta-lancero/279895/",
+      "https://www.famous-smoke.com/brand-my-father-la-gran-oferta"
+    ],
+    "notes": "The maker calls it a medium to 3/4 cigar. Famous lists medium and halfwheel found it just above medium, while Holt's lists medium-full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "La Promesa",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Rosado Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Petite",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.5,
+        "ring": 48
+      },
+      {
+        "name": "Robusto Grande",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Lancero",
+        "length": 7.5,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "wood",
+      "earth",
+      "cream",
+      "nuts"
+    ],
+    "about": "A My Father line named for the promise Jose \"Pepin\" Garcia made to his family before leaving Cuba, that he would prove himself in the cigar world. It has a dark Ecuadorian wrapper over Nicaraguan tobacco from the family farms.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father-la-promesa/",
+      "https://halfwheel.com/my-father-la-promesa-lancero/368854/",
+      "https://www.holts.com/cigars/all-cigar-brands/my-father-la-promesa.html"
+    ],
+    "notes": "Strength varies by source: Holt's says medium-full, Famous says full, halfwheel found medium-plus. The maker's spec line says Nicaragua Habano for the wrapper, but its own description, halfwheel and retailers all say Ecuadorian.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "La Duena",
+    "found": true,
+    "officialName": "La Dueña",
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "USA (Connecticut Broadleaf), Nicaragua",
+    "filler": "USA (Connecticut Broadleaf), Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "No. 5 Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "No. 2 Belicoso",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "No. 7 Petit Lancero",
+        "length": 6,
+        "ring": 42
+      },
+      {
+        "name": "No. 9 Petit Belicoso",
+        "length": 4.75,
+        "ring": 48
+      },
+      {
+        "name": "No. 11 Petit Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "No. 13 Toro Gordo Box Pressed",
+        "length": 6,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "earth",
+      "espresso",
+      "leather",
+      "black pepper"
+    ],
+    "about": "A Connecticut Broadleaf cigar made as a tribute to Janny Garcia; the name means the female owner. It was blended by Pete Johnson of Tatuaje with Jaime Garcia and is distributed by My Father Cigars.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/la-duena/",
+      "https://halfwheel.com/redux-la-duena-petit-robusto/40273/",
+      "https://www.holts.com/cigars/all-cigar-brands/la-duena.html"
+    ],
+    "notes": "Sold under its own name. It was meant to be lighter than most My Father cigars: the maker says medium to full body, but halfwheel and Holt's both found it medium. The No. 13 comes in boxes of 12, the rest in boxes of 21.",
+    "verified": true,
+    "verifyNotes": "Flavors: removed cream (halfwheel says there is very little creaminess) and added espresso and leather from the same review. Notes: dropped the stock status line. Strength left at Medium against the maker's medium to full body because halfwheel quotes the maker's intent for a lighter cigar; body carries the maker's word."
+  },
+  {
+    "brand": "My Father",
+    "line": "El Centurion",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Sun Grown Criollo 98",
+    "wrapperCategory": "Criollo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Criollo, Corojo Habano, Sancti Spiritus)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.75,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Toro Grande",
+        "length": 6.5,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "cinnamon",
+      "cedar",
+      "pepper"
+    ],
+    "about": "A Nicaraguan puro from the Garcia family that began as Don Pepin Garcia's first limited edition and later returned as a regular line. The current version uses a sun grown Criollo 98 wrapper.",
+    "released": 2007,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/el-centurion/",
+      "https://halfwheel.com/review-el-centurion-2013-prerelease/37163/",
+      "https://www.famous-smoke.com/brands/my-father-cigars/el-centurion"
+    ],
+    "notes": "First sold in 2007 as a limited edition of 850 boxes per size; brought back in 2013 as a regular line with a different blend. The maker rates it 3/4 to full; Famous and Holt's list it as full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "El Centurion H-2K-CT",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "H-2K-CT hybrid, a sun grown Cuban-seed leaf grown in Connecticut",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 48
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Toro Grande",
+        "length": 6.5,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "honey",
+      "nuts",
+      "cream",
+      "spice"
+    ],
+    "about": "An extension of El Centurion built around a Cuban-seed wrapper grown in Connecticut, over Nicaraguan binder and filler grown by the Garcias. The sizes are box-pressed.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/el-centurion-h-2k-ct/",
+      "https://halfwheel.com/my-fathers-el-centurion-h-2k-ct-adding-new-size-at-pca-2024/435901/",
+      "https://www.holts.com/cigars/all-cigar-brands/el-centurion-h-2k-ct.html"
+    ],
+    "notes": "The wrapper is a sun grown Cuban-seed leaf raised in Connecticut, not a Connecticut Shade leaf. The maker says medium to full bodied; Famous says medium to medium-full and Holt's lists medium.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Medium-Full: the maker's word is medium to full and only Holt's says medium. wrapperLeaf reworded to what the listed sources state; the Havana 2000 seed detail appears only on Famous, which is not among the listed sources."
+  },
+  {
+    "brand": "My Father",
+    "line": "Jaime Garcia Reserva Especial",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Petit Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Corona Grande",
+        "length": 6.25,
+        "ring": 48
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Super Gordo",
+        "length": 5.75,
+        "ring": 66
+      },
+      {
+        "name": "Gordo Extra",
+        "length": 7,
+        "ring": 70
+      }
+    ],
+    "flavors": [
+      "espresso",
+      "black pepper",
+      "raisin",
+      "earth",
+      "spice",
+      "cream"
+    ],
+    "about": "A dark Connecticut Broadleaf cigar blended entirely by Jaime Garcia, son of Don Pepin Garcia. It debuted in one size at a New York City event in December 2009 and then joined regular production.",
+    "released": 2009,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/jaime-garcia-reserva-especial/",
+      "https://halfwheel.com/jaime-garcia-reserva-especial-figurado/430734/",
+      "https://www.famous-smoke.com/brands/my-father-cigars/jaime-garcia-reserva-especial"
+    ],
+    "notes": "The maker says medium to full bodied and halfwheel found medium-full, while Famous and Holt's call it full. A Figurado (48/52 ring) was added in 2023; the maker lists it at 5 5/8 inches, halfwheel at 5. There is also a separate Connecticut-wrapped version.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Full to Medium-Full: the maker says medium to full and halfwheel's review ended at medium-full; only the retailers say full."
+  },
+  {
+    "brand": "My Father",
+    "line": "Tabacos Baez Serie SF",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 6,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "leather"
+    ],
+    "about": "A value-priced Nicaraguan puro from My Father Cigars made with short filler in the Cuban sandwich style. The maker describes it as its first short-filler house brand, sold in green cabinet boxes of 20.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/tabacos-baez-serie-sf/",
+      "https://www.holts.com/cigars/all-cigar-brands/tabacos-baez-serie-sf.html"
+    ],
+    "notes": "This is a short-filler (Cuban sandwich) cigar, not long filler like the rest of the My Father range. Sold under the Tabacos Baez name. No source checked gives the release year.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "Flor de Las Antillas Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Sun Grown Oscuro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Habano, Criollo)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Petit Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6.5,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cream",
+      "cocoa",
+      "spice",
+      "wood",
+      "dried fruit"
+    ],
+    "about": "The darker version of Flor de las Antillas, with an Ecuadorian Habano Oscuro wrapper over Nicaraguan tobacco from the Garcia farms. It is lightly box-pressed and carries a second band to set it apart from the original.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/flor-de-las-antillas-maduro/",
+      "https://halfwheel.com/flor-de-las-antillas-maduro-toro/149130/",
+      "https://www.holts.com/cigars/all-cigar-brands/flor-de-las-antillas-maduro.html"
+    ],
+    "notes": "First sold in April 2015 as a Federal Cigar store exclusive; it became a national regular line in late 2016. The maduro wrapper is Ecuadorian Habano, not broadleaf.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "My Father",
+    "line": "Garcia & Garcia",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Rosado",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Criollo 98)",
+    "filler": "Nicaragua (includes Pelo de Oro)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Toro Deluxe",
+        "length": 6.75,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "black pepper",
+      "leather",
+      "earth"
+    ],
+    "about": "A high-priced My Father cigar, named for the Garcia family and sold in boxes of 10 at select retailers only. The blend uses aged tobaccos including the rare Pelo de Oro leaf.",
+    "released": 2016,
+    "production": "limited",
+    "sources": [
+      "https://myfathercigars.com/cigars/",
+      "https://halfwheel.com/father-garcia-y-garcia/141754/",
+      "https://www.holts.com/cigars/all-cigar-brands/my-father-garcia-garcia.html"
+    ],
+    "notes": "Limited production rather than a one-time edition, about $35 a cigar. The maker rates it 3/4 to full and halfwheel found medium-full; Holt's lists full. A 5 3/4 x 52 Robusto Deluxe was a 2021 limited release of 3,000 boxes.",
+    "verified": true,
+    "verifyNotes": "Flavors: removed cocoa, which none of the listed sources give as a tasting note for this size."
+  },
+  {
+    "brand": "My Father",
+    "line": "Blue",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Rosado",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "My Father Cigars Honduras",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Petit Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cayenne",
+      "wood",
+      "dried fruit",
+      "earth"
+    ],
+    "about": "The first My Father cigar made in Honduras, rolled at the family's new factory in El Paraiso with Honduran binder and filler from their Finca La Opulencia farm. All four sizes are box-pressed and the blue packaging nods to the Honduran flag.",
+    "released": 2025,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/my-father-blue/",
+      "https://halfwheel.com/my-father-blue-toro-gordo/454375/",
+      "https://www.holts.com/cigars/all-cigar-brands/my-father-blue.html"
+    ],
+    "notes": "Made in Honduras, not Nicaragua like the rest of the My Father range. Famous lists strength as medium; Holt's lists medium-full. halfwheel lists the Robusto at 54 ring; the maker and retailers say 52.",
+    "verified": true,
+    "verifyNotes": ""
+  }
+]

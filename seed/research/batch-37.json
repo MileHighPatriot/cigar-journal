@@ -1,0 +1,798 @@
+[
+  {
+    "brand": "La Aurora",
+    "line": "107",
+    "found": true,
+    "officialName": "107 Ecuador",
+    "wrapperLeaf": "Ecuadorian sun grown",
+    "wrapperCategory": "Natural/Sun Grown",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Cibao Valley)",
+    "filler": "Dominican Republic (Cibao Valley), Nicaragua, Peru",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Salomon",
+        "length": 7.25,
+        "ring": 60
+      },
+      {
+        "name": "Gran 107",
+        "length": 7,
+        "ring": 58
+      },
+      {
+        "name": "Lancero",
+        "length": 6.875,
+        "ring": 40
+      },
+      {
+        "name": "Belicoso",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Sumo Short Robusto",
+        "length": 4,
+        "ring": 58
+      },
+      {
+        "name": "Zeppelin",
+        "length": 4,
+        "ring": 58
+      },
+      {
+        "name": "15 Minute Break",
+        "length": 3.5,
+        "ring": 42
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "spice",
+      "leather",
+      "espresso"
+    ],
+    "about": "La Aurora's 107th anniversary blend from 2010, built on a sun grown Ecuadorian wrapper over Dominican binder and a mixed filler. It starts mild and builds to medium-full, and became one of the company's core lines.",
+    "released": 2010,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/la-aurora-107-ecuador-en/?lang=en",
+      "https://halfwheel.com/la-aurora-107-zeppelin/364919/",
+      "https://halfwheel.com/review-la-aurora-107-lancero/"
+    ],
+    "notes": "The maker now sells it as 107 Ecuador; the band just reads 107. Halfwheel lists the wrapper as Ecuadorian Sumatra (Habano sun grown in 2010) and adds Brazilian filler. The maker's chart prints the Lancero at 6 1/8 x 40; halfwheel lists 6 7/8 x 40. Some U.S. retailers list the Robusto at 4 1/2 x 50 and the strength as medium.",
+    "verified": true,
+    "verifyNotes": "Blend, sizes and strength (text says medium to full, gauge 80/100) checked on the maker page and size chart. Lancero kept at 6 7/8 per halfwheel but the maker chart prints 6 1/8, now noted. Note corrected: halfwheel's Habano listing is from 2010, not 2011, and only some retailers (Famous) list the Robusto at 4 1/2. Swapped the Neptune link for the halfwheel Lancero review that backs the Lancero size."
+  },
+  {
+    "brand": "La Aurora",
+    "line": "107 Nicaragua",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Jalapa)",
+    "filler": "Nicaragua (Condega, Estelí)",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 47
+      }
+    ],
+    "flavors": [
+      "spice",
+      "leather",
+      "earth",
+      "wood",
+      "licorice",
+      "nuts"
+    ],
+    "about": "The first Nicaraguan puro from La Aurora, blended by Manuel Inoa and rolled in the Dominican Republic. It is the Nicaragua entry in the 107 Tobaccos of the World series.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/la-aurora-107-nicaragua/?lang=en",
+      "https://halfwheel.com/la-aurora-107-nicaragua-robusto/383822/",
+      "https://www.cigaraficionado.com/article/la-aurora-announce-107-nicaragua-for-u-s-market"
+    ],
+    "notes": "All Nicaraguan tobacco but rolled in the Dominican Republic. The maker's chart shows the Toro at 5 1/2 x 54 and Churchill at 7 x 47; halfwheel lists 5 3/4 x 54 and 7 x 50. Only Robusto, Toro and Gran Toro launched in the U.S. Strength is disputed: the maker's gauge reads 85/100 and Neptune says full; Famous Smoke and halfwheel say medium.",
+    "verified": true,
+    "verifyNotes": "Wrapper, binder and filler confirmed in Cigar Aficionado; country and factory in halfwheel; sizes on the maker chart. Strength left as Full (maker gauge 85/100, Neptune) but the note now says Famous Smoke lists medium and that the Churchill size differs between maker and halfwheel."
+  },
+  {
+    "brand": "La Aurora",
+    "line": "1903 Cameroon",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Cameroon seed grown in Ecuador",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador (Sumatra)",
+    "filler": "Dominican Republic (Cibao Valley), Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 47
+      },
+      {
+        "name": "Belicoso",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Cetros",
+        "length": 6.375,
+        "ring": 41
+      },
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 37
+      }
+    ],
+    "flavors": [
+      "cinnamon",
+      "cocoa",
+      "wood",
+      "fruit"
+    ],
+    "about": "The third blend in La Aurora's value-priced Time Capsule (Original Blends) series, launched in 2017. The name honors 1903, the year the company was founded and says it first worked with Cameroon wrapper.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/cameroon-en/?lang=en",
+      "https://halfwheel.com/la-aurora-1903-cameroon-robusto/173268",
+      "https://www.cigaraficionado.com/article/la-aurora-launches-new-cameroon-cigar-19364"
+    ],
+    "notes": "The maker says the wrapper is now Cameroon seed grown in Ecuador; halfwheel, Cigar Aficionado and retailers list it simply as Cameroon. The U.S. launch had four sizes (Robusto, Toro, Churchill, Gran Toro); the maker's chart adds Belicoso, Cetros, Corona and tubed versions.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "La Aurora",
+    "line": "1962 Corojo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Dominican Corojo (Cibao Valley)",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Dominican Republic",
+    "binder": "Ecuador",
+    "filler": "Dominican Republic (Cibao Valley), Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Cetros",
+        "length": 6.375,
+        "ring": 41
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 47
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "leather",
+      "wood",
+      "dried fruit",
+      "honey",
+      "floral"
+    ],
+    "about": "One of the two original Time Capsule (Original Blends) cigars from 2016, wrapped in Dominican-grown corojo. The year marks when La Aurora says it began blending with corojo wrapper.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/corojo-en/?lang=en",
+      "https://halfwheel.com/la-aurora-1961-1987-ship/109625",
+      "https://www.cigaraficionado.com/article/la-aurora-ships-new-commemorative-1962-corojo-and-1987-connecticut-blends-18717"
+    ],
+    "notes": "The maker's text describes the strength as medium to strong, but its own gauge reads 60/100 and Famous Smoke and Neptune list it as medium. At the 2016 launch the Churchill was 7 x 50 and the Toro 5 1/2 x 54; the maker now lists 7 x 47 and 5 3/4 x 54.",
+    "verified": true,
+    "verifyNotes": "All fields confirmed on the maker page, halfwheel and Cigar Aficionado. Strength kept as Medium-Full on the maker's wording, but added to the note that the maker's gauge is 60/100 and both retailers say medium."
+  },
+  {
+    "brand": "La Aurora",
+    "line": "1987 Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador",
+    "filler": "Dominican Republic (Cibao Valley), Nicaragua, Peru",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Cetros",
+        "length": 6.375,
+        "ring": 41
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 47
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "leather",
+      "cocoa",
+      "nuts",
+      "cinnamon",
+      "red fruit"
+    ],
+    "about": "The Connecticut-wrapped member of La Aurora's Time Capsule (Original Blends) series, launched in 2016 alongside the 1962 Corojo. The year marks when La Aurora says it began blending with Connecticut wrapper.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/connecticut-1987-en/?lang=en",
+      "https://halfwheel.com/la-aurora-1961-1987-ship/109625",
+      "https://www.famous-smoke.com/brand-la-aurora-1987-connecticut"
+    ],
+    "notes": "The maker lists an Ecuadorian Connecticut wrapper, Ecuadorian binder and Peruvian leaf in the filler. Halfwheel, Cigar Aficionado and retailers list a Dominican binder with Dominican and Nicaraguan filler, and Neptune calls the wrapper U.S. Connecticut Shade. Retailers split between mild and medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "La Aurora",
+    "line": "1985 Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Brazilian Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Brazil",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 47
+      }
+    ],
+    "flavors": [
+      "earth",
+      "black pepper",
+      "almond",
+      "dried fruit",
+      "dark chocolate",
+      "coffee"
+    ],
+    "about": "The fourth Time Capsule (Original Blends) cigar, released in 2019 with a Brazilian maduro wrapper over Nicaraguan binder and filler. It is the fullest of the series and priced as an everyday smoke.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/la-aurora-maduro-1985/?lang=en",
+      "https://halfwheel.com/la-aurora-releases-1985-maduro/297773",
+      "https://www.famous-smoke.com/brand-la-aurora-1985-maduro"
+    ],
+    "notes": "Early descriptions, still used by some retailers, list Dominican binder and Dominican and Nicaraguan filler; the distributor corrected it to all Nicaraguan. The maker's chart shows the Toro at 5 1/2 x 54 and adds a 41 ring Cetros; halfwheel lists the Toro at 5 3/4 x 54.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "La Aurora",
+    "line": "Preferidos Sapphire",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Cibao Valley)",
+    "filler": "Dominican Republic (Cibao Valley), Brazil, Cameroon",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Doble Figurado Tubo",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cream",
+      "coffee"
+    ],
+    "about": "The Connecticut-wrapped version of Preferidos, La Aurora's top line, best known for its tubed double figurado. It is the mildest of the Preferidos blends.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/doble-figurado-tubo-en/?lang=en",
+      "https://www.laaurora.com.do/producto/1903-edition-parejo-en/?lang=en",
+      "https://www.famous-smoke.com/brands/la-aurora-cigars/la-aurora-preferidos"
+    ],
+    "notes": "The maker now brands Preferidos as the 1903 Edition and calls this blend Connecticut on the straight sizes. The maker's chart lists the Toro at 5 3/4 x 54; halfwheel and Famous Smoke list 5 1/2 x 54.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "La Aurora",
+    "line": "Preferidos Ruby",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Brazilian Arapiraca maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Brazil",
+    "binder": "Dominican Republic (Cibao Valley)",
+    "filler": "Dominican Republic (Cibao Valley), Brazil, Cameroon",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Doble Figurado Tubo",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "coffee",
+      "cream"
+    ],
+    "about": "The Brazilian maduro version of Preferidos, La Aurora's top line, best known for its tubed double figurado. Straight sizes were added in 2017.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/doble-figurado-tubo-en/?lang=en",
+      "https://www.laaurora.com.do/producto/1903-edition-parejo-en/?lang=en",
+      "https://halfwheel.com/ipcpr-2017-la-aurora/168816/"
+    ],
+    "notes": "The maker now brands Preferidos as the 1903 Edition and calls this blend Maduro on the straight sizes. The maker's chart lists the Toro at 5 3/4 x 54; halfwheel and Famous Smoke list 5 1/2 x 54.",
+    "verified": true,
+    "verifyNotes": "Blend and strength confirmed on both maker pages. Replaced the Famous Smoke link with the maker's parejo page, which is where the straight sizes come from."
+  },
+  {
+    "brand": "La Aurora",
+    "line": "Preferidos Emerald",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra sun grown",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Cibao Valley)",
+    "filler": "Dominican Republic (Cibao Valley), Brazil, Nicaragua, Peru",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Doble Figurado Tubo",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "No. 1 Perfecto",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "spice"
+    ],
+    "about": "The Ecuadorian Sumatra version of Preferidos, La Aurora's top line, best known for its tubed double figurado. The maker describes it as earthy, spicy and medium bodied.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/doble-figurado-tubo-en/?lang=en",
+      "https://www.laaurora.com.do/producto/1903-edition-parejo-en/?lang=en",
+      "https://www.famous-smoke.com/brands/la-aurora-cigars/la-aurora-preferidos"
+    ],
+    "notes": "The maker now brands Preferidos as the 1903 Edition and calls this blend Ecuador on the straight sizes. The maker's chart lists the Toro at 5 3/4 x 54; Famous Smoke lists 5 1/2 x 54.",
+    "verified": true,
+    "verifyNotes": "Blend and strength confirmed on both maker pages. Renamed the 6 x 58 size: Famous Smoke sells it as Ecuador #1, a perfecto; no source calls it Doble Figurado No. 1. It is not on the maker's chart."
+  },
+  {
+    "brand": "La Aurora",
+    "line": "ADN Dominicano",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Dominican (Cibao Valley)",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Dominican Republic",
+    "binder": "Cameroon",
+    "filler": "Dominican Republic (Cibao Valley and andullo), Pennsylvania (USA), Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 47
+      }
+    ],
+    "flavors": [
+      "spice",
+      "wood",
+      "graham cracker",
+      "oak",
+      "espresso"
+    ],
+    "about": "A La Aurora line built around andullo, a traditional Dominican tobacco that is cured pressed inside palm-pod rolls instead of in piles. A full leaf of andullo goes into the filler of each cigar; the name means Dominican DNA.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/la-aurora-cigars-la-aurora-adn-dominicano-en/?lang=en",
+      "https://halfwheel.com/la-aurora-adn-dominicano-robusto/175103/",
+      "https://www.famous-smoke.com/brand-la-aurora-adn-dominicano"
+    ],
+    "notes": "Not a Dominican puro: the binder is Cameroon and the filler includes Pennsylvania and Nicaraguan leaf. The wrapper's seed type is not published. Famous Smoke lists it as full in its specs and medium-full in its description; halfwheel's reviewer found it medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "La Aurora",
+    "line": "115 Aniversario",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Brazil",
+    "filler": "Dominican Republic (Cibao Valley), Nicaragua, Brazil",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Belicoso",
+        "length": 6.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "cinnamon",
+      "nuts",
+      "citrus",
+      "wood",
+      "cream"
+    ],
+    "about": "The regular-production cigar marking 115 years since La Aurora's founding in 1903. It pairs an Ecuadorian wrapper with a Brazilian binder and Dominican, Nicaraguan and Brazilian filler.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://www.laaurora.com.do/producto/115-anniversary/?lang=en",
+      "https://halfwheel.com/la-aurora-115th-anniversary-regular-line-debuting-at-ipcpr-2019/336635/",
+      "https://www.famous-smoke.com/brand-la-aurora-115th-anniversary"
+    ],
+    "notes": "Sold in the U.S. as the 115th Anniversary. This is the regular line; a separate limited edition (announced 2018, in the U.S. in 2019) used a Dominican corojo wrapper and reached the U.S. only as a Belicoso and Gran Toro. The maker and halfwheel say only that the wrapper is Ecuadorian; Famous Smoke calls it Habano.",
+    "verified": true,
+    "verifyNotes": "Blend and sizes confirmed on the maker page and halfwheel; strength Full is from Famous Smoke (maker gauge 80/100). Habano rests on Famous Smoke alone. Note corrected: the limited edition was also announced in other sizes, only two reached the U.S."
+  },
+  {
+    "brand": "La Aurora",
+    "line": "Barrel Aged by Karl Malone",
+    "found": false,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": null,
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [],
+    "about": null,
+    "released": null,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/ipcpr-2019-barrel-aged-by-karl-malone/299556/",
+      "https://halfwheel.com/miami-cigar-co-to-distribute-karl-malone-cigars/292571/"
+    ],
+    "notes": "The cigar is real, but it is Karl Malone's own brand, made for him at the La Aurora factory and released in 2019, not a La Aurora line. Halfwheel lists Ecuadorian wrapper and binder with Dominican, Nicaraguan and Peruvian filler. La Aurora's own Barrel Aged is a different cigar.",
+    "verified": false,
+    "verifyNotes": "Second attempt made: it is not on La Aurora's product list, Famous Smoke's La Aurora Barrel Aged is a different Dominican corojo cigar, and halfwheel files it as Malone's own brand. Left found false; added the halfwheel blend to the note."
+  },
+  {
+    "brand": "La Barba",
+    "line": "Purple",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano (HVA)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Corojo)",
+    "filler": "Dominican Republic (Corojo, HVA Habano, Carbonell)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera William Ventura",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.75,
+        "ring": 46
+      },
+      {
+        "name": "Magnum",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "earth",
+      "graham cracker",
+      "vanilla",
+      "cream"
+    ],
+    "about": "The second line from Tony Bellatto's La Barba, released in 2014 and blended with help from Robert Caldwell and Henderson Ventura. It was dropped in 2022 after a fire destroyed the factory that made it.",
+    "released": 2014,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/la-barba-announces-purple-second-line/66508/",
+      "https://halfwheel.com/caldwell-bellatto-discontinuing-several-lines-following-the-fire-at-tabacalera-william-ventura/414655/",
+      "https://www.neptunecigar.com/cigar/la-barba-purple"
+    ],
+    "notes": "Discontinued in October 2022 after the Tabacalera William Ventura fire, so only leftover stock remains. A 6 x 54 Toro was part of the launch and was dropped in 2016.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "La Barba",
+    "line": "Ricochet",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Indonesia",
+    "filler": "Dominican Republic, Nicaragua, Pennsylvania (USA)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera William Ventura",
+    "strength": "Medium-Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Corona Gorda",
+        "length": 5.75,
+        "ring": 46
+      },
+      {
+        "name": "5 x 50",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "6 x 54",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "6 x 60",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "spice",
+      "cedar",
+      "pepper",
+      "vanilla"
+    ],
+    "about": "La Barba's first maduro blend, released in 2018 by Tony Bellatto with a Mexican San Andrés wrapper over an Indonesian binder. It grew into a small family with later Mexi-Sol and Shade versions.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/la-barba-ricochet-5-3-4-x-46/287756/",
+      "https://halfwheel.com/la-barba-announces-ricochet-cru-shade-lanceros/404763/",
+      "https://www.neptunecigar.com/cigar/la-barba-ricochet"
+    ],
+    "notes": "Announced as Primitivo and renamed before shipping over a trademark conflict. The original orange-band blend is also called Ricochet Crü Oscuro. Neptune calls it medium; halfwheel's review found medium-full strength building to full. After the 2022 fire at Tabacalera William Ventura, production moved to the Ventura family's El Maestro factory.",
+    "verified": true,
+    "verifyNotes": "All fields confirmed in halfwheel and Neptune. Added that production moved to El Maestro after the 2022 factory fire, per halfwheel."
+  }
+]

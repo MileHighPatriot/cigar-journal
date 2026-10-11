@@ -2,25 +2,27 @@ import { useEffect, useState, useSyncExternalStore } from 'react'
 import { computeScore } from '../domain/scoring'
 import { processPhoto } from '../photos/pipeline'
 import { requestPersist } from '../pwa/storage'
+import { seedVersion } from '../seed/version.json'
 import { newPhoto, newSmoke } from './factories'
 import { IdbRepository, nowIso, type RecordBatch, type Repository } from './repository'
 import { type SeedCatalog, seedCatalog } from './seed'
-import type {
-  Cigar,
-  CustomTag,
-  Lot,
-  Meta,
-  Photo,
-  PhotoKind,
-  Prelight,
-  RecordMap,
-  Smoke,
-  StoreName,
-  Third,
-  ThirdKey,
-  WishlistItem,
+import {
+  CIGAR_DEFAULTS,
+  type Cigar,
+  type CustomTag,
+  type Lot,
+  type Meta,
+  type Photo,
+  type PhotoKind,
+  type Prelight,
+  type RecordMap,
+  type Smoke,
+  STORE_NAMES,
+  type StoreName,
+  type Third,
+  type ThirdKey,
+  type WishlistItem,
 } from './types'
-import { STORE_NAMES } from './types'
 
 export type SaveStatus = 'idle' | 'saving' | 'saved' | 'error'
 
@@ -79,8 +81,11 @@ const PHOTO_BYTES_KEEP_DAYS = 30
 export async function initStore(options: { repository?: Repository } = {}) {
   try {
     repo = options.repository ?? (await IdbRepository.open())
-    const { default: catalog } = await import('../seed/catalog.json')
-    await seedCatalog(repo, catalog as SeedCatalog)
+    // The cigar list is a big file. It is only loaded when this device is behind it.
+    if (((await repo.getMeta('seedVersion')) ?? 0) < seedVersion) {
+      const { default: catalog } = await import('../seed/catalog.json')
+      await seedCatalog(repo, catalog as SeedCatalog)
+    }
     await reloadFromDisk()
     setState({ ready: true })
     void purgeOldPhotoBytes()
@@ -102,7 +107,8 @@ export async function reloadFromDisk() {
   ])
   const toMap = <T extends { id: string }>(rows: T[]) => new Map(rows.map((row) => [row.id, row]))
   setState({
-    cigars: toMap(cigars),
+    // Cigars saved before the researched fields existed get them as empty.
+    cigars: toMap(cigars.map((cigar) => ({ ...CIGAR_DEFAULTS, ...cigar }))),
     // Smokes saved before the size fields existed get them as empty.
     smokes: toMap(
       smokes.map((smoke) => ({ ...{ vitola: null, lengthIn: null, ringGauge: null }, ...smoke })),

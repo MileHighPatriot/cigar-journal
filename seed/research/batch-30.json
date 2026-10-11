@@ -1,0 +1,1292 @@
+[
+  {
+    "brand": "Fonseca",
+    "line": "Classic",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": null,
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "2-2",
+        "length": 4,
+        "ring": 40
+      },
+      {
+        "name": "5-50",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "8-9-8",
+        "length": 5.5,
+        "ring": 43
+      },
+      {
+        "name": "10-10",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [],
+    "about": "The long-running Dominican Fonseca that the Quesada family made from 1974, with a Connecticut Shade wrapper over Dominican binder and filler. It is the older, lighter counterpart to the Nicaraguan Fonseca from My Father.",
+    "released": 1974,
+    "production": null,
+    "sources": [
+      "https://cigar-coop.com/2018/07/cigar-news-quesada-revamps-fonseca-classic-packaging.html",
+      "https://halfwheel.com/quesada-updates-all-fonseca-packaging/284813/",
+      "https://www.cigaraficionado.com/article/fonseca-s-flashy-red-boxes-launching-in-new-york-city"
+    ],
+    "notes": "This is the Quesada-made Dominican blend. My Father Cigars bought the U.S. Fonseca brand in December 2019 and its own Fonseca is a different, Nicaraguan cigar. Strength is disputed: Manuel Quesada called it a medium smoke in 2018, while Cigar Aficionado called it a mild blend. Sources do not agree on where the wrapper is grown.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Mild to Medium: the maker (Manuel Quesada, quoted by halfwheel in Nov 2018) calls it a medium smoke and Neptune lists medium strength; Cigar Aficionado calls it mild, now in notes. wrapperOrigin blanked (was USA): halfwheel, Cigar Aficionado and Cigar Coop only say Connecticut or Connecticut Shade, and Neptune says Ecuadorian. Removed the word mild from about. Swapped two sources for pages that state the strength and the country. Neptune no longer lists any Fonseca Classic products, so production stays null."
+  },
+  {
+    "brand": "Fonseca",
+    "line": "by My Father",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan shade grown Corojo 99 Rosado",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Petit Corona",
+        "length": 4.25,
+        "ring": 40
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Cosacos",
+        "length": 5.375,
+        "ring": 42
+      },
+      {
+        "name": "Belicosos",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 55
+      },
+      {
+        "name": "Cedros",
+        "length": 6.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "earth",
+      "black pepper",
+      "cream",
+      "nuts",
+      "cedar"
+    ],
+    "about": "The Garcia family's take on Fonseca, released in 2020 after My Father Cigars bought the U.S. rights to the brand from Quesada. It is a Nicaraguan puro made from the family's own tobacco, fuller than the old mild Dominican Fonseca.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigars/fonseca/",
+      "https://halfwheel.com/fonseca-belicosos-2/401000/"
+    ],
+    "notes": "My Father only names the wrapper varietal; binder and filler are just listed as Nicaraguan. The Cedros comes in a cedar sleeve and the Cosacos in tissue paper.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "Charter Oak",
+    "found": true,
+    "officialName": "Charter Oak CT Shade",
+    "wrapperLeaf": "Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "USA",
+    "binder": "Sumatra",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Petit Corona",
+        "length": 5.25,
+        "ring": 42
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Grande",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.25,
+        "ring": 46
+      }
+    ],
+    "flavors": [],
+    "about": "Nicholas Melillo's value-priced tribute to his home state of Connecticut, made for Foundation at AJ Fernandez in Nicaragua. This is the Connecticut Shade version, the mildest of the Charter Oak blends.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/charter-oak-ct-shade/",
+      "https://halfwheel.com/ipcpr-2016-foundation-cigar-co/125990/",
+      "https://www.neptunecigar.com/cigar/foundation-charter-oak-connecticut"
+    ],
+    "notes": "Charter Oak comes in three wrappers: CT Shade, CT Broadleaf (Maduro) and Habano. This entry is the Shade. Wrapper origin is disputed: Foundation ties it to the Connecticut River Valley and Neptune lists U.S. Connecticut Shade, but halfwheel's 2016 trade show report lists Ecuadorian Connecticut.",
+    "verified": true,
+    "verifyNotes": "Nothing changed. Wrapper origin stays USA but is genuinely disputed: Neptune and the Developing Palates review list U.S. Connecticut Shade, halfwheel lists Ecuadorian Connecticut, and Foundation does not say outright. The dispute is already in notes."
+  },
+  {
+    "brand": "Foundation",
+    "line": "Olmec Claro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés (Claro)",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Jalapa)",
+    "filler": "Nicaragua (Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.5,
+        "ring": 48
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Grande",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Double Corona",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "black pepper",
+      "cocoa",
+      "oak",
+      "cream"
+    ],
+    "about": "Foundation's tribute to the Olmec civilization of the San Andrés region of Mexico, made at AJ Fernandez with a Mexican San Andrés wrapper over Nicaraguan tobacco. The Claro uses the lighter wrapper and is the gentler of the two Olmec blends.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/olmec/",
+      "https://halfwheel.com/olmec-claro-robusto/416682/",
+      "https://halfwheel.com/foundation-cigar-co-begins-shipping-olmec/413953/"
+    ],
+    "notes": "Foundation rates Olmec Full without separating the two versions. Halfwheel's review found the Claro closer to medium-full in strength and calls the Maduro the stronger one. Halfwheel lists the Double Corona as 7 x 52, the maker as 7 x 54.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "The Tabernacle",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Mexico (San Andrés)",
+    "filler": "Nicaragua (Estelí, Jalapa), Honduras (Jamastran)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Torpedo",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.25,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Doble Corona",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "earth",
+      "cocoa",
+      "cream",
+      "nuts",
+      "wood"
+    ],
+    "about": "Foundation's premium Connecticut Broadleaf cigar, blended by Nicholas Melillo and made at AJ Fernandez in Estelí. It is named for the sanctuary that held the Ark of the Covenant, and the box art shows Ethiopian emperor Haile Selassie.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/the-tabernacle-ct-broadleaf/",
+      "https://halfwheel.com/the-tabernacle-corona/133450/"
+    ],
+    "notes": "This is the original Broadleaf Tabernacle; the Havana Seed CT No. 142 is a separate blend. Halfwheel listed the Torpedo at 4 1/4 inches at launch, the maker now lists 4 1/2.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "Wise Man Maduro",
+    "found": true,
+    "officialName": "The Wise Man Maduro",
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Estelí, Jalapa)",
+    "filler": "Nicaragua (Estelí, Condega, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 48
+      },
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Doble Corona",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 40
+      }
+    ],
+    "flavors": [],
+    "about": "Foundation's San Andrés-wrapped companion to its Nicaraguan Wise Man blend. It first came out in 2017 and was reblended in 2024, when production moved to the Garcia family's My Father factory.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/the-wise-man-maduro/",
+      "https://halfwheel.com/foundation-begins-shipping-the-wise-man-corojo-maduro/438100/",
+      "https://halfwheel.com/wise-man-maduro-corona-gorda/210383/"
+    ],
+    "notes": "Two versions exist. The 2017 original was made at TABSA (Aganorsa) and was discontinued in 2024; the current one is a new blend from My Father. The Lancero uses a Connecticut Broadleaf wrapper instead of San Andrés.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "El Güegüense",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo 99 (Jalapa)",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Jalapa Corojo 99)",
+    "filler": "Nicaragua (Estelí, Jalapa; Corojo and Criollo)",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Toro Huaco",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "espresso",
+      "leather",
+      "earth",
+      "dark chocolate",
+      "black pepper",
+      "oak"
+    ],
+    "about": "The first cigar from Nicholas Melillo's Foundation Cigar Co., a Nicaraguan puro made entirely from Aganorsa tobacco. It is named for a Nicaraguan folk drama whose title means the wise man.",
+    "released": 2015,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/el-gueguense-corona-gorda/99872/",
+      "https://halfwheel.com/foundation-ships-el-gueguense/96273/",
+      "https://halfwheel.com/foundation-leaves-aganorsa-announces-new-blends-from-my-father-cigars-s-a/436072/"
+    ],
+    "notes": "Discontinued in 2024 when Foundation stopped working with Aganorsa. The Wise Man Corojo, made at My Father, took its place.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "Wise Man Corojo",
+    "found": true,
+    "officialName": "The Wise Man Corojo",
+    "wrapperLeaf": "Nicaraguan Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Estelí, Jalapa)",
+    "filler": "Nicaragua (Estelí, Condega, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 48
+      },
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Doble Corona",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "spice",
+      "cedar",
+      "sweetness"
+    ],
+    "about": "A Nicaraguan puro with a Corojo 99 wrapper that Foundation introduced in 2024 as the successor to El Güegüense. It is made by the Garcia family at My Father Cigars in Estelí.",
+    "released": 2024,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/the-wise-man-corojo/",
+      "https://halfwheel.com/foundation-begins-shipping-the-wise-man-corojo-maduro/438100/",
+      "https://halfwheel.com/foundation-ships-new-wise-man-lanceros/453647/"
+    ],
+    "notes": "Replaced El Güegüense (which means the wise man) when Foundation moved from Aganorsa to My Father in 2024. Flavor words are the maker's description of the Lancero size.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "The Tabernacle Havana Seed CT #142",
+    "found": true,
+    "officialName": "The Tabernacle Havana Seed CT No. 142",
+    "wrapperLeaf": "Connecticut Havana Seed CT No. 142",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "USA",
+    "binder": "Mexico (San Andrés)",
+    "filler": "Nicaragua (Estelí, Jalapa), Honduras (Jamastran)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.25,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Doble Corona",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "spice",
+      "earth",
+      "sweetness"
+    ],
+    "about": "A version of The Tabernacle that swaps the Broadleaf wrapper for Havana Seed CT No. 142, a Cuban-seed leaf grown in Connecticut that Foundation says needs three years of fermentation. Made at AJ Fernandez in Nicaragua.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/tabernacle-havana-seed-ct-142/",
+      "https://halfwheel.com/tabernacle-havana-seed-142-lancero-debuting-at-ipcpr-2019/336366/",
+      "https://halfwheel.com/the-tabernacle-havana-seed-ct-142-corona/293756"
+    ],
+    "notes": "The wrapper is Cuban-seed tobacco grown in Connecticut, not Broadleaf or Shade and not a Habano from Ecuador or Nicaragua. Same binder and filler regions as the Broadleaf Tabernacle.",
+    "verified": true,
+    "verifyNotes": "Added the halfwheel review as a source because it states the country, factory, U.S.-grown wrapper and December 2018 release outright. No values changed."
+  },
+  {
+    "brand": "Foundation",
+    "line": "Charter Oak Maduro",
+    "found": true,
+    "officialName": "Charter Oak CT Broadleaf",
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua (Habano)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Petit Corona",
+        "length": 5.25,
+        "ring": 42
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Grande",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.25,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "earth",
+      "sweetness"
+    ],
+    "about": "The Connecticut Broadleaf version of Foundation's value-priced Charter Oak, made at AJ Fernandez in Nicaragua. Nicholas Melillo blended it as a nod to the broadleaf cigars his grandfather smoked in Connecticut.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/charter-oak-ct-broadleaf/",
+      "https://halfwheel.com/foundation-pays-tribute-to-connecticut-with-charter-oak/121971/"
+    ],
+    "notes": "Foundation calls this one Charter Oak CT Broadleaf; shops often list it as Charter Oak Maduro.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "Charter Oak Habano",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Petit Corona",
+        "length": 5.25,
+        "ring": 42
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Grande",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.25,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "spice",
+      "black pepper",
+      "nuts",
+      "wood"
+    ],
+    "about": "The third Charter Oak blend, added in 2020 to sit between the Shade and the Broadleaf in strength. It has an Ecuadorian Habano wrapper over Nicaraguan tobacco and is made at AJ Fernandez.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/charter-oak-habano/",
+      "https://halfwheel.com/charter-oak-habano-torpedo/383689/"
+    ],
+    "notes": "Foundation says it was named Cigar Aficionado's number one best value cigar.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "Olmec Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés (Maduro)",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Jalapa)",
+    "filler": "Nicaragua (Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.5,
+        "ring": 48
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Grande",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Double Corona",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "espresso",
+      "spice"
+    ],
+    "about": "The darker and stronger of Foundation's two Olmec blends, with a Mexican San Andrés maduro wrapper over Nicaraguan binder and filler. It is made at AJ Fernandez and named for the ancient civilization of the San Andrés region.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/olmec/",
+      "https://halfwheel.com/foundation-cigar-co-begins-shipping-olmec/413953/"
+    ],
+    "notes": "Halfwheel lists the Double Corona as 7 x 52, the maker as 7 x 54.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "The Upsetters",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Varies by size: Connecticut Shade, Connecticut Broadleaf, Sumatra or Candela",
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": "Jamaica, Nicaragua",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Ska",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Small Axe",
+        "length": 4.25,
+        "ring": 40
+      },
+      {
+        "name": "The Skipper",
+        "length": 4.5,
+        "ring": 54
+      },
+      {
+        "name": "Para El Sapo",
+        "length": 4.5,
+        "ring": 54
+      },
+      {
+        "name": "Django",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Zola",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Original Rude Boy",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Rock Steady",
+        "length": 7,
+        "ring": 48
+      }
+    ],
+    "flavors": [],
+    "about": "Foundation's Jamaican-themed infused line, built around Jamaican Cow Tongue filler tobacco blended with Nicaraguan leaf. It is named after Lee \"Scratch\" Perry's band and each size has its own wrapper.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/the-upsetters/",
+      "https://halfwheel.com/foundation-travels-to-jamaica-for-sophomore-release/114167/",
+      "https://halfwheel.com/ipcpr-2016-foundation-cigar-co/125990/"
+    ],
+    "notes": "This is an infused, sweet cigar, not a traditional one. Wrapper depends on the size: Zola and Original Rude Boy are Broadleaf, Django is Sumatra, Para El Sapo is Candela, the rest Connecticut Shade. The Skipper and Para El Sapo are figurados tapering from 38 to 54 ring. Factory is not disclosed.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "Menelik",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Jalapa Corojo 99)",
+    "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "earth",
+      "black pepper",
+      "oak"
+    ],
+    "about": "A box-pressed San Andrés-wrapped cigar with a pigtail cap that began in 2017 as an event-only smoke and went on sale in 2019 in small quarterly batches. It is named for Menelik I of Ethiopia, the son of King Solomon and the Queen of Sheba.",
+    "released": 2017,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/menelik-toro/415479/",
+      "https://halfwheel.com/menelik-corona-gorda-reemerges-at-small-batch-cigar/442243/",
+      "https://www.neptunecigar.com/cigar/foundation-menelik"
+    ],
+    "notes": "Released at about 1,000 boxes of 12 per quarter. Made by Aganorsa, which Foundation stopped using for its main lines in 2024. Menelik is no longer on Foundation's site and Neptune lists it as sold out or discontinued, so it may be gone. A Corona Gorda (5 5/8 x 46) was a store exclusive.",
+    "verified": true,
+    "verifyNotes": "Nothing changed. Halfwheel dates the event-only debut to April 2017; a Cigar Aficionado piece reposted on the Foundation site says 2016. Kept 2017."
+  },
+  {
+    "brand": "Foundation",
+    "line": "Metapa",
+    "found": true,
+    "officialName": "Aksum",
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Nicaragua (Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.5,
+        "ring": 48
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Double Corona",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "espresso",
+      "nuts",
+      "oak",
+      "earth",
+      "leather",
+      "cocoa"
+    ],
+    "about": "A soft box-pressed Foundation line built around an Ecuadorian Sumatra wrapper, sold in Claro and Maduro versions and made at AJ Fernandez. It launched in 2023 as Metapa, after the birthplace of Nicaraguan poet Rubén Darío.",
+    "released": 2023,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/metapa-claro-corona-gorda/432813/",
+      "https://halfwheel.com/foundation-cigar-co-rebrands-metapa-as-aksum/435066/",
+      "https://foundationcigarcompany.com/aksum/"
+    ],
+    "notes": "Renamed Aksum in February 2024 with new bands; the blend did not change. Comes in Claro and Maduro, both Ecuadorian Sumatra. Flavor words are from halfwheel's review of the Claro.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Foundation",
+    "line": "Highclere Castle Edwardian",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Brazil (Mata Fina)",
+    "filler": "Nicaragua (Jalapa, Ometepe; Criollo, Corojo and Nicadan)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Petit Corona",
+        "length": 5,
+        "ring": 42
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "citrus",
+      "leather",
+      "nuts",
+      "espresso",
+      "cedar"
+    ],
+    "about": "A collaboration between Nicholas Melillo and the Earl of Carnarvon, owner of Highclere Castle, the house seen in Downton Abbey. It is a Connecticut Shade cigar meant to recall what was smoked at the castle around 1900, made at AJ Fernandez.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/highclere-castle-edwardian/",
+      "https://halfwheel.com/highclere-castle-toro-prerelease/176909/",
+      "https://halfwheel.com/highclere-castle-victorian-coming-to-ipcpr-2019/360494/"
+    ],
+    "notes": "First released in 2017 simply as Highclere Castle; the Edwardian name sets it apart from the darker Victorian. Foundation only says Connecticut Shade. Halfwheel describes the wrapper as Ecuadorian, while Neptune lists U.S. Connecticut Shade. Sold under the Highclere Castle Cigar Co. name and distributed by Foundation.",
+    "verified": true,
+    "verifyNotes": "wrapperOrigin changed from USA to Ecuador and wrapperLeaf updated to match: halfwheel says the original line uses an Ecuadorian wrapper and Famous Smoke lists an Ecuadorian Connecticut wrapper. The USA value came only from Neptune, whose page also names the wrong factory. Swapped the Neptune source for the halfwheel article and rewrote notes."
+  },
+  {
+    "brand": "Foundation",
+    "line": "Highclere Castle Victorian",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano (upper priming)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Brazil (Mata Fina)",
+    "filler": "Nicaragua (Estelí, Jalapa, Ometepe; Criollo and Corojo)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Petit Corona",
+        "length": 5,
+        "ring": 42
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "bread",
+      "earth",
+      "pepper",
+      "wood",
+      "cream"
+    ],
+    "about": "The darker follow-up to the original Highclere Castle cigar, added in 2019 with a higher-priming Ecuadorian Habano wrapper. It keeps the Brazilian Mata Fina binder and is made at AJ Fernandez in Estelí.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://foundationcigarcompany.com/highclere-castle-victorian/",
+      "https://halfwheel.com/highclere-castle-victorian-toro-2/401694/"
+    ],
+    "notes": "Often described as the maduro version of Highclere Castle, but the wrapper is a dark Habano, not Broadleaf. Sold under the Highclere Castle Cigar Co. name and distributed by Foundation.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Fratello",
+    "line": "Classico",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Ecuador (Sumatra)",
+    "filler": "Nicaragua, Peru",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Fuoco",
+        "length": 3.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Timacle",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Boxer",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "spice",
+      "cream",
+      "leather",
+      "pepper",
+      "wood"
+    ],
+    "about": "The original Fratello blend, launched in 2013 by Omar de Frias while he was still working at NASA, and made at Joya de Nicaragua. It has a Nicaraguan Habano wrapper over an Ecuadorian binder with Nicaraguan and Peruvian filler.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://fratellocigar.com/classico/",
+      "https://halfwheel.com/fratello-firecracker/170869/",
+      "https://www.neptunecigar.com/cigar/fratello-classico"
+    ],
+    "notes": "Originally just called Fratello; the Classico name was adopted in 2018. Strength and body are from Neptune, which lists Medium strength and calls it medium to full-bodied. Fratello does not give a rating. The Boxer is a box-pressed torpedo.",
+    "verified": true,
+    "verifyNotes": "Reworded about (no source calls de Frias a NASA manager) and corrected notes: the medium to full body wording is Neptune's, not Fratello's. No spec values changed."
+  },
+  {
+    "brand": "Fratello",
+    "line": "Bianco",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés Negro (Maduro)",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Dominican Republic",
+    "filler": "USA (Pennsylvania), Nicaragua, Peru",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Fuoco",
+        "length": 3.5,
+        "ring": 50
+      },
+      {
+        "name": "Bianco III",
+        "length": 5,
+        "ring": 56
+      },
+      {
+        "name": "Bianco II",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Boxer",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Bianco IV",
+        "length": 6.5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "earth",
+      "cream",
+      "espresso",
+      "oak"
+    ],
+    "about": "Fratello's second line and its maduro, released in 2015 with a Mexican San Andrés wrapper. The name means white in Italian and refers to the white band, not the cigar, which is dark.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://fratellocigar.com/bianco",
+      "https://halfwheel.com/fratello-bianco-i/89501/",
+      "https://www.neptunecigar.com/cigar/fratello-bianco"
+    ],
+    "notes": "Despite the name this is a maduro. The Bianco I lonsdale (6 1/4 x 44) was dropped in 2023. Strength is from Neptune and halfwheel's review; Fratello does not list one.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Fratello",
+    "line": "Oro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Cameroon",
+    "filler": "Dominican Republic, Nicaragua, Colombia",
+    "country": "Dominican Republic",
+    "factory": "La Aurora Cigar Factory",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Fuoco",
+        "length": 3.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 46
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Boxer",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cream",
+      "dried fruit",
+      "pepper",
+      "wood",
+      "nuts"
+    ],
+    "about": "Fratello's Connecticut Shade cigar, introduced in 2016 and the first Fratello made in the Dominican Republic, at La Aurora. It pairs an Ecuadorian Connecticut wrapper with a Cameroon binder.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://fratellocigar.com/oro/",
+      "https://halfwheel.com/fratello-oro-corona-2/293785/",
+      "https://www.neptunecigar.com/cigar/fratello-oro"
+    ],
+    "notes": "Strength varies by source: Neptune lists Mild, while halfwheel's review put strength at medium to medium-plus with full flavor. Fratello gives no rating. Fratello adds Colombian filler that halfwheel does not list. Halfwheel and Neptune give the Corona a 47 ring; Fratello says 46.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Mild-Medium to Medium: no source says mild to medium, halfwheel measured medium to medium-plus and Neptune says Mild, and halfwheel outranks a retailer. Body blanked (was Medium-Full): halfwheel gives body as medium-plus, which is not one of the allowed words."
+  },
+  {
+    "brand": "Fratello",
+    "line": "Navetta",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Oscuro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Discovery",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Atlantis",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Endeavor",
+        "length": 6.25,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "dark cocoa",
+      "leather",
+      "spice",
+      "nuts",
+      "espresso",
+      "wood"
+    ],
+    "about": "Omar de Frias's tribute to his 12 years at NASA; navetta is Italian for shuttle and each size is named after a space shuttle. It has a dark Ecuadorian oscuro wrapper and is made at Joya de Nicaragua.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://fratellocigar.com/navetta",
+      "https://halfwheel.com/fratello-navetta-atlantis/212276/",
+      "https://www.neptunecigar.com/cigar/fratello-navetta"
+    ],
+    "notes": "The wrapper is only described as Ecuadorian oscuro, a very dark leaf; the seed type is not published. Strength is Neptune's rating, Fratello does not list one. The 6 x 60 Enterprise was dropped in 2023. Navetta Inverso is a separate line with the blend components flipped.",
+    "verified": true,
+    "verifyNotes": "Nothing changed. Strength (Full) rests on Neptune alone; Fratello and halfwheel give no rating and other retailers could not be opened."
+  },
+  {
+    "brand": "Gispert",
+    "line": "Original",
+    "found": true,
+    "officialName": "Natural",
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Honduras",
+    "filler": "Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": "La Flor de Copan",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Belicoso",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cream",
+      "cedar",
+      "white pepper",
+      "bread",
+      "caramel",
+      "cocoa"
+    ],
+    "about": "A mellow, value-priced Honduran cigar from Altadis U.S.A., rolled at the Flor de Copan factory with an Ecuadorian Connecticut Shade wrapper. The Gispert name goes back to a 19th century Cuban brand.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/gispert/gispert-natural/",
+      "https://www.holts.com/cigars/all-cigar-brands/gispert.html",
+      "https://www.neptunecigar.com/cigar/gispert"
+    ],
+    "notes": "Altadis calls this Gispert Natural; shops usually list it simply as Gispert. Altadis describes it as mellow to medium, Neptune lists Mild and Holt's lists Medium. The stronger Gispert Intenso, made by AJ Fernandez, is a different cigar.",
+    "verified": true,
+    "verifyNotes": ""
+  }
+]

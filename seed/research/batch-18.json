@@ -1,0 +1,1160 @@
+[
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Signature Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 rosado claro (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí and Jalapa, Corojo 99 and Criollo 98 with medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (formerly Tabacos Valle de Jalapa S.A., TABSA), Estelí",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo (109 head)",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "oak",
+   "nuts",
+   "citrus",
+   "cream"
+  ],
+  "about": "A Nicaraguan puro made entirely from Aganorsa's own farm tobacco, with a Corojo 99 wrapper and a little rare medio tiempo leaf in the filler. It was the first new line after Casa Fernandez renamed itself Aganorsa Leaf in 2018.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/aganorsa-leaf-signature-corojo/",
+   "https://halfwheel.com/aganorsa-leaf-signature-series-corona-gorda/282992/",
+   "https://www.neptunecigar.com/cigar/aganorsa-leaf-signature-selection"
+  ],
+  "notes": "The maker now lists it as Signature Corojo and ships it in small allotments a few times a year. Maker and Neptune rate it medium; halfwheel's review found it medium-full in strength with a full body.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Signature Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Corojo 99 maduro (Jalapa)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (with medio tiempo)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (formerly Tabacos Valle de Jalapa S.A., TABSA), Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso (109 head)",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "raisin",
+   "peanuts",
+   "cedar",
+   "espresso",
+   "black pepper"
+  ],
+  "about": "The maduro follow-up to Signature Selection, keeping the same Nicaraguan binder and filler but using a shade-grown Corojo 99 wrapper from Jalapa that is fermented dark. It is a Nicaraguan puro from Aganorsa's own farms.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/aganorsa-leaf-signature-corojo/",
+   "https://halfwheel.com/aganorsa-leaf-signature-maduro-corona-gorda/370216/",
+   "https://www.neptunecigar.com/cigar/aganorsa-leaf-signature-selection-maduro"
+  ],
+  "notes": "Also sold as Signature Selection Maduro. The maduro wrapper is Nicaraguan corojo, not broadleaf or San Andrés. The maker's page lists the Corona Gorda at 6 x 46; halfwheel and Neptune list 6 x 44. Halfwheel's review found it builds to full strength by the end.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Rare Leaf",
+  "found": true,
+  "officialName": "Rare Leaf Reserve",
+  "wrapperLeaf": "Nicaraguan café wrapper (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Criollo 98, Corojo 99)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (formerly Tabacos Valle de Jalapa S.A., TABSA), Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "cedar",
+   "dark chocolate",
+   "espresso"
+  ],
+  "about": "A Criollo 98 focused Nicaraguan puro from Aganorsa, built from small lots of leaf off the company's best farms. It is a regular production cigar sold only through Aganorsa Select retailers.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/rare-leaf-corojo-and-maduro/",
+   "https://halfwheel.com/aganorsa-leaf-rare-leaf-reserve-robusto/391614/",
+   "https://www.neptunecigar.com/cigar/aganorsa-leaf-rare-leaf-reserve"
+  ],
+  "notes": "The maker calls this version Rare Leaf Corojo and lists the wrapper only as Nicaragua Café; Corona Cigar lists Corojo 99. Launch materials gave a double Criollo 98 binder, but the maker's page now lists Corojo 99. Strength is from the maker's 4.5 of 5 graphic; Neptune lists medium. Halfwheel lists the Robusto at 5 1/4 x 52.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf reworded: no source says shade-grown; the maker says Nicaragua Café and halfwheel says a café wrapper from Jalapa. Corojo category kept on the maker's Rare Leaf Corojo name and Corona Cigar's Corojo 99 listing (https://www.coronacigar.com/aganorsa-leaf-rare-leaf-robusto/). binder cut to Nicaragua because the maker (Corojo 99) and halfwheel (dual Criollo 98) disagree on the leaf. Notes updated."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Rare Leaf Maduro",
+  "found": true,
+  "officialName": "Rare Leaf Reserve Maduro",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (double binder)",
+  "filler": "Nicaragua (Estelí and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (formerly Tabacos Valle de Jalapa S.A., TABSA), Estelí",
+  "strength": "Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo Box Press",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "almond",
+   "coffee",
+   "earth",
+   "cedar",
+   "black pepper",
+   "cocoa"
+  ],
+  "about": "The San Andrés wrapped follow-up to Rare Leaf Reserve, with a double Nicaraguan binder and Aganorsa filler from Estelí and Jalapa. Like the original, it is sold only through Aganorsa Select retailers.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/rare-leaf-corojo-and-maduro/",
+   "https://halfwheel.com/rare-leaf-reserve-maduro-belicoso/428896/",
+   "https://www.neptunecigar.com/cigar/aganorsa-leaf-rare-leaf-reserve-maduro"
+  ],
+  "notes": "Maker and Neptune rate it full; halfwheel's review found it closer to medium-plus strength with a medium body. Halfwheel calls the 6 x 52 a Belicoso and lists the Robusto at 5 1/4 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Supreme Leaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (formerly Tabacos Valle de Jalapa S.A., TABSA), Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto (box pressed)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro (box pressed)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Corona Gorda (box pressed)",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Torpedo (box pressed)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto 2022 (box pressed)",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Rothschild (box pressed)",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Royal Perfecto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro 109",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweetness",
+   "wood"
+  ],
+  "about": "A Corojo 99 dominant Nicaraguan puro from Aganorsa, known for its bright, colorful bands. It comes out in batches about twice a year, each time in a different size.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/aganorsa-leaf-supreme-leaf/",
+   "https://halfwheel.com/supreme-leaf-robusto-2020/437839/",
+   "https://www.neptunecigar.com/cigar/aganorsa-leaf-supreme-leaf"
+  ],
+  "notes": "Not a true limited edition, but each size ships in small batches and sells out, so what is on the shelf changes. The full blend is not published beyond being Corojo 99 dominant. The maker's strength graphic sits between medium and medium-full; Neptune lists medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": "La Validación Connecticut",
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   }
+  ],
+  "flavors": [],
+  "about": "Aganorsa's core Connecticut cigar, with an Ecuadorian Connecticut Shade wrapper over Aganorsa-grown Nicaraguan binder and filler. It is one of the four blends in the company's La Validación series.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/la-validacion-series/",
+   "https://halfwheel.com/aganorsa-leaf-updates-core-lines-as-la-validacion-series/408523/",
+   "https://www.neptunecigar.com/cigar/aganorsa-leaf-validacion-connecticut"
+  ],
+  "notes": "Formerly Casa Fernandez Aganorsa Connecticut, renamed Aganorsa Leaf Connecticut in 2018 and repackaged in 2022 as La Validación Connecticut. Aganorsa also sells a separate Aniversario Connecticut. Halfwheel lists the Toro at 6 1/4 x 52.",
+  "verified": true,
+  "verifyNotes": "Notes: removed the unsupported claim that the Aniversario Connecticut is pricier. Strength confirmed as 3 of 5 on the maker's graphic."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Guardian of the Farm",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99 (Jalapa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Corojo 99, Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (formerly Tabacos Valle de Jalapa S.A., TABSA), Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Apollo",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "JJ",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Campeon",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Rambo",
+    "length": 4.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cedar",
+   "vanilla",
+   "cream",
+   "coffee",
+   "earth"
+  ],
+  "about": "A Nicaraguan puro created by Max Fernandez of Aganorsa and Kyle Gellis of Warped Cigars, named for the American bulldogs that guard Aganorsa's farms and factory. Each size is named after one of the dogs.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/guardian-of-the-farm-apollo-seleccion-de-warped/",
+   "https://halfwheel.com/guardian-farm-apollo-seleccion-de-warped/134259/",
+   "https://www.neptunecigar.com/cigar/aganorsa-guardian-of-the-farm"
+  ],
+  "notes": "Launched as a Warped and Casa Fernandez collaboration. The maduro version is sold as Guardian of the Farm NightWatch, and Cerberus is a separate Corojo 2012 wrapped blend. Halfwheel's review put the body a little above medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Lunatic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Aganorsa (formerly Tabacos Valle de Jalapa S.A., TABSA), Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Mambo",
+    "length": 8,
+    "ring": 80
+   },
+   {
+    "name": "El Grande",
+    "length": 5.5,
+    "ring": 80
+   },
+   {
+    "name": "El Chiquito",
+    "length": 4.25,
+    "ring": 70
+   },
+   {
+    "name": "Short Titan",
+    "length": 4.25,
+    "ring": 60
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.25,
+    "ring": 52
+   },
+   {
+    "name": "La Loma",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Hombre Libre",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "La Montaña",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "Jackhammer",
+    "length": 8,
+    "ring": 60
+   },
+   {
+    "name": "10 x 100",
+    "length": 10,
+    "ring": 100
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "leather",
+   "earth"
+  ],
+  "about": "The oversized, value-priced branch of Aganorsa's JFR (Just For Retailers) brand, with ring gauges running up to 80 and beyond. It started with the 8 x 80 Mambo in a San Andrés maduro wrapper.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/lunatic-maduro/",
+   "https://halfwheel.com/jfr-lunatic-mambo/81477/",
+   "https://www.neptunecigar.com/cigar/jfr-lunatic-maduro"
+  ],
+  "notes": "Lunatic is a family. Details here are the original Lunatic Maduro. Lunatic Habano uses an Ecuadorian Habano wrapper over the same Nicaraguan binder and filler; Lunatic Locos and Lunatic Torch are separate corojo wrapped blends. The maker's strength graphic sits between medium and medium-full; Neptune lists the Maduro as full.",
+  "verified": true,
+  "verifyNotes": "Notes: removed the claim that Lunatic Habano is rated medium; the maker shows the same 3.5 of 5 graphic for Habano and Maduro. Release year confirmed by halfwheel's Feb. 2015 shipping notice (https://halfwheel.com/jfr-lunatic-mambo-ships-next-week/79351/)."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo (Aganorsa)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Super Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Junior",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "770 L.E.",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "Mi Favorito",
+    "length": 5,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "A value-priced Nicaraguan puro from Aganorsa's JFR (Just For Retailers) brand, with a corojo wrapper, a tucked foot and a pigtail cap. The JFR brand is known for large ring gauges.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/jfr-corojo/",
+   "https://halfwheel.com/aganorsa-leaf-adding-mi-favorito-vitola-for-jfr-lines/413969/",
+   "https://www.neptunecigar.com/cigar/jfr-corojo"
+  ],
+  "notes": "JFR stands for Just For Retailers and was built for brick-and-mortar shops. Neptune's write-up calls it full-bodied while listing its strength as medium.",
+  "verified": true,
+  "verifyNotes": "about: removed the claim that JFR is the company's best seller; no source opened says so."
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "JFR Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Super Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Junior",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "770 L.E.",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "Mi Favorito",
+    "length": 5,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice",
+   "pepper"
+  ],
+  "about": "The maduro version of Aganorsa's value-priced JFR (Just For Retailers) line, finished with a tucked foot and a pigtail cap. It is the stronger of the two main JFR blends.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://aganorsaleaf.com/cigars/jfr-maduro/",
+   "https://halfwheel.com/aganorsa-leaf-adding-mi-favorito-vitola-for-jfr-lines/413969/",
+   "https://www.neptunecigar.com/cigar/jfr-maduro"
+  ],
+  "notes": "Sources disagree on the wrapper: the maker's site lists Mexican San Andrés Maduro, while halfwheel (2022) and Neptune describe a Nicaraguan puro with a fermented corojo maduro wrapper. Strength is from the maker's 4 of 5 graphic; Neptune lists medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Espressivo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Maestro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Vibrato",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Concerto",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Figurado",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "nuts",
+   "earth",
+   "espresso",
+   "dark chocolate",
+   "wood"
+  ],
+  "about": "A box-pressed Nicaraguan puro blended by Rafael Nodal and made by AJ Fernandez in Estelí. The Maestro size was Cigar Aficionado's No. 1 Cigar of 2019 with a 96 rating.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/aging-room/aging-room-quattro-nicaragua/",
+   "https://www.cigaraficionado.com/top25cigar/aging-room-quattro-nicaragua-maestro-2019",
+   "https://www.neptunecigar.com/cigar/aging-room-quattro-nicaragua"
+  ],
+  "notes": "Altadis lists the wrapper as Nicaraguan Sumatra; halfwheel and Cigar Aficionado only say Nicaragua. Strength is Neptune's rating, as Altadis does not give one. Quattro Nicaragua Sonata and Concerto are separate, later blends.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Espressivo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Maestro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Vibrato",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Concerto",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar"
+  ],
+  "about": "The original box-pressed Aging Room Quattro, made by Jochy Blanco at Tabacalera Palma with an aged Sumatra wrapper grown in Indonesia over Dominican tobacco. As the Quattro F55 Concerto it was Cigar Aficionado's No. 2 cigar of 2013.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.cigaraficionado.com/top25cigar/aging-room-quattro-f55-concerto-2013",
+   "https://halfwheel.com/boutique-blends-overhauls-portfolio-announces-five-new-lines/270052/",
+   "https://www.neptunecigar.com/cigar/aging-room-quattro-original-formerly-f55"
+  ],
+  "notes": "Formerly called Quattro F55; renamed Quattro Original in 2018. Cigar Aficionado rates it medium-full while Neptune lists full. It is no longer on Altadis USA's Aging Room page and Neptune shows it sold out, so current availability is unclear.",
+  "verified": true,
+  "verifyNotes": "binder and filler: removed (Habano). Cigar Aficionado and Neptune list only Dominican Republic for this blend; the Habano detail is published for the Quattro Maduro, not the Original."
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Espressivo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Maestro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Vibrato",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Concerto",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cedar",
+   "hay",
+   "white pepper",
+   "cream"
+  ],
+  "about": "The mildest of the box-pressed Aging Room Quattro blends, with an Ecuadorian Connecticut Shade wrapper over Dominican binder and filler. It was added to the Quattro series in 2018 and made at Tabacalera Palma.",
+  "released": 2018,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2018-boutique-blends/276704/",
+   "https://halfwheel.com/boutique-blends-overhauls-portfolio-announces-five-new-lines/270052/",
+   "https://www.neptunecigar.com/cigar/aging-room-quattro-connecticut"
+  ],
+  "notes": "Neptune marks every size discontinued and it is no longer on Altadis USA's Aging Room page. Strength is Neptune's rating; no maker rating was found.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Espressivo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Maestro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Vibrato",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Concerto",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "earth",
+   "leather",
+   "spice"
+  ],
+  "about": "The Quattro Original blend with a Mexican San Andrés maduro wrapper in place of the Sumatra leaf. It began in 2017 as a Thompson exclusive called Quattro F55M before going national.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-boutique-blends/167581/",
+   "https://halfwheel.com/aging-room-quattro-f55m-maduro-concerto/144328/",
+   "https://www.neptunecigar.com/cigar/aging-room-quattro-maduro-formerly-f55m"
+  ],
+  "notes": "Formerly Quattro F55M (F55 Maduro); renamed Quattro Maduro in 2018. Neptune marks every size discontinued and it is no longer on Altadis USA's Aging Room page. Strength is Neptune's rating; halfwheel's 2017 review found it medium-plus in strength with a medium body.",
+  "verified": true,
+  "verifyNotes": "Notes: added halfwheel's review strength, which is lower than Neptune's full rating. Sources: swapped the Thompson news item for halfwheel's review, which covers the same launch facts."
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Pura Cepa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa, Condega, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A., Estelí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rondo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mezzo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Grande",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "cedar",
+   "earth",
+   "wood",
+   "honey"
+  ],
+  "about": "A Nicaraguan puro from Rafael Nodal made by the Plasencia family, using tobacco from four Nicaraguan growing regions. The name means pure bred in Spanish.",
+  "released": 2018,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/aging-room-small-batch-pura-cepa-rondo/282480/",
+   "https://www.neptunecigar.com/cigar/aging-room-pura-cepa"
+  ],
+  "notes": "Launched as Aging Room Small Batch Pura Cepa. Neptune calls the wrapper Nicaraguan Habano; halfwheel only says Nicaragua. Strength is Neptune's rating; halfwheel's reviewer did not find it especially strong. It is no longer on Altadis USA's Aging Room page, so current availability is unclear.",
+  "verified": true,
+  "verifyNotes": "Notes: added that halfwheel's review did not find it especially strong. The Habano wrapper and full strength rest on Neptune alone; no second retailer page could be opened."
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Rare Collection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Cuban-seed hybrid (La Lilia farm)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (includes pelo de oro)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Festivo",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Scherzo",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Vivase",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "coffee",
+   "cinnamon",
+   "earth",
+   "cedar",
+   "leather"
+  ],
+  "about": "A small-run Nicaraguan puro from Rafael Nodal and AJ Fernandez built around rare, well-aged tobaccos, including some pelo de oro. The wrapper is a Cuban-seed hybrid grown on Fernandez's La Lilia farm.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/aging-room-rare-collection-scherzo/403269/",
+   "https://cigar-coop.com/2021/07/cigar-news-boutique-blends-releasing-aging-room-by-rafael-nodal-rare-collection.html",
+   "https://www.neptunecigar.com/cigar/aging-room-rare-collection"
+  ],
+  "notes": "Billed as a series of small runs that depend on available tobacco; this is the first release. Neptune now marks all sizes discontinued. The maker's launch release called it medium-full; Neptune lists medium and halfwheel's review found it a little above medium. Halfwheel spells the smallest size Festive; retailers list Festivo.",
+  "verified": true,
+  "verifyNotes": "strength changed from Medium to Medium-Full: the maker's launch release (quoted by Cigar Coop) says medium-full bodied, Corona Cigar lists medium to full and halfwheel found medium-plus; only Neptune lists medium. Sources: swapped halfwheel's news item for the Cigar Coop report of the press release. Notes updated."
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Core Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rondo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mezzo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Major",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Dominican puro from Rafael Nodal's core Aging Room line, made at Jochy Blanco's Tabacalera Palma. It came out of the 2018 overhaul of the Aging Room portfolio alongside Connecticut and Maduro versions.",
+  "released": 2018,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/ipcpr-2018-boutique-blends/276704/",
+   "https://halfwheel.com/aging-room-by-rafael-nodal-ships/280426/",
+   "https://www.neptunecigar.com/cigar/aging-room-core-habano"
+  ],
+  "notes": "Launched as Aging Room by Rafael Nodal Habano; retailers call it Core Habano. No published strength rating was found. Neptune has no sizes in stock and it is not on Altadis USA's Aging Room page, so it may be discontinued.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "All Saints",
+  "line": "Dedicación",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA), Estelí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mitre",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Huge",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "toast",
+   "coffee",
+   "cream",
+   "dark chocolate",
+   "peanuts"
+  ],
+  "about": "The first regular production line from All Saints Cigars, the company co-founded by former CAO sales head Micky Pegg. It is made at Rocky Patel's TAVICUSA factory with a San Andrés wrapper over Nicaraguan tobacco.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.allsaintscigars.com/cigars/",
+   "https://halfwheel.com/all-saints-dedicacion-commandant/379928/",
+   "https://halfwheel.com/all-saints-announces-discontinuations-reduced-prices/454255/"
+  ],
+  "notes": "The maker calls it medium bodied; halfwheel's review found the strength below medium. Sizes are the four listed since September 2025. It launched with Berkey (5 1/2 x 50), Commandant (6 1/2 x 52), Huge and Coach (7 x 48, now discontinued). A Dedicación Habano version is a separate blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "All Saints",
+  "line": "Dedicación Maduro",
+  "found": false,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": null,
+  "released": null,
+  "production": null,
+  "sources": [],
+  "notes": "No All Saints line by this name could be confirmed. The maker and halfwheel list four blends: Dedicación, Dedicación Habano, St. Francis and St. Francis Colorado. The original Dedicación wears a dark Mexican San Andrés wrapper, so this is most likely that cigar.",
+  "verified": false,
+  "verifyNotes": "Second attempt made: nothing by this name on the maker's cigars page, in halfwheel's All Saints coverage or in Neptune's All Saints listing. Left as not found."
+ },
+ {
+  "brand": "All Saints",
+  "line": "St. Francis",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA), Estelí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Mitre",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Huge",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "cinnamon",
+   "allspice",
+   "leather",
+   "caramel"
+  ],
+  "about": "The second All Saints line, named for Francis of Assisi and made at Rocky Patel's TAVICUSA factory with a dark Ecuadorian oscuro wrapper over Nicaraguan tobacco. The Cigar Authority named it its 2021 Cigar of the Year.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.allsaintscigars.com/cigars/",
+   "https://halfwheel.com/all-saints-st-francis-toro/400843/",
+   "https://halfwheel.com/all-saints-announces-discontinuations-reduced-prices/454255/"
+  ],
+  "notes": "The maker calls it medium-full bodied; Neptune calls it full. Sizes are the four listed since September 2025. It launched with Robusto (5 1/2 x 50), Toro (6 1/2 x 52), Huge and Churchill (7 x 48). St. Francis Colorado is a sister blend with an Ecuadorian Habano Colorado wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "All Saints",
+  "line": "Solamente",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Villa Cuba S.A. (TAVICUSA), Estelí",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "chocolate",
+   "cream",
+   "earth",
+   "black pepper"
+  ],
+  "about": "The limited edition that launched All Saints Cigars in December 2019, sold in a single 5 x 58 size. It returned in October 2023 in a run of 500 boxes of 23.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/all-saints-solamente-2023/434733/",
+   "https://halfwheel.com/all-saints-dedicacion-commandant/379928/",
+   "https://www.neptunecigar.com/cigar/all-saints-solamente"
+  ],
+  "notes": "Filler is as listed for the 2023 release; the 2019 original was described as all Nicaraguan under the wrapper. Neptune calls it medium strength, while halfwheel's 2023 review found mild to medium strength with a full body.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

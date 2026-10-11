@@ -1,0 +1,943 @@
+[
+ {
+  "brand": "Dunbarton",
+  "line": "Muestra de Saka",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Exclusivo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Nacatamale",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "#NLMTHA",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Unstolen Valor",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "The Bewitched",
+    "length": 6.625,
+    "ring": 48
+   },
+   {
+    "name": "Krakatoa",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "A series of small-batch one-size blends from Steve Saka, each sold in individual cedar coffins in boxes of seven. Every release is its own blend, so there is no single Muestra de Saka recipe.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/muestra-de-saka/",
+   "https://halfwheel.com/muestra-de-saka-krakatoa/431941/"
+  ],
+  "notes": "Each release is its own blend with its own wrapper and strength (maker rates them 4 to 9 out of 10), so ask which one the guest has. Exclusivo, #NLMTHA, The Bewitched and Krakatoa wear Ecuador Habano; Nacatamale is Nicaraguan sungrown and Unstolen Valor is Habano 2000 sungrown. Halfwheel lists The Bewitched at 50 ring, the maker at 48.",
+  "verified": true,
+  "verifyNotes": "Sizes, per-release wrappers and the 4 to 9 strength range confirmed on the maker page; 2017 debut and Nicaragua confirmed on halfwheel. Wrapper and strength stay null because the maker publishes them per release, not for the line. Reworded notes: the maker does not state where the Unstolen Valor wrapper is grown, so it is no longer called Nicaraguan, and #NLMTHA was added to the Ecuador Habano list."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Sobremesa",
+  "found": true,
+  "officialName": "Sobremesa Solita",
+  "wrapperLeaf": "Ecuadorian Habano Rosado (La Meca Grade 1)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro, Matacapan Negro de Temporal)",
+  "filler": "Nicaragua (Condega, Pueblo Nuevo, Estelí), USA (Pennsylvania Broadleaf ligero)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Solita Churchill en Cedros",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Solita Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Solita Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Solita Short Churchill",
+    "length": 4.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cocoa",
+   "coffee",
+   "cream",
+   "black pepper"
+  ],
+  "about": "The first cigar Steve Saka released under Dunbarton Tobacco & Trust, made at Joya de Nicaragua with an Ecuadorian Habano wrapper over a Mexican binder. It is a creamy, medium-strength blend named for the time spent lingering at the table after a meal.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/sobremesa/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-updating-sobremesa-packaging-renames-original-line-as-sobremesa-solita/430524/",
+   "https://halfwheel.com/sobremesa-cervantes-fino/101138/"
+  ],
+  "notes": "The original Sobremesa was renamed Sobremesa Solita in late 2023; the blend did not change. Maker rates strength 5 out of 10. Solita Red (6 1/4 x 46) is a slightly stronger version aged a year.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Mi Querida",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Gran Búfalo",
+    "length": 7,
+    "ring": 64
+   },
+   {
+    "name": "Muy Gordo Grande",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Ancho Largo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Fino Largo",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Ancho Corto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gordita",
+    "length": 4,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "coffee",
+   "pepper"
+  ],
+  "about": "Steve Saka's Connecticut Broadleaf maduro, rolled at the NACSA factory in Estelí over Nicaraguan binder and filler. It was Dunbarton's second line and is known as an earthy, full-bodied broadleaf cigar at a moderate price.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/mi-querida/",
+   "https://halfwheel.com/mi-querida-fino-largo/133245/",
+   "https://www.neptunecigar.com/cigar/mi-querida"
+  ],
+  "notes": "Maker rates strength 7 out of 10 and calls it full bodied; Neptune lists it as full. The name is Nicaraguan slang for a secret mistress.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Sin Compromiso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Negro \"Cultivo Tonto\"",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Selección No. 7",
+    "length": 7,
+    "ring": 56
+   },
+   {
+    "name": "Selección Varita Mágica",
+    "length": 7,
+    "ring": 44
+   },
+   {
+    "name": "Selección No. 2 Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Selección No. 5",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Selección Intrépido",
+    "length": 5.63,
+    "ring": 46
+   },
+   {
+    "name": "Selección No. 4",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "earth",
+   "chicory",
+   "spice"
+  ],
+  "about": "Dunbarton's top-tier regular line, a soft-pressed cigar with a Mexican San Andrés wrapper over an Ecuadorian Habano binder, made at Joya de Nicaragua. Steve Saka calls it his best blend, and it comes cedar-sleeved in boxes of 13.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/sin-compromiso/",
+   "https://halfwheel.com/sin-compromiso-seleccion-no-4/442503/",
+   "https://www.neptunecigar.com/cigar/sin-compromiso"
+  ],
+  "notes": "Maker rates strength 6 out of 10; Neptune lists medium but describes it as medium to full bodied. Paladin de Saka (7 x 52) is a stronger, year-aged limited version. Halfwheel reported production of the 7 x 44 Varita Mágica was halted in 2023.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Umbagog",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo Gordo",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Toro Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Robusto Plus",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "spice"
+  ],
+  "about": "Dunbarton's value-priced broadleaf cigar, sold in paper bundles of 10 and named for Steve Saka's favorite fishing lake on the New Hampshire and Maine border. It uses Connecticut Broadleaf wrapper judged too rough looking for Mi Querida.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/umbagog/",
+   "https://halfwheel.com/umbagog-toro-toro/214099/",
+   "https://www.neptunecigar.com/cigar/umbagog"
+  ],
+  "notes": "The maker's site lists a San Andrés Negro binder, while halfwheel and Neptune list a Nicaraguan binder. Maker rates strength 7 out of 10; Neptune lists it as full. Bronzeback (5 x 48) is a more peppery version with a 2LS Broadleaf wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Mi Querida Triqui Traca",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf No. 1 Darks",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, USA, Dominican Republic (ligero)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 764",
+    "length": 7,
+    "ring": 64
+   },
+   {
+    "name": "No. 652",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 648",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "No. 552",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "No. 448",
+    "length": 4,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "dark chocolate",
+   "espresso"
+  ],
+  "about": "A stronger take on Mi Querida that swaps in darker No. 1 Dark broadleaf wrapper and adds Dominican ligero to the filler. Dunbarton calls it arguably its boldest cigar, and the sizes are named for their length and ring gauge.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/mi-querida-triqui-traca/",
+   "https://halfwheel.com/mi-querida-triqui-traca-no-448/405674/",
+   "https://www.neptunecigar.com/cigar/mi-querida-triqui-traca"
+  ],
+  "notes": "Maker rates strength 9 out of 10. It grew out of the 2018 Mi Querida Firecracker made for United Cigars. The maker's blend chart lists Nicaraguan and USA filler while its description and halfwheel name Dominican ligero.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Sobremesa Brûlée",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade (G2BW)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro, Matacapan Negro de Temporal)",
+  "filler": "Nicaragua (Condega, Pueblo Nuevo, Estelí)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Brûlée Double Corona",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Brûlée Gordo",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Brûlée Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Brûlée Robusto",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "caramel",
+   "coffee",
+   "cream",
+   "nuts"
+  ],
+  "about": "A milder version of the Sobremesa blend with an Ecuadorian Connecticut Shade wrapper and the Pennsylvania ligero removed. Steve Saka made it to recall the creamy, sweet Connecticut cigars of decades past.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/sobremesa-brulee/",
+   "https://halfwheel.com/sobremesa-brulee-robusto/365584/",
+   "https://www.neptunecigar.com/cigar/sobremesa-brulee"
+  ],
+  "notes": "Maker rates strength 3 out of 10; Neptune's spec says medium but its description says mild to medium. Brûlée Blue and Brûlée Wagashi are limited variants of this blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Sobremesa Brûlée Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (Matacapan Negro de Temporal)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Brûlée Blue",
+    "length": 6.25,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "coffee",
+   "cocoa",
+   "leather",
+   "cinnamon",
+   "white pepper"
+  ],
+  "about": "A limited single-size version of Sobremesa Brûlée, blended a touch stronger and aged a full year after rolling. It comes as a 6 1/4 x 46 grand corona with a pigtail cap and placed fourth on halfwheel's Top 25 of 2020.",
+  "released": 2020,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/sobremesa-brulee/",
+   "https://halfwheel.com/sobremesa-brulee-blue/381904/",
+   "https://halfwheel.com/dunbartons-sobremesa-brulee-blue-mi-querida-black-getting-unicorns-archive-series-getting-new-addition-at-pca-2023/422348/"
+  ],
+  "notes": "This is one limited size within the Sobremesa Brûlée line, not a separate line. No source gives it its own strength rating: the maker only says it is a touch stronger than regular Brûlée (3 out of 10), and halfwheel's review found it just shy of medium. A 6 1/4 x 60 Unicorn was also made in very small numbers.",
+  "verified": true,
+  "verifyNotes": "Changed flavor 'espresso' to 'coffee': the halfwheel review names coffee, not espresso. Strength left null: confirmed the maker gives no separate rating for Blue, only that it is a touch stronger than Brûlée."
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Todos Las Dias",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan sun grown (Cuban seed)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Jalapa, Estelí)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Thick Lonsdale \"MF\"",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Double Wide Belicoso",
+    "length": 4.75,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "figs",
+   "chili pepper"
+  ],
+  "about": "A strong Nicaraguan puro from Steve Saka, made at Joya de Nicaragua with a sun grown Cuban-seed wrapper. The name is his own Spanglish for \"all the days\", and the blend builds in strength to a powerful finish.",
+  "released": 2017,
+  "production": "limited",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/todos-las-dias/",
+   "https://halfwheel.com/todos-las-dias-half-churchill/180000/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-ships-10th-jubilee-todos-las-dias-double-wide/463070/"
+  ],
+  "notes": "Regular production has been on hiatus since mid-2021 over a filler tobacco quality issue; sizes have returned only as limited Archive Series releases, and the maker hopes to restart in late 2026. Maker rates strength 9 out of 10. Neptune calls the wrapper Nicaraguan Criollo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Red Meat Lovers",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Porterhouse",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Ribeye",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Beef Stick",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Filet Mignon",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "earth",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "A Connecticut Broadleaf maduro that Steve Saka blended to be smoked after a steak dinner, first made for the Red Meat Lovers Club charity dinners. Three sizes are trunk pressed, and the Beef Stick is a round, flat-capped, closed-foot parejo.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/red-meat-lovers/",
+   "https://halfwheel.com/red-meat-lovers-beef-stick/432737/",
+   "https://www.neptunecigar.com/cigar/red-meat-lovers-by-dunbarton"
+  ],
+  "notes": "It started in 2019 as a Smoke Inn store exclusive and became a national regular line in 2023. Maker rates strength 7 out of 10 and calls it full bodied; Neptune lists it as full. Fritanga (6 x 52) is a bolder limited version.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Stillwell Star",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro Cultivo Tonto)",
+  "filler": "Nicaragua, plus pipe tobaccos that differ by blend",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Aromatic No. 1",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Aromatic No. 22",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "English No. 27",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Bayou No. 32",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Navy No. 1056",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A line of 6 x 52 toros that blend Nicaraguan cigar filler with pipe tobaccos made by Jeremy Reeves of Cornell & Diehl. Each blend uses a different pipe mixture, such as Latakia in English No. 27 and Perique in Bayou No. 32.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/stillwell-star/",
+   "https://halfwheel.com/stillwell-star-english-no-27/403127/"
+  ],
+  "notes": "Maker styles the name StillWell Star. Strength depends on the blend: the maker rates the Aromatics 4, Navy No. 1056 5, English No. 27 6 and Bayou No. 32 7 out of 10. Aromatic No. 1 has a sweetened cap. Limited Holiday editions use other wrappers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dunbarton",
+  "line": "Polpetta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Nicaragua (mixed filler: trimmings from the broadleaf lines plus two long-leaf tobaccos)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Puros",
+    "length": 4,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "espresso",
+   "pepper",
+   "minerals"
+  ],
+  "about": "Dunbarton's least expensive cigar, a 4 x 48 mixed-filler smoke built from the table trimmings of its broadleaf lines such as Mi Querida, Umbagog and Red Meat Lovers. The name is Italian for meatball.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.dunbartoncigars.com/marca/polpetta/",
+   "https://halfwheel.com/dunbarton-tobacco-trust-begins-shipping-polpetta/433310/"
+  ],
+  "notes": "It began in late 2019 as an event-only cigar and became regular production in January 2024. This is a sandwich-style mixed-filler cigar, not all long filler. Maker rates strength 9 out of 10.",
+  "verified": true,
+  "verifyNotes": "Reworded filler so the trimmings are not described as Nicaraguan broadleaf; the maker lists the filler as Nicaraguan and says the cuts come from its broadleaf lines."
+ },
+ {
+  "brand": "Eiroa",
+  "line": "The First 20 Years",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran maduro (Jamastran Valley)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino (CLE factory), Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Prensado",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Diadema",
+    "length": 8,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cinnamon",
+   "pepper",
+   "cedar"
+  ],
+  "about": "A box-pressed Honduran puro from Christian Eiroa's CLE Cigar Company, released to mark his first 20 years in the cigar business. The tobaccos were grown by his father Julio in the Jamastran Valley, including an heirloom binder leaf.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eiroa-the-first-20-years-50-x-5/107277/",
+   "https://www.neptunecigar.com/cigar/eiroa-the-first-20-years",
+   "https://www.famous-smoke.com/brand-eiroa-the-first-20-years"
+  ],
+  "notes": "Halfwheel lists the wrapper only as Honduran; Neptune and Famous call it a Honduran maduro, and no source names the varietal. Neptune and Famous list it as medium, though Neptune's write-up calls it full bodied. The Diadema is 8 inches with a 48 to 60 ring taper. A separate Colorado-wrapper version also exists.",
+  "verified": true,
+  "verifyNotes": "Set wrapperLeaf to Honduran maduro and wrapperCategory to Maduro/Broadleaf (was null): Neptune and Famous both list a maduro wrapper. Removed flavors 'espresso' and 'oak', which appear only in customer reviews on Neptune. Added the Famous page as a source since the notes cite it. The maker site (clecigars.com) refused the connection, so the blend is confirmed from halfwheel and two retailers only."
+ },
+ {
+  "brand": "Eiroa",
+  "line": "CBT Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro, origin not disclosed",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": "El Aladino (CLE factory), Danlí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prensado",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "leather",
+   "nuts",
+   "raisin",
+   "black pepper"
+  ],
+  "about": "A maduro from Christian Eiroa's CLE Cigar Company in which the wrapper, binder and filler are all maduro leaf from the upper primings. CBT stands for capa, banda and tripa, the Spanish words for those three parts.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eiroa-cbt-maduro-lancero/414973/",
+   "https://www.neptunecigar.com/cigar/eiroa-cbt-maduro"
+  ],
+  "notes": "The maker has not disclosed the blend, per halfwheel. Neptune lists a Mexican San Andrés maduro wrapper over Honduran binder and filler, which is unconfirmed. Eiroa calls it full bodied and Neptune lists full; halfwheel's reviewer found it medium-full.",
+  "verified": true,
+  "verifyNotes": "Filled wrapperLeaf with what the maker says (a maduro leaf of undisclosed origin) so it agrees with the category; origin, binder and filler stay null. Confirmed on halfwheel that the blend is undisclosed; strength Full is Neptune's rating. The maker site refused the connection."
+ },
+ {
+  "brand": "Eiroa",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino (CLE factory), Danlí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Prensado",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "citrus",
+   "leather",
+   "spice"
+  ],
+  "about": "The original Eiroa cigar from Christian Eiroa's CLE Cigar Company, a Honduran puro made at the Aladino factory in Danlí. Its band carries the old Spanish toast \"Salud, Amor y Pesetas\" in tribute to his family's century in tobacco.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/eiroa-classic-lancero-2022/415045/",
+   "https://halfwheel.com/press-release-christian-eiroa-announces-eiroa-cle-plus/37853/",
+   "https://www.neptunecigar.com/cigar/eiroa-classic"
+  ],
+  "notes": "Launched in 2013 simply as Eiroa; now sold as Eiroa Classic. Halfwheel and Neptune describe it as a Honduran puro with a Corojo wrapper. Neptune rates it medium, while halfwheel's review found medium-plus to medium-full and the maker billed it as bold and full bodied.",
+  "verified": true,
+  "verifyNotes": "Set wrapperLeaf to Honduran Corojo and wrapperCategory to Corojo (was Honduran / null): halfwheel's Aug. 2022 news post (https://halfwheel.com/cle-ships-pair-of-eiroa-lanceros/413228/) and Neptune's blurb both name a Corojo wrapper. Notes updated to match. Strength kept at Medium-Full as the midpoint of sources that disagree (Neptune medium, halfwheel review medium-plus to medium-full); the maker site refused the connection."
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "Natural",
+  "found": true,
+  "officialName": "Naturals",
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Flor de Llaneza (Pyramid)",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Reserva Salado",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Rectangulare",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto en Vidrio",
+    "length": 5.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "cedar",
+   "graham cracker",
+   "chocolate",
+   "espresso",
+   "spice"
+  ],
+  "about": "The lighter-wrapped line of the Honduran-made El Rey del Mundo, introduced in 2022 with an Ecuadorian Sumatra wrapper over a Honduran binder. It is a mellow, value-priced cigar from the same company that makes Punch and Hoyo de Monterrey.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/el-rey-del-mundo-naturals-coming-to-stores-this-month/405654/",
+   "https://www.neptunecigar.com/cigar/el-rey-del-mundo-natural",
+   "https://www.famous-smoke.com/brand-el-rey-del-mundo-naturals"
+  ],
+  "notes": "This is the non-Cuban, Honduran El Rey del Mundo; the maker and Famous call the line Naturals. The maker describes it as mellow to medium bodied, while Neptune and Famous list medium strength. Famous lists Rectangulare at 45 ring and Reserva Salado at 64 ring, against 46 and 54 at halfwheel and Neptune. Famous also mentions Dominican filler.",
+  "verified": true,
+  "verifyNotes": "Added released 2022, factory STG Danlí, body Mild-Medium (maker's wording) and officialName Naturals from halfwheel's March 2022 launch report, and added that page as a source. Added the maker's flavor words. Removed the reference to a retailer (Mike's) that was not in the sources; halfwheel confirms the 46 and 54 ring gauges."
+ },
+ {
+  "brand": "El Rey del Mundo",
+  "line": "Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Oscuro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "HATSA, Danlí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Robusto Larga",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto Suprema",
+    "length": 7.25,
+    "ring": 54
+   },
+   {
+    "name": "Ronco",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Café Noir",
+    "length": 4.5,
+    "ring": 35
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "black pepper",
+   "dark chocolate",
+   "leather",
+   "earth",
+   "cocoa"
+  ],
+  "about": "The dark-wrapped core of the Honduran-made El Rey del Mundo, with an extra-dark Connecticut Broadleaf wrapper over Honduran binder and filler. It is an old-school, value-priced maduro made alongside Punch and Hoyo de Monterrey.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-el-rey-del-mundo-broadleaf",
+   "https://www.holts.com/cigars/all-cigar-brands/el-rey-del-mundo.html",
+   "https://www.neptunecigar.com/cigar/el-rey-del-mundo-maduro"
+  ],
+  "notes": "This is the non-Cuban, Honduran El Rey del Mundo. Retailers label the same cigars Oscuro (Holt's), Broadleaf (Famous) or Maduro (Neptune). Holt's lists medium-full; Famous and Neptune list full in their spec tables but describe it as medium to full.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

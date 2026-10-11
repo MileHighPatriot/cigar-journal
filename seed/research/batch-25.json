@@ -1,0 +1,1181 @@
+[
+ {
+  "brand": "Crowned Heads",
+  "line": "Four Kicks",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Piramide",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Seleccion No.5",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "wood",
+   "molasses",
+   "pepper",
+   "honey"
+  ],
+  "about": "The first Crowned Heads line, launched in late 2011 by former CAO staff and named after a Kings of Leon song. It is made for them by Ernesto Perez-Carrillo Jr. in the Dominican Republic.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/review-kicks-seleccion-no-5-prerelease/26744/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-four-kicks",
+   "https://www.holts.com/cigars/all-cigar-brands/four-kicks.html"
+  ],
+  "notes": "Corona Gorda, Robusto and Sublime are the sizes retailers stock today; Piramide and Seleccion No.5 are older regular sizes that are harder to find. Separate Four Kicks Maduro and Capa Especial lines use different wrappers.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Four Kicks Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano (maduro)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "cream",
+   "coffee",
+   "orange",
+   "black pepper"
+  ],
+  "about": "The maduro version of Four Kicks, released in 2017. It keeps the Nicaraguan binder and filler of the original and swaps the Ecuadorian wrapper for a dark Connecticut-grown Habano leaf.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/four-kicks-maduro-corona-gorda/216181/",
+   "https://halfwheel.com/crowned-heads-adding-four-kicks-maduro-ipcpr-2017/158581",
+   "https://www.neptunecigar.com/cigar/crowned-heads-four-kicks-maduro"
+  ],
+  "notes": "The wrapper is Connecticut Habano, not Connecticut Broadleaf. A separate Famous Smoke Shop exclusive, Four Kicks Black Belt Buckle, is the one that uses broadleaf.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Jericho Hill",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "OBS",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Jack Brown",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Willy Lee",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "wood",
+   "nuts",
+   "anise",
+   "herbs",
+   "toast"
+  ],
+  "about": "A San Andres wrapped Nicaraguan cigar made for Crowned Heads by the Garcia family at My Father Cigars. The name and the size names come from Johnny Cash's version of Cocaine Blues on At Folsom Prison.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-updates-jericho-hill-packaging/456962/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-jericho-hill",
+   "https://www.holts.com/cigars/all-cigar-brands/jericho-hill.html"
+  ],
+  "notes": "Retailers disagree on strength: Holt's says medium-full, Neptune says full. New packaging arrived in late 2025 with boxes of 21, and the .44S (5 1/8 x 44) and LBV (6 1/2 x 46) sizes were discontinued, though some stores still have LBV.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Las Calaveras",
+  "found": true,
+  "officialName": "Las Calaveras Edición Limitada",
+  "wrapperLeaf": "Mexican San Andres (2025 release)",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "LC52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "LC54",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "LC56",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "espresso",
+   "toffee",
+   "cream",
+   "earth",
+   "pepper"
+  ],
+  "about": "An annual limited edition made at My Father Cigars since 2014, released as a tribute to people close to the company who have died. Every year is a different blend in three or four sizes.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/las-calaveras-edicion-limitada-2025-lc56/454970/",
+   "https://halfwheel.com/las-calaveras-decimo-returning-for-2026-release/476967/"
+  ],
+  "notes": "The blend and sizes change every year, so check the year on the band. The wrapper, sizes and flavors here are the 2025 release. The related Las Calaveras Decimo (2024, back in 2026) uses an Ecuadorian Habano Oscuro wrapper over Nicaraguan tobacco.",
+  "verified": true,
+  "verifyNotes": "No fields changed. Strength stays null: Crowned Heads has no product pages on its site and no retailer page was found; halfwheel's reviewer found the 2025 release mild to just under medium."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Le Carême",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuadorian Sumatra",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cosacos",
+    "length": 5.375,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Canonazo",
+    "length": 5.875,
+    "ring": 52
+   },
+   {
+    "name": "Hermoso No. 1",
+    "length": 6.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "dark berries",
+   "raisin",
+   "vanilla"
+  ],
+  "about": "A box-pressed broadleaf cigar from 2016, made by Ernesto Perez-Carrillo Jr. and named after the French chef Marie-Antoine Careme. Crowned Heads built the blend around the idea of a chocolate souffle.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/le-careme-belicosos-finos-2019-le/367473/",
+   "https://halfwheel.com/ipcpr-2016-crowned-heads/126330/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-le-careme"
+  ],
+  "notes": "The Belicosos Finos (5 1/2 x 52, not box-pressed) and Pastelitos (4 x 54) are limited editions, not regular sizes. Halfwheel lists the Cosacos as both 5 3/8 and 5 1/2 inches.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Mil Días",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Costa Rica, Nicaragua, Peru",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pichardo (TacaNicsa)",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Edmundo",
+    "length": 5.375,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Double Robusto",
+    "length": 6.375,
+    "ring": 50
+   },
+   {
+    "name": "Topes",
+    "length": 4.875,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "leather",
+   "coffee",
+   "caramel",
+   "nuts",
+   "wood",
+   "black pepper"
+  ],
+  "about": "Released in 2020 and made at Eradio Pichardo's factory in Esteli. The name means a thousand days, roughly the three years Crowned Heads spent working on the blend.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/mil-dias-sublime-2/429754/",
+   "https://halfwheel.com/crowned-heads-ships-updated-mil-dias-packaging/452561/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-mil-dias"
+  ],
+  "notes": "Retailers disagree on strength: Neptune says medium, Holt's says medium-full. Mil Dias Maduro is a separate line with a Connecticut Broadleaf wrapper. New packaging and boxes of 21 arrived in 2025 with no blend change.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Headley Grange",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Estupendos",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Eminentes",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Hermoso No. 4",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Dobles",
+    "length": 6.125,
+    "ring": 50
+   },
+   {
+    "name": "Laguito No. 6",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "herbs",
+   "spice",
+   "black pepper",
+   "dried fruit",
+   "toasted grain",
+   "espresso"
+  ],
+  "about": "The second Crowned Heads line, from 2012, made by Ernesto Perez-Carrillo Jr. It is named after the English house where Led Zeppelin recorded When the Levee Breaks.",
+  "released": 2012,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/review-headley-grange-snaredrum/71234/",
+   "https://halfwheel.com/redux-headley-grange-estupendos/38278/",
+   "https://www.holts.com/cigars/all-cigar-brands/headley-grange.html"
+  ],
+  "notes": "Holt's rates it medium; halfwheel found it starting mild-medium and building past medium. Black Dog (Connecticut Habano maduro) and Chamuco (San Andres) are darker spin-offs, not this blend. Holt's and Neptune both showed it sold out in October 2026, and whether it is still made is not confirmed.",
+  "verified": true,
+  "verifyNotes": "Filled strength (was null) with Medium from Holt's spec table, consistent with both halfwheel reviews. Swapped the Laguito No. 6 news link for the Holt's page; the size is still covered by the halfwheel size list. Notes updated."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "La Imperiosa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Magicos",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Dukes",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Double Robusto",
+    "length": 6.375,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "hickory",
+   "cedar",
+   "raisin",
+   "spice",
+   "peanut",
+   "chocolate"
+  ],
+  "about": "A 2015 regular production line made at My Father Cigars, created as the follow-up to the sold-out Las Calaveras 2014. It pairs a dark Ecuadorian Habano Oscuro wrapper with Nicaraguan tobacco.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-imperiosa-magicos-2/180010/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-la-imperiosa",
+   "https://www.holts.com/cigars/all-cigar-brands/la-imperiosa.html"
+  ],
+  "notes": "Holt's says medium-full, Neptune says full. Retailers often call it the Las Calaveras 2014 blend; halfwheel says it is based on that cigar but is not the exact same blend. New packaging was shown in 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Juarez",
+  "found": true,
+  "officialName": "Juárez",
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuadorian Sumatra",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Pichardo (TacaNicsa)",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "OBS",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Jack Brown",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Willy Lee",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Chihuahua",
+    "length": 5.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "oak",
+   "nuts",
+   "herbs"
+  ],
+  "about": "A lower-priced San Andres cigar made at Tabacalera Pichardo in Esteli, built as a value alternative to Jericho Hill. It began in late 2018 as a Thompson Cigar exclusive and went to all retailers in 2019.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/juarez-obs/298415/",
+   "https://halfwheel.com/crowned-heads-slates-juarez-chihuahua-for-late-july/378681/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-juarez"
+  ],
+  "notes": "Strength varies by source: Neptune says medium, Holt's medium-full, and halfwheel found it medium-full to full. The Bulldozer and Mini-Dozer limited editions add Mexican filler to the blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Court Reserve XVIII",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "coffee",
+   "cedar",
+   "raisin"
+  ],
+  "about": "A 2018 release made by Ernesto Perez-Carrillo Jr. and the first cigar Crowned Heads put its own company name on. It was a thank-you to the company's supporters, which it calls its Court.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/crowned-heads-court-reserve-xviii-sublime/292329/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-court-reserve-xviii"
+  ],
+  "notes": "Total production was 150,000 cigars across the three sizes, so it is hard to find now.",
+  "verified": true,
+  "verifyNotes": "Reworded about: halfwheel says it was the first product to carry the Crowned Heads name, but does not say the name is on the band. Added the Neptune page as a second source; it agrees on wrapper, sizes, the 150,000 run and medium to full."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Luminosa",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "wood",
+   "black pepper",
+   "cereal",
+   "cedar"
+  ],
+  "about": "The first regular production Connecticut cigar from Crowned Heads, previewed in late 2016 and shipped nationally in 2017. It is made by Ernesto Perez-Carrillo Jr. in the Dominican Republic.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/luminosa-robusto/139403/",
+   "https://halfwheel.com/luminosa-shipping-nationwide-next-week/146882/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-luminosa"
+  ],
+  "notes": "Halfwheel says the binder and filler were not disclosed; Neptune lists both as Nicaraguan. Crowned Heads billed it as mild to medium, but halfwheel's reviewer found it medium or a little above. Whether it is still in production is not confirmed.",
+  "verified": true,
+  "verifyNotes": "Notes only: added that Neptune lists a Nicaraguan binder and filler while halfwheel reports them as undisclosed. Binder and filler left null. Added the Neptune page as a source."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "J.D. Howard Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuadorian Sumatra",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "HR46",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "HR48",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "HR50",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "HR52",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "HR54",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "pepper",
+   "cocoa",
+   "wood",
+   "spice"
+  ],
+  "about": "The third Crowned Heads line, from 2013, made by Ernesto Perez-Carrillo Jr. with a dark Brazilian Arapiraca wrapper. J.D. Howard was the alias Jesse James used while living in Nashville.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/review-crowned-heads-j-d-howard-reserve-hr50-prerelease/39737/",
+   "https://www.neptunecigar.com/cigar/jd-howard-reserve"
+  ],
+  "notes": "Brazilian Arapiraca is a dark natural leaf that does not fit the usual wrapper categories. Strength is not settled: Neptune calls it full-bodied, while halfwheel's review put it at medium to medium-plus. Whether it is still in production is not confirmed.",
+  "verified": true,
+  "verifyNotes": "Notes only: added the strength disagreement. Strength stays null because Crowned Heads publishes no rating (its site has no product pages) and the two sources that describe it disagree. Added the Neptune page as a second source; it agrees on wrapper, binder, filler and factory."
+ },
+ {
+  "brand": "Crowned Heads",
+  "line": "Buckeye Land",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Connecticut Broadleaf",
+  "filler": "Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Grand Corona",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "toast",
+   "chocolate",
+   "wood",
+   "minerals"
+  ],
+  "about": "An Ohio-only release from 2018 and the first Crowned Heads cigar made at Drew Estate, blended with Willy Herrera. The name refers to Ohio and to the maiden name of co-founder Jon Huber's wife.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/buckeye-land-2/383956/",
+   "https://www.neptunecigar.com/cigar/crowned-heads-buckeye-land"
+  ],
+  "notes": "Sold only through Ohio retailers, in one 6 x 48 size. Halfwheel found the strength just under medium for most of the cigar, building to medium-full at the end.",
+  "verified": true,
+  "verifyNotes": "Added the Neptune page as a second source; it agrees on the blend, Drew Estate, the Ohio exclusive and medium. No other change."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Buenaventura",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Cuban-seed)",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "BV 500",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "BV 560",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "BV 600",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "pepper",
+   "peanuts"
+  ],
+  "about": "Curivari's value-priced Nicaraguan puro, launched in 2012 and one of the company's best-known regular lines. It is sold under the Buenaventura name, usually without Curivari on the band.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/buenaventura-bv654/89864/",
+   "https://www.neptunecigar.com/cigar/curivari-buenaventura",
+   "https://halfwheel.com/buenaventura-bv-treas-2/378038/"
+  ],
+  "notes": "Curivari does not say much about its tobacco or factory. Halfwheel has listed Tabacalera de Nicaragua S.A. for some Curivari cigars and Plasencia for others; Neptune lists Plasencia. Buenaventura Maduro, Cremas and Favoritos are separate blends.",
+  "verified": true,
+  "verifyNotes": "No fields changed. The Cuban-seed wording is supported by Neptune's Curivari brand page (neptunecigar.com/curivari-cigar), not by the listed product page. Halfwheel's 2020 review lists country and factory as not disclosed; its 2015 review and Neptune both say Nicaragua."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Reserva Limitada Café",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Cuban-seed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Café",
+    "length": 4.5,
+    "ring": 42
+   },
+   {
+    "name": "Café 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Café 60",
+    "length": 5.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "cedar",
+   "clove"
+  ],
+  "about": "One of the three Reserva Limitada blends from Curivari, a Nicaraguan puro made in Esteli with Cuban-seed Criollo and Corojo tobacco. The maker pitches it as a cigar to pair with coffee.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.curivari.com/cigars-reservalimitada-cafe.htm",
+   "https://halfwheel.com/curivari-reserva-limitada-cafe-cafe-52/17647/"
+  ],
+  "notes": "Curivari names Cuban-seed Criollo and Corojo for the blend but does not say which leaf is the wrapper. It was already on sale in 2011; the exact release year is not published. Cafe Noir is a separate, darker maduro version. Halfwheel's reviewer found it milder than the maker's medium to full.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf reworded from 'Nicaraguan (Cuban-seed Criollo and Corojo blend)': the maker lists the wrapper only as Nicaragua and names Criollo and Corojo for the cigar as a whole, so the wrapper is not shown to be a blend of the two."
+ },
+ {
+  "brand": "Curivari",
+  "line": "El Gran Rey",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Cuban-seed)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Emperadores",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicosos",
+    "length": 5.375,
+    "ring": 52
+   },
+   {
+    "name": "Prominentes",
+    "length": 6.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "caramel",
+   "honey"
+  ],
+  "about": "A full-bodied Nicaraguan puro from Curivari, made with Cuban-seed Criollo and Corojo tobacco. It is one of the core lines listed on the maker's site.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.curivari.com/cigars-elgranrey.htm",
+   "https://www.neptunecigar.com/cigar/curivari-el-gran-rey"
+  ],
+  "notes": "Curivari names Cuban-seed Criollo and Corojo for the blend but does not say which leaf is the wrapper, and it does not publish a release year or factory for this line.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf reworded from 'Nicaraguan (Cuban-seed Criollo and Corojo blend)': the maker lists the wrapper only as Nicaragua and names Criollo and Corojo for the cigar as a whole, so the wrapper is not shown to be a blend of the two. Added the Neptune page as a second source; it agrees on Nicaraguan puro and full."
+ },
+ {
+  "brand": "Curivari",
+  "line": "Achilles",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Heroicos",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Gloriosos",
+    "length": 5.75,
+    "ring": 56
+   },
+   {
+    "name": "Eternos",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "pepper",
+   "herbs",
+   "caramel",
+   "roasted nuts"
+  ],
+  "about": "A Nicaraguan puro introduced by Curivari in 2013 and named after the Greek hero, a nod to owner Andreas Throuvalas's heritage. At launch halfwheel found it stronger than other Curivari cigars.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/review-curivari-achilles-herocios-prerelease/40290/",
+   "https://halfwheel.com/curivari-achilles-la-iliada-no-2-2/295256/",
+   "https://halfwheel.com/curivari-achilles-mirmidones-52/98538/"
+  ],
+  "notes": "Specs are for the original 2013 Achilles. Halfwheel lists Tabacalera de Nicaragua as the factory and found it medium-full; Neptune says medium and names Plasencia. Two later versions share the name: Mirmidones (2015, San Andres wrapper, made at Plasencia) and La Iliada (2017, Nicaraguan puro in 12 sizes).",
+  "verified": true,
+  "verifyNotes": "Notes only: added that Neptune disagrees with halfwheel on strength (medium) and factory (Plasencia). Fields kept on halfwheel's review of this exact cigar. Neptune page checked: neptunecigar.com/cigar/curivari-achilles."
+ },
+ {
+  "brand": "Dapper",
+  "line": "La Madrina",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (Cuban-seed, La Luchita farm)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua (Esteli, Jalapa), Dominican Republic (Habano 92), USA (Pennsylvania Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "currant",
+   "earth",
+   "walnut",
+   "cherry",
+   "pepper"
+  ],
+  "about": "A strong five-country blend from Dapper Cigar Co. of Fresno, California, made at NACSA in Esteli under Raul Disla. The name means godmother in Spanish.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.dappercigars.com/cigars/la-madrina/",
+   "https://halfwheel.com/la-madrina-natural-robusto/254078/",
+   "https://www.neptunecigar.com/cigar/la-madrina-natural"
+  ],
+  "notes": "This is the original Habano blend, also sold as La Madrina Natural. La Madrina Shade and La Madrina Maduro are separate blends. The maker rates it full to extra full. Earlier 5 1/4 x 54 and 5 5/8 x 50 sizes are retired.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "Cubo Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Rosado",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Esteli, Jalapa), USA (Connecticut Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cayenne pepper",
+   "cream",
+   "floral",
+   "walnut",
+   "dark chocolate",
+   "espresso"
+  ],
+  "about": "The third Cubo blend from Dapper Cigar Co., shown at the 2018 trade show and shipped at the end of that year. It revisits the company's first cigar with a Sumatra wrapper and some Connecticut Broadleaf in the filler.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.dappercigars.com/cigars/cubo-sumatra/",
+   "https://halfwheel.com/cubo-sumatra-robusto/297544/"
+  ],
+  "notes": "The maker rates it medium to medium plus. Sizes have changed since launch: the 2018 lineup was Corona 5 5/8 x 45, Robusto 4 1/2 x 50, Toro 6 1/8 x 50 and Gordo 6 x 54. A 4 1/2 x 50 Short Robusto is now sold only in the United Kingdom.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "Cubo Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut (desflorado)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa Habano)",
+  "filler": "Nicaragua (Condega, Esteli)",
+  "country": "Nicaragua",
+  "factory": "Tabacaleras Carreras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "black pepper",
+   "cedar"
+  ],
+  "about": "The Connecticut-wrapped version of Cubo, the first brand from Dapper Cigar Co. Owner Ian Reith made it as a nod to the Connecticut cigars his father smoked.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.dappercigars.com/cigars/cubo-claro",
+   "https://halfwheel.com/dapper-cigar-co-to-unveil-cubo-sumatra-at-ipcpr-2018/271495/"
+  ],
+  "notes": "Dapper's own site marks Cubo Claro as discontinued. The original Cubo dates to around 2013; an exact year is not published. Three thinner sizes (5 3/4 x 40, 6 x 44, 6 1/2 x 42) were made in small batches. Unlike Dapper's other lines it was made at Tabacaleras Carreras, not NACSA.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "El Borracho",
+  "found": true,
+  "officialName": "El Borracho San Andrés",
+  "wrapperLeaf": "Mexican San Andres Natural",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua (Jalapa Habano Rosado)",
+  "filler": "Nicaragua (Esteli, Jalapa, Condega)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Edmundo",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "citrus",
+   "licorice",
+   "floral"
+  ],
+  "about": "A box-pressed San Andres cigar from Dapper Cigar Co., released in 2017 and made at NACSA in Esteli. The name is Spanish for the drunk.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.dappercigars.com/cigars/el-borracho/",
+   "https://halfwheel.com/dapper-renaming-el-borracho-lines-adding-box-pressed-belicoso-at-pca-2022/409931/",
+   "https://halfwheel.com/el-borracho-edmundo/256579/"
+  ],
+  "notes": "Renamed El Borracho San Andres in 2022; older boxes say El Borracho or El Borracho Natural. El Borracho Broadleaf (formerly Maduro) is a separate blend. The maker and Neptune call it full, but halfwheel's reviewer found the strength closer to medium. All four sizes are box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Dapper",
+  "line": "Siempre",
+  "found": true,
+  "officialName": "Siempre Sun Grown",
+  "wrapperLeaf": "Ecuadorian Sun Grown Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Nicaragua (Esteli, Ometepe, Jalapa), Honduras (Jamastran)",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchilds",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "almond",
+   "citrus",
+   "nuts",
+   "pepper",
+   "honey"
+  ],
+  "about": "A 2018 release from Dapper Cigar Co. with a dark sun grown Sumatra wrapper over a Connecticut Broadleaf binder, made at NACSA in Esteli. Siempre is Spanish for always.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.dappercigars.com/cigars/siempre/",
+   "https://halfwheel.com/dapper-cigar-co-announces-siempre-sun-grown-as-second-ipcpr-release/271888/",
+   "https://www.neptunecigar.com/cigar/siempre-sun-grown"
+  ],
+  "notes": "The full name is Siempre Sun Grown; Siempre Rosado is a separate blend. The maker rates it medium to medium plus in strength and full in flavor. Sizes have changed since the 2018 launch, which included a 6 x 60 Gordo.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

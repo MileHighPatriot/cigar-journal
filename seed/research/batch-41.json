@@ -1,0 +1,986 @@
+[
+ {
+  "brand": "Matilde",
+  "line": "Renacer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Toro Bravo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "spice"
+  ],
+  "about": "The first line from Matilde, the company Jose Seijas started with his sons after retiring from Altadis. Renacer means rebirth, and it is a Dominican-made Ecuadorian Habano blend.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://matildecigars.com/core-lines/",
+   "https://halfwheel.com/review-la-matilde-renacer-corona/48466/",
+   "https://www.neptunecigar.com/cigar/matilde-renacer"
+  ],
+  "notes": "First made at Tabacalera Matilde in La Romana; production moved to Tabacalera Palma in December 2015. A 7 x 40 Lancero has also been made in limited quantities.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, factory, sizes and 2014 release confirmed on the maker's site and halfwheel. None of the listed sources stated strength; confirmed Medium on Neptune and on the maker's archived 2020 page, and swapped the packaging article for the Neptune page. Lancero wording in notes adjusted to match halfwheel (7 x 40, limited quantities)."
+ },
+ {
+  "brand": "Matilde",
+  "line": "Oscura",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro Bravo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "molasses",
+   "spice",
+   "cocoa",
+   "cedar",
+   "cream"
+  ],
+  "about": "The second Matilde line, built to be bolder than Renacer, with a dark Mexican San Andres wrapper. It is the strongest of the company's core blends.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://matildecigars.com/core-lines/",
+   "http://web.archive.org/web/20210614221035/http://www.matildecigars.com/oscura/",
+   "https://www.neptunecigar.com/cigar/matilde-oscura"
+  ],
+  "notes": "The maker's current site lists a Dominican binder; its earlier site, halfwheel and Neptune all say Ecuadorian Sumatra. The maker rated it Full; halfwheel's review found medium-full and Neptune lists Medium. Launched at Tabacalera Matilde, then moved to Tabacalera Palma in December 2015.",
+  "verified": true,
+  "verifyNotes": "Binder changed from Dominican Republic to Ecuador (Sumatra): only the maker's current page says Dominican, while its archived 2021 page, halfwheel and Neptune all say Sumatra. Strength changed from Medium-Full to Full, the maker's own rating on its archived page (halfwheel review says medium-full, Neptune Medium). Filler now names Pennsylvania. Added the archived maker page as a source in place of the halfwheel review (https://halfwheel.com/matilde-oscura-corona/100244/), which still backs the medium-full remark."
+ },
+ {
+  "brand": "Matilde",
+  "line": "Quadrata",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Bravo",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "oak",
+   "spice",
+   "cocoa",
+   "earth"
+  ],
+  "about": "Matilde's third line, a sharply box-pressed blend made to sit between Renacer and Oscura in strength. Every size is box-pressed.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://matildecigars.com/core-lines/",
+   "https://halfwheel.com/matilde-quadrata-toro-bravo/128769/",
+   "http://web.archive.org/web/20200807215759/https://www.matildecigars.com/quadrata/"
+  ],
+  "notes": "Wrapper disagrees: the maker's current site says Ecuadorian Sumatra, but its earlier site, halfwheel and Neptune all say Ecuadorian Habano. The maker rated it Medium-Full and halfwheel's review agreed; Neptune lists Medium.",
+  "verified": true,
+  "verifyNotes": "Wrapper changed from Ecuadorian Sumatra to Ecuadorian Habano (category Sumatra to Habano). Only the maker's current page says Sumatra; the maker's archived 2020 page, halfwheel's review and Neptune all say Ecuadorian Habano. Strength Medium-Full confirmed on the archived maker page. Removed the unsupported claim that the maker called it medium-plus at launch. Neptune (https://www.neptunecigar.com/cigar/matilde-quadrata) replaced in sources by the archived maker page; it still backs the Medium remark and the earth flavor note."
+ },
+ {
+  "brand": "Matilde",
+  "line": "Serena",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro Bravo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Grande",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "nuts",
+   "sweetness"
+  ],
+  "about": "The mildest cigar in the Matilde range, a Dominican-made blend under an Ecuadorian Connecticut shade wrapper. A San Andres wrapped Serena Maduro was added in 2023.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://matildecigars.com/core-lines/",
+   "https://halfwheel.com/matilde-serena-arrives-at-select-retailers/127981/",
+   "http://web.archive.org/web/20210614221343/http://www.matildecigars.com/serena/"
+  ],
+  "notes": "The maker rates it Mild-Medium and calls it the mildest in its range; Neptune lists Medium. The Robusto was 5 1/4 x 54 at launch and the maker now lists it at 50 ring. Serena Maduro is a separate blend.",
+  "verified": true,
+  "verifyNotes": "Strength Mild-Medium confirmed on the maker's archived 2021 page, which was added as a source in place of Neptune (https://www.neptunecigar.com/cigar/matilde-serena, which lists Medium and the 50 ring Robusto). Reworded the strength note: the 'just shy of medium' quote was about Serena Maduro, not this cigar. The maker's current page shows the Toro Bravo as 54 x 6 1/5, a typo; its earlier page, halfwheel and Neptune all give 6 1/2."
+ },
+ {
+  "brand": "Matilde",
+  "line": "Limited Exposure",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Isla",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "spice",
+   "dark chocolate",
+   "coffee"
+  ],
+  "about": "Matilde's series of small-batch limited releases, made at Tabacalera La Isla in Santiago rather than the factory that makes the core lines. Three numbered blends have come out so far, each with its own wrapper.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://matildecigars.com/limited-exposure/",
+   "https://halfwheel.com/matilde-limited-exposure-no-3-robusto/470765/",
+   "https://halfwheel.com/matilde-limited-exposure-no-2/409186/"
+  ],
+  "notes": "A series, not one blend. No. 1 (2021): Mexican San Andres wrapper. No. 2 (2022): Ecuadorian wrapper, corojo per halfwheel, Sumatra per the maker's site. No. 3 (2026): Ecuadorian wrapper, Habano per the maker. Halfwheel lists all-Dominican filler for No. 1 and No. 2; the maker lists Dominican and Nicaraguan for all three.",
+  "verified": true,
+  "verifyNotes": "Factory, country, binder, per-release wrappers and release years confirmed on halfwheel and the maker's page. Sizes kept as the three halfwheel lists for No. 3 (also made across No. 1 and No. 2); the maker's page shows different sizes for No. 3 (the same four as Renacer) and a 54 x 6 Toro for No. 2. Strength Medium is halfwheel's reading of No. 3 and the maker's medium-bodied wording for No. 1. Small wording change in notes."
+ },
+ {
+  "brand": "MBombay",
+  "line": "Classic",
+  "found": true,
+  "officialName": "Connecticut Classic",
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Honduras, Nicaragua, Peru, Dominican Republic",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nutmeg",
+   "graham cracker",
+   "cream"
+  ],
+  "about": "One of the two lines Mel Shah launched MBombay with in 2014, made in Costa Rica with long-aged tobaccos from five countries. It is the mild, creamy Connecticut blend in the range.",
+  "released": 2014,
+  "production": null,
+  "sources": [
+   "https://www.bombaytobak.com/connecticut-classic/",
+   "https://halfwheel.com/mbombay-launches-two-lines/59787/",
+   "https://halfwheel.com/mbombay-classic-torpedo/251376/"
+  ],
+  "notes": "Halfwheel's 2018 Torpedo review lists an Ecuadorian Habano wrapper and Ecuadorian binder, against the line's name and the 2014 launch report. Halfwheel also gives Corona 5 x 43, Robusto 4 1/2 x 48 and Perfecto 6 x 50. The brand was dormant from 2020 to 2024 and Classic is not on the maker's current menu.",
+  "verified": true,
+  "verifyNotes": "Wrapper country, binder, filler and four of the sizes confirmed on the maker's pages (behind an age prompt); Connecticut shade wrapper and 2014 launch confirmed on halfwheel. Belicoso 5 x 52 is halfwheel's figure: the maker's Belicoso page shows 5.5 x 43, the same as its Corona, which looks like a copy error. Torpedo kept because halfwheel reported it became regular production in May 2018. Replaced the 'went quiet after 2020' wording with halfwheel's 2020 to 2024 dormancy and trimmed the note."
+ },
+ {
+  "brand": "MBombay",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Criollo)",
+  "filler": "Nicaragua, Peru",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "almond",
+   "earth",
+   "cream"
+  ],
+  "about": "A 2015 MBombay line made in Costa Rica, blended to sit between the brand's Connecticut Classic and Corojo Oscuro. It is a medium Ecuadorian Habano blend with Nicaraguan and Peruvian filler.",
+  "released": 2015,
+  "production": null,
+  "sources": [
+   "https://www.bombaytobak.com/habano/",
+   "https://halfwheel.com/bombay-tobak-releases-mbombay-habano-blend/84886/"
+  ],
+  "notes": "Halfwheel's launch report gives the Corona as 5 x 43 and the Robusto as 4 1/2 x 48; the maker's site lists 5 1/2 x 43 and 4 1/2 x 50. The brand was dormant from 2020 to 2024 and Habano is not on the maker's current menu.",
+  "verified": true,
+  "verifyNotes": "Blend, sizes, factory, country and 2015 release confirmed on the maker's pages and halfwheel. Strength Medium rests on the maker's and press release's medium-bodied wording. Dormancy wording in notes aligned with halfwheel (2020 to 2024)."
+ },
+ {
+  "brand": "MBombay",
+  "line": "Gaaja",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian hybrid (Connecticut Desflorado and Mejorado 2004)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (HVA Mejorado seco)",
+  "filler": "Dominican Republic, Ecuador, Peru, Paraguay",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "hazelnut",
+   "pastry",
+   "cappuccino",
+   "ginger"
+  ],
+  "about": "A box-pressed MBombay line from Mel Shah, made in Costa Rica and notable for using Paraguayan and Peruvian tobacco in the filler. It was built for lots of flavor without heavy strength.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.bombaytobak.com/gaaja-cigar/",
+   "https://halfwheel.com/mbombay-gaaja/122598/",
+   "https://halfwheel.com/mbombay-adds-robusto-gaaja-lineup/159422/"
+  ],
+  "notes": "The wrapper is a hybrid of Connecticut Desflorado and Mejorado 2004 seed grown in Ecuador, so it is not a plain Connecticut shade. A separate Gaaja Maduro uses a Brazilian Mata Fina wrapper. Pronounced GUY-yuh.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "MBombay",
+  "line": "Mora",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Havana Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador",
+  "filler": "Ecuador, Peru, Dominican Republic",
+  "country": "Costa Rica",
+  "factory": "Tabacos de Costa Rica",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lancero",
+    "length": 8.5,
+    "ring": 38
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Larga",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 4",
+    "length": 5.1,
+    "ring": 44
+   },
+   {
+    "name": "585",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Torpedo No. 2",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Salomon",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "A",
+    "length": 9,
+    "ring": 47
+   },
+   {
+    "name": "Robusto (2026)",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro (2026)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "hazelnut"
+  ],
+  "about": "A limited production MBombay line made in Costa Rica, named for the Sanskrit word for peacock. The 2014 original used a Dominican corojo wrapper, and it came back in 2026 as an aged release with a different blend.",
+  "released": 2014,
+  "production": "limited",
+  "sources": [
+   "https://www.bombaytobak.com/mora/",
+   "https://halfwheel.com/mbombay-mora-toro/97552/",
+   "https://halfwheel.com/mbombays-mora-returns-with-a-pair-of-aged-release/460116/"
+  ],
+  "notes": "Fields show the 2014 blend; halfwheel lists its binder as Peru, and gives the Lancero as 7 x 38, Toro 6 x 52 and Salomon 7 x 58. The 2026 Mora (rolled 2019) is a different blend: Mexican San Andres wrapper, Ecuadorian binder, Honduran, Nicaraguan and Pennsylvania filler, in Robusto and Toro only.",
+  "verified": true,
+  "verifyNotes": "Three sizes corrected to the maker's own size pages: Lancero 7 x 38 to 8.5 x 38, Toro 6 x 52 to 6.5 x 52, Salomon 7 x 58 to 6 x 58. Cigar Aficionado and Cigar Coop also give the Salomon as 6 x 58 and Cigar Coop matches the maker on the other two; the old figures were halfwheel's and are now in notes. Strength left null: the maker publishes only a star rating for body, and halfwheel's reviews range from medium to medium-plus."
+ },
+ {
+  "brand": "Micallef",
+  "line": "",
+  "found": false,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": null,
+  "released": null,
+  "production": null,
+  "sources": [],
+  "notes": "No line name was given, and Micallef does not sell a cigar called just Micallef. The brand's lines include the Color Series (Black, Blue, Red, Green, White, Purple), Micallef A, Reata, Migdalia, Leyenda, Herencia and Connecticut.",
+  "verified": false,
+  "verifyNotes": "Checked the maker's portfolio page again: there is no cigar sold as just Micallef, and the entry has no line name to match. Left as not found. The line names in the note were confirmed on the maker's page."
+ },
+ {
+  "brand": "Micallef",
+  "line": "A",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "a (Petit Corona)",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "bread",
+   "black pepper",
+   "oak",
+   "leather",
+   "coffee"
+  ],
+  "about": "A maduro line named for the Micallef Ambassadors, the brand's fan club, who helped pick the name. It is made at Micallef's own factory in Esteli.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-a/385212/",
+   "https://www.neptunecigar.com/cigar/micallef-a"
+  ],
+  "notes": "The maker and Neptune call the wrapper Nicaraguan Maduro; halfwheel lists it as Nicaraguan Sumatra. The 4 x 46 size is sold as the lowercase Micallef a. Halfwheel calls the 6 3/4 x 54 a toro extra.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Micallef",
+  "line": "Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "cedar",
+   "white pepper"
+  ],
+  "about": "The first cigar in Micallef's Color Series, made as the brand's strongest blend after its fan club asked for something bolder. It is a low-priced San Andres maduro rolled at the company's factory in Esteli.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-black-robusto/428305/",
+   "https://www.neptunecigar.com/cigar/micallef-black"
+  ],
+  "notes": "The maker rates it Full; halfwheel's review found it closer to medium-full. A 3 1/2 x 50 Firecracker has also been made.",
+  "verified": true,
+  "verifyNotes": "Blend, strength, sizes, factory and 2023 release confirmed on the maker's portfolio, halfwheel and Neptune. Removed the mention of store-exclusive sizes from notes, which no listed source supports, and swapped 'value-priced' for plainer wording in about."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Red",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Habano",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Broadleaf (Pennsylvania seed grown in Nicaragua)",
+  "filler": "Nicaragua, Mexico",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The third cigar in Micallef's Color Series, after Black and Blue, sold in the same two sizes at the same prices. It pairs a Mexican San Andres Habano wrapper with a broadleaf binder.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-red-goes-on-sale/442436/",
+   "https://www.neptunecigar.com/cigar/micallef-red"
+  ],
+  "notes": "The maker rates it Full; Neptune lists it as Medium. The wrapper is Habano seed grown in San Andres, Mexico.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Micallef",
+  "line": "Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Sumatra",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "nuts",
+   "hay",
+   "cream",
+   "espresso",
+   "black pepper"
+  ],
+  "about": "The second cigar in Micallef's Color Series, a medium follow-up to the stronger Black. It is made at the company's factory in Esteli and sold in a Robusto and a Toro.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-blue-toro/439974/",
+   "https://www.neptunecigar.com/cigar/micallef-blue"
+  ],
+  "notes": "The wrapper is Sumatra seed grown in San Andres, Mexico, and it is a light natural brown, not a dark maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Micallef",
+  "line": "Herencia Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo (box-pressed)",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The Habano-wrapped half of Micallef's Herencia pair, a medium Nicaraguan blend. Herencia means heritage and the line is presented as the Gomez-Sanchez family's heritage cigar.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-adds-herencia-habano-toro-herencia-maduro-toro/378195/",
+   "https://www.neptunecigar.com/cigar/micallef-herencia"
+  ],
+  "notes": "Shares its binder and filler with Herencia Maduro; only the wrapper differs.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Micallef",
+  "line": "Herencia Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo (box-pressed)",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The maduro-wrapped half of Micallef's Herencia pair, with the same binder and filler as Herencia Habano under a darker Nicaraguan wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-adds-herencia-habano-toro-herencia-maduro-toro/378195/",
+   "https://www.neptunecigar.com/cigar/micallef-herencia-maduro"
+  ],
+  "notes": "The maker and halfwheel list a Nicaraguan maduro wrapper; Neptune lists a Pennsylvania wrapper. The maker's site spells the line Herencia Madura.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Micallef",
+  "line": "Reata",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Sumatra",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Extra",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "oak",
+   "nuts",
+   "cream"
+  ],
+  "about": "The mildest blend in the Micallef range, named after Reata, the restaurant Al Micallef owns in Fort Worth, Texas. It was designed as an after-dinner cigar.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-reata-londres/417490/",
+   "https://www.neptunecigar.com/cigar/micallef-reata"
+  ],
+  "notes": "The wrapper is Sumatra seed grown in San Andres, Mexico, and it is light in color, not a maduro. The maker rates it Mild to Medium; Neptune lists Mild. The maker's current size list leaves out the Churchill and Torpedo, and Neptune lists the Torpedo at 6 1/8 inches.",
+  "verified": true,
+  "verifyNotes": "Blend, strength, country and factory confirmed on the maker's portfolio, halfwheel and Neptune. The maker lists the 5 x 52 size without a name; Robusto is the name Micallef uses for 5 x 52 in its other lines."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Migdalia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Habano",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Sumatra",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Special Edition",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Corona Extra",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "nuts",
+   "vanilla"
+  ],
+  "about": "Named for Migdalia Sanchez, the Cuban-born matriarch of the Gomez-Sanchez family that runs Micallef's factory. The wrapper, binder and filler are all aged about four years.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-migdalia-s-e/394002/",
+   "https://www.neptunecigar.com/cigar/micallef-migdalia"
+  ],
+  "notes": "The maker rates it Medium to Full; Neptune lists Medium. It started as a single 4 x 46 size, with the Toro and Corona Extra added in 2019. The 5 x 40 Special Edition honors International Women's Day.",
+  "verified": true,
+  "verifyNotes": "Blend, strength, sizes and factory confirmed. Removed the claim that it was first shown at the 2017 trade show, which I could not find in any source; halfwheel does confirm the original size was 4 x 46 and that the Toro and Corona Extra were added in 2019 (https://halfwheel.com/micallef-cigars-adding-new-vitolas-to-three-lines/292885/)."
+ },
+ {
+  "brand": "Micallef",
+  "line": "Leyenda",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic, Honduras",
+  "country": "Nicaragua",
+  "factory": "Micallef Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 2 Figurado",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 1 Figurado",
+    "length": 7.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Micallef blend credited to the Gomez-Sanchez family's master cigar maker, Don Pedro Gomez. The line started with mostly figurado shapes, and a Robusto and Toro were added in 2023.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.micallefcigars.com/portfolio",
+   "https://halfwheel.com/micallef-ships-leyenda-robusto-toro/423353/",
+   "https://www.neptunecigar.com/cigar/micallef-gomez-sanchez-leyenda"
+  ],
+  "notes": "Some retailers list it as Gomez Sanchez Leyenda. The maker rates it Medium to Full; Neptune lists Full. The 7 1/2 x 54 No. 1 comes in a coffin.",
+  "verified": true,
+  "verifyNotes": "Blend, strength, sizes and factory confirmed on the maker's portfolio, halfwheel and Neptune. Rewrote about: dropped 'premium' and the unsupported claim that every early size came in a coffin (only the 7 1/2 x 54 does, per the maker)."
+ }
+]

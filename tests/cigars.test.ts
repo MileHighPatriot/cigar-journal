@@ -76,6 +76,33 @@ describe('cigar filter', () => {
     ])
   })
 
+  it('finds a cigar by any researched detail, with or without accents', () => {
+    const [first] = all
+    if (!first) throw new Error('no cigars')
+    const researched = {
+      ...first,
+      id: 'researched',
+      line: 'Dámaso',
+      wrapperLeaf: 'Mexican San Andrés',
+      binder: 'Nicaragua',
+      factory: 'Tabacos Cubanica S.A.',
+      flavors: ['hazelnut'],
+      sizes: [{ name: 'Exclusivo', lengthIn: 5.5, ringGauge: 50 }],
+      about: 'A box-pressed puro.',
+    }
+    const list = [...all, researched]
+    for (const query of [
+      'damaso',
+      'san andres',
+      'cubanica',
+      'hazelnut',
+      'exclusivo',
+      'box-pressed',
+    ]) {
+      expect(filterCigars(list, { ...base, query }, none).map((c) => c.id)).toEqual(['researched'])
+    }
+  })
+
   it('matches every search word across brand, line, wrapper, and country', () => {
     expect(filterCigars(all, { ...base, query: 'fuente cameroon' }, none)).toHaveLength(1)
     expect(filterCigars(all, { ...base, query: 'fuente connecticut' }, none)).toHaveLength(0)

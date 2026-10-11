@@ -1,0 +1,1312 @@
+[
+ {
+  "brand": "Kristoff",
+  "line": "Criollo",
+  "found": true,
+  "officialName": "Original Criollo",
+  "wrapperLeaf": "Cuban-seed Honduran Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Dominican Republic (Cuban seed)",
+  "filler": "Dominican Republic (Cuban seed), Nicaragua (Cuban seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "almond",
+   "earth",
+   "spice",
+   "cedar",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "Kristoff's core Criollo wrapped blend, sold as Original Criollo and rolled in the Dominican Republic. It has the brand's pigtail cap and uncut foot.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/original-criollo_premium-cigar/",
+   "https://www.neptunecigar.com/cigar/kristoff-criollo",
+   "https://www.holts.com/cigars/all-cigar-brands/kristoff-criollo.html"
+  ],
+  "notes": "Kristoff calls this line Original Criollo. Kristoff and Neptune list a Honduran Criollo wrapper, while Holt's describes it as Nicaraguan. Kristoff scores strength 3 out of 5 (medium) and Neptune agrees; Holt's and Famous say medium-full.",
+  "verified": true,
+  "verifyNotes": "Opened the maker's page on kristoff.com, which the researcher had not used. Strength changed from Medium-Full to Medium (maker scores it 3 out of 5 and calls it medium-bodied). Binder and filler reworded to the maker's listing (Cuban seed; Neptune says Olor). Sizes replaced with the maker's five: Churchill and Lancero added, Torpedo corrected from 6.125 to 6.25 x 52. About reworded because no source says it is one of two original blends. Maker page replaces the halfwheel packaging article in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Corojo Maduro",
+  "found": false,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": null,
+  "released": null,
+  "production": null,
+  "sources": [],
+  "notes": "No Kristoff line called Corojo Maduro could be confirmed, and Kristoff's own product list does not have one. Kristoff's Corojo cigar is the Corojo Limitada (Nicaraguan Corojo Habano wrapper). Its maduro lines are Original Maduro, Ligero Maduro and Kristania Maduro, all with Brazilian wrappers.",
+  "verified": false,
+  "verifyNotes": "Second attempt made: checked the full product list on kristoff.com, Neptune's list of Kristoff lines, Cigar Aficionado's Kristoff brand page and every halfwheel article tagged Kristoff. None shows a Corojo Maduro. Left as not found; notes updated to cite the maker's list and to add Kristania Maduro."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Ligero Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Cuban seed)",
+  "filler": "Dominican Republic (Cuban seed), Honduras (Cuban seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dried fruit",
+   "cocoa",
+   "espresso",
+   "black pepper",
+   "earth"
+  ],
+  "about": "A stronger version of Kristoff's Original Maduro, made with more ligero leaf in the filler under a dark Brazilian wrapper. Rolled in the Dominican Republic with a pigtail cap and shaggy foot.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/ligero-maduro_premium-cigar/",
+   "https://www.neptunecigar.com/cigar/kristoff-ligero-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/kristoff-ligero-maduro.html"
+  ],
+  "notes": "Kristoff scores strength 4 out of 5; Neptune and Holt's call it full. Kristoff lists Dominican and Honduran filler, while Neptune, Holt's and Famous list Dominican and Nicaraguan. Famous names the wrapper Brazilian Arapiraca.",
+  "verified": true,
+  "verifyNotes": "Opened the maker's page, which the researcher had not used. Strength changed from Full to Medium-Full (maker scores it 4 out of 5; Famous also says medium-full). Filler changed to the maker's Dominican and Honduran (retailers say Dominican and Nicaraguan). Sizes replaced with the maker's five: Torpedo and Lancero added. About reworded: maker says twice the ligero, Holt's says three times, so no multiple is given. Maker page replaces Famous in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Sumatra",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil",
+  "filler": "Dominican Republic, Nicaragua (Cuban seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "cream",
+   "cocoa",
+   "espresso",
+   "leather"
+  ],
+  "about": "Kristoff's Ecuadorian Sumatra wrapped blend over a Brazilian binder, introduced at the 2009 trade show. It is made in the Dominican Republic with the brand's pigtail cap and closed foot.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/sumatra_highly-rated-cigar/",
+   "https://www.famous-smoke.com/brand/kristoff-sumatra-cigars",
+   "https://blindmanspuff.com/kristoff-sumatra-robusto-blind-cigar-review/"
+  ],
+  "notes": "Kristoff scores strength 3 out of 5 (medium) and Neptune agrees; Holt's and Famous list medium-full.",
+  "verified": true,
+  "verifyNotes": "Opened the maker's page. Strength Medium kept: the maker scores it 3 out of 5, although two of three retailers (Holt's, Famous) say medium-full, which the researcher's note left out. Sizes updated to the maker's five: Lancero added, Torpedo corrected from 6.125 to 6.25 x 52. Maker page replaces Neptune in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Original Maduro",
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Cuban seed)",
+  "filler": "Dominican Republic (Cuban seed), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "spice",
+   "molasses",
+   "espresso",
+   "black pepper"
+  ],
+  "about": "One of Kristoff's first lines, using a dark Brazilian maduro wrapper over Dominican and Nicaraguan tobacco. Rolled in the Dominican Republic with a pigtail cap and shaggy foot.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/original-maduro_finest-cigar/",
+   "https://halfwheel.com/kristoff-releases-corona-vitolas-three-core-blends/257528/",
+   "https://www.neptunecigar.com/cigar/kristoff-maduro"
+  ],
+  "notes": "Kristoff calls this line Original Maduro. Famous lists the wrapper as Brazilian Arapiraca and rates it medium-full; Kristoff (3 out of 5), Neptune and Holt's say medium.",
+  "verified": true,
+  "verifyNotes": "Opened the maker's page. Wrapper, country and Medium strength confirmed (maker 3 out of 5). Binder and filler reworded to the maker's listing (Cuban-seed Dominican; Neptune says Olor). Sizes updated to the maker's six: Lancero and Corona added, Torpedo corrected from 6.125 to 6.25 x 52. About reworded: halfwheel calls it one of the company's first lines, not one of two. Maker page and a halfwheel article replace Holt's and Famous in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano seed)",
+  "filler": "Dominican Republic (Habano seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "cream",
+   "nuts",
+   "spice",
+   "almond",
+   "coffee"
+  ],
+  "about": "Kristoff's milder blend, released in 2016 with an Ecuadorian Connecticut wrapper over a Nicaraguan binder and four Dominican filler leaves. Glen Case describes it as mild to medium in strength but big on flavor.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/kristoff-announces-three-new-blends-for-spring/107199/",
+   "https://kristoff.com/product/connecticut_highly-rated-cigar/",
+   "https://www.neptunecigar.com/cigar/kristoff-connecticut"
+  ],
+  "notes": "Neptune lists it as mild; Holt's and Kristoff (2 out of 5) put it at mild to medium.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country and Mild-Medium strength confirmed against halfwheel and the maker's page (2 out of 5). Added the 5 x 44 Corona that the maker lists (introduced 2018 per halfwheel). Note reworded: the Famous claim was not checked, the maker's score was added. Maker page replaces Holt's in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "San Andrés",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Habano seed)",
+  "filler": "Nicaragua (Habano seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "earth",
+   "black pepper",
+   "chocolate",
+   "spice"
+  ],
+  "about": "A Mexican San Andrés wrapped Kristoff that debuted at the 2015 trade show, with an Ecuadorian Habano binder and Nicaraguan filler. It is made in the Dominican Republic.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/kristoff-san-andres-box-pressed-toro-taa-2020/375915/",
+   "https://kristoff.com/product/san-andres_finest-cigar/",
+   "https://www.holts.com/cigars/all-cigar-brands/kristoff-san-andres.html"
+  ],
+  "notes": "Kristoff scores strength 3 out of 5 but calls the cigar medium-full bodied. Neptune's table says medium; Holt's and Famous say medium-full. A 6 1/4 x 54 box-pressed toro was added in 2020 as a TAA exclusive.",
+  "verified": true,
+  "verifyNotes": "Opened the maker's page. Strength changed from Medium-Full to Medium: the maker scores strength 3 out of 5 while calling the body medium-full, Neptune's table says medium and halfwheel's reviewer found strength just over medium. Blend, sizes, country and 2015 debut confirmed. Maker page replaces Neptune in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Brazil",
+  "binder": "Brazil (Sumatra seed)",
+  "filler": "Nicaragua, Dominican Republic (Habano seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "nuts",
+   "white pepper",
+   "coffee"
+  ],
+  "about": "A 2016 Kristoff release built around Brazilian tobacco, with a Brazilian Habano wrapper and Brazilian Sumatra-seed binder. It is a medium strength cigar made in the Dominican Republic.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/kristoff-announces-three-new-blends-for-spring/107199/",
+   "https://kristoff.com/product/habano_premium-cigar/",
+   "https://www.neptunecigar.com/cigar/kristoff-habano"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, Medium strength (maker 3 out of 5) and 2016 release confirmed against halfwheel and the maker's page. Added the Corona and Lancero sizes the maker lists. Maker page replaces Holt's in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Cameroon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "African Cameroon, aged seven years",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic (Habano seed)",
+  "filler": "Dominican Republic, Nicaragua (Habano seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Figurado",
+    "length": 4,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "nuts",
+   "almond",
+   "cinnamon",
+   "leather"
+  ],
+  "about": "Kristoff's Cameroon wrapped line, launched in 2015 with a wrapper the company says is aged seven years. A short 4 x 48 figurado was added in 2022.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/kristoff-cameroon-figurado/416080/",
+   "https://kristoff.com/product/cameroon_highly-rated-cigar/",
+   "https://www.neptunecigar.com/cigar/kristoff-cameroon"
+  ],
+  "notes": "Kristoff scores strength 3 out of 5 and Neptune and Famous list medium; Holt's lists medium-full. Kristoff calls it medium-full bodied. Kristoff and Neptune list the Figurado as 4 x 48, halfwheel as 4 x 49.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country and Medium strength confirmed (maker 3 out of 5). Figurado ring gauge changed from 49 to 48: the maker and Neptune both list 4 x 48, only halfwheel says 49. About and notes updated to match. Maker page replaces Famous in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "GC Signature Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras, Nicaragua (Cuban seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "espresso",
+   "dried fruit",
+   "molasses",
+   "leather",
+   "licorice"
+  ],
+  "about": "A strong Brazilian maduro blend released in 2011 and named for Kristoff founder Glen Case. It is made in the Dominican Republic with the brand's pigtail cap and shaggy foot.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://kristoff.com/product/gc-signature-series_finest-cigars/",
+   "https://blindmanspuff.com/kristoff-gc-signature-series-robusto-blind-cigar-review/",
+   "https://www.neptunecigar.com/cigar/kristoff-gc-signature-series"
+  ],
+  "notes": "Kristoff scores strength 4 out of 5; Neptune, Holt's and Famous all call it full. Kristoff, Neptune and Famous list a Honduran binder; Blind Man's Puff lists Dominican.",
+  "verified": true,
+  "verifyNotes": "Opened the maker's page. Strength changed from Full to Medium-Full: the maker scores it 4 out of 5, though all three retailers say full. Torpedo corrected from 6.125 to 6.25 x 52 (maker and Blind Man's Puff). About reworded to drop 'full strength'. Maker page replaces Famous in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Pistoff Kristoff",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 48
+   },
+   {
+    "name": "Extremely Pistoff Kristoff",
+    "length": 8.5,
+    "ring": 60
+   },
+   {
+    "name": "Lil Pistoff Kristoff",
+    "length": 5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "toffee",
+   "toast"
+  ],
+  "about": "A full strength Kristoff line released in July 2016 with a Mexican San Andrés wrapper and Indonesian binder. Glen Case called it the strongest cigar the company had made, and the name is a customer's suggestion with the spelling changed.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-kristoff-cigars/126566/",
+   "https://halfwheel.com/kristoff-announces-mildly-pistoff-kristoff/472938/",
+   "https://kristoff.com/product/pistoff-kristoff_premium-cigar/"
+  ],
+  "notes": "Halfwheel's 2026 report lists the filler as Nicaraguan and Pennsylvania broadleaf; earlier listings say Nicaraguan only. A milder Connecticut wrapped version, Mildly Pistoff Kristoff, was announced in 2026.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, Full strength (maker 5 out of 5), 2016 release and all six sizes confirmed against halfwheel and the maker's page. Added toffee and toast from the maker's description. About reworded to attribute the 'strongest' claim to Glen Case at launch. Maker page replaces Neptune in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Shade Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut-seed shade grown",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "spice",
+   "toast",
+   "coffee",
+   "earth"
+  ],
+  "about": "A 2019 Kristoff line with a Connecticut-seed shade wrapper grown in Honduras over Dominican and Nicaraguan tobacco. It smokes earthier and fuller than a typical Connecticut shade cigar.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/kristoff-shade-grown-robusto/368652/",
+   "https://halfwheel.com/ipcpr-2019-kristoff/298503/",
+   "https://kristoff.com/product/shade-grown_highly-rated-cigar/"
+  ],
+  "notes": "Kristoff scores strength 3 out of 5 but describes it as mild to medium bodied; Neptune lists medium, Holt's medium-full. Halfwheel reports that retailers describe this as the former Brittania Reserva under a new name; Kristoff did not confirm it.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, sizes and 2019 release confirmed against halfwheel and the maker's page. Strength Medium kept (maker 3 out of 5), but the note now records that the maker and Glen Case also describe it as mild to medium. Maker page replaces Neptune in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Vengeance",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Perfecto",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "mocha",
+   "graham cracker",
+   "spice",
+   "cocoa",
+   "cedar"
+  ],
+  "about": "An early Kristoff name that Glen Case brought back in 2018 with a new blend, the brand's first with a Connecticut Broadleaf wrapper. It launched through TAA retailers before going to all stores.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2018-kristoff/265755/",
+   "https://kristoff.com/product/vengeance_finest-cigar/",
+   "https://blindmanspuff.com/blind-cigar-review-kristoff-vengeance-toro/"
+  ],
+  "notes": "2018 is the relaunch year. The original Vengeance had a Brazilian maduro wrapper and was gone by about 2011. Kristoff lists the Perfecto as 6 1/4 x 60; halfwheel and Neptune list 6 1/2 x 60. Kristoff scores strength 4 out of 5; Neptune lists medium.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country and Medium-Full strength confirmed (maker 4 out of 5; Glen Case called it medium-full). Perfecto length changed from 6.5 to 6.25 to follow the maker's page, with the disagreement noted. Flavors now lead with the maker's published notes. Maker page replaces Developing Palates in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Kristania",
+  "found": true,
+  "officialName": "Kristania Criollo",
+  "wrapperLeaf": "Nicaraguan Criollo Habano",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (Habano seed)",
+  "filler": "Dominican Republic (Habano seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "70",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice",
+   "vanilla",
+   "coffee",
+   "cocoa",
+   "pepper"
+  ],
+  "about": "Kristoff's value priced line, introduced at the 2011 trade show and named for Glen Case's two children. A Kristania Maduro with a Brazilian wrapper followed in 2014.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2011/12/cigar-review-kristoff-kristania.html",
+   "https://halfwheel.com/kristania-maduro-heading-ipcpr-release/63689/",
+   "https://kristoff.com/product/kristania-criollo-highly-rated-cigar/"
+  ],
+  "notes": "Kristoff's site lists this blend as Kristania Criollo, next to Kristania Maduro. Kristoff scores strength 3 out of 5 and Neptune lists medium; Holt's lists medium-full.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, sizes, Medium strength (maker 3 out of 5) and 2011 debut confirmed. officialName set to Kristania Criollo, the name on the maker's site. About no longer spells the children's names because Cigar Coop and halfwheel spell the daughter's name differently. 'black pepper' changed to 'pepper' to match the sources. Maker page replaces Neptune in sources. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn. Strength set from the maker's own 'Strength Profile' score on kristoff.com (1 to 5, read as Mild to Full; the reading matches Glen Case's words for Connecticut, Vengeance and Pistoff)."
+ },
+ {
+  "brand": "Kristoff",
+  "line": "Brittania Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut-seed shade grown",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua (Cuban seed)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Von Eicken (formerly Charles Fairmorn)",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Matador",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "spice"
+  ],
+  "about": "Kristoff's older mild blend with a Honduran grown shade wrapper over Dominican and Nicaraguan tobacco. It is no longer in Kristoff's own lineup.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/kristoff-shade-grown-robusto/368652/",
+   "https://www.neptunecigar.com/cigar/kristoff-brittania-reserva"
+  ],
+  "notes": "Halfwheel reports that retailers say the blend was renamed Kristoff Shade Grown in 2019; Kristoff did not confirm this. Neptune is the only source found for the mild rating. The line name is spelled Brittania.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, sizes and discontinued status confirmed against halfwheel and Neptune; the line is absent from the maker's current product list. Mild strength rests on Neptune alone, and no maker figure exists, so the note now says so. About reworded to what the sources show. Factory name confirmed: halfwheel states Tabacalera von Eicken is the factory formerly known as Charles Fairmorn."
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Immensa",
+    "length": 5.75,
+    "ring": 60
+   },
+   {
+    "name": "Monarch",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "El Jefe",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "cedar",
+   "molasses",
+   "spice"
+  ],
+  "about": "The core La Aroma de Cuba blend from Ashton, a Connecticut Broadleaf wrapper over Nicaraguan binder and filler. It has been made by the Garcia family at My Father Cigars in Esteli since 2008.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba",
+   "https://halfwheel.com/la-aroma-de-cuba-edicion-especial-2-2020/377085/",
+   "https://www.neptunecigar.com/cigar/la-aroma-de-cuba"
+  ],
+  "notes": "Sold simply as La Aroma de Cuba. Ashton's first modern version was made at Flor de Copan in Honduras; halfwheel dates it to 2002 in one article and 2003 in another. The maker rates the current blend medium, while Neptune lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Mi Amor",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Duque",
+    "length": 5.25,
+    "ring": 56
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Magnifico",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Valentino",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "almond",
+   "espresso",
+   "black pepper",
+   "coconut"
+  ],
+  "about": "A San Andrés wrapped La Aroma de Cuba introduced in 2010 and made by the Garcia family with Nicaraguan binder and filler. It was Cigar Aficionado's number 2 cigar of 2011.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-mi-amor",
+   "https://halfwheel.com/ashton-updates-la-aroma-de-cuba-mi-amor-packaging/407538/",
+   "https://www.neptunecigar.com/cigar/la-aroma-de-cuba-mi-amor"
+  ],
+  "notes": "The maker rates it medium-full; Neptune's spec table says medium.",
+  "verified": true,
+  "verifyNotes": "All key fields confirmed against the maker's page and halfwheel. About reworded: the sources say the Garcia family makes it, none opened says Pepin Garcia blended it. Sizes kept as the maker lists them (Neptune shows the Valentino as 5 3/4 x 58)."
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Noblesse",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Regency",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Coronation",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Viceroy",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Monarchy",
+    "length": 6.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "fig",
+   "salt",
+   "black pepper"
+  ],
+  "about": "A La Aroma de Cuba line with a San Andrés Oscuro wrapper over Nicaraguan tobacco grown in the Esteli, Jalapa and Namanji regions. It returned in 2024 as a regular production line with a new blend.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-noblesse",
+   "https://halfwheel.com/la-aroma-de-cuba-noblesse-monarchy/442209/",
+   "https://www.neptunecigar.com/cigar/la-aroma-de-cuba-noblesse"
+  ],
+  "notes": "Noblesse began in 2014 as a yearly limited edition with an Ecuadorian Habano wrapper. The current San Andrés Oscuro blend started shipping in June 2024 and is a different cigar.",
+  "verified": true,
+  "verifyNotes": "All key fields confirmed against the maker's page and halfwheel. About reworded: 'top of the range' was not stated by a source, and halfwheel says the tobacco comes from those regions, not specifically the family's farms."
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Edición Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "No. 2",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 3",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 4",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "No. 5",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 60",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cocoa",
+   "coffee",
+   "leather",
+   "spice"
+  ],
+  "about": "An Ecuadorian Habano wrapped La Aroma de Cuba that debuted in 2008, the year production moved to My Father Cigars. It was Cigar Aficionado's number 4 cigar of 2008.",
+  "released": 2008,
+  "production": "regular",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-edicion-especial",
+   "https://halfwheel.com/la-aroma-de-cuba-edicion-especial-2-2020/377085/",
+   "https://halfwheel.com/ashton-remakes-la-aroma-de-cuba-edicion-especial/371122/"
+  ],
+  "notes": "Ashton reworked the blend in 2020 to be a little stronger and added the 6 x 60. The maker rates it medium-full; Neptune and Famous list it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Maximo",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Beso",
+    "length": 5.625,
+    "ring": 48
+   },
+   {
+    "name": "Divino",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Romantico",
+    "length": 6.875,
+    "ring": 50
+   },
+   {
+    "name": "Pomposo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "black pepper",
+   "hickory",
+   "espresso",
+   "leather"
+  ],
+  "about": "A fuller San Andrés Oscuro wrapped La Aroma de Cuba introduced in 2012, using a top priming wrapper over Nicaraguan binder and filler. Most sizes are lightly box pressed.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-reserva",
+   "https://halfwheel.com/pca-2022-ashton/411797/",
+   "https://halfwheel.com/la-aroma-de-cuba-mi-amor-reserva-pomposo-introduced/38853/"
+  ],
+  "notes": "Launched as Mi Amor Reserva and renamed La Aroma de Cuba Reserva in 2022. Some retailers still list it under the old name. The 6 1/2 x 60 Pomposo is the round, non-pressed size.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Immensa",
+    "length": 5.75,
+    "ring": 60
+   },
+   {
+    "name": "Monarch",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "El Jefe",
+    "length": 7,
+    "ring": 58
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cashew",
+   "cedar",
+   "coffee",
+   "cream"
+  ],
+  "about": "The mildest La Aroma de Cuba, released in 2023 with an Ecuadorian grown Connecticut-seed wrapper over Nicaraguan binder and filler from the Garcia family's farms.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-connecticut",
+   "https://halfwheel.com/la-aroma-de-cuba-connecticut-corona/428702/",
+   "https://www.neptunecigar.com/cigar/la-aroma-de-cuba-connecticut"
+  ],
+  "notes": "The maker rates it mild-medium; Neptune lists it as medium. Halfwheel's reviewer found plenty of pepper but little nicotine strength.",
+  "verified": true,
+  "verifyNotes": "All key fields confirmed against the maker's page and halfwheel. Note corrected: halfwheel's reviewer reported pepper and full flavor but mild strength, not a punchier cigar."
+ },
+ {
+  "brand": "La Aroma De Cuba",
+  "line": "Pasión",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano, shade grown in Namanji",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Marveloso",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Encanto",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Box-Pressed Torpedo",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "cashew",
+   "leather",
+   "cedar",
+   "molasses",
+   "spice"
+  ],
+  "about": "A Nicaraguan puro released in 2021, made entirely from Garcia family tobacco with a shade grown wrapper from their Namanji farm. All six sizes are box pressed.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.laaromadecuba.com/cigars/la-aroma-de-cuba-cigars/la-aroma-de-cuba-pasion",
+   "https://halfwheel.com/la-aroma-de-cuba-pasion-box-pressed-torpedo/402181/",
+   "https://www.neptunecigar.com/cigar/la-aroma-de-cuba-pasion"
+  ],
+  "notes": "The wrapper is shade grown but dark, not a light Connecticut type leaf. The maker rates it medium-full; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

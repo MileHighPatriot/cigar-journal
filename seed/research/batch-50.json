@@ -1,0 +1,1070 @@
+[
+  {
+    "brand": "Tatuaje",
+    "line": "Seleccion de Cazador (Brown Label)",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "USA",
+    "factory": "El Rey de los Habanos",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Havana Cazadores",
+        "length": 6.375,
+        "ring": 43
+      },
+      {
+        "name": "Unicos",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Noellas",
+        "length": 5.125,
+        "ring": 42
+      },
+      {
+        "name": "Tainos",
+        "length": 7.625,
+        "ring": 49
+      },
+      {
+        "name": "Especiales",
+        "length": 7.5,
+        "ring": 38
+      },
+      {
+        "name": "Regios",
+        "length": 5.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "earth",
+      "cocoa",
+      "spice"
+    ],
+    "about": "The original Tatuaje line, created by Pete Johnson in 2003 and known as the Brown Label for its band. It is a Cuban-style blend of Nicaraguan tobaccos under an Ecuadorian Habano wrapper, rolled by the Garcia family.",
+    "released": 2003,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/cazador.html",
+      "https://www.cigaraficionado.com/index.php/article/a-tatuaje-gets-two-new-wrappers",
+      "https://www.famous-smoke.com/brands/tatuaje-cigars/tatuaje-miami"
+    ],
+    "notes": "Tatuaje rates it 4 on its 1 to 5 strength scale. The six original sizes are rolled in Miami; the 7th, Petite and other later Brown Label sizes are made in Nicaragua at My Father Cigars.",
+    "verified": true,
+    "verifyNotes": "Trimmed flavors to earth, cocoa and spice, the only ones found on the cited Famous Smoke page (cedar and leather were not there). Wrapper confirmed as Ecuador Habano in Cigar Aficionado, country USA and strength 4 of 5 on Tatuaje's page, factory on Famous Smoke."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Havana VI",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Hermosos",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Angeles",
+        "length": 4.625,
+        "ring": 42
+      },
+      {
+        "name": "Victorias",
+        "length": 6,
+        "ring": 38
+      },
+      {
+        "name": "Artistas",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Nobles",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Almirantes",
+        "length": 7,
+        "ring": 47
+      },
+      {
+        "name": "Gorditos",
+        "length": 5.5,
+        "ring": 56
+      },
+      {
+        "name": "Series E",
+        "length": 5.375,
+        "ring": 52
+      },
+      {
+        "name": "Series B",
+        "length": 5.375,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "white pepper",
+      "earth",
+      "floral"
+    ],
+    "about": "Tatuaje's red band line, introduced in 2006 as a medium strength Nicaraguan-made counterpart to the Miami Brown Label. It uses an Ecuadorian Habano wrapper over a double Nicaraguan binder and Nicaraguan filler.",
+    "released": 2006,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/havanavi.html",
+      "https://halfwheel.com/five-new-tatuajes-heading-to-stores-next-week/475256/",
+      "https://www.famous-smoke.com/brand/tatuaje-havana-vi-cigars"
+    ],
+    "notes": "Tatuaje rates it 3 on its 1 to 5 strength scale. Series E and Series B are soft-pressed sizes added in 2026 with a 20th anniversary second band.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Fausto",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "FT114 Short Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "FT127 Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "FT140 Robusto Extra",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "FT153 Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "FT166 Short Churchill",
+        "length": 6.5,
+        "ring": 48
+      },
+      {
+        "name": "FT110",
+        "length": 4.375,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "red pepper",
+      "cedar",
+      "earth",
+      "coffee",
+      "black pepper",
+      "cinnamon"
+    ],
+    "about": "A regular production line launched in 2011 and built on the blend of the limited 2009 T110. It is one of Tatuaje's strongest cigars, made at My Father Cigars in Esteli.",
+    "released": 2011,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/fausto.html",
+      "https://halfwheel.com/tatuaje-fausto-ft110/455798/",
+      "https://www.famous-smoke.com/brand-tatuaje-fausto-habano"
+    ],
+    "notes": "Tatuaje rates it 5+ on its 1 to 5 strength scale. Size names are the length in millimeters.",
+    "verified": true,
+    "verifyNotes": "Removed the note that some writers call the wrapper Habano maduro: Tatuaje, halfwheel and Famous Smoke all list Ecuadorian Habano and no opened page says maduro."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Cojonu",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "USA",
+    "factory": "El Rey de los Habanos",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Cojonu 2003",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Gran Cojonu",
+        "length": 6.5,
+        "ring": 60
+      },
+      {
+        "name": "Cojonu 2006",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Cojonu 2009",
+        "length": 6.75,
+        "ring": 48
+      },
+      {
+        "name": "Cojonu 2012",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Cojonu 2015",
+        "length": 5,
+        "ring": 55
+      },
+      {
+        "name": "Cojonu 2018",
+        "length": 5.625,
+        "ring": 54
+      },
+      {
+        "name": "Cojonu 2021",
+        "length": 7,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cream",
+      "black pepper",
+      "dark chocolate",
+      "coffee",
+      "oak"
+    ],
+    "about": "A stronger take on the Tatuaje Brown Label that uses more ligero in the filler. Most sizes are named for a year, following a three-year cycle that began in 2003.",
+    "released": 2003,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/miami-reserva.html",
+      "https://tatuajecigars.com/reserva.html",
+      "https://halfwheel.com/tatuaje-cojonu-2021/402734/"
+    ],
+    "notes": "Cojonu 2003, 2006, 2009 and Gran Cojonu are rolled in Miami. Cojonu 2012, 2015, 2018 and 2021 are made in Nicaragua at My Father Cigars. Some years also come with broadleaf, Sumatra, corojo or San Andres wrappers.",
+    "verified": true,
+    "verifyNotes": "Reworded about: Cojonu 2015 and 2018 did not ship until 2022 and 2023, so new sizes have not arrived every three years. Miami factory name confirmed on Famous Smoke's Tatuaje Miami page; Cojonu 2015, 2018 and 2021 confirmed as Nicaraguan-made in halfwheel reviews."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Black Label",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan sun grown Criollo (Esteli)",
+    "wrapperCategory": "Criollo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Petite Robusto",
+        "length": 4,
+        "ring": 50
+      },
+      {
+        "name": "Petite Lancero",
+        "length": 6,
+        "ring": 38
+      },
+      {
+        "name": "Private Reserve Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Cazadores",
+        "length": 6.375,
+        "ring": 43
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Petite Corona BC",
+        "length": 4,
+        "ring": 40
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.125,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "toast",
+      "earth",
+      "cream",
+      "wood",
+      "black pepper",
+      "nuts"
+    ],
+    "about": "A Nicaraguan puro that began in 2007 as Pete Johnson's personal cigar, modeled on a farm-rolled cigar he was given in Cuba. It was sold mostly in limited batches, including the well known ceramic jars, until it became a full regular line in 2016.",
+    "released": 2007,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/blacklabel.html",
+      "https://halfwheel.com/tatuaje-black-label-torpedo/480666/",
+      "https://halfwheel.com/tatuaje-black-label-begins-shipping-as-regular-production-line/119004/"
+    ],
+    "notes": "Formal name is Black Label Private Reserve. Tatuaje rates it 4 on its 1 to 5 strength scale. The box-pressed Robusto and Torpedo were added in 2026 with a 20th anniversary second band.",
+    "verified": true,
+    "verifyNotes": "Reworded about: the Petite Lancero was already regular production from 2011, so the line was not limited-only before 2016."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Tattoo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Cubana (TACUBA)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Caballero",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Universo",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Bonito",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Adivino",
+        "length": 5.5,
+        "ring": 58
+      },
+      {
+        "name": "Needles",
+        "length": 4.5,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "earth",
+      "spice",
+      "black pepper",
+      "oak",
+      "espresso",
+      "cocoa"
+    ],
+    "about": "Tatuaje's value-priced line, launched in 2014 with a red band and box art drawn from Pete Johnson's own tattoos. It is made at the Garcia family's TACUBA factory in Esteli rather than the main My Father factory.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/tattoo.html",
+      "https://halfwheel.com/three-new-sizes-of-tatuaje-tattoo-heading-to-retail/67193/",
+      "https://halfwheel.com/tatuaje-tattoo-needles/209241/"
+    ],
+    "notes": "Tatuaje rates it 3 on its 1 to 5 strength scale. The Tattoo name first appeared in 2011 on a limited box-pressed lancero; the current blend dates to 2014. The Favoritos size was retired in the U.S. in 2023.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Mexican Experiment",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 5.75,
+        "ring": 50
+      },
+      {
+        "name": "Churchill",
+        "length": 6.5,
+        "ring": 48
+      },
+      {
+        "name": "Belicoso",
+        "length": 5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "earth"
+    ],
+    "about": "A Tatuaje Limited Series cigar from 2012 that put a Mexican San Andres wrapper over Pete Johnson's usual Nicaraguan binder and filler. It returned in 2019 in four sizes with the red, white and green band.",
+    "released": 2012,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/tatuaje-limited-series-mexican-experiment-robusto-2019/366766/",
+      "https://halfwheel.com/tatuaje-ships-mexican-experiment-me-ii/364629/",
+      "https://halfwheel.com/tatuaje-discontinues-22-skus-in-u-s-market/419538/"
+    ],
+    "notes": "Sizes shown are the 2019 release, limited to 1,000 bundles of 15 per size. The 2012 originals were store and regional exclusives in other sizes. The regular production sibling, ME II, was retired from the U.S. price list in 2023.",
+    "verified": true,
+    "verifyNotes": "Removed wood from flavors: the cited halfwheel review names black pepper and earth only. Strength left null: Tatuaje's site has no page for this cigar and halfwheel gives no rating."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Reserva Broadleaf Collection",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf (USA)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Noellas Reserva Broadleaf",
+        "length": 5.125,
+        "ring": 42
+      },
+      {
+        "name": "Reserva J21 Broadleaf",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Regios Reserva Broadleaf",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Unicos Reserva Broadleaf",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Reserva K222 Broadleaf",
+        "length": 5.875,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "wood",
+      "toast",
+      "salt",
+      "black pepper"
+    ],
+    "about": "Ten Tatuaje Brown Label sizes dressed in a Connecticut broadleaf wrapper, first sold together in 2017 as a 100-cigar chest. The sizes were later sold in their own boxes.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/five-sizes-of-tatuajes-reserva-broadleaf-collection-retired-five-shift-to-21-count-boxes/467445/",
+      "https://halfwheel.com/tatuaje-reserva-broadleaf-collection-skinny-monster-sets-ship-nationwide/141818/",
+      "https://halfwheel.com/tatuaje-reserva-j21-broadleaf-2/452988/"
+    ],
+    "notes": "In 2026 Tatuaje retired five of the ten sizes (Havana Cazadores, Tainos, Especiales, Reserva SW, Cojonu 2003) and moved the five listed here to 21-count boxes. It was shown at the 2016 trade show and shipped nationwide in February 2017.",
+    "verified": true,
+    "verifyNotes": "Nothing changed. Strength left null: Tatuaje's site does not list the Broadleaf Collection sizes, though it rates its Nicaraguan-made Brown Label sizes 5 of 5."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "7th Reserva",
+    "found": true,
+    "officialName": "7th Reserva Broadleaf",
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "7th Reserva Broadleaf",
+        "length": 5.625,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "chocolate",
+      "coffee",
+      "black pepper",
+      "nuts",
+      "cream",
+      "spice"
+    ],
+    "about": "The broadleaf-wrapped version of the 7th, a corona gorda that was the seventh size in the Tatuaje Brown Label line. It came out in 2010 as a regular production cigar made in Nicaragua.",
+    "released": 2010,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/reserva.html",
+      "https://halfwheel.com/tatuaje-seleccion-de-cazador-7th-reserva/9686/",
+      "https://www.cigaraficionado.com/index.php/article/a-tatuaje-gets-two-new-wrappers"
+    ],
+    "notes": "This is one size of the Seleccion de Cazador (Brown Label) line, not a line of its own. The same 5 5/8 x 46 size also comes as 7th Natural (Ecuador Habano), Capa Especial (Ecuador Sumatra) and, since 2025, Tuxtla and Corojo. Tatuaje rates its Nicaraguan Brown Label sizes 5 of 5 for strength.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Monster Series",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [
+      "espresso",
+      "earth",
+      "leather",
+      "spice"
+    ],
+    "about": "Tatuaje's annual Halloween release, begun in 2008 with The Frank. Each cigar is named for a horror character and sold as a limited edition, usually in boxes of 13.",
+    "released": 2008,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/tatuaje-the-wolfman-redux-4/445377/",
+      "https://halfwheel.com/tatuaje-the-jason-redux-6-coming-in-early-october/480669/",
+      "https://www.famous-smoke.com/brand-tatuaje-skinny-monsters"
+    ],
+    "notes": "Every Monster has its own blend, wrapper and size, so there is no single spec. The 13 originals ran 2008 to 2019. Since 2021 a Redux series rereleases them one per year. Spin-offs include Skinny Monsters (6 x 38) and the Monster Mash and Monster Smash samplers.",
+    "verified": true,
+    "verifyNotes": "Reworded about: only 666 boxes of each release are numbered, and some originals also came in plain boxes of 10. Wrapper and strength stay null because each Monster differs and Tatuaje's site has no Monster page; Famous Smoke lists the group as Medium-Full."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Nuevitas",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuador",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Nuevitas Esteli",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Nuevitas Jibaro No.1",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Nuevitas Jibaro No.2",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "wood",
+      "cedar"
+    ],
+    "about": "An early Tatuaje brand meant to feel like a simple farm-rolled cigar, with the Jibaro sizes finished with a shaggy foot. It was dropped in 2007 and brought back in 2018, made by My Father Cigars.",
+    "released": null,
+    "production": "discontinued",
+    "sources": [
+      "https://tatuajecigars.com/nuevitas.html",
+      "https://halfwheel.com/tatuaje-nuevitas-jibaro-returning/270367/",
+      "https://halfwheel.com/tatuaje-discontinues-16-skus-announces-price-increase/469847/"
+    ],
+    "notes": "Sources disagree on the wrapper: Tatuaje's site lists Ecuador, while halfwheel calls the 2018 version a Nicaraguan puro with a corojo 99 wrapper. All three sizes were retired from Tatuaje's price list in April 2026. The original run was made at Tabacalera Tropical and ended in 2007.",
+    "verified": false,
+    "verifyNotes": "Wrapper is not settled. Tatuaje's own page says Ecuador, which the brief ranks first, but halfwheel's news story and review and Cigar Aficionado's 2019 Top 25 entry all list a Nicaraguan corojo 99 wrapper. Country, factory, sizes and strength (3 of 5) confirmed. No field changed."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Verocu",
+    "found": true,
+    "officialName": "Havana VI Verocu",
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No.1 Toro Grande",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "No.2 Robusto Grande",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "No.3 Corona Larga",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "No.4 Robusto",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "No.5 Petite",
+        "length": 4,
+        "ring": 40
+      },
+      {
+        "name": "No.6 Torpedo",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "No.9 Petite Robusto",
+        "length": 4.5,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "chocolate",
+      "cinnamon",
+      "cedar",
+      "leather",
+      "black pepper"
+    ],
+    "about": "A stronger version of Tatuaje Havana VI that started in 2007 as a pair of limited regional releases. It became a full regular production line in 2015.",
+    "released": 2007,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/verocu.html",
+      "https://halfwheel.com/expanded-tatuaje-verocu-line-ships-monday/88993/",
+      "https://halfwheel.com/review-tatuaje-verocu-no-1-lado-occidental/26030/"
+    ],
+    "notes": "Tatuaje rates it 4+ of 5; Famous Smoke says medium. Wrapper sources disagree: Tatuaje lists Ecuador and halfwheel said Ecuadorian Habano in 2015, but halfwheel in 2022 and Famous Smoke call it a Nicaraguan puro. Flavors are from a review of the 2007 original. A corojo-wrapped Verocu Blue was added in 2022.",
+    "verified": true,
+    "verifyNotes": "Rewrote notes to add a wrapper disagreement the researcher missed: halfwheel's 2022 Verocu Blue story and Famous Smoke both call the regular Verocu a Nicaraguan puro. Wrapper fields kept on the maker's Ecuador listing."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Avion",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Avion 11",
+        "length": 6.75,
+        "ring": 52
+      },
+      {
+        "name": "Avion 12",
+        "length": 5.625,
+        "ring": 52
+      },
+      {
+        "name": "Avion 13 Broadleaf",
+        "length": 6.875,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "leather",
+      "dark chocolate",
+      "earth",
+      "coffee",
+      "cinnamon",
+      "black pepper"
+    ],
+    "about": "A box-pressed perfecto offshoot of the Tatuaje Fausto blend. One size was released each year from 2011 to 2013, each named for its year.",
+    "released": 2011,
+    "production": "regular",
+    "sources": [
+      "https://tatuajecigars.com/avion.html",
+      "https://halfwheel.com/redux-tatuaje-avion-12/34437/",
+      "https://halfwheel.com/review-tatuaje-avion-13-prerelease/40384/"
+    ],
+    "notes": "Avion 11 and 12 are perfectos that taper from 48 to 52 ring. Avion 13 wears a Connecticut broadleaf wrapper, not the Ecuadorian Habano. Tatuaje rates the line 5+ on its 1 to 5 strength scale.",
+    "verified": true,
+    "verifyNotes": "Removed the note that Famous Smoke calls the wrapper Habano maduro: no Famous Smoke Avion page could be found to support it."
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "Negociant Monopole",
+    "found": true,
+    "officialName": "Negociant",
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua, Mexico",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Monopole No.1",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Monopole No.2",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "Monopole No.3",
+        "length": 6.25,
+        "ring": 48
+      },
+      {
+        "name": "Monopole No.4",
+        "length": 4.125,
+        "ring": 46
+      }
+    ],
+    "flavors": [],
+    "about": "A co-branded cigar from Tatuaje and its sister company L'Atelier Imports, named for the French wine merchants who blend wine from other growers. It uses an Ecuadorian Connecticut wrapper with Mexican and Nicaraguan binders.",
+    "released": 2016,
+    "production": null,
+    "sources": [
+      "https://tatuajecigars.com/negociant.html",
+      "https://halfwheel.com/tatuaje-latelier-team-up-for-negociant/121945/",
+      "https://halfwheel.com/tatuaje-lateliers-negociant-shipping-nationally/143517/"
+    ],
+    "notes": "The line is called Negociant; Monopole is the name of the sizes. Tatuaje rates it 3 on its 1 to 5 strength scale. It debuted at the 2016 trade show and shipped nationally in March 2017. It does not use L'Atelier's signature Sancti Spiritus leaf.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Tatuaje",
+    "line": "L'Atelier Selection Speciale",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sancti Spiritus (higher priming)",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "LAT46 Selection Speciale",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "LAT52 Selection Speciale",
+        "length": 4.75,
+        "ring": 52
+      },
+      {
+        "name": "LAT54 Selection Speciale",
+        "length": 5.625,
+        "ring": 54
+      },
+      {
+        "name": "LAT56 Selection Speciale",
+        "length": 6.5,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "wood",
+      "earth",
+      "white pepper",
+      "cedar",
+      "salt"
+    ],
+    "about": "A darker version of the L'Atelier LAT line that uses higher primings of its Ecuadorian Sancti Spiritus wrapper. It was introduced in 2013 by L'Atelier Imports, Pete Johnson's sister company to Tatuaje.",
+    "released": 2013,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/latelier-lat54-selection-speciale/385124/",
+      "https://halfwheel.com/tatuaje-discontinues-16-skus-announces-price-increase/469847/",
+      "https://halfwheel.com/latelier-lat-46/378612/"
+    ],
+    "notes": "Sold under the L'Atelier name, a Pete Johnson brand now part of Tatuaje, not with a Tatuaje band. LAT52, LAT54 and LAT56 were retired in April 2026; the 38 Special and Torpedo went on hiatus in 2020. The original LAT46 was on neither list, so its status is unclear. Strength is halfwheel's reviewer's call.",
+    "verified": true,
+    "verifyNotes": "Set production to null: three sizes were retired in 2026 and two put on hiatus in 2020, but no source says the original LAT46 size was dropped. Notes updated to say so."
+  },
+  {
+    "brand": "Te-Amo",
+    "line": "Clasico",
+    "found": false,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": null,
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [],
+    "about": null,
+    "released": null,
+    "production": null,
+    "sources": [],
+    "notes": "No source checked lists a Te-Amo line called Clasico. Cigar Aficionado in 2015 named the old core line Te-Amo Classic, which may be the same cigar, but no page gives its blend. The only Te Amo now on Altadis U.S.A.'s site, Famous Smoke and Neptune is the 2024 Original San Andres Valley Cigar.",
+    "verified": false,
+    "verifyNotes": "Second attempt made: checked Altadis U.S.A., Famous Smoke, Neptune, halfwheel and Cigar Aficionado. Only a 2015 Cigar Aficionado mention of Te-Amo Classic turned up, with no specs, so it stays not found. Notes rewritten."
+  },
+  {
+    "brand": "Te-Amo",
+    "line": "Revolution",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres Habano",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Mexico (San Andres Corojo)",
+    "filler": "Mexico (San Andres Negro, San Andres Corojo), Nicaragua",
+    "country": "Mexico",
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto Ovalado",
+        "length": 5.25,
+        "ring": 56
+      },
+      {
+        "name": "Toro Ovalado",
+        "length": 6.25,
+        "ring": 54
+      },
+      {
+        "name": "Churchill Ovalado",
+        "length": 7.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [],
+    "about": "A Te-Amo line introduced by Altadis U.S.A. at the 2012 trade show in an oval, box-press style shape. It was the first Te-Amo to add Nicaraguan tobacco to the Turrent family's San Andres leaf.",
+    "released": 2012,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/altadis-new-lines-trinidad-te-am-vegafina-ipcpr-2012/29866/",
+      "https://cigar-coop.com/2012/08/cigar-preview-te-amo-revolution.html",
+      "https://halfwheel.com/altadis-u-s-a-reviving-te-amo/434067/"
+    ],
+    "notes": "The wrapper is a Habano-seed leaf grown in San Andres, Mexico. Altadis described it as fuller bodied but no source gives a strength rating. No current retailer listing was found, so it may be out of production. Te-Amo cigars are made in Mexico by the Turrent family.",
+    "verified": true,
+    "verifyNotes": "Nothing changed. Strength left null: Altadis U.S.A.'s Te-Amo page no longer lists Revolution, and Famous Smoke and Neptune carry only the 2024 line."
+  },
+  {
+    "brand": "The Griffin's",
+    "line": "Classic",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (pelo de oro seco)",
+    "filler": "Dominican Republic (San Vicente seco, piloto, olor)",
+    "country": "Dominican Republic",
+    "factory": "O.K. Cigars",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 300",
+        "length": 6.25,
+        "ring": 44
+      },
+      {
+        "name": "No. 500",
+        "length": 5.0625,
+        "ring": 42
+      },
+      {
+        "name": "Perfecto",
+        "length": 4.625,
+        "ring": 52
+      },
+      {
+        "name": "Prestige",
+        "length": 7.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Gran Robusto",
+        "length": 5.375,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cream",
+      "wood",
+      "nuts",
+      "earth",
+      "grass"
+    ],
+    "about": "The core line of The Griffin's, a Davidoff-owned brand made in the Dominican Republic. It is a mild, creamy cigar with an Ecuadorian Connecticut wrapper over Dominican tobaccos.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/griffins-gran-robusto-coming-next-month/52893/",
+      "https://www.famous-smoke.com/brand/griffins-cigars",
+      "https://www.neptunecigar.com/the-griffin-s-cigar"
+    ],
+    "notes": "Davidoff's own release calls it mild to medium; Neptune lists it as mild and Famous Smoke as mild-medium. The same Davidoff release mentions a Peruvian binder, while halfwheel and retailers list a Dominican binder. Neptune lists the No. 300 at 43 ring.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "The Griffin's",
+    "line": "Nicaragua",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Dominican Republic (piloto cubano)",
+    "filler": "Dominican Republic (San Vicente seco, piloto mejorado seco), Honduras (Olancho seco), Nicaragua (Esteli ligero, Ometepe viso)",
+    "country": "Dominican Republic",
+    "factory": "O.K. Cigars",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Torpedo",
+        "length": 4,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "cedar",
+      "earth",
+      "hay"
+    ],
+    "about": "A fuller, spicier Griffin's built around Nicaraguan tobacco, including a Nicaraguan Habano wrapper. Davidoff launched it in Europe in late 2015 and in the U.S. in February 2016.",
+    "released": 2015,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/griffins-nicaragua-released-for-u-s-market/107396/",
+      "https://www.neptunecigar.com/cigars/the-griffins-nicaragua-robusto",
+      "https://cigar-coop.com/2016/04/cigar-review-the-griffins-nicaragua-robusto.html"
+    ],
+    "notes": "Despite the name it is a multi-country blend rolled in the Dominican Republic, not a Nicaraguan-made cigar. Strength is not settled: Neptune lists it as full, while Cigar Coop's review found it medium. Current availability was not confirmed.",
+    "verified": false,
+    "verifyNotes": "Wrapper, blend, sizes and Dominican origin confirmed on halfwheel, Neptune and Cigar Coop. Strength could not be confirmed: the two pages that rate it disagree and the maker's site would not load. Added flavors from Neptune and Cigar Coop, swapped two sources for those pages and updated notes."
+  }
+]

@@ -1,0 +1,1228 @@
+[
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Antaño 1970",
+    "found": true,
+    "officialName": "Antaño Original",
+    "wrapperLeaf": "Nicaraguan Habano Criollo",
+    "wrapperCategory": "Criollo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Lancero",
+        "length": 7.5,
+        "ring": 38
+      },
+      {
+        "name": "Churchill",
+        "length": 6.875,
+        "ring": 48
+      },
+      {
+        "name": "Gran Perfecto",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Magnum 660",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Alisado",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Robusto Grande",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Gran Cónsul",
+        "length": 4.75,
+        "ring": 60
+      },
+      {
+        "name": "Machito",
+        "length": 4.75,
+        "ring": 42
+      },
+      {
+        "name": "Cónsul",
+        "length": 4.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "spice",
+      "earth",
+      "pepper"
+    ],
+    "about": "A full-strength Nicaraguan puro from Joya de Nicaragua, introduced in 2001 as a throwback to the powerful cigars the factory made in the 1970s. It is the brand's best known line and the base for the rest of the Antaño family.",
+    "released": 2001,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/antano-1970/",
+      "https://halfwheel.com/joya-de-nicaragua-giving-antano-lines-new-look/436808/",
+      "https://www.famous-smoke.com/brand/joya-de-nicaragua-antano-1970-cigars"
+    ],
+    "notes": "Renamed Antaño Original in 2024 with new packaging; the blend did not change. Many shops still list it as Antaño 1970.",
+    "verified": true,
+    "verifyNotes": "Changed flavor \"black pepper\" to \"pepper\": the maker and Famous say spice, earth and pepper, not black pepper. Wrapper, blend and all 10 sizes match the maker page; 2001 debut and the 2024 rename match halfwheel; Famous lists Full."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Antaño Dark Corojo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo Oscuro",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Poderoso",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "La Niveladora",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "El Martillo",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Peligroso",
+        "length": 5,
+        "ring": 44
+      },
+      {
+        "name": "La Pesadilla",
+        "length": 4.75,
+        "ring": 60
+      },
+      {
+        "name": "Azarosa",
+        "length": 4.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "spice"
+    ],
+    "about": "The strongest cigar in the Antaño family, a Nicaraguan puro with a dark, oily Corojo Oscuro wrapper. Joya de Nicaragua released it in 2007 and aims it at experienced smokers.",
+    "released": 2007,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/antano-dark-corojo/",
+      "https://halfwheel.com/joya-de-nicaragua-unveils-new-look-antano-dark-corojo/159882/",
+      "https://www.famous-smoke.com/brand/joya-de-nicaragua-antano-dark-corojo-cigars"
+    ],
+    "notes": "The maker rates its strength 6 out of 5, above the original Antaño.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Antaño CT",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Belicoso",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.625,
+        "ring": 44
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.25,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cream",
+      "spice",
+      "cedar",
+      "pepper"
+    ],
+    "about": "The Antaño blend finished with an Ecuadorian Connecticut Shade wrapper, released in 2019. It is noticeably stronger and spicier than most Connecticut cigars.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/antano-ct/",
+      "https://halfwheel.com/joya-de-nicaragua-antano-ct-robusto/365422/",
+      "https://www.famous-smoke.com/brand-joya-de-nicaragua-antano-connecticut"
+    ],
+    "notes": "Some retailers list it as Antaño Connecticut. The Robusto was halfwheel's 2019 Cigar of the Year. Neptune lists it as Medium; the maker and Famous say medium to full.",
+    "verified": true,
+    "verifyNotes": "Changed flavor \"black pepper\" to \"pepper\" (Famous says peppery; halfwheel found no pepper). The maker page lists four sizes; the Lonsdale is confirmed by halfwheel as a 2022 regular-production addition."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Antaño Gran Reserva",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano Criollo",
+    "wrapperCategory": "Criollo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Belicoso",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "GT20",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Robusto Grande",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Gran Cónsul",
+        "length": 4.75,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "A more refined take on the original Antaño, made with fillers aged up to five years. Joya de Nicaragua released it in 2017.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/antano-gran-reserva-cigar/",
+      "https://halfwheel.com/joya-de-nicaragua-antano-gran-reserva-robusto-grande/179597/",
+      "https://www.famous-smoke.com/brand-joya-de-nicaragua-antano-1970-gran-reserva"
+    ],
+    "notes": "The maker lists the wrapper as Nicaraguan Habano Criollo; halfwheel lists Nicaraguan Corojo Oscuro. The maker rates strength 4 out of 5; Famous says Medium-Full and Neptune says Full.",
+    "verified": true,
+    "verifyNotes": "No field changes. The GT20 is not on the maker page but is confirmed by halfwheel (2021, regular production, 6 x 52) and Famous; Neptune lists it as 6 x 54."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Cabinetta",
+    "found": true,
+    "officialName": "Joya Cabinetta",
+    "wrapperLeaf": "Ecuadorian Connecticut with a Nicaraguan Habano Criollo tip",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 6.875,
+        "ring": 48
+      },
+      {
+        "name": "Belicoso",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.25,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cream",
+      "pepper",
+      "nuts",
+      "cedar"
+    ],
+    "about": "A mild to medium Joya de Nicaragua cigar known for its two wrappers: a light Ecuadorian Connecticut body with a darker Nicaraguan Criollo leaf at the head. It debuted in 2010 and was rebranded as Joya Cabinetta in 2016.",
+    "released": 2010,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/joya-cabinetta/",
+      "https://halfwheel.com/joya-de-nicaragua-updates-cabinetta-serie-packaging/123484/",
+      "https://www.famous-smoke.com/brand-joya-de-nicaragua-joya-cabinetta"
+    ],
+    "notes": "Originally sold as Joya de Nicaragua Cabinetta Serie. The maker's product page lists the Churchill at 46 ring, but its 2016 relaunch announcement and halfwheel list 48.",
+    "verified": true,
+    "verifyNotes": "Changed flavor \"black pepper\" to \"pepper\" to match the maker and Famous wording."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Clasico",
+    "found": true,
+    "officialName": "Clásico Original",
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Viajante",
+        "length": 8.5,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 6.875,
+        "ring": 48
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Número 6",
+        "length": 6,
+        "ring": 41
+      },
+      {
+        "name": "Selección B",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Señorita",
+        "length": 5.5,
+        "ring": 34
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Cónsul",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Piccolino",
+        "length": 4.125,
+        "ring": 30
+      }
+    ],
+    "flavors": [
+      "wood",
+      "cream"
+    ],
+    "about": "Joya de Nicaragua's first cigar, dating to the factory's start in 1968, and a mild smoke with an Ecuadorian Connecticut wrapper. The maker says it still uses the founders' blend and it is the company's best seller in Europe.",
+    "released": 1968,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/clasico-original/",
+      "https://halfwheel.com/joya-de-nicaragua-clasico-returning-at-casa-de-montecristo-jr-cigar-stores/269276/",
+      "https://joyacigars.com/stay-clasico/"
+    ],
+    "notes": "Now sold as Clásico Original. Clásico Medio Siglo is a separate, fuller blend with a Nicaraguan Habano Criollo wrapper. U.S. availability has been limited to select retailers.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Cuatro Cinco",
+    "found": true,
+    "officialName": "Cuatro Cinco Reserva Especial",
+    "wrapperLeaf": "Nicaraguan Habano Criollo (shade-grown, Jalapa)",
+    "wrapperCategory": "Criollo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Dominican Republic (volado)",
+    "filler": "Nicaragua (barrel-aged)",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Doble Robusto",
+        "length": 5,
+        "ring": 56
+      },
+      {
+        "name": "Petit Corona",
+        "length": 4.5,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "wood",
+      "sweetness"
+    ],
+    "about": "A box-pressed premium line that began as a 2013 limited edition for Joya de Nicaragua's 45th anniversary. The regular Reserva Especial version followed in 2015 and uses fillers aged in oak barrels, including five-year-old ligero.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/cuatro-cinco/",
+      "https://joyacigars.com/new-cuatro-cinco-reserva-especial/",
+      "https://halfwheel.com/joya-de-nicaragua-updates-cuatro-cinco-reserva-especial-packaging/448949/"
+    ],
+    "notes": "The 2013 Edición Limitada was a Nicaraguan puro; the regular Reserva Especial (2015) added a Dominican binder. The maker calls it medium to full; Famous and Neptune list it as Full. halfwheel says the barrels previously held rum.",
+    "verified": true,
+    "verifyNotes": "No field changes. halfwheel (2025) lists the Toro as 6 x 50; the maker page and launch release say 6 1/4 x 50, which is kept."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Cinco Décadas",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "El General",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Diadema",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Fundador",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "El Doctor",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "El Cumiche",
+        "length": 5.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "sweetness",
+      "spice"
+    ],
+    "about": "Joya de Nicaragua's top-tier cigar, released in 2018 for the company's 50th anniversary. It is made in small yearly batches from select aged tobaccos and sold in boxes of 10.",
+    "released": 2018,
+    "production": "limited",
+    "sources": [
+      "https://joyacigars.com/cigars/cinco-decadas/",
+      "https://halfwheel.com/joya-de-nicaragua-cinco-decadas-el-cumiche/421506/",
+      "https://halfwheel.com/joya-de-nicaragua-cinco-decadas-returns-for-2021/393086/"
+    ],
+    "notes": "The blend is confidential; the maker does not disclose wrapper, binder or filler. The maker rates strength 4 out of 5 with no word for it; Neptune lists most sizes as Medium. A 6 x 60 El Embargo is sold outside the U.S.",
+    "verified": true,
+    "verifyNotes": "Reworded \"about\" (the maker says select aged leaves, not its oldest). Swapped one source for the halfwheel El Cumiche review, which is what supports that size; the maker page lists El Embargo instead of El Cumiche. Strength left null: the maker gives only 4 out of 5, Neptune says Medium, halfwheel reviews say medium-plus to medium-full."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Joya Red",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano Criollo (Claro)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Cañonazo",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "Short Churchill",
+        "length": 4.75,
+        "ring": 48
+      },
+      {
+        "name": "Half Corona",
+        "length": 3.75,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "pepper"
+    ],
+    "about": "A medium-strength Nicaraguan puro released in 2014 as the first cigar in Joya de Nicaragua's modern Joya series. It was blended to be more approachable than the company's stronger Antaño lines.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/joya-red/",
+      "https://halfwheel.com/joya-red-robusto/81350/",
+      "https://www.famous-smoke.com/brand-joya-de-nicaragua-joya-red"
+    ],
+    "notes": "",
+    "verified": true,
+    "verifyNotes": "No field changes. The maker writes the wrapper as Nicaraguan H. Criollo (Claro); halfwheel and Famous call it Nicaraguan Habano, so the Habano category is supportable even though the other Habano Criollo lines in this batch are filed under Criollo."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Joya Black",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Nocturno",
+        "length": 6.25,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "Doble Robusto",
+        "length": 5,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "sweetness",
+      "cream",
+      "earth",
+      "wood"
+    ],
+    "about": "The follow-up to Joya Red, released in 2016, and the first Joya de Nicaragua cigar with a Mexican San Andrés wrapper. It is a medium-strength smoke with fuller flavor than the Red.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/joya-black/",
+      "https://halfwheel.com/joya-black-robusto/135762/",
+      "https://joyacigars.com/joya-black/"
+    ],
+    "notes": "The maker's product page lists the Nocturno at 50 ring, but its own launch release, halfwheel and Neptune all list 6 1/4 x 46.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Joya Silver",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Mexico (San Andrés)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Ultra",
+        "length": 6.25,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Corona",
+        "length": 5.25,
+        "ring": 42
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "spice",
+      "chocolate",
+      "cherry"
+    ],
+    "about": "A box-pressed cigar added to the Joya series in 2018, the company's 50th anniversary year. It pairs a dark Ecuadorian Habano wrapper with a Mexican San Andrés binder and Nicaraguan fillers.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/joya-silver/",
+      "https://halfwheel.com/joya-silver-toro-2/378922/",
+      "https://www.famous-smoke.com/brand-joya-de-nicaragua-joya-silver"
+    ],
+    "notes": "The maker rates strength 3 out of 5 and Famous and Neptune list Medium, though Famous describes the body as medium to full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Joya Copper",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaragua",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5,
+        "ring": 46
+      },
+      {
+        "name": "Consul",
+        "length": 4.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [],
+    "about": "The fifth cigar in the Joya series, a Nicaraguan puro made by Joya de Nicaragua as an exclusive for the retailer Cigars International. It launched in November 2019.",
+    "released": 2019,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/joya-cooper-heading-to-cigars-international/368369/",
+      "https://cigar-coop.com/2020/05/cigar-review-joya-copper-toro-by-joya-de-nicaragua.html"
+    ],
+    "notes": "A Cigars International exclusive, not on the maker's own site. It is confirmed only as a Nicaraguan puro; the wrapper variety is not published. No maker or retailer strength was found; a Cigar Coop review rated it medium to full. Current availability could not be confirmed.",
+    "verified": true,
+    "verifyNotes": "Added the Cigar Coop review as a second source; it confirms the Nicaraguan puro blend and the factory. Strength left null because no maker or retailer figure could be opened (Cigars International blocks fetching); rewrote notes to mention the one review rating."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Número Uno",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Le Premier",
+        "length": 6.875,
+        "ring": 48
+      },
+      {
+        "name": "L'Ambassadeur",
+        "length": 6.625,
+        "ring": 44
+      }
+    ],
+    "flavors": [
+      "cream",
+      "pepper"
+    ],
+    "about": "A Connecticut-wrapped cigar that Joya de Nicaragua originally made as a diplomatic gift for Nicaraguan ambassadors. It went on sale in 2019 as part of the company's top Obras Maestras series and is finished with a fantail cap.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/numero-uno/",
+      "https://halfwheel.com/joya-de-nicaragua-numero-uno-le-premier/380456/",
+      "https://halfwheel.com/joya-de-nicaragua-shifts-numero-uno-to-13-count-boxes-in-the-u-s/448793/"
+    ],
+    "notes": "First handed out in 2018 as an event-only cigar called No. 1, which was halfwheel's top cigar that year; regular sales began in 2019. The blend is based on Clásico. A 5 1/2 x 42 L'Attaché is limited to select retailers.",
+    "verified": true,
+    "verifyNotes": "Removed flavor \"spice\": neither the maker nor the halfwheel review mentions it. The maker rates strength 2 out of 5 but describes it in words as medium body and strength; halfwheel found it mild."
+  },
+  {
+    "brand": "Joya de Nicaragua",
+    "line": "Rosalones",
+    "found": true,
+    "officialName": "Rosalones Auténticos",
+    "wrapperLeaf": "Nicaraguan Habano Criollo",
+    "wrapperCategory": "Criollo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rosalones 654",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Rosalones 552",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Rosalones 448",
+        "length": 4,
+        "ring": 48
+      },
+      {
+        "name": "Rosalones 446",
+        "length": 4,
+        "ring": 46
+      },
+      {
+        "name": "Rosalones 342",
+        "length": 3,
+        "ring": 42
+      }
+    ],
+    "flavors": [
+      "earth"
+    ],
+    "about": "One of Joya de Nicaragua's original brands, a value-priced Nicaraguan puro positioned below Clásico. It returned at the end of 2010 after about two decades off the market and has mostly been sold outside the U.S.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://joyacigars.com/cigars/rosalones-cigar/",
+      "https://halfwheel.com/joya-de-nicaragua-bringing-two-rosalones-blends-to-u-s-in-may/467327/",
+      "https://halfwheel.com/joya-de-nicaragua-rosalones-seleccion-bodegas-edicion-2022-heading-to-spain/416924/"
+    ],
+    "notes": "The maker now calls the original blend Rosalones Auténticos. Rosalones Reserva and Rosalones CT are separate blends and are the two that reached U.S. stores in 2026. The maker lists a Nicaraguan wrapper; halfwheel in 2022 described it as Ecuadorian Habano. Sizes are as printed on the maker's site, in whole inches.",
+    "verified": true,
+    "verifyNotes": "Added a note and source: halfwheel (2022) describes the regular Rosalones wrapper as Ecuadorian Habano, against the maker's Nicaraguan H. Criollo. Sizes are exactly as the maker page prints them (whole inches) and could not be cross-checked elsewhere."
+  },
+  {
+    "brand": "JRE",
+    "line": "Aladino Corojo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Authentic Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras (Authentic Corojo)",
+    "filler": "Honduras (Authentic Corojo)",
+    "country": "Honduras",
+    "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Elegante",
+        "length": 7,
+        "ring": 38
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 48
+      },
+      {
+        "name": "Gordo",
+        "length": 6.5,
+        "ring": 60
+      },
+      {
+        "name": "Palmas",
+        "length": 6,
+        "ring": 43
+      },
+      {
+        "name": "Cazador",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 48
+      },
+      {
+        "name": "Petit Corona",
+        "length": 4,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "cedar",
+      "leather",
+      "white pepper"
+    ],
+    "about": "The flagship of JRE Tobacco Co., a Honduran puro made entirely from Authentic Corojo grown on the Eiroa family farm in the Jamastran Valley. Julio Eiroa blended it as an old-fashioned cigar and it debuted in 2015.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/julio-eiroas-aladino-ships/99825/",
+      "https://www.jretobacco.com/cigar-review-aladino-robusto-by-jre-tobacco-co/",
+      "https://www.famous-smoke.com/brand-aladino-corojo"
+    ],
+    "notes": "Launched simply as Aladino under CLE Cigar Co. before JRE Tobacco Co. was formed in 2016. The maker has said strength varies by size. Strength here is from Famous.",
+    "verified": true,
+    "verifyNotes": "No field changes. Sizes match the maker catalog page (which also lists a 5 1/2 x 32 Santi). Famous gives Medium strength with medium-to-full body; the Cigar Coop review on the maker site gives Medium for both."
+  },
+  {
+    "brand": "JRE",
+    "line": "Aladino Corojo Reserva",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras (Corojo)",
+    "filler": "Honduras (Corojo)",
+    "country": "Honduras",
+    "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Figurado",
+        "length": 6.25,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "leather",
+      "pepper",
+      "earth"
+    ],
+    "about": "A stronger, small-batch version of the Aladino Corojo, made entirely from Honduran Corojo with higher-priming leaves from the Eiroa farms. It was introduced in 2018 as a single robusto and has since added sizes.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/aladino-corojo-reserva-toro/365281/",
+      "https://halfwheel.com/aladino-corojo-reserva-torpedo-begins-shipping/394987/",
+      "https://www.famous-smoke.com/brand-aladino-corojo-reserva"
+    ],
+    "notes": "Regular production but made in limited monthly quantities. The Figurado is a box-pressed torpedo. A 5 x 44 Corona No. 4 Limitado is a separate limited yearly release. Famous and Neptune list it as Full; halfwheel's review of the Toro found it closer to medium.",
+    "verified": true,
+    "verifyNotes": "Notes updated: Famous and Neptune both list Full, but halfwheel's Toro review called it a strongish medium at most. Sizes match the maker catalog."
+  },
+  {
+    "brand": "JRE",
+    "line": "Aladino Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Honduras (Corojo)",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Elegante",
+        "length": 7,
+        "ring": 38
+      },
+      {
+        "name": "Gordo",
+        "length": 6.5,
+        "ring": 60
+      },
+      {
+        "name": "Cazador",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "espresso",
+      "earth",
+      "cream"
+    ],
+    "about": "The maduro version of Aladino, with a Mexican San Andrés wrapper over Honduran Corojo binder and Honduran fillers from the Eiroa farms. It soft-launched in late 2017 as the first follow-up to the original Aladino.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/aladino-maduro-rothschild/214292/",
+      "https://halfwheel.com/jre-adds-aladino-maduro-gordo/436178/",
+      "https://www.famous-smoke.com/brand-aladino-maduro"
+    ],
+    "notes": "The Corona, Cazador, Robusto and Toro are box-pressed. Famous and Neptune both list it as Medium.",
+    "verified": true,
+    "verifyNotes": "No field changes. Sizes match the maker catalog plus the 2024 Gordo; Famous and Neptune both list Medium."
+  },
+  {
+    "brand": "JRE",
+    "line": "Aladino Cameroon",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran-grown Cameroon seed",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras (Corojo)",
+    "filler": "Honduras (Corojo)",
+    "country": "Honduras",
+    "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Elegante",
+        "length": 7,
+        "ring": 38
+      },
+      {
+        "name": "Gordo",
+        "length": 6.5,
+        "ring": 60
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6,
+        "ring": 43
+      },
+      {
+        "name": "Super Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Queens Perfecto",
+        "length": 5.25,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "caramel",
+      "cedar",
+      "cream",
+      "baking spice",
+      "earth",
+      "black pepper"
+    ],
+    "about": "An all-Honduran Aladino that uses a Cameroon-seed wrapper grown by the Eiroa family in Honduras over Corojo binder and fillers. It launched in 2020.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/aladino-cameroon-gordo/414078/",
+      "https://halfwheel.com/jre-adding-new-sizes-to-aladino-cameroon-connecticut/409331/",
+      "https://www.famous-smoke.com/brand-aladino-cameroon"
+    ],
+    "notes": "The wrapper is Cameroon seed grown in Honduras, not leaf from Africa. Famous and Neptune both list it as Medium.",
+    "verified": true,
+    "verifyNotes": "No field changes. Sizes match the maker catalog; Famous and Neptune both list Medium."
+  },
+  {
+    "brand": "JRE",
+    "line": "Aladino Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6.5,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Queens Perfecto",
+        "length": 5.25,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "nuts",
+      "cream",
+      "sweetness"
+    ],
+    "about": "JRE's Connecticut-wrapped Aladino, with an Ecuadorian Connecticut wrapper over Honduran binder and fillers from the Eiroa farms. It was released in 2019 as the company's first Connecticut cigar without a sweetened tip.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/aladino-connecticut-6-x-50/364432/",
+      "https://halfwheel.com/jre-adding-new-sizes-to-aladino-cameroon-connecticut/409331/",
+      "https://www.famous-smoke.com/brand-aladino-connecticut"
+    ],
+    "notes": "Famous and Neptune list it as Mild; halfwheel's review found the strength closer to medium. Famous describes the binder as Authentic Corojo.",
+    "verified": true,
+    "verifyNotes": "Notes updated: Famous and Neptune both list Mild, but the halfwheel review found the strength medium-plus. Sizes match the maker catalog."
+  },
+  {
+    "brand": "JRE",
+    "line": "Rancho Luna",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [],
+    "about": "A value-priced Honduran brand from the Eiroa family, shown in 2015 alongside Aladino and Tatascan and named for the family tobacco farm. JRE reworked it in 2025 as a mixed-filler bundle cigar in a single toro size.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/jre-brings-back-rancho-luna-aladino-candela-toro/446795/",
+      "https://halfwheel.com/ipcpr-2016-jre-tobacco/127801/",
+      "https://www.jretobacco.com/cigar-review-rancho-luna-maduro-robusto-by-jre-tobacco-company/"
+    ],
+    "notes": "The original was a long-filler cigar with a Honduran Habano wrapper, plus a Maduro version. It went on hiatus in 2022. The 2025 relaunch is mixed filler, 6 x 52 only, with either a Habano-seed (red band) or Connecticut-seed (blue band) Honduran wrapper.",
+    "verified": true,
+    "verifyNotes": "No field changes. Strength stays null: the maker page gives none for the Habano blend (a review on the maker site calls the Maduro a medium)."
+  },
+  {
+    "brand": "JRE",
+    "line": "Tatascan",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut or Honduran Habano, depending on the version",
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": "Honduras (Corojo)",
+    "filler": "Honduras (Corojo, Habano)",
+    "country": "Honduras",
+    "factory": "Fábrica de Puros Aladino at Las Lomas Jamastran",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Gran Churchill",
+        "length": 7,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6.5,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cream",
+      "cedar",
+      "coffee",
+      "sweetness"
+    ],
+    "about": "A Honduran brand from JRE Tobacco Co. known for its sweetened cap, launched in 2015 with Aladino and Rancho Luna. It comes in Connecticut and Habano versions.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://www.jretobacco.com/portfolio/tatascan/",
+      "https://halfwheel.com/ipcpr-2016-jre-tobacco/127801/",
+      "https://www.famous-smoke.com/brand-tatascan-habano"
+    ],
+    "notes": "Two blends share the name: Tatascan Connecticut and Tatascan Habano, both with a sweetened tip. halfwheel calls the Connecticut wrapper Honduran; Famous and Neptune list Ecuadorian. Famous lists both blends as Medium; Neptune lists the Habano as Mild. Tatascan Yellow is a separate unsweetened bundle cigar.",
+    "verified": true,
+    "verifyNotes": "Sizes replaced with the five on the maker catalog pages for both versions (added Corona 5 x 44, renamed Churchill to Gran Churchill); the researcher had only what Famous stocks. Swapped the Famous Connecticut link for the maker page. Notes rewritten: dropped the Famous-only size remark, added that Neptune lists the Habano as Mild. Famous and Neptune pages were both opened."
+  }
+]

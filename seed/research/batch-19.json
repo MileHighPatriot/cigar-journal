@@ -1,0 +1,1289 @@
+[
+ {
+  "brand": "Ashton",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cordial",
+    "length": 5,
+    "ring": 30
+   },
+   {
+    "name": "Magnum",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Panetela",
+    "length": 6,
+    "ring": 36
+   },
+   {
+    "name": "Crystal Belicoso",
+    "length": 6,
+    "ring": 49
+   },
+   {
+    "name": "Double Magnum",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Majesty",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "898",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Prime Minister",
+    "length": 6.875,
+    "ring": 48
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee",
+   "almond",
+   "cashew",
+   "cedar"
+  ],
+  "about": "The original Ashton blend, made for Ashton by the Fuente family in the Dominican Republic. It pairs a golden Connecticut Shade wrapper with Dominican binder and filler aged three to four years and is the brand's mildest core line.",
+  "released": 1985,
+  "production": "regular",
+  "sources": [
+   "https://www.ashtoncigar.com/cigars/ashton/ashton",
+   "https://www.ashtoncigar.com/brand-history",
+   "https://www.neptunecigar.com/cigar/ashton"
+  ],
+  "notes": "Ashton's own site simply calls this line Ashton; Classic is the common shop name. The maker lists 13 sizes, also including Monarch (6 x 50), Crystal No. 1 (6.5 x 44) and Sovereign (6.75 x 55).",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Ashton's and Holt's pages do not say where the wrapper is grown, so swapped the Holt's link for Neptune, which lists USA Connecticut Shade."
+ },
+ {
+  "brand": "Ashton",
+  "line": "Cabinet Selection",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tres Petite",
+    "length": 4.375,
+    "ring": 42
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "No. 6",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "No. 4",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "No. 3",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Pyramid",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 7",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "No. 2",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "No. 8",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "No. 10",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cashew",
+   "cream",
+   "coffee",
+   "white pepper"
+  ],
+  "about": "A longer-aged step up from the core Ashton blend, made by the Fuente family. Dominican tobaccos aged five to seven years sit under a Connecticut Shade wrapper, and several sizes are perfectos and figurados.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.ashtoncigar.com/cigars/ashton/ashton-cabinet-selection",
+   "https://www.holts.com/cigars/all-cigar-brands/ashton-cabinet-selection.html",
+   "https://www.neptunecigar.com/cigar/ashton-cabinet"
+  ],
+  "notes": "The maker also lists a No. 1 at 9 x 52.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added Neptune as the source for the USA-grown wrapper, which Ashton's and Holt's pages do not state."
+ },
+ {
+  "brand": "Ashton",
+  "line": "Aged Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 10",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 20",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "No. 30",
+    "length": 6.75,
+    "ring": 44
+   },
+   {
+    "name": "No. 40",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 50",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "No. 56",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "No. 60",
+    "length": 7.5,
+    "ring": 52
+   },
+   {
+    "name": "Pyramid",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "almond",
+   "maple",
+   "molasses",
+   "black pepper"
+  ],
+  "about": "Ashton's maduro line, made by the Fuente family with a slow-fermented Connecticut Broadleaf wrapper over aged Dominican tobaccos. It is a sweet, mellow maduro rather than a strong one.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.ashtoncigar.com/cigars/ashton/ashton-aged-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/ashton-aged-maduro.html",
+   "https://www.neptunecigar.com/cigar/ashton-maduro"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added Neptune as the source for the Dominican binder and USA-grown Broadleaf, which Ashton's and Holt's pages do not state."
+ },
+ {
+  "brand": "Ashton",
+  "line": "ESG",
+  "found": true,
+  "officialName": "Estate Sun Grown (ESG)",
+  "wrapperLeaf": "Dominican sun grown from Chateau de la Fuente",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "20 Year Salute",
+    "length": 6.75,
+    "ring": 49
+   },
+   {
+    "name": "21 Year Salute",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "22 Year Salute",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "23 Year Salute",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "24 Year Salute",
+    "length": 6.625,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "graham cracker",
+   "cocoa",
+   "cedar",
+   "molasses",
+   "black pepper"
+  ],
+  "about": "Ashton's top-priced line, an all-Dominican cigar made by the Fuente family with a wrapper from their Chateau de la Fuente farm. It was created for Ashton's 20th anniversary, and each size is named as a yearly salute.",
+  "released": 2006,
+  "production": "regular",
+  "sources": [
+   "https://www.ashtoncigar.com/cigars/ashton/ashton-estate-sun-grown",
+   "https://halfwheel.com/ashton-releases-esg-24-year-salute/44559/",
+   "https://www.holts.com/cigars/all-cigar-brands/ashton-esg.html"
+  ],
+  "notes": "ESG stands for Estate Sun Grown. The wrapper comes from the same Fuente farm that grows Fuente Fuente OpusX wrapper. Made in small batches, so supply can be tight.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ashton",
+  "line": "VSG",
+  "found": true,
+  "officialName": "Virgin Sun Grown (VSG)",
+  "wrapperLeaf": "Ecuador Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tres Mystique",
+    "length": 4.375,
+    "ring": 44
+   },
+   {
+    "name": "Pegasus",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso No. 1",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Eclipse",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Wizard",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 55
+   },
+   {
+    "name": "Sorcerer",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "Spellbound",
+    "length": 7.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "espresso",
+   "black pepper",
+   "earth",
+   "leather"
+  ],
+  "about": "Ashton's full-bodied line, made by the Fuente family since 1999. A dark Sumatra-seed wrapper grown on a private estate in Ecuador covers Dominican binder and filler aged four to five years.",
+  "released": 1999,
+  "production": "regular",
+  "sources": [
+   "https://www.ashtoncigar.com/cigars/ashton/ashton-vsg",
+   "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+   "https://halfwheel.com/review-ashton-vsg-robusto-especial/23304/"
+  ],
+  "notes": "VSG stands for Virgin Sun Grown. Most sizes are box-pressed. The maker also lists Enchantment (4.375 x 60) and Illusion (6.5 x 44).",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ashton",
+  "line": "Heritage Puro Sol",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso No. 2",
+    "length": 4.875,
+    "ring": 49
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 48
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "leather",
+   "caramel",
+   "spice"
+  ],
+  "about": "A medium-bodied Ashton made by the Fuente family with a reddish Cuban-seed wrapper grown in Ecuador over Dominican binder and filler. Puro Sol refers to the tobaccos all being grown in full sun.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.ashtoncigar.com/cigars/ashton/ashton-heritage-puro-sol",
+   "https://www.holts.com/cigars/all-cigar-brands/ashton-heritage.html",
+   "https://www.famous-smoke.com/brand/ashton-heritage-puro-sol-cigars"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ashton",
+  "line": "Symmetry",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuador Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Prism",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Sublime",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Prestige",
+    "length": 6.75,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "cinnamon",
+   "cedar",
+   "coffee",
+   "fig",
+   "black pepper"
+  ],
+  "about": "Released in 2014 as the first new Ashton line in close to a decade, blended by Carlito Fuente. It was the first Ashton to use Nicaraguan tobacco, set under an Ecuador Habano Rosado wrapper.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.ashtoncigar.com/cigars/ashton/ashton-symmetry",
+   "https://www.cigaraficionado.com/article/symmetry-marks-first-new-ashton-brand-in-nearly-a-decade-17691",
+   "https://halfwheel.com/ashton-ships-symmetry/72339/"
+  ],
+  "notes": "Ashton's site and Holt's now list strength as Full. At launch Ashton described it as medium to full.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that the sizes are softly pressed from about; no page opened says so. Other fields confirmed."
+ },
+ {
+  "brand": "Ashton",
+  "line": "Benchmade",
+  "found": false,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": null,
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/benchmade.html"
+  ],
+  "notes": "Not confirmed as an Ashton line. Holt's, the retailer run by Ashton's owners, sells Benchmade under its own name as a bundle made in Esteli, Nicaragua, and Ashton's own site does not list it. Neptune separately credits it to Jose Pepin Garcia.",
+  "verified": false,
+  "verifyNotes": "Changed found to false and blanked the fields. No page opened shows Benchmade under the Ashton brand: Ashton's site and Ashton Distributors do not list it and Holt's sells it as a standalone brand. Neptune also contradicts Holt's on the blend (all Nicaraguan, made by Pepin Garcia)."
+ },
+ {
+  "brand": "Asylum",
+  "line": "13",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaraguan American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52 x 6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "80 x 6",
+    "length": 6,
+    "ring": 80
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "80 x 8",
+    "length": 8,
+    "ring": 80
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "espresso",
+   "caramel",
+   "roasted nuts"
+  ],
+  "about": "The flagship Asylum blend from Tom Lazuka and Christian Eiroa, distributed by CLE Cigar Co. It is a Nicaraguan puro with a dark habano wrapper, best known for very large ring gauges such as 7 x 70 and 8 x 80.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-13-70-x-7-box-pressed/175494/",
+   "https://halfwheel.com/press-release-asylum-cigars-kicks-doors-inaugural-launch/28068/",
+   "https://www.neptunecigar.com/cigar/asylum-13-maduro"
+  ],
+  "notes": "Strength varies by source: Neptune's spec says medium, Holt's medium-full, and a halfwheel reviewer found the 7 x 70 mild to medium. Halfwheel and Neptune place production in Nicaragua, while Holt's says Honduras. Asylum writes sizes ring gauge first.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Swapped the Holt's link for the 2012 halfwheel launch release, which supports the release year. Dropped the claim that Famous lists it full, which its page does not state."
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "52 x 6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "cedar"
+  ],
+  "about": "The lighter member of the Asylum 13 family, released in 2016 by Asylum and CLE Cigar Co. It puts an Ecuadorian Connecticut wrapper over Honduran binder and filler and is made at Christian Eiroa's El Aladino factory in Danli.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-13-connecticut-coming-this-month/106200/",
+   "https://www.neptunecigar.com/cigar/asylum-13-connecticut",
+   "https://www.holts.com/cigars/all-cigar-brands/asylum-13-connecticut.html"
+  ],
+  "notes": "Strength is listed as mild by Neptune, mild-medium by Holt's and medium by Famous, so mild to medium is the safe description.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added Holt's, which states mild-medium and gives tasting notes, in place of the Famous link, and filled flavors from it."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Straight Jacket",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "54 x 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "almond",
+   "earth"
+  ],
+  "about": "A Nicaraguan puro from Asylum that debuted at the 2013 IPCPR show, blended by Christian Eiroa and Tom Lazuka as the strongest cigar in the Asylum range. It has a dark wrapper and was sold in ten-count boxes.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigar/asylum-straight-jacket",
+   "https://www.cigaraficionado.com/ratings/18042/name/asylum-straight-jacket-toro",
+   "https://halfwheel.com/ipcpr-2013-fabricas-unidas/38952/"
+  ],
+  "notes": "The maker never named the Nicaraguan factory or the wrapper variety. Neptune lists a maduro-colored Nicaraguan wrapper and marks the line discontinued. Holt's lists the country as Honduras, while Cigar Aficionado and Neptune say Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Removed the 5 x 50 size, which no page opened lists. Cut flavors to the ones in the Cigar Aficionado tasting note. Added the country disagreement to notes."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Nyctophilia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "earth"
+  ],
+  "about": "An all-maduro Asylum line with a Mexican San Andres wrapper, made at Christian Eiroa's El Aladino factory in Honduras. It was announced in 2014 and first shipped in 2015 to TAA retailers before going national.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/asylum-nyctophilia-heads-to-taa-stores/86632/",
+   "https://www.neptunecigar.com/cigar/asylum-nyctophilia",
+   "https://www.famous-smoke.com/brand/asylum-nyctophilia-cigars"
+  ],
+  "notes": "Halfwheel reports Nicaraguan fillers while Famous lists Honduran filler. Halfwheel does not name the binder, though Neptune describes a Nicaraguan binder. The name means love of darkness. Famous currently shows only the 7 x 70.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Added the flavors Neptune publishes and corrected the note that said no source names the binder."
+ },
+ {
+  "brand": "Asylum",
+  "line": "Lobotomy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Maduro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "70 x 7",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "espresso",
+   "leather",
+   "spice",
+   "earth"
+  ],
+  "about": "An all-Nicaraguan Asylum blend with a dark Habano Maduro wrapper, released in 2016 as an exclusive for Famous Smoke Shop.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand/asylum-lobotomy-cigars",
+   "https://cigar-coop.com/2016/02/cigar-news-asylum-lobotomy-to-be-shop-exclusive-at-famous-smoke-shop.html",
+   "https://www.neptunecigar.com/cigar/asylum-lobotomy"
+  ],
+  "notes": "A Famous Smoke Shop exclusive, so most lounges will not stock it. Famous calls it full while Neptune lists it as medium. Neptune says it is rolled in Nicaragua, but the launch report listed the country and factory as not disclosed. Famous also sells a separate Lobotomy Corojo.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Dropped the unsupported credit to named blenders from about and noted that the country comes from Neptune only."
+ },
+ {
+  "brand": "AVO",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Puritos",
+    "length": 4,
+    "ring": 30
+   },
+   {
+    "name": "No. 9",
+    "length": 4.75,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "No. 5",
+    "length": 6.875,
+    "ring": 46
+   },
+   {
+    "name": "Piramides",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "No. 3",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "cashew",
+   "cereal",
+   "pepper"
+  ],
+  "about": "The original AVO blend, created by jazz pianist Avo Uvezian with Hendrik Kelner and now made by Davidoff in the Dominican Republic. It is a mellow, creamy cigar with an Ecuadorian Connecticut wrapper over Dominican tobaccos.",
+  "released": 1988,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/avo-classic-belicoso-2021/391177/",
+   "https://www.holts.com/cigars/all-cigar-brands/avo.html",
+   "https://www.famous-smoke.com/brand/avo-classic-cigars"
+  ],
+  "notes": "Holt's and Famous list it mild to medium, Neptune lists it mild. Neptune names the binder as Dominican Olor and the filler as Piloto Cubano. The No. 5 length varies by source: Holt's and Famous say 6 7/8 inches, halfwheel 6 3/4 and Neptune 6 5/8.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Expanded the note on the No. 5 length, which three sources give three ways; the maker's site could not be reached to settle it."
+ },
+ {
+  "brand": "AVO",
+  "line": "Improvisation",
+  "found": true,
+  "officialName": "Improvisation Series",
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "AVO's series of annual limited editions, usually released in March around Avo Uvezian's birthday. It followed the older AVO LE releases, and every year was a different blend and size made by Davidoff in the Dominican Republic.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/avo-improvisation-le22-white/408618/",
+   "https://www.neptunecigar.com/cigar/avo-improvisation"
+  ],
+  "notes": "This is a series, not one blend, so there is no single wrapper or strength. It began in 2015 with the Classic Covers releases, used the Improvisation name from LE17 through LE21, and closed in 2022 with the LE22 White and Black. Ask which year a given box is.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "AVO",
+  "line": "Heritage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian sun grown Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (San Vicente)",
+  "filler": "Dominican Republic (ligero and seco), Peru (seco)",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 56
+   },
+   {
+    "name": "Robusto",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Special Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "cocoa",
+   "spice",
+   "earth"
+  ],
+  "about": "Introduced at the 2010 IPCPR show and billed as the strongest AVO to that point, at a lower price than the rest of the range. A sun grown Ecuadorian wrapper covers Dominican and Peruvian tobaccos, made by Davidoff.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/avo-heritage-lancero/95138/",
+   "https://www.holts.com/cigars/all-cigar-brands/avo-heritage.html",
+   "https://www.famous-smoke.com/brand/avo-heritage-cigars"
+  ],
+  "notes": "Strength listings vary: Neptune medium, Holt's medium-full, Famous full. Halfwheel calls the wrapper Ecuadorian sun grown, while Holt's and Famous call it Ecuador Habano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "AVO",
+  "line": "Domaine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian sun grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 20",
+    "length": 4.625,
+    "ring": 50
+   },
+   {
+    "name": "No. 10",
+    "length": 5.125,
+    "ring": 50
+   },
+   {
+    "name": "No. 50",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "floral",
+   "butter",
+   "spice",
+   "chestnut"
+  ],
+  "about": "A richer AVO made by Davidoff that used tobacco from Avo Uvezian's own Dominican farm, Domaine AVO, under a sun grown Ecuadorian wrapper. Its shapes included perfectos.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/avo-domaine",
+   "https://www.neptunecigar.com/cigars/avo-domaine-10",
+   "https://www.cigarsdirect.com/collections/avo-domaine"
+  ],
+  "notes": "Neptune reports the line as discontinued and other retailers show it sold out. Strength descriptions range from medium to full. One retailer calls the wrapper Ecuadorian Connecticut sun grown. A No. 70 toro was also listed, size not confirmed.",
+  "verified": true,
+  "verifyNotes": "Softened the about line on perfecto sizes to what the retailer page supports. Strength is mixed across sources (Neptune full, Cigars Direct medium to full) and left as Medium-Full."
+ },
+ {
+  "brand": "AVO",
+  "line": "XO",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Notturno",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Intermezzo",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Preludio",
+    "length": 6,
+    "ring": 40
+   },
+   {
+    "name": "Legato",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Maestoso",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cashew",
+   "cream",
+   "pepper",
+   "wood"
+  ],
+  "about": "A smooth, medium-bodied AVO made at Davidoff's Dominican factory with tobaccos aged about six years under an Ecuadorian Connecticut wrapper. The sizes carry musical names such as Intermezzo and Legato.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/avo-xo.html",
+   "https://www.neptunecigar.com/cigar/avo-xo",
+   "https://www.famous-smoke.com/brand/avo-xo-cigars"
+  ],
+  "notes": "Holt's says the Connecticut-seed wrapper is grown in direct sunlight, while Famous and Neptune call it Connecticut Shade.",
+  "verified": true,
+  "verifyNotes": "Removed sun grown from wrapperLeaf because only Holt's says it and Famous and Neptune call the leaf Connecticut Shade. Noted the disagreement."
+ },
+ {
+  "brand": "AVO",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Classic Maduro",
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 2",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 3",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "wood",
+   "pepper",
+   "espresso"
+  ],
+  "about": "AVO's maduro, with a Connecticut Broadleaf wrapper over Dominican binder and fillers that include 25-year-old tobacco. It is the first blend Avo Uvezian developed with Hendrik Kelner in the 1980s.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/avo-classic-maduro-ships/377499/",
+   "https://www.neptunecigar.com/cigar/avo-classic-maduro",
+   "https://www.famous-smoke.com/brand/avo-maduro-cigars"
+  ],
+  "notes": "Now sold as AVO Classic Maduro. The original AVO Maduro was discontinued in 2015, came back as a limited release in 2018, and returned to regular production in 2020 with the same blend.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Swapped the second halfwheel link for Neptune, which states the USA Broadleaf origin and medium strength, and filled flavors from it."
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua (Ometepe), Peru",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Special Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "spice",
+   "earth",
+   "cream",
+   "pepper"
+  ],
+  "about": "The first AVO Syncro release, launched in 2015 as the brand's first regular line built around Nicaraguan tobacco. It is box-pressed, with a dark Ecuadorian Connecticut wrapper and filler that includes leaf from Nicaragua's Ometepe island.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/avo-syncro-nicaragua-special-toro/96539/",
+   "https://www.holts.com/cigars/all-cigar-brands/avo-syncro.html",
+   "https://www.famous-smoke.com/brand/avo-syncro-nicaragua-cigars"
+  ],
+  "notes": "Despite the name it is rolled in the Dominican Republic. Halfwheel lists a Dominican binder, while Neptune lists a Nicaraguan binder and medium strength. Halfwheel describes the Connecticut-seed wrapper as dark.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro Nicaragua Fogata",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano 2000",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres negro)",
+  "filler": "Dominican Republic (Yamasa viso, Piloto, San Vicente ligero), Nicaragua (Esteli ligero, Condega viso)",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Torpedo",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Special Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "cedar",
+   "cream"
+  ],
+  "about": "The second AVO Syncro line, shipped in 2016, with an Ecuadorian Habano 2000 wrapper, a Mexican San Andres binder and Dominican and Nicaraguan fillers. Unlike the box-pressed Syncro Nicaragua it is round, and Fogata is Spanish for campfire.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/avo-syncro-nicaragua-fogata-ships/119018/",
+   "https://www.neptunecigar.com/cigar/avo-syncro-nicaragua-fogata",
+   "https://www.famous-smoke.com/brand/avo-syncro-nicaragua-fogata-cigars"
+  ],
+  "notes": "Famous lists it medium-full and Neptune lists it full. It shares a name with Syncro Nicaragua but is a different blend. Rolled in the Dominican Republic.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed about to two sentences."
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro South America Ritmo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Brazil, Dominican Republic, Honduras, Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Special Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo Largo",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "coffee",
+   "wood",
+   "roasted nuts",
+   "earth",
+   "cocoa"
+  ],
+  "about": "The third AVO Syncro line, widely released in May 2017 after a small 2016 run. It is box-pressed and blends tobaccos from seven countries, and Ritmo is Spanish for rhythm.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/avo-syncro-south-america-ritmo-torpedo-largo/174195/",
+   "https://www.neptunecigar.com/cigar/avo-syncro-south-america-ritmo",
+   "https://www.famous-smoke.com/brand/avo-syncro-south-america-ritmo-cigars"
+  ],
+  "notes": "The wrapper variety is not published, only that it is Ecuadorian and dark. Famous lists it medium-full and Neptune full. Rolled in the Dominican Republic, and at launch Davidoff said it was a U.S.-only release.",
+  "verified": true,
+  "verifyNotes": "Fields confirmed. Trimmed about to two sentences and removed the maker's promotional claim."
+ }
+]

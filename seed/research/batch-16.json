@@ -1,0 +1,1015 @@
+[
+  {
+    "brand": "Oliva",
+    "line": "Serie V",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Sun Grown",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Jalapa Valley ligero)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Churchill Extra",
+        "length": 7,
+        "ring": 52
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      },
+      {
+        "name": "Special V Figurado",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Belicoso",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Double Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "No. 4",
+        "length": 5,
+        "ring": 43
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "dark chocolate",
+      "spice",
+      "earth",
+      "leather"
+    ],
+    "about": "A full-bodied Oliva line built around fermented Jalapa Valley ligero under a high-priming sun grown wrapper. It debuted in 2007 and has been a regular on Cigar Aficionado's year-end lists.",
+    "released": 2007,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-v/",
+      "https://halfwheel.com/oliva-serie-v-5-x-54-box-pressed/400094/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-v.html"
+    ],
+    "notes": "Oliva lists an Ecuadorian sun grown wrapper, which halfwheel and Holt's call Ecuadorian Habano; Neptune's spec table says Ecuadorian Sumatra seed. Holt's rates it full strength while Neptune lists medium.",
+    "verified": true,
+    "verifyNotes": "Removed the unsourced word 'flagship' from about and tightened the wrapper note (Oliva's page only says Ecuador and sun grown). Blend, factory, sizes, 2007 debut and Full strength all confirmed."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Serie V Melanio",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra seed",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Figurado",
+        "length": 6.5,
+        "ring": 54
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Petit Corona",
+        "length": 4.5,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "caramel",
+      "wood",
+      "pepper",
+      "cream"
+    ],
+    "about": "A box-pressed step up from the Serie V, named for Melanio Oliva, who first grew tobacco in Cuba in 1886. The Figurado was Cigar Aficionado's Cigar of the Year for 2014 with a 96 rating.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-v-melanio/",
+      "https://halfwheel.com/review-oliva-serie-v-melanio-figurado/30222/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-v-melanio.html"
+    ],
+    "notes": "Strength varies by source: Holt's says medium-full, Neptune medium, and Famous and halfwheel's 2012 review full. Oliva and Neptune list the Figurado at 6.5 x 54; Holt's and Famous list 6.5 x 52.",
+    "verified": true,
+    "verifyNotes": "Added Famous's Full rating to the strength note. All other fields confirmed."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Serie V Melanio Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Figurado",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Petit Corona",
+        "length": 4.5,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "chocolate",
+      "cedar",
+      "baking spice",
+      "nougat",
+      "black pepper"
+    ],
+    "about": "The Serie V Melanio blend with the Ecuadorian wrapper swapped for a Mexican San Andrés maduro. It launched in 2013 as a single Torpedo and has since grown to match the Melanio size list.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-v-melanio-maduro/",
+      "https://halfwheel.com/review-oliva-serie-melanio-maduro-torpedo-prerelease/38897/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-v-melanio-maduro.html"
+    ],
+    "notes": "Holt's lists strength as medium-full; Neptune lists full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oliva",
+    "line": "Serie V Maduro Especial",
+    "found": true,
+    "officialName": "Serie V Maduro",
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (ligero)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Double Robusto",
+        "length": 5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "coffee",
+      "black pepper",
+      "wood"
+    ],
+    "about": "The maduro version of the Serie V, with Nicaraguan ligero under a Mexican San Andrés wrapper. It ran as a once-a-year limited edition from 2008 and became a regular production line in 2019.",
+    "released": 2008,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-v-maduro/",
+      "https://halfwheel.com/oliva-serie-v-maduro-becomes-regular-production/299179/",
+      "https://halfwheel.com/review-oliva-serie-v-maduro-especial-2014/73491/"
+    ],
+    "notes": "Oliva now calls it Serie V Maduro; Maduro Especial was the name of the yearly limited edition that began in 2008. The 2008 release used Connecticut Broadleaf and 2009 a Nicaraguan Habano maduro; San Andrés has been the wrapper since 2010.",
+    "verified": true,
+    "verifyNotes": "Dropped the unsupported end year (2018) for the limited run from notes. Full strength is not on the listed sources; confirmed it on the Holt's and Neptune pages for this line."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Serie O",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Sun Grown",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Esteli, Condega, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Toro Tubo",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Perfecto",
+        "length": 5,
+        "ring": 55
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "No. 4",
+        "length": 5,
+        "ring": 43
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "spice",
+      "wood",
+      "cocoa",
+      "leather"
+    ],
+    "about": "A medium-strength Oliva core line built on Habano-seed tobacco from Esteli, Condega and Jalapa. It dates to 2001, when it was sold as Serie O Bold, and took its current name in 2006.",
+    "released": 2001,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-o/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-o.html",
+      "https://halfwheel.com/oliva-serie-o-classic-ovation/9727/"
+    ],
+    "notes": "Wrapper origin is disputed. Oliva's spec table and Holt's say Ecuador, but Oliva's own description still calls it a sun grown puro, and Neptune and Famous list a Nicaraguan wrapper. It was long sold as a Nicaraguan Habano puro.",
+    "verified": true,
+    "verifyNotes": "Replaced the flavor 'earth' (not in any source opened) with 'wood' from Holt's. Wrapper origin kept as Ecuador per Oliva's spec table and Holt's, but it is genuinely disputed: Oliva's own text says puro, and Neptune and Famous list Nicaraguan Habano."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Serie O Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Double Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "dark tobacco",
+      "spice",
+      "cedar",
+      "dark chocolate",
+      "espresso"
+    ],
+    "about": "The Serie O blend of Nicaraguan sun grown binder and filler finished with a Connecticut Broadleaf maduro wrapper. Oliva describes it as full-bodied but smooth.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-o-maduro/",
+      "https://www.neptunecigar.com/cigar/oliva-serie-o-maduro",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-o-maduro.html"
+    ],
+    "notes": "Oliva calls it full-bodied and Neptune lists full strength; Holt's lists medium-full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oliva",
+    "line": "Serie G",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Figurado",
+        "length": 6.5,
+        "ring": 60
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Toro Tubo",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Double Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Belicoso",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Special G",
+        "length": 3.75,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "coffee",
+      "nuts",
+      "black pepper"
+    ],
+    "about": "A medium-bodied Oliva line with an African Cameroon wrapper over Nicaraguan sun grown tobacco, sold mostly box-pressed. It debuted in 2006 after the Oliva Grand Cameroon was discontinued.",
+    "released": 2006,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-g/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-g.html",
+      "https://halfwheel.com/review-oliva-serie-g-maduro-belicoso/35530/"
+    ],
+    "notes": "Oliva and Holt's call it medium; Neptune lists it as mild.",
+    "verified": true,
+    "verifyNotes": "Reworded about to drop the unsourced 'value staples' line and to reflect that Oliva lists two round sizes. Specs confirmed."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Serie G Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Mexico",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Presidente",
+        "length": 8,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Perfecto",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Belicoso",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Special G",
+        "length": 3.75,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "spice",
+      "cedar",
+      "cocoa",
+      "coffee",
+      "black pepper"
+    ],
+    "about": "The maduro counterpart to the Cameroon-wrapped Serie G, box-pressed and medium-bodied. Oliva now lists a Mexican wrapper over Nicaraguan sun grown filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/serie-6-maduro/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-g-maduro.html",
+      "https://halfwheel.com/review-oliva-serie-g-maduro-belicoso/35530/"
+    ],
+    "notes": "Sources disagree on the wrapper: halfwheel's 2013 review listed Connecticut Broadleaf, while Oliva lists a Mexican wrapper that Holt's and Neptune call San Andrés. Oliva lists a Mexican binder; Neptune and halfwheel list Nicaraguan. Oliva lists the Torpedo at 6 x 52; retailers list 6.5 x 52.",
+    "verified": true,
+    "verifyNotes": "Rewrote notes: removed the claim that the blend changed and the Cigar Aficionado citation, neither of which could be confirmed. Binder kept as Mexico because Oliva's page says so, though it conflicts with Neptune and halfwheel."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Connecticut Reserve",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Mild-Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.5,
+        "ring": 44
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Toro Tubo",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Petit Corona",
+        "length": 4,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "wood",
+      "cream",
+      "almond",
+      "white pepper",
+      "cedar",
+      "coffee"
+    ],
+    "about": "Oliva's mellow Connecticut offering: an Ecuadorian Connecticut wrapper over Nicaraguan long filler and binder. It is pitched as an any-time-of-day smoke.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/connecticut-reserve/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-connecticut-reserve.html",
+      "https://www.neptunecigar.com/cigar/oliva-connecticut-reserve"
+    ],
+    "notes": "Oliva calls it medium-bodied but mellow; Holt's lists mild-medium strength and Neptune lists mild.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oliva",
+    "line": "Master Blends 3",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf (sun grown)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua (Habano)",
+    "filler": "Nicaragua (ligero)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "coffee",
+      "cream",
+      "earth",
+      "leather",
+      "brown sugar"
+    ],
+    "about": "The third release in Oliva's Master Blends series of small-batch blends, pairing Nicaraguan ligero with a sun grown Broadleaf wrapper. It came out in 2006, after Master Blends 1 in 2003 and Master Blends 2 in 2005.",
+    "released": 2006,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/master-blends-3/",
+      "https://halfwheel.com/review-oliva-master-blends-3-corona-gorda/35378/",
+      "https://www.holts.com/cigars/all-cigar-brands/oliva-master-blends-3.html"
+    ],
+    "notes": "Holt's lists medium-full strength; Neptune lists full. Oliva lists the Torpedo at 6.5 x 52, but halfwheel, Holt's and Neptune list 6 x 52. halfwheel and Holt's also list a 5 x 54 Double Robusto.",
+    "verified": true,
+    "verifyNotes": "Added halfwheel to the size note. Sizes kept as Oliva lists them; three other sources give the Torpedo as 6 x 52."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Saison",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Somoto, Esteli, Condega)",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "nutmeg",
+      "cocoa",
+      "leather",
+      "black pepper",
+      "coffee"
+    ],
+    "about": "A Cigars International exclusive made by Oliva, blended only from tobacco of a single crop year. It pairs an Ecuadorian Habano wrapper with Nicaraguan filler from Oliva's farms in Somoto, Esteli and Condega.",
+    "released": 2013,
+    "production": null,
+    "sources": [
+      "https://blindmanspuff.com/blind-cigar-review-oliva-saison-toro/"
+    ],
+    "notes": "A Cigars International exclusive made by Oliva. Only the 6 x 50 Toro could be confirmed. Strength and flavors come from a Blind Man's Puff panel review.",
+    "verified": true,
+    "verifyNotes": "Removed the Saison Maduro sentence from notes because no page that could be opened confirms it. Only one source (Blind Man's Puff) could be opened; the Cigars International page refuses automated requests, so there is no second source."
+  },
+  {
+    "brand": "Oliva",
+    "line": "Flor de Oliva",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Indonesian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Indonesia",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Presidente",
+        "length": 8,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.5,
+        "ring": 44
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "earth",
+      "wood",
+      "coffee",
+      "cream"
+    ],
+    "about": "Oliva's long-filler value bundle, with a Sumatra wrapper over aged Nicaraguan tobacco. It is sold in bundles of 20 and has Gold, Corojo and Maduro siblings.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/flor-de-oliva/",
+      "https://www.holts.com/cigars/all-cigar-brands/flor-de-oliva.html",
+      "https://www.neptunecigar.com/cigar/flor-de-oliva"
+    ],
+    "notes": "This entry is the original Sumatra-wrapped blend. Flor de Oliva Gold, Corojo and Maduro are separate blends with Ecuadorian wrappers.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oliva",
+    "line": "Gilberto Oliva Reserva",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Indonesian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Indonesia",
+    "binder": "Ecuador",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.75,
+        "ring": 43
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "dark tobacco",
+      "spice",
+      "earth",
+      "leather",
+      "cocoa",
+      "cream"
+    ],
+    "about": "A value-priced Oliva line named for family patriarch Gilberto Oliva Sr., with a dark Sumatra wrapper over an Ecuadorian binder and Nicaraguan filler. It was Oliva's first new line since 2012 when it shipped in 2017.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/gilberto-reserva/",
+      "https://halfwheel.com/oliva-gilberto-reserva-torpedo/174665/",
+      "https://www.neptunecigar.com/cigar/gilberto-oliva-reserva"
+    ],
+    "notes": "It was announced in 2016 as Facundo and renamed Gilberto before the 2017 release because of a trademark conflict with Bacardi.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oliva",
+    "line": "Gilberto Oliva Reserva Blanc",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A. (TABOLISA)",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.75,
+        "ring": 43
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [],
+    "about": "The Connecticut-wrapped sibling of the Gilberto Oliva Reserva, sharing its Ecuadorian binder and Nicaraguan filler. It began shipping in August 2017 in the same five sizes.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://olivacigar.com/cigars/gilberto-blanc/",
+      "https://halfwheel.com/oliva-gilberto-reserva-blanc-corona/175550/",
+      "https://www.neptunecigar.com/cigar/gilberto-oliva-reserva-blanc"
+    ],
+    "notes": "Neptune lists it as mild; halfwheel's review put the strength between mild and medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oliva",
+    "line": "Inferno",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": null,
+    "filler": "Nicaragua (ligero)",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "leather",
+      "earth",
+      "wood",
+      "spice"
+    ],
+    "about": "A ligero-heavy, full-bodied Nicaraguan puro that Oliva makes for Famous Smoke Shop, sold as Inferno by Oliva. It was introduced in 2012 and has since spawned Flashpoint, Melt, Scorch and other offshoots.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://www.famous-smoke.com/brand/inferno-by-oliva-cigars",
+      "https://www.famous-smoke.com/inferno-by-oliva-robusto-cigars-dark-natural",
+      "https://halfwheel.com/press-release-famous-smoke-shop-introduces-inferno-flashpoint-cigars/48208/"
+    ],
+    "notes": "Sold as Inferno by Oliva, a Famous Smoke Shop brand rather than part of Oliva's own catalog. Famous lists a Nicaraguan Habano wrapper and all-Nicaraguan tobacco but no separate binder. Flashpoint, Melt, Scorch, Singe and 3rd Degree are separate Inferno blends.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oliva",
+    "line": "Baptiste",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": null,
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Presidente",
+        "length": 7,
+        "ring": 52
+      },
+      {
+        "name": "Double Toro",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Torpedo",
+        "length": 5.5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "black coffee",
+      "pepper",
+      "spice",
+      "cocoa",
+      "cinnamon"
+    ],
+    "about": "A budget-priced, full-bodied blend Oliva makes for Famous Smoke Shop, sold as Baptiste by Oliva. The original has an Ecuadorian Habano wrapper over Nicaraguan long filler and launched in 2016.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://www.famous-smoke.com/brand-baptiste-habano",
+      "https://www.famous-smoke.com/oliva-baptiste-toro-cigars-natural",
+      "https://blindmanspuff.com/cigar-news-famous-smoke-announces-baptiste-oliva/"
+    ],
+    "notes": "Sold as Baptiste by Oliva, a Famous Smoke Shop exclusive rather than part of Oliva's own catalog. This entry is the original Habano blend; Famous also sells Baptiste Connecticut and Baptiste Maduro. The binder is not published. The 6 x 60 was first called Grand Robusto.",
+    "verified": true,
+    "verifyNotes": ""
+  }
+]

@@ -1,17 +1,34 @@
-import { Archive, Bookmark, Check, ChevronLeft, Pencil, Plus, Trash2 } from 'lucide-react'
+import {
+  Archive,
+  Bookmark,
+  Check,
+  ChevronLeft,
+  Pencil,
+  Plus,
+  ShieldCheck,
+  Trash2,
+} from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
 import { FlavorTags } from '../components/FlavorTags'
+import { LevelMeter } from '../components/LevelMeter'
 import { LotForm } from '../components/LotForm'
-import { WrapperDot } from '../components/Monogram'
+import { WrapperDot, WrapperSwatch } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { Sparkline } from '../components/Sparkline'
 import { showToast } from '../components/toast'
 import { WishForm } from '../components/WishForm'
 import { restoreRecord, saveRecord, softDelete, startLog, useStore } from '../data/store'
 import { priceLabel, wrapperOptions } from '../domain/cigars'
-import { cigarSubtitle, cigarTitle, formatDate, formatMinutes } from '../domain/format'
+import {
+  cigarSubtitle,
+  cigarTitle,
+  formatDate,
+  formatInches,
+  formatMinutes,
+  hostOf,
+} from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
 import { levelLabel, shownScore, verdictFor } from '../domain/scoring'
 import { smokeSize } from '../domain/sizes'
@@ -68,18 +85,50 @@ export function CigarPage({ id }: { id: string }) {
     if (size) sizes.set(size, (sizes.get(size) ?? 0) + 1)
   }
 
-  const facts: [string, string | null][] = [
-    ['Wrapper origin', cigar.wrapperOrigin],
+  type Row = [label: string, value: string | null]
+  const rows = (list: Row[]) => list.filter((row): row is [string, string] => Boolean(row[1]))
+  const wrapper = [cigar.wrapperLeaf ?? cigar.wrapperType, cigar.wrapperOrigin]
+    .filter(Boolean)
+    .filter((part, index, all) => all.indexOf(part) === index)
+  // The leaf description often already names the country, so do not say it twice.
+  const wrapperText =
+    cigar.wrapperLeaf && cigar.wrapperOrigin && cigar.wrapperLeaf.includes(cigar.wrapperOrigin)
+      ? cigar.wrapperLeaf
+      : wrapper.join(', ')
+  const blend = rows([
+    ['Wrapper', wrapperText || null],
     ['Binder', cigar.binder],
     ['Filler', cigar.filler],
-    ['Country made', cigar.country],
+  ])
+  const made = rows([
+    ['Made in', cigar.country],
     ['Factory', cigar.factory],
-    ['Strength', levelLabel(cigar.strength) || null],
+    ['Introduced', cigar.released ? String(cigar.released) : null],
+    [
+      'Production',
+      cigar.production === 'regular'
+        ? 'Regular production'
+        : cigar.production === 'limited'
+          ? 'Limited'
+          : cigar.production === 'discontinued'
+            ? 'Discontinued'
+            : null,
+    ],
     ['Price tier', priceLabel(cigar.priceTier) || null],
-    ['Size', cigarSubtitle(cigar) || null],
+    ['Your size', cigarSubtitle(cigar) || null],
     ['Shape', cigar.shape],
-  ]
-  const known = facts.filter(([, value]) => value)
+  ])
+  // One link per site is enough: two pages from the same site read as a repeat.
+  const sources = cigar.sources.filter(
+    (source, index, all) => all.findIndex((other) => hostOf(other) === hostOf(source)) === index,
+  )
+  const hasProfile = cigar.strength !== null || cigar.body !== null
+  const nothingKnown =
+    blend.length === 0 &&
+    made.length === 0 &&
+    !hasProfile &&
+    !cigar.about &&
+    cigar.sizes.length === 0
 
   async function log() {
     navigate(await startLog(id))
@@ -125,21 +174,28 @@ export function CigarPage({ id }: { id: string }) {
         )}
       </header>
 
-      {!cigar.confirmed && (
-        <div className="banner">
-          <p>
-            <strong>Unconfirmed.</strong> These details have not been checked against the cigar in
-            your hand.
-          </p>
-          <button
-            type="button"
-            className="btn btn-quiet"
-            onClick={() => void saveRecord('cigars', { ...cigar, confirmed: true })}
-          >
-            <Check size={20} strokeWidth={1.5} aria-hidden="true" />
-            Looks right
-          </button>
-        </div>
+      {cigar.checked ? (
+        <p className="checked-line">
+          <ShieldCheck size={20} strokeWidth={1.5} aria-hidden="true" />
+          Details checked against published sources
+        </p>
+      ) : (
+        !cigar.confirmed && (
+          <div className="banner">
+            <p>
+              <strong>Unconfirmed.</strong> These details have not been checked against a source or
+              the cigar in your hand.
+            </p>
+            <button
+              type="button"
+              className="btn btn-quiet"
+              onClick={() => void saveRecord('cigars', { ...cigar, confirmed: true })}
+            >
+              <Check size={20} strokeWidth={1.5} aria-hidden="true" />
+              Looks right
+            </button>
+          </div>
+        )
       )}
 
       <div className="detail-actions detail-actions-top">
@@ -179,22 +235,108 @@ export function CigarPage({ id }: { id: string }) {
         </p>
       )}
 
-      <section className="detail-section">
-        <h2>Details</h2>
-        {known.length === 0 ? (
+      {nothingKnown && (
+        <section className="detail-section">
+          <h2>Details</h2>
           <p className="muted">Nothing filled in yet. Tap Edit to add what you know.</p>
-        ) : (
-          <dl className="facts">
-            {known.map(([label, value]) => (
-              <div key={label}>
-                <dt>{label}</dt>
-                <dd>{value}</dd>
-              </div>
-            ))}
-          </dl>
+        </section>
+      )}
+
+      {cigar.about && (
+        <section className="detail-section">
+          <h2>About</h2>
+          <p>{cigar.about}</p>
+        </section>
+      )}
+
+      <div className="info-grid">
+        {hasProfile && (
+          <section className="detail-section">
+            <h2>Profile</h2>
+            <LevelMeter label="Strength" value={cigar.strength} />
+            {/* Few makers give body apart from strength, so it only shows when one does. */}
+            {cigar.body !== null && <LevelMeter label="Body" value={cigar.body} />}
+          </section>
         )}
-        {cigar.notes && <p className="detail-note">{cigar.notes}</p>}
-      </section>
+
+        {blend.length > 0 && (
+          <section className="detail-section">
+            <h2>Blend</h2>
+            <dl className="spec">
+              {blend.map(([label, value]) => (
+                <div key={label}>
+                  <dt>{label}</dt>
+                  <dd>
+                    {label === 'Wrapper' && <WrapperSwatch wrapper={cigar.wrapperType} />}
+                    {value}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          </section>
+        )}
+
+        {made.length > 0 && (
+          <section className="detail-section">
+            <h2>Where it is made</h2>
+            <dl className="spec">
+              {made.map(([label, value]) => (
+                <div key={label}>
+                  <dt>{label}</dt>
+                  <dd>{value}</dd>
+                </div>
+              ))}
+            </dl>
+          </section>
+        )}
+
+        {cigar.sizes.length > 0 && (
+          <section className="detail-section">
+            <h2>Sizes it comes in</h2>
+            <table className="sizes">
+              <thead>
+                <tr>
+                  <th scope="col">Size</th>
+                  <th scope="col">Length</th>
+                  <th scope="col">Ring</th>
+                </tr>
+              </thead>
+              <tbody>
+                {cigar.sizes.map((size) => (
+                  <tr key={`${size.name}-${size.lengthIn}-${size.ringGauge}`}>
+                    <th scope="row">{size.name}</th>
+                    <td className="num">
+                      {size.lengthIn ? `${formatInches(size.lengthIn)} in` : ''}
+                    </td>
+                    <td className="num">{size.ringGauge ?? ''}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </section>
+        )}
+      </div>
+
+      {cigar.flavors.length > 0 && (
+        <section className="detail-section">
+          <h2>Tasting notes, as published</h2>
+          <FlavorTags tags={cigar.flavors.map(normalizeTag)} className="flavors-boxed" />
+        </section>
+      )}
+
+      {cigar.researchNote && (
+        <section className="detail-section">
+          <h2>Good to know</h2>
+          <p className="wish-why">{cigar.researchNote}</p>
+        </section>
+      )}
+
+      {cigar.notes && (
+        <section className="detail-section">
+          <h2>Your notes</h2>
+          <p className="detail-note">{cigar.notes}</p>
+        </section>
+      )}
 
       <section className="detail-section">
         <h2>Your smokes</h2>
@@ -285,6 +427,21 @@ export function CigarPage({ id }: { id: string }) {
               </div>
             )}
           </dl>
+        </section>
+      )}
+
+      {cigar.sources.length > 0 && (
+        <section className="detail-section">
+          <h2>Sources</h2>
+          <ul className="sources">
+            {sources.map((source) => (
+              <li key={source}>
+                <a href={source} target="_blank" rel="noreferrer" className="text-link">
+                  {hostOf(source)}
+                </a>
+              </li>
+            ))}
+          </ul>
         </section>
       )}
 

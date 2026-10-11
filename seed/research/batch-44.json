@@ -1,0 +1,1153 @@
+[
+  {
+    "brand": "Partagas",
+    "line": "1845",
+    "found": true,
+    "officialName": "1845 Clásico",
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "cream",
+      "toast",
+      "nuts",
+      "coffee",
+      "cocoa"
+    ],
+    "about": "A non-Cuban Partagas from General Cigar that broke from the brand's usual Cameroon wrapper when it launched in 2012. It was reblended and renamed 1845 Clásico in 2017, and the maker now lists it as retired.",
+    "released": 2012,
+    "production": "discontinued",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/partagas-1845/",
+      "https://halfwheel.com/ipcpr-2017-general-cigar-co/166737/",
+      "https://cigar-coop.com/2017/08/cigar-news-revamped-partagas-1845-line-introduced-at-2017-ipcpr.html"
+    ],
+    "notes": "Blend shown is the 2017 Clásico reblend. The 2012 original used an Ecuadorian Habano Viso wrapper and Connecticut Habano binder, and the maker's site still lists that older blend. Neptune lists it as medium.",
+    "verified": true,
+    "verifyNotes": "No changes. 2017 blend, sizes, country and factory confirmed on halfwheel and Cigar Coop; medium to full is the maker's own body rating and Holt's agrees."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Serie D No. 4",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Cuban (Vuelta Abajo)",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Cuba",
+    "binder": "Cuba",
+    "filler": "Cuba",
+    "country": "Cuba",
+    "factory": null,
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.875,
+        "ring": 50
+      }
+    ],
+    "flavors": [],
+    "about": "A Cuban robusto from Habanos S.A. and the best known cigar in the Partagás Serie D range. Habanos rates the brand as full strength and blends it from Vuelta Abajo tobacco.",
+    "released": 1975,
+    "production": "regular",
+    "sources": [
+      "https://www.habanos.com/en/el-mundo-del-habano/las-marcas-de-habanos-academia/marca-partagas/",
+      "https://www.cigaraficionado.com/ratings/18923/name/partagas-serie-d-no-4-robusto",
+      "https://en.wikipedia.org/wiki/Partagás_(cigar_brand)"
+    ],
+    "notes": "This is one size (a 4 7/8 x 50 robusto) in the Cuban Partagás Serie D range, not a full line. It is the Cuban Partagás from Habanos S.A., a different product from the non-Cuban Partagas sold in the US. Habanos rates the brand full, while Cigar Aficionado has rated it medium. The 1975 release year comes from Wikipedia only.",
+    "verified": true,
+    "verifyNotes": "Set factory to null: Habanos does not name a factory for this cigar, and the factory in the researcher's halfwheel source belonged to the 2005 Reserva limited edition. Replaced that halfwheel link with a Cigar Aficionado rating of the regular cigar, which confirms 4 7/8 x 50 and Cuban tobacco. Full strength confirmed on habanos.com (Fuerte)."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Black Label",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Medio Tiempo (Connecticut Havana seed)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic (La Vega Especial)",
+    "filler": "Dominican Republic (Piloto Cubano ligero), Nicaragua (ligero)",
+    "country": "Dominican Republic",
+    "factory": null,
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Bravo",
+        "length": 4.5,
+        "ring": 54
+      },
+      {
+        "name": "Colossal",
+        "length": 4.5,
+        "ring": 60
+      },
+      {
+        "name": "Clasico",
+        "length": 5.25,
+        "ring": 54
+      },
+      {
+        "name": "Crystal",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Maximo",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Magnifico",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Piramide",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Prontos",
+        "length": 4.1875,
+        "ring": 36
+      }
+    ],
+    "flavors": [
+      "earth",
+      "nuts",
+      "anise",
+      "toast"
+    ],
+    "about": "The dark, full-bodied member of the non-Cuban Partagas family, built around a late-harvested Medio Tiempo wrapper and ligero-heavy Dominican and Nicaraguan filler. It is a current core line.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/black-label/",
+      "https://www.famous-smoke.com/brand/partagas-black-label-cigars",
+      "https://www.holts.com/cigars/all-cigar-brands/partagas-black-label.html"
+    ],
+    "notes": "The maker lists the wrapper as Connecticut Havana seed Medio Tiempo, while Holt's calls it Connecticut Broadleaf. The maker's text says full bodied but its body gauge reads medium to full. Famous, Holt's and Neptune all list it as full.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed against the maker, Famous and Holt's. Added the maker's medium to full gauge reading to notes."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Cifuentes",
+    "found": true,
+    "officialName": "Cifuentes Blend",
+    "wrapperLeaf": "Honduran",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Honduras",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Junio",
+        "length": 5.5,
+        "ring": 49
+      },
+      {
+        "name": "Julio",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Septiembre",
+        "length": 5.5,
+        "ring": 49
+      },
+      {
+        "name": "Octubre",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Noviembre",
+        "length": 6.5,
+        "ring": 45
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "earth",
+      "wood",
+      "nuts",
+      "cinnamon",
+      "chocolate"
+    ],
+    "about": "A non-Cuban Partagas from General Cigar that was sold in the mid-2000s, with sizes named after months of the year. Cigar Aficionado lists it as Dominican made with a Honduran wrapper over Nicaraguan binder and filler.",
+    "released": null,
+    "production": "discontinued",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/9946/name/partagas-cifuentes-blend-septiembre-toro",
+      "https://www.cigaraficionado.com/ratings/9947/name/partagas-cifuentes-blend-octubre-toro",
+      "https://www.cigaraficionado.com/ratings/9948/name/partagas-cifuentes-blend-noviembre-lonsdale"
+    ],
+    "notes": "Cigar Aficionado lists this as Partagas Cifuentes Blend and rated it from 2005 to 2007. The maker's site no longer lists it. Its tasting notes call two sizes a pressed maduro, but no leaf type is published. A separate 1990s cigar, Cifuentes by Partagas, was made in Jamaica with a Connecticut Shade wrapper.",
+    "verified": true,
+    "verifyNotes": "Changed found from false to true. Cigar Aficionado's ratings database has a Partagas Cifuentes Blend line; wrapper, binder, filler, country, strength and sizes are taken from five of its rating pages. No maker or halfwheel page was found, so the release year and factory are null and discontinued is inferred from its absence on the maker's site."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Original",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Mexico (San Andrés)",
+    "filler": "Dominican Republic (Piloto Cubano), Mexico",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 10",
+        "length": 7.5,
+        "ring": 49
+      },
+      {
+        "name": "Fabuloso",
+        "length": 7,
+        "ring": 52
+      },
+      {
+        "name": "No. 1",
+        "length": 6.75,
+        "ring": 43
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Toro Tubo",
+        "length": 6,
+        "ring": 49
+      },
+      {
+        "name": "Sabroso",
+        "length": 5.875,
+        "ring": 44
+      },
+      {
+        "name": "No. 2",
+        "length": 5.75,
+        "ring": 43
+      },
+      {
+        "name": "Naturales",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 49
+      },
+      {
+        "name": "Puritos",
+        "length": 4.1875,
+        "ring": 32
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "earth",
+      "sweetness",
+      "wood",
+      "nuts",
+      "spice"
+    ],
+    "about": "The classic non-Cuban Partagas, known for its Cameroon wrapper and yellow boxes. It is made in the Dominican Republic and remains the brand's core line.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/partagas/",
+      "https://halfwheel.com/partagas-adding-toro-to-classic-yellow-box-line/414016/",
+      "https://www.famous-smoke.com/brand/partagas-cigars"
+    ],
+    "notes": "The maker lists this core line simply as Partagás, and it is often called the Yellow Box line. The maker rates it mellow to medium, while Famous and Holt's list it as medium. Famous lists the Naturales at 49 ring, the maker and Holt's at 50.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed against the maker, halfwheel, Famous and Holt's. Reworded the Naturales note to cite the maker and Holt's, which I checked."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Legend",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Honduras (Olancho San Agustin)",
+    "filler": "Dominican Republic (Piloto Cubano)",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona Extra Leyenda",
+        "length": 5.25,
+        "ring": 44
+      },
+      {
+        "name": "Fabuloso Leyenda",
+        "length": 6.5,
+        "ring": 48
+      },
+      {
+        "name": "Toro Leyenda",
+        "length": 6.25,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "earth",
+      "leather",
+      "spice",
+      "sweetness"
+    ],
+    "about": "A box-pressed non-Cuban Partagas released in 2018 as a tribute to five men who shaped the brand, sold in white lacquered boxes. The maker now lists it as retired.",
+    "released": 2018,
+    "production": "discontinued",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/legend/",
+      "https://halfwheel.com/partagas-legend-fabuloso-leyenda/281087/",
+      "https://www.neptunecigar.com/cigars/partagas-legend-toro-leyenda"
+    ],
+    "notes": "The maker rates it full bodied, Cigar Aficionado medium to full, and Neptune medium. halfwheel lists the Corona Extra Leyenda at 5 1/2 inches, while the maker and Cigar Aficionado give 5 1/4.",
+    "verified": true,
+    "verifyNotes": "Changed Corona Extra Leyenda length from 5.5 to 5.25: the maker's site and Cigar Aficionado's rating both give 5 1/4 x 44, against halfwheel's 5 1/2."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Heritage",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Olancho San Agustin (viso)",
+    "wrapperCategory": "Colorado",
+    "wrapperOrigin": "Honduras",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Dominican Republic (Piloto Cubano), Honduras (Jamastran), Mexico (San Andrés)",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "cream",
+      "earth",
+      "oak",
+      "pepper",
+      "sweetness"
+    ],
+    "about": "A 2017 non-Cuban Partagas with a reddish Honduran wrapper, made as a look back at the brand's earlier blends. The maker now lists it as retired.",
+    "released": 2017,
+    "production": "discontinued",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/heritage/",
+      "https://halfwheel.com/partagas-heritage-rothschild/155094/",
+      "https://www.neptunecigar.com/cigars/partagas-heritage-robusto"
+    ],
+    "notes": "halfwheel lists the Gigante as 6 x 50, while the maker and Cigar Aficionado give 6 x 60.",
+    "verified": true,
+    "verifyNotes": "Changed Gigante ring gauge from 50 to 60: the maker's site and Cigar Aficionado's launch article both say 6 x 60; halfwheel's 6 x 50 looks like a typo."
+  },
+  {
+    "brand": "Partagas",
+    "line": "1845 Extra Fuerte",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Olancho San Agustin",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Honduras",
+    "binder": "USA (Connecticut Habano)",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6.5,
+        "ring": 45
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "spice",
+      "leather",
+      "cedar"
+    ],
+    "about": "The stronger offshoot of the Partagas 1845 line, first sold in 2014 as a brick and mortar exclusive and reblended in 2017. The maker now lists it as retired.",
+    "released": 2014,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/partagas-1845-extra-fuerte-robusto/175323/",
+      "https://www.cigarworld.com/cigars/partagas/1845-extra-fuerte/",
+      "https://www.neptunecigar.com/cigars/partagas-1845-extra-fuerte-robusto"
+    ],
+    "notes": "Blend shown is the 2017 reblend. The 2014 original used an Ecuadorian Habano ligero wrapper, and the maker's site still lists that older blend. The maker rates it medium to full, while Neptune lists it as full.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, sizes, country and factory confirmed on halfwheel and the maker's site; Neptune's full rating confirmed."
+  },
+  {
+    "brand": "Partagas",
+    "line": "1845 Extra Oscuro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Dominican Republic, Honduras, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "Rothschild",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "Churchill",
+        "length": 7.25,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "cherry",
+      "chocolate",
+      "molasses"
+    ],
+    "about": "The darkest and fullest version of the Partagas 1845 line, first sold in 2014 through catalog and online retailers and reblended in 2017. The maker now lists it as retired.",
+    "released": 2014,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/ipcpr-2017-general-cigar-co/166737/",
+      "https://www.cigarworld.com/cigars/partagas/1845-extra-oscuro/",
+      "https://www.neptunecigar.com/cigars/partagas-1845-extra-oscuro-robusto"
+    ],
+    "notes": "Blend shown is the 2017 reblend. The 2014 original used a Connecticut Habano Oscuro wrapper and Dominican La Vega Especial binder, and the maker's site still lists that older blend. Sources disagree on the Robusto and Rothschild dimensions.",
+    "verified": true,
+    "verifyNotes": "No changes. halfwheel gave no binder for the 2017 blend; the Connecticut Broadleaf binder is confirmed by Cigar Coop and Neptune. Sizes match the maker's site."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Cortado",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Indonesia",
+    "filler": "Honduras (Jamastran), Mexico (San Andrés), Nicaragua (Condega, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "STG Estelí",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Presidente",
+        "length": 8,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cream",
+      "sweetness",
+      "earth",
+      "spice"
+    ],
+    "about": "Released in 2021 as the first non-Cuban Partagas with a Connecticut Shade wrapper and the first made in Nicaragua. It is the mildest cigar in the current lineup.",
+    "released": 2021,
+    "production": "regular",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/cortado/",
+      "https://halfwheel.com/partagas-cortado-corona/401322/",
+      "https://www.famous-smoke.com/brand/partagas-cortado-cigars"
+    ],
+    "notes": "The maker's launch release called it mellow to medium and its site rates it mellow. Neptune lists it as mild and Famous as medium.",
+    "verified": true,
+    "verifyNotes": "Removed cedar from flavors: it is not in the maker's notes, halfwheel's review or the retailer descriptions I opened. Everything else confirmed."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Añejo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Barber pole of 1998 Cameroon and 2013 Connecticut Shade",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic (Vega Especial)",
+    "filler": "Dominican Republic (Piloto Cubano), Mexico (San Andrés)",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Petit Robusto",
+        "length": 4.5,
+        "ring": 49
+      },
+      {
+        "name": "Esplendido",
+        "length": 4.5,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "wood",
+      "leather",
+      "earth",
+      "grass"
+    ],
+    "about": "A 2022 non-Cuban Partagas and the brand's first barber pole, pairing a 1998 Cameroon wrapper with a strip of 2013 Connecticut Shade. It is sold in limited seasonal batches in two short sizes.",
+    "released": 2022,
+    "production": "limited",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/anejo/",
+      "https://halfwheel.com/partagas-combines-aged-wrappers-for-new-anejo-release/405320/",
+      "https://halfwheel.com/second-batch-of-partagas-anejo-arriving-in-early-october/414316/"
+    ],
+    "notes": "Two wrapper leaves are used: Cameroon is the main one, with Connecticut Shade as the contrasting stripe. The maker rates it mellow to medium, while Neptune lists it as medium.",
+    "verified": true,
+    "verifyNotes": "No changes. Confirmed against the maker and both halfwheel articles."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Limited Reserve Decadas",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Cameroon (aged about 10 years)",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Honduras (San Agustin)",
+    "filler": "Dominican Republic (Piloto Cubano), Nicaragua (Ometepe)",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto Extra (2019)",
+        "length": 5.5,
+        "ring": 49
+      },
+      {
+        "name": "Dalia (2020)",
+        "length": 6.75,
+        "ring": 43
+      }
+    ],
+    "flavors": [
+      "earth",
+      "leather",
+      "pepper"
+    ],
+    "about": "A limited non-Cuban Partagas built around a long-aged Cameroon wrapper and sold in glass tubes. General Cigar offered it from 2005 to 2009 and brought it back in 2019.",
+    "released": 2005,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/partagas-limited-reserve-decadas-2019-debuting-this-week/361305/",
+      "https://www.cigarworld.com/cigars/partagas/limited-reserve-decadas-2019/",
+      "https://halfwheel.com/general-cigar-co-announces-partagas-limited-reserve-decadas-2020/383135/"
+    ],
+    "notes": "Blend shown is the 2019 edition (2,500 boxes of 10). Each year is its own limited blend: the 2020 edition used a Mexican San Andrés binder with Dominican and Mexican filler.",
+    "verified": true,
+    "verifyNotes": "No changes. The 2019 article does not name a factory; Dominican Republic and General Cigar Dominicana are confirmed from halfwheel's article on the 2020 edition."
+  },
+  {
+    "brand": "Partagas",
+    "line": "Valle Verde",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Cameroon (2015 harvest)",
+    "filler": "Mexico (San Andrés), Nicaragua (Estelí ligero, Jalapa)",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Double Corona",
+        "length": 7.5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "cocoa",
+      "sweetness",
+      "black pepper"
+    ],
+    "about": "A 2023 non-Cuban Partagas with a Mexican San Andrés wrapper over a Cameroon binder, made in Honduras. It is a current regular production line.",
+    "released": 2023,
+    "production": "regular",
+    "sources": [
+      "https://www.cigarworld.com/cigars/partagas/valle-verde/",
+      "https://halfwheel.com/partagas-valle-verde-shipping-july-1/425210/",
+      "https://www.famous-smoke.com/brand/partagas-valle-verde-cigars"
+    ],
+    "notes": "The maker and Neptune rate it medium, while Famous lists it as full. A box-pressed Belicoso (6 1/2 x 52) was a limited size at launch.",
+    "verified": true,
+    "verifyNotes": "No changes. Confirmed against the maker, halfwheel and Famous."
+  },
+  {
+    "brand": "Patina",
+    "line": "Habano",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua, USA (Pennsylvania)",
+    "country": "Nicaragua",
+    "factory": "Nicaragua American Cigars S.A. (NACSA)",
+    "strength": "Medium",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Precipitation",
+        "length": 4,
+        "ring": 50
+      },
+      {
+        "name": "Rustic",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Copper",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Bronze",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Oxidation",
+        "length": 6,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "spice",
+      "pepper",
+      "earth",
+      "cream"
+    ],
+    "about": "One of the two debut lines from Mo Maali's Patina Cigars, released in 2017. It pairs an Ecuadorian Habano wrapper with Nicaraguan and Pennsylvania filler.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://www.patinacigars.com/cigars/",
+      "https://halfwheel.com/patina-habano-copper/176572/",
+      "https://halfwheel.com/patina-adds-precipitation-size-to-portfolio/368163/"
+    ],
+    "notes": "It launched at the Casa Favilli factory in Granada. halfwheel reported production at NACSA in Estelí by 2019, though some retailers still list Casa Favilli. The maker gives no strength rating: Neptune lists medium, and halfwheel's review had it building from medium to medium-full.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed against the maker, halfwheel and Neptune. Added the strength sources to notes."
+  },
+  {
+    "brand": "Patina",
+    "line": "Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua, USA (Pennsylvania)",
+    "country": "Nicaragua",
+    "factory": "Nicaragua American Cigars S.A. (NACSA)",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Precipitation",
+        "length": 4,
+        "ring": 50
+      },
+      {
+        "name": "Rustic",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Copper",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Bronze",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Oxidation",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Artifact",
+        "length": 7,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "spice",
+      "cream",
+      "sweetness"
+    ],
+    "about": "One of the two debut lines from Mo Maali's Patina Cigars, released in 2017. It uses an Ecuadorian Connecticut wrapper over Nicaraguan and Pennsylvania tobacco and is pitched as a Connecticut with some spice up front.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://www.patinacigars.com/cigars/",
+      "https://halfwheel.com/patina-connecticut-copper-heads-to-stores/464064/",
+      "https://www.neptunecigar.com/cigars/patina-connecticut-rustic"
+    ],
+    "notes": "It launched at the Casa Favilli factory in Granada and is now made at NACSA in Estelí. The mild rating comes from Neptune only. The Copper size was announced in 2025 and shipped in March 2026.",
+    "verified": true,
+    "verifyNotes": "Corrected the note on the Copper size: halfwheel reported it shipping in March 2026, not 2025. Swapped the halfwheel announcement link for the shipping article, which lists all six sizes and the factory."
+  },
+  {
+    "brand": "Patina",
+    "line": "Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Undisclosed maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": "Nicaragua American Cigars S.A. (NACSA)",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Precipitation",
+        "length": 4,
+        "ring": 50
+      },
+      {
+        "name": "Rustic",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Bronze",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Oxidation",
+        "length": 6,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "wood",
+      "earth"
+    ],
+    "about": "The third Patina line, added in April 2020 and made at NACSA in Estelí. Brand owner Mo Maali has not disclosed the blend.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/patina-maduro-rustic/376231/",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-patina-maduro-rustic/",
+      "https://www.patinacigars.com/cigars/"
+    ],
+    "notes": "The maker keeps the blend secret: wrapper, binder and filler are all undisclosed. Strength and body come from reviews: halfwheel put strength a little over medium, and most Developing Palates reviewers called it medium.",
+    "verified": true,
+    "verifyNotes": "Changed strength from Medium-Full to Medium: halfwheel's final call was medium-plus and three of four Developing Palates reviewers said medium or slightly above. Replaced the halfwheel news link with the Developing Palates review."
+  },
+  {
+    "brand": "PDR",
+    "line": "1878 Capa Natural",
+    "found": true,
+    "officialName": "1878 Recordando a Santiago Capa Natural",
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Criollo 98)",
+    "filler": "Dominican Republic (Criollo 98 seco and ligero)",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars (Tamboril)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Double Magnum",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "wood",
+      "herbs",
+      "sweetness"
+    ],
+    "about": "The Connecticut Shade version of PDR's value-priced 1878 line from Abe Flores, made in Tamboril with Dominican Criollo 98 binder and filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.pdrcigars.com/pdr-1878/capa-natural/",
+      "https://halfwheel.com/pdr-cigars-reblends-updates-1878-line-to-1878-recordando-a-santiago/384607/"
+    ],
+    "notes": "The 1878 line was reblended and renamed 1878 Recordando a Santiago in late 2020. The maker describes it as medium bodied.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, sizes and medium body confirmed on the maker's page; rename confirmed on halfwheel."
+  },
+  {
+    "brand": "PDR",
+    "line": "1878 Capa Oscura",
+    "found": true,
+    "officialName": "1878 Recordando a Santiago Capa Oscura",
+    "wrapperLeaf": "Ecuadorian Sun Grown Oscuro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Habano)",
+    "filler": "Dominican Republic (Corojo seco and ligero)",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars (Tamboril)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Double Magnum",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "earth",
+      "sweetness"
+    ],
+    "about": "The dark oscuro-wrapped version of PDR's value-priced 1878 line from Abe Flores, made in Tamboril with Dominican Habano binder and Corojo filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.pdrcigars.com/pdr-1878/capa-oscura/",
+      "https://halfwheel.com/pdr-cigars-reblends-updates-1878-line-to-1878-recordando-a-santiago/384607/"
+    ],
+    "notes": "The 1878 line was reblended and renamed 1878 Recordando a Santiago in late 2020. The wrapper is a dark sun grown Ecuadorian leaf, not a broadleaf. The maker describes it as medium bodied.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, sizes and medium body confirmed on the maker's page; rename confirmed on halfwheel."
+  },
+  {
+    "brand": "PDR",
+    "line": "1878 Capa Madura",
+    "found": true,
+    "officialName": "1878 Recordando a Santiago Capa Madura",
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Dominican Republic (Criollo 98)",
+    "filler": "Dominican Republic (Criollo 98 seco and ligero)",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars (Tamboril)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Double Magnum",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "wood",
+      "herbs",
+      "sweetness",
+      "spice"
+    ],
+    "about": "The San Andrés maduro version of PDR's value-priced 1878 line from Abe Flores, made in Tamboril with Dominican Criollo 98 binder and filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.pdrcigars.com/pdr-1878/capa-madura/",
+      "https://halfwheel.com/pdr-cigars-reblends-updates-1878-line-to-1878-recordando-a-santiago/384607/"
+    ],
+    "notes": "The 1878 line was reblended and renamed 1878 Recordando a Santiago in late 2020. The maker describes it as medium bodied.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, sizes and medium body confirmed on the maker's page; rename confirmed on halfwheel."
+  },
+  {
+    "brand": "PDR",
+    "line": "A. Flores Gran Reserva Corojo",
+    "found": true,
+    "officialName": "A. Flores 1975 Gran Reserva Corojo 2006",
+    "wrapperLeaf": "Dominican Corojo 2006",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Dominican Republic",
+    "binder": "Dominican Republic (Olor)",
+    "filler": "Dominican Republic (Corojo), Nicaragua (Habano)",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars (Tamboril)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Half Corona",
+        "length": 3.5,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Grand Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Double Magnum",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cream"
+    ],
+    "about": "A PDR line named for founder Abe Flores, first released in 2013 with a Dominican-grown Corojo 2006 wrapper. The maker describes it as medium bodied.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://www.pdrcigars.com/a-flores/gran-reserva-corojo-2006/",
+      "https://halfwheel.com/pca-2025-pdr-cigars/450616/",
+      "https://www.neptunecigar.com/cigars/a-flores-gran-reserva-corojo-robusto"
+    ],
+    "notes": "halfwheel reported in 2025 that the Gran Reserva lines were being renamed Gran Reserva Premier Cru with the same blends. The maker's spec list calls the Habano filler Dominican, while its description and halfwheel say Nicaraguan.",
+    "verified": true,
+    "verifyNotes": "Trimmed the maker's promotional wording out of about. All other fields confirmed against the maker, halfwheel and Neptune."
+  },
+  {
+    "brand": "PDR",
+    "line": "El Trovador",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Rosado",
+    "wrapperCategory": "Rosado",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (double binder)",
+    "filler": "Dominican Republic (ligero and viso)",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars (Tamboril)",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Petit Belicoso",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "coffee",
+      "leather",
+      "floral"
+    ],
+    "about": "A PDR line from Abe Flores introduced in 2016, whose name means troubadour. It comes in a Rosado version and a Maduro version, and the Rosado was a Robb Report Best of the Best pick in 2023.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://www.pdrcigars.com/el-trovador/et-natural/",
+      "https://halfwheel.com/pdr-cigars-adds-el-trovador-corona/400692/",
+      "https://www.neptunecigar.com/cigars/pdr-el-trovador-rosado-robusto"
+    ],
+    "notes": "Two versions exist: Rosado (shown here) and Maduro, which uses a Mexican San Andrés wrapper. It launched with Nicaraguan binder and filler. The maker now lists Dominican binder and filler, while Neptune still shows Nicaraguan. Neptune lists it as medium strength, Famous as full.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed against the maker, halfwheel and Neptune. Added Famous's full strength listing to notes."
+  }
+]

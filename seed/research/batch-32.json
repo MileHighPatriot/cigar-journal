@@ -1,0 +1,1134 @@
+[
+ {
+  "brand": "Gurkha",
+  "line": "Cellar Reserve 15 Year",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (aged 15 years)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Koi",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Solara",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Hedonism",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Kraken",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Prisoner",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Dominican cigar from Gurkha built around tobacco the company says is aged 15 years, sold in boxes styled like wine barrels. It launched as a brick and mortar exclusive.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/cellar-reserve-15-year/",
+   "https://halfwheel.com/gurkha-ipcpr-2011/",
+   "https://halfwheel.com/gurkha-ships-15-year-cellar-reserve/179742"
+  ],
+  "notes": "Gurkha's 2011 launch release listed the filler as Nicaraguan criollo; its site now says Dominican. A separate limited 6 x 52 15-Year Cellar Reserve from 2017, made for the line's tenth year, used an Ecuadorian rosado wrapper.",
+  "verified": true,
+  "verifyNotes": "Reworded the note on the 2017 limited toro: halfwheel calls it the 15-Year Cellar Reserve, not a 10th Anniversary. All fields match Gurkha's page and halfwheel."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Cellar Reserve 12 Year",
+  "found": true,
+  "officialName": "Cellar Reserve Platinum Edition 12 Year",
+  "wrapperLeaf": "Ecuadorian Oscuro",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "American Caribbean Tobacco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Solara",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Hedonism",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Kraken",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The Nicaraguan entry in Gurkha's Cellar Reserve family, with binder and filler tobacco the company says is aged up to 12 years. It comes in three thick sizes.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/cellar-reserve-platinum-edition-12-year/",
+   "https://halfwheel.com/gurkha-ships-cellar-reserve-platinum/98785/"
+  ],
+  "notes": "Gurkha calls the wrapper Ecuadorian oscuro and does not name the seed type. The factory is as reported at the 2015 launch.",
+  "verified": true,
+  "verifyNotes": "Set wrapperCategory to null (was Habano): Gurkha, halfwheel, Neptune and Mike's all say only Ecuadorian or Ecuadorian oscuro, and no page opened names a habano seed. Removed the unsupported note that retailers list it as Ecuador Habano."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Ghost",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "PDR Cigars",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Shadow",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Asura",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Exorcist",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Angel",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Spook",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "Phantom",
+    "length": 5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cinnamon",
+   "earth",
+   "sweetness"
+  ],
+  "about": "A dark Brazilian maduro wrapped cigar from Gurkha, made in the Dominican Republic and first shipped around Halloween 2012.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ghost-series/gurkha-ghost/",
+   "https://halfwheel.com/gurkha-announces-two-new-sizes-for-ghost/119148"
+  ],
+  "notes": "Gurkha's site currently lists three sizes: Shadow, Asura and Exorcist. Ghost Gold and Ghost Connecticut are separate blends.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Nicaragua Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Corojo 99, Criollo 98)",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa Leaf)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "leather",
+   "nuts",
+   "white pepper"
+  ],
+  "about": "A Nicaraguan puro made for Gurkha at the Aganorsa factory using Aganorsa tobacco. It was the first Gurkha made there and the company billed it as its fullest cigar to date.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/gurkha-nicaragua-series-toro/370881/",
+   "https://halfwheel.com/gurkha-nicaragua-series-ships/367072/",
+   "https://www.cigaraficionado.com/article/gurkha-nicaragua-series-heading-to-stores"
+  ],
+  "notes": "Limited to select retailers at its 2019 launch and not on Gurkha's current site. Gurkha first described the strength as medium to three-quarters and later called it its fullest cigar; Cigar Aficionado says medium to full.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Full to Medium-Full: Gurkha's own launch wording was medium to three-quarters (halfwheel, June 2019) and Cigar Aficionado and Neptune say medium to full. Rewrote the note to match."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Royal Challenge",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Habano)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 53
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "vanilla",
+   "cedar",
+   "almond",
+   "spice"
+  ],
+  "about": "Gurkha's Connecticut shade cigar, introduced in 2011 as a brick and mortar exclusive at a modest price. It got new packaging in 2022 with the blend unchanged.",
+  "released": 2011,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/gurkha-royal-challenge-gets-new-packaging/405412/",
+   "https://halfwheel.com/gurkha-ipcpr-2011/",
+   "https://mikescigars.com/brands/gurkha-royal-challenge"
+  ],
+  "notes": "Retailers disagree on where it is rolled: Mike's Cigars says Dominican Republic and Neptune says Nicaragua. Gurkha's current site does not list the line, though retailers still sell it. The Royal Challenge Maduro (2015) has been discontinued.",
+  "verified": true,
+  "verifyNotes": "Set country to null (was Dominican Republic): Mike's says Dominican Republic, Neptune says Nicaragua, and Gurkha's current site does not list the line. Set production to null for the same reason. Trimmed flavors to the words on Mike's page (caramel and citrus came from a Neptune page not in sources). Corrected the note, which misstated what Neptune lists."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Beauty",
+  "found": true,
+  "officialName": "The Beauty",
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "XO",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chestnut",
+   "vanilla",
+   "caramel",
+   "cream"
+  ],
+  "about": "A mild Connecticut wrapped Dominican cigar from Gurkha. It is sold in frosted tubes in boxes of 25.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/the-beauty/",
+   "https://www.neptunecigar.com/gurkha-beauty-cigar"
+  ],
+  "notes": "Gurkha's site says only Connecticut for the wrapper; Neptune specifies Ecuadorian Connecticut Shade. Gurkha lists one size, the XO. The 25th Anniversary Beauty is a separate cigar.",
+  "verified": true,
+  "verifyNotes": "Reworded about: no page opened describes it as a partner to The Beast."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Beast",
+  "found": true,
+  "officialName": "The Beast",
+  "wrapperLeaf": "Costa Rican Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua, Honduras",
+  "country": "Costa Rica",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "XO",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweet spice",
+   "earth"
+  ],
+  "about": "A Gurkha cigar with a dark Costa Rican maduro wrapper, rolled in Costa Rica and sold in black lacquered boxes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/ultra-premium/the-beast/",
+   "https://www.neptunecigar.com/gurkha-beast-cigar"
+  ],
+  "notes": "Gurkha says only 1,000 boxes are made a year and lists one size, the XO.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop the unsupported pairing with The Beauty. Removed the note that Neptune rates it full strength: Neptune's page gives no rating and its sampler text says medium to full."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Grand Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cognac"
+  ],
+  "about": "Gurkha's flagship cognac infused cigar, a Dominican blend under a Connecticut Shade wrapper. Each cigar comes in a glass tube sealed with wax.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://gurkhacigars.com/cigar-collections/core-brands/grand-reserve/",
+   "https://www.neptunecigar.com/gurkha-grand-reserve-cigar"
+  ],
+  "notes": "Gurkha's site lists the strength as medium to full, but Neptune describes it as mild bodied. Neptune lists the wrapper as US-grown Connecticut Shade and the origin as Honduras; Gurkha says Dominican Republic.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Evil",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic",
+  "filler": "Nicaragua",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 53
+   },
+   {
+    "name": "XO",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "toast",
+   "roasted nuts",
+   "floral",
+   "spice"
+  ],
+  "about": "A Gurkha blend with a dark Brazilian maduro wrapper over a Dominican binder and Nicaraguan filler. Cigar Aficionado scored the Torpedo 90 points in 2010.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.cigaraficionado.com/ratings/14514/name/gurkha-evil-torpedo",
+   "https://www.neptunecigar.com/cigars/gurkha-evil-toro",
+   "https://mikescigars.com/gurkha-evil-toro"
+  ],
+  "notes": "Sources disagree on where it is rolled: Cigar Aficionado says Dominican Republic, Neptune says Honduras, and Mike's lists Nicaragua on one size and Dominican Republic on another. Cigar Coop names the wrapper as Brazilian Mata Fina. Not on Gurkha's current site. Pure Evil is a separate blend.",
+  "verified": true,
+  "verifyNotes": "Fields kept. Added to the note that Cigar Coop names the wrapper Brazilian Mata Fina and that Mike's lists two different countries. Retailers split between medium-full and full on strength. Churchill length is 7 1/2 on Neptune but 7 on Cigar Coop."
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Centurian",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Cameroon",
+  "filler": "Cuban-seed ligero",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Perfecto",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Gurkha double perfecto made in the Dominican Republic. Neptune Cigar repeats the story that the blend was first made for the Sultan of Brunei.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigars/gurkha-centurian-double-perfecto",
+   "https://www.neptunecigar.com/gurkha-centurian-cigar"
+  ],
+  "notes": "Blend details come from Neptune's listing only; Gurkha does not list it. Neptune describes the wrapper as Connecticut Shade but colorado maduro in color, so it is darker than a typical Connecticut.",
+  "verified": true,
+  "verifyNotes": "Changed filler to Cuban-seed ligero: Neptune does not give a country for it. Removed the Cigars International link, which returned HTTP 403 and could not be checked. Reworded about and note to name Neptune as the only source read."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "1844 Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Cubano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Demitasse",
+    "length": 5.25,
+    "ring": 33
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Corona Major (Tube)",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "The core non-Cuban H. Upmann from Altadis U.S.A., rolled in the Dominican Republic with an Ecuadorian wrapper. It was repackaged in 2020 with the blend unchanged.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-1844-reserve/",
+   "https://halfwheel.com/altadis-u-s-a-updating-h-upmann-1844-reserve-and-vintage-cameroon-packaging/374139/",
+   "https://www.neptunecigar.com/h-upmann-1844-reserve-cigar"
+  ],
+  "notes": "Altadis calls the wrapper Ecuadorian Cubano; Neptune lists it as Ecuadorian Habano. Altadis lists the Demitasse at 5 1/4 inches; halfwheel reported 5 1/2.",
+  "verified": true,
+  "verifyNotes": "Corrected the note on the Demitasse length to the two figures actually found (5 1/4 on Altadis, 5 1/2 on halfwheel)."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "1844 Añejo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Pennsylvania Broadleaf)",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Flor de Copan",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Honduran made H. Upmann from Altadis U.S.A. in which every tobacco is aged at least five years. It joined the repackaged 1844 line in 2020.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-anejo/",
+   "https://halfwheel.com/altadis-u-s-a-plans-h-upmann-1844-anejo/373919/",
+   "https://mikescigars.com/brands/h-upmann-1844-anejo"
+  ],
+  "notes": "Altadis and Mike's Cigars call it medium to full; Neptune rates it full.",
+  "verified": true,
+  "verifyNotes": "Emptied flavors (was wood, leather, citrus): none of Altadis, halfwheel, Cigar Aficionado, Mike's or Neptune gives those tasting notes."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Vintage Cameroon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua, Peru",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.625,
+    "ring": 44
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "roasted nuts",
+   "dried fruit",
+   "wood",
+   "earth",
+   "pepper",
+   "leather"
+  ],
+  "about": "A Dominican made H. Upmann from Altadis U.S.A. wrapped in aged Cameroon leaf, a nod to the wrapper the non-Cuban brand used in its early days. It is part of the 1844 line.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-vintage-cameroon/",
+   "https://halfwheel.com/altadis-u-s-a-updating-h-upmann-1844-reserve-and-vintage-cameroon-packaging/374139/",
+   "https://mikescigars.com/brands/h-upmann-vintage-cameroon"
+  ],
+  "notes": "Also written as 1844 Vintage Cameroon since the 2020 repackaging. Mike's Cigars lists the strength as full, while Altadis and Neptune call it medium.",
+  "verified": true,
+  "verifyNotes": "Set factory to null (was Tabacalera de Garcia): no page opened names the factory for this line. Added to the note that Mike's lists the strength as full. Earth, pepper and leather come from Neptune's product page."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "The Banker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Currency",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Annuity",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Arbitrage",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "coffee",
+   "leather"
+  ],
+  "about": "A Dominican made H. Upmann from Altadis U.S.A. released in 2014, sold on the story of the cigar the Upmann brothers kept in their bank vault for favored clients.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-the-banker/",
+   "https://halfwheel.com/press-release-altadis-u-s-announces-banker/52663/",
+   "https://mikescigars.com/brands/h-upmann-the-banker"
+  ],
+  "notes": "Retailers rate it medium; Altadis describes it as robust and full flavored. The Banker Daytrader is a separate line.",
+  "verified": true,
+  "verifyNotes": "Dropped the word later from the Daytrader note; its date was not checked."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "by AJ Fernandez",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Criollo 98), Dominican Republic (Piloto Cubano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro Tube",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cedar",
+   "coffee",
+   "hazelnut",
+   "spice"
+  ],
+  "about": "An H. Upmann blended and rolled by AJ Fernandez in Estelí for Altadis U.S.A., launched in 2017. Altadis credits it with strong growth for the brand.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-aj-fernandez/",
+   "https://halfwheel.com/altadis-u-s-a-announces-h-upmann-nicaragua-by-aj-fernandez-papi/299522/",
+   "https://mikescigars.com/brands/h-upmann-by-aj-fernandez"
+  ],
+  "notes": "Also sold as H. Upmann Nicaragua by AJ Fernandez; it is the same cigar. Neptune rates it medium. A 4 x 38 Papi in tins was added in 2019.",
+  "verified": true,
+  "verifyNotes": "Reworded about: the claim that it was one of the first Cuban heritage brands he made is not supported by the sources."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Nicaragua by AJ Fernandez",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Corojo 99)",
+  "filler": "Nicaragua (Criollo 98), Dominican Republic (Piloto Cubano)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro Tube",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cedar",
+   "coffee",
+   "hazelnut",
+   "spice"
+  ],
+  "about": "The Sumatra wrapped H. Upmann made by AJ Fernandez in Estelí for Altadis U.S.A., launched in 2017. It is the same cigar that is also labeled H. Upmann by AJ Fernandez.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/h-upmann-nicaragua-by-aj-fernandez-gets-belicoso/267553/",
+   "https://halfwheel.com/altadis-u-s-a-announces-h-upmann-nicaragua-by-aj-fernandez-papi/299522/",
+   "https://www.altadisusa.com/cigars/h-upmann/h-upmann-aj-fernandez/"
+  ],
+  "notes": "Same cigar as H. Upmann by AJ Fernandez; both names are used. Do not confuse it with H. Upmann Nicaragua AJ Fernandez Heritage, a different blend with a Brazilian Mata Fina wrapper.",
+  "verified": true,
+  "verifyNotes": "Removed the unverified 2022 date for the Heritage line from the note; its Mata Fina wrapper is confirmed on Altadis's page."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "wood",
+   "roasted nuts",
+   "coffee"
+  ],
+  "about": "A Connecticut wrapped H. Upmann blended by Altadis U.S.A.'s Grupo de Maestros and rolled in La Romana. It was pitched as bolder than a typical Connecticut and has a dark maduro cap.",
+  "released": 2018,
+  "production": null,
+  "sources": [
+   "https://www.cigaraficionado.com/article/a-connecticut-h-upmann-with-some-strength",
+   "https://mikescigars.com/brands/h-upmann-connecticut"
+  ],
+  "notes": "Full name is H. Upmann Connecticut by Grupo de Maestros. It is no longer listed on Altadis U.S.A.'s site, though some retailers still stock it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Legacy",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra (2008 crop)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": "Flor de Copan",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "citrus peel"
+  ],
+  "about": "An H. Upmann line extension from Altadis U.S.A. launched in 2013, made in Honduras with a dark Ecuadorian Sumatra wrapper. It was billed as a bolder take on the brand.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/h-upmann-legacy-slated-february/34596/",
+   "https://www.neptunecigar.com/cigars/h-upmann-legacy-toro",
+   "https://www.neptunecigar.com/h-upmann-legacy-cigar"
+  ],
+  "notes": "No longer listed on Altadis U.S.A.'s site and out of stock at retailers checked, so it appears to be out of production. Neptune's product pages say medium, its line page says medium to full.",
+  "verified": true,
+  "verifyNotes": "Removed cedar from flavors: it appears only in Neptune's customer review tags, not in a published tasting note."
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Herman's Batch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua (Condega, Estelí)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper"
+  ],
+  "about": "An H. Upmann from Altadis U.S.A. released in 2019 as a tribute to brand founder Hermann Upmann. It was blended by Rafael Nodal with the Grupo de Maestros and every size has a pigtail cap.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/h-upmann-hermans-batch-coming-to-stores-this-month/368084/",
+   "https://www.neptunecigar.com/cigars/h-upmann-herman-s-batch-toro",
+   "https://mikescigars.com/brands/h-upmann-herman-s-batch"
+  ],
+  "notes": "No longer listed on Altadis U.S.A.'s site and Neptune marks it discontinued, though some retailers still have stock.",
+  "verified": true,
+  "verifyNotes": "Fields kept. Added to the note that Neptune marks it discontinued."
+ },
+ {
+  "brand": "Henry Clay",
+  "line": "Stalk Cut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (stalk cut, 2012 crop)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic (Piloto)",
+  "filler": "Dominican Republic (Olor, Piloto), Nicaragua (Criollo)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de Garcia",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gran Corona",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "oak",
+   "earth",
+   "cocoa",
+   "black pepper",
+   "nuts"
+  ],
+  "about": "A box pressed Henry Clay from Altadis U.S.A.'s Grupo de Maestros, released in 2016 as the regular production follow up to the Henry Clay Tattoo. The name refers to the way broadleaf is harvested by cutting the whole plant.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/henry-clay-stalk-cut-toro/107086/",
+   "https://www.neptunecigar.com/cigars/henry-clay-stalk-cut-toro",
+   "https://mikescigars.com/brands/henry-clay-stalk-cut"
+  ],
+  "notes": "Retailers list it as full, but halfwheel's reviewer found it stayed around medium. It is no longer on Altadis U.S.A.'s site and Neptune marks it discontinued, though some retailers still have stock.",
+  "verified": true,
+  "verifyNotes": "Fields kept. Added to the note that Neptune marks it discontinued."
+ },
+ {
+  "brand": "Henry Clay",
+  "line": "War Hawk",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Flor de Copan",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "almond",
+   "cream",
+   "hay",
+   "espresso",
+   "cocoa"
+  ],
+  "about": "A Henry Clay from Altadis U.S.A. launched in 2019 that breaks with the brand's habit of broadleaf wrappers, putting the broadleaf on the binder under an Ecuadorian Connecticut wrapper. It is rolled in Honduras.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/henry-clay/henry-clay-war-hawk/",
+   "https://halfwheel.com/henry-clay-war-hawk-toro/299102/",
+   "https://halfwheel.com/altadis-u-s-a-announces-henry-clay-war-hawk-churchill/416841/"
+  ],
+  "notes": "Altadis and retailers list the Corona at 5 x 44; halfwheel reported 5 1/2 x 44 at launch. Neptune says it is made in the Dominican Republic, but the maker says Honduras. War Hawk Rebellious is a separate limited edition.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Henry Clay",
+  "line": "Rustic Cheroot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Broadleaf",
+  "filler": "Dominican Republic, Honduras",
+  "country": "Honduras",
+  "factory": "Flor de Copan",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cheroot",
+    "length": 5.625,
+    "ring": 38
+   }
+  ],
+  "flavors": [],
+  "about": "A slim, rough looking Henry Clay from Altadis U.S.A. with a pigtail cap and closed foot, sold in one size. Its filler uses second growth leaves the company calls capa dura.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/henry-clay/henry-clay-rustic-cheroot/",
+   "https://halfwheel.com/henry-clay-rustic-cheroot-gets-national-distribution/254669/",
+   "https://www.neptunecigar.com/cigars/henry-clay-rustic-cheroot"
+  ],
+  "notes": "Altadis lists a broadleaf binder; halfwheel reported a Honduran binder at launch and Neptune says Dominican. Altadis gives no strength rating, only that it is a robust, stronger blend; Neptune says medium on one page and full bodied on another.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

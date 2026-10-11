@@ -1,0 +1,1115 @@
+[
+ {
+  "brand": "Camacho",
+  "line": "Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Machitos",
+    "length": 4,
+    "ring": 32
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "cayenne",
+   "leather",
+   "spice"
+  ],
+  "about": "Camacho's flagship line, a Honduran puro made entirely from Corojo tobacco grown in the Jamastran Valley. It launched in 2000 under the Eiroa family and is now made by Davidoff's Camacho factory in Danli.",
+  "released": 2000,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/camacho-corojo-diademas-2001/385755/",
+   "https://www.famous-smoke.com/brand/camacho-corojo-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/camacho-corojo.html"
+  ],
+  "notes": "Famous Smoke and Holt's list it Full; Neptune lists it Medium. The blend was tweaked in the 2013 rebrand but stayed an all-Corojo Honduran puro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras, Dominican Republic",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Machitos",
+    "length": 4,
+    "ring": 32
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cedar",
+   "pepper",
+   "spice",
+   "earth"
+  ],
+  "about": "Camacho's milder offering, introduced in mid-2009 with an Ecuadorian Connecticut Shade wrapper over a Honduran Corojo binder. It was built for smokers who want something lighter than the brand's usual full-strength cigars.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/press-release-bold-honduran-smokes-convenient-4-packs/26388/",
+   "https://www.neptunecigar.com/camacho-cigar",
+   "https://www.holts.com/cigars/all-cigar-brands/camacho-connecticut.html"
+  ],
+  "notes": "Holt's and Neptune list it Medium; Famous Smoke lists it Mild-Medium. Camacho itself called it a medium-bodied smoke.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Criollo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Criollo '98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Corojo",
+  "filler": "Honduras (Criollo), Dominican Republic (Piloto Cubano)",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gigante",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "nuts",
+   "leather",
+   "spice"
+  ],
+  "about": "A medium-strength Camacho with a Honduran-grown Criollo wrapper over a Corojo binder. It was sold as Camacho Havana before the 2013 rebrand and was cut from the portfolio in 2022.",
+  "released": 2013,
+  "production": "discontinued",
+  "sources": [
+   "https://www.neptunecigar.com/camacho-cigar",
+   "https://www.holts.com/cigars/all-cigar-brands/camacho-criollo.html",
+   "https://halfwheel.com/four-camacho-lines-discontinued-as-davidoff-trims-portfolio/414688/"
+  ],
+  "notes": "Called Camacho Havana until the 2013 rebrand, when it was renamed Criollo and reblended. Davidoff discontinued it in October 2022. Holt's lists the filler as Nicaraguan and Honduran; Neptune lists Honduran and Dominican.",
+  "verified": true,
+  "verifyNotes": "Binder changed from 'Honduras (Corojo)' to 'Corojo': Neptune names the leaf but no source opened states where the binder is grown. Wrapper, country, strength, sizes and the 2022 discontinuation confirmed on Neptune, Holt's and halfwheel."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Ecuador",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Mata Fina)",
+  "filler": "Honduras, Dominican Republic (Pelo de Oro ligero)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Figurado",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "earth",
+   "leather",
+   "spice",
+   "floral",
+   "citrus"
+  ],
+  "about": "A 2014 addition to Camacho's core range built around an Ecuadorian Habano wrapper and a Brazilian Mata Fina binder. The filler pairs high-priming Honduran leaf with Dominican Pelo de Oro ligero.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/press-release-camacho-ecuador-coming-month/57647/",
+   "https://www.neptunecigar.com/camacho-cigar",
+   "https://www.famous-smoke.com/brand/camacho-ecuador-cigars"
+  ],
+  "notes": "Camacho's launch release called it medium-to-full; Neptune lists it Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Triple Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Corojo maduro",
+  "filler": "Brazil, Honduras, Dominican Republic (all maduro)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "coffee",
+   "espresso",
+   "wood",
+   "raisin"
+  ],
+  "about": "A Camacho made with maduro leaf in every part of the cigar: wrapper, binder and filler. It is rolled in Honduras and is one of the brand's darkest and heaviest core lines.",
+  "released": 2007,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/camacho-cigar",
+   "https://www.holts.com/cigars/all-cigar-brands/camacho-triple-maduro.html",
+   "https://www.famous-smoke.com/brand/camacho-triple-maduro-cigars"
+  ],
+  "notes": "Holt's and Neptune list it Full; Famous Smoke lists it Medium-Full.",
+  "verified": true,
+  "verifyNotes": "Set released to 2007 (Famous Smoke says it was introduced in 2007; only source found). Binder changed from 'Honduras (Corojo maduro)' to 'Corojo maduro' because no source states the binder's country. Removed the note that the blend was unchanged in the 2013 rebrand: halfwheel's rebrand article does not say that. Factory is not on the listed pages; it rests on halfwheel's reporting that Camacho's Honduran cigars are made at Diadema (halfwheel.com/visit-camp-camacho/262377)."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras, Dominican Republic",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "cream",
+   "earth",
+   "leather",
+   "oak"
+  ],
+  "about": "Released in September 2023, this is the first Camacho to use a Honduran-grown broadleaf wrapper. The binder is Honduran and the filler is Honduran and Dominican.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/camacho-broadleaf-toro/430635/",
+   "https://halfwheel.com/camacho-spotlights-honduran-broadleaf-with-new-line-debuting-in-september/427800/",
+   "https://www.holts.com/cigars/all-cigar-brands/camacho-broadleaf.html"
+  ],
+  "notes": "The maker calls it medium intensity; Famous Smoke and Holt's list it Medium-Full. The wrapper is broadleaf grown in Honduras, not Connecticut. Binder and filler varietals are not disclosed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "American Barrel-Aged",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "American Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "United States (Broadleaf)",
+  "filler": "United States (Broadleaf, Pennsylvania maduro), Honduras (barrel-aged Corojo)",
+  "country": "Dominican Republic",
+  "factory": "O.K. Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedo Corto",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Perfecto Gordo",
+    "length": 5.9375,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo Largo",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "oak",
+   "caramel",
+   "cocoa",
+   "earth",
+   "leather"
+  ],
+  "about": "Launched in 2015 as the first Camacho made in the Dominican Republic, with mostly American tobacco. One Honduran Corojo filler leaf is aged for five months in used bourbon barrels.",
+  "released": 2015,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/camacho-american-barrel-aged-toro-2/119866/",
+   "https://halfwheel.com/camacho-american-barrel-aged-launching-in-june/84302/",
+   "https://halfwheel.com/four-camacho-lines-discontinued-as-davidoff-trims-portfolio/414688/"
+  ],
+  "notes": "Davidoff discontinued the line in October 2022. Only one filler leaf is barrel-aged, not the whole blend. Neptune lists it Full; Holt's lists it Medium-Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Camacho",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gran Churchill",
+    "length": 7,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "leather",
+   "oak",
+   "espresso",
+   "black pepper",
+   "earth",
+   "hay"
+  ],
+  "about": "A 2020 core line meant to show Nicaraguan flavor, though it is rolled in Honduras and only part of the filler is Nicaraguan. The wrapper is from Ecuador and the binder from Honduras.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/camacho-nicaragua-toro/380810/",
+   "https://www.famous-smoke.com/brand/camacho-nicaragua-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/camacho-nicaragua.html"
+  ],
+  "notes": "Despite the name it is made in Honduras with an Ecuadorian wrapper; the wrapper varietal is not published. Famous Smoke and Holt's list it Medium-Full; Neptune lists it Full. halfwheel's review found it just under medium.",
+  "verified": true,
+  "verifyNotes": "Added halfwheel's strength finding to notes. All other fields confirmed on halfwheel, Famous Smoke and Holt's."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Diploma",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Corojo)",
+  "filler": "Honduras (Corojo)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "11/18",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "toast",
+   "leather",
+   "earth",
+   "nuts",
+   "coffee",
+   "white pepper"
+  ],
+  "about": "A Honduran puro from Camacho made only from high-priming Corojo leaves. The regular line ended in 2015 and it returned in 2017 as the limited Diploma Special Selection, sold in individual coffins.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/camacho-diploma-special-selection-2/382483/",
+   "https://halfwheel.com/camacho-diploma-returns-next-month/179605/",
+   "https://www.neptunecigar.com/camacho-cigar"
+  ],
+  "notes": "Today it is sold as the limited Diploma Special Selection. The 2013 to 2015 version used an Ecuadorian Habana 2000 wrapper instead of Corojo. halfwheel found it medium-full; Neptune lists it Full.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'top-shelf'. Blend, factory and strength confirmed on halfwheel; the 6 x 54 11/18 size confirmed on Neptune. No source found for the original release year, so released stays null."
+ },
+ {
+  "brand": "Camacho",
+  "line": "Coyolar",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Criollo",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Perfecto #1",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Figurado",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Titan",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Super Toro",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "earth",
+   "cocoa",
+   "dark chocolate",
+   "raisin"
+  ],
+  "about": "A Honduran puro made with tobacco from a single 15-acre plot on the Coyolar farm. First released in 2005, it was dropped in 2013, brought back in 2018 with Criollo leaf, and discontinued again in 2022.",
+  "released": 2005,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/camacho-coyolar-rothschild-2018/267982/",
+   "https://halfwheel.com/camacho-coyolar-returning/261141/",
+   "https://halfwheel.com/four-camacho-lines-discontinued-as-davidoff-trims-portfolio/414688/"
+  ],
+  "notes": "The 2018 version uses Criollo tobacco rather than Camacho's usual Corojo. Davidoff discontinued it in October 2022.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Magna",
+  "line": "Colorado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (colorado shade)",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Esteli, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pikito",
+    "length": 4.75,
+    "ring": 42
+   },
+   {
+    "name": "Torito",
+    "length": 4.75,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Gigantor",
+    "length": 6,
+    "ring": 64
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "raisin",
+   "earth",
+   "black pepper"
+  ],
+  "about": "A Nicaraguan puro created by Manuel Quesada with Nestor Plasencia and released in 2008. Its Robusto was named Cigar Aficionado's Cigar of the Year for 2008.",
+  "released": 2008,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/review-casa-magna-colorado-gigantores-2/26791/",
+   "https://www.neptunecigar.com/casa-magna-cigar",
+   "https://www.famous-smoke.com/brand/casa-magna-colorado-cigars"
+  ],
+  "notes": "Owned by Quesada Cigars and rolled by Plasencia in Esteli, Nicaragua. Famous Smoke lists the wrapper leaf as Habano; the line is named for the wrapper's colorado shade.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf changed from 'Nicaraguan Cuban-seed Colorado (Jalapa)' to what the retailers list for the regular line: the Jalapa shade-grown description came from halfwheel's review of the limited 2023 Lancero. Replaced that Lancero review in sources with halfwheel's Casa Magna Colorado review, which states the 2008 release and the Plasencia Cigars S.A. factory, and dropped the Lancero sentence from notes. wrapperCategory left as Colorado; Habano would also be defensible."
+ },
+ {
+  "brand": "Casa Magna",
+  "line": "Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill Gordo",
+    "length": 6.625,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "cocoa",
+   "black pepper",
+   "dark chocolate"
+  ],
+  "about": "The darker, fuller follow-up to Casa Magna Colorado, made by Manuel Quesada with Nestor Plasencia. It uses a dark Honduran wrapper and binder over Nicaraguan and Honduran filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/casa-magna-oscuro-cigar",
+   "https://www.famous-smoke.com/brand/casa-magna-oscuro-cigars",
+   "https://mikescigars.com/casa-magna-oscuro-churchill-gordo"
+  ],
+  "notes": "Sources disagree on where it is rolled: Famous Smoke and Mike's Cigars list Honduras, while Neptune's product pages and halfwheel put Casa Magna production at Plasencia in Nicaragua. Check the box before quoting the country. Neptune's product pages also list a Nicaraguan binder.",
+  "verified": false,
+  "verifyNotes": "Country not settled, so not marked verified. Famous Smoke and Mike's Cigars say made in Honduras; Neptune's individual product pages say Nicaragua (Plasencia Cigars) and a 2012 halfwheel article says the whole Casa Magna brand was made at Plasencia in Esteli. No maker or Cigar Aficionado page could be opened. Wrapper (Honduran Habano oscuro) and Full strength confirmed on Famous Smoke, Neptune and Mike's. Added Mike's Cigars as a source (it confirms the Churchill Gordo name and 6 5/8 x 56 size) and expanded the note."
+ },
+ {
+  "brand": "Casa Magna",
+  "line": "Liga F",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportación",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4.25,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Box Press",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "black pepper",
+   "earth",
+   "cedar",
+   "leather",
+   "cocoa"
+  ],
+  "about": "A 2021 Casa Magna whose name is short for liga fuerte, or strong blend. Unlike the original Casa Magna it is rolled at Quesada's own factory in the Dominican Republic, with an Ecuadorian sun grown Corojo wrapper.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-magna-liga-f-churchill/402491/",
+   "https://halfwheel.com/quesada-makes-casa-magna-liga-f-toro-box-press-a-regular-release/439873/",
+   "https://www.neptunecigar.com/casa-magna-cigar"
+  ],
+  "notes": "Made in the Dominican Republic by Quesada, not in Nicaragua by Plasencia like the original Casa Magna. The 6 x 54 box press began as a 2023 TAA exclusive and became a regular size in 2024.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1880",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (Criollo 98)",
+  "filler": "Mexico (San Andrés Negro, Criollo 98), Nicaragua (Criollo 98)",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "black pepper",
+   "wood",
+   "white pepper"
+  ],
+  "about": "Named for the year the Turrent family began growing tobacco in Mexico, and built almost entirely from the family's own San Andrés leaf. It debuted in late 2017 as a single 6 1/2 x 54 toro.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-turrent-1880/232348/",
+   "https://halfwheel.com/casa-turrent-ships-new-1880-lines-to-retailers/376991/",
+   "https://halfwheel.com/pca-2023-casa-turrent/427393/"
+  ],
+  "notes": "Blend shown is the original 2017 cigar, renamed 1880 Edición Limitada in 2020. Since then 1880 is a series (Claro, Colorado, Oscuro, Maduro, later Doble Claro, Rosado, Doble Maduro), each with its own Mexican wrapper. In 2023 the maker cut its lines to one 5 1/4 x 55 robusto.",
+  "verified": true,
+  "verifyNotes": "No changes. Maker site could not be reached; all facts confirmed on halfwheel."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1942",
+  "found": true,
+  "officialName": "Serie 1942",
+  "wrapperLeaf": "Mexican San Andrés Negro Colorado",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Criollo)",
+  "filler": "Mexico (San Andrés Criollo, San Andrés Negro), Nicaragua",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "Named for the birth year of Alejandro Turrent's father and released in 2016. It pairs the family's Mexican San Andrés wrapper and binder with Mexican and Nicaraguan filler.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-turrent-adding-two-new-lines-serie-1942-serie-1973/107710/",
+   "https://halfwheel.com/ipcpr-2016-casa-turrent/124865/",
+   "https://halfwheel.com/pca-2023-casa-turrent/427393/"
+  ],
+  "notes": "The maker calls it medium to full bodied and spicy, with more complexity than Serie 1901. halfwheel's trade show report lists the wrapper as San Andrés Maduro. In 2023 Casa Turrent said it had cut its lines to a single 5 1/4 x 55 robusto and turned its focus to Europe, so U.S. stock may be scarce.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf changed from 'Mexican San Andrés Negro' to 'Mexican San Andrés Negro Colorado', the wording in halfwheel's launch article. Note corrected: the maker did not say it is spicier than Serie 1901, only spicy and more complex. Maker site could not be reached; all facts are from halfwheel."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "1901",
+  "found": true,
+  "officialName": "Serie 1901",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés Criollo), Nicaragua",
+  "filler": "Mexico (San Andrés Criollo and Negro), Nicaragua",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "oak",
+   "cedar",
+   "earth",
+   "orange peel"
+  ],
+  "about": "The first Casa Turrent line, named for the birth year of Alejandro Turrent's grandfather. It is a box-pressed Mexican cigar with a San Andrés maduro wrapper and some Nicaraguan leaf in the binder and filler.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-turrent-serie-1901-torpedo/98619/",
+   "https://halfwheel.com/casa-turrent-adding-two-new-lines-serie-1942-serie-1973/107710/",
+   "https://halfwheel.com/pca-2023-casa-turrent/427393/"
+  ],
+  "notes": "It reached the U.S. in 2015 after about two years on sale abroad. Not a Mexican puro: it has a double binder with Nicaraguan leaf. In 2023 Casa Turrent said it had cut its lines back to a single 5 1/4 x 55 robusto and turned its focus to Europe, so U.S. stock may be scarce.",
+  "verified": true,
+  "verifyNotes": "No changes. halfwheel's spec table lists the Mexican filler as San Andrés Corojo and Criollo while the review text says Criollo and Negro; the text version is kept. The 2013 release year rests on halfwheel saying it had been sold outside the U.S. for two years before its 2015 U.S. launch. Maker site could not be reached."
+ },
+ {
+  "brand": "Casa Turrent",
+  "line": "Origins",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican-grown, different on each of the four blends",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Mexico",
+  "binder": "Mexico (San Andrés; varies by blend)",
+  "filler": "Varies by blend: Mexico, Nicaragua, Dominican Republic",
+  "country": "Mexico",
+  "factory": "Nueva Matacapan de Tabacos S.A. de C.V.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A set of four blends named for places in the Turrent family's history: Cuba, Miami, Nicaragua and Mexico. Each comes in one 5 1/2 x 54 size and shows off a different Mexican-grown wrapper.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/casa-turrent-origins-miami/367122/",
+   "https://halfwheel.com/ipcpr-2019-casa-turrent/364003/",
+   "https://halfwheel.com/pca-2023-casa-turrent/427393/"
+  ],
+  "notes": "Four separate blends, so ask which one. Wrappers: Miami is Mexican sun grown Connecticut, Cuba is Mexican Criollo, Nicaragua and Mexico use San Andrés leaf. Shown in Europe in 2018, U.S. in 2019. In 2023 Casa Turrent said it had cut its lines back to a single 5 1/4 x 55 robusto and turned its focus to Europe, so U.S. stock may be scarce.",
+  "verified": true,
+  "verifyNotes": "No changes. Strength left null: these are four different blends and no source gives a single rating. Maker site could not be reached; wrappers, country, factory and size confirmed on halfwheel."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "White Series",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano (Jamastran Valley)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Connecticut)",
+  "filler": "Dominican Republic, Nicaragua, Paraguay",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Medio",
+    "length": 3.5,
+    "ring": 58
+   },
+   {
+    "name": "Elegante",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Petit N2",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Diplomate",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "earth",
+   "wood"
+  ],
+  "about": "The first line from Swiss-owned Cavalier Genève, made in Danli, Honduras. Like the brand's other cigars it carries a diamond of edible 24-karat gold leaf on the wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-white-series-2023-announced/430769/",
+   "https://halfwheel.com/ipcpr-2016-cavalier-of-geneva/126188/",
+   "https://www.neptunecigar.com/cavalier-cigar"
+  ],
+  "notes": "It reached U.S. stores in 2016. The gold diamond on the wrapper is meant to be smoked through. A Salomones and a Lancero are released in limited runs.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Black Series II",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit N2",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cream",
+   "black pepper",
+   "wood",
+   "coffee",
+   "toast"
+  ],
+  "about": "Introduced in 2017 as a tribute to Tabak Rhein, a Geneva tobacconist the company had bought. It has a Mexican San Andrés wrapper over Nicaraguan binder and filler and carries the brand's edible gold diamond.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-black-series-ii-petit-n2/444141/",
+   "https://halfwheel.com/cavalier-geneve-adding-coronas-to-two-lines-at-tpe-2024/434012/",
+   "https://www.neptunecigar.com/cavalier-cigar"
+  ],
+  "notes": "Different blend from the earlier event-only Black Series, which used a Brazilian binder. Most sizes are box pressed; the Corona and Petit N2 are round. A Salomones and a Lancero are limited sizes. halfwheel's review found it milder than medium.",
+  "verified": true,
+  "verifyNotes": "Added halfwheel's strength finding to notes (Neptune lists Medium; halfwheel found mild to medium-minus). The maker's site is age-gated and was not opened."
+ },
+ {
+  "brand": "Cavalier Genève",
+  "line": "Viso Jalapa",
+  "found": true,
+  "officialName": "BII Viso Jalapa",
+  "wrapperLeaf": "Nicaraguan Jalapa Viso",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Habano)",
+  "country": "Honduras",
+  "factory": "Fábrica Centroamericana de Tabaco S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit N2",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "cedar",
+   "leather",
+   "earth",
+   "black pepper",
+   "nuts"
+  ],
+  "about": "A 2021 line made entirely of Nicaraguan tobacco but rolled at Cavalier's factory in Honduras. It is named for its wrapper, a viso-priming leaf from Jalapa that is normally used as filler.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cavalier-geneve-bii-viso-jalapa-toro/399721/",
+   "https://halfwheel.com/cavalier-geneve-ships-bii-viso-jalapa/394993/",
+   "https://www.neptunecigar.com/cavalier-cigar"
+  ],
+  "notes": "The maker rates it 4 out of 5 for strength, but halfwheel found it below medium and Neptune lists it Medium. All Nicaraguan tobacco, rolled in Honduras. The wrapper's seed variety is not published.",
+  "verified": true,
+  "verifyNotes": "body set to null: no source gives a Medium body (halfwheel called the body mild). Strength Medium-Full rests on halfwheel's report that the maker's site rates it 4 out of 5; the maker's site is age-gated and was not opened."
+ }
+]

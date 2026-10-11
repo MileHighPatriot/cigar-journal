@@ -22,6 +22,8 @@ type Fields = Record<
   | 'ringGauge'
   | 'shape'
   | 'wrapperType'
+  | 'wrapperLeaf'
+  | 'body'
   | 'wrapperOrigin'
   | 'binder'
   | 'filler'
@@ -44,6 +46,8 @@ function toFields(cigar: Cigar | null): Fields {
     ringGauge: text(cigar?.ringGauge),
     shape: text(cigar?.shape),
     wrapperType: text(cigar?.wrapperType),
+    wrapperLeaf: text(cigar?.wrapperLeaf),
+    body: text(cigar?.body),
     wrapperOrigin: text(cigar?.wrapperOrigin),
     binder: text(cigar?.binder),
     filler: text(cigar?.filler),
@@ -96,6 +100,8 @@ function Form({ cigar, wrappers, onClose, onSaved }: Omit<Props, 'open'>) {
       ringGauge: numberOrNull(fields.ringGauge),
       shape: (orNull(fields.shape) as Shape | null) ?? null,
       wrapperType: orNull(fields.wrapperType),
+      wrapperLeaf: orNull(fields.wrapperLeaf),
+      body: (numberOrNull(fields.body) as Level | null) ?? null,
       wrapperOrigin: orNull(fields.wrapperOrigin),
       binder: orNull(fields.binder),
       filler: orNull(fields.filler),
@@ -186,12 +192,28 @@ function Form({ cigar, wrappers, onClose, onSaved }: Omit<Props, 'open'>) {
           </select>
         </label>
       </div>
-      {input('wrapperType', 'Wrapper', { list: 'wrapper-options' })}
+      <label className="field">
+        <span>Body</span>
+        <select
+          className="input"
+          value={fields.body}
+          onChange={(event) => set('body')(event.target.value)}
+        >
+          <option value="">Not set</option>
+          {LEVEL_LABELS.map((label, index) => (
+            <option key={label} value={index + 1}>
+              {label}
+            </option>
+          ))}
+        </select>
+      </label>
+      {input('wrapperType', 'Wrapper type', { list: 'wrapper-options' })}
       <datalist id="wrapper-options">
         {wrappers.map((wrapper) => (
           <option key={wrapper} value={wrapper} />
         ))}
       </datalist>
+      {input('wrapperLeaf', 'Wrapper leaf', { placeholder: 'Ecuadorian Habano Oscuro' })}
       {input('wrapperOrigin', 'Wrapper origin')}
       {input('binder', 'Binder')}
       {input('filler', 'Filler')}

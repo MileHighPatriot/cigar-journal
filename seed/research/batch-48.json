@@ -1,0 +1,911 @@
+[
+ {
+  "brand": "Room 101",
+  "line": "Farce",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "cream",
+   "black pepper",
+   "cinnamon",
+   "nuts"
+  ],
+  "about": "The first new Room101 release after Matt Booth's brief retirement in 2017, launched in 2018, and the first Room101 made in the Dominican Republic. It is rolled at Tabacalera William Ventura with an Ecuadorian wrapper over an Indonesian binder.",
+  "released": 2018,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/room101-farce-toro/262100/",
+   "https://www.neptunecigar.com/room-101-cigar",
+   "https://halfwheel.com/stg-shuffles-portfolio-sends-cohiba-to-forged-room101-to-general/460345/"
+  ],
+  "notes": "halfwheel and Neptune list the wrapper only as Ecuadorian; Mike's Cigars calls it Ecuadorian Habano. The Toro is 6 1/4 x 54 in halfwheel's review but 6 x 54 at retail. STG, which now owns Room101, dropped Farce from its price lists in January 2026 and has not said what happens to it.",
+  "verified": true,
+  "verifyNotes": "Fixed about: halfwheel says Booth returned in 2017, with Farce following in 2018. Replaced the note that the wrapper seed is unpublished, since Mike's Cigars lists Ecuadorian Habano. Added the halfwheel article that supports the January 2026 price list claim."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Farce Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Corona",
+    "length": 4.875,
+    "ring": 42
+   },
+   {
+    "name": "Super Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "almond",
+   "cream",
+   "milk chocolate",
+   "honey"
+  ],
+  "about": "A Connecticut-wrapped companion to Room101 Farce, introduced at the 2018 trade show. It shares the name but is a different blend, and none of its sizes match the original Farce.",
+  "released": 2018,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/room101-farce-connecticut-super-toro/284944/",
+   "https://www.neptunecigar.com/room-101-cigar",
+   "https://cigardojo.com/2018/12/room101-farce-connecticut-robusto/"
+  ],
+  "notes": "Neptune lists it as medium, but halfwheel's and Cigar Dojo's reviews found it mild to just under medium. halfwheel and Neptune call the binder undisclosed; Cigar Dojo and Mike's Cigars list Indonesian. Retailers show the Short Corona with a 46 ring. STG dropped Farce from its price lists in January 2026.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Mild-Medium: halfwheel's review (mild rising to just under medium), Cigar Dojo's review (mild) and Mike's Cigars (mild to medium) outweigh Neptune's medium. Notes now record the binder and Short Corona ring disagreements. Added the Cigar Dojo review as a source."
+ },
+ {
+  "brand": "Room 101",
+  "line": "Farce Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "USA (Connecticut broadleaf, Pennsylvania broadleaf), Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Papi Chulo",
+    "length": 4,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "chocolate"
+  ],
+  "about": "The third version of Room101 Farce, shipped in 2019. It puts a Mexican San Andrés wrapper over an Ecuadorian Sumatra binder with broadleaf and Nicaraguan fillers.",
+  "released": 2019,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/room101-farce-maduro-ships/336393/",
+   "https://www.neptunecigar.com/room-101-cigar",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-room101-farce-maduro-robusto/"
+  ],
+  "notes": "Neptune lists it as medium; Mike's Cigars and a Developing Palates review put it at medium to full. halfwheel's launch report gave the Robusto as 5 1/2 x 52, but retailers and Developing Palates list 50. A 6 1/2 x 42 Thicc Lancero was previewed in late 2021. STG dropped Farce from its price lists in January 2026.",
+  "verified": true,
+  "verifyNotes": "Robusto ring changed from 52 to 50: Neptune, Mike's Cigars and the Developing Palates review all list 5 1/2 x 50; only halfwheel's launch report says 52. Strength left at Medium (Neptune) with the disagreement added to notes. Added the Developing Palates review as a source."
+ },
+ {
+  "brand": "Room 101",
+  "line": "12th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "peanuts",
+   "cocoa",
+   "espresso",
+   "black pepper"
+  ],
+  "about": "A 2021 Nicaraguan puro marking twelve years of Room101 cigars, made by AJ Fernandez with tobacco he grew. It came in one 6 x 52 toro and was produced only to fill the orders received.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/room101-12th-anniversary/401761/",
+   "https://halfwheel.com/room101-releases-limited-edition-12th-anniversary-perfecto/415137/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "halfwheel's review put strength and body at medium, while Neptune lists it as full. A 6 x 56 Perfecto followed in 2022 as a small limited run.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Room 101",
+  "line": "Doomsayer",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (Passive); undisclosed maduro (Aggressive)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Honduras, Nicaragua, USA (Pennsylvania broadleaf)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 55
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice"
+  ],
+  "about": "A value-priced Room101 line introduced in 2019 and sold in 55-count boxes. It comes in one 6 x 55 toro in two wrappers over the same binder and filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/room101-doomsayer-debuting-at-ipcpr-2019/336486/",
+   "https://www.neptunecigar.com/room-101-cigar"
+  ],
+  "notes": "Two versions share one binder and filler: Passive has the Ecuadorian Habano wrapper and Aggressive has a maduro wrapper whose origin is not disclosed. The wrapper fields here describe the Habano version. The factory is as reported at the 2019 launch, before STG owned Room101.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Added a caution to notes that the factory comes from halfwheel's 2019 launch report; Neptune now shows General Cigar/STG as the manufacturer."
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Serie G",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchilde",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "No. 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "chocolate",
+   "leather",
+   "earth",
+   "cream"
+  ],
+  "about": "A large ring gauge line from Altadis U.S.A.'s Honduran-made Saint Luis Rey brand; the G stands for gigante and every size is 56 ring or bigger. The natural version wears a Nicaraguan Habano wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/saint-luis-rey/saint-luis-rey-serie-g-natural/",
+   "https://www.holts.com/cigars/all-cigar-brands/saint-luis-rey-serie-g.html",
+   "https://www.famous-smoke.com/brand-saint-luis-rey-serie-g"
+  ],
+  "notes": "These details are for the Natural. A separate Serie G Maduro uses a Connecticut Broadleaf wrapper. Holt's lists the strength as medium-full and Famous Smoke as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Carenas",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras (broadleaf)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "La Flor de Copan",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 54
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "salt",
+   "nuts",
+   "cocoa",
+   "cedar"
+  ],
+  "about": "A 2021 line from Altadis U.S.A. named for Puerto de Carenas, the old name of the Port of Havana. It is made at La Flor de Copan in Honduras with a Nicaraguan wrapper over Honduran binder and filler.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/saint-luis-rey/saint-luis-rey-carenas/",
+   "https://halfwheel.com/saint-luis-rey-carenas-toro/396142/",
+   "https://www.neptunecigar.com/saint-luis-rey-cigar"
+  ],
+  "notes": "Altadis calls it a solid medium-bodied cigar, while halfwheel's review put strength and body at medium-full. Carenas Ultramar is a separate, later blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Saint Luis Rey",
+  "line": "Reserva Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua, Peru",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchilde",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Titan",
+    "length": 5.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The core Honduran-made Saint Luis Rey from Altadis U.S.A., with a dark Nicaraguan wrapper and binder over Honduran, Nicaraguan and Peruvian filler. It is known as a full-flavored cigar at a low price.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand-saint-luis-rey",
+   "https://www.altadisusa.com/cigars/saint-luis-rey/saint-luis-rey-original/",
+   "https://www.neptunecigar.com/saint-luis-rey-cigar"
+  ],
+  "notes": "Altadis now lists this line as Saint Luis Rey Original; Famous Smoke still sells it as Reserva Especial. Altadis and Famous call it full, Neptune medium. A Maduro version with a Mexican San Andrés wrapper is sold separately.",
+  "verified": true,
+  "verifyNotes": "Cleared flavors: molasses, leather and nuts are not in the published descriptions on the Altadis, Famous Smoke or Neptune pages."
+ },
+ {
+  "brand": "San Cristobal",
+  "line": "Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Clasico",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Supremo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Papagayo",
+    "length": 5.75,
+    "ring": 55
+   },
+   {
+    "name": "Papagayo XXL",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Fabuloso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Monumento",
+    "length": 7.25,
+    "ring": 49
+   },
+   {
+    "name": "Coloso",
+    "length": 6.75,
+    "ring": 62
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "espresso",
+   "black pepper",
+   "nuts",
+   "earth",
+   "cedar"
+  ],
+  "about": "The first San Cristobal, created in 2007 by Jose 'Pepin' Garcia for Ashton and rolled at the Garcia family's My Father factory in Esteli. It is a dark, full-bodied cigar with Nicaraguan binder and filler.",
+  "released": 2007,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/san-cristobal.html",
+   "https://www.cigaraficionado.com/ratings/24449/name/san-cristobal-clasico-robusto",
+   "https://halfwheel.com/san-cristobal-revelation-heads-ipcpr-2013/38417/"
+  ],
+  "notes": "The core line is sold simply as San Cristobal. Sources split on the wrapper: Holt's, the retailer tied to Ashton, and Cigar Aficionado's 2023 rating say Ecuador, while halfwheel, Famous Smoke and Neptune describe a Nicaraguan puro. Neptune rates it medium; Holt's, Famous and Cigar Aficionado say full.",
+  "verified": false,
+  "verifyNotes": "Wrapper changed from Nicaraguan (origin Nicaragua) to Ecuadorian Habano Oscuro (origin Ecuador), following Holt's, which shares ownership with Ashton, and Cigar Aficionado's 2023 rating. halfwheel (2013), Famous Smoke, Neptune and Mike's Cigars still say Nicaraguan, and Ashton's own site is behind an age gate that was not passed, so the wrapper is not settled. Country, factory, strength, sizes and 2007 launch confirmed. Swapped the Famous Smoke source for the Cigar Aficionado rating."
+ },
+ {
+  "brand": "San Cristobal",
+  "line": "Elegancia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Grandioso",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "almond",
+   "cashew",
+   "coffee",
+   "white pepper",
+   "cedar"
+  ],
+  "about": "The Connecticut-wrapped San Cristobal, introduced in 2011. The Garcia family makes it in Nicaragua for Ashton with an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/san-cristobal-elegancia.html",
+   "https://halfwheel.com/san-cristobal-elegancia-grandioso-ships-retailers/26974/",
+   "https://www.famous-smoke.com/brand-san-cristobal-elegancia"
+  ],
+  "notes": "Famous Smoke and Neptune list it as medium, while Holt's, the retailer tied to Ashton, calls it mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "San Cristobal",
+  "line": "Quintessence",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Epicure",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Majestic",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "molasses",
+   "coffee",
+   "cocoa",
+   "black pepper",
+   "dried fruit"
+  ],
+  "about": "The fifth San Cristobal blend, released in 2016 with an Ecuadorian Habano wrapper over Nicaraguan binder and filler from the Garcia family's farms. Cigar Aficionado named it its number 3 cigar of 2021.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/san-cristobal-quintessence-belicoso/140578/",
+   "https://www.holts.com/cigars/all-cigar-brands/san-cristobal-quintessence.html",
+   "https://www.neptunecigar.com/san-cristobal-quintessence-cigar"
+  ],
+  "notes": "Holt's and halfwheel's review put it at medium-full; Neptune lists medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "San Cristobal",
+  "line": "Revelation",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Prophet",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Mystic",
+    "length": 5.625,
+    "ring": 48
+   },
+   {
+    "name": "Legend",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Odyssey",
+    "length": 5.75,
+    "ring": 60
+   },
+   {
+    "name": "Leviathan",
+    "length": 6.5,
+    "ring": 64
+   },
+   {
+    "name": "Triumph",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cedar",
+   "cinnamon",
+   "cocoa",
+   "black pepper"
+  ],
+  "about": "The fourth San Cristobal line, introduced in 2013 with an Ecuadorian Sumatra wrapper over Nicaraguan binder and filler. It launched with a mix of round and box-pressed sizes.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/san-cristobal-revelation.html",
+   "https://www.famous-smoke.com/brand-san-cristobal-revelation",
+   "https://halfwheel.com/san-cristobal-revelation-heads-ipcpr-2013/38417/"
+  ],
+  "notes": "Famous Smoke and Neptune list it as full, while Holt's, the retailer tied to Ashton, calls it medium. The Prophet is listed as 5 x 54 by some sources and 5 1/4 x 54 by others.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "San Cristobal",
+  "line": "Ovation",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Oscuro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Opulence",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Eminence",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Decadence",
+    "length": 6.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "hickory",
+   "coffee",
+   "cedar",
+   "black pepper"
+  ],
+  "about": "A limited San Cristobal that debuted in 2015 with a Mexican San Andrés oscuro wrapper over Nicaraguan tobacco grown by the Garcia family. It is released in small batches of 22-count boxes.",
+  "released": 2015,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/san-cristobal-ovation-decadence-2016/143357/",
+   "https://www.holts.com/cigars/all-cigar-brands/san-cristobal-ovation.html",
+   "https://www.neptunecigar.com/san-cristobal-ovation-cigar"
+  ],
+  "notes": "The first run in 2015 was 3,000 boxes of the 6 1/2 x 52 only, later named Decadence. The other sizes were added in later batches.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Sancho Panza",
+  "line": "Double Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate"
+  ],
+  "about": "One of three non-Cuban Sancho Panza lines General Cigar reblended and repackaged in 2022 with Matt Booth of Room101. It is made in Honduras with a dark Ecuadorian Sumatra wrapper.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/generals-new-look-sancho-panza-heading-to-stores/411716/",
+   "https://www.neptunecigar.com/sancho-panza-cigar",
+   "https://developingpalates.com/news/cigar-news/cigar-news-sancho-panza-brand-revamped-by-matt-booth-and-justin-andrews/"
+  ],
+  "notes": "Details are for the 2022 blend; older Double Maduro boxes were a different blend. Despite the name, the wrapper is Ecuadorian Sumatra. General calls it medium-plus. STG removed Sancho Panza from its price lists in January 2026 and has not said what happens to the brand.",
+  "verified": true,
+  "verifyNotes": "Added flavors (espresso, dark chocolate) from General Cigar's launch description as carried by Developing Palates, and added that page as a source. No other changes."
+ },
+ {
+  "brand": "Sancho Panza",
+  "line": "Original",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Connecticut-seed",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Brazil (Mata Fina), Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "nuts",
+   "cream"
+  ],
+  "about": "The mildest of the three Sancho Panza lines General Cigar reblended in 2022 with Matt Booth of Room101. It is made in Honduras with a Honduran-grown Connecticut-seed wrapper and is now round instead of box-pressed.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/generals-new-look-sancho-panza-heading-to-stores/411716/",
+   "https://www.neptunecigar.com/sancho-panza-cigar",
+   "https://www.famous-smoke.com/brand/sancho-panza-cigars"
+  ],
+  "notes": "Details are for the 2022 blend; earlier box-pressed versions were a different blend. STG removed Sancho Panza from its price lists in January 2026 and has not said what happens to the brand.",
+  "verified": true,
+  "verifyNotes": "Narrowed the about text to the three 2022 lines, since Extra Chido is also listed as medium. No blend fields changed."
+ },
+ {
+  "brand": "Sancho Panza",
+  "line": "Extra Fuerte",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut broadleaf)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 5.875,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth"
+  ],
+  "about": "The strongest of the three non-Cuban Sancho Panza lines General Cigar reblended in 2022 with Matt Booth of Room101. It is made in Honduras with an Ecuadorian Sumatra wrapper over a Connecticut broadleaf binder.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/generals-new-look-sancho-panza-heading-to-stores/411716/",
+   "https://www.neptunecigar.com/sancho-panza-cigar",
+   "https://www.famous-smoke.com/brand-sancho-panza-extra-fuerte"
+  ],
+  "notes": "Details are for the 2022 blend; older Extra Fuerte boxes were a different blend. STG removed Sancho Panza from its price lists in January 2026 and has not said what happens to the brand.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Sancho Panza",
+  "line": "Extra Chido",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic (piloto)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice"
+  ],
+  "about": "A 2024 addition to General Cigar's non-Cuban Sancho Panza, blended by Matt Booth and Justin Andrews. Unlike the Honduran-made lines it is rolled in the Dominican Republic, with Dominican piloto filler aged in palm-leaf tercios.",
+  "released": 2024,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/sancho-panza-extra-chido-makes-debut-at-pca-2024/436869/",
+   "https://www.neptunecigar.com/sancho-panza-cigar",
+   "https://www.famous-smoke.com/brand-sancho-panza-extra-chido"
+  ],
+  "notes": "Launched as a regular production line. STG removed Sancho Panza from its price lists in January 2026 and has not said what happens to the brand.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

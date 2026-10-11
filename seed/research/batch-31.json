@@ -1,0 +1,806 @@
+[
+ {
+  "brand": "God of Fire",
+  "line": "by Don Carlos",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Gordo 54",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "pepper"
+  ],
+  "about": "The God of Fire blend created by Carlos Fuente Sr., rolled by Arturo Fuente for Keith Park's Prometheus company. It is the medium-bodied counterpart to the Cameroon-wrapped by Carlito blend, and each band carries the year the cigars were made.",
+  "released": 2004,
+  "production": "regular",
+  "sources": [
+   "https://www.godoffire.com/by-don-carlos",
+   "https://www.godoffire.com/our-story",
+   "https://halfwheel.com/god-fire-carlito-diademas-56/263266"
+  ],
+  "notes": "Maker only says the wrapper is Ecuadorian. Halfwheel calls it Ecuadorian Sumatra; Corona Cigar lists Ecuadorian Habano. Maker calls it medium bodied, while retailers list medium-full to full. Made in small yearly batches; also sold as a Robusto Tubo.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "God of Fire",
+  "line": "by Carlito",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Piramide",
+    "length": 6.375,
+    "ring": 52
+   },
+   {
+    "name": "Diademas 56",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.625,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "nuts",
+   "coffee",
+   "sweetness"
+  ],
+  "about": "The God of Fire blend created by Carlos \"Carlito\" Fuente Jr., rolled by Arturo Fuente for Keith Park's Prometheus company. The maker calls it the boldest God of Fire, with a Cameroon wrapper over Dominican binder and filler.",
+  "released": 2004,
+  "production": "regular",
+  "sources": [
+   "https://www.godoffire.com/by-carlito",
+   "https://halfwheel.com/god-fire-carlito-diademas-56/263266",
+   "https://www.coronacigar.com/god-of-fire-carlito-cameroon-double-robusto/"
+  ],
+  "notes": "Maker describes it as medium to heavy; Corona Cigar and Neptune call it full. Made in small yearly batches with the production year on the second band. Halfwheel lists the Diademas 56 at 5 3/4 x 56; the maker lists 6 1/4 x 56.",
+  "verified": true,
+  "verifyNotes": "Removed 'leather' from flavors (not in any page opened) and added 'coffee' from Corona Cigar's notes. Note reworded: halfwheel lists, rather than measured, the Diademas 56 at 5 3/4 x 56."
+ },
+ {
+  "brand": "God of Fire",
+  "line": "Serie B",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro (Double Robusto, Gran Toro, Diademas 56) or Ecuadorian Sun Grown (Robusto, Robusto Gordo 54)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA or Ecuador, depending on size",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente y Cia.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Double Robusto",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Robusto Gordo 54",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Diademas 56",
+    "length": 6.25,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "pepper",
+   "leather",
+   "espresso",
+   "cedar",
+   "dried fruit"
+  ],
+  "about": "A darker-wrapped God of Fire line rolled by Arturo Fuente for Prometheus, added in 2011. The wrapper depends on the size: Connecticut Broadleaf maduro on some, Ecuadorian sun grown on others, all over Dominican binder and filler.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://www.godoffire.com/serie-b",
+   "https://halfwheel.com/god-of-fire-serie-b-gran-toro",
+   "https://www.coronacigar.com/god-of-fire-serie-b-double-robusto/"
+  ],
+  "notes": "Two wrappers in one line, so check the size: Robusto and Robusto Gordo 54 are Ecuadorian Sun Grown, the others Connecticut Broadleaf Maduro. Maker gives no strength rating; halfwheel found it medium to medium-full and Corona Cigar lists full. Made in small yearly batches.",
+  "verified": true,
+  "verifyNotes": "Note corrected: no retailer opened says medium-plus. Halfwheel's review runs medium to medium-full and Corona Cigar lists full for both wrappers. Strength kept at Medium-Full on halfwheel's wording; the maker gives no rating."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Connecticut #1",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Lunch Break",
+    "length": 4.5,
+    "ring": 40
+   },
+   {
+    "name": "Shorty Robusto",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "toast",
+   "nuts",
+   "coffee",
+   "leather",
+   "spice"
+  ],
+  "about": "The mildest of Gran Habano's three core blends from the Rico family, rolled at their factory in Danli, Honduras. A Connecticut wrapper over Nicaraguan binder and filler.",
+  "released": 2003,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/connecticut-1/",
+   "https://halfwheel.com/gran-habano-corojo-no-7-corona-especial/473270/",
+   "https://www.holts.com/cigars/all-cigar-brands/gran-habano-connecticut-1.html"
+  ],
+  "notes": "Maker only says Connecticut wrapper. Holt's lists it as Ecuador-grown Connecticut and Neptune as USA Connecticut Shade, so the origin is left blank. Maker rates it mild; Holt's says mild-medium and Neptune medium. Maker gives a single rating, labeled body, used here as strength.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf changed from 'Ecuadorian Connecticut Shade' to 'Connecticut' and wrapperOrigin blanked: the maker gives no origin, Holt's says Ecuador and Neptune says USA Connecticut Shade. The Famous Smoke claim could not be opened and was dropped from the note. Factory name is not on the maker or Holt's pages; confirmed from halfwheel, which names Gran Habano's Honduras factory as G.R. Tabacaleras Unidas S.A., and swapped that page in as a source. Danli is from the maker's About page."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Habano #3",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Shade Grown Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Habano",
+  "filler": "Nicaragua, Mexico, Costa Rica",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Rolo / Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Lunch Break",
+    "length": 4.5,
+    "ring": 40
+   },
+   {
+    "name": "Shorty Robusto",
+    "length": 4,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "spice",
+   "cedar",
+   "leather"
+  ],
+  "about": "The middle of Gran Habano's three core blends, which the Rico family calls its classic blend. A Nicaraguan Habano wrapper and binder over Nicaraguan, Mexican and Costa Rican filler, rolled in Danli, Honduras.",
+  "released": 2003,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/habano-3/",
+   "https://halfwheel.com/gran-habano-corojo-no-7-corona-especial/473270/",
+   "https://www.holts.com/cigars/all-cigar-brands/gran-habano-habano-3.html"
+  ],
+  "notes": "Maker's spec line and Holt's say medium to full, but the maker's own description and Neptune call it medium. Maker gives a single rating, labeled body, used here as strength.",
+  "verified": true,
+  "verifyNotes": "Note corrected: the Famous Smoke claim could not be opened; Neptune is the retailer that calls it medium. Factory name is not on the maker or Holt's pages; confirmed from halfwheel, which names Gran Habano's Honduras factory as G.R. Tabacaleras Unidas S.A., and swapped that page in as a source. Danli is from the maker's About page."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Corojo #5",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Habano",
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Czar",
+    "length": 6,
+    "ring": 66
+   },
+   {
+    "name": "Triumph",
+    "length": 7.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "spice",
+   "anise",
+   "black cherry",
+   "charcoal"
+  ],
+  "about": "The strongest of Gran Habano's three core blends, with a reddish Nicaraguan Corojo wrapper and a full, spicy profile. Rolled by the Rico family in Danli, Honduras.",
+  "released": 2003,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/gran-habano-corojo-5/",
+   "https://halfwheel.com/gran-habano-corojo-no-7-corona-especial/473270/",
+   "https://www.holts.com/cigars/all-cigar-brands/gran-habano-corojo-5.html"
+  ],
+  "notes": "Maker lists about 15 sizes, including a 7 x 70 Grandioso; 10 of them are listed here. Maker gives a single rating, labeled body, used here as strength.",
+  "verified": true,
+  "verifyNotes": "Flavors replaced: 'black pepper', 'dark chocolate' and 'earth' were not in any page opened for this blend (dark chocolate is the maker's wording for the Maduro), so flavors now come from Holt's notes. 'peppery' in about changed to 'spicy'. Sources changed to pages about this blend; the old halfwheel link was a news item on the Maduro. Factory name confirmed on halfwheel; Danli is from the maker's About page."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Corojo #5 Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sun-grown Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaraguan Habano",
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothchild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 40
+   },
+   {
+    "name": "Czar",
+    "length": 6,
+    "ring": 66
+   },
+   {
+    "name": "Triumph",
+    "length": 7.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "spice",
+   "coffee",
+   "nuts",
+   "pepper"
+  ],
+  "about": "The maduro version of Gran Habano's full-bodied Corojo #5, with a dark sun-grown Nicaraguan wrapper over the same Nicaraguan and Costa Rican filler. Rolled at the Rico family's factory in Danli, Honduras.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/gran-habano-corojo-no-5-maduro/",
+   "https://halfwheel.com/new-look-gran-habano-corojo-5-maduro-arriving-at-retail/83168/",
+   "https://www.holts.com/cigars/all-cigar-brands/gran-habano-corojo-maduro-5.html"
+  ],
+  "notes": "Maker lists a Nicaraguan Habano binder; halfwheel reported in 2015 that wrapper and binder are Nicaraguan Corojo, and Neptune lists a Costa Rican binder. Launch year not found; it got new bands and boxes in 2015. Maker gives a single rating, labeled body, used here as strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "La Conquista",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Costa Rica, Colombia",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto (La Nina)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto (La Pinta)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Imperial (Santa Maria)",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "leather",
+   "cedar",
+   "earth",
+   "cocoa"
+  ],
+  "about": "A Gran Habano line released in 2016 whose name means the conquest, with sizes named after Columbus's three ships. A Nicaraguan Corojo wrapper over Nicaraguan binder and filler from Nicaragua, Costa Rica and Colombia, sold in boxes of 24.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/la-conquista/",
+   "https://halfwheel.com/gran-habano-la-conquista-la-nina/258095",
+   "https://www.neptunecigar.com/cigar/gran-habano-la-conquista"
+  ],
+  "notes": "Halfwheel lists the binder as Nicaraguan Corojo. Its reviewer found the cigar closer to medium than the maker's medium to full rating. Maker gives a single rating, labeled body, used here as strength.",
+  "verified": true,
+  "verifyNotes": "Blend fields unchanged. about reworded to drop 'premium' and to say the name means the conquest, as halfwheel puts it."
+ },
+ {
+  "brand": "Gran Habano",
+  "line": "Blue in Green",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade (USA)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Costa Rica",
+  "country": "Honduras",
+  "factory": "G.R. Tabacaleras Unidas S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cream",
+   "pepper",
+   "cedar",
+   "floral"
+  ],
+  "about": "A Connecticut-wrapped line from Gran Habano, shipped in late 2018 and sold in cedar sleeves. It was made to show a Connecticut cigar does not have to be mild.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://ghcigars.com/blue-in-green-3/",
+   "https://halfwheel.com/gran-habano-blue-in-green-gran-robusto/293267",
+   "https://www.neptunecigar.com/cigar/gran-habano-blue-in-green"
+  ],
+  "notes": "Maker lists Nicaraguan and Costa Rican filler; halfwheel and Neptune list Nicaraguan only. Maker now rates it medium, though it was announced as mild to medium. Maker gives a single rating, labeled body, used here as strength.",
+  "verified": true,
+  "verifyNotes": "Blend fields unchanged. Dropped 'blue boxes' from about; no page opened describes the box color. Halfwheel's 2018 trade show report called it limited production, but its 2019 review lists regular production and the maker still lists it."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Red Label",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Indonesia",
+  "binder": null,
+  "filler": null,
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Factory",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "PG",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "PGX",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Pirate",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Presidente",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Chairman",
+    "length": 7.75,
+    "ring": 50
+   },
+   {
+    "name": "Elegante",
+    "length": 7.25,
+    "ring": 38
+   },
+   {
+    "name": "Taco",
+    "length": 4.5,
+    "ring": 44
+   },
+   {
+    "name": "Salomone",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cedar",
+   "nuts",
+   "coffee"
+  ],
+  "about": "The original Graycliff blend and the company's first line, rolled at its factory in Nassau, Bahamas. Graycliff Cigar Company was started in 1997 by Enrico Garzaroli of the Graycliff hotel with Cuban blender Avelino Lara.",
+  "released": 1997,
+  "production": null,
+  "sources": [
+   "https://cigar-coop.com/2011/02/cigar-review-graycliff-original-red.html",
+   "https://halfwheel.com/graycliff-espresso-elegante/9787/",
+   "https://www.graycliff.com/graycliff-cigar-company/"
+  ],
+  "notes": "Also called Graycliff Original. Maker publishes no blend. A 2011 Cigar Coop review and Cigars Direct both give an Indonesian wrapper but disagree on the filler. Graycliff reworked its blends and cut sizes in 2015, so the size list may be out of date. Sold as medium, though that review found it mild.",
+  "verified": true,
+  "verifyNotes": "wrapperCategory blanked: sources only say Indonesian, not Sumatra. Binder and filler blanked: the binder comes from one 2011 review, the two sources disagree on filler (Cigar Coop: Dominican, Nicaraguan, Ecuadorian, Honduran; Cigars Direct: Brazilian, Dominican, Nicaraguan), and halfwheel reports Graycliff reblended in 2015. Indonesian wrapper cross-checked at https://www.cigarsdirect.com/collections/graycliff. Maker publishes no blend or strength. Sizes are a 2011 list."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Blue Label",
+  "found": true,
+  "officialName": "Profesionale Series",
+  "wrapperLeaf": "Ecuadorian Sumatra-seed",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Sumatra",
+  "filler": "Brazil, Dominican Republic, Honduras, Nicaragua",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "Graycliff's second line after the Red Label, properly called the Profesionale Series and commonly known as the Blue Label. It is rolled at the Graycliff factory in Nassau, Bahamas.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigar/graycliff-profesionale-series",
+   "https://halfwheel.com/graycliff-double-espresso-one-minute-review/9567/",
+   "http://stogiereview.com/2007/10/10/graycliff-blue-label-pg/"
+  ],
+  "notes": "Blue Label is the nickname for the Profesionale Series. Blend is from Neptune's listing; the maker publishes none. A 2007 review listed an Indonesian wrapper and binder with Brazilian, Nicaraguan and Honduran filler, so the blend has changed over time. Confirm against the box before quoting.",
+  "verified": true,
+  "verifyNotes": "Was found:false. Found: halfwheel and Neptune both say Blue Label is the Profesionale line. Blend, strength and Nassau origin are from Neptune's listing, the only current spec page that could be opened; the maker publishes none. Cigars International's listing returned 403 and was not used. Sizes, flavors and release year left blank."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "G2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "PG Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "PGX Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Pirate Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Presidente",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "toast",
+   "black pepper"
+  ],
+  "about": "A separate brand from Graycliff Cigar Company, which lists it alongside its main Graycliff line. Retailers describe a mild to medium Connecticut-wrapped cigar with nutty, toasty flavors.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.cigarsdirect.com/collections/graycliff-g2",
+   "https://www.cigarsdirect.com/products/graycliff-g2-pg-robusto",
+   "https://halfwheel.com/graycliffs-new-tasters-sampler-offers-six-quick-smokes/465611/"
+  ],
+  "notes": "Maker publishes no blend. Wrapper, strength and Nicaraguan origin come from Cigars Direct, whose product pages list Nicaraguan filler only while its line description adds Dominican. The 2026 Tasters size is rolled in Nassau.",
+  "verified": true,
+  "verifyNotes": "Country Nicaragua, wrapper, binder, strength and all four sizes confirmed on Cigars Direct product pages. Neptune source removed (no products, no specs) and replaced with a Cigars Direct product page. Flavors cut to the ones on the listed source. PG Robusto length set to 5.25 (CigarPlace lists 5 1/4; Cigars Direct shows 5.20). Dropped the Habano and Maduro versions sentence: no page that could be opened confirms them. about reworded; 'lower-priced' was not supported."
+ },
+ {
+  "brand": "Graycliff",
+  "line": "Espresso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican Corojo-seed hybrid maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Cameroon",
+  "filler": "Ecuador (ligero), Nicaragua, Philippines (Simaba)",
+  "country": "Bahamas",
+  "factory": "Graycliff Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "PG",
+    "length": 5.125,
+    "ring": 50
+   },
+   {
+    "name": "Pirate",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Presidente",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "spice",
+   "leather",
+   "cedar",
+   "earth"
+  ],
+  "about": "Introduced in late 2003 as the fullest-bodied Graycliff blend, created by Avelino Lara with owner Enrico Garzaroli. It is rolled in Nassau, Bahamas, with a dark, rough Costa Rican wrapper, and is also known as the Black Label.",
+  "released": 2003,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/graycliff-espresso-elegante-2/217391",
+   "https://halfwheel.com/graycliff-espresso-elegante/9787/",
+   "https://www.coronacigar.com/graycliff-espresso-salomon/"
+  ],
+  "notes": "Binder is disputed: halfwheel says Cameroon, Corona Cigar says undisclosed and Cigars Direct lists Costa Rican. Halfwheel's reviewer found it nearer medium in strength. Other sizes such as the Elegante lancero were store exclusives. Do not confuse it with the separate Double Espresso line.",
+  "verified": true,
+  "verifyNotes": "Sizes cut to the three core vitolas: halfwheel says the others were sold only through specific stores, and Cigars Direct lists only PG, Pirate and Presidente. about reworded: it launched as the fullest-bodied blend, but Double and Triple Espresso have since been added. Black Label name confirmed on halfwheel's 2010 Double Espresso review and at Cigars Direct."
+ }
+]

@@ -1,0 +1,1068 @@
+[
+ {
+  "brand": "Baccarat",
+  "line": "Original",
+  "found": true,
+  "officialName": "The Game",
+  "wrapperLeaf": "Honduran Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Mexico",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Petit Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Luchadores",
+    "length": 6,
+    "ring": 43
+   },
+   {
+    "name": "Panetela",
+    "length": 6,
+    "ring": 38
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "No. 1",
+    "length": 7,
+    "ring": 44
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "cedar",
+   "cocoa",
+   "coffee",
+   "sweetness"
+  ],
+  "about": "The core Baccarat cigar, a mild and inexpensive Honduran smoke made by Davidoff's Camacho operation. It is best known for its sweetened cap.",
+  "released": 1978,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand/baccarat-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/baccarat.html",
+   "https://www.neptunecigar.com/tips/baccarat-cigars"
+  ],
+  "notes": "This is the core line, sold as Baccarat or Baccarat The Game. The cap is sweetened. Most sources give a Mexican binder, but some retailer spec tables say Honduran. There are 13 sizes in all.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Havana Selection Maduro",
+  "found": true,
+  "officialName": "The Game Maduro",
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Mexico",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "King",
+    "length": 8.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "cream"
+  ],
+  "about": "The maduro-wrapped version of the core Baccarat cigar, made in Honduras by Davidoff's Camacho operation. It keeps the line's mild blend and sweetened cap under a darker wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/baccarat-rothschild-maduro-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/baccarat.html",
+   "https://www.neptunecigar.com/cigar/baccarat-maduro"
+  ],
+  "notes": "Usually sold simply as Baccarat Maduro. Famous Smoke and Holt's list a Connecticut Broadleaf wrapper; Neptune lists a Honduran maduro wrapper. The cap is sweetened.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Candela",
+  "found": true,
+  "officialName": "The Game Candela",
+  "wrapperLeaf": "Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rothschild",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "grass",
+   "earth",
+   "hay",
+   "leather"
+  ],
+  "about": "A green candela-wrapped version of the mild Baccarat cigar, made in Honduras by Davidoff's Camacho operation. It keeps the sweetened cap and has only been sold in small limited runs.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.neptunecigar.com/cigar/baccarat-candela",
+   "https://www.cigarsdirect.com/collections/baccarat-candela",
+   "https://www.cigarsdirect.com/products/baccarat-candela-rothschild"
+  ],
+  "notes": "Sold as Baccarat Candela or Baccarat The Game Candela in limited runs; Neptune now lists it as discontinued. A Churchill was also made. The cap is sweetened. Binder and filler are not confirmed by a major source; Cigars Direct lists a Mexican binder and Honduran filler, the same as the regular Baccarat.",
+  "verified": true,
+  "verifyNotes": "Was found:false. It exists: Neptune has a Baccarat The Game Candela page (mild, candela wrapper, sweetened cap, limited, now discontinued there) and Cigars Direct lists Rothschild and Churchill. Filled wrapper, country, strength and the 5 x 50 Rothschild. Binder, filler and wrapper origin left null because only Cigars Direct states the blend. Churchill left out of sizes because Cigars Direct gives 7 x 50, which does not match the regular 7 x 48 Churchill."
+ },
+ {
+  "brand": "Balmoral",
+  "line": "Añejo XO",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Sun Grown Arapiraca",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Brazil, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Agio Caribbean Tobacco Company (Royal Agio, San Pedro de Macoris)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto FT",
+    "length": 4.25,
+    "ring": 48
+   },
+   {
+    "name": "Rothschild Masivo",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Corona",
+    "length": 5.875,
+    "ring": 42
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo Mk52",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice",
+   "cocoa",
+   "cream"
+  ],
+  "about": "The flagship Balmoral blend from the Dutch company Royal Agio, built on aged tobaccos under a Brazilian Arapiraca wrapper. It was rolled at Agio's own factory in the Dominican Republic.",
+  "released": 2015,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/balmoral-anejo-xo-rothschild-masivo/95740/",
+   "https://halfwheel.com/royal-agio-adds-gran-toro-corona-and-lancero-to-balmoral-anejo-xo/122001/",
+   "https://halfwheel.com/stg-discontinuing-agios-balmoral-san-pedro-de-macoris-in-the-u-s/375838/"
+  ],
+  "notes": "No longer sold in the U.S.: pulled in 2020 after Scandinavian Tobacco Group bought Royal Agio. Strength is unclear: Neptune lists it as full, but halfwheel's review found it smooth and mellow.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country, factory, sizes and 2015 release confirmed on halfwheel. Strength stays null and unconfirmed: Neptune's spec says full, halfwheel's review calls it smooth and mellow, and the maker's site could not be reached. Halfwheel's 2015 pages give the Petit Robusto FT as 4 3/8 inches; its 2016 and 2018 pages give 4 1/4."
+ },
+ {
+  "brand": "Balmoral",
+  "line": "Añejo XO Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Brazil, Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Agio Caribbean Tobacco Company (Royal Agio, San Pedro de Macoris)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto FT",
+    "length": 4.25,
+    "ring": 48
+   },
+   {
+    "name": "Rothschild Masivo",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Corona",
+    "length": 5.875,
+    "ring": 42
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo Mk52",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "wood"
+  ],
+  "about": "A darker version of Balmoral's Añejo XO from Royal Agio, using a Mexican San Andrés wrapper over the line's Dominican, Nicaraguan and Brazilian tobaccos.",
+  "released": 2018,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/redux-balmoral-anejo-xo-oscuro-gran-toro/444082/",
+   "https://halfwheel.com/royal-agio-adds-balmoral-annejo-xo-connecticut-oscuro/268309/",
+   "https://www.neptunecigar.com/cigar/balmoral-anejo-xo-oscuro"
+  ],
+  "notes": "No longer sold in the U.S.: pulled in 2020 after Scandinavian Tobacco Group bought Royal Agio. Strength is unclear: Neptune lists it as full, while halfwheel's review had it building from light to medium-full with no pepper.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country, factory, sizes and 2018 release confirmed on halfwheel. Strength stays null and unconfirmed: Neptune says full, halfwheel's 2024 redux had strength going from none to medium to medium-full, and the maker's site could not be reached."
+ },
+ {
+  "brand": "Balmoral",
+  "line": "Añejo XO Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "U.S. Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "United States",
+  "binder": "Ecuador (Sumatra)",
+  "filler": "Brazil, Dominican Republic, United States (Pennsylvania)",
+  "country": "Dominican Republic",
+  "factory": "Agio Caribbean Tobacco Company (Royal Agio, San Pedro de Macoris)",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto FT",
+    "length": 4.25,
+    "ring": 48
+   },
+   {
+    "name": "Rothschild Masivo",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Corona",
+    "length": 5.875,
+    "ring": 42
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Torpedo Mk52",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cream",
+   "oak",
+   "espresso",
+   "vanilla",
+   "white pepper"
+  ],
+  "about": "The Connecticut shade version of Balmoral's Añejo XO from Royal Agio, with a U.S.-grown shade wrapper over an Ecuadorian Sumatra binder. It was rolled at Agio's factory in the Dominican Republic.",
+  "released": 2018,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/balmoral-anejo-xo-connecticut-rothschild-masivo/283118/",
+   "https://halfwheel.com/royal-agio-adds-balmoral-annejo-xo-connecticut-oscuro/268309/",
+   "https://www.neptunecigar.com/cigar/balmoral-anejo-xo-connecticut"
+  ],
+  "notes": "No longer sold in the U.S.: pulled in 2020 after Scandinavian Tobacco Group bought Royal Agio. Halfwheel's review put strength between mild and medium; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "No field changes. Strength kept at Mild-Medium from halfwheel's review. Neptune is inconsistent: its spec table says medium and its description says full-strength."
+ },
+ {
+  "brand": "Balmoral",
+  "line": "Serie Signaturas Dueto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan (Jalapa)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua, Brazil (Mata Norte)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Alianza S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Ovación",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "white pepper",
+   "toast"
+  ],
+  "about": "The first Balmoral Serie Signaturas release, a collaboration between Royal Agio's Boris Wintermans and Ernesto Perez-Carrillo Jr. It was made at Perez-Carrillo's Tabacalera La Alianza in the Dominican Republic.",
+  "released": 2018,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/balmoral-serie-signaturas-dueto-ovacion/291164/",
+   "https://www.neptunecigar.com/cigar/balmoral-serie-signaturas-dueto"
+  ],
+  "notes": "No longer sold in the U.S.: pulled in 2020 after Scandinavian Tobacco Group bought Royal Agio. The wrapper's seed variety is not published. Neptune lists the Gran Toro as 6 x 52.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Lawless",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Real",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "earth",
+   "cocoa",
+   "cinnamon",
+   "pepper",
+   "licorice"
+  ],
+  "about": "One of the original Black Label Trading Co. core blends from James Brown, a Nicaraguan cigar under an Ecuadorian Habano Rosado wrapper. It is made at the company's own Oveja Negra factory in Estelí.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/bltc-notes",
+   "https://halfwheel.com/black-label-trading-co-adding-robustos-to-four-lines/424790/",
+   "https://halfwheel.com/black-labels-new-core-line-packaging-to-debut-at-ipcpr-2019/360484/"
+  ],
+  "notes": "The maker rates it medium-plus; some retailers list it as medium. The maker also lists a 7 x 48 size.",
+  "verified": true,
+  "verifyNotes": "No field changes. The maker lists dimensions only; the Robusto Real, Robusto and Grand Toro names are confirmed on halfwheel and Neptune, the Toro name for 6 x 50 is not shown on a page I opened."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Salvation",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sun Grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Real",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "white pepper",
+   "dried fruit",
+   "floral",
+   "cocoa",
+   "baking spice"
+  ],
+  "about": "One of the original Black Label Trading Co. core blends from James Brown, with an Ecuadorian sun grown wrapper over a Honduran binder and Nicaraguan filler. It is made at the company's Oveja Negra factory in Estelí.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/bltc-notes",
+   "https://halfwheel.com/black-label-trading-co-adding-robustos-to-four-lines/424790/",
+   "https://www.neptunecigar.com/cigar/black-label-trading-company-salvation"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Royalty",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Real",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "floral",
+   "lavender",
+   "herbs",
+   "spice",
+   "cream"
+  ],
+  "about": "One of the original Black Label Trading Co. core blends from James Brown, with an Ecuadorian Corojo wrapper over a Honduran binder and Nicaraguan filler. It is made at the company's Oveja Negra factory in Estelí.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/bltc-notes",
+   "https://halfwheel.com/black-label-trading-co-adding-robustos-to-four-lines/424790/",
+   "https://halfwheel.com/black-labels-new-core-line-packaging-to-debut-at-ipcpr-2019/360484/"
+  ],
+  "notes": "The maker rates it medium; Neptune lists it as mild.",
+  "verified": true,
+  "verifyNotes": "Rewrote the second sentence of about: the claim that it is the most floral and restrained of the core line is not in any source. Added a note that Neptune lists mild against the maker's medium. Blend, sizes and strength confirmed on the maker's page."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Last Rites",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto Real",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Grand Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "cocoa",
+   "black pepper",
+   "cedar",
+   "anise",
+   "black cherry"
+  ],
+  "about": "The strongest of the original Black Label Trading Co. core blends from James Brown, with an Ecuadorian maduro wrapper over Honduran and Nicaraguan tobaccos. It is made at the company's Oveja Negra factory in Estelí.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/bltc-notes",
+   "https://halfwheel.com/black-label-trading-co-adding-robustos-to-four-lines/424790/",
+   "https://www.neptunecigar.com/cigar/black-label-trading-company-last-rites"
+  ],
+  "notes": "The maker also lists a 6.5 x 42 size. Neptune lists the wrapper as Ecuadorian Habano; the maker and halfwheel say Ecuadorian Maduro.",
+  "verified": true,
+  "verifyNotes": "Added the wrapper disagreement to notes. All spec fields confirmed on the maker's page and halfwheel."
+ },
+ {
+  "brand": "Black Label Trading Co.",
+  "line": "Bishops Blend",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Habano)",
+  "filler": "Nicaragua, United States (Connecticut Broadleaf, Pennsylvania Broadleaf)",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Corona Larga",
+    "length": 6.25,
+    "ring": 46
+   },
+   {
+    "name": "Lancero",
+    "length": 7,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "anise",
+   "pepper",
+   "raisin",
+   "earth"
+  ],
+  "about": "A limited Black Label Trading Co. blend that returns in a new vintage most years, built around broadleaf fillers under an Ecuadorian maduro wrapper. It is made at the Oveja Negra factory in Estelí.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://ovejanegracigars.com/blogs/news/2026-black-label-trading-co-bishops-blend",
+   "https://halfwheel.com/black-label-trading-co-announces-bishops-blend-2021/394279/",
+   "https://halfwheel.com/black-label-trading-co-bishops-blend-2026-lancero/479356/"
+  ],
+  "notes": "Released in dated yearly batches. The 2026 edition is a barber pole that adds a Connecticut broadleaf wrapper to the usual Ecuadorian maduro. Neptune lists it as full; halfwheel's review of the 2026 Lancero put strength at medium to medium-full.",
+  "verified": true,
+  "verifyNotes": "Swapped the third source for halfwheel's 2026 Lancero review, which is where the strength reading in the notes comes from and repeats the blend. No spec changes. The maker does not publish a strength; Medium-Full is halfwheel's finishing strength and Neptune says full."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Killer Bee",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Maduro with Connecticut shade accents",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "herbs",
+   "pepper",
+   "citrus",
+   "earth",
+   "dried fruit",
+   "cocoa"
+  ],
+  "about": "One of the three debut blends from Black Works Studio, James Brown's small-batch brand at the Oveja Negra factory. It is a Nicaraguan cigar in an Ecuadorian maduro wrapper, known for its closed foot and a striped cap made with a lighter leaf.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/blkwks-notes",
+   "https://halfwheel.com/black-works-studio-ships-first-three-lines-releases-additional-details/100956/",
+   "https://halfwheel.com/black-works-studio-adds-killer-bee-robusto-the-hornet-corona-larga/425029/"
+  ],
+  "notes": "The maker rates it medium-plus and at launch said it sits between medium-full and full; some retailers list medium. Killer Bee Connecticut is a separate blend.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf reworded: halfwheel says Ecuadorian maduro with Connecticut shade accents and the maker says Ecuadorian Maduro/Connecticut. Neither says the accent leaf is Ecuadorian-grown."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "NBK",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Box Press Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Box Press Corona Larga",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "nuts",
+   "candied fruit",
+   "cherry",
+   "anise",
+   "cedar"
+  ],
+  "about": "One of the three debut blends from Black Works Studio, James Brown's small-batch brand at the Oveja Negra factory. It is a box-pressed Nicaraguan cigar in an Ecuadorian Habano Oscuro wrapper with a closed foot.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/blkwks-notes",
+   "https://halfwheel.com/black-works-studio-ships-first-three-lines-releases-additional-details/100956/",
+   "https://halfwheel.com/black-works-studio-adds-sr-boondock-saint-and-sindustry-plus-new-sizes-for-nbk-and-killer-bee/123341/"
+  ],
+  "notes": "The maker's site lists it as medium, but at launch James Brown described it as between medium-full and full.",
+  "verified": true,
+  "verifyNotes": "No field changes. The Corona Larga name for the 6 x 46 comes from halfwheel's launch announcement (halfwheel.com/black-label-trading-co-s-founder-launches-black-works-studio/98956/), not from the listed sources."
+ },
+ {
+  "brand": "Black Works Studio",
+  "line": "Rorschach",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fabrica Oveja Negra",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Petite Panatela",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "dark fruit",
+   "anise",
+   "cocoa",
+   "pepper",
+   "cinnamon",
+   "cedar"
+  ],
+  "about": "One of the three debut blends from Black Works Studio, James Brown's small-batch brand at the Oveja Negra factory. It is a Nicaraguan cigar in an Ecuadorian Habano wrapper that started as a small, inexpensive petite panatela.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://ovejanegracigars.com/pages/blkwks-notes",
+   "https://halfwheel.com/black-works-studio-rorschach/107664/",
+   "https://halfwheel.com/black-label-trading-co-adding-a-trio-of-toros/466444/"
+  ],
+  "notes": "The maker rates it medium-plus; some retailers list it as medium. Rorschach Sumatra is a separate version with a Sumatra wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Crow",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Nicaragua, United States (Pennsylvania), Corojo, Criollo 98",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Doble Toro",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "chocolate"
+  ],
+  "about": "A core line from Jonas Santana's Blackbird Cigar Co., made at the company's own factory in the Dominican Republic. It has a dark Mexican San Andrés wrapper and is one of the stronger cigars in the range.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://blackbirdcigar.com/cigars/crow/",
+   "https://halfwheel.com/blackbirds-crow-box-pressed-gets-soft-launch-ahead-of-october-release/441480/",
+   "https://www.neptunecigar.com/cigar/blackbird-crow"
+  ],
+  "notes": "The maker calls it medium to full; some retailers list medium. A limited 6 x 52 box-pressed toro also exists.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Rook",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Habano (Dominican Republic)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "sweetness"
+  ],
+  "about": "A core line from Jonas Santana's Blackbird Cigar Co., made at the company's own factory in the Dominican Republic. It is a creamy, aromatic cigar with a Sumatra wrapper and blue bands.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://blackbirdcigar.com/cigars/rook/",
+   "https://halfwheel.com/ipcpr-2019-blackbird-cigar-co/363655/",
+   "https://www.neptunecigar.com/cigar/blackbird-rook"
+  ],
+  "notes": "The maker does not say where the Sumatra wrapper is grown. The maker calls it mild to medium; some retailers list mild.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Cuco",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black pepper"
+  ],
+  "about": "A core line from Jonas Santana's Blackbird Cigar Co., made at the company's own factory in the Dominican Republic. It pairs a Brazilian wrapper with an Indonesian binder and Dominican filler, and is one of the fuller cigars in the range.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://blackbirdcigar.com/cigars/cuco/",
+   "https://halfwheel.com/ipcpr-2019-blackbird-cigar-co/363655/",
+   "https://www.neptunecigar.com/cigar/blackbird-cuco"
+  ],
+  "notes": "The maker does not name the Brazilian wrapper variety. The maker calls it medium to full; some retailers list medium.",
+  "verified": true,
+  "verifyNotes": "Reworded about: the maker only calls it medium to full bodied and does not rank it among its strongest cigars."
+ },
+ {
+  "brand": "Blackbird",
+  "line": "Finch",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, United States",
+  "country": "Dominican Republic",
+  "factory": "Blackbird Dominicana",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "white pepper",
+   "coffee"
+  ],
+  "about": "A mild core line from Jonas Santana's Blackbird Cigar Co., made at the company's own factory in the Dominican Republic. It has a Sumatra wrapper and some U.S. tobacco in the filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://blackbirdcigar.com/cigars/finch/",
+   "https://halfwheel.com/ipcpr-2019-blackbird-cigar-co/363655/",
+   "https://www.neptunecigar.com/cigar/blackbird-finch"
+  ],
+  "notes": "The maker does not say where the Sumatra wrapper is grown. The maker now lists only the Robusto; it launched with a 6 x 54 Gran Toro too, and some retailers carry a 6 x 52 Toro.",
+  "verified": true,
+  "verifyNotes": "Reworded about: sources call it mild but none says it is the mildest in the range."
+ },
+ {
+  "brand": "Bolivar",
+  "line": "Cofradia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "United States (Connecticut Broadleaf)",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "770",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "oak",
+   "earth",
+   "cedar",
+   "leather",
+   "nuts"
+  ],
+  "about": "The non-Cuban Bolivar line sold in the U.S. by Scandinavian Tobacco Group's Forged Cigar Co., made in Honduras. It is a value-priced cigar with an Ecuadorian Sumatra wrapper over a Connecticut broadleaf binder.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/gereral-adding-gigante-vitola-to-bolivar-cofradia-line-next-month/446601/",
+   "https://www.famous-smoke.com/bolivar-cofradia-churchill-cigars-natural",
+   "https://www.neptunecigar.com/cigar/bolivar-cofradia"
+  ],
+  "notes": "This is the non-Cuban Bolivar. Halfwheel lists the Churchill at 7 1/2 inches; Famous Smoke and Neptune list 7 1/4. Bolivar Cofradia Oscuro is a separate blend with a Connecticut broadleaf wrapper.",
+  "verified": true,
+  "verifyNotes": "No field changes. The 770 (7 x 70) is confirmed by halfwheel's July 2026 article (halfwheel.com/bolivar-cofradia-770s-released/474678/); Neptune calls it Gordo Extra. Release year could not be found and stays null."
+ }
+]

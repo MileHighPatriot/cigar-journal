@@ -1,0 +1,825 @@
+[
+  {
+    "brand": "Hiram & Solomon",
+    "line": "Entered Apprentice",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Shade (Talanga, Honduras)",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras (Connecticut Shade, Talanga)",
+    "filler": "Nicaragua (Habano Ometepe), USA (Pennsylvania), Paraguay",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gavel",
+        "length": 5,
+        "ring": 60
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cream",
+      "white pepper",
+      "cinnamon"
+    ],
+    "about": "A mild to medium cigar in Hiram & Solomon's Masonic-themed core line, named for the first degree of Freemasonry. It pairs a Honduran-grown Connecticut Shade wrapper with a three-country filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://hiramandsolomoncigars.com/core-line/entered-apprentice/",
+      "https://www.neptunecigar.com/cigar/hiram-and-solomon-entered-apprentice",
+      "https://halfwheel.com/hiram-solomon-moving-all-production-to-pdr-cigars/409844/"
+    ],
+    "notes": "The maker calls it mild to medium; Neptune lists it as mild. It was first made at Plasencia in Nicaragua, and production moved to PDR Cigars in the Dominican Republic in 2022.",
+    "verified": true,
+    "verifyNotes": "Reworded about to drop an unsupported claim that it is the mildest in the line. Blend and strength match the maker page; country, factory and the Gavel and Gran Toro sizes confirmed on Neptune."
+  },
+  {
+    "brand": "Hiram & Solomon",
+    "line": "Fellow Craft",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Habano Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": null,
+    "binder": "Indonesia (Sumatra)",
+    "filler": "Nicaragua (Habano Jalapa, Habano Ometepe, Habano Esteli ligero)",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gavel",
+        "length": 5,
+        "ring": 60
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "leather",
+      "cedar",
+      "chocolate",
+      "earth"
+    ],
+    "about": "The middle cigar of Hiram & Solomon's three Masonic degree blends, named for the second degree of Freemasonry. It uses a dark Habano wrapper over an Indonesian binder and Nicaraguan fillers.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://hiramandsolomoncigars.com/core-line/fellow-craft/",
+      "https://www.neptunecigar.com/cigar/hiram-and-solomon-fellow-craft",
+      "https://halfwheel.com/hiram-solomon-moving-all-production-to-pdr-cigars/409844/"
+    ],
+    "notes": "The maker calls it medium to full; Neptune lists it as medium. The maker does not say where the wrapper is grown. Production moved from Plasencia in Nicaragua to PDR Cigars in the Dominican Republic in 2022.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Hiram & Solomon",
+    "line": "Master Mason",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Habano Maduro Oscuro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": null,
+    "binder": "Indonesia (Sumatra)",
+    "filler": "Nicaragua (Habano Jalapa, Habano Ometepe, Habano Esteli ligero)",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gavel",
+        "length": 5,
+        "ring": 60
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cocoa",
+      "cedar"
+    ],
+    "about": "The fullest of Hiram & Solomon's three Masonic degree blends, named for the third degree of Freemasonry. It wears a dark Habano maduro wrapper over an Indonesian binder and Nicaraguan fillers.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://hiramandsolomoncigars.com/core-line/master-mason/",
+      "https://www.neptunecigar.com/cigar/hiram-and-solomon-master-mason",
+      "https://halfwheel.com/hiram-solomon-moving-all-production-to-pdr-cigars/409844/"
+    ],
+    "notes": "The maker does not say where the wrapper is grown. Production moved from Plasencia in Nicaragua to PDR Cigars in the Dominican Republic in 2022.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Hiram & Solomon",
+    "line": "Traveling Man",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Indonesian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Indonesia",
+    "binder": "Indonesia",
+    "filler": "Brazil (Arapiraca), Nicaragua (Habano Jalapa, Habano Ometepe), Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "PDR Cigars",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "spice",
+      "coffee",
+      "cream",
+      "cocoa",
+      "leather"
+    ],
+    "about": "A medium-bodied Hiram & Solomon core blend named for a term used by Freemasons. It uses Indonesian wrapper and binder over fillers from Brazil, Nicaragua and the Dominican Republic.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://hiramandsolomoncigars.com/core-line/traveling-man/",
+      "https://www.neptunecigar.com/cigar/hiram-and-solomon-traveling-man",
+      "https://halfwheel.com/hiram-solomon-moving-all-production-to-pdr-cigars/409844/"
+    ],
+    "notes": "Production moved from Plasencia in Nicaragua to PDR Cigars in the Dominican Republic in 2022.",
+    "verified": true,
+    "verifyNotes": "Reworded about: the sources only say the name is a Masonic term. All spec fields confirmed against the maker page and Neptune."
+  },
+  {
+    "brand": "Hoyo de Monterrey",
+    "line": "Excalibur Natural",
+    "found": true,
+    "officialName": "Excalibur",
+    "wrapperLeaf": "Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "USA",
+    "binder": "Connecticut Shade",
+    "filler": "Dominican Republic, Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. I",
+        "length": 7.25,
+        "ring": 54
+      },
+      {
+        "name": "No. II",
+        "length": 6.75,
+        "ring": 47
+      },
+      {
+        "name": "No. III",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "No. IV",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "No. V",
+        "length": 6.25,
+        "ring": 45
+      },
+      {
+        "name": "No. 660",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Epicure",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "Short Crystal",
+        "length": 5.25,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "earth",
+      "espresso",
+      "mocha"
+    ],
+    "about": "The long-running Honduran Excalibur line from the non-Cuban Hoyo de Monterrey brand, made by General Cigar. The natural version has a Connecticut Shade wrapper and comes mostly in large sizes.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.hoyocigars.com/our-cigars/excalibur/",
+      "https://www.neptunecigar.com/cigar/excalibur",
+      "https://www.holts.com/cigars/all-cigar-brands/excalibur.html"
+    ],
+    "notes": "The maker rates it mellow to medium, while Neptune says medium and Holt's says medium-full. Retailers date the line to the 1970s without giving a year. Also sold as cigarillos and miniatures.",
+    "verified": true,
+    "verifyNotes": "Reworded about: General Cigar is the maker and is itself owned by Scandinavian Tobacco Group. The maker's mellow to medium rating is labelled body on its page. Specs confirmed on the maker page, Neptune and Holt's."
+  },
+  {
+    "brand": "Hoyo de Monterrey",
+    "line": "Excalibur Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Connecticut Shade",
+    "filler": "Dominican Republic, Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. I Maduro",
+        "length": 7.25,
+        "ring": 54
+      },
+      {
+        "name": "No. II Maduro",
+        "length": 6.75,
+        "ring": 47
+      },
+      {
+        "name": "No. III Maduro",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "Epicure Maduro",
+        "length": 5.25,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "leather",
+      "earth",
+      "hazelnut",
+      "molasses"
+    ],
+    "about": "The maduro version of the Honduran Excalibur line from the non-Cuban Hoyo de Monterrey brand. It swaps the Connecticut Shade wrapper for Connecticut Broadleaf over the same three-country filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.hoyocigars.com/our-cigars/excalibur-maduro/",
+      "https://www.neptunecigar.com/cigar/excalibur-maduro",
+      "https://www.holts.com/cigars/all-cigar-brands/excalibur.html"
+    ],
+    "notes": "The maker rates it medium; Holt's lists Excalibur as medium-full. Also sold as cigarillos and miniatures.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Hoyo de Monterrey",
+    "line": "Hoyo La Amistad",
+    "found": true,
+    "officialName": "La Amistad Gold",
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Condega, Esteli, Jalapa, Ometepe)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cocoa",
+      "fruit",
+      "nuts"
+    ],
+    "about": "A 2016 collaboration between General Cigar's Hoyo de Monterrey brand and AJ Fernandez, who blended it and rolls it at his factory in Esteli. La Amistad means friendship in Spanish.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://www.hoyocigars.com/our-cigars/la-amistad-gold/",
+      "https://halfwheel.com/ipcpr-2016-general-cigar-co/128060/",
+      "https://www.cigarworld.com/cigars/hoyo-de-monterrey/hoyo-la-amistad-gold/"
+    ],
+    "notes": "Now sold as La Amistad Gold. The maker's site lists an Ecuadorian Criollo wrapper, but General Cigar's own store description, halfwheel and Neptune say Ecuadorian Habano. The maker lists the Robusto at 5.25 x 54; halfwheel and Neptune say 5 x 54. Neptune rates it full.",
+    "verified": true,
+    "verifyNotes": "Corrected notes: the Ecuadorian Habano wording is on General Cigar's Cigar World store page, not on hoyocigars.com, which says Ecuadorian Criollo. Kept Habano because halfwheel's launch specs and review agree. Factory name confirmed in halfwheel's 2018 La Amistad Black article."
+  },
+  {
+    "brand": "Hoyo de Monterrey",
+    "line": "La Amistad Black",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra Oscuro",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Mexico (San Andres)",
+    "filler": "Nicaragua (Habano ligero)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Gigante Box Pressed",
+        "length": 5.875,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "spice",
+      "black pepper",
+      "cinnamon",
+      "leather"
+    ],
+    "about": "A 2018 follow-up to Hoyo La Amistad, again blended and rolled by AJ Fernandez in Esteli for General Cigar. It has a dark Ecuadorian Sumatra wrapper over a Mexican San Andres binder and Nicaraguan filler.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://www.hoyocigars.com/our-cigars/la-amistad-black/",
+      "https://halfwheel.com/general-cigar-co-a-j-fernandez-team-up-for-hoyo-la-amistad-black/270528/",
+      "https://www.neptunecigar.com/cigar/hoyo-la-amistad-black"
+    ],
+    "notes": "The maker rates it medium to full; Neptune lists it as full. halfwheel's launch story gave the Gigante as 6 x 60, while the maker lists 5 7/8 x 60.",
+    "verified": true,
+    "verifyNotes": "Reworded about to remove the press-release claim that it is the boldest La Amistad blend. All spec fields confirmed against the maker page, halfwheel and Neptune."
+  },
+  {
+    "brand": "Hoyo de Monterrey",
+    "line": "Dark Sumatra",
+    "found": true,
+    "officialName": "La Amistad Dark Sumatra",
+    "wrapperLeaf": "Ecuadorian Sumatra Oscuro",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Dominican Republic (Habano ligero), Honduras, Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Espresso",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Media Noche",
+        "length": 5.75,
+        "ring": 54
+      },
+      {
+        "name": "Noche",
+        "length": 6.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "earth",
+      "black pepper",
+      "espresso",
+      "dark wood"
+    ],
+    "about": "A dark Ecuadorian Sumatra-wrapped Hoyo de Monterrey blend. Since 2019 it has been made by AJ Fernandez in Esteli and sold under the La Amistad name, replacing the Honduran-made original.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.hoyocigars.com/our-cigars/la-amistad-dark-sumatra/",
+      "https://halfwheel.com/a-j-fernandez-creates-hoyo-de-monterrey-la-amistad-dark-sumatra/298749/",
+      "https://www.neptunecigar.com/cigar/hoyo-la-amistad-dark-sumatra"
+    ],
+    "notes": "The original Hoyo Dark Sumatra was made at STG Danli in Honduras. Since 2019 the same blend has been made by AJ Fernandez in Nicaragua and sold as La Amistad Dark Sumatra. The maker rates it medium to full; Neptune lists it as full.",
+    "verified": true,
+    "verifyNotes": "Factory changed from 'AJ Fernandez' to the full factory name halfwheel gives. Removed the claim that Holt's still lists the Honduran version, which the Holt's page does not show. Swapped the Cigar World link for the halfwheel 2019 story that states the factory move, and reworded about to match."
+  },
+  {
+    "brand": "Hoyo de Monterrey",
+    "line": "Rothschild",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Honduras, Nicaragua, Dominican Republic",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cream",
+      "black pepper",
+      "espresso",
+      "almond"
+    ],
+    "about": "The short robusto size of the core Honduran Hoyo de Monterrey line from General Cigar. It measures 4.5 x 50 and is sold in both Sumatra and maduro wrappers.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.hoyocigars.com/our-cigars/hoyo-de-monterrey-sumatra/",
+      "https://www.hoyocigars.com/our-cigars/hoyo-de-monterrey-maduro/",
+      "https://www.holts.com/cigars/all-cigar-brands/hoyo-de-monterrey.html"
+    ],
+    "notes": "Rothschild is one size (4.5 x 50) of the core Hoyo de Monterrey line, not a line of its own. Details here are for the Sumatra version; the Maduro version has a Connecticut Broadleaf wrapper and Connecticut Shade binder. The La Amistad lines also have a Rothschild size. Holt's rates the line medium-full.",
+    "verified": true,
+    "verifyNotes": "Reworded about to drop 'classic'. Blend and size confirmed on the maker's Sumatra and Maduro pages; Honduras and the medium-full rating confirmed on Holt's."
+  },
+  {
+    "brand": "HVC",
+    "line": "La Rosa 520",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "La Rosa 520",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Reyes",
+        "length": 6.25,
+        "ring": 48
+      },
+      {
+        "name": "Encantos",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Short Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Favoritos",
+        "length": 6.25,
+        "ring": 42
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "coffee",
+      "wood",
+      "cocoa",
+      "nuts",
+      "cream"
+    ],
+    "about": "A Nicaraguan puro from HVC made with Aganorsa tobaccos from Jalapa, named for the Havana street address where founder Reinier Lorenzo lived. It debuted in 2015 and every size has been a small limited run.",
+    "released": 2015,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/hvc-pays-tribute-la-rosa-520/80717/",
+      "https://halfwheel.com/hvc-la-rosa-520-reyes/133997/",
+      "https://halfwheel.com/hvc-la-rosa-520-favoritos-2/364504/"
+    ],
+    "notes": "Details are for the original 2015 blend. The 2022 Rare of Rare (made in Miami at El Titan de Bronze, Ecuadorian Sumatra wrapper) and the 2025 10 Year Anniversary (Ecuadorian Habano 92 wrapper) are different blends. No maker strength rating; halfwheel's reviews found it medium, building toward full.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Medium-Full: no listed source gave a rating, HVC's site is a coming-soon page, and halfwheel's reviews of three sizes describe medium strength that builds to medium-full or full. Neptune's La Rosa 520 page covers the Rare of Rare, not this blend. Flavors replaced with notes from the halfwheel reviews."
+  },
+  {
+    "brand": "HVC",
+    "line": "Hot Cake",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Corojo 99 from Jalapa, Corojo 98 from Esteli)",
+    "filler": "Nicaragua (Corojo 2006 maduro viso)",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Half Corona",
+        "length": 3.5,
+        "ring": 44
+      },
+      {
+        "name": "Laguito No. 4",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Laguito No. 5",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Gran Cañon",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "nuts",
+      "coffee",
+      "cocoa",
+      "leather",
+      "white pepper"
+    ],
+    "about": "HVC's regular-production San Andres maduro, launched in 2020 as a follow-up to the limited Pan Caliente. It uses Aganorsa-grown Nicaraguan corojo under a Mexican wrapper.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/hvc-announces-hot-cake/378779/",
+      "https://halfwheel.com/hvc-hot-cake-maduro-half-corona-shipping-next-week/432054/",
+      "https://www.neptunecigar.com/cigar/hvc-hot-cake"
+    ],
+    "notes": "Now also called Hot Cake Maduro, since a Golden Line (Ecuadorian Connecticut) and a Broadleaf version were added. It was first made by Aganorsa at the TABSA factory and is now made at HVC's own factory in Esteli. Neptune calls it fuller bodied but lists strength as medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "HVC",
+    "line": "First Selection",
+    "found": true,
+    "officialName": "First Selection Broadleaf",
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "earth",
+      "cedar",
+      "cinnamon",
+      "black pepper",
+      "nuts"
+    ],
+    "about": "HVC's first Connecticut Broadleaf cigar, made with Aganorsa-grown Nicaraguan binder and filler. It began in 2018 as a 500-box limited edition and became regular production in 2019.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/hvc-first-selection-broadleaf-goes-regular-production/299356/",
+      "https://halfwheel.com/hvc-first-selection-broadleaf/286794/",
+      "https://www.neptunecigar.com/cigar/hvc-first-selection-broadleaf-2018"
+    ],
+    "notes": "Full name is First Selection Limited Edition Broadleaf. It was the first broadleaf-wrapped cigar made at Aganorsa's TABSA factory. halfwheel's review rated the strength medium-full; Neptune lists it as medium. Not the same cigar as HVC Seleccion No. 1.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Medium-Full: halfwheel's review states medium-full strength in every third, and only Neptune says medium. HVC's own site publishes no specs. Other fields confirmed."
+  },
+  {
+    "brand": "HVC",
+    "line": "Seleccion No. 1",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Esteli, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Fábrica de Tabacos HVC S.A. de Reinier Lorenzo",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Esenciales",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Poderosos",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "chocolate",
+      "earth"
+    ],
+    "about": "The first line made at HVC's own factory in Esteli, which founder Reinier Lorenzo opened in 2022. It is a San Andres-wrapped Nicaraguan blend done in an old Cuban style.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/hvc-seleccion-no-1-esenciales/415565/",
+      "https://cigar-coop.com/2023/06/cigar-review-hvc-seleccion-no-1-maduro-esenciales.html",
+      "https://www.neptunecigar.com/cigar/hvc-havana-city-seleccion-no1-maduro"
+    ],
+    "notes": "Details are for the original San Andres blend, now sold as Seleccion No. 1 Maduro. A Natural (Ecuadorian Habano 92, 2023) and a Connecticut (Ecuadorian Connecticut, 2024) come in the same three sizes. Neptune lists it as medium, but halfwheel and Cigar Coop both found it full strength.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Full: halfwheel calls the strength very full and Cigar Coop says it reaches full by the midpoint; only Neptune says medium. Replaced the halfwheel announcement link with the Cigar Coop review. The Natural and Connecticut details in notes were confirmed in halfwheel's 2023 and 2024 stories."
+  },
+  {
+    "brand": "HVC",
+    "line": "Serie A",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (Aganorsa Leaf)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Cañonazos",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Perlas",
+        "length": 5.625,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "earth",
+      "leather",
+      "almond",
+      "spice",
+      "black pepper"
+    ],
+    "about": "A Nicaraguan puro from HVC named for the grade A Aganorsa tobacco it is made from, with a corojo 99 wrapper. It launched in 2019 as a regular-production line.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/hvc-serie-a-perlas/368840/",
+      "https://halfwheel.com/hvc-serie-a-short-toro/420122/",
+      "https://www.neptunecigar.com/cigar/hvc-serie-a"
+    ],
+    "notes": "The regular sizes are made by Aganorsa Leaf in Esteli. Store-exclusive sizes exist, including a 5 x 50 Robusto and a 4.5 x 56 Short Toro that was made at HVC's own factory.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "HVC",
+    "line": "Black Friday",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [],
+    "about": "HVC's annual limited edition, released each fall since 2015 and sold in boxes of 50. Each year's release comes in a single size that has not been repeated.",
+    "released": 2015,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/hvc-black-friday-2024/445663/",
+      "https://halfwheel.com/hvc-black-friday-10th-anniversary-limited-edition/459400/",
+      "https://www.neptunecigar.com/cigar/hvc-black-friday"
+    ],
+    "notes": "The size changes every year and the blend varies, so check the year. 2024 (5 7/8 x 52) has a Mexican San Andres wrapper; the 2025 10th Anniversary (6 1/4 x 54) has an Ecuadorian Habano 92 wrapper. Both use Nicaraguan binder and filler and were made at HVC's own factory in Esteli.",
+    "verified": true,
+    "verifyNotes": ""
+  }
+]

@@ -1,0 +1,1107 @@
+[
+  {
+    "brand": "Diesel",
+    "line": "Whiskey Row",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Mexico (San Andrés, aged in Rabbit Hole bourbon barrels)",
+    "filler": "Nicaragua (Condega, Jalapa, Ometepe)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 49
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "oak",
+      "spice",
+      "leather",
+      "dark chocolate",
+      "espresso"
+    ],
+    "about": "A Diesel line made by AJ Fernandez with Rabbit Hole Distilling of Louisville. Its Mexican San Andrés binder is aged in barrels that held Rabbit Hole bourbon.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://www.dieselcigars.com/products/whiskey-row/",
+      "https://halfwheel.com/diesel-whiskey-row-toro-prerelease/266625",
+      "https://www.neptunecigar.com/cigar/diesel-whiskey-row"
+    ],
+    "notes": "The maker rates it medium-full; Neptune lists it as medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Diesel",
+    "line": "Unholy Cocktail",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Pennsylvania Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Jalapa, Estelí, Condega)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Unholy Cocktail (Belicoso)",
+        "length": 5,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "chocolate",
+      "spice",
+      "earth",
+      "cedar",
+      "leather",
+      "sweetness"
+    ],
+    "about": "The belicoso from the original Diesel line, blended by AJ Fernandez in Estelí, Nicaragua. It has a Pennsylvania Broadleaf wrapper over Nicaraguan binder and filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.dieselcigars.com/products/diesel/",
+      "https://www.famous-smoke.com/brand/diesel-cigars",
+      "https://www.holts.com/cigars/all-cigar-brands/diesel.html"
+    ],
+    "notes": "Unholy Cocktail is the 5 x 56 belicoso size of the original Diesel line, which also has a Robusto and the Shorty. The maker and Holt's rate it medium-full; Famous Smoke lists it as full.",
+    "verified": true,
+    "verifyNotes": "Rewrote about to drop an unsupported line about the brand being built on this cigar. The factory name is not on the listed pages; confirmed from halfwheel, which says all Diesel cigars are made at Tabacalera AJ Fernandez (https://halfwheel.com/diesel-crucible-shipping-next-week/392848/)."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Uncaged",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano Criollo",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "toast",
+      "leather",
+      "dark chocolate"
+    ],
+    "about": "A Nicaraguan puro added to the Diesel lineup in August 2026, made by AJ Fernandez with a Habano Criollo wrapper. It sells for about 6 to 7 dollars a cigar.",
+    "released": 2026,
+    "production": "regular",
+    "sources": [
+      "https://www.dieselcigars.com/products/uncaged/",
+      "https://halfwheel.com/diesel-uncaged-arrives-at-stores/476178/",
+      "https://www.neptunecigar.com/cigar/diesel-uncaged"
+    ],
+    "notes": "The maker rates it medium-full; Neptune lists it as full and gives the Robusto as 5 x 52 instead of 5.5 x 52.",
+    "verified": true,
+    "verifyNotes": "Reworded about: replaced the everyday smoke line, which echoed the press quote, with the price range halfwheel gives."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Unlimited",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Condega, Estelí), Mexico (San Andrés)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "d.4 (Robusto)",
+        "length": 4.75,
+        "ring": 52
+      },
+      {
+        "name": "d.5 (Robusto)",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "d.X (Belicoso)",
+        "length": 5.75,
+        "ring": 56
+      },
+      {
+        "name": "d.NT (Perfecto)",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "d.6 (Gordo)",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "d.7 (Presidente)",
+        "length": 7,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "earth",
+      "oak",
+      "spice",
+      "leather"
+    ],
+    "about": "A stronger blend inspired by the original Diesel, made by AJ Fernandez with a dark Ecuadorian Habano ligero wrapper. Its sizes carry d. names such as d.5 and d.6.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.dieselcigars.com/products/unlimited/",
+      "https://www.famous-smoke.com/brand/diesel-unlimited-cigars",
+      "https://www.neptunecigar.com/cigar/diesel-unlimited"
+    ],
+    "notes": "The maker's spec sheet says medium-full, while its own description and Famous Smoke call it full. A separate Unlimited Maduro uses a Pennsylvania Broadleaf wrapper.",
+    "verified": true,
+    "verifyNotes": "Added the Neptune page as a source: it is the page that names the Condega and Estelí filler and the ligero wrapper. Reworded about. Sizes 4.75 and 5.75 confirmed at Famous Smoke (the maker rounds them to 4.7 and 5.7). Factory confirmed from halfwheel, which says all Diesel cigars are made at Tabacalera AJ Fernandez."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Hair of the Dog",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador (Sumatra)",
+    "filler": "Nicaragua (Habano)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro (Box Pressed)",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "spice",
+      "leather"
+    ],
+    "about": "A box-pressed limited edition toro from Diesel and AJ Fernandez, released in 2019. It was the first of the three cigars later called the Elixir trilogy.",
+    "released": 2019,
+    "production": "limited",
+    "sources": [
+      "https://www.dieselcigars.com/products/hair-of-the-dog/",
+      "https://halfwheel.com/diesel-hair-of-the-dog/299339/",
+      "https://www.neptunecigar.com/cigar/diesel-hair-of-the-dog"
+    ],
+    "notes": "One size only, limited to 5,000 boxes of 10. The maker's spec sheet and Neptune say medium, though the maker's description calls it medium to full-bodied.",
+    "verified": true,
+    "verifyNotes": "Changed the flavor black pepper to pepper, which is the word the maker uses."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Crucible",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Estelí Habano)",
+    "filler": "Nicaragua (Jalapa Habano, Jalapa ligero)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "blackberry",
+      "dark chocolate",
+      "molasses",
+      "spice"
+    ],
+    "about": "A full-bodied limited edition toro made by AJ Fernandez, released in 2021 as the last of Diesel's Elixir trilogy after Hair of the Dog and Delirium. It reuses the name of a 2012 Diesel limited edition.",
+    "released": 2021,
+    "production": "limited",
+    "sources": [
+      "https://www.dieselcigars.com/products/crucible/",
+      "https://halfwheel.com/diesel-crucible-shipping-next-week/392848/",
+      "https://halfwheel.com/diesel-crucible/26750/"
+    ],
+    "notes": "Limited to 3,000 boxes of 10. The maker's spec sheet calls the wrapper Nicaraguan, but its own description, halfwheel and Neptune say Ecuadorian Habano. Halfwheel lists 6 x 52 with some Honduran filler; the maker and Neptune say 6 x 50. A different Diesel Crucible came out in 2012.",
+    "verified": true,
+    "verifyNotes": "Shortened notes to fit the length rule and added the wrapper conflict on the maker's own page. Wrapper kept as Ecuadorian Habano (maker description, halfwheel, Neptune)."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Sunday Gravy",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Estelí)",
+    "filler": "Nicaragua (Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "San Marzano",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Pecorino",
+        "length": 5,
+        "ring": 56
+      },
+      {
+        "name": "Rosamarino",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gabagool",
+        "length": 5.25,
+        "ring": 45
+      },
+      {
+        "name": "Grappa",
+        "length": 5,
+        "ring": 56
+      },
+      {
+        "name": "Porcellino",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "earth",
+      "nuts",
+      "tobacco",
+      "sweetness"
+    ],
+    "about": "A series of six seasonal limited releases from Diesel and AJ Fernandez, each a different blend and size priced at about five dollars. It ran from August 2021 to October 2022.",
+    "released": 2021,
+    "production": "limited",
+    "sources": [
+      "https://www.dieselcigars.com/products/sunday-gravy/",
+      "https://halfwheel.com/diesel-sunday-gravy-san-marzano-kicks-off-new-series-of-seasonal-releases/398920/",
+      "https://halfwheel.com/diesel-sunday-gravy-wraps-up-series-with-porcellino/414286/"
+    ],
+    "notes": "Each of the six releases is its own blend; the blend shown is San Marzano, the first. Pecorino used a San Andrés wrapper and Gabagool an Ecuadorian Sumatra wrapper. The maker's spec sheet calls the San Marzano wrapper Nicaraguan, while halfwheel says Ecuadorian Habano.",
+    "verified": true,
+    "verifyNotes": "No field changes. All six release sizes confirmed against halfwheel. The wrapper for San Marzano is in conflict: the maker's spec list says Nicaraguan, halfwheel (quoting the press release, two articles) says Ecuadorian Habano. Kept Ecuadorian Habano; the notes already flag it."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Estelí Puro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Estelí Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Estelí Habano)",
+    "filler": "Nicaragua (Estelí Habano)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cream",
+      "nuts",
+      "molasses",
+      "cocoa",
+      "wood",
+      "earth"
+    ],
+    "about": "A Nicaraguan puro made only with tobacco grown on AJ Fernandez's farms in Estelí and rolled at his factory there. It joined the Diesel lineup in 2020.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://www.dieselcigars.com/products/esteli-puro/",
+      "https://halfwheel.com/diesel-esteli-puro-robusto/382312/",
+      "https://www.neptunecigar.com/cigar/diesel-esteli-puro"
+    ],
+    "notes": "The maker rates it medium-full; Neptune lists it as full. The maker's page now shows only the Robusto and Toro.",
+    "verified": true,
+    "verifyNotes": "Changed the flavor cedar to wood; the maker says woody, not cedar."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Whiskey Row Sherry Cask",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Brazil (Arapiraca, aged in Rabbit Hole Pedro Ximénez sherry casks)",
+    "filler": "Nicaragua (Habano)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "dark fruit",
+      "cedar",
+      "chocolate"
+    ],
+    "about": "The second Diesel and Rabbit Hole collaboration, made by AJ Fernandez. Its Brazilian Arapiraca binder is aged in Pedro Ximénez sherry casks that Rabbit Hole used to finish bourbon, under a Connecticut Broadleaf wrapper.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://www.dieselcigars.com/products/whiskey-row-sherry-cask/",
+      "https://halfwheel.com/diesel-whiskey-row-sherry-cask-robusto/364803/",
+      "https://www.famous-smoke.com/brand/diesel-whiskey-row-cigars"
+    ],
+    "notes": "The maker rates it medium-full; Famous Smoke lists it as medium.",
+    "verified": true,
+    "verifyNotes": "Flavors now use the maker's words: pepper and dark fruit instead of black pepper and dried fruit."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Cask Aged",
+    "found": false,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": null,
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [],
+    "about": null,
+    "released": null,
+    "production": null,
+    "sources": [],
+    "notes": "No Diesel line called Cask Aged appears on the maker's product list or at the retailers checked. The nearest matches are Whiskey Row (bourbon barrel aged binder) and Whiskey Row Sherry Cask, which Famous Smoke lists as PX Sherry Cask Aged.",
+    "verified": false,
+    "verifyNotes": "Second attempt made: nothing called Cask Aged is on the maker's product list (28 lines). Famous Smoke sells Whiskey Row Sherry Cask under the name PX Sherry Cask Aged, so this entry is most likely that cigar, which is already in this batch. Web search was not available for a wider check."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Disciple",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Ecuador (Sumatra)",
+    "filler": "Nicaragua (Estelí Habano)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "oak",
+      "pepper",
+      "sweetness"
+    ],
+    "about": "A San Andrés wrapped Diesel made by AJ Fernandez that began in 2021 as a lancero exclusive to Tobacconists' Association of America shops. It became a regular line in 2022 and gained a toro and torpedo in 2023.",
+    "released": 2021,
+    "production": "discontinued",
+    "sources": [
+      "https://www.dieselcigars.com/products/disciple/",
+      "https://halfwheel.com/diesel-disciple-adds-two-new-sizes/421973/",
+      "https://halfwheel.com/cao-nicaragua-and-maduro-macanudo-vintage-2006-and-diesel-disciple-being-discontinued/441281/"
+    ],
+    "notes": "Scandinavian Tobacco Group told retailers in July 2024 that it was discontinuing the line. The maker's spec sheet and Neptune rate it full, while the maker's description places it in the medium-full range.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium-Full to Full: the maker's spec sheet says Full and Neptune agrees; only the maker's description says medium-full. Flavors cut to the four words on the maker's page (tobacco, cocoa and black pepper were not found). Notes reworded; removed the press release claim I could not confirm."
+  },
+  {
+    "brand": "Diesel",
+    "line": "Vintage Series",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Estelí Habano)",
+    "filler": "Nicaragua (Jalapa Habano)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto Gordo",
+        "length": 5,
+        "ring": 56
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Double Corona",
+        "length": 7.75,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "pepper",
+      "leather",
+      "hazelnut"
+    ],
+    "about": "A maduro Diesel line made by AJ Fernandez around aged Nicaraguan filler, which the company says is five to eight years old. It launched in 2023 as a regular production line.",
+    "released": 2023,
+    "production": "regular",
+    "sources": [
+      "https://www.dieselcigars.com/products/vintage-series/",
+      "https://halfwheel.com/diesel-vintage-series-begins-shipping/425331/",
+      "https://halfwheel.com/diesel-adds-6-x-60-gigante-to-vintage-series-maduro-natural-lines/448539/"
+    ],
+    "notes": "This is the original San Andrés maduro blend. A separate Vintage Series Natural with an Ecuadorian Habano wrapper followed in 2024 and is rated medium-full by the maker. The 4.5 x 60 and 6 x 46 Rabito sizes have since been dropped. The maker rates this blend full; Neptune lists it as medium.",
+    "verified": true,
+    "verifyNotes": "Added to notes that Neptune lists the strength as medium against the maker's full."
+  },
+  {
+    "brand": "Don Diego",
+    "line": "Original",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": null,
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Coronas Major (Tube)",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.625,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Grande",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cream",
+      "cedar",
+      "nuts",
+      "coffee"
+    ],
+    "about": "The core line of Altadis USA's Don Diego brand, rolled in the Dominican Republic with a Connecticut Shade wrapper. The brand started in the Canary Islands after the Cuban embargo and is known as a mild, creamy smoke.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/don-diego/don-diego-by-don-diego/",
+      "https://www.neptunecigar.com/cigar/don-diego",
+      "https://www.holts.com/cigars/all-cigar-brands/don-diego.html"
+    ],
+    "notes": "The maker calls this line simply Don Diego, not Original. Holt's describes the inside as Dominican and Brazilian tobaccos and rates it mild-medium; the maker lists Dominican binder with Dominican and Nicaraguan filler.",
+    "verified": true,
+    "verifyNotes": "Replaced the Famous Smoke source with the Holt's page, which the notes cite and which carries the coffee note. The maker does not publish a strength or wrapper origin: mild is from Neptune and Famous Smoke, USA wrapper origin from Neptune."
+  },
+  {
+    "brand": "Don Pepin Garcia",
+    "line": "Original (Blue)",
+    "found": true,
+    "officialName": "Original",
+    "wrapperLeaf": "Nicaraguan Habano Rosado",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "USA",
+    "factory": null,
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Invictos (Robusto)",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Generosos (Toro)",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Delicias (Churchill)",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Imperiales (Torpedo)",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Lanceros",
+        "length": 7.5,
+        "ring": 38
+      },
+      {
+        "name": "Exquisitos (Corona Gorda)",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Exclusivos (Gran Corona)",
+        "length": 9.25,
+        "ring": 48
+      },
+      {
+        "name": "Toro Grande (Box Pressed)",
+        "length": 6,
+        "ring": 62
+      },
+      {
+        "name": "Demitasse",
+        "length": 4.5,
+        "ring": 32
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cedar",
+      "pepper"
+    ],
+    "about": "The Blue Label, a Nicaraguan puro with a Habano Rosado wrapper from Jose \"Pepin\" Garcia, sold by My Father Cigars. The maker says it is handcrafted in the USA.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/don-pepin-garcia-original/",
+      "https://halfwheel.com/don-pepin-garcia-clasico-20th-anniversary/472648/",
+      "https://www.neptunecigar.com/cigar/don-pepin-garcia-blue-edition"
+    ],
+    "notes": "Commonly called the Blue Label. The maker says it is handcrafted in the USA, where it began at the El Rey de los Habanos factory in Miami; Neptune lists Nicaragua as the origin. The maker calls it full-bodied, Neptune medium.",
+    "verified": true,
+    "verifyNotes": "Changed the flavor red pepper to pepper (the maker says hot peppers). Rewrote about to remove a claim about inspiring later lines that I could not confirm. USA as country also confirmed by halfwheel, which calls it Miami-made (https://halfwheel.com/don-pepin-garcia-original-demi-tasse-to-add-six-pack/98261/)."
+  },
+  {
+    "brand": "Don Pepin Garcia",
+    "line": "Cuban Classic (Black)",
+    "found": true,
+    "officialName": "Cuban Classic",
+    "wrapperLeaf": "Nicaraguan Habano Rosado",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "1979 (Robusto)",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "1970 (Belicoso)",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "1950 (Toro)",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "2001 (Toro Gordo)",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "wood",
+      "earth",
+      "cocoa",
+      "nuts",
+      "cedar",
+      "black pepper"
+    ],
+    "about": "The Black Label, a Nicaraguan puro introduced in 2006 and the first Don Pepin Garcia blend rolled at the family's factory in Estelí. Its sizes are named for Garcia family birth years.",
+    "released": 2006,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/don-pepin-garcia-cuban-classic/",
+      "https://halfwheel.com/don-pepin-garcia-clasico-20th-anniversary/472648/",
+      "https://www.famous-smoke.com/brand/don-pepin-garcia-cuban-classic-cigars"
+    ],
+    "notes": "Commonly called the Black Label. The maker rates it medium to full; retailers such as Famous Smoke list it as full. It was first rolled at Tabacalera Cubana S.A., the Garcias' original Estelí factory.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Don Pepin Garcia",
+    "line": "Series JJ",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo Rosado",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "USA",
+    "factory": null,
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Selectos",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Belicosos",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "Toros",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Salomones",
+        "length": 7.25,
+        "ring": 57
+      }
+    ],
+    "flavors": [
+      "earth",
+      "ginger",
+      "cedar",
+      "leather",
+      "black pepper",
+      "cocoa"
+    ],
+    "about": "A white-banded Nicaraguan puro with a Corojo Rosado wrapper that Pepin Garcia introduced in 2005. The maker says the name comes from the initials of his children, Jaime and Janny.",
+    "released": 2005,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/don-pepin-garcia-series-jj/",
+      "https://halfwheel.com/review-don-pepin-garcia-series-jj-salomon/29431/",
+      "https://www.famous-smoke.com/brand/don-pepin-garcia-series-jj-cigars"
+    ],
+    "notes": "The maker says it is handcrafted in the USA (it began at El Rey de los Habanos in Miami), but Famous Smoke lists it as made at My Father in Estelí, Nicaragua. The maker rates it three-quarters to full; Famous lists full. Halfwheel says JJ stands for Jose and Jaime.",
+    "verified": true,
+    "verifyNotes": "Added to notes that halfwheel gives a different meaning for JJ than the maker does."
+  },
+  {
+    "brand": "Don Pepin Garcia",
+    "line": "Vegas Cubanas",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo Rosado",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Coronas",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Invictos",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Generosos",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Imperiales",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "cocoa",
+      "leather",
+      "pepper",
+      "earth",
+      "cream"
+    ],
+    "about": "One of the first cigars Pepin Garcia made under his own name, around 2003 in Miami. It is a milder Nicaraguan puro with a Corojo Rosado wrapper, now rolled at My Father's factory in Estelí.",
+    "released": 2003,
+    "production": "regular",
+    "sources": [
+      "https://myfathercigars.com/cigar/don-pepin-garcia-vegas-cubanas/",
+      "https://halfwheel.com/don-pepin-garcia-vegas-cubanas-coronas/431592/",
+      "https://www.holts.com/cigars/all-cigar-brands/don-pepin-garcia-vegas-cubanas.html"
+    ],
+    "notes": "Largely phased out after its early years, it returned in 2017 with production moved to Estelí and was reblended and repackaged in 2023. Strength follows Holt's, which lists medium; the text on the maker's page describes the My Father line by mistake.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Don Pepin Garcia",
+    "line": "15th Anniversary",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano Rosado Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (includes Pelo de Oro)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.75,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [],
+    "about": "A 2018 limited edition marking 15 years since Pepin Garcia opened his first factory in Miami. It is a Nicaraguan puro from the family's Estelí farms with some Pelo de Oro in the blend.",
+    "released": 2018,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/don-pepin-garcia-15th-anniversary-arrives-retail/263719/",
+      "https://www.neptunecigar.com/cigar/don-pepin-garcia-15th-anniversary-limited-edition"
+    ],
+    "notes": "Limited to 2,000 boxes of 14 in each of the two sizes. The full-bodied rating comes from Neptune only; the maker's site no longer lists the cigar.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Don Tomás",
+    "line": "Clasico Natural",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Allegro Tubo",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Cetro No. 2",
+        "length": 6.5,
+        "ring": 44
+      },
+      {
+        "name": "Corona Grande",
+        "length": 6.5,
+        "ring": 44
+      },
+      {
+        "name": "Presidente",
+        "length": 7.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "earth",
+      "wood",
+      "spice",
+      "cocoa",
+      "nuts",
+      "pepper"
+    ],
+    "about": "The natural wrapper version of Don Tomás Clasico, a long-running value cigar from Danlí, Honduras, sold by General Cigar under Scandinavian Tobacco Group. The Don Tomás brand dates to 1971.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.famous-smoke.com/brand/don-tomas-clasico-cigars",
+      "https://www.neptunecigar.com/cigar/don-tomas-clasico",
+      "https://www.holts.com/cigars/all-cigar-brands/don-tomas-clasico.html"
+    ],
+    "notes": "Retailers disagree on strength: Famous and Neptune say medium, Holt's medium-full. Famous calls the wrapper Honduran Habano; Neptune and Holt's just say Honduran. No maker spec sheet was found.",
+    "verified": true,
+    "verifyNotes": "Removed the Coronitas 4.125 x 32 size, which is on none of the pages. Flavors replaced with the words Famous Smoke and Holt's actually use (coffee and cedar were not found). The 1971 date was confirmed from halfwheel, which reports 2021 as the brand's 50th anniversary (https://halfwheel.com/don-tomas-cincuenta-launching-in-canada-this-month/400118/)."
+  },
+  {
+    "brand": "Don Tomás",
+    "line": "Clasico Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": null,
+    "filler": "Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Allegro Tubo",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Presidente",
+        "length": 7.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [],
+    "about": "The maduro version of Don Tomás Clasico, a Honduran value cigar from General Cigar under Scandinavian Tobacco Group. It pairs a dark wrapper with Honduran and Nicaraguan filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.famous-smoke.com/brand/don-tomas-clasico-cigars",
+      "https://www.famous-smoke.com/don-tomas-clasico-robusto-maduro-cigars",
+      "https://mikescigars.com/don-tomas-maduro-robusto"
+    ],
+    "notes": "Sources disagree on the wrapper: Famous Smoke lists Connecticut Broadleaf, Mike's Cigars lists Cameroon. Famous rates it medium, Mike's full. The binder is not published.",
+    "verified": true,
+    "verifyNotes": "No changes. Wrapper confirmed on two Famous Smoke pages; Mike's Cigars does list Cameroon and full, as the notes say. No maker page exists to settle it."
+  },
+  {
+    "brand": "Don Tomás",
+    "line": "Sun Grown",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Sun Grown",
+    "wrapperCategory": "Natural/Sun Grown",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras (Jamastran Valley)",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Presidente",
+        "length": 7.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "cedar",
+      "spice",
+      "sweetness",
+      "pepper"
+    ],
+    "about": "An all-Honduran Don Tomás blend with a sun grown wrapper, built on tobacco from the Jamastran Valley. It has been part of the brand since 2007.",
+    "released": 2007,
+    "production": "regular",
+    "sources": [
+      "https://www.famous-smoke.com/brand/don-tomas-sun-grown-cigars",
+      "https://www.famous-smoke.com/don-tomas-sun-grown-robusto-cigars-natural",
+      "https://mikescigars.com/don-tomas-sungrown-robusto"
+    ],
+    "notes": "Famous Smoke lists the wrapper variety as undisclosed. Its spec sheet says medium while its description calls the smoke medium to full-bodied.",
+    "verified": true,
+    "verifyNotes": "Removed the flavor earth, which is not on the pages. The Gigante 6 x 60 is confirmed on Mike's Cigars (https://mikescigars.com/don-tomas-sungrown-gigante). The 2007 date rests only on Famous Smoke's line that the cigar has used Jamastran tobacco since 2007."
+  }
+]

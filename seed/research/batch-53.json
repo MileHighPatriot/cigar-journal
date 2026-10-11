@@ -1,0 +1,114 @@
+[
+ {
+  "brand": "Zino",
+  "line": "Platinum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut Shade)",
+  "filler": "Dominican Republic, Peru",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Scepter Series Grand Master",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Scepter Series Chubby",
+    "length": 4.9375,
+    "ring": 54
+   },
+   {
+    "name": "Crown Series Chubby Especial",
+    "length": 5.875,
+    "ring": 61
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "coffee",
+   "toast",
+   "vanilla",
+   "nuts"
+  ],
+  "about": "Zino Platinum is the high-end Zino brand Davidoff launched in 2002, rolled in the Dominican Republic. It is sold as two families, the Scepter Series and the Crown Series, with an Ecuadorian Connecticut wrapper over a Connecticut binder and Dominican and Peruvian filler.",
+  "released": 2002,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/zino-platinum-crown-series-limited-edition-2020/385394/",
+   "https://www.cigaraficionado.com/ratings/9146/name/zino-platinum-scepter-series-grand-master",
+   "https://www.famous-smoke.com/brand/zino-platinum-scepter-cigars"
+  ],
+  "notes": "Platinum is a family (Scepter and Crown Series), not one cigar; specs are the core blend, and limited editions use other blends. Retailers list it as medium; a 2004 Cigar Aficionado note calls the Scepter mild to medium. The maker's Zino site now lists only Nicaragua and Honduras, so it may no longer be made.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild-Medium to Medium: Famous Smoke lists Medium for both Scepter sizes, Luxury Cigar Club's spec line says Medium, and Cigar Aficionado's 2006 Crown Chubby Especial rating (ratings/10929) says Medium; only CA's 2004 tasting note says mild to medium-bodied. Removed the Scepter Low Rider 6 x 43 size: no page I could open lists it. Removed the note that Cigar Aficionado rated some Medium-Full: not found on any CA page opened. Dropped 'pricier, larger-ring' from about (price not checked). Replaced the luxurycigarclub source (its sizes, 5x52 and 4.75x50, do not match CA or Famous Smoke) with the Famous Smoke Scepter page. Confirmed: Ecuador wrapper, USA Connecticut Shade binder, Dominican and Peruvian filler, Dominican Republic (CA); Connecticut Shade wrapper leaf (Famous Smoke); 2002 launch (halfwheel, two articles); Crown Chubby Especial 5 7/8 x 61 (CA ratings/5526). Davidoff US product pages for Zino Platinum now return 404, so no maker page was available. Factory left null; halfwheel names O.K. Cigars only for the 2020 limited edition."
+ },
+ {
+  "brand": "Zino",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Semilla 56 Seco)",
+  "filler": "Dominican Republic (San Vicente and San Vicente Mejorado Seco), Honduras (Olancho and Jamastran Viso), Nicaragua (Ometepe Viso)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Torpedo",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Half Corona",
+    "length": 4,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "espresso",
+   "pepper",
+   "leather",
+   "earth",
+   "cream"
+  ],
+  "about": "Zino Nicaragua is the value-priced relaunch of Davidoff's Zino brand from 2021. Despite the name it is rolled in Honduras at Davidoff's Diadema factory, with an Ecuadorian Connecticut wrapper over a Nicaraguan binder and a three-country filler.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/zino-nicaragua-half-corona/430462/",
+   "https://halfwheel.com/zino-nicaragua-robusto/399235/",
+   "https://zino.oettingerdavidoff.com/en/nicaragua"
+  ],
+  "notes": "Rolled in Honduras, not Nicaragua, and it is not a Nicaraguan puro. The maker's line page says medium strength (intensity 3 of 5), though its home page calls it bold and full-bodied; halfwheel found medium body and strength. The Half Corona comes pre-cut with a punch.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory, all five sizes, 2021 release and regular production confirmed on halfwheel; wrapper, binder, filler, sizes and 'Medium strength' confirmed on the maker's Nicaragua page. Body set to null: the maker's copy says full-bodied while halfwheel's review says medium body, so the sources disagree. Swapped the maker home page URL for the maker's Nicaragua line page, which carries the specs. Removed 'Camacho factory' from about and the claim that retailers list Nicaragua as origin: neither is stated on the pages opened. The maker does not state where it is rolled; Honduras and the Diadema factory come from halfwheel."
+ }
+]

@@ -1,0 +1,1301 @@
+[
+  {
+    "brand": "Arturo Fuente",
+    "line": "Curly Head",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": null,
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic (medium-length filler)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Curly Head",
+        "length": 6.5,
+        "ring": 43
+      }
+    ],
+    "flavors": [
+      "cream",
+      "spice"
+    ],
+    "about": "An inexpensive everyday Fuente lonsdale made with medium-length Dominican filler instead of long filler. It comes in one size, 6 1/2 x 43.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/medium-filler/",
+      "https://www.neptunecigar.com/cigars/arturo-fuente-curly-head",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-gran-reserva.html"
+    ],
+    "notes": "Wrapper is disputed: Fuente's site says Connecticut Shade, while Neptune and Famous Smoke list Cameroon. Strength is split too: Holt's and Famous Smoke say medium, Neptune says mild. A Curly Head Deluxe in the same size is sold alongside it, in natural or maduro.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Mild-Medium to Medium: none of the listed sources says mild-medium (Holt's and Famous Smoke list medium, Neptune mild). Flavors cut to the words Fuente and Neptune use for this cigar. Notes reworded to state the strength split."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Chateau Fuente",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Chateau Fuente",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Pyramid",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Double Chateau Fuente",
+        "length": 6.75,
+        "ring": 50
+      },
+      {
+        "name": "King T",
+        "length": 7,
+        "ring": 49
+      },
+      {
+        "name": "Royal Salute",
+        "length": 7.625,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "cashew",
+      "almond",
+      "cream",
+      "baking spice"
+    ],
+    "about": "Fuente's cedar-wrapped series. The natural version pairs a Connecticut Shade wrapper with Dominican binder and filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/chateau-fuente/",
+      "https://www.cigaraficionado.com/ratings/25649/name/arturo-fuente-chateau-fuente-chateau-fuente",
+      "https://www.neptunecigar.com/cigars/arturo-fuente-chateau-fuente"
+    ],
+    "notes": "Sizes listed are the natural wrapper ones; Sun Grown and Maduro versions also exist. Cigar Aficionado and Neptune say the Connecticut Shade is U.S. grown; Famous Smoke says Ecuadorian. Cigar Aficionado and Neptune rate it mild; Holt's and Famous Smoke say medium.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Mild: Cigar Aficionado's 2024 Chateau Fuente and 2025 Pyramid ratings both say mild, as does Neptune; the researcher's note that Cigar Aficionado says medium was wrong. Swapped the Holt's link for the Cigar Aficionado rating. Removed the ribbon detail from about because no opened page states it."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Hemingway Short Story",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Story",
+        "length": 4,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "walnut",
+      "earth",
+      "cedar",
+      "cocoa",
+      "cinnamon"
+    ],
+    "about": "The smallest perfecto in Fuente's Hemingway series, a 4 x 49 with a Cameroon wrapper over Dominican binder and filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/hemingway/",
+      "https://www.cigaraficionado.com/ratings/20271/name/arturo-fuente-hemingway-short-story-figurado",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html"
+    ],
+    "notes": "This is one size of the Hemingway line, which debuted in 1983. A Maduro version with a Connecticut Broadleaf wrapper is also made.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "8-5-8",
+    "found": true,
+    "officialName": "Flor Fina 8-5-8",
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Flor Fina 8-5-8",
+        "length": 6,
+        "ring": 47
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "chestnut",
+      "baking spice",
+      "coffee"
+    ],
+    "about": "A 6 x 47 cigar in Fuente's Gran Reserva series and one of the brand's best known everyday smokes. The standard natural version has a Cameroon wrapper over Dominican tobacco.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/gran2/",
+      "https://www.neptunecigar.com/cigars/arturo-fuente-858",
+      "https://www.famous-smoke.com/arturo-fuente-858-natural-cigars"
+    ],
+    "notes": "One size of the Gran Reserva line. Specs here are the natural; it is also made in Maduro (Connecticut Broadleaf), Sun Grown (Ecuador), Rosado Sun Grown and Candela. Neptune rates it mild; Famous Smoke and Holt's say medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Don Carlos",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Eye of the Bull",
+        "length": 3.5,
+        "ring": 55
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "No. 4",
+        "length": 5,
+        "ring": 43
+      },
+      {
+        "name": "Personal Reserve Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Eye of the Shark",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso",
+        "length": 5.375,
+        "ring": 52
+      },
+      {
+        "name": "No. 3",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Double Robusto",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "No. 2",
+        "length": 5.875,
+        "ring": 55
+      },
+      {
+        "name": "Presidente",
+        "length": 6.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "chestnut",
+      "cocoa",
+      "almond",
+      "pepper"
+    ],
+    "about": "Named for Carlos Fuente Sr. and made with Dominican tobaccos aged as long as ten years under an African Cameroon wrapper.",
+    "released": 1976,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/don-carlos/",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+      "https://www.cigaraficionado.com/article/fuente-releasing-special-don-carlos-selection-to-commemorate-50-years-of-the-brand"
+    ],
+    "notes": "Cigar Aficionado says the first Don Carlos was sold in 1976 and made in Esteli, Nicaragua; halfwheel counted 2015 as the brand's 30th year. Holt's rates it medium-full, Neptune full, and Cigar Aficionado rated the Presidente medium. Sizes follow Fuente's site; Holt's lists a few slightly longer.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed. About trimmed to what the sources state (no page opened says Carlos Fuente Sr. blended it). Notes now record the strength split across Holt's, Neptune and Cigar Aficionado."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Opus X",
+    "found": true,
+    "officialName": "Fuente Fuente OpusX",
+    "wrapperLeaf": "Dominican Corojo-seed, grown at Chateau de la Fuente",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Dominican Republic",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Belicoso XXX",
+        "length": 4.625,
+        "ring": 49
+      },
+      {
+        "name": "PerfecXion No. 5",
+        "length": 4.875,
+        "ring": 40
+      },
+      {
+        "name": "PerfecXion No. 4",
+        "length": 5.125,
+        "ring": 43
+      },
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "Super Belicoso",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Fuente Fuente",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Double Robusto",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "PerfecXion X",
+        "length": 6.25,
+        "ring": 48
+      },
+      {
+        "name": "PerfecXion No. 2",
+        "length": 6.375,
+        "ring": 52
+      },
+      {
+        "name": "Reserva D'Chateau",
+        "length": 7,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "baking spice",
+      "caramel",
+      "leather",
+      "cedar",
+      "vanilla",
+      "cherry"
+    ],
+    "about": "Fuente's best-known high-end line, an all-Dominican cigar built around wrapper leaf grown on the family's Chateau de la Fuente farm. It debuted in late 1995 and is still hard to find.",
+    "released": 1995,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/opusx/ff-opusx/",
+      "https://www.cigaraficionado.com/rating/fuente-fuente-opusx-reserva-d-chateau",
+      "https://www.cigaraficionado.com/ratings/22635/name/fuente-fuente-opusx-double-robusto-toro"
+    ],
+    "notes": "Cigar Aficionado has rated it full (Reserva D'Chateau) and medium-full (Double Robusto); Neptune lists full. Cigar Aficionado describes the wrapper as Corojo seed grown under shade cloth, while halfwheel calls it sun grown. Fuente also makes a Shark, Petite Lancero, Double Corona and an A size.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium-Full to Full: Cigar Aficionado rates the Reserva D'Chateau full and calls OpusX full-strength in its 2025 Top 25 text, and Neptune lists full; only the Double Robusto rating says medium-full. Replaced one Cigar Aficionado link with the rating page that supports full. About reworded."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Hemingway",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Story",
+        "length": 4,
+        "ring": 49
+      },
+      {
+        "name": "Best Seller",
+        "length": 4.5,
+        "ring": 55
+      },
+      {
+        "name": "Between the Lines",
+        "length": 4.5,
+        "ring": 54
+      },
+      {
+        "name": "Work of Art",
+        "length": 4.875,
+        "ring": 60
+      },
+      {
+        "name": "Signature",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Classic",
+        "length": 7,
+        "ring": 46
+      },
+      {
+        "name": "Masterpiece",
+        "length": 9,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "chestnut",
+      "cocoa",
+      "cinnamon",
+      "molasses",
+      "spice"
+    ],
+    "about": "A series made entirely of perfecto shapes, which Carlos Fuente Jr. revived in 1983 when very few factories still rolled them. The standard version uses a Cameroon wrapper over Dominican binder and filler.",
+    "released": 1983,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/hemingway/",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
+      "https://www.cigaraficionado.com/top25cigar/arturo-fuente-hemingway-work-of-art-2018"
+    ],
+    "notes": "Every size is a perfecto. Fuente's site and Cigar Aficionado list Signature and Classic at 46 ring; Holt's lists them at 47 and 48. Maduro versions use Connecticut Broadleaf, and Between the Lines is a two-wrapper barber pole.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Hemingway Signature",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Signature",
+        "length": 6,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "wood",
+      "nutmeg",
+      "citrus",
+      "cedar"
+    ],
+    "about": "The 6 inch perfecto in Fuente's Hemingway series, long and slim with a tapered nipple foot. It has a Cameroon wrapper over Dominican binder and filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/hemingway/",
+      "https://www.cigaraficionado.com/ratings/20272/name/arturo-fuente-hemingway-signature",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html"
+    ],
+    "notes": "One size of the Hemingway line. Fuente's site and Cigar Aficionado list it at 6 x 46; Holt's lists 6 x 47. Fuente also makes it in Maduro and Sun Grown wrappers.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Hemingway Classic",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Classic",
+        "length": 7,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "wood",
+      "toast",
+      "tea",
+      "cashew",
+      "caramel"
+    ],
+    "about": "The 7 inch double-tapered perfecto in Fuente's Hemingway series. It has a Cameroon wrapper over Dominican binder and filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/hemingway/",
+      "https://www.cigaraficionado.com/ratings/20268/name/arturo-fuente-hemingway-classic",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html"
+    ],
+    "notes": "One size of the Hemingway line. Fuente's site and Cigar Aficionado list it at 7 x 46; Holt's lists 7 x 48. Fuente also makes it in Maduro and Sun Grown wrappers.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Hemingway Work of Art",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Work of Art",
+        "length": 4.875,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "toast",
+      "baking spice",
+      "citrus"
+    ],
+    "about": "A short, heavily tapered perfecto in Fuente's Hemingway series that swells from a narrow foot to a 60 ring. Cigar Aficionado ranked it No. 6 on its Top 25 of 2018.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/hemingway/",
+      "https://www.cigaraficionado.com/top25cigar/arturo-fuente-hemingway-work-of-art-2018",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html"
+    ],
+    "notes": "One size of the Hemingway line and a later addition to it. Fuente lists the ring gauge as 46/60, the larger number being the widest point. A Maduro version is also made.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Hemingway Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Story",
+        "length": 4,
+        "ring": 49
+      },
+      {
+        "name": "Best Seller",
+        "length": 4.5,
+        "ring": 55
+      },
+      {
+        "name": "Work of Art",
+        "length": 4.875,
+        "ring": 60
+      },
+      {
+        "name": "Signature",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Classic",
+        "length": 7,
+        "ring": 46
+      },
+      {
+        "name": "Untold Story",
+        "length": 7.5,
+        "ring": 54
+      },
+      {
+        "name": "Masterpiece",
+        "length": 9,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "molasses",
+      "maple",
+      "black pepper",
+      "coffee"
+    ],
+    "about": "The Hemingway perfectos dressed in a dark Connecticut Broadleaf wrapper instead of Cameroon. The Untold Story size is made only in this maduro version.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/hemingway/",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway-maduro.html",
+      "https://www.cigaraficionado.com/ratings/21856/name/arturo-fuente-hemingway-short-story-maduro"
+    ],
+    "notes": "Holt's and Neptune rate it medium; Cigar Aficionado rates the Short Story Maduro medium-full. Neptune describes the Short Story Maduro as a rare, limited release. Holt's lists Untold Story at 7 5/8 and Signature and Classic at 47 and 48 ring.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed. Removed the note that the Short Story Maduro got a wide release in 2011: no page I could open supports it."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Añejo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro, aged in Cognac barrels",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 50",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "No. 46",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "No. 77 Shark",
+        "length": 5.875,
+        "ring": 64
+      },
+      {
+        "name": "No. 55",
+        "length": 5.875,
+        "ring": 55
+      },
+      {
+        "name": "No. 60",
+        "length": 6.25,
+        "ring": 48
+      },
+      {
+        "name": "No. 888",
+        "length": 6.875,
+        "ring": 44
+      },
+      {
+        "name": "No. 48",
+        "length": 7,
+        "ring": 48
+      },
+      {
+        "name": "No. 49",
+        "length": 7.625,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "dark cocoa",
+      "molasses",
+      "anise",
+      "nuts",
+      "maple",
+      "spice"
+    ],
+    "about": "An OpusX-style Dominican blend finished with a Connecticut Broadleaf maduro wrapper aged in Cognac barrels. Fuente created it after Hurricane Georges destroyed OpusX wrapper leaf in 1998, and ships it in small batches around Father's Day and Christmas.",
+    "released": 2000,
+    "production": "limited",
+    "sources": [
+      "https://arturofuente.com/our-cigars/anejo/",
+      "https://halfwheel.com/arturo-fuente-anejo-no-60/9768/",
+      "https://mikescigars.com/arturo-fuente-anejo-888"
+    ],
+    "notes": "Often called Añejo Reserva. Cigar Aficionado, Holt's and Mike's Cigars all rate it full. The No. 77 Shark starts round at the head and ends in a square press; Fuente lists it as a 48/64 ring, and it joined the line in 2001. Fuente's site gives No. 55 as 5 7/8 inches; halfwheel and Holt's say 6.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium-Full to Full: the Cigar Aficionado rating I opened (No. 48, Dec 2022) says full, as do Holt's and Mike's Cigars; no page says medium-full. The 2000 release year is stated only by Mike's Cigars, so that link replaces Holt's; Cigar Aficionado's 2012 article is consistent with it but gives no year."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Casa Cuba",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Havana",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Cuban seed)",
+    "filler": "Dominican Republic (Cuban seed)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Doble Cuatro",
+        "length": 4.5,
+        "ring": 54
+      },
+      {
+        "name": "Doble Cinco",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Doble Tres",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Doble Seis",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Divine Inspiration",
+        "length": 6.125,
+        "ring": 47
+      },
+      {
+        "name": "Doble Dos",
+        "length": 6.5,
+        "ring": 42
+      }
+    ],
+    "flavors": [
+      "wood",
+      "toast",
+      "chocolate",
+      "spice",
+      "cream",
+      "mint"
+    ],
+    "about": "The last blend created by Carlos Fuente Sr., made to recall the Cuban-leaf cigars the family rolled decades ago. It pairs an Ecuadorian Havana wrapper with Cuban-seed Dominican binder and filler, and the sizes are named after domino tiles.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/casa-cuba/",
+      "https://halfwheel.com/casa-cuba-doble-dos/291002/",
+      "https://www.cigaraficionado.com/ratings/18630/name/casa-cuba-doble-seis"
+    ],
+    "notes": "Cigar Aficionado and halfwheel list it as its own brand, Casa Cuba, made by Fuente. Fuente's site prints Doble Dos as 6.75 inches but 165 mm; halfwheel measured 6 1/2 x 42. Divine Inspiration (2016) and Doble Dos (2018) were added after the original four sizes.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Rosado Sungrown Magnum R",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Rosado Sungrown",
+    "wrapperCategory": "Rosado",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Vitola 44",
+        "length": 4.875,
+        "ring": 47
+      },
+      {
+        "name": "Vitola 52",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Vitola 58",
+        "length": 5.25,
+        "ring": 58
+      },
+      {
+        "name": "Vitola 56",
+        "length": 5.625,
+        "ring": 56
+      },
+      {
+        "name": "Super 60",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Vitola 54",
+        "length": 6.25,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "wood",
+      "leather",
+      "vanilla",
+      "coffee",
+      "caramel",
+      "cinnamon"
+    ],
+    "about": "A Fuente line built around a long-aged Ecuadorian rosado sun grown wrapper taken from the lower primings, over Dominican binder and filler. Carlos Fuente Jr. pitched it as a balanced, smoother blend, and most sizes are named for their ring gauge.",
+    "released": 2009,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/magnumr/",
+      "https://www.cigaraficionado.com/article/fuente-creates-new-brand-3767",
+      "https://www.cigaraficionado.com/ratings/19199/name/arturo-fuente-rosado-sungrown-magnum-r-vitola-fifty-two"
+    ],
+    "notes": "Fuente's site calls it Magnum R Rosado Sungrown. Cigar Aficionado rates it medium-full; Neptune lists medium. Sizes are named for ring gauge except Vitola 44, which Fuente lists at 47 ring.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Chateau Fuente Sun Grown",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sun Grown",
+    "wrapperCategory": "Natural/Sun Grown",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Chateau Fuente",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Queen B",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Cuban Belicoso",
+        "length": 5.75,
+        "ring": 51
+      },
+      {
+        "name": "King B",
+        "length": 6,
+        "ring": 55
+      },
+      {
+        "name": "Double Chateau Fuente",
+        "length": 6.75,
+        "ring": 50
+      },
+      {
+        "name": "King T Rosado Sungrown",
+        "length": 7,
+        "ring": 49
+      },
+      {
+        "name": "Royal Salute",
+        "length": 7.625,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "espresso",
+      "spice",
+      "nuts",
+      "pepper",
+      "anise"
+    ],
+    "about": "The Chateau Fuente series in a darker Ecuadorian sun grown wrapper, still wrapped in cedar. It has the same Dominican filler blend as the natural version and adds several belicoso and pyramid shapes.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/chateau-fuente/",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-chateau-series.html",
+      "https://www.cigaraficionado.com/ratings/12617/name/arturo-fuente-chateau-fuente-sun-grown"
+    ],
+    "notes": "The sun grown wrapper version of the Chateau Fuente line. Queen B, Cuban Belicoso and King B are made only in Sun Grown. Holt's lists the Cuban Belicoso and Queen B at 52 and 50 ring; Fuente's site says 51 and 52.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed. Removed the ribbon detail from about because no opened page states it."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Chateau Fuente Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Chateau Fuente",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Double Chateau Fuente",
+        "length": 6.75,
+        "ring": 50
+      },
+      {
+        "name": "Royal Salute",
+        "length": 7.625,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "molasses",
+      "pepper",
+      "coffee",
+      "vanilla"
+    ],
+    "about": "The Chateau Fuente series in a Connecticut Broadleaf maduro wrapper, still wrapped in cedar. It has the same Dominican filler blend as the natural version.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/chateau-fuente/",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-chateau-series.html",
+      "https://www.neptunecigar.com/cigars/arturo-fuente-maduro-chateau-fuente"
+    ],
+    "notes": "The maduro wrapper version of the Chateau Fuente line, made in three sizes.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed. Removed the ribbon detail from about because no opened page states it."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Gran Reserva",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon (natural)",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Petit Corona",
+        "length": 5,
+        "ring": 38
+      },
+      {
+        "name": "Cuban Corona",
+        "length": 5.25,
+        "ring": 45
+      },
+      {
+        "name": "Flor Fina 8-5-8",
+        "length": 6,
+        "ring": 47
+      },
+      {
+        "name": "Spanish Lonsdale",
+        "length": 6.5,
+        "ring": 42
+      },
+      {
+        "name": "Corona Imperial",
+        "length": 6.5,
+        "ring": 46
+      },
+      {
+        "name": "Seleccion Privada No. 1",
+        "length": 6.75,
+        "ring": 44
+      },
+      {
+        "name": "Churchill",
+        "length": 7.25,
+        "ring": 48
+      },
+      {
+        "name": "Canones",
+        "length": 8.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "chestnut",
+      "baking spice",
+      "coffee",
+      "cedar"
+    ],
+    "about": "The core Arturo Fuente series, made with aged Dominican tobaccos in classic parejo sizes such as the 8-5-8 and Rothschild. The natural version has a Cameroon wrapper.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/gran2/",
+      "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-gran-reserva.html",
+      "https://www.neptunecigar.com/cigars/arturo-fuente-858"
+    ],
+    "notes": "Specs are for the natural. Most sizes also come in Maduro (Connecticut Broadleaf), and some in Sun Grown (Ecuador), Candela or D'Oro wrappers. Holt's rates the line medium; Neptune lists the naturals as mild.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed. Dropped the word flagship from about: no opened page uses it for this line."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Curly Head Deluxe Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic (mixed long and short filler)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Curly Head Deluxe",
+        "length": 6.5,
+        "ring": 43
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "vanilla"
+    ],
+    "about": "The maduro version of Fuente's budget Curly Head Deluxe lonsdale, with a Connecticut Broadleaf wrapper over a mixed-filler Dominican blend. It is sold in boxes of 25.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/medium-filler/",
+      "https://neptunecigar.com/cigars/arturo-fuente-maduro-curly-head-deluxe",
+      "https://www.famous-smoke.com/arturo-fuente-curly-head-deluxe-cigars-maduro"
+    ],
+    "notes": "This is the maduro wrapper option of the Curly Head Deluxe. It is a mixed-filler (Cuban sandwich) cigar, not long filler.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed. Removed chocolate from flavors: Neptune's notes are coffee, sweetness and vanilla, and no opened page mentions chocolate."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Brevas Royale",
+    "found": true,
+    "officialName": "Brevas Royales",
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic (medium-length filler)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Brevas Royale",
+        "length": 5.5,
+        "ring": 42
+      }
+    ],
+    "flavors": [
+      "toast",
+      "nuts",
+      "spice"
+    ],
+    "about": "An affordable Fuente corona made with medium-length Dominican filler. It is also the cigar Fuente packs as It's a Boy and It's a Girl for birth announcements.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/medium-filler/",
+      "https://www.neptunecigar.com/cigars/arturo-fuente-brevas-royale",
+      "https://www.famous-smoke.com/arturo-fuente-brevas-cigars-natural"
+    ],
+    "notes": "Fuente's site spells it Brevas Royales and does not name the wrapper; Neptune and Famous Smoke list Cameroon. Specs are for the natural; a Maduro is also sold. Medium-length filler, not long filler. Neptune rates it mild; Famous Smoke and Holt's list medium.",
+    "verified": true,
+    "verifyNotes": "Set officialName to Brevas Royales, the spelling on Fuente's own site (retailers drop the final s). Removed cedar from flavors: not in Famous Smoke's or Fuente's description."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Don Carlos Eye of the Shark",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Eye of the Shark",
+        "length": 5.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "walnut",
+      "almond",
+      "chocolate",
+      "baking spice",
+      "citrus"
+    ],
+    "about": "A Don Carlos in a shortened version of Fuente's Shark shape, with a rounded belicoso head and a box-pressed foot. It came out in 2015 for Carlos Fuente Sr.'s 80th birthday and was Cigar Aficionado's 2017 Cigar of the Year.",
+    "released": 2015,
+    "production": "limited",
+    "sources": [
+      "https://arturofuente.com/our-cigars/don-carlos/",
+      "https://halfwheel.com/arturo-fuente-don-carlos-eye-of-the-shark/98654/",
+      "https://www.cigaraficionado.com/top25cigar/arturo-fuente-don-carlos-eye-of-the-shark-2017"
+    ],
+    "notes": "One shape in the Don Carlos line, released in batches. Size is disputed: Fuente's site and Holt's say 5 1/4 x 52; halfwheel, Neptune and Cigar Aficionado's 2017 list say 5 3/4 x 52. Cigar Aficionado rated it medium-full in 2017 and medium in 2020; Neptune says full. Fuente has not confirmed the blend.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Medium-Full: Cigar Aficionado's 2017 Cigar of the Year listing says medium-full, halfwheel calls it medium-plus and Neptune full; only the 2020 rating says medium. Swapped the 2020 rating link for the 2017 Top 25 page, which also backs the Cigar of the Year claim. Size dispute in notes corrected: Cigar Aficionado's 2017 page gives 5 3/4 x 52."
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Opus X Angel's Share",
+    "found": true,
+    "officialName": "Fuente Fuente OpusX Angel's Share",
+    "wrapperLeaf": "Dominican Chateau de la Fuente Sun Grown (middle priming)",
+    "wrapperCategory": "Natural/Sun Grown",
+    "wrapperOrigin": "Dominican Republic",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "Fuente Fuente",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "PerfecXion X",
+        "length": 6.25,
+        "ring": 48
+      },
+      {
+        "name": "Reserva D'Chateau",
+        "length": 7,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "licorice",
+      "wood",
+      "baking spice",
+      "leather",
+      "honey",
+      "red pepper"
+    ],
+    "about": "A milder take on OpusX that uses wrapper from the middle of the plant instead of the top primings. Fuente says the name was inspired by aged tobacco the family lost in a warehouse fire.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://arturofuente.com/our-cigars/opusx/angels-share/",
+      "https://halfwheel.com/opusx-angels-share-robusto/70800/",
+      "https://www.cigaraficionado.com/top25cigar/fuente-fuente-opusx-angel-s-share-reserva-d-chateau-2025"
+    ],
+    "notes": "Same wrapper plant as regular OpusX but a lower, milder priming. Cigar Aficionado has rated it both medium and medium-full; halfwheel called it medium to medium-full. Cigar Aficionado ranked the Reserva D'Chateau No. 9 of 2025.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Between the Lines",
+    "found": true,
+    "officialName": "Hemingway Between the Lines",
+    "wrapperLeaf": "Barber pole of Connecticut Broadleaf and Connecticut Shade",
+    "wrapperCategory": null,
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Between the Lines",
+        "length": 4.5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "wood",
+      "herbs",
+      "nutmeg",
+      "baking spice",
+      "almond"
+    ],
+    "about": "A short Hemingway perfecto rolled with two wrappers twisted together in a barber pole stripe, one light and one maduro. It is made in limited quantities.",
+    "released": null,
+    "production": "limited",
+    "sources": [
+      "https://arturofuente.com/our-cigars/hemingway/",
+      "https://www.cigaraficionado.com/rating/arturo-fuente-hemingway-between-the-lines",
+      "https://halfwheel.com/romeo-y-julieta-reserva-real-twisted-love-story/427780"
+    ],
+    "notes": "One size of the Hemingway line. Cigar Aficionado names the two wrappers as Connecticut Broadleaf and Connecticut Shade; Fuente's site only says natural and maduro, and Holt's lists Cameroon. No single wrapper category fits a two-wrapper cigar.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Arturo Fuente",
+    "line": "Casa Fuente",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "African Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera A. Fuente y Cia",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Belicosos Finos",
+        "length": 5.625,
+        "ring": 52
+      },
+      {
+        "name": "Double Robusto",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "Pyramid No. 2",
+        "length": 6.375,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 47
+      },
+      {
+        "name": "Phantom (Lancero)",
+        "length": 7.5,
+        "ring": 41
+      },
+      {
+        "name": "Double Corona",
+        "length": 7.625,
+        "ring": 49
+      }
+    ],
+    "flavors": [
+      "milk chocolate",
+      "cedar",
+      "leather",
+      "nuts",
+      "pepper"
+    ],
+    "about": "The house cigar of the Casa Fuente shop in the Forum Shops at Caesars Palace, Las Vegas, made by Fuente and sold only there. It was introduced when the store opened in 2005.",
+    "released": 2005,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/review-casa-fuente-double-robusto/23730/",
+      "https://halfwheel.com/casa-fuente-10th-anniversary-salomon/131011"
+    ],
+    "notes": "Sold only at Casa Fuente in Las Vegas. Fuente has not published the blend: halfwheel reports a Cameroon wrapper grown by the Meerapfel family over a modified OpusX blend. No source gives a strength rating. Sizes are from halfwheel's 2012 list.",
+    "verified": true,
+    "verifyNotes": ""
+  }
+]

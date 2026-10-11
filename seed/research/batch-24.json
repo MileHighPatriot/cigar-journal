@@ -1,0 +1,847 @@
+[
+ {
+  "brand": "Cohiba",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Brazil (Mata Fina), Dominican Republic (Olor, Piloto Cubano), Nicaragua (Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro Tubo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Crystal",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "spice",
+   "cedar"
+  ],
+  "about": "The first General Cigar Cohiba with a Connecticut Shade wrapper, launched in 2019. It is made in the Dominican Republic with a wrapper grown in Ecuador.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/connecticut/",
+   "https://halfwheel.com/cohiba-connecticut-toro/299783/",
+   "https://www.cigarworld.com/cigars/cohiba/connecticut/"
+  ],
+  "notes": "This is the non-Cuban Cohiba sold in the US by General Cigar. Retailers split on strength: Famous Smoke says medium, Neptune says mild; the maker rates the body medium. Halfwheel listed the Robusto at 52 ring at launch, the maker now lists 50.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'pepper' (not in any source). Rewrote about to drop the maker's 'smoothest' claim. Blend, sizes, factory, 2019 release and the retailer strength split all confirmed."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Red Dot",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Indonesia (Jember)",
+  "filler": "Dominican Republic (Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "Lonsdale Grande",
+    "length": 6.25,
+    "ring": 47
+   },
+   {
+    "name": "Toro Tubo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Crystal Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Corona",
+    "length": 5.125,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 49
+   },
+   {
+    "name": "Robusto Fino",
+    "length": 4.75,
+    "ring": 47
+   },
+   {
+    "name": "Pequeños",
+    "length": 4.1875,
+    "ring": 36
+   },
+   {
+    "name": "Corona Minor",
+    "length": 4,
+    "ring": 42
+   },
+   {
+    "name": "Miniatures",
+    "length": 3.875,
+    "ring": 24
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "cream",
+   "caramel",
+   "spice"
+  ],
+  "about": "The original non-Cuban Cohiba from General Cigar, nicknamed Red Dot for the red dot inside the O on the band. It pairs a Cameroon wrapper with Dominican filler and is the core line of the US Cohiba brand.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/red-dot/",
+   "https://www.cigarworld.com/cigars/cohiba/red-dot/",
+   "https://halfwheel.com/cohiba-red-dot-adding-gigante-vitola/34648/"
+  ],
+  "notes": "Not the Cuban Cohiba: this is General Cigar's Dominican-made brand, sold only in the US. The maker describes it as full in flavor but medium in strength. A 6 x 60 Gigante has also been offered.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'cedar' (not in any source). Everything else confirmed on cohiba.com, Cigar World and halfwheel; no source opened gives a launch year, so released stays null."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Macassar",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro Grande",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Double Corona",
+    "length": 7.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice",
+   "cream",
+   "earth"
+  ],
+  "about": "A high-priced Cohiba from General Cigar whose filler tobaccos were aged at least four years, finishing in Dominican rum barrels. It is named for the Macassar ebony used on its box.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://www.cohiba.com/the-collection/macassar/",
+   "https://halfwheel.com/cohiba-macassar-toro-grande/130579/",
+   "https://halfwheel.com/scandinavian-tobacco-group-discontinues-56-skus/448395/"
+  ],
+  "notes": "Halfwheel reported the line discontinued in March 2025, though the maker's site still shows it. Sizes are as launched; cohiba.com now lists the Toro Grande at 6 x 54 and the Double Corona at 7 1/2 x 54. The maker rates it medium-full, but halfwheel's reviewer found the strength mild to medium.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'super-premium'. Blend, factory, launch sizes, 2016 release and the March 2025 discontinuation confirmed. Maker publishes body only, so strength stays null."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Black",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Dominican Republic (Piloto Cubano), Mexico (San Andrés)",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "Gigante",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Supremo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto Crystal",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Pequeños",
+    "length": 4.1875,
+    "ring": 36
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "nuts",
+   "espresso",
+   "leather"
+  ],
+  "about": "The maduro line in General Cigar's Cohiba range, with a dark Connecticut Broadleaf wrapper over Dominican and Mexican tobaccos aged at least three years.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/black/",
+   "https://www.cigarworld.com/cigars/cohiba/black/",
+   "https://www.holts.com/cigars/all-cigar-brands/cohiba-black.html"
+  ],
+  "notes": "Holt's and Neptune list it as medium, Famous Smoke as medium-full; the maker rates the body medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Habano)",
+  "filler": "Honduras (Jamastran), Nicaragua (Ometepe), Dominican Republic (Piloto Cubano)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "7x70",
+    "length": 7,
+    "ring": 70
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto Tubo",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Rothschild",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "Pequeños",
+    "length": 4.1875,
+    "ring": 36
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "cream",
+   "cinnamon",
+   "cocoa"
+  ],
+  "about": "The lower-priced, everyday line in General Cigar's Cohiba range, introduced in 2017. It leans on Honduran tobacco for both wrapper and binder and is rolled in the Dominican Republic.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/blue/",
+   "https://halfwheel.com/cohiba-blue-robusto/153916/",
+   "https://www.cigarworld.com/cigars/cohiba/blue/"
+  ],
+  "notes": "Retailers list it as medium. The maker's own description calls it medium to full bodied, while its rating scale shows medium. Famous Smoke describes the wrapper and binder as Honduran Olancho San Agustin.",
+  "verified": true,
+  "verifyNotes": "Removed flavor 'caramel' (not in the listed sources). All other fields confirmed."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Jamastran Colorado Oscuro",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "N60",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "N54",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "N52 en Crystale",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "N50",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Pequeños",
+    "length": 4.1875,
+    "ring": 36
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "pepper",
+   "cream",
+   "spice"
+  ],
+  "about": "The first Cohiba from General Cigar to be blended and rolled in Nicaragua, released in 2014. It uses Nicaraguan binder and filler from Estelí and Jalapa under a Colorado Oscuro wrapper.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/nicaragua/",
+   "https://halfwheel.com/cohiba-nicaragua-n54-prerelease/67150/",
+   "https://www.famous-smoke.com/brand/cohiba-nicaragua-cigars"
+  ],
+  "notes": "Not a Nicaraguan puro: halfwheel says the wrapper is Honduran, from Jamastran, and Famous Smoke lists it as Honduran Corojo. Famous and Neptune call it full, Holt's medium-full, and the maker rates the body medium. Sizes have changed since the 2014 launch.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Royale",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Nicaragua (Jalapa, Estelí), Honduras (Jamastran), Dominican Republic",
+  "country": "Honduras",
+  "factory": "STG Danlí",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Royale",
+    "length": 4.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "pepper",
+   "leather"
+  ],
+  "about": "Released in 2020 as the fullest-bodied Cohiba from General Cigar and the first one made in Honduras. Its tobaccos are aged five to six years under a Nicaraguan Jalapa wrapper.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/royale/",
+   "https://halfwheel.com/cohiba-royale-toro/375700/",
+   "https://www.cigarworld.com/cigars/cohiba/royale/"
+  ],
+  "notes": "The maker calls it strong and full-bodied and Neptune lists it as full, but Famous Smoke lists medium. Halfwheel's filler list has only Honduras and Nicaragua, while the maker also names Dominican leaf. The 5 1/2 x 54 was first sold under the name Royale.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Puro Dominicana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": null,
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 49
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "spice",
+   "oak",
+   "leather"
+  ],
+  "about": "An all-Dominican Cohiba from General Cigar, made only from the company's own Dominican tobaccos aged in tercios and charred wooden barrels. It has been retired from the lineup.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.cigarworld.com/cigars/cohiba/puro-dominicana/"
+  ],
+  "notes": "General Cigar's Cigar World site marks this line as retired, and it is no longer on cohiba.com. The maker does not name the wrapper variety beyond Dominican.",
+  "verified": false,
+  "verifyNotes": "Nothing changed. Wrapper, binder, filler, sizes, body and retired status confirmed on General Cigar's Cigar World page, and the maker gives body only, no strength. No page I opened states outright where this line was rolled: country is kept because halfwheel says General's Cohibas were made at General Cigar Dominicana until the Nicaragua (2014) and Honduras (2020) lines, which this line predates. Treat country as inferred."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Riviera",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras (Connecticut seed)",
+  "filler": "Honduras (Jamastran, La Entrada), Nicaragua (Condega, Estelí)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Lancero Box-Pressed",
+    "length": 7,
+    "ring": 38
+   },
+   {
+    "name": "Toro Box-Pressed",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro Box-Pressed Tubo",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Perfecto Box-Pressed",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Robusto Box-Pressed",
+    "length": 5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "coffee",
+   "cream",
+   "leather"
+  ],
+  "about": "Launched in 2023 as the only box-pressed line in General Cigar's Cohiba range and the first with a Mexican San Andrés wrapper. It is made in Nicaragua with Honduran and Nicaraguan tobaccos and no Dominican leaf.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.cohiba.com/the-collection/riviera/",
+   "https://halfwheel.com/cohiba-riviera-perfecto/427944/",
+   "https://www.cigarworld.com/cigars/cohiba/riviera/"
+  ],
+  "notes": "Sources disagree on strength: the maker's launch release said medium to full bodied and cohiba.com now says medium-bodied, while Famous Smoke and Neptune list it as full.",
+  "verified": true,
+  "verifyNotes": "Softened about: the maker says it is the only box-pressed Cohiba in its range, and halfwheel only suspects it is the first ever. All spec fields confirmed."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Spectre",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Havana Connecticut 2017 (USA)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Criollo 98, Vuelta Abajo seed), Mexico (San Andrés)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "chocolate",
+   "cream",
+   "spice"
+  ],
+  "about": "The highest-priced limited series in General Cigar's Cohiba range, first released in 2018. Each edition is a different blend in a single size, sold in elaborate boxes of 10 at around 90 to 150 dollars a cigar.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://www.cohiba.com/the-collection/spectre/",
+   "https://halfwheel.com/cohiba-spectre-2024/453358/",
+   "https://www.cigarworld.com/cigars/cohiba/spectre-2025/"
+  ],
+  "notes": "The blend and size change with every edition (2018, 2019, 2021, 2022 and the latest). Details here are for the latest, shipped June 2025: halfwheel calls it Spectre 2024, the maker's sites label it 2025. Earlier editions used Ecuadorian Sumatra, Nicaraguan Jalapa, Ecuadorian Habano and Brazilian wrappers.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop 'ultra-premium'. Latest-edition blend, size, factory and the earlier editions' wrappers confirmed on cohiba.com and halfwheel. Maker publishes body only, so strength stays null."
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Weller",
+  "found": true,
+  "officialName": "Weller by Cohiba",
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Broadleaf, aged in Weller Antique 107 bourbon barrels)",
+  "filler": "Dominican Republic (Piloto Cubano), Honduras (Jamastran, La Entrada, Olancho San Agustin), Nicaragua (Estelí)",
+  "country": "Dominican Republic",
+  "factory": "General Cigar Dominicana",
+  "strength": null,
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "bourbon",
+   "cedar",
+   "honey",
+   "spice"
+  ],
+  "about": "An annual limited collaboration between General Cigar's Cohiba and Weller bourbon, started in 2021. Since 2022 the broadleaf binder has been aged in used Weller bourbon barrels, and the cigars come in tubes in boxes of 10.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.cohiba.com/the-collection/weller/",
+   "https://halfwheel.com/weller-by-cohiba-2025/456989/",
+   "https://www.cigarworld.com/cigars/cohiba/weller-by-cohiba-2025/"
+  ],
+  "notes": "The blend changes each year; details here are the 2025 edition. The 2021 original was a 5 1/2 x 50 robusto with a Honduran wrapper, and 2023 used a Nicaraguan Jalapa wrapper. Retailers list it as full, but the maker rates the body medium-full and halfwheel's reviewer found the strength about medium.",
+  "verified": true,
+  "verifyNotes": "Blanked strength (was Full): Famous Smoke and Neptune do say Full, but both spec tables still show the 2023 Jalapa-wrapper blend, the maker publishes body only (medium-full), and halfwheel's 2025 review found strength medium or below. Notes updated to match. Blend, size, factory and edition history confirmed."
+ },
+ {
+  "brand": "Cornelius & Anthony",
+  "line": "Cornelius",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "USA",
+  "factory": "El Titan de Bronze",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "almonds",
+   "toffee",
+   "butter",
+   "cedar",
+   "wood",
+   "spice"
+  ],
+  "about": "The Miami-made line from Cornelius & Anthony, the Bailey family's Virginia cigar company, rolled at El Titan de Bronze. It is named for Cornelius Bailey, who started the family tobacco business in 1866.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/cornelius-anthony-shipping-cornelius-next-month/106809/",
+   "https://halfwheel.com/cornelius-anthony-adding-cornelius-lonsdale-ipcpr-2017/153310/",
+   "https://cigar-coop.com/2016/04/cigar-review-cornelius-toro-by-cornelius-anthony.html"
+  ],
+  "notes": "The brand appears to be defunct: halfwheel wrote in 2026 that it effectively ended around 2019 after the owners' cigarette company was sold, so any stock is old. The launch announcement listed only Nicaraguan filler; later sources add Dominican.",
+  "verified": true,
+  "verifyNotes": "Reworded about: no source calls this the flagship line. Blend, factory, sizes, 2016 release and the brand's end (halfwheel, June 2026) confirmed."
+ },
+ {
+  "brand": "Cornelius & Anthony",
+  "line": "Daddy Mac",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Brazil",
+  "binder": "Ecuador",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "dried fruit",
+   "wood",
+   "red pepper",
+   "cream"
+  ],
+  "about": "A Brazilian-wrapped blend from Cornelius & Anthony, made at Erik Espinosa's La Zona factory in Estelí. It is a tribute to Mac Bailey, father of company owner Steven Bailey.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/cornelius-anthony-announce-daddy-mac/110688/",
+   "https://cigar-coop.com/2016/06/cigar-review-cornelius-anthony-daddy-mac-corona-gorda.html",
+   "https://www.neptunecigar.com/cornelius-and-anthony-daddy-mac-cigar"
+  ],
+  "notes": "The maker called it medium to full bodied; Neptune lists it as medium. The type of Brazilian wrapper leaf was not published. The brand appears to be defunct since about 2019, per halfwheel.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cornelius & Anthony",
+  "line": "Venganza",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Judge (Robusto)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Silencer (Corona Gorda)",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Persuader (Toro)",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "BMG (Gordo)",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "cream",
+   "cherry",
+   "earth",
+   "cinnamon"
+  ],
+  "about": "A full-strength Cornelius & Anthony line made at La Zona in Estelí with Nicaraguan binder and filler under an Ecuadorian Habano wrapper. Its box art shows the patent drawing for the Bailey machine gun.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-cornelius-anthony/124518/",
+   "https://cigar-coop.com/2016/10/cigar-review-cornelius-anthony-venganza-robusto.html",
+   "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-cornelius-anthony-venganza-robusto/"
+  ],
+  "notes": "The maker billed it as a rich and flavorful powerhouse, and Cigar Coop rated both strength and body full. The brand appears to be defunct since about 2019, per halfwheel.",
+  "verified": true,
+  "verifyNotes": "Rewrote about: removed the 1876 patent year and the claim that it is the strongest of the lines, neither of which appears in the sources. All spec fields confirmed."
+ },
+ {
+  "brand": "Cornelius & Anthony",
+  "line": "Meridian",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "earth",
+   "fruit",
+   "black pepper",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The first cigar Cornelius & Anthony showed, in 2015, then relaunched in 2016 with a new blend made at La Zona in Estelí. The relaunched version has an Ecuadorian Rosado wrapper over Nicaraguan and Dominican tobaccos.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/cornelius-anthony-meridian-robusto/212057/",
+   "https://www.cigaraficionado.com/ratings/20074/name/cornelius-anthony-meridian-toro-toro",
+   "https://cigar-coop.com/2017/05/cigar-review-cornelius-anthony-meridian-robusto-2016.html"
+  ],
+  "notes": "Details are for the 2016 relaunch; the 2015 original was a different blend made by PDR Cigars in the Dominican Republic. Cigar Aficionado lists it as medium, while halfwheel and Cigar Coop found it medium to medium-full. Cigar Coop lists the Robusto as 5 x 50. The brand appears to be defunct since about 2019.",
+  "verified": true,
+  "verifyNotes": "Strength Medium kept but re-sourced: the listed pages do not quote the maker calling it medium, so the note now cites Cigar Aficionado's rating page, which replaces the relaunch news link in sources. Dropped the unverified Neptune strength claim."
+ }
+]

@@ -1,0 +1,540 @@
+[
+ {
+  "brand": "Drew Estate",
+  "line": "Blackened M81",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut River Valley Broadleaf)",
+  "filler": "Nicaragua, USA (Pennsylvania Green River One Sucker)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Doble",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "wood",
+   "toast",
+   "black pepper",
+   "earth"
+  ],
+  "about": "An all-maduro cigar Drew Estate made with Metallica's James Hetfield and Blackened Whiskey distiller Rob Dietrich. The M stands for Metallica and 81 for 1981, the year the band formed.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/blackened/blackened-m81/",
+   "https://halfwheel.com/blackened-cigars-m81-robusto/420461/",
+   "https://www.famous-smoke.com/brand/blackened-by-drew-estate-cigars"
+  ],
+  "notes": "Drew Estate lists the body as medium to full. Famous Smoke and Neptune rate the strength full, while halfwheel's review found it medium-plus. A Flying Pig, 4 x 32 tins and a 2025 Lancero also exist outside the four core sizes.",
+  "verified": true,
+  "verifyNotes": "Flavors: removed espresso and leather, which appear only in customer reviews, and used black pepper (Drew Estate) and earth (halfwheel review) instead. Strength Full confirmed on Famous Smoke and on https://www.neptunecigar.com/blackened-cigar; Drew Estate publishes body only, not strength. The 2025 Lancero is confirmed in https://halfwheel.com/blackened-cigars-by-drew-estate-s84-shade-to-black-lancero/465072/."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Blackened S84 Shade",
+  "found": true,
+  "officialName": "Blackened S84 Shade to Black",
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "USA (Connecticut River Valley Broadleaf)",
+  "filler": "Nicaragua, USA (Pennsylvania Green River One Sucker)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Corona Doble",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "pepper",
+   "nuts",
+   "oak",
+   "coffee",
+   "dark chocolate"
+  ],
+  "about": "The second Blackened cigar from Drew Estate and Metallica's James Hetfield, putting a Connecticut Shade wrapper over the same maduro binder and filler as the M81. The name plays on the song Fade to Black from the band's 1984 album.",
+  "released": 2024,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/blackened/blackened-s84/",
+   "https://halfwheel.com/drew-estate-announces-second-collaboration-with-metallicas-james-hetfield-shade-to-black-s84/436268/",
+   "https://www.famous-smoke.com/brand/blackened-s84-shade-by-drew-estate-cigars"
+  ],
+  "notes": "Drew Estate's site calls it simply Blackened S84. A 7 x 40 Lancero was added in September 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "20 Acre Farm",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Connecticut River Valley Habano",
+  "filler": "Nicaragua (Esteli, Jalapa), USA (Florida Sun Grown)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordito",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "oak",
+   "cedar",
+   "citrus",
+   "white pepper"
+  ],
+  "about": "A Connecticut Shade cigar from Drew Estate that uses Florida Sun Grown filler from Jeff Borysiewicz's 20 acre farm in Clermont, Florida. It is the company's second line built around that tobacco.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/20-acre-farm/",
+   "https://halfwheel.com/20-acre-farm-robusto/405183/",
+   "https://www.coronacigar.com/fsg-20-acre-farm-by-drew-estate-toro/"
+  ],
+  "notes": "Sources disagree on the binder: Drew Estate's site says Connecticut River Valley Habano, while halfwheel and Corona Cigar say Honduran Habano. halfwheel lists the Robusto at 5 1/2 inches; Drew Estate says 5 1/4.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Florida Sun Grown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Honduras (Habano)",
+  "filler": "Nicaragua, USA (Florida Sun Grown Corojo)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "earth",
+   "black pepper",
+   "raisin"
+  ],
+  "about": "Known as FSG, this is Drew Estate's first cigar to use tobacco grown on Jeff Borysiewicz's farm in Clermont, Florida. It began in 2016 as a Corona Cigar Co. exclusive and went national in 2017.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-drew-estate/161383/",
+   "https://halfwheel.com/fsg-belicoso/131164/",
+   "https://www.coronacigar.com/fsg-by-drew-estate-toro"
+  ],
+  "notes": "Since January 2022 it has been sold only through Corona Cigar Co. Sources disagree on the wrapper: halfwheel says Brazilian Mata Fina, Corona says Brazilian Arapiraca maduro. Corona rates it medium to full; halfwheel's review found medium to medium-full. The Limited Edition Toro is a different, broadleaf-wrapped blend.",
+  "verified": true,
+  "verifyNotes": "Flavors: citrus and chocolate were not on any page I could open, so the list now uses halfwheel's FSG Belicoso review. Sources: added that review (country, factory, June 2016 release, strength) in place of the 2022 exclusivity story, which is still the basis for the Corona-only note: https://halfwheel.com/drew-estate-discontinuing-muwat-larutan-lounge-exclusives-makes-fsg-exclusive-to-corona-cigar-co/404444/. Notes: dropped the Cigar Dojo strength claim, which I could not find. Drew Estate's 2016 launch release says only 'Brazilian wrapper', so Mata Fina rests on halfwheel alone."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "La Vieja Habana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Three versions: Brazilian Maduro, Ecuadorian Connecticut Shade, or Cuban-seed Corojo",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (mixed filler)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bomberito",
+    "length": 4,
+    "ring": 32
+   },
+   {
+    "name": "Chateau Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Rothschild Luxo",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Bombero",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso D",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordito Rico",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Celebracion Nacional",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "Drew Estate's first brand, started in New York City in 1996 and later moved to Nicaragua. It was a budget, mixed-filler cigar sold in three wrapper versions until Drew Estate dropped the whole line in 2022.",
+  "released": 1996,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/drew-estate-discontinues-100-skus-including-la-vieja-habana-undercrown-sun-grown-lines/414354/",
+   "https://www.neptunecigar.com/la-vieja-habana-cigar"
+  ],
+  "notes": "Discontinued in September 2022. It came in three wrappers, so there is no single wrapper type: Neptune rates the Connecticut Shade mild and the Brazilian Maduro and Corojo medium. Blend details come from a retailer, not the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Pappy Van Winkle Barrel Fermented",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Kentucky fire-cured, barrel-fermented tapa negra over an Indonesian base wrapper",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Indonesia",
+  "filler": "USA (Kentucky fire-cured), Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "charred oak",
+   "peat",
+   "coffee",
+   "leather",
+   "vanilla"
+  ],
+  "about": "A Drew Estate collaboration with Pappy & Company, the Van Winkle family's merchandise business. It is built around Kentucky fire-cured tobacco that is fermented in bourbon barrels, which gives it a smoky, charred oak character.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/pappy-van-winkle/pappy-van-winkle-barrel-fermented/",
+   "https://halfwheel.com/pappy-van-winkle-barrel-fermented-cigars-robusto/87069/",
+   "https://halfwheel.com/pappy-van-winkles-family-reserve-barrel-fermented-heading-to-retailers-nationwide-adds-flying-pig-size/367386/"
+  ],
+  "notes": "Blend here is from Drew Estate's site. halfwheel lists a Mexican San Andres base wrapper and a Nicaraguan binder, and the Toro as 6 x 52. Drew Estate says the tobacco ferments in retired Pappy Van Winkle bourbon barrels; halfwheel reported in 2019 that the barrels had not held Pappy, so do not promise it. Made in small batches.",
+  "verified": true,
+  "verifyNotes": "Notes: the old note said the barrels did not hold Pappy bourbon and credited the halfwheel review, which does not say that. Drew Estate's own page says retired Pappy Van Winkle bourbon barrels, and a 2019 halfwheel news story says otherwise, so the note now gives both and that story replaces Neptune in sources. Strength Medium was confirmed on https://www.neptunecigar.com/pappy-van-winkle-cigar; Drew Estate publishes body (Medium) only. The wrapper category is a judgment call: Neptune lists the wrapper color as Maduro."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Java Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 38
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Wafe",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "The 58",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "X-Press",
+    "length": 4,
+    "ring": 32
+   }
+  ],
+  "flavors": [
+   "mocha",
+   "dark chocolate",
+   "espresso"
+  ],
+  "about": "The original Java, a coffee and cocoa infused cigar that Drew Estate makes for Rocky Patel. Most sizes are box-pressed.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-announces-java-red/158289/",
+   "https://www.neptunecigar.com/cigar/java-maduro",
+   "https://www.holts.com/cigars/all-cigar-brands/java.html"
+  ],
+  "notes": "Banded Java by Drew Estate; Drew Estate makes it for Rocky Patel, which distributes it. It is an infused (flavored) cigar. Blend comes from retailers, not the maker. Not every size is still stocked by retailers.",
+  "verified": true,
+  "verifyNotes": "Flavors: removed vanilla, which neither Neptune nor Holt's uses for Java Maduro. Notes: removed the claim that some retailers call this wrapper Mata Fina; I only found that wording for Java Mint. Release year left null: no page I could open gives one."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Java Latte",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 38
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Wafe",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "The 58",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "X-Press",
+    "length": 4,
+    "ring": 32
+   }
+  ],
+  "flavors": [
+   "mocha",
+   "caramel",
+   "vanilla",
+   "cream",
+   "cocoa",
+   "espresso"
+  ],
+  "about": "The Connecticut Shade version of Java, a coffee and cocoa infused cigar that Drew Estate makes for Rocky Patel. Retailers rate it mild, lighter than the other Java lines.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/rocky-patel-announces-java-red/158289/",
+   "https://www.neptunecigar.com/cigar/java-latte",
+   "https://www.holts.com/cigars/all-cigar-brands/java-latte.html"
+  ],
+  "notes": "Banded Java by Drew Estate; Drew Estate makes it for Rocky Patel, which distributes it. It is an infused (flavored) cigar. Blend comes from retailers. Not every size is still stocked by retailers.",
+  "verified": true,
+  "verifyNotes": "Sizes: added the 4 x 32 X-Press, which halfwheel reports as the seventh size of Java Maduro, Latte and Mint: https://halfwheel.com/rocky-patel-adds-x-press-size-three-java-lines/158336/. Release year left null: no page I could open gives one."
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Java Mint",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Corona",
+    "length": 4.5,
+    "ring": 38
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Wafe",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "The 58",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "X-Press",
+    "length": 4,
+    "ring": 32
+   }
+  ],
+  "flavors": [
+   "mint",
+   "dark chocolate",
+   "mocha",
+   "coffee",
+   "vanilla",
+   "caramel"
+  ],
+  "about": "A mint and chocolate take on Java, the infused cigar that Drew Estate makes for Rocky Patel. It keeps the dark Brazilian wrapper of the original Java Maduro.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2011-drew-estate/7970/",
+   "https://www.neptunecigar.com/cigar/java-mint",
+   "https://www.holts.com/cigars/all-cigar-brands/java-mint.html"
+  ],
+  "notes": "Banded Java by Drew Estate; Drew Estate makes it for Rocky Patel, which distributes it. It is an infused (flavored) cigar. Blend comes from retailers; Famous Smoke calls the wrapper Brazilian Mata Fina. Not every size is still stocked by retailers.",
+  "verified": true,
+  "verifyNotes": "Sizes: added the 4 x 32 X-Press, which Neptune lists for Java Mint and halfwheel reports as the seventh size of the line. The 2011 release is supported by halfwheel's June and July 2011 coverage of Java Mint as a new flavor."
+ }
+]

@@ -1,0 +1,931 @@
+[
+ {
+  "brand": "Toraño",
+  "line": "Exodus 1959 50 Years",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Sun Grown Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Honduras",
+  "filler": "Nicaragua (Estelí, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "STG Estelí",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Box Press",
+    "length": 5,
+    "ring": 55
+   },
+   {
+    "name": "Torpedo",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Short Churchill",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "BFC",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "raisin",
+   "cream",
+   "spice",
+   "coffee",
+   "nuts"
+  ],
+  "about": "A Toraño blend released in 2009 to mark 50 years since the 1959 exodus of cigar makers from Cuba. It pairs a dark Brazilian wrapper with Nicaraguan filler and placed in Cigar Aficionado's Top 25 for 2010.",
+  "released": 2009,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/weekly-news-may-16-2011/6449/",
+   "https://halfwheel.com/carlos-torano-exodus-1959-50-years-prerelease-review/17534/",
+   "https://www.cigaraficionado.com/top25cigar/carlos-torano-exodus-1959-50-years-box-press-2010"
+  ],
+  "notes": "Cigar Aficionado lists medium strength and halfwheel found medium strength with a full body; Holt's lists medium-full and Neptune full. Neptune lists Honduras as the origin, against Nicaragua everywhere else. Dormant after General Cigar bought Toraño in 2014, it returned in 2018.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory, strength, sizes and 2009 release confirmed on halfwheel and Cigar Aficionado. Wrapper wording changed to the published 'Sun Grown Maduro'. Removed the claim that Holt's sells it as closeout (the page only shows sold out). Fixed 'about': the name marks the 1959 exodus, not the family's own departure. Swapped the Holt's link for the Cigar Aficionado page that states the strength."
+ },
+ {
+  "brand": "Toraño",
+  "line": "Exodus 1959 Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Habana 2000)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras",
+  "filler": "Dominican Republic, Honduras, Nicaragua, Costa Rica, Mexico",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "leather",
+   "cream",
+   "spice",
+   "wood",
+   "vanilla"
+  ],
+  "about": "The original gold-label Exodus 1959 from 2001, named for the 1959 exodus of tobacco growers and cigar makers from Cuba. It is a box-pressed cigar known for its five-country filler blend.",
+  "released": 2001,
+  "production": null,
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/torano-exodus-1959-gold.html",
+   "https://www.cigaraficionado.com/ratings/14161/name/carlos-torano-exodus-1959-torpedo",
+   "https://halfwheel.com/review-torano-exodus-finite/39920/"
+  ],
+  "notes": "Retailers describe a Nicaraguan Habano or Habana 2000 wrapper, but Cigar Aficionado's 2007 rating and Neptune list a Honduran wrapper. Holt's says medium-full; Neptune lists full. Dormant after the 2014 sale to General Cigar, it returned in 2018.",
+  "verified": true,
+  "verifyNotes": "Country, strength, sizes, binder, filler and 2001 release confirmed. Holt's only says 'Nicaraguan' wrapper; Habano and Habana 2000 come from other retailers, so the wrapper wording was adjusted. Flavors trimmed to words on the Holt's and Cigar Aficionado pages (cedar and pepper were not there). Removed the unconfirmed CigarsDirect country claim from notes. Fixed 'about' on what the name refers to."
+ },
+ {
+  "brand": "Toraño",
+  "line": "Vault",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan shade-grown Colorado",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Honduras (Jamastran), Nicaragua (Ometepe)",
+  "filler": "Nicaragua (Estelí, Condega)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "BFC",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "ripe fruit",
+   "nuts",
+   "cream"
+  ],
+  "about": "A series of blends drawn from the Toraño family's blend book, which is kept in a bank vault. The first, Vault A-008, came out in 2011 and Toraño called it the strongest blend it had made.",
+  "released": 2011,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/press-release-torano-vault/7899/",
+   "https://halfwheel.com/review-torano-vault-corona-gorda/25967/",
+   "https://halfwheel.com/general-shows-off-new-torano-look-with-four-new-vault-blends/114001/"
+  ],
+  "notes": "Vault is several different blends. Details here are the original A-008. D-042 followed in 2013, and General Cigar added P-044, TM-027, C-033 and L-075 in 2016 and E-021 and W-009 in 2017. Ask which code is on the band. Neptune lists A-008 as full strength; halfwheel found it medium-plus.",
+  "verified": true,
+  "verifyNotes": "A-008 blend, country, factory and sizes confirmed on halfwheel and Neptune. Removed the Corona Gorda size because halfwheel says it was a limited release. Dropped 'made at STG Estelí' for the later blends, which the sources do not state outright. Added the strength disagreement to notes."
+ },
+ {
+  "brand": "Toraño",
+  "line": "Casa Toraño",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "cream"
+  ],
+  "about": "The Toraño house blend, a mild to medium cigar with an Ecuadorian Connecticut shade wrapper. It went dormant after General Cigar bought the brand in 2014 and came back in 2018.",
+  "released": 2004,
+  "production": null,
+  "sources": [
+   "https://cigar-coop.com/2018/07/cigar-news-three-legacy-torano-blends-return-at-2018-ipcpr.html",
+   "https://www.neptunecigar.com/cigars/casa-torano-robusto",
+   "https://mikescigars.com/brands/carlos-torano-casa-torano"
+  ],
+  "notes": "Sources disagree on the blend: Neptune lists a Nicaraguan binder with Honduran and Nicaraguan filler, Mike's Cigars lists Dominican and Nicaraguan, and Cigar Aficionado's 2004 rating gave an Indonesian binder. Neptune's spec and Cigar Aficionado call it mild; Mike's Cigars says mild to medium.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country (Honduras) and strength confirmed on Neptune and Mike's Cigars. Sizes corrected from Neptune's product pages: Robusto 4 3/4 x 52 (was 4.7), Toro 6 1/4 x 50 (was 6.1); removed the BFC 6 x 60, which no page listed. Filler simplified to the two countries Neptune and Cigar Aficionado name. Added the 2004 release year from Mike's Cigars. CigarsDirect's page gave no dimensions or country, so it was replaced as a source and flavors reset to Mike's description."
+ },
+ {
+  "brand": "Toraño",
+  "line": "Master",
+  "found": true,
+  "officialName": "Master by Carlos Toraño",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Estelí)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "BFC",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Colossal",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "sweetness"
+  ],
+  "about": "A 2010 release from the Toraño family, blended by Charlie Toraño with the company's master roller Felipe Sosa, whose image is on the box. It uses an Ecuadorian Habano wrapper over Nicaraguan tobacco.",
+  "released": 2010,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/torano-master-bowling-pin/36776/",
+   "https://halfwheel.com/press-release-torano-family-cigar-company-release-latest-master-line-master-maduro/26848/",
+   "https://www.neptunecigar.com/cigars/torano-master-robusto"
+  ],
+  "notes": "Neptune lists it as medium while Mike's Cigars says medium to full, so no strength is given here. Master Maduro, with a Nicaraguan Habano Maduro wrapper, is a separate 2012 extension.",
+  "verified": false,
+  "verifyNotes": "Wrapper, binder, filler, country (Nicaragua) and 2010 release confirmed. Strength could not be settled: the two retailers that list it disagree and there is no maker page, so it stays null. Sizes rebuilt from Neptune's product pages (Robusto, Torpedo, Churchill, BFC, Colossal); removed the LFC 4 1/4 x 60, which no page I opened lists. Neptune's line page no longer shows specs, so the source now points to its Robusto page and flavors follow that page."
+ },
+ {
+  "brand": "Trinidad",
+  "line": "Espiritu",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "vanilla",
+   "pepper",
+   "nuts",
+   "cream",
+   "bread"
+  ],
+  "about": "A Nicaraguan puro made for Altadis U.S.A. by AJ Fernandez, launched in 2019 for the Trinidad brand's 50th anniversary. Its bright packaging is inspired by Havana in the 1960s.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/trinidad-espiritu-robusto/371616/",
+   "https://www.altadisusa.com/cigars/trinidad-santiago/trinidad-trinidad-espiritu/",
+   "https://www.neptunecigar.com/cigar/trinidad-espiritu"
+  ],
+  "notes": "This is Espiritu Series No. 1; Series No. 2 and No. 3 are later, different blends. Altadis lists the Robusto at 5 x 50 and Toro at 6 x 54, while halfwheel listed both at 52 ring. A 7 1/2 x 40 Fundador was sold only at events.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, factory, strength, flavors and 2019 release confirmed on Altadis, halfwheel and Neptune. Removed the Fundador from sizes because halfwheel and Neptune describe it as event-only; it is mentioned in notes instead."
+ },
+ {
+  "brand": "Trinidad",
+  "line": "Santiago",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "anise",
+   "cedar",
+   "cream",
+   "nuts"
+  ],
+  "about": "A Dominican puro made by Jochy Blanco at Tabacalera Palma, the first Altadis U.S.A. project developed with Rafael Nodal. It came out in October 2017.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/trinidad-santiago-robusto/256348/",
+   "https://www.holts.com/cigars/all-cigar-brands/trinidad-santiago.html",
+   "https://www.neptunecigar.com/cigar/trinidad-santiago"
+  ],
+  "notes": "Strength is listed as medium-full by Holt's and full by Neptune; halfwheel found it medium-plus. Halfwheel lists the Belicoso at 6 x 52, Neptune at 6 1/8 x 52. Neptune and Holt's describe the wrapper as dark, and Neptune calls it Habano maduro.",
+  "verified": true,
+  "verifyNotes": "All checked fields confirmed on halfwheel, Holt's and Neptune. Only the notes were extended with the Belicoso length and wrapper shade differences."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habana 2000 (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.75,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice",
+   "earth",
+   "cedar",
+   "coffee"
+  ],
+  "about": "A Nicaraguan puro that is rolled in the Dominican Republic at Tabacalera de García. Altadis added it to the VegaFina brand in 2014.",
+  "released": 2014,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/vegafina-nicaragua-coming-month/74642/",
+   "https://www.neptunecigar.com/cigar/vegafina-nicaragua",
+   "https://cigar-coop.com/2023/06/agile-cigar-review-vegafina-nicaragua-gran-vulcano.html"
+  ],
+  "notes": "All Nicaraguan tobacco but made in the Dominican Republic. Cigar Coop reports Altadis no longer sells it in the U.S., though it continues in other markets with more sizes.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, factory, strength, sizes and 2014 release confirmed on halfwheel and Neptune. Removed 'leather' from flavors (not on any page opened) and added cedar from Neptune. Removed the Holt's claim from notes because that Holt's page no longer exists."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "Fortaleza 2",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Criollo",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Dominican Republic (Piloto)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 6.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "citrus",
+   "pepper"
+  ],
+  "about": "A VegaFina line made by Tabacalera de García with a Mexican San Andrés Criollo wrapper over Dominican binder and filler. It reached U.S. stores in 2012.",
+  "released": 2012,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/altadis-new-lines-trinidad-te-am-vegafina-ipcpr-2012/29866/",
+   "https://www.neptunecigar.com/cigars/vega-fina-fortaleza-2-robusto",
+   "https://cigar-coop.com/2023/05/cigar-news-vegafina-fortaleza-2-reposado-10-anos-announced.html"
+  ],
+  "notes": "Strength and flavor notes come from Neptune's listing only. It is not on Altadis U.S.A.'s current VegaFina page, but Fortaleza 2 releases continue in international markets.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, factory, sizes and 2012 release confirmed on halfwheel and Neptune. Filled strength (Medium), leaf names for binder and filler, and two flavor words from Neptune's Robusto page, which replaces the line page as the source."
+ },
+ {
+  "brand": "Vega Fina",
+  "line": "1998",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano (HVA)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Java)",
+  "filler": "Dominican Republic, Nicaragua, Colombia",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "VF 50",
+    "length": 4.5,
+    "ring": 50
+   },
+   {
+    "name": "VF 52",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "VF 54",
+    "length": 6.125,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "wood",
+   "sweetness"
+  ],
+  "about": "Named for the year the VegaFina brand was founded. It is made at Tabacalera de García with an Ecuadorian Habano wrapper and aged tobaccos, and came to the U.S. in 2020 after starting in Europe.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/vegafina-1998-slated-for-september-stateside-release/379132/",
+   "https://www.altadisusa.com/cigars/vegafina/vegafina-1998/",
+   "https://www.neptunecigar.com/cigar/vegafina-1998"
+  ],
+  "notes": "Altadis describes it as medium-bodied, while Neptune lists it as full. Altadis's site and Neptune list the VF 52 at 5 inches; the 2020 press release gave 5 1/4. Sold in Europe before the September 2020 U.S. release.",
+  "verified": true,
+  "verifyNotes": "Blend, country, factory and strength confirmed on Altadis, halfwheel and Neptune. VF 52 length changed from 5.25 to 5 to match the maker's current page and Neptune; the press release figure is kept in notes. The release year is the U.S. launch; no page opened gave the earlier European date."
+ },
+ {
+  "brand": "Ventura",
+  "line": "Psyko Seven",
+  "found": true,
+  "officialName": "PSyKo SEVEN",
+  "wrapperLeaf": "Dominican Hybrid",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Mexico (Sumatra)",
+  "filler": "Dominican Republic, Mexico, Peru, Honduras, United States, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "TABADOM",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Gordito",
+    "length": 4,
+    "ring": 58
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "The original PSyKo SEVEN from Ventura Cigar Co., launched in 2013 and named for its seven tobaccos from six countries. It is made in the Dominican Republic and is now sold as the Natural.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://venturacigar.com/products/psyko-seven/",
+   "https://halfwheel.com/ventura-cigar-co-announces-corona-psyko-seven-line/48646/",
+   "https://halfwheel.com/psyko-seven-nicaragua-toro/368042/"
+  ],
+  "notes": "Ventura now calls this blend PSyKo SEVEN Natural, alongside Maduro, Connecticut and Nicaragua versions. Ventura rates it mild-medium; Neptune lists mild. The factory is as halfwheel reported in 2014.",
+  "verified": true,
+  "verifyNotes": "Wrapper, binder, filler, country, strength, sizes and 2013 release confirmed on Ventura's site and halfwheel. Notes extended with the Neptune strength and the age of the factory report; no field values changed."
+ },
+ {
+  "brand": "Ventura",
+  "line": "Psyko Seven Maduro",
+  "found": true,
+  "officialName": "PSyKo SEVEN Maduro",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (151)",
+  "filler": "Nicaragua, Peru, Honduras, Dominican Republic, United States",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "fruit",
+   "cream",
+   "chocolate"
+  ],
+  "about": "The maduro version of Ventura's PSyKo SEVEN, with a Mexican San Andrés wrapper over an Ecuadorian binder and a multi-country filler. It is made in the Dominican Republic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://venturacigar.com/products/psyko-seven/",
+   "https://www.neptunecigar.com/cigar/psyko-seven-maduro",
+   "https://halfwheel.com/psyko-seven-connecticut-toro/143999/"
+  ],
+  "notes": "Ventura rates it medium; Neptune calls it medium to full. Ventura only says the filler is a multi-country blend; the country list is Neptune's. It was the second PSyKo SEVEN blend, out before the 2016 Connecticut.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, strength, sizes, filler countries and flavors confirmed on Ventura's site and Neptune. Binder wording updated to Ventura's 'Ecuadorian 151'."
+ },
+ {
+  "brand": "Ventura",
+  "line": "Case Study",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "A series of 26 numbered blends that Ventura Cigar Co. launched in 2016, commissioned from factories owned by Davidoff, Drew Estate, La Aurora, Plasencia and Rocky Patel. The name honors the Case Study houses of mid-century Southern California.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-ventura-cigar-co/128008/",
+   "https://cigar-coop.com/2016/09/cigar-news-ventura-cigar-company-launches-case-study-at-2016-ipcpr.html",
+   "https://halfwheel.com/case-study-cs-13-ships/286146/"
+  ],
+  "notes": "Not one cigar: each Case Study number is its own blend, factory and size list, so there is no single wrapper or strength. White bands mark regular production and black bands mark limited editions. Ask which number is on the band.",
+  "verified": true,
+  "verifyNotes": "Confirmed on halfwheel and Cigar Coop that Case Study is a 26-blend series from several factories with no single wrapper, country or strength, so those stay null. Nothing changed."
+ },
+ {
+  "brand": "Ventura",
+  "line": "Archetype Axis Mundi",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Maduro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "charred wood",
+   "pepper"
+  ],
+  "about": "One of two Archetype blends that Drew Estate made for Ventura Cigar Co., released in 2016. It has a dark Habano wrapper over Nicaraguan filler.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-ventura-cigar-co/128008/",
+   "https://www.neptunecigar.com/cigar/archetype-axis-mundi",
+   "https://cigar-coop.com/2017/04/cigar-news-archetype-initiation-and-axis-mundi-head-for-wider-distribution.html"
+  ],
+  "notes": "Ventura only described a Habano Maduro wrapper over Nicaraguan tobaccos; the Ecuadorian origin and Indonesian Sumatra binder come from Neptune. Neptune rates it full strength, though its line description says medium to full-bodied, and marks it discontinued. Its sister blend is Archetype Initiation.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, factory, sizes and 2016 launch confirmed on halfwheel, Cigar Coop and Neptune. Strength changed from Medium-Full to Full: Neptune's spec and product text say full strength, and 'medium to full' on its line page describes body."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Oro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Fuerza",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Delicado",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "earth",
+   "dark chocolate",
+   "black pepper",
+   "cinnamon"
+  ],
+  "about": "One of Viaje's two original lines from when Andre Farkas started the company in 2008, a Nicaraguan puro. Viaje brought it back in 2021 with a slightly updated blend made at the AGANORSA Leaf factory.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-revamped-oro-and-platino/400724/",
+   "https://halfwheel.com/review-viaje-oro-fuerza-original/45992/",
+   "https://www.cigarsdirect.com/products/viaje-oro-fuerza"
+  ],
+  "notes": "Made at Joya de Nicaragua at first, then Raíces Cubanas in Honduras from 2009, then TABSA in Nicaragua from 2021. The Corojo 99 wrapper is as listed for the Honduran-made version; Viaje calls the 2021 version a Nicaraguan puro with slight blend changes. Strength is CigarsDirect's listing. Released in small batches.",
+  "verified": true,
+  "verifyNotes": "Wrapper confirmed on halfwheel and CigarsDirect, current country and factory on halfwheel's 2021 report. Strength filled as Medium-Full from CigarsDirect's product pages. The note that Atlantic lists full and CigarsDirect medium was removed: Atlantic's page gives no strength and CigarsDirect says medium-full. CigarsDirect still lists Honduras as origin. Viaje's own site could not be loaded."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Platino",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Corojo 99",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Valle de Jalapa S.A. (TABSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chiva",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Sueno",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "cocoa",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The sister line to Viaje Oro and one of the company's original releases, a Nicaraguan puro. Viaje revived it in 2021 with a slightly updated blend made at the AGANORSA Leaf factory.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-announces-revamped-oro-and-platino/400724/",
+   "https://halfwheel.com/viaje-platino-el-gallito-2/336232/",
+   "https://www.cigarsdirect.com/products/viaje-platino-sueno"
+  ],
+  "notes": "Earlier Platino releases were made at Raíces Cubanas in Honduras; the 2021 return moved to TABSA in Nicaragua. The Corojo 99 wrapper is as listed for the Honduran-made version. Strength is CigarsDirect's listing; Atlantic calls it full bodied. Released in small batches rather than year-round.",
+  "verified": true,
+  "verifyNotes": "Wrapper confirmed on halfwheel and CigarsDirect, current country and factory on halfwheel's 2021 report. Strength filled as Medium-Full from CigarsDirect. Removed the note that Atlantic lists full and CigarsDirect medium, which the pages do not say. CigarsDirect still lists Honduras as origin. Viaje's own site could not be loaded."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Exclusivo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Criollo 98",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Honduras",
+  "factory": "Raíces Cubanas",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Double R",
+    "length": 5.25,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "cedar",
+   "earth",
+   "leather"
+  ],
+  "about": "Originally the personal blend of Viaje founder Andre Farkas, first sold in 2009. It is a Nicaraguan puro of AGANORSA tobacco rolled at Raíces Cubanas in Honduras, and is seen as one of Viaje's more balanced lines.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/viaje-exclusivo-robusto-2010/217093/",
+   "https://halfwheel.com/viaje-exclusivo-exclusivo-leaded-returning-this-month-in-double-edged-sword-vitola/427093/",
+   "https://www.neptunecigar.com/cigar/viaje-exclusivo"
+  ],
+  "notes": "Viaje made it regular production in 2015 in three sizes; a 2023 batch was announced as a return to shelves. Neptune calls it medium strength; halfwheel's Double R review found it building to full. Halfwheel's release lists give the Double R as 5 1/4 inches, its review 5 1/2. Exclusivo Nicaragua and Exclusivo Leaded are different blends.",
+  "verified": true,
+  "verifyNotes": "Wrapper, country, factory and 2009 debut confirmed on halfwheel; medium strength is from Neptune's line page, which wrongly says made in Nicaragua. Double R length changed from 5.5 to 5.25, the figure in halfwheel's release lists. Swapped the Double R review link for the Neptune page that states the strength."
+ },
+ {
+  "brand": "Viaje",
+  "line": "Skull and Bones",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Daisy Cutter",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "MOAB",
+    "length": 4.25,
+    "ring": 54
+   },
+   {
+    "name": "FOAB",
+    "length": 4.5,
+    "ring": 56
+   },
+   {
+    "name": "Little Boy",
+    "length": 4.25,
+    "ring": 52
+   },
+   {
+    "name": "Fat Man",
+    "length": 4.25,
+    "ring": 56
+   },
+   {
+    "name": "Big Ivan",
+    "length": 5,
+    "ring": 60
+   },
+   {
+    "name": "Cloudmaker",
+    "length": 5,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "Viaje's largest series, a run of small-batch releases that began with the Daisy Cutter in 2010 and is known as one of the company's strongest. The cigars are named after bombs and, more recently, comic book characters.",
+  "released": 2010,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/viaje-skull-and-bones-the-punisher/394890/",
+   "https://halfwheel.com/viaje-skull-and-bones-red-returns-for-2026/463146/",
+   "https://www.cigarsdirect.com/collections/viaje-skull-and-bones"
+  ],
+  "notes": "A series, not one blend: Viaje usually does not disclose the wrapper, blend or factory, and they change from release to release. Recent ones are described only as Nicaraguan tobaccos. Strength is as retailers put it (CigarsDirect: usually full). Sizes are the releases that have returned more than once; the MOAB has also been 4 1/2 x 52.",
+  "verified": true,
+  "verifyNotes": "Confirmed on halfwheel that Viaje does not disclose wrapper, blend or factory for this series, so those stay null. Full strength confirmed on CigarsDirect, which replaces the Atlantic link (Atlantic's page gives no strength). Sizes confirmed against halfwheel's release list."
+ }
+]

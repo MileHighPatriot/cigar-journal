@@ -1,0 +1,647 @@
+[
+  {
+    "brand": "Nestor Miranda",
+    "line": "Special Selection",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Criollo 98)",
+    "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Coffee Break",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "earth",
+      "nuts",
+      "cocoa",
+      "black pepper"
+    ],
+    "about": "The line named for Miami Cigar & Co. co-founder Nestor Miranda, first released in 2006 and brought back in 2019 after a five year absence. The current Habano version is a Nicaraguan puro made at My Father Cigars in Estelí.",
+    "released": 2006,
+    "production": "regular",
+    "sources": [
+      "https://miamicigar.com/cigar-blend/habano-special-selection/",
+      "https://halfwheel.com/nestor-miranda-special-selection-gran-toro-2019/365853/",
+      "https://www.neptunecigar.com/cigars/nestor-miranda-special-selection-rosado-gran-toro"
+    ],
+    "notes": "Two blends today: the Habano (described here, also sold as Rosado) and a Connecticut with an Ecuadorian Connecticut wrapper that returned in 2022. Strength varies by source: Neptune says medium, Mike's Cigars medium to full, and halfwheel's reviewer found it close to full.",
+    "verified": true,
+    "verifyNotes": "Blend, factory, sizes and 2006 debut confirmed on Miami Cigar and halfwheel. Changed 'founder' to 'co-founder' in about (halfwheel's wording). Removed flavor 'leather', which none of the pages mention. Added Mike's Cigars strength (medium to full, https://mikescigars.com/nestor-miranda-special-selection-coffee-break-robusto) to notes; it supports the Medium-Full value."
+  },
+  {
+    "brand": "Nestor Miranda",
+    "line": "Collection Corojo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "cedar",
+      "white pepper",
+      "red pepper",
+      "citrus",
+      "earth"
+    ],
+    "about": "A Nicaraguan puro with a corojo wrapper, added in 2016 as the fourth blend in the Nestor Miranda Collection from Miami Cigar & Co. It is made at My Father Cigars and wears the yellow-trimmed band.",
+    "released": 2016,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/nestor-miranda-collection-corojo-robusto/138844/",
+      "https://cigar-coop.com/2016/12/cigar-news-nestor-miranda-collection-corojo-robusto.html",
+      "https://www.neptunecigar.com/cigars/nestor-miranda-collection-corojo-robusto"
+    ],
+    "notes": "Neptune lists it as medium; Cigar Coop's review had it building to medium-full. Miami Cigar's current site shows only the Special Selection under Nestor Miranda, so the Collection may no longer be in production.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Nestor Miranda",
+    "line": "Collection Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "United States",
+    "binder": "Nicaragua",
+    "filler": "Brazil, Honduras, Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "earth",
+      "coffee",
+      "black pepper",
+      "dried fruit",
+      "wood"
+    ],
+    "about": "The Connecticut Broadleaf maduro in the Nestor Miranda Collection, the 2014 line from Miami Cigar & Co. that replaced the Special Selection. It is made at My Father Cigars and wears the red band.",
+    "released": 2014,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/nestor-miranda-collection-debuts-week/59408/",
+      "https://cigar-coop.com/2016/10/cigar-review-nestor-miranda-collection-maduro-robusto.html",
+      "https://www.neptunecigar.com/cigars/nestor-miranda-collection-maduro-coffee-break"
+    ],
+    "notes": "Filler sources disagree: halfwheel reports Brazil, Honduras and Nicaragua; Neptune and Cigar Coop list Dominican Republic, Nicaragua and Peru. Neptune rates it full, Cigar Coop medium to medium-full. No longer shown on Miami Cigar's site, so it may be out of production.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Nestor Miranda",
+    "line": "Collection Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Dominican Republic, Honduras, Nicaragua",
+    "country": "Nicaragua",
+    "factory": "My Father Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "almond",
+      "espresso",
+      "cream"
+    ],
+    "about": "The Connecticut shade blend in the Nestor Miranda Collection from Miami Cigar & Co., made at My Father Cigars. It is the 2012 Special Selection Connecticut blend renamed in 2014, and it wears the blue band.",
+    "released": 2014,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/nestor-miranda-collection-debuts-week/59408/",
+      "https://halfwheel.com/nestor-miranda-special-selection-connecticut-returns-next-week/408750/",
+      "https://www.neptunecigar.com/cigars/nestor-miranda-collection-connecticut-coffee-break"
+    ],
+    "notes": "Neptune's spec says medium but its description calls it mild bodied, and it omits Honduras from the filler. The Special Selection Connecticut name came back in 2022 with a close but not identical blend, and Miami Cigar's site now lists only that version.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Nestor Miranda",
+    "line": "Don Lino Africa",
+    "found": false,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": null,
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [],
+    "about": null,
+    "released": null,
+    "production": null,
+    "sources": [
+      "https://miamicigar.com/cigar-blend/africa/",
+      "https://halfwheel.com/don-lino-africa-duma/372985/"
+    ],
+    "notes": "This cigar exists but is sold under the Don Lino brand, not Nestor Miranda. Both belong to Miami Cigar & Co., and the line was inspired by a safari Nestor Miranda took. The current version (2019) is made by AJ Fernandez in Nicaragua with an Ecuadorian habano 2000 wrapper and Cameroon binder.",
+    "verified": false,
+    "verifyNotes": "Confirmed it belongs to the Don Lino brand on Miami Cigar's site, so found stays false. Removed 'created the line in 2006' from notes: halfwheel only says it launched just over 15 years after 1989. Replaced the Miami Cigar link with the page it now redirects to."
+  },
+  {
+    "brand": "Nub",
+    "line": "Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Cameroon",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva (Estelí)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "354",
+        "length": 3.75,
+        "ring": 54
+      },
+      {
+        "name": "358",
+        "length": 3.75,
+        "ring": 58
+      },
+      {
+        "name": "460",
+        "length": 4,
+        "ring": 60
+      },
+      {
+        "name": "464 Torpedo",
+        "length": 4,
+        "ring": 64
+      }
+    ],
+    "flavors": [
+      "cream",
+      "almond",
+      "cashew",
+      "white pepper",
+      "vanilla",
+      "cinnamon"
+    ],
+    "about": "One of the original Nub blends from Oliva, a short and very thick cigar built to hit its sweet spot from the first puff. This version pairs an Ecuadorian Connecticut wrapper with Nicaraguan filler for a creamy smoke.",
+    "released": 2008,
+    "production": "regular",
+    "sources": [
+      "https://www.nubcigar.com/copy-of-nub-maduro",
+      "https://www.holts.com/cigars/all-cigar-brands/nub-connecticut.html",
+      "https://www.neptunecigar.com/cigars/nub-connecticut-460"
+    ],
+    "notes": "Oliva's Nub site lists a Cameroon binder; Holt's and Neptune list a Nicaraguan binder. The launch year is given as 2007 on the Nub site's Connecticut page and by Holt's, but 2008 on the Nub site's story page and by halfwheel.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Nub",
+    "line": "Habano",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Indonesia",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva (Estelí)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "358",
+        "length": 3.75,
+        "ring": 58
+      },
+      {
+        "name": "460",
+        "length": 4,
+        "ring": 60
+      },
+      {
+        "name": "464 Torpedo",
+        "length": 4,
+        "ring": 64
+      },
+      {
+        "name": "466",
+        "length": 4,
+        "ring": 66
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "spice",
+      "leather",
+      "earth",
+      "black pepper",
+      "nuts"
+    ],
+    "about": "One of the original Nub blends from Oliva, a short and very thick cigar meant to deliver full flavor from the first draw and still last about an hour. It uses an Ecuadorian habano wrapper over Nicaraguan long filler.",
+    "released": 2008,
+    "production": "regular",
+    "sources": [
+      "https://www.nubcigar.com/nub-habano",
+      "https://www.holts.com/cigars/all-cigar-brands/nub-habano.html",
+      "https://www.neptunecigar.com/cigars/nub-habano-460"
+    ],
+    "notes": "Oliva's Nub site lists an Indonesian binder; Neptune and Mike's Cigars list Nicaraguan. Retailers disagree on strength: Holt's says medium, Mike's medium to full, Neptune full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Nub",
+    "line": "Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva (Estelí)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "460",
+        "length": 4,
+        "ring": 60
+      },
+      {
+        "name": "464 Torpedo",
+        "length": 4,
+        "ring": 64
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "coffee",
+      "spice",
+      "sweetness"
+    ],
+    "about": "The dark-wrapped member of Oliva's core Nub range, in the brand's short and very thick format. It is known for roasted coffee and dark chocolate notes over Nicaraguan filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.nubcigar.com/copy-of-nub-habano",
+      "https://www.holts.com/cigars/all-cigar-brands/nub-maduro.html",
+      "https://www.neptunecigar.com/cigars/nub-maduro-460"
+    ],
+    "notes": "Wrapper sources disagree: Oliva's Nub site lists Mexico, while Holt's, Neptune and Mike's Cigars all describe a Brazilian maduro wrapper. The blend may have changed over time, so do not promise a guest one or the other.",
+    "verified": true,
+    "verifyNotes": "No fields changed. Confirmed the Nub site's Maduro page says WRAPPER ~ Mexico, while Holt's, Neptune and Mike's Cigars all say Brazilian maduro, so the wrapper is the maker's word against every retailer. A 2009 Stogie Review write-up says the Maduro was added that year, but that is not a listed source, so released stays null."
+  },
+  {
+    "brand": "Nub",
+    "line": "Cameroon",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Cameroon",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva (Estelí)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "358",
+        "length": 3.75,
+        "ring": 58
+      },
+      {
+        "name": "460",
+        "length": 4,
+        "ring": 60
+      },
+      {
+        "name": "464 Torpedo",
+        "length": 4,
+        "ring": 64
+      },
+      {
+        "name": "466 Box Press Torpedo",
+        "length": 4,
+        "ring": 66
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "cinnamon",
+      "nuts",
+      "earth",
+      "spice",
+      "sweetness"
+    ],
+    "about": "A core Nub blend from Oliva that wraps Nicaraguan binder and filler in an African Cameroon leaf, in the brand's short and very thick format. It is known as the smooth, naturally sweet one of the range.",
+    "released": 2008,
+    "production": "regular",
+    "sources": [
+      "https://www.nubcigar.com/copy-of-nub-connecticut",
+      "https://www.holts.com/cigars/all-cigar-brands/nub-cameroon.html",
+      "https://www.neptunecigar.com/cigars/nub-cameroon-460"
+    ],
+    "notes": "",
+    "verified": true,
+    "verifyNotes": "Set released to 2008: halfwheel says Nub debuted in 2008 (https://halfwheel.com/nub-mexico-arriving-at-stores/481210/) and a 2009 Stogie Review piece names Cameroon as one of the three launch blends. Everything else confirmed on the Nub site, Holt's and Neptune."
+  },
+  {
+    "brand": "Nub",
+    "line": "Sumatra",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "460",
+        "length": 4,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "A Sumatra-wrapped Nub from Oliva in the brand's 4 x 60 format. It is not part of the core range shown on the Nub site.",
+    "released": null,
+    "production": null,
+    "sources": [
+      "https://www.cigarsdirect.com/products/nub-sumatra-460"
+    ],
+    "notes": "Not listed on Oliva's Nub site. Cigars Direct shows a Sumatra wrapper over Nicaraguan binder and filler, sold in boxes of 10, with strength shown as both full and medium-full. Treat the blend and strength as unconfirmed.",
+    "verified": false,
+    "verifyNotes": "Removed the nubcigar.com home page from sources because it does not mention this cigar. Only one retailer page could be opened (Cigars Direct). Cigars International also lists a Nub Sumatra but its pages refused to load, and no maker, halfwheel or Cigar Aficionado page was found, so strength stays null and this is not verified."
+  },
+  {
+    "brand": "Nub",
+    "line": "Nuance Double Roast",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Indonesian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Indonesia",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "General Cigar Dominicana",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "354",
+        "length": 3.75,
+        "ring": 54
+      },
+      {
+        "name": "438",
+        "length": 4,
+        "ring": 38
+      },
+      {
+        "name": "460",
+        "length": 4,
+        "ring": 60
+      },
+      {
+        "name": "542",
+        "length": 5,
+        "ring": 42
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "caramel",
+      "chocolate",
+      "cream"
+    ],
+    "about": "A coffee-infused cigar in Oliva's Nub Nuance line, the macchiato-style middle of the three roasts. It has a Sumatra wrapper over Dominican tobacco and is made for Oliva in the Dominican Republic.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://www.nubcigar.com/copy-of-nub-nuance-single-roast",
+      "https://halfwheel.com/oliva-adds-fall-harvest-winter-blend-to-nub-nuance/121001/",
+      "https://www.holts.com/cigars/all-cigar-brands/nub-cafe.html"
+    ],
+    "notes": "This is a flavored cigar, launched in 2014 as Nub Cafe Macchiato and renamed under Nub Nuance from 2016. It is made in the Dominican Republic by General Cigar, not at Oliva's factory. Mike's Cigars lists a Nicaraguan binder with Dominican and Nicaraguan filler, unlike the Nub site.",
+    "verified": true,
+    "verifyNotes": "Notes now cite Mike's Cigars instead of Corona Cigar, which I did not open. Mike's (https://mikescigars.com/nub-nuance-double-roast-460) gives Dominican Republic and mild to medium; CigarPlace confirms all four sizes. Holt's shows Nicaragua as origin and 'Flavored' as strength, but halfwheel says General Cigar makes it in the Dominican Republic."
+  },
+  {
+    "brand": "Nub",
+    "line": "Dub",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Brazilian Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Brazil",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva (Estelí)",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "460",
+        "length": 4,
+        "ring": 60
+      },
+      {
+        "name": "466",
+        "length": 4,
+        "ring": 66
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "black pepper",
+      "earth",
+      "nuts",
+      "spice"
+    ],
+    "about": "A Nub from Oliva's Studio Tobac group that puts two Brazilian maduro wrapper leaves over Nicaraguan filler in the brand's short, thick format. Dub is short for double maduro.",
+    "released": null,
+    "production": "limited",
+    "sources": [
+      "https://www.cigarplace.biz/nub-dub-460.html",
+      "https://www.neptunecigar.com/cigars/nub-double-maduro-460",
+      "https://www.cigarsdirect.com/products/nub-double-maduro-460"
+    ],
+    "notes": "Also sold as Nub Double Maduro and not shown on Oliva's Nub site. Neptune and Cigars Direct rate it full, CigarPlace medium-full. CigarPlace says the second maduro leaf doubles as the binder, while Neptune and Cigars Direct list a Nicaraguan binder.",
+    "verified": true,
+    "verifyNotes": "Changed found to true. CigarPlace sells it as Nub Dub by Oliva (460 and 466) and describes it as the double maduro; Neptune and Cigars Direct sell the same cigar as Nub Double Maduro. Wrapper, country and strength filled from those three pages. Release year not found, so released is null. Factory is from Holt's statement that all Nub cigars are made at Oliva's Estelí factory."
+  },
+  {
+    "brand": "Onyx",
+    "line": "Reserve",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "United States",
+    "binder": "Nicaragua",
+    "filler": "Dominican Republic, Nicaragua, Peru",
+    "country": "Dominican Republic",
+    "factory": null,
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "No. 2 Belicoso",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Torbusto",
+        "length": 5.5,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "earth",
+      "leather",
+      "chocolate",
+      "cream"
+    ],
+    "about": "A square-pressed maduro from Altadis USA, made in the Dominican Republic with a dark Connecticut Broadleaf wrapper over a Nicaraguan binder and Dominican, Nicaraguan and Peruvian filler.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/onyx/onyx-reserve/",
+      "https://halfwheel.com/onyx-reserve-getting-packaging-update/271486/",
+      "https://www.holts.com/cigars/all-cigar-brands/onyx-reserve.html"
+    ],
+    "notes": "Altadis calls it medium to full bodied, and Holt's and Mike's Cigars list it the same way. Altadis lists every size except the Churchill as square pressed.",
+    "verified": true,
+    "verifyNotes": "Blend, country, strength and sizes confirmed on Altadis, halfwheel and Holt's. Rewrote about to drop 'fuller offshoot of the original Onyx line' and 'affordable everyday maduro', which no source states. Removed from notes the 1992 brand date and Neptune's medium rating, neither of which I could confirm. Removed flavors 'coffee' and 'spice', not in the sources."
+  }
+]

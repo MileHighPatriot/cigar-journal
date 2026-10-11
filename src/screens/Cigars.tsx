@@ -148,7 +148,7 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
             id="cigar-list-search"
             type="search"
             className="input"
-            placeholder="Search brand, line, wrapper, country"
+            placeholder="Search name, blend, factory, flavor"
             value={filter.query}
             onChange={(event) => setFilter({ ...filter, query: event.target.value })}
             autoComplete="off"

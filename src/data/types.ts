@@ -34,7 +34,46 @@ export interface Cigar extends SyncFields {
   sheetPairings: string[]
   otherWrapperVersions: string | null
   similarCigars: string | null
+  /** The wrapper as the maker describes it, for example "Ecuadorian Habano Oscuro". */
+  wrapperLeaf: string | null
+  /** Body, when a source gives it apart from strength. */
+  body: Level | null
+  /** The regular sizes this line comes in. */
+  sizes: CigarSize[]
+  /** Published tasting notes. */
+  flavors: string[]
+  /** One or two plain sentences about the line. */
+  about: string | null
+  /** Year introduced. */
+  released: number | null
+  production: 'regular' | 'limited' | 'discontinued' | null
+  /** Pages the details were checked against. */
+  sources: string[]
+  /** Anything worth knowing: a secret blend, sources that disagree, a rename. */
+  researchNote: string
+  /** True once the details were researched and then independently fact-checked. */
+  checked: boolean
 }
+
+export interface CigarSize {
+  name: string
+  lengthIn: number | null
+  ringGauge: number | null
+}
+
+/** Fields added after the first release. Records saved before then get these when loaded. */
+export const CIGAR_DEFAULTS = {
+  wrapperLeaf: null,
+  body: null,
+  sizes: [] as CigarSize[],
+  flavors: [] as string[],
+  about: null,
+  released: null,
+  production: null,
+  sources: [] as string[],
+  researchNote: '',
+  checked: false,
+} satisfies Partial<Cigar>
 
 export type CutType = 'straight' | 'v-cut' | 'punch' | 'other'
 export type LightMethod = 'torch' | 'soft flame' | 'match' | 'cedar spill' | 'other'

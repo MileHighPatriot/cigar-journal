@@ -1,0 +1,766 @@
+[
+  {
+    "brand": "Illusione",
+    "line": "Original Documents",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Criollo '98, Corojo '99)",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona Minor",
+        "length": 4,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Corona",
+        "length": 5.125,
+        "ring": 42
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Ninfa",
+        "length": 6.25,
+        "ring": 32
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.25,
+        "ring": 44
+      },
+      {
+        "name": "Churchill",
+        "length": 6.75,
+        "ring": 48
+      },
+      {
+        "name": "Lancero",
+        "length": 7.5,
+        "ring": 40
+      },
+      {
+        "name": "Double Corona",
+        "length": 7.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "leather",
+      "black cherry",
+      "earth",
+      "spice"
+    ],
+    "about": "The original Illusione line from Dion Giolito, a Nicaraguan puro built on Aganorsa Criollo '98 and Corojo '99 under a Corojo wrapper. It launched in 2006 with coded size names like ~88~ and ~888~, and since the 2022 repackaging it is sold as Original Documents Corojo with plain size names.",
+    "released": 2006,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/original-documents-corojo/",
+      "https://halfwheel.com/pca-2022-illusione/411261/",
+      "https://halfwheel.com/illusione-ultra-op-no-3/146828/"
+    ],
+    "notes": "Details are for the Corojo, the original blend. The family also has Maduro (Mexican San Andrés wrapper), Habano (made at AJ Fernandez's San Lotano factory), Candela and Ultra versions. Illusione says medium to full; Famous Smoke and Neptune list full. First made at Raíces Cubanas in Honduras.",
+    "verified": true,
+    "verifyNotes": "Reworded about: the Original Documents name was in use before 2022, the 2022 repackaging made it Original Documents Corojo. Note now cites Famous Smoke and Neptune for full strength (Holt's was not confirmed). Neptune says introduced 2007; halfwheel supports 2006."
+  },
+  {
+    "brand": "Illusione",
+    "line": "Epernay",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo '99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Honduras",
+    "factory": "Fábrica de Tabacos Raíces Cubanas S. de R.L.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Le Petite",
+        "length": 4.5,
+        "ring": 44
+      },
+      {
+        "name": "Le Ferme",
+        "length": 5.25,
+        "ring": 48
+      },
+      {
+        "name": "Le Taureau",
+        "length": 5.5,
+        "ring": 56
+      },
+      {
+        "name": "Le Elegance",
+        "length": 5.75,
+        "ring": 40
+      },
+      {
+        "name": "Le Grande",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Le Monde",
+        "length": 6.25,
+        "ring": 52
+      },
+      {
+        "name": "Le Matin",
+        "length": 6.5,
+        "ring": 46
+      },
+      {
+        "name": "L'Excellence",
+        "length": 6.75,
+        "ring": 48
+      },
+      {
+        "name": "La Vie",
+        "length": 6.75,
+        "ring": 56
+      },
+      {
+        "name": "L'Alpiniste",
+        "length": 6.75,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "floral",
+      "citrus",
+      "almond",
+      "nuts",
+      "chocolate"
+    ],
+    "about": "A Nicaraguan puro rolled in Honduras, introduced in 2009 as a lighter version of Illusione's ~eccj~ blend and named for the Champagne town because it was made to pair with Champagne. It stayed at Raíces Cubanas when the rest of Illusione moved to Nicaragua.",
+    "released": 2009,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/epernay/",
+      "https://halfwheel.com/illusione-updates-epernay-packaging/436972/",
+      "https://www.neptunecigar.com/cigars/illusione-epernay-le-ferme"
+    ],
+    "notes": "Illusione only says the wrapper is Nicaraguan; retailers identify it as Corojo '99. Le Taureau, Le Matin, La Vie and L'Alpiniste are pressed. The 10th Anniversary d'Aosta and the San Andrés wrapped Epernay Tuonela (2025) are different blends.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Illusione",
+    "line": "Rothchildes",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothchildes",
+        "length": 4.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "smoked meat",
+      "molasses",
+      "chocolate",
+      "leather",
+      "earth"
+    ],
+    "about": "A single-size, value-priced Illusione: a 4 1/2 x 50 short robusto with Nicaraguan long filler under a Mexican San Andrés maduro wrapper. It came out in 2013 and is sold in cabinets of 50.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/rothchildes/",
+      "https://halfwheel.com/illusiones-rothchildes-release/34414/",
+      "https://www.famous-smoke.com/brand-illusione-rothchildes-san-andres"
+    ],
+    "notes": "One size only. A Rothchildes CT with an Ecuadorian Connecticut wrapper was added in 2016. Illusione gives no strength; Famous Smoke's spec says full while its own description says medium body, so strength is left blank.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Illusione",
+    "line": "Fume d'Amour",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan (Corojo '99 per Famous Smoke)",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (viso and seco only, no ligero)",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Lagunas",
+        "length": 4.25,
+        "ring": 42
+      },
+      {
+        "name": "Viejos",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Concepcions",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Capistranos",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Clementes",
+        "length": 6.5,
+        "ring": 48
+      },
+      {
+        "name": "Juniperos",
+        "length": 7.5,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "roasted nuts",
+      "nougat",
+      "baking spice",
+      "cream",
+      "cocoa"
+    ],
+    "about": "A Nicaraguan puro whose name means smoke of love, launched in 2014 and blended from lower-priming Aganorsa tobaccos with no ligero. It is one of the milder Illusione lines, and the Juniperos lancero placed fifth on halfwheel's Top 25 of 2015.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/fume-damour/",
+      "https://halfwheel.com/illusione-fume-damour-juniperos-2/116105/",
+      "https://www.famous-smoke.com/brand-illusione-fume-d-amour"
+    ],
+    "notes": "Illusione and halfwheel only call the wrapper Nicaraguan; Corojo '99 comes from Famous Smoke. Illusione says mild to medium, Famous Smoke lists mild and Neptune lists medium. halfwheel's lancero review described a medium-full flavor profile.",
+    "verified": true,
+    "verifyNotes": "Removed a marketing phrase from about. Note corrected: halfwheel's review described a medium-full flavor profile, not strength, and Neptune's medium listing was added. Illusione's page also lists a Corona Minor and Robusto that no other source shows, so they stay out."
+  },
+  {
+    "brand": "Illusione",
+    "line": "Haut 10",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Churchill",
+        "length": 6.75,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "leather",
+      "earth",
+      "cedar",
+      "pepper",
+      "cocoa"
+    ],
+    "about": "Illusione's 10th anniversary cigar from 2016, a Nicaraguan puro made mostly of seco leaf from a single farm and kept in regular production. halfwheel named it its cigar of the year for 2016.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/haut-10/",
+      "https://halfwheel.com/illusione-haut-10-churchill/263622/",
+      "https://www.famous-smoke.com/brand-illusione-haut-10"
+    ],
+    "notes": "Strength is disputed. Illusione calls it mild bodied and delicate, Famous Smoke lists medium, and halfwheel's review of the Churchill found full flavor and body with medium-plus strength. The original 5 1/2 x 52 size came out in 2016; the Gordo and Churchill followed in 2018.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Illusione",
+    "line": "Cruzado",
+    "found": true,
+    "officialName": "Cruzado Classic",
+    "wrapperLeaf": "Nicaraguan Corojo Rosado",
+    "wrapperCategory": "Rosado",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Criollo, Corojo)",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Dantes",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Domenicos Extra",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Marelas Supremas",
+        "length": 6.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "leather",
+      "earth",
+      "coffee",
+      "wood",
+      "spice"
+    ],
+    "about": "Illusione's Criollo-forward sister to the original line, first released in 2008 and made entirely of Nicaraguan tobacco. The Marelas Supremas, with its 109-style cap and gold foil, is Dion Giolito's favorite size.",
+    "released": 2008,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/cruzado-classic/",
+      "https://halfwheel.com/review-illusione-cruzado-marelas-supremas-prerelease/39827/",
+      "https://halfwheel.com/ipcpr-2016-illusione/123638/"
+    ],
+    "notes": "Illusione's site lists the origin as Honduras, where it was first made at Raíces Cubanas. halfwheel reported it moved to TABSA in Nicaragua in 2016 and Famous Smoke lists Nicaragua, so the factory is left blank. halfwheel called the wrapper Criollo Rosado in 2013 and Corojo Rosado in 2016.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Illusione",
+    "line": "Garagiste",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Corojo viso, Criollo viso, ligero)",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4.25,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "spice",
+      "leather",
+      "walnut",
+      "dark chocolate",
+      "earth"
+    ],
+    "about": "Introduced in 2016 for Illusione's 10th anniversary year and named after Bordeaux's garage winemakers. It pairs Corojo viso and Criollo viso from a single Aganorsa farm with an Ecuadorian Habano wrapper.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/garagiste/",
+      "https://halfwheel.com/illusione-garagiste-robusto/135819/"
+    ],
+    "notes": "Illusione says medium to full; Famous Smoke's spec lists full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Illusione",
+    "line": "OneOff",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan (leaf type undisclosed)",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Cartuchos",
+        "length": 3.875,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 4.875,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.375,
+        "ring": 46
+      },
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Pyramides",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Canonazo",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Julieta",
+        "length": 7,
+        "ring": 47
+      }
+    ],
+    "flavors": [
+      "honey",
+      "vanilla",
+      "herbal"
+    ],
+    "about": "A cult brand with a peace-symbol band, created by Andrea Molinari in 2001 and bought by Illusione's Dion Giolito in 2017. Illusione relaunched it in 2018 with a new blend in the original sizes.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/oneoff/",
+      "https://halfwheel.com/illusione-oneoff-ships/267094/",
+      "https://halfwheel.com/review-oneoff-corona-gorda-2000s/288915/"
+    ],
+    "notes": "The year is Illusione's relaunch. The original OneOff dates to 2001 and was made by Plasencia with a Honduran wrapper. Illusione reblended it with all Nicaraguan tobacco and gives no leaf details, though Neptune still lists a Honduran wrapper. OneOff +53 and Black and Tan are separate blends.",
+    "verified": true,
+    "verifyNotes": "Note now flags that Neptune lists a Honduran wrapper against Illusione's and halfwheel's Nicaraguan. Swapped the Black and Tan review for halfwheel's review of the original 2000s OneOff, which is the page that supports the Plasencia and Honduran wrapper history."
+  },
+  {
+    "brand": "Illusione",
+    "line": "Ultra",
+    "found": true,
+    "officialName": "Original Documents Ultra",
+    "wrapperLeaf": "Nicaraguan Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Criollo '98, Corojo '99, ligero from Estelí and Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona Minor",
+        "length": 4,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Churchill",
+        "length": 6.75,
+        "ring": 48
+      },
+      {
+        "name": "Lancero",
+        "length": 7.5,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "star anise",
+      "black licorice",
+      "leather",
+      "espresso"
+    ],
+    "about": "A full-bodied Illusione line, a Nicaraguan puro with a dark Corojo wrapper and extra ligero. It grew out of the MKULTRA, a stronger take on the ~mk~ corona, and became a regular line in 2011.",
+    "released": 2011,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/original-documents-ultra/",
+      "https://halfwheel.com/illusione-ultra-op-no-3/146828/",
+      "https://halfwheel.com/illusione-mkultra-2011/17662/"
+    ],
+    "notes": "Folded into the Original Documents family in 2022. Sizes are from Illusione's current page; older boxes use OP No. names (No. 1, 3, 4, 8, 9 and MKULTRA) with different dimensions, so check the box. Made at Raíces Cubanas in Honduras until the move to Nicaragua.",
+    "verified": true,
+    "verifyNotes": "Removed the unsupported claim that it is the fullest Illusione from about."
+  },
+  {
+    "brand": "Illusione",
+    "line": "Singularé",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Agricola Ganadera Norteña S.A. (Aganorsa Leaf, formerly TABSA)",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 56
+      },
+      {
+        "name": "Churchill",
+        "length": 6.75,
+        "ring": 48
+      }
+    ],
+    "flavors": [],
+    "about": "Singularé began in 2010 as Illusione's yearly limited edition, one size and a new blend each time. Since 2023 it has continued as Singularé Origen, a regular four-size Nicaraguan puro that Dion Giolito built from his favorite parts of the earlier releases.",
+    "released": 2010,
+    "production": "regular",
+    "sources": [
+      "https://illusionecigars.com/project/singulare-origen/",
+      "https://halfwheel.com/illusione-singulare-origen-begins-shipping/418963/",
+      "https://halfwheel.com/illusione-singulare-2018-turin/264160/"
+    ],
+    "notes": "Blend, sizes and factory are for the current regular line, Singularé Origen. The dated releases from 2010 to 2019 were limited editions with different blends. Illusione gives no strength or leaf type; Neptune lists it as full, with a Corojo Cafe Rosado wrapper and spice, earth and coffee notes.",
+    "verified": true,
+    "verifyNotes": "wrapperLeaf changed from 'Nicaraguan (leaf type undisclosed)' to 'Nicaraguan': Illusione lists only the country and Neptune names a Corojo Cafe Rosado wrapper. Note corrected, since Neptune does publish a strength (full) and tasting notes. Strength left blank: no maker word and only one retailer."
+  },
+  {
+    "brand": "Indian Motorcycle",
+    "line": "Habano",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, other Central American tobaccos",
+    "country": "Dominican Republic",
+    "factory": "De Los Reyes",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Churchill",
+        "length": 7.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cedar",
+      "earth",
+      "pepper",
+      "almond"
+    ],
+    "about": "One of the two original blends in the Indian Motorcycle cigar line, made under license by Phil Zanghi's Debonaire House at the De Los Reyes factory. It debuted at the 2015 trade show with an Ecuadorian Habano wrapper.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/ipcpr-2015-debonaire-cigars/92015/",
+      "https://halfwheel.com/indian-motorcycle-cigars-to-debut-at-ipcpr/87800/",
+      "https://www.famous-smoke.com/brand/indian-motorcycle-cigars"
+    ],
+    "notes": "The filler countries beyond the Dominican Republic were not named at launch; Famous Smoke and Neptune describe the filler as Nicaraguan. Neptune's listing calls the wrapper Ecuadorian Connecticut, which conflicts with halfwheel and Famous Smoke.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Indian Motorcycle",
+    "line": "Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, other Central American tobaccos",
+    "country": "Dominican Republic",
+    "factory": "De Los Reyes",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Churchill",
+        "length": 7.5,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "cocoa",
+      "earth",
+      "pepper",
+      "leather"
+    ],
+    "about": "The Connecticut Broadleaf version of the Indian Motorcycle line, made under license by Phil Zanghi's Debonaire House at the De Los Reyes factory in the Dominican Republic. It launched alongside the Habano in 2015.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/ipcpr-2015-debonaire-cigars/92015/",
+      "https://halfwheel.com/indian-motorcycle-cigars-to-debut-at-ipcpr/87800/",
+      "https://www.neptunecigar.com/cigars/indian-motorcycle-maduro-robusto"
+    ],
+    "notes": "The filler countries beyond the Dominican Republic were not named at launch; Neptune lists the filler as Nicaraguan. Neptune's spec says medium while its description calls the cigar full bodied.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Indian Motorcycle",
+    "line": "Connecticut",
+    "found": true,
+    "officialName": "Connecticut Shade",
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "De Los Reyes",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cream",
+      "white pepper",
+      "wood",
+      "toast"
+    ],
+    "about": "The first Connecticut-wrapped Indian Motorcycle cigar, made by Phil Zanghi's Debonaire House at De Los Reyes. It was released in Canada in May 2019 and reached U.S. shops later that year.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/indian-motorcycle-connecticut-shade-toro/299512/",
+      "https://halfwheel.com/indian-motorcycle-connecticut-shade-will-hit-u-s-retailers-by-end-of-summer/360573/",
+      "https://www.neptunecigar.com/cigars/indian-motorcycle-connecticut-shade-robusto"
+    ],
+    "notes": "",
+    "verified": true,
+    "verifyNotes": ""
+  }
+]

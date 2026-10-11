@@ -1,0 +1,1344 @@
+[
+ {
+  "brand": "RoMa Craft",
+  "line": "CroMagnon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Ecuador (Sumatra-seed hybrid)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pestera Muierilor",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Knuckle Dragger",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Mandible",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Mode 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "EMH",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Anthropology",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Cranium",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "pepper",
+   "oak"
+  ],
+  "about": "RoMa Craft's first blend, a dark, full-strength broadleaf cigar rolled at the company's own Nica Sueño factory in Estelí. It was reblended in 2024 around a Pennsylvania Broadleaf wrapper.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cromagnon-pa-begins-shipping-tomorrow/436355/",
+   "https://halfwheel.com/cromagnon-pa-timeline/475988/",
+   "https://www.neptunecigar.com/roma-craft-cromagnon-cigar"
+  ],
+  "notes": "Blend changed in 2024. The original (made until mid-2022) used a Connecticut Broadleaf wrapper, Cameroon binder and all-Nicaraguan filler. White band text marks the current Pennsylvania version (CroMagnon PA); dark gray text marks the original.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that it is the strongest core line; RoMa Craft's own site calls Neanderthal its strongest. Blend, sizes, 2010 debut and Full strength (Neptune, Atlantic) confirmed."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Intemperance BA XXI",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Indonesia (Besuki)",
+  "filler": "Nicaragua, plus undisclosed",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Intrigue",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Avarice",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "War",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Breach of the Peace",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Revenge (box-pressed)",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Treachery",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "leather",
+   "pepper",
+   "espresso"
+  ],
+  "about": "The darker of RoMa Craft's two original Intemperance blends, named for its Brazilian Arapiraca wrapper. It went on hiatus in 2022 over wrapper supply and returned to shelves in late 2025.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/intemperance-ba-xxi-treachery/466129/",
+   "https://halfwheel.com/roma-crafts-intemperance-ba-xxi-returns-to-shelves/457335/",
+   "https://www.neptunecigar.com/roma-craft-intemperance-ba-xxi-cigar"
+  ],
+  "notes": "Strength ratings vary: Atlantic lists Medium-Full, Neptune lists Full, and halfwheel's 2026 review found it closer to medium. halfwheel gives the filler as Nicaragua plus undisclosed; retailers say Nicaragua and Dominican Republic. Treachery (6 x 54) replaced the Ambition belicoso in 2025.",
+  "verified": true,
+  "verifyNotes": "Added to notes that halfwheel's own review found the strength near medium. All other fields confirmed."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Intemperance EC XVIII",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia (Besuki)",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Charity",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Virtue",
+    "length": 4.5,
+    "ring": 52
+   },
+   {
+    "name": "Faith",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Brotherly Kindness",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Fidelity",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "butterscotch",
+   "cedar",
+   "chocolate",
+   "cream"
+  ],
+  "about": "RoMa Craft's Ecuadorian Connecticut blend and the mildest cigar in its core range, introduced in 2012 alongside the BA XXI. It is rolled at the company's Nica Sueño factory in Estelí.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/intemperance-ec-xviii-reverence/409088/",
+   "https://www.neptunecigar.com/roma-craft-intemperance-ec-xviii-cigar",
+   "https://halfwheel.com/roma-craft-tobacs-intemperance-lines-swapping-out-belicosos-for-new-toro-extras/442183/"
+  ],
+  "notes": "halfwheel's spec sheets list Dominican and Nicaraguan filler; Neptune lists Nicaraguan filler only. Fidelity (6 x 54) replaced the Industry belicoso as a regular size in 2025.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Neanderthal",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "USA (Connecticut Broadleaf)",
+  "filler": "Dominican Republic, Nicaragua, USA (Pennsylvania)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "HoxD",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "KFG",
+    "length": 4.75,
+    "ring": 56
+   },
+   {
+    "name": "LH (box-pressed)",
+    "length": 4.75,
+    "ring": 56
+   },
+   {
+    "name": "HN (figurado, 52 to 56)",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "JCF",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "HS",
+    "length": 5.75,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "chocolate",
+   "wood",
+   "leather"
+  ],
+  "about": "RoMa Craft's most powerful line, introduced in 2015 and known for its flat caps. The filler includes Pennsylvania Green River One Sucker, a very strong ligero.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/neanderthal-lh/369299/",
+   "https://halfwheel.com/neanderthal-c3/395365/",
+   "https://atlanticcigar.com/roma-craft-neanderthal/"
+  ],
+  "notes": "Neptune's attribute table lists it as Medium, but its own description and Atlantic both call it a full-strength cigar. The HN figurado is listed as 52/56 or 52/58 ring depending on the source.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Aquitaine",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Ligero",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Nicaragua (Condega, Estelí, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño",
+  "strength": "Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Pestera Muierilor",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Knuckle Dragger",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Mandible",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Mode 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "EMH",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Anthropology",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Cranium",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "coffee",
+   "oak",
+   "leather",
+   "dark chocolate"
+  ],
+  "about": "A sister blend to the original CroMagnon that swaps the broadleaf wrapper for Ecuadorian Habano ligero. It shares CroMagnon's size names and is made at RoMa Craft's Nica Sueño factory.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/aquitaine-pestera-muierilor/97630/",
+   "https://halfwheel.com/aquitaine-gran-perfecto/381185/",
+   "https://www.neptunecigar.com/roma-craft-cromagnon-aquitaine-cigar"
+  ],
+  "notes": "Often sold as CroMagnon Aquitaine. Sources describe it with the original CroMagnon binder and filler; none say it changed with the 2024 CroMagnon reblend. Some later halfwheel reviews list the binder as not disclosed. Body is from a halfwheel review of one size.",
+  "verified": true,
+  "verifyNotes": "Softened the note that said it still uses the original filler after 2024; no source states that either way. The 2012 debut is supported by halfwheel's 2012 news posts, not by the listed reviews."
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Baka",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": null,
+  "filler": "Honduras (Jamastran), plus undisclosed",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pygmy",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Bantu",
+    "length": 4,
+    "ring": 52
+   },
+   {
+    "name": "Ota Benga",
+    "length": 4.5,
+    "ring": 60
+   },
+   {
+    "name": "Poki",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Acephalous",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Gran Perfecto",
+    "length": 5.625,
+    "ring": 60
+   },
+   {
+    "name": "Jengi",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Hunter Gatherer",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "nuts",
+   "sweetness",
+   "earth"
+  ],
+  "about": "RoMa Craft's Cameroon-wrapped line, shown at the 2019 trade show and named for the Baka people of Cameroon and neighboring countries. It is made at the company's Nica Sueño factory in Estelí.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/baka-yelli/415982/",
+   "https://halfwheel.com/roma-craft-tobac-plans-baka-for-ipcpr-2019/297385/",
+   "https://atlanticcigar.com/roma-craft-baka/"
+  ],
+  "notes": "The binder and part of the filler are undisclosed. Atlantic lists it as Medium-Full; Neptune's page says both medium and full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "RoMa Craft",
+  "line": "Wunder Lust",
+  "found": true,
+  "officialName": "Wunder|Lust",
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Indonesia (Besuki)",
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos Nica Sueño",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Belicoso",
+    "length": 4.625,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Gran Corona",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Gran Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "coffee",
+   "cedar",
+   "cocoa",
+   "leather"
+  ],
+  "about": "A Brazilian Mata Fina-wrapped blend RoMa Craft launched in 2016 as a Europe-only line through its European distributor. Some sizes have since reached U.S. shops in limited quantities.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/wunderlust-robusto/210710/",
+   "https://halfwheel.com/roma-craft-adding-wunderlust-keyser-soze/413034/",
+   "https://blindmanspuff.com/blind-cigar-review-roma-craft-wunderlust/"
+  ],
+  "notes": "The name is written Wunder|Lust. The filler is undisclosed. No maker or retailer strength rating was found: a Blind Man's Puff panel rated the Gran Toro medium-strong, and halfwheel's reviews ran from medium to nearly full depending on the size. U.S. availability is limited.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: halfwheel's Robusto review reached nearly full and a Blind Man's Puff panel rated the Gran Toro medium-strong; only the limited PG County review said medium. Swapped the PG County link for the Blind Man's Puff review. RoMa Craft's site publishes no blend or strength details."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Reserva Real",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Verona's Court (tubo)",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.625,
+    "ring": 44
+   },
+   {
+    "name": "Porto Real (tubo)",
+    "length": 7,
+    "ring": 36
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "No. 2 (box-pressed belicoso)",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gran Toro (tubo)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "vanilla",
+   "spice",
+   "cedar"
+  ],
+  "about": "The Connecticut-wrapped Romeo y Julieta from Altadis U.S.A., made in the Dominican Republic with Dominican and Nicaraguan filler. It is positioned as a creamier, smoother smoke than the classic 1875.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/reserva-real",
+   "https://www.holts.com/cigars/all-cigar-brands/romeo-y-julieta-reserva-real.html",
+   "https://halfwheel.com/review-romeo-y-julieta-reserva-real-porto-real/7088/"
+  ],
+  "notes": "This is the non-Cuban Romeo y Julieta made by Altadis U.S.A. Holt's and Neptune list Medium; Atlantic lists most sizes Mild-Medium. Barberpole Twisted versions and a separate Reserva Real Nicaragua line also exist.",
+  "verified": true,
+  "verifyNotes": "Removed the unsupported claim that it is the brand's most popular line. Added the retailer strength split to notes."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "1875",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Shade Grown TBN",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petite Bully",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Cedro Deluxe #2",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Cedro Deluxe #1",
+    "length": 6.5,
+    "ring": 44
+   },
+   {
+    "name": "Bully",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Rothchilde (tubo)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Exhibicion #3",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Exhibicion #1",
+    "length": 8.5,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cocoa",
+   "earth",
+   "butterscotch",
+   "cedar"
+  ],
+  "about": "The classic Dominican-made Romeo y Julieta from Altadis U.S.A., with an Indonesian shade-grown wrapper over Dominican binder and filler. It is a smooth, mellow cigar known for its white ash and wide range of sizes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-1875",
+   "https://www.altadisusa.com/cigars/romeo-y-julieta/romeo-y-julieta-1875/",
+   "https://www.neptunecigar.com/romeo-y-julieta-1875-cigar"
+  ],
+  "notes": "1875 is the year the brand was founded, not this line's launch year. Altadis calls it medium-bodied; Holt's lists Mild-Medium and Neptune Mild. The wrapper is Indonesian shade leaf, so the category is the nearest fit. Not the same as the Honduran-made 1875 by Romeo y Julieta.",
+  "verified": true,
+  "verifyNotes": "None of the listed sources named the factory; Neptune's line page does, so it replaces the Holt's link. Holt's Mild-Medium rating was checked and Atlantic agrees. Altadis also shows a strength of 5 on its own unlabeled scale."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Vintage",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Vintage I",
+    "length": 6,
+    "ring": 43
+   },
+   {
+    "name": "Corona (glass tube)",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Vintage II",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Vintage IV",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Vintage III",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Vintage VII",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Vintage V",
+    "length": 7.5,
+    "ring": 50
+   },
+   {
+    "name": "Vintage VI (triangular)",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts"
+  ],
+  "about": "A mild, creamy Dominican Romeo y Julieta with an Ecuadorian Connecticut Shade wrapper, Mexican binder and aged Dominican filler. Altadis positions it as the special-occasion cigar of the range.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/romeo-y-julieta/romeo-y-julieta-vintage/",
+   "https://www.holts.com/cigars/all-cigar-brands/romeo-y-julieta-vintage.html",
+   "https://www.neptunecigar.com/romeo-y-julieta-vintage-cigar"
+  ],
+  "notes": "Holt's lists Mild-Medium and Neptune lists Mild. Altadis still lists the line, but several sizes show as sold out or discontinued at retailers, so stock may be thin.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Habana Reserve",
+  "found": true,
+  "officialName": "Reserve",
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "La Flor de Copán",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 45
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Belicoso",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A Honduran-made Romeo y Julieta with a dark Nicaraguan wrapper and binder over Honduran and Nicaraguan filler. It is one of the fuller cigars under the Romeo y Julieta name.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/romeo-y-julieta-habana-reserve-cigar",
+   "https://www.altadisusa.com/cigars/romeo-y-julieta/romeo-y-julieta-reserve/",
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-reserve"
+  ],
+  "notes": "Altadis now lists this blend simply as Romeo y Julieta Reserve; the blend, sizes and Honduran factory match, and Neptune and Atlantic still use the Habana Reserve name. Neptune's table says Medium but its text says medium to full. No source names the wrapper seed; the category follows the Colorado Maduro color Neptune lists.",
+  "verified": true,
+  "verifyNotes": "Set officialName to Reserve, the maker's current name for this blend. Reworded the wrapper category note to cite the color Neptune lists."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "1875 Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petite Bully",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Bully",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Clemenceau (tubo)",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice",
+   "earth",
+   "cocoa",
+   "coffee",
+   "cedar"
+  ],
+  "about": "A Nicaraguan puro version of the Romeo y Julieta 1875, made for Altadis U.S.A. by the Plasencia family in Nicaragua. It was introduced in 2018 and wears an orange band.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-1875-nicaragua",
+   "https://halfwheel.com/romeo-y-julieta-1875-nicaragua-magnum/285265/",
+   "https://www.holts.com/cigars/all-cigar-brands/romeo-y-julieta-1875-nicaragua.html"
+  ],
+  "notes": "Holt's and Neptune list Medium; Atlantic lists Medium-Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "1875 Connecticut",
+  "found": true,
+  "officialName": "1875 Connecticut Nicaragua",
+  "wrapperLeaf": "Nicaraguan shade-grown Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Bully",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "white chocolate",
+   "dried fruit",
+   "cinnamon",
+   "grass",
+   "earth"
+  ],
+  "about": "An all-Nicaraguan Romeo y Julieta made by Plasencia, wrapped in Connecticut-seed leaf grown in Nicaragua and aged over three years. It is the Connecticut companion to the 1875 Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-1875-connecticut-nicaragua",
+   "https://www.altadisusa.com/cigars/romeo-y-julieta/romeo-y-julieta-1875-connecticut-nicaragua/",
+   "https://www.neptunecigar.com/romeo-y-julieta-1875-connecticut-nicaragua-cigar"
+  ],
+  "notes": "The full name is Romeo y Julieta 1875 Connecticut Nicaragua. The wrapper is grown in Nicaragua, not Ecuador or the U.S. halfwheel reported it in 2019 as an October 2019 release under the name Nicaragua Connecticut; the launch year is not confirmed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Reserve",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": "Colorado",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": "La Flor de Copán",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.625,
+    "ring": 45
+   },
+   {
+    "name": "Belicoso (box-pressed)",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Rothchilde (tubo)",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Titan (tubo)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "spice",
+   "molasses",
+   "vanilla",
+   "leather"
+  ],
+  "about": "A fuller Honduran-made Romeo y Julieta from Altadis U.S.A., with a deep brown Nicaraguan wrapper and binder over Honduran and Nicaraguan filler. It is rolled at the La Flor de Copán factory.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://romeoyjulietacigars.com/products/romeo-y-julieta-reserve",
+   "https://www.altadisusa.com/cigars/romeo-y-julieta/romeo-y-julieta-reserve/",
+   "https://www.holts.com/cigars/all-cigar-brands/romeo-y-julieta-reserve.html"
+  ],
+  "notes": "Same blend and sizes as the cigar retailers have sold as Romeo y Julieta Habana Reserve. Not the same as Reserva Real. Altadis calls it full-bodied; the brand site and Holt's say medium to full. No source names the wrapper seed; the category follows the Colorado Maduro color Neptune lists for Habana Reserve.",
+  "verified": true,
+  "verifyNotes": "Notes now record that Altadis says full-bodied and where the wrapper color comes from. All data fields confirmed."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "House of Capulet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Mild-Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "cedar",
+   "coffee",
+   "walnut",
+   "cream",
+   "pepper"
+  ],
+  "about": "A Honduran-made Romeo y Julieta that Altadis U.S.A. created in 2013 as an exclusive for Famous Smoke Shop. It is the Connecticut-wrapped partner to the darker House of Montague.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/famous-smoke-shop-adds-romeo-julietas/40715/",
+   "https://blindmanspuff.com/romeo-y-julieta-house-of-capulet-churchill-blind-cigar-review/"
+  ],
+  "notes": "Famous Smoke Shop exclusive, so most shops will not carry it. Strength, body, factory and flavors come from one Blind Man's Puff panel review of the Churchill. Current availability is not confirmed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "House of Montague",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Dominican Republic (Olor)",
+  "filler": "Nicaragua, Dominican Republic, Brazil",
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "wood",
+   "citrus",
+   "clove"
+  ],
+  "about": "A Honduran-made Romeo y Julieta with a Brazilian Arapiraca maduro wrapper, created by Altadis U.S.A. in 2013 as an exclusive for Famous Smoke Shop. It is the darker partner to the House of Capulet.",
+  "released": 2013,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/famous-smoke-shop-adds-romeo-julietas/40715/",
+   "https://cigardojo.com/2014/02/romeo-y-julieta-house-of-montague-cigar-review/"
+  ],
+  "notes": "Famous Smoke Shop exclusive, so most shops will not carry it. No strength rating was found; one Cigar Dojo review of the robusto called it very mild in body and strength. Tasting notes come from that same review. Current availability is not confirmed.",
+  "verified": true,
+  "verifyNotes": "Strength stays blank: Altadis does not list this line and the only strength comment found is one Cigar Dojo review. Added that review's tasting notes and swapped it in for the Capulet review link. Wrapper, blend, country and sizes confirmed on halfwheel."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Romeo by Romeo y Julieta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Piloto)",
+  "filler": "Dominican Republic (Piloto, Olor)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Piramides",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 56
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "chocolate",
+   "earth"
+  ],
+  "about": "A bolder Romeo y Julieta introduced in 2012, with a dark Ecuadorian Habano wrapper over Dominican Piloto and Olor tobaccos. It is made at Tabacalera de García and was built as a fuller alternative to the 1875.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.altadisusa.com/cigars/romeo-y-julieta/romeo-y-julieta-romeo-by-romeo/",
+   "https://halfwheel.com/altadis-u-s-a-adds-romeo-by-romeo-y-julieta-magnum/377433/",
+   "https://www.holts.com/cigars/all-cigar-brands/romeo-y-julieta-romeo.html"
+  ],
+  "notes": "Altadis and Neptune call it full-bodied; Holt's lists Medium-Full. The Magnum size was added in 2020.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Romeo 505 Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Jalapa, Estelí, Condega)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Piramides",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "nuts",
+   "black pepper",
+   "cedar",
+   "berries"
+  ],
+  "about": "The first Romeo y Julieta made in Nicaragua from all-Nicaraguan tobacco, produced by Plasencia and launched in 2016. The 505 is Nicaragua's telephone country code, and the sizes are box-pressed.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/romeo-505-nicaragua-coming-to-ipcpr-2016/123004/",
+   "https://www.holts.com/cigars/all-cigar-brands/romeo-y-julieta-romeo-505-nicaragua.html",
+   "https://www.neptunecigar.com/romeo-505-nicaragua-by-romeo-y-julieta-cigar"
+  ],
+  "notes": "Full name is Romeo 505 Nicaragua by Romeo y Julieta. Altadis no longer lists it on its site and retailers show it sold out, so it may be out of production.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Romeo San Andrés",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Short Magnum",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Pirámides",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "chocolate"
+  ],
+  "about": "A San Andrés-wrapped Romeo y Julieta made for Altadis U.S.A. by AJ Fernandez in Estelí, released in 2018. It pairs the Mexican wrapper with a Nicaraguan binder and Nicaraguan and Dominican filler.",
+  "released": 2018,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/romeo-san-andres-romeo-y-julieta-coming-altadis-u-s/249418/",
+   "https://halfwheel.com/romeo-san-andres-romeo-y-julieta-toro/258519/",
+   "https://www.neptunecigar.com/romeo-san-andres-by-romeo-y-julieta-cigar"
+  ],
+  "notes": "Full name is Romeo San Andrés by Romeo y Julieta. Altadis described it as medium to full; Neptune calls it medium. Altadis no longer lists it on its site, so it may be out of production.",
+  "verified": true,
+  "verifyNotes": "Added tasting notes from halfwheel's review of the Toro and that review as a source. Blend, factory, sizes and March 2018 release confirmed."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Crafted by AJ Fernandez",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habana 2000 Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cedar",
+   "fruit",
+   "cream"
+  ],
+  "about": "A Nicaraguan-made Romeo y Julieta blended and rolled by AJ Fernandez, with a dark Habana 2000 maduro wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/romeo-y-julieta-crafted-by-aj-fernandez-cigar",
+   "https://www.cigarplace.biz/romeo-y-julieta-crafted-by-aj-fernandez-churchill.html"
+  ],
+  "notes": "Retailers disagree on strength: Neptune lists Medium, Cigar Place lists Medium-Full. No source states where the wrapper is grown or the launch year. Not the same as the Thompson-exclusive RyJ Nicaragua by AJ Fernandez or the Reserva Real Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Medium-Full: Cigar Place lists Medium-Full and a search result showed JR describing it as medium to full, against Neptune's Medium. JR's page could not be opened directly. Spelled out the wrapper as Habana 2000 and added Cigar Place as a second source. Altadis does not list this line."
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Eternal",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan, aged 26 months",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Estelí, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [],
+  "about": "A limited Nicaraguan puro made by Plasencia with Rafael Nodal to mark 145 years of Romeo y Julieta, released in 2021. It came in a single toro size in boxes of 11, with one cigar wearing a gold band.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/romeo-y-julieta-eternal-slated-for-january-2021/384930/",
+   "https://blindmanspuff.com/cigar-news-altadis-u-s-a-announces-romeo-y-julieta-eternal/",
+   "https://www.neptunecigar.com/romeo-y-julieta-eternal-cigar"
+  ],
+  "notes": "Altadis described it as medium to full-bodied; Neptune lists Medium. Sources describe the wrapper color differently (caramel-toned in the press release, maduro at Neptune), and no seed type is published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Romeo Y Julieta",
+  "line": "Book of Love",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (Piloto from Navarrete and La Canela)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera de García",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "A limited edition Romeo y Julieta released in 2023, a single toro built around Dominican Piloto tobacco under an Ecuadorian Sumatra wrapper. It comes in red 10-count boxes made to look like books.",
+  "released": 2023,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/romeo-y-julieta-book-of-love-scheduled-for-early-june-release/423420/"
+  ],
+  "notes": "Strength is the maker's own description (medium-to-full body). No published tasting notes were found.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

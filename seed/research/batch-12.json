@@ -1,0 +1,931 @@
+[
+  {
+    "brand": "Montecristo",
+    "line": "Classic",
+    "found": true,
+    "officialName": "Classic Series",
+    "wrapperLeaf": "Connecticut Shade (USA)",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "USA",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Mild-Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Especial No. 3",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Tubo Especial",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Especial No. 1",
+        "length": 6.625,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "El Conde en Tubo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "No. 2",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cream",
+      "cocoa",
+      "spice"
+    ],
+    "about": "The Classic Series is the Dominican-made Montecristo in a U.S. Connecticut Shade wrapper over Dominican binder and filler, made by Altadis U.S.A. It sits at the smooth, creamy end of the non-Cuban Montecristo range.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/montecristo/montecristo-classic-series/",
+      "https://www.famous-smoke.com/brand-montecristo-classic",
+      "https://www.cigarplace.biz/all-brands/montecristo-cigars/montecristo-classic-collection.html"
+    ],
+    "notes": "Retailers disagree on strength: Holt's lists it as mild, Famous as mild-medium, Neptune as medium. The maker calls it smooth and gives no strength word.",
+    "verified": true,
+    "verifyNotes": "Replaced the halfwheel Cincuenta link, which never names the Classic, with a retailer page that states the Tabacalera de Garcia factory. Blend, sizes and origin match the maker page; U.S. wrapper origin confirmed at Famous and Neptune; strength spread (Holt's mild, Famous mild-medium, Neptune medium) confirmed. The maker page shows strength only as an unlabeled number (4), no word."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "White Label",
+    "found": true,
+    "officialName": "White Series",
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Especial No. 3",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Montecristo Court en Tubo",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Especial No. 1",
+        "length": 6.625,
+        "ring": 44
+      },
+      {
+        "name": "Rothchilde",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Robusto Grande en Tubo",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "No. 2",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Toro Grande en Tubo",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Diadema",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cream",
+      "earth",
+      "wood",
+      "roasted nuts",
+      "sweet tobacco",
+      "spice"
+    ],
+    "about": "The White Series is a Dominican-made Montecristo with an Ecuadorian Connecticut Shade wrapper, a Nicaraguan binder and Dominican and Nicaraguan fillers. It is one of the brand's best-known core lines and is known for a creamy profile.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/montecristo/montecristo-white-series/",
+      "https://www.famous-smoke.com/brand-montecristo-white",
+      "https://mikescigars.com/brands/montecristo-white"
+    ],
+    "notes": "The maker calls it the White Series; White Label is a retailer name for the same cigar. Strength listings vary: Holt's and Mike's say medium, Famous mild-medium, Neptune mild.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend and nine sizes match the maker page; Diadema 6 x 52 confirmed at Famous, Mike's and halfwheel (added to the line in 2025, https://halfwheel.com/montecristo-white-diadema-slated-for-pca-2025/448005/), which also names Tabacalera de Garcia. Strength spread confirmed: Holt's and Mike's medium, Famous mild-medium, Neptune mild. The maker shows only an unlabeled number (4)."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Platinum",
+    "found": true,
+    "officialName": "Platinum Series",
+    "wrapperLeaf": "Mexican San Andrés Cubano",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, Nicaragua, Peru",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 3",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Rothchilde en Tubo",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Churchill en Tubo",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "No. 2",
+        "length": 6.125,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "oak",
+      "espresso"
+    ],
+    "about": "The Platinum Series is a Dominican-made Montecristo with a Mexican San Andrés Cubano wrapper over a Dominican binder and Dominican, Nicaraguan and Peruvian fillers. It is the richer, stronger option among the brand's long-running core lines.",
+    "released": 2002,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/montecristo/montecristo-platinum-series/",
+      "https://www.famous-smoke.com/brand-montecristo-platinum",
+      "https://mikescigars.com/brands/montecristo-platinum-series"
+    ],
+    "notes": "Neptune lists a Nicaraguan binder; the maker says Dominican. The 2002 launch year comes from a retailer (Mike's Cigars), not the maker.",
+    "verified": true,
+    "verifyNotes": "Replaced the halfwheel Cincuenta link, which never names the Platinum, with the Mike's page that gives the 2002 launch year. Blend and sizes match the maker page; medium-full confirmed at Famous, Holt's and Mike's (Neptune says full). No page I opened names the factory for Platinum itself: Tabacalera de Garcia rests on the maker's Dominican origin plus halfwheel's statement that the factory makes the U.S.-market Montecristo (https://halfwheel.com/montecristo-cincuenta-ships/365963/)."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Epic",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua, Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "chocolate",
+      "nuts",
+      "coffee",
+      "fruit",
+      "caramel"
+    ],
+    "about": "Epic is a Dominican-made Montecristo blended by Altadis U.S.A.'s Grupo de Maestros with an Ecuadorian Habano wrapper and aged Nicaraguan and Dominican tobaccos. The maker describes it as fuller-bodied than its other Montecristos.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/montecristo/montecristo-epic/",
+      "https://halfwheel.com/review-montecristo-epic-no-2-premium-selection-2007/33727",
+      "https://www.neptunecigar.com/cigar/montecristo-epic"
+    ],
+    "notes": "Launched in 2012 as Epic Premium Selection '07, built on 2007 vintage tobaccos. Neptune and Mike's list it as full, but Holt's and halfwheel's review call it medium. Epic Craft Cured and Epic Vintage 12 are separate blends.",
+    "verified": true,
+    "verifyNotes": "Added to notes that halfwheel's review also found it medium in strength. Blend, sizes, factory and 2012 launch confirmed against the maker page and halfwheel. Full is the most common retailer listing (Neptune, Mike's) but is contested; the maker shows only an unlabeled number (5, the same as Platinum)."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Espada",
+    "found": true,
+    "officialName": "Espada by Montecristo",
+    "wrapperLeaf": "Nicaraguan Habano Jalapa (2010 vintage)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Habano Jalapa, 2009 vintage)",
+    "filler": "Nicaragua (Habano Jalapa seco, Habano Ometepe viso, Habano Condega ligero, 2008 vintage)",
+    "country": "Nicaragua",
+    "factory": "Plasencia Cigars S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Ricasso",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Guard",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Quillon",
+        "length": 7,
+        "ring": 56
+      },
+      {
+        "name": "Magnum Especial",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "oak",
+      "hickory",
+      "plum",
+      "cocoa",
+      "spice"
+    ],
+    "about": "Espada is a Nicaraguan puro made for Montecristo by the Plasencia family using vintage-dated Habano tobaccos, mostly from Jalapa. It was the first Montecristo made entirely from Nicaraguan tobacco.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/montecristo/montecristo-espada/",
+      "https://halfwheel.com/espada-montecristo-adds-new-chapter-storied-brand/62218/",
+      "https://mikescigars.com/brands/montecristo-espada"
+    ],
+    "notes": "Strength varies by source: Mike's says medium to full, Neptune medium, and the maker bills it as bold and spicy. Espada Oscuro, Signature and Conquistador are separate blends. Size names come from sword parts.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, origin and three sizes match the maker page and halfwheel; Magnum Especial 6 x 60 is not on the maker page but is sold at Mike's and Famous. Medium-full confirmed at Mike's and Famous; Neptune says medium. Flavor words come from Mike's description."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "1935 Anniversary",
+    "found": true,
+    "officialName": "1935 Anniversary Nicaragua",
+    "wrapperLeaf": "Nicaraguan",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "San Lotano Factory (AJ Fernandez), Ocotal",
+    "strength": "Medium-Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Demi",
+        "length": 5.5,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "No. 2",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 52
+      },
+      {
+        "name": "Espeso",
+        "length": 5.5,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "leather",
+      "cinnamon",
+      "oak",
+      "caramel",
+      "black pepper"
+    ],
+    "about": "The 1935 Anniversary Nicaragua is a box-pressed Nicaraguan puro made by AJ Fernandez for Altadis U.S.A. to mark the Montecristo brand's 85th anniversary. It was blended with Rafael Nodal and the Grupo de Maestros as a tribute to the original 1935 Montecristo.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/montecristo/montecristo-1935/",
+      "https://halfwheel.com/montecristo-1935-anniversary-nicaragua-no-2/387329/",
+      "https://www.famous-smoke.com/brands/montecristo-cigars/montecristo-1935-anniversary"
+    ],
+    "notes": "Holt's and Mike's list it as medium-full; Neptune lists it as full. The wrapper varietal is not published. The 1935 Anniversary Edicion Diamante is a separate blend, and Cuba's Linea 1935 is unrelated.",
+    "verified": true,
+    "verifyNotes": "No changes. Nicaraguan puro, San Lotano factory in Ocotal, sizes and 2020 release confirmed against the maker page and halfwheel's review; Espeso 5 1/2 x 60 confirmed at Famous and Holt's. Medium-full confirmed at Holt's and Mike's; Neptune says full."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Nicaragua",
+    "found": true,
+    "officialName": "Nicaragua Series",
+    "wrapperLeaf": "Nicaraguan",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "No. 2",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "leather",
+      "espresso"
+    ],
+    "about": "The Nicaragua Series is a Nicaraguan puro made for Montecristo by A.J. Fernandez at his factory in Esteli. It joined the brand's core lineup in 2018 as a bolder alternative to the Dominican-made lines.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://www.altadisusa.com/cigars/montecristo/montecristo-nicaragua-series/",
+      "https://halfwheel.com/montecristo-nicaragua-series-coming-to-ipcpr/270849/",
+      "https://www.famous-smoke.com/brand-montecristo-nicaragua"
+    ],
+    "notes": "The maker only says the wrapper is Nicaraguan; Famous describes it as a Habano Rosado from Jalapa. Famous and Holt's list it as medium-full, Neptune as medium, Mike's as full. Famous says it is rolled at Plasencia, but the maker and halfwheel both say A.J. Fernandez's factory in Esteli.",
+    "verified": true,
+    "verifyNotes": "Flavors trimmed to the three Famous actually lists (it says pepper, not black pepper, and earthy describes the wrapper only). Added a note that Famous names the wrong factory. Blend, sizes, factory and 2018 launch confirmed against the maker page and halfwheel."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Monte by Montecristo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Olor), Nicaragua (Corojo)",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Conde",
+        "length": 5.5,
+        "ring": 48
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Jacopo No. 2",
+        "length": 6.125,
+        "ring": 54
+      },
+      {
+        "name": "Monte",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "leather",
+      "spice",
+      "chocolate"
+    ],
+    "about": "Monte by Montecristo is a Dominican-made line with an Ecuadorian Habano wrapper and a double binder of Dominican Olor and Nicaraguan Corojo over aged Dominican filler. Altadis U.S.A. launched it in 2013 as a stronger, more affordable Montecristo.",
+    "released": 2013,
+    "production": null,
+    "sources": [
+      "https://mikescigars.com/brands/monte-by-montecristo",
+      "https://halfwheel.com/monte-montecristo-aj-fernandez-heading-ipcpr-2017/152624/",
+      "https://halfwheel.com/monte-montecristo-aj-fernandez-toro/174482/"
+    ],
+    "notes": "Retailers disagree on strength: Mike's says medium, Famous medium-full, Neptune full. Not shown in the maker's current Montecristo lineup, though retailers still list it. The AJ Fernandez version is a different, Nicaraguan-made blend.",
+    "verified": true,
+    "verifyNotes": "No changes. Wrapper, double binder, filler and sizes confirmed at Mike's and Famous; 2013 launch and Tabacalera de Garcia confirmed in the two halfwheel articles. Strength spread confirmed (Mike's medium, Famous medium-full, Neptune full). Confirmed it is absent from the maker's current Montecristo page."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Monte by Montecristo AJ Fernandez",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Corojo 98)",
+    "filler": "Nicaragua (Criollo 98), Dominican Republic (Piloto Cubano)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 4.25,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 55
+      },
+      {
+        "name": "Belicoso",
+        "length": 6.125,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "bread",
+      "wood",
+      "white pepper",
+      "dark chocolate",
+      "cream",
+      "toast"
+    ],
+    "about": "A box-pressed follow-up to Monte by Montecristo, made in Nicaragua by A.J. Fernandez for Altadis U.S.A. It pairs an Ecuadorian Habano wrapper with a Nicaraguan Corojo 98 binder and Nicaraguan and Dominican fillers.",
+    "released": 2017,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/monte-montecristo-aj-fernandez-toro/174482/",
+      "https://halfwheel.com/monte-montecristo-aj-fernandez-heading-ipcpr-2017/152624/"
+    ],
+    "notes": "Strength is from halfwheel's review, which found it medium-plus early and close to full by the end. Released as regular production in 2017 but not shown in the maker's current lineup, so it may be out of production.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, factory, four sizes, July 2017 release and the medium-plus to near-full strength all confirmed in halfwheel's review and news story. Not on the maker's current page."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Crafted by AJ Fernandez",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra Oscuro",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Mexico (San Andrés)",
+    "filler": "Honduras, Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Figurado",
+        "length": 4,
+        "ring": 52
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 58
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "licorice",
+      "leather",
+      "coffee",
+      "spice"
+    ],
+    "about": "A heavily box-pressed Montecristo made in Esteli by A.J. Fernandez, with an Ecuadorian Sumatra Oscuro wrapper, a Mexican San Andrés binder and Honduran and Nicaraguan fillers. It was the first Montecristo made by Fernandez.",
+    "released": 2016,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/montecristo-crafted-aj-fernandez-robusto/156599/",
+      "https://mikescigars.com/brands/montecristo-crafted-by-aj-fernandez",
+      "https://www.neptunecigar.com/cigar/montecristo-crafted-by-aj-fernandez"
+    ],
+    "notes": "Launched December 2016 as an exclusive for JR Cigar and its distributor Santa Clara. Neptune and Mike's list it as full; halfwheel's review found it closer to medium-plus.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, factory, five sizes and the Dec. 1, 2016 release confirmed in halfwheel's review; full strength confirmed at Neptune and Mike's. Flavor words come from Mike's description. Not on the maker's current page."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "White Vintage Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Shade (USA, 2008 vintage)",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "USA",
+    "binder": "Nicaragua",
+    "filler": "Dominican Republic, Nicaragua, Peru",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Mild-Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "No. 3",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "No. 2",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Double Corona",
+        "length": 6.25,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "butter",
+      "toast",
+      "white pepper"
+    ],
+    "about": "An extension of the Montecristo White Series that swaps the Ecuadorian wrapper for a 2008 vintage Connecticut Shade leaf grown on Altadis U.S.A.'s own farms in the Connecticut River Valley. Peruvian tobacco is added to the Dominican and Nicaraguan filler.",
+    "released": 2015,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/montecristo-white-vintage-connecticut-coming-in-july/86872/",
+      "https://halfwheel.com/montecristo-white-series-vintage-connecticut-no-3-prerelease/93784/",
+      "https://www.neptunecigar.com/cigar/montecristo-white-vintage-connecticut"
+    ],
+    "notes": "Neptune lists it as mild and Holt's as medium; halfwheel's review found it mild at the start and medium by the end. Not shown in the maker's current lineup and sold out at Holt's, so availability may be limited.",
+    "verified": true,
+    "verifyNotes": "Removed the flavor 'cream', which appears in neither halfwheel article. Blend, factory, three sizes and 2015 release confirmed at halfwheel; U.S. wrapper confirmed at Neptune. Mild-medium is a midpoint, not a quoted listing: Neptune says mild, Holt's medium, and halfwheel's review went from mild to medium."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Epic Craft Cured",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Rosado Oscuro (2006 harvest)",
+    "wrapperCategory": "Rosado",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Ometepe)",
+    "filler": "Nicaragua (Condega, Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "Plasencia Cigars S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso",
+        "length": 6.125,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "toast",
+      "white pepper",
+      "wood",
+      "leather"
+    ],
+    "about": "A Nicaraguan puro made for Montecristo by the Plasencia family as an offshoot of the Epic line. Its name refers to curing the tobaccos in small piles so the wrapper, binder and filler flavors blend together.",
+    "released": 2017,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/montecristo-epic-craft-cured-toro/218597/",
+      "https://halfwheel.com/altadis-u-s-adds-montecristo-craft-cured/213875/"
+    ],
+    "notes": "A different blend and factory from the Dominican-made Epic. Strength is from halfwheel's review. Shipped December 2017 as regular production but not shown in the maker's current lineup, so it may be out of production.",
+    "verified": true,
+    "verifyNotes": "Removed the flavor 'earth', which is not in halfwheel's review. Blend, Plasencia factory, three sizes and December 2017 release confirmed in both halfwheel pages. Medium is from halfwheel's review (just under medium-plus); one retailer puts the body at medium-full. Not on the maker's current page."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Pilotico Pepe Mendez",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "No. 2",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "toast",
+      "earth",
+      "butter",
+      "coffee",
+      "black pepper",
+      "cream"
+    ],
+    "about": "A Dominican-made Montecristo honoring tobacco grower Jose \"Pepe\" Mendez, whose family revived the Cuban-seed Pilotico tobacco used in the blend. It comes in boxes styled like vintage trunk luggage.",
+    "released": 2016,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/montecristo-pilotico-pepe-mendez-robusto/132772/",
+      "https://www.neptunecigar.com/cigar/montecristo-pepe-mendez-pilotico"
+    ],
+    "notes": "Some retailers list it as Pepe Mendez Pilotico. Released as regular production in 2016 but not shown in the maker's current lineup, so it may be out of production.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, factory, three sizes, 2016 release and medium strength confirmed in halfwheel's review; Neptune also lists medium and the same blend. Not on the maker's current page."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Volume 1",
+    "found": true,
+    "officialName": "Volume 1: 100 Days",
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua, Dominican Republic",
+    "country": "Honduras",
+    "factory": "Flor de Copán",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 56
+      }
+    ],
+    "flavors": [],
+    "about": "The first release in the Montecristo Volume Series, made in Honduras for distributor Santa Clara Inc. and blended by Altadis U.S.A.'s Grupo de Maestros. After rolling, the cigars rest 100 days in cedar bins, and the boxes are made to look like the Dumas novel.",
+    "released": 2020,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/santa-clara-inc-to-unveil-montecristo-volume-1-100-days-at-tpe-2020/371187/",
+      "https://halfwheel.com/montecristo-volume-2-the-rendezvous-heads-to-santa-clara-inc/403533/"
+    ],
+    "notes": "An exclusive for Santa Clara Inc., the distributor tied to JR Cigar, so it is not in Altadis's regular lineup. Tobaccos are said to be aged up to 10 years. Volume 2: The Rendezvous is a different blend.",
+    "verified": true,
+    "verifyNotes": "No changes. Blend, Flor de Copan factory in Honduras, three sizes and January 2020 debut confirmed at halfwheel. Strength left null: halfwheel gives none, the maker's site does not list the line, and JR's page would not load."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Artisan Series",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, Honduras",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Batch 1 Toro",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [],
+    "about": "A series of limited Montecristo releases blended by members of Altadis U.S.A.'s Grupo de Maestros, with one buncher and one roller chosen to make every cigar in a release. The series began in 2016.",
+    "released": 2016,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/altadis-u-s-rerelease-montecristo-artisan-series-batch-1-taa-exclusive/259934/",
+      "https://halfwheel.com/montecristo-artisan-series-iii-debuting-at-ipcpr-2018/271608/",
+      "https://halfwheel.com/montecristo-artisan-series-to-show-off-altadis-u-s-a-s-grupo-de-maestros/108786/"
+    ],
+    "notes": "Each batch is a different blend. The blend and size here are Batch 1 (2016, re-released in 2018 as a TAA exclusive of 50,000 cigars). Artisan Series III (2018) is an all-Dominican 6 1/4 x 52 belicoso limited to 2,000 boxes of 25.",
+    "verified": true,
+    "verifyNotes": "No changes. Batch 1 blend, 6 x 54 size, factory, 2016 debut and the Series III details confirmed in the three halfwheel articles. Strength left null: no source opened states one and the maker's site does not list the series."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Cincuenta",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera de García",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "No. 2",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "vanilla",
+      "coffee",
+      "spice"
+    ],
+    "about": "A limited Montecristo released in 2019 to mark the 50th anniversary of Tabacalera de García, the Dominican factory where it is made. It uses an Ecuadorian Sumatra wrapper over a Dominican binder and Dominican and Nicaraguan fillers.",
+    "released": 2019,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/atladis-u-s-a-celebrating-50-years-of-montecristo-with-cincuenta/297350/",
+      "https://halfwheel.com/montecristo-cincuenta-ships/365963/",
+      "https://www.neptunecigar.com/cigar/montecristo-cincuenta"
+    ],
+    "notes": "The 50 is for the factory, not the brand. The Toro was limited to 8,000 boxes of 10; the No. 2 was sold only in 75 Elie Bleu humidors of 100 cigars. In 2021 JR Cigar got its own round 6 x 50 torpedo in the same blend, the Cincuenta JR 50th, limited to 500 boxes of 10.",
+    "verified": true,
+    "verifyNotes": "Reworded the JR 50th note: halfwheel shows it is the same blend in a different size, not a separate blend (https://halfwheel.com/jr-cigar-gets-special-montecristo-cincuenta-for-50th-anniversary/392003/). Blend, factory, sizes and limits confirmed at halfwheel; medium strength and flavors confirmed at Neptune."
+  },
+  {
+    "brand": "Montecristo",
+    "line": "Relentless",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano Rosado",
+    "wrapperCategory": "Rosado",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Ometepe)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Plasencia",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "No. 2",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Magnum",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cream",
+      "wood",
+      "espresso",
+      "spice"
+    ],
+    "about": "A Nicaraguan-made Montecristo produced at the Plasencia factory and credited to Nestor Plasencia. The blend draws on tobaccos from Nicaragua's main growing regions under a Habano Rosado wrapper.",
+    "released": null,
+    "production": null,
+    "sources": [
+      "https://www.famous-smoke.com/brand-montecristo-relentless",
+      "https://www.famous-smoke.com/montecristo-relentless-robusto-cigars-natural"
+    ],
+    "notes": "Confirmed only at Famous Smoke Shop; the maker's site does not list it and no launch year is published. Famous's spec sheet says medium while its description says medium-full. Filler regions named are Jalapa, Esteli and Condega.",
+    "verified": true,
+    "verifyNotes": "No changes. Wrapper, Ometepe binder, filler regions, Nicaragua, Plasencia, medium strength and three sizes all confirmed on the two Famous pages, but Famous is still the only source: the maker's site and Neptune do not list it and halfwheel has no tag for it. Its blend description is nearly identical to Epic Craft Cured, so treat the details with some caution."
+  }
+]

@@ -1,0 +1,1086 @@
+[
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Air Bender",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (estate grown)",
+  "filler": "Dominican Republic (estate grown)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Matatan",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Double Press",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Guerrero",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Valiente",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Chisel",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "spice",
+   "leather",
+   "floral"
+  ],
+  "about": "A strong Dominican cigar from Litto Gomez with an Ecuadorian Habano wrapper over binder and filler grown on the company's own farm in La Canela. It started as an event-only cigar and became a regular line in 2010.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/air-bender",
+   "https://www.famous-smoke.com/brand/la-flor-dominicana-air-bender-cigars",
+   "https://halfwheel.com/review-la-flor-dominicana-air-bender-villano/7261/"
+  ],
+  "notes": "The maker calls it full bodied, while Holt's lists it as medium-full. A separate Air Bender Maduro also exists and became regular production in 2015.",
+  "verified": true,
+  "verifyNotes": "Reworded notes: Famous Smoke has no strength rating for this line, so only the maker is cited for full bodied. No blend, size or date fields changed."
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Ligero Cabinet",
+  "found": true,
+  "officialName": "Ligero Cabinet Oscuro",
+  "wrapperLeaf": "Dark Ecuadorian Sumatra (Oscuro)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (estate grown)",
+  "filler": "Dominican Republic (estate grown ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Torpedito",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "L-300",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "L-400",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "L-500",
+    "length": 5.75,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "red pepper",
+   "espresso",
+   "raisin"
+  ],
+  "about": "The darker-wrapped version of La Flor Dominicana's Ligero line, with a dark Ecuadorian Sumatra leaf over Dominican tobacco from the company's farm. It is a full-strength cigar sold in the same L-numbered sizes as the regular Ligero.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.famous-smoke.com/brand/la-flor-dominicana-ligero-cigars",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-ligero.html",
+   "https://www.laflordominicana.com/ligero"
+  ],
+  "notes": "Sold as Ligero Cabinet Oscuro or Ligero Oscuro. It is the dark-wrapper version of the regular Ligero line rather than a separate blend family. The maker's site only describes the regular Ligero.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Double Ligero",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Ecuadorian Sumatra (sun grown)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (estate grown)",
+  "filler": "Dominican Republic (estate grown ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chiselito",
+    "length": 5,
+    "ring": 44
+   },
+   {
+    "name": "No. 660",
+    "length": 4.625,
+    "ring": 60
+   },
+   {
+    "name": "No. 600",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "No. 654",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Chisel",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "No. 700",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "No. 854",
+    "length": 8,
+    "ring": 54
+   },
+   {
+    "name": "Digger",
+    "length": 8.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "spice",
+   "coffee",
+   "mesquite"
+  ],
+  "about": "La Flor Dominicana's best known power cigar, built around extra ligero leaf from the company's Dominican farm under a dark Ecuadorian Sumatra wrapper. It is the line that carries Litto Gomez's wedge-headed Chisel shape.",
+  "released": 2003,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/double-ligero",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-double-ligero.html",
+   "https://halfwheel.com/review-la-flor-dominicana-double-ligero-oscuro-natural/26875/"
+  ],
+  "notes": "Every size is also sold in a Maduro version; the wrapper given here is for the Natural. Halfwheel's 2012 review of the A size listed the wrapper as Ecuadorian Habano, while the maker says Ecuadorian Sumatra.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Andalusian Bull",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark natural Ecuadorian Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (estate grown)",
+  "filler": "Dominican Republic (estate grown)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Andalusian Bull",
+    "length": 6.5,
+    "ring": 64
+   }
+  ],
+  "flavors": [
+   "spice",
+   "sweetness",
+   "hickory",
+   "caramel",
+   "pepper",
+   "leather"
+  ],
+  "about": "A single large perfecto from La Flor Dominicana, made in a shape copied from an old mold Litto Gomez found in southern Spain and named for Spain's bullfighters. It was Cigar Aficionado's number one cigar of 2016.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/andalusian-bull",
+   "https://halfwheel.com/la-flor-dominicana-andalusian-bull/135427/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-andalusian-bull.html"
+  ],
+  "notes": "One size only: a 6 1/2 inch perfecto that swells from 52 to 64 ring. The maker calls it full bodied; Holt's lists medium-full. It is made on an ongoing basis but in small quantities. A limited 10th Anniversary Maduro with a Connecticut Broadleaf wrapper shipped in October 2026.",
+  "verified": true,
+  "verifyNotes": "Replaced the halfwheel trade show link, whose spec block misprints the wrapper as Ecuadorian Connecticut, with halfwheel's review, which lists Ecuadorian Corojo. No other fields changed."
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Coronado",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (sun grown)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Especial",
+    "length": 5.875,
+    "ring": 47
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double Corona",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Double Toro",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nutmeg",
+   "leather",
+   "graham cracker",
+   "pepper",
+   "nuts"
+  ],
+  "about": "A Dominican cigar with a sun grown Nicaraguan Habano wrapper over binder and filler from La Flor Dominicana's own farm. It first came out in 2006 as Coronado by La Flor, was dropped in 2013, and returned in 2015 under the La Flor Dominicana name.",
+  "released": 2006,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/coronado",
+   "https://halfwheel.com/la-flor-dominicana-coronado-toro-2015/100088/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-coronado.html"
+  ],
+  "notes": "Originally sold as Coronado by La Flor from 2006, discontinued in late 2013 and relaunched in 2015 with the same blend. It placed number 2 on Cigar Aficionado's Top 25 for 2006. Strength is Holt's rating; the maker only says rich in body.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Colorado Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dark Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 2",
+    "length": 4.25,
+    "ring": 48
+   },
+   {
+    "name": "No. 3",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 4",
+    "length": 5.25,
+    "ring": 54
+   },
+   {
+    "name": "No. 5",
+    "length": 5.75,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "espresso",
+   "black pepper",
+   "dark chocolate"
+  ],
+  "about": "A dark-wrapped La Flor Dominicana blend that mixes Dominican and Nicaraguan filler, sold in 50-count cabinets. It arrived in 2011 and comes back in limited runs because the wrapper is hard to source.",
+  "released": 2011,
+  "production": "limited",
+  "sources": [
+   "https://www.laflordominicana.com/colorado-oscuro",
+   "https://halfwheel.com/la-flor-dominicana-colorado-oscuro-2/19194/",
+   "https://www.neptunecigar.com/cigar/la-flor-dominicana-colorado-oscuro"
+  ],
+  "notes": "Wrapper sources disagree. The maker and Neptune say Nicaraguan Habano; halfwheel's 2011 review and 2015 news listed an Ecuadorian Sumatra wrapper with a Dominican Sumatra binder. Halfwheel's reviewer found it below the brand's usual strength.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Cameroon Cabinet",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Aged ligero Cameroon",
+  "wrapperCategory": "Cameroon",
+  "wrapperOrigin": "Cameroon",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 3",
+    "length": 4.75,
+    "ring": 40
+   },
+   {
+    "name": "No. 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Chisel",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "No. 4",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "No. 1",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "nuts",
+   "coffee"
+  ],
+  "about": "La Flor Dominicana's Cameroon-wrapped line, using dark, oily, aged upper-priming Cameroon leaf over Dominican and Nicaraguan tobacco. The maker describes it as smooth but full bodied and keeps supply small.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://www.laflordominicana.com/cameroon-cabinet",
+   "https://www.famous-smoke.com/brand/la-flor-dominicana-cameroon-cabinet-cigars",
+   "https://www.neptunecigar.com/cigar/la-flor-dominicana-cameroon-cabinet"
+  ],
+  "notes": "The maker calls the line very limited because of the wrapper, while Famous Smoke says it is now regular production. The box-pressed No. 3 was the 2000 Series No. 3 until it was moved into this line in 2014.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Reserva Especial",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (estate grown)",
+  "filler": "Dominican Republic (estate grown)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "El Jocko",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Gran Robusto",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Super Corona",
+    "length": 7,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cinnamon",
+   "cardamom",
+   "white pepper",
+   "cream"
+  ],
+  "about": "La Flor Dominicana's Connecticut-wrapped line, dating to 1997 and best known for the short, bulging El Jocko perfecto. It is milder than the rest of the brand but has more punch than most Connecticut cigars.",
+  "released": 1997,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/reserva-especial",
+   "https://halfwheel.com/ipcpr-2016-la-flor-dominicana/125267/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-reserva-especial.html"
+  ],
+  "notes": "The El Jocko perfecto tapers from 32 to 54 ring and also comes in a Maduro with a Connecticut Broadleaf wrapper. Holt's and halfwheel call the line medium; Famous Smoke describes it as medium to full bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Suave",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Corojo (Suave Natural)",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Natural Maceo",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Natural Máximo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Natural Gobernador",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Grand Maduro No. 5",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Grand Maduro No. 6",
+    "length": 5.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "black pepper",
+   "cedar",
+   "cocoa",
+   "spice"
+  ],
+  "about": "La Flor Dominicana's mildest line and a descendant of the company's very first cigar from 1994. It was rebuilt in 2025 with new blends and red and gold packaging, in a Natural and a Grand Maduro version.",
+  "released": 1994,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/revamped-la-flor-dominicana-suave-shipping-next-week/454175/",
+   "https://halfwheel.com/la-flor-dominicana-suave-natural-maximo/455457/",
+   "https://www.neptunecigar.com/cigar/la-flor-dominicana-suave"
+  ],
+  "notes": "Blend shown is the 2025 relaunch Natural. The old Suave had an Ecuadorian Connecticut wrapper, and the maker's site and some retailers still describe it. Grand Maduro uses a San Andrés wrapper and Jalapa binder. Halfwheel found the new Natural mild in strength with a fuller body; Neptune lists it as medium.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium to Mild: the maker's page says mild and halfwheel's review of the 2025 Natural says mild, with only Neptune listing medium. Body blanked: the medium-bodied wording on retailer pages describes the old blend. Notes shortened. Halfwheel's news story gives Maceo as 6 x 48, but its review and Neptune both give 5 x 48, which was kept."
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "La Nox",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Piloto, Pelo de Oro)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "La Nox",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Petite La Nox",
+    "length": 5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "clove",
+   "anise",
+   "walnut",
+   "cedar"
+  ],
+  "about": "A dark La Flor Dominicana blend whose name is Latin for the night, sold in a round black box. It was blended by Tony Gomez, Litto's son, and came out in 2015.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/la-nox",
+   "https://halfwheel.com/la-flor-dominicana-la-nox/97966/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-la-nox.html"
+  ],
+  "notes": "Holt's and Famous Smoke list it as full, but halfwheel's reviewer put body and strength closer to medium-plus.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "1994",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (estate grown)",
+  "filler": "Dominican Republic (estate grown)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tango",
+    "length": 4.5,
+    "ring": 48
+   },
+   {
+    "name": "Conga",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Aldaba",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "Rumba",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Mambo",
+    "length": 7,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "black cherry",
+   "pepper",
+   "raisin"
+  ],
+  "about": "A San Andrés-wrapped blend released in 2014 to mark La Flor Dominicana's 20th anniversary and named for the year the company was founded. The sizes are named after dances.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/1994",
+   "https://halfwheel.com/la-flor-dominicana-celebrating-20-years-1994/64284/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-1994.html"
+  ],
+  "notes": "The Tango size was added in 2015. A limited 6 x 54 version was also sold inside a commemorative beer stein.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "La Volcada",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Ecuador (Corojo)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "La Volcada",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Petite La Volcada",
+    "length": 4.25,
+    "ring": 32
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "leather",
+   "molasses",
+   "espresso",
+   "licorice",
+   "dark chocolate"
+  ],
+  "about": "A Churchill with a pigtail cap from La Flor Dominicana, named after a step in the tango as a nod to Litto Gomez growing up in Uruguay. It pairs a San Andrés maduro wrapper with an Ecuadorian Corojo binder.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/la-volcada",
+   "https://halfwheel.com/la-flor-dominicana-la-volcada/251096/",
+   "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-la-volcada.html"
+  ],
+  "notes": "Essentially a one-size line: the 7 x 48 Churchill. A small Petite version followed in 2020; halfwheel lists it at 4 1/4 x 32 and Neptune at 4 1/8 x 34.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Litto Gomez Diez",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican (grown on the maker's La Canela farm)",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Oriental",
+    "length": 4.875,
+    "ring": 38
+   },
+   {
+    "name": "Cubano",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Chisel Puro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Americano",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Lusitano",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "pepper",
+   "leather",
+   "spice"
+  ],
+  "about": "Litto Gomez's namesake Dominican puro, made only from tobacco grown on La Flor Dominicana's own farm in La Canela, wrapper included, and released by vintage year. It was introduced in 2003.",
+  "released": 2003,
+  "production": "limited",
+  "sources": [
+   "https://www.laflordominicana.com/lg",
+   "https://halfwheel.com/litto-gomez-diez-vintage-2015-cubano/99228/",
+   "https://halfwheel.com/litto-gomez-emeraude/451795/"
+  ],
+  "notes": "Sold from 2003 to 2015. A planned return has not happened as a full line, though a TAA-only Emeraude toro (6 x 54) shipped in late 2024. Sizes are from the 2015 release. The wrapper seed is not published. The maker gives no strength; halfwheel's reviews put it at medium-full, and Neptune lists the related Small Batch as full.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Full to Medium-Full: no opened page rates the Diez line full, the maker gives no strength, and halfwheel's reviews of the 2015 Cubano and the Emeraude land at medium-full. Swapped the 2015 news link for halfwheel's 2015 Cubano review, which carries the same sizes plus the blend and the 2003 launch. Notes updated."
+ },
+ {
+  "brand": "La Flor Dominicana",
+  "line": "Double Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Candela",
+  "wrapperCategory": "Candela",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic (La Canela)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera La Flor S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 50",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 42",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "No. 48",
+    "length": 6.875,
+    "ring": 48
+   }
+  ],
+  "flavors": [],
+  "about": "La Flor Dominicana's first candela, a green-wrapped cigar with an Ecuadorian wrapper, Nicaraguan binder and Dominican filler from the company's farm. It is medium bodied but has more punch than most candelas.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.laflordominicana.com/double-claro",
+   "https://halfwheel.com/la-flor-dominicana-double-claro-no-42/24424/",
+   "https://www.famous-smoke.com/brand/la-flor-dominicana-double-claro-cigars"
+  ],
+  "notes": "Double Claro is another name for a candela, the green wrapper. The sizes are named for their ring gauge.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98, Pelo de Oro)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 46
+   },
+   {
+    "name": "Cepo Pigtail",
+    "length": 5,
+    "ring": 38
+   },
+   {
+    "name": "Chaveta",
+    "length": 5.125,
+    "ring": 50
+   },
+   {
+    "name": "Pilone",
+    "length": 5.25,
+    "ring": 60
+   },
+   {
+    "name": "Bonchero No. 4",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Pegador",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "El Lector",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Cortador",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Tabaquero Presidente",
+    "length": 7.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "almond",
+   "cedar",
+   "espresso",
+   "earth",
+   "cream"
+  ],
+  "about": "One of the two original La Galera blends from Jochy Blanco's Tabacalera Palma, launched in early 2016. It puts an Ecuadorian Connecticut wrapper over Dominican tobacco Blanco grows himself, at a modest price.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-connecticut-tabaquero-presidente/107618/",
+   "https://www.famous-smoke.com/brand/la-galera-connecticut-cigars",
+   "https://www.neptunecigar.com/cigar/la-galera-connecticut"
+  ],
+  "notes": "Strength ratings differ: Neptune lists mild and calls it mild to medium bodied, Famous Smoke lists medium, and halfwheel's reviewer found very little strength. La Galera means the rolling room, and the sizes are named for things found in one.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98, Pelo de Oro)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Half Corona",
+    "length": 3.5,
+    "ring": 46
+   },
+   {
+    "name": "Chaveta",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Bonchero No. 4",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "El Lector",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Cortador",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Pilones",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Cabeza Caracol",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Perillas",
+    "length": 7.25,
+    "ring": 38
+   },
+   {
+    "name": "Coloso",
+    "length": 8,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "pepper",
+   "toasted wood",
+   "cedar",
+   "coffee",
+   "caramel"
+  ],
+  "about": "One of the two original La Galera blends from Jochy Blanco's Tabacalera Palma, launched in early 2016. It shares its Dominican binder and filler with the Connecticut but uses an Ecuadorian Habano wrapper for more spice.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-habano-chaveta/107905/",
+   "https://www.famous-smoke.com/brand/la-galera-habano-cigars",
+   "https://www.neptunecigar.com/cigar/la-galera-habano"
+  ],
+  "notes": "Famous Smoke and Neptune both list medium strength, though Famous Smoke's description calls the smoke medium-full. Same binder and filler as La Galera Connecticut; only the wrapper differs.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Dominican Republic (Piloto Cubano)",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Vitola No. 1",
+    "length": 3.5,
+    "ring": 50
+   },
+   {
+    "name": "Chaveta",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Pegador",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "El Lector",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Cortador",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Pilon",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 50
+   },
+   {
+    "name": "Coloso",
+    "length": 8,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "spice",
+   "cocoa",
+   "earth"
+  ],
+  "about": "The maduro member of the La Galera family from Jochy Blanco's Tabacalera Palma, added in 2016. A Mexican San Andrés wrapper covers Dominican piloto cubano and criollo 98 from Blanco's own farms.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/la-galera-maduro-goes-gordo-new-pilon-vitola/158465/",
+   "https://www.famous-smoke.com/brand/la-galera-maduro-cigars",
+   "https://www.neptunecigar.com/cigar/la-galera-maduro"
+  ],
+  "notes": "Retailers split on strength: Famous Smoke lists full, while Neptune lists medium strength and describes it as full bodied. Halfwheel gives the Cortador as 6 1/4 x 52; both retailers list 6 1/8.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "La Galera",
+  "line": "1936 Box Pressed",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Criollo 98)",
+  "filler": "Dominican Republic (Piloto Cubano, Criollo 98)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera Palma",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Chaveta",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Pegador",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "El Lector",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Cortador",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Pilon",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Cabeza Caracol",
+    "length": 7.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "pepper",
+   "cocoa",
+   "espresso",
+   "citrus"
+  ],
+  "about": "A box-pressed La Galera blend from Jochy Blanco, named for the year his family's Tabacalera Palma was founded and released in 2016 for the factory's 80th anniversary. It uses an Ecuadorian Habano wrapper over Dominican tobacco from Blanco's La Canela farms.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2016-la-galeraindianhead/126622/",
+   "https://www.famous-smoke.com/brand/la-galera-1936-box-pressed-cigars",
+   "https://www.neptunecigar.com/cigar/la-galera-1936-box-pressed"
+  ],
+  "notes": "Famous Smoke's spec line says Connecticut Shade, but its own description, Neptune and halfwheel all give Ecuadorian Habano. Famous Smoke says it came out in 2017; halfwheel covered the launch at the 2016 trade show. Both retailers rate it medium and describe it as medium to full bodied.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

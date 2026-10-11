@@ -1,0 +1,120 @@
+[
+  {
+    "brand": "Perdomo",
+    "line": "Estate Seleccion Vintage",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Sun Grown (also made with Ecuadorian Connecticut Shade and Nicaraguan Maduro wrappers)",
+    "wrapperCategory": "Natural/Sun Grown",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Cuban-seed)",
+    "filler": "Nicaragua (Cuban-seed)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Perdomo S.A.",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Regente",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Imperio",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Prestigio",
+        "length": 6.5,
+        "ring": 54
+      },
+      {
+        "name": "Aristocrata",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Phantom",
+        "length": 6.5,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "spice",
+      "oak",
+      "cedar",
+      "pepper",
+      "coffee"
+    ],
+    "about": "ESV is a Perdomo line first released in 2005 as a tribute to Nick Perdomo Sr., then reworked in 2016 and again in 2019 as a box-pressed cigar using tobacco from the family's Finca Natalie farm. It came in three wrapper versions over Cuban-seed Nicaraguan binder and filler.",
+    "released": 2005,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/perdomo-esv-limited-edition-box-pressed-sun-grown-prestigo/370325/",
+      "https://www.neptunecigar.com/cigars/perdomo-estate-seleccion-vintage-sun-grown-imperio",
+      "https://cigar-coop.com/2019/08/cigar-news-perdomo-estate-seleccion-vintage-showcased-at-2019-ipcpr-trade-show.html"
+    ],
+    "notes": "Usually called ESV. Three wrappers: Connecticut (mild to medium), Sun Grown (medium; Neptune's text and halfwheel put it a notch higher) and Maduro (medium-full). Wrapper, strength and flavors here are the Sun Grown. Neptune lists it as discontinued and Perdomo's site no longer shows it; Perdomo has not announced that.",
+    "verified": true,
+    "verifyNotes": "No spec changes. Wrapper, binder, filler, country, factory, all five sizes and the 2005 debut match halfwheel and Cigar Coop. Strength Medium is Neptune's listing; halfwheel's review says medium-plus with medium-full body. Neptune marks every size Discontinued and Perdomo's site no longer lists the line. Reworded 'about' into full sentences."
+  },
+  {
+    "brand": "Perdomo",
+    "line": "Legacy",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Shade-Grown, a Cuban-seed/Cameroon-seed hybrid (also made with Ecuadorian Connecticut and Nicaraguan Maduro wrappers)",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Cuban-seed)",
+    "filler": "Nicaragua (Cuban-seed)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Perdomo S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Epicure",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Gran Belicoso",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "oak",
+      "spice",
+      "sweetness"
+    ],
+    "about": "Legacy is a 2025 line created by Nicholas Perdomo III as a tribute to his father, Nick Perdomo Jr. It is built around a new Cuban-seed and Cameroon-seed hybrid leaf grown on the family's Finca Natalie farm in Esteli, with wrappers aged 10 years and finished in bourbon barrels.",
+    "released": 2025,
+    "production": "regular",
+    "sources": [
+      "https://perdomocigars.com/legacy",
+      "https://halfwheel.com/perdomo-legacy-goes-on-sale/451591/",
+      "https://halfwheel.com/perdomo-legacy-maduro-gran-belicoso/453831/"
+    ],
+    "notes": "Three wrappers. Details here are the Nicaraguan Shade-Grown, a hybrid leaf that fits no standard wrapper category. The Ecuadorian Connecticut is medium (cream, cedar, honey); the Nicaraguan Maduro is medium-full (chocolate, espresso). Both use the hybrid as binder. The Gran Belicoso is box-pressed. A limited Father & Son figurado came in 2026.",
+    "verified": true,
+    "verifyNotes": "No spec changes. Wrapper, binder, filler, strength wording, flavors and all five sizes match Perdomo's own Legacy page; hybrid seed, factory, 2025 release and box-pressed Gran Belicoso match halfwheel. The 2026 Father & Son limited figurado was confirmed on a separate halfwheel article. Neptune lists this blend as Medium with a 'Nicaraguan Habano' wrapper; kept the maker's Medium to Full and left the category null. Reworded 'about' into full sentences."
+  }
+]

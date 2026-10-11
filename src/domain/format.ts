@@ -52,7 +52,7 @@ const FRACTIONS: Record<string, string> = {
   '0.875': '⅞',
 }
 
-function inches(value: number): string {
+export function formatInches(value: number): string {
   const whole = Math.floor(value)
   const fraction = FRACTIONS[String(value - whole)]
   if (value === whole) return String(whole)
@@ -61,8 +61,9 @@ function inches(value: number): string {
 
 /** "5½ × 50", or just the part that is known. */
 export function formatSize(cigar: Pick<Cigar, 'lengthIn' | 'ringGauge'>): string {
-  if (cigar.lengthIn && cigar.ringGauge) return `${inches(cigar.lengthIn)} × ${cigar.ringGauge}`
-  if (cigar.lengthIn) return `${inches(cigar.lengthIn)} in`
+  if (cigar.lengthIn && cigar.ringGauge)
+    return `${formatInches(cigar.lengthIn)} × ${cigar.ringGauge}`
+  if (cigar.lengthIn) return `${formatInches(cigar.lengthIn)} in`
   if (cigar.ringGauge) return `${cigar.ringGauge} ring`
   return ''
 }
@@ -91,4 +92,21 @@ export function formatDay(date: string): string {
 
 export function plural(count: number, one: string, many = `${one}s`): string {
   return `${count} ${count === 1 ? one : many}`
+}
+
+/** "halfwheel.com" from a full link, for showing a source without the long address. */
+export function hostOf(url: string): string {
+  try {
+    return new URL(url).hostname.replace(/^www\./, '')
+  } catch {
+    return url
+  }
+}
+
+/** Lowercase with accents dropped, so typing "damaso" or "san andres" finds Dámaso and San Andrés. */
+export function fold(text: string): string {
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
 }

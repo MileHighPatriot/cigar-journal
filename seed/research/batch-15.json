@@ -1,0 +1,966 @@
+[
+ {
+  "brand": "J.C. Newman",
+  "line": "El Baton",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Havana",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Double Torpedo",
+    "length": 6.25,
+    "ring": 56
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "spice",
+   "espresso",
+   "dark cocoa"
+  ],
+  "about": "A full-strength Nicaraguan cigar from J.C. Newman, rolled at the company's PENSA factory in Esteli. It revives a nickel cigar brand the founder first made in Cleveland in 1914.",
+  "released": 2008,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/el-baton/",
+   "https://halfwheel.com/revamped-el-baton-heads-to-stores/412836/",
+   "https://www.famous-smoke.com/brand/el-baton-cigars"
+  ],
+  "notes": "Original brand dates to 1914; brought back in 2008 and reblended bolder with new packaging in 2022. Sources disagree on the wrapper: the maker lists Ecuadorian Havana, halfwheel calls the cigar a Nicaraguan puro, and Famous Smoke lists a Nicaraguan Corojo wrapper.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Brick House",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Havana Subido",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 50
+   },
+   {
+    "name": "Corona Larga",
+    "length": 6.25,
+    "ring": 46
+   },
+   {
+    "name": "Mighty Mighty",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Short Torp",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "The Teaser",
+    "length": 3.5,
+    "ring": 56
+   },
+   {
+    "name": "The Traveler (aluminum tube)",
+    "length": 6.125,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "pepper",
+   "hickory",
+   "wood",
+   "nuts"
+  ],
+  "about": "J.C. Newman's main Nicaraguan line, a medium-strength cigar with a Havana-seed wrapper over Nicaraguan binder and filler. It is sold as an affordable everyday cigar.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/brick-house/",
+   "https://www.cigaraficionado.com/top25cigar/brick-house-churchill-2024",
+   "https://www.holts.com/cigars/all-cigar-brands/brick-house.html"
+  ],
+  "notes": "The maker calls this original blend Brick House Classic. The name dates to 1937; J.C. Newman brought it back as a Nicaraguan cigar in 2009. Some retailers call it a Nicaraguan puro, but the maker and Cigar Aficionado say the wrapper is grown in Ecuador.",
+  "verified": true,
+  "verifyNotes": "Set released to 2009 (Cigar Aficionado: revived in 2009). Swapped the Famous Smoke source for Cigar Aficionado, rebuilt flavors from Holt's and Cigar Aficionado, and noted the wrapper-origin disagreement. Reworded about to drop a value judgment."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Diamond Crown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade (Connecticut Fermented Wrapper)",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Five filler tobaccos from the Caribbean and Central America (countries not itemized)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 2",
+    "length": 7.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 3",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 4",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 5",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 6 (figurado)",
+    "length": 6,
+    "ring": 64
+   },
+   {
+    "name": "No. 7",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "No. 8",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "No. 9",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "nuts"
+  ],
+  "about": "J.C. Newman's flagship premium line, made for the company by Arturo Fuente in the Dominican Republic. It launched in 1995 for the company's 100th anniversary and is known for its thick 54 ring sizes.",
+  "released": 1995,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/diamond-crown/",
+   "https://www.neptunecigar.com/diamond-crown-natural-cigar",
+   "https://www.famous-smoke.com/brand/diamond-crown-cigars"
+  ],
+  "notes": "The maker calls this blend Diamond Crown Classic; a Maduro version uses a Connecticut Broadleaf wrapper and is rated Medium. Maker rates the Classic Mild, while Neptune lists Medium and Famous Smoke calls it medium-bodied. Neptune lists the filler as Dominican. The No. 6 is a figurado listed at 64 ring at its widest.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Replaced the halfwheel news link with Neptune's page, which is the source that states the wrapper is USA-grown Connecticut Shade; added Neptune's strength and filler listing to notes."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Brick House Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Arapiraca Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Commodore",
+    "length": 5.5,
+    "ring": 70
+   },
+   {
+    "name": "Mighty Mighty",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "black pepper",
+   "spice",
+   "sweetness",
+   "earth",
+   "wood"
+  ],
+  "about": "The maduro version of Brick House, using the same Nicaraguan filler blend under a dark Brazilian Arapiraca wrapper. It is the strongest of the three Brick House blends.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/brick-house/",
+   "https://halfwheel.com/brick-house-perla-del-mar-lead-j-c-newmans-ipcpr-releases/30103/",
+   "https://halfwheel.com/brick-house-maduro-short-torpedo/298155/"
+  ],
+  "notes": "Started in 2012 as a single size, the Mighty Mighty Maduro, with more sizes added later.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Brick House Double Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "USA",
+  "binder": "Connecticut Broadleaf (USA)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 50
+   },
+   {
+    "name": "Mighty Mighty",
+    "length": 6.25,
+    "ring": 60
+   },
+   {
+    "name": "Corona Larga",
+    "length": 6.25,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Short Torp",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "hay",
+   "nuts",
+   "cedar",
+   "leather",
+   "white pepper",
+   "milk chocolate"
+  ],
+  "about": "The mild Brick House blend, named for its two Connecticut leaves: a shade-grown wrapper and a broadleaf binder over the Brick House Nicaraguan filler. It was the third Brick House blend to be released.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/brick-house/",
+   "https://halfwheel.com/brick-house-double-connecticut-toro/212353/"
+  ],
+  "notes": "Both the wrapper and the binder are grown in Connecticut, which is where the name comes from. The foot band reads only Connecticut.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Perla del Mar",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Short Robusto",
+    "length": 3.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cream",
+   "caramel",
+   "spice"
+  ],
+  "about": "A mild, box-pressed Nicaraguan cigar from J.C. Newman with an Ecuadorian shade wrapper, priced as an everyday smoke. The name comes from a 1905 Tampa brand that the company revived.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/perla-del-mar/",
+   "https://halfwheel.com/j-c-newman-revamps-perla-del-mark-adds-corojo-blend/384235/",
+   "https://www.neptunecigar.com/perla-del-mar-cigar"
+  ],
+  "notes": "This is the original blend, now sold as Perla del Mar Shade; Maduro and Corojo versions also exist. Box-pressed. At its 2012 launch the binder and filler came from Pueblo Nuevo, La Reina, Condega and Jalapa; the filler was changed to stronger aged Nicaraguan leaf in late 2020.",
+  "verified": true,
+  "verifyNotes": "Filler reduced to Nicaragua: the four named regions come from the 2012 launch and the filler was reblended in 2020 (regions moved to notes). Removed flavors nuts and coffee, which only appear in customer reviews."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Perla del Mar Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Double Toro",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "molasses",
+   "coffee",
+   "cream"
+  ],
+  "about": "The maduro version of Perla del Mar, a box-pressed Nicaraguan cigar wrapped in Connecticut Broadleaf. It is medium in strength and sold at a value price.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/perla-del-mar/",
+   "https://halfwheel.com/ipcpr-2016-j-c-newman/127736/",
+   "https://www.neptunecigar.com/perla-del-mar-cigar"
+  ],
+  "notes": "Box-pressed. Reblended with stronger aged Nicaraguan filler and new packaging in late 2020.",
+  "verified": true,
+  "verifyNotes": "Filler reduced to Nicaragua: halfwheel says only 'four regions of Nicaragua' for the Maduro and does not name them."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Quorum",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Sungrown",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Double Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Tres Petit Corona",
+    "length": 3.5,
+    "ring": 38
+   },
+   {
+    "name": "Short Robusto",
+    "length": 3.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "spice",
+   "wood",
+   "pepper"
+  ],
+  "about": "J.C. Newman's value-priced handmade cigar from Nicaragua, sold in bundles of 20. It has a Sumatra-seed sungrown wrapper over Nicaraguan binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/quorum/",
+   "https://www.holts.com/cigars/all-cigar-brands/quorum.html",
+   "https://halfwheel.com/press-release-quorum-line-expands-include-double-gordo/23085/"
+  ],
+  "notes": "The maker calls this blend Quorum Classic; Shade and Maduro versions also exist. Sold in bundles of 20, and in 2012 J.C. Newman called it the number one selling bundle cigar in the world. The maker lists the wrapper only as Sumatra Sungrown; retailers and an older press release place it in Ecuador.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Quorum Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Connecticut Broadleaf (USA)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Double Gordo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "wood",
+   "sweetness"
+  ],
+  "about": "The maduro version of J.C. Newman's bundled Quorum cigar, with a dark Sumatra-seed wrapper and a Connecticut Broadleaf binder over Nicaraguan filler. It is a value-priced everyday maduro.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/quorum/",
+   "https://halfwheel.com/ipcpr-2015-arturo-fuente-j-c-newman/92666/",
+   "https://www.neptunecigar.com/quorum-maduro-cigar"
+  ],
+  "notes": "Sold in bundles. No source says where the Sumatra maduro wrapper is grown. The maker lists the strength as Medium but describes the cigar as full-bodied.",
+  "verified": true,
+  "verifyNotes": "Removed flavor coffee, which no opened source gives for the Maduro."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Diamond Crown Maximus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian El Bajo Sungrown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill No. 2",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Pyramid No. 3",
+    "length": 6.375,
+    "ring": 50
+   },
+   {
+    "name": "Toro No. 4",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto No. 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Double Robusto No. 6",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Double Belicoso No. 10",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "spice",
+   "sweetness"
+  ],
+  "about": "The fuller Diamond Crown, made by Arturo Fuente with a dark sungrown wrapper from Oliva Tobacco's El Bajo farm in Ecuador over Dominican binder and filler. It was introduced in 2002.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/maximus/",
+   "https://halfwheel.com/updated-diamond-crown-maximus-begins-shipping/476464/",
+   "https://www.neptunecigar.com/diamond-crown-maximus-cigar"
+  ],
+  "notes": "Reblended slightly bolder with new bands and boxes in summer 2026; sizes and prices stayed the same. Maker rates it Medium to Full; Neptune lists Full, calls the wrapper Ecuadorian Sumatra and gives 2003 as the release year. The maker says it was created to mark the company's 105th anniversary.",
+  "verified": true,
+  "verifyNotes": "Reworded about: it tied the 2002 launch (halfwheel) to the 105th anniversary (maker), which do not line up for a company founded in 1895. Added Neptune's 2003 date to notes."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Diamond Crown Julius Caeser",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Havana-seed",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Caribbean and Central America (countries not itemized)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7.25,
+    "ring": 52
+   },
+   {
+    "name": "Pyramid",
+    "length": 6.5,
+    "ring": 52
+   },
+   {
+    "name": "Hail Caeser",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Troublemaker",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "leather",
+   "espresso",
+   "earth",
+   "cream",
+   "raisin"
+  ],
+  "about": "A medium-strength Diamond Crown line made by Arturo Fuente with an Ecuadorian Havana-seed wrapper. It was released in 2010 for J.C. Newman's 115th anniversary and is named after the company's founder.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/julius-caeser/",
+   "https://halfwheel.com/redux-diamond-crown-julius-caeser-toro/26794/",
+   "https://www.neptunecigar.com/diamond-crown-julius-caeser-cigar"
+  ],
+  "notes": "Caeser is spelled the way founder Julius Caeser Newman spelled his name. The maker lists the Robusto at 4 7/10 inches while retailers list 4 3/4, and Neptune lists the filler as Dominican. A 5 x 52 size called 1895 is sold only at Diamond Crown lounges.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Diamond Crown Black Diamond",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Havana (Havana-seed, grown in Connecticut)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "USA",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Emerald",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Marquise",
+    "length": 5.25,
+    "ring": 56
+   },
+   {
+    "name": "Radiant",
+    "length": 4.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "leather",
+   "wood",
+   "pepper",
+   "hazelnut",
+   "spice"
+  ],
+  "about": "The strongest Diamond Crown, made by Arturo Fuente with a dark Havana-seed wrapper grown in Connecticut over five-year-aged Dominican binder and filler. It reached stores in late 2016.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/black-diamond/",
+   "https://halfwheel.com/diamond-crown-black-diamond-marquis/134518/",
+   "https://halfwheel.com/j-c-newman-ships-updated-diamond-crown-black-diamond/413153/"
+  ],
+  "notes": "The wrapper is grown in Connecticut, not the Dominican Republic. Reblended stronger with new packaging in 2022. The middle size is spelled Marquise by the maker and Marquis by halfwheel.",
+  "verified": true,
+  "verifyNotes": "Dropped 'sun grown' from wrapperLeaf (not stated by the maker or halfwheel). Changed flavor cedar to wood to match the halfwheel review."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "The American",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Florida Sun Grown (Corojo 99 seed)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "USA",
+  "binder": "Connecticut Broadleaf (USA)",
+  "filler": "USA: Pennsylvania, Connecticut Havana seed",
+  "country": "USA",
+  "factory": "El Reloj, Tampa, Florida",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 47
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Double Robusto",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "toast",
+   "pepper",
+   "cream"
+  ],
+  "about": "An all-American cigar hand rolled at J.C. Newman's El Reloj factory in Tampa, using only tobacco grown in Florida, Connecticut and Pennsylvania. Even the boxes, bands and molds are made in the United States.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/the-american/",
+   "https://halfwheel.com/the-american-double-robusto/404330/",
+   "https://cigardojo.com/2019/05/jc-newman-announces-the-american-cigar/"
+  ],
+  "notes": "The maker dates the revival of this 1910 brand to 2016, but the cigar first shipped in May 2019. Maker lists the Torpedo at 6 1/4 inches; halfwheel and Cigar Dojo list 6 1/8. A tubed President (7 x 47) is sold only at the factory.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Replaced the Neptune source with Cigar Dojo, the page that actually states the Corojo 99 seed for the Florida Sun Grown wrapper."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Cuesta-Rey Centro Fino",
+  "found": true,
+  "officialName": "Cuesta-Rey Centro Fino Sungrown",
+  "wrapperLeaf": "Ecuadorian Sumatra-seed sungrown (Centro Fino)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic (aged ligero)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera A. Fuente",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Pyramid No. 9",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Centro Fino No. 60",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Robusto No. 7",
+    "length": 4.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "honey",
+   "nougat",
+   "chocolate"
+  ],
+  "about": "A medium-strength Cuesta-Rey blend made by Arturo Fuente for J.C. Newman, with a Sumatra-seed sungrown wrapper from Quevedo, Ecuador over Dominican tobacco. Cuesta-Rey is a Tampa brand founded in 1884 that the Newmans bought in 1958.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/cuesta-rey/",
+   "https://www.cigaraficionado.com/top25cigar/cuesta-rey-centro-fino-sungrown-pyramid-no-9-2025",
+   "https://halfwheel.com/cuesta-rey-centro-fino-sungrown-110th-anniversary/217262/"
+  ],
+  "notes": "Full name is Cuesta-Rey Centro Fino Sungrown. Cigar Aficionado dates the line to 2002 and named the Pyramid No. 9 its No. 4 cigar of 2025. The maker and Neptune rate it Medium; Cigar Aficionado calls it medium-full.",
+  "verified": true,
+  "verifyNotes": "Set released to 2002 (Cigar Aficionado). Replaced flavors taken from customer reviews with Cigar Aficionado's tasting note. Swapped the Neptune source for Cigar Aficionado and added the strength disagreement to notes."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Yagua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (under-fermented)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "J.C. Newman PENSA",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "oak",
+   "cedar",
+   "black pepper",
+   "coffee"
+  ],
+  "about": "A Nicaraguan cigar from J.C. Newman that is rolled without molds and bundled while still wet in a royal palm leaf, so each cigar comes out in its own irregular shape. The method copies how the factory manager's grandfather made cigars on a Cuban farm in the 1940s.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/yagua/",
+   "https://halfwheel.com/yagua/381062/",
+   "https://halfwheel.com/yagua-robusto/480824/"
+  ],
+  "notes": "Regular production, but the Toro is released only twice a year, so it is not always on shelves. Each cigar is aged a full year after rolling. The Robusto was added in August 2026. Boxes of 20 arrive still wrapped in the palm leaf.",
+  "verified": true,
+  "verifyNotes": "Notes reworded: halfwheel says the Toro is offered twice a year; it does not say the year of aging is the reason."
+ },
+ {
+  "brand": "J.C. Newman",
+  "line": "Angel Cuesta",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Havana Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": null,
+  "filler": null,
+  "country": "USA",
+  "factory": "El Reloj, Tampa, Florida",
+  "strength": "Medium",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Salomones",
+    "length": 7.25,
+    "ring": 57
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Doble Robusto",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "cocoa",
+   "leather",
+   "nuts",
+   "pepper"
+  ],
+  "about": "A small-batch cigar hand rolled at J.C. Newman's El Reloj factory in Tampa, reviving an early 1900s Cuesta-Rey brand that was once the official cigar of King Alfonso XIII of Spain. Two rollers make about 150 a day.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://www.jcnewman.com/cigar/angel-cuesta/",
+   "https://halfwheel.com/angel-cuesta-doble-robusto/428189/",
+   "https://halfwheel.com/j-c-newman-begins-shipping-angel-cuesta-shade/454656/"
+  ],
+  "notes": "The original blend is now called Angel Cuesta Rosado; a Shade version with a Nicaraguan shade wrapper followed in 2025. Binder and filler are undisclosed; the maker says only that the tobaccos come from three continents. Maker rates it Medium, while halfwheel found it medium-full to full.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: halfwheel's review put strength at medium-full rising to full, not just medium-full."
+ }
+]

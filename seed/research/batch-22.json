@@ -1,0 +1,702 @@
+[
+ {
+  "brand": "Caldwell",
+  "line": "Eastern Standard",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Hybrid Connecticut Shade and Brazilian Arapiraca (Mata Fina), grown in Ecuador",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Criollo '98, Corojo Ligero), Nicaragua (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cakewalk",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "The Cypress Room (Super Toro)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Cream Crush",
+    "length": 7,
+    "ring": 48
+   },
+   {
+    "name": "Corretto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Euro Express",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Manzanita",
+    "length": 4,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cream",
+   "pepper",
+   "spice",
+   "earth",
+   "nuts"
+  ],
+  "about": "One of the three lines Caldwell launched with in 2014, and the mildest of them. It uses a hybrid Connecticut Shade wrapper grown in Ecuador over Dominican and Nicaraguan tobacco.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/eastern-standard/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=392618",
+   "https://halfwheel.com/eastern-standard-silk-road-returns-as-smokingpipes-exclusive/478135/"
+  ],
+  "notes": "Caldwell calls the wrapper a proprietary hybrid of Connecticut Shade and Brazilian Arapiraca; Neptune and halfwheel list it simply as Ecuadorian Connecticut. Caldwell rates it 2 of 5 for strength, while Neptune calls it Medium.",
+  "verified": true,
+  "verifyNotes": "Reworded about to remove a marketing-style comparison. Blend, sizes and 2 of 5 potency confirmed on Caldwell's page; Ecuador wrapper origin, Dominican Habano binder and factory confirmed on Smokingpipes, halfwheel and Neptune."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Long Live the King",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Corojo)",
+  "filler": "Dominican Republic (Ligero), Nicaragua (Habano), Peru (Pelo de Oro)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lock Stock (Belicoso)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Marquis",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Petite Double Wide Short Churchill",
+    "length": 5.75,
+    "ring": 52
+   },
+   {
+    "name": "My Style is Jalapeño",
+    "length": 7.25,
+    "ring": 40
+   },
+   {
+    "name": "The Heater",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Manzanita",
+    "length": 4,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "spice",
+   "dark chocolate",
+   "earth",
+   "coffee",
+   "hay"
+  ],
+  "about": "The fullest of Caldwell's three original 2014 lines, built around a Dominican Corojo wrapper over Dominican, Nicaraguan and Peruvian filler. It later spawned the Mad MoFo and Savages offshoots.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/long-live-the-king/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=217240",
+   "https://www.neptunecigar.com/cigar/caldwell-long-live-the-king"
+  ],
+  "notes": "Caldwell rates it 4 of 5 for strength and describes it as full flavored with medium-plus body. Neptune and Atlantic both list it as Full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Lost & Found",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [],
+  "flavors": [],
+  "about": "Caldwell's sister brand, started in 2014 by Robert Caldwell, Tony Bellatto and Jaclyn Sears under the name Impromptu. It began by buying aged cigars found in factories and selling them in small rebranded batches, and now commissions its own blends.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/lost-and-found/",
+   "https://halfwheel.com/lostfound-dont-sit-on-the-furniture/445655/",
+   "https://halfwheel.com/pca-2023-bellatto-premium-cigars-lostfound/425636/"
+  ],
+  "notes": "This is a brand, not one cigar: every release is a different blend, factory and strength, so there is no single spec. The current always-available lineup is 15 Minutes of Fame, Just The Tip, One Night Stand and Pepper Cream Soda. Most older drops were one-time batches.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Blind Man's Bluff",
+  "found": true,
+  "officialName": "Blind Man's Bluff Habano",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Criollo)",
+  "filler": "Dominican Republic (San Vicente), Honduras (Criollo Ligero)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "allspice",
+   "leather",
+   "cedar",
+   "pepper",
+   "coffee",
+   "nuts"
+  ],
+  "about": "Introduced in 2015 and made in Honduras at the factory that rolls Camacho, unlike Caldwell's Dominican core lines. The original blend puts an Ecuadorian Habano wrapper over Honduran and Dominican tobacco.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/blind-mans-bluff-habano/",
+   "https://halfwheel.com/blind-mans-bluff-toro/100772/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=217244"
+  ],
+  "notes": "The original blend is now sold as Blind Man's Bluff Habano to tell it apart from the Connecticut, Maduro and Nicaragua versions. halfwheel and Neptune say it is made in Honduras at the factory that rolls Camacho; Smokingpipes lists the country as Dominican Republic.",
+  "verified": true,
+  "verifyNotes": "Reworded about: 'value-priced' was not stated by any source. halfwheel's 2015 review names the factory Agroindustrias Laepe S.A.; its 2019 and later pieces call the same Danli factory Diadema Cigars de Honduras S.A. Caldwell's spec line lists the binder as Dominican Republic and Honduras, while halfwheel, Smokingpipes and Neptune say Honduran Criollo."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Blind Man's Bluff Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras (Criollo)",
+  "filler": "Dominican Republic (San Vicente), Honduras (Criollo Ligero)",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "vanilla",
+   "cedar",
+   "pepper",
+   "cream",
+   "spice",
+   "dried fruit"
+  ],
+  "about": "The Connecticut Shade version of Blind Man's Bluff, shown in 2016 and shipped in 2017. It keeps the original binder and filler under an Ecuadorian Connecticut Shade wrapper.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/blind-mans-bluff-connecticut/",
+   "https://halfwheel.com/blind-mans-bluff-connecticut-robusto/156240/",
+   "https://www.neptunecigar.com/cigar/caldwell-blind-mans-bluff-connecticut"
+  ],
+  "notes": "Caldwell rates it 3 of 5 for strength; Neptune lists it as Mild. halfwheel and Neptune say it is made in Honduras. It launched in five sizes; Caldwell now lists three.",
+  "verified": true,
+  "verifyNotes": "Reworded about to remove 'smoother, creamier'. Removed the note that Smokingpipes lists the country as Dominican Republic because none of the listed sources shows that for this version."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Blind Man's Bluff Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Magnum",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "pepper",
+   "cream"
+  ],
+  "about": "The maduro extension of Blind Man's Bluff, released in 2019. It is a different blend from the other two, with a Pennsylvania Broadleaf wrapper over a Sumatran binder and Dominican filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/blind-mans-bluff-maduro/",
+   "https://halfwheel.com/blind-mans-bluff-maduro-5-x-50/335954/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=485980"
+  ],
+  "notes": "Caldwell rates it 4 of 5 for strength; Neptune calls it medium. Most sources say it is rolled at Tabacalera William Ventura in the Dominican Republic, but a 2024 halfwheel piece placed it at the Diadema factory in Honduras with the other Blind Man's Bluff blends.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "The King Is Dead",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Negrito (2008 crop)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (Corojo, 2006 crop)",
+  "filler": "Dominican Republic (Corojo Ligero, Negrito Viso, HVA 20/20)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Diamond Girl",
+    "length": 6.5,
+    "ring": 42
+   },
+   {
+    "name": "The Last Payday",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Premier",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Broken Sword",
+    "length": 5,
+    "ring": 40
+   },
+   {
+    "name": "Manzanita",
+    "length": 4,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "spice",
+   "milk chocolate",
+   "earth",
+   "maple",
+   "cedar"
+  ],
+  "about": "A Dominican puro and one of Caldwell's three original 2014 lines. It is built around an aged Dominican Negrito wrapper over a Corojo binder.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/the-king-is-dead/",
+   "https://www.smokingpipes.com/cigars/caldwell-cigar-company/moreinfo.cfm?product_id=217239",
+   "https://www.neptunecigar.com/cigar/caldwell-the-king-is-dead"
+  ],
+  "notes": "Caldwell rates it 3 of 5 for strength, but Neptune lists it as Full and Atlantic as Medium-Full. Caldwell's own spec sheet tags the Negrito wrapper as Maduro, while Neptune lists the wrapper color as Natural.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop the maker's 'most distinctive' claim. Blend, sizes and 3 of 5 potency confirmed on Caldwell's page; factory on Neptune; Atlantic lists Medium-Full and Neptune Full."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Savages",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Extra",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Corona Larga",
+    "length": 8,
+    "ring": 45
+   },
+   {
+    "name": "Piramide",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Super Rothschild",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "wood",
+   "earth",
+   "pepper",
+   "chocolate"
+  ],
+  "about": "A 2016 offshoot of Long Live the King with a habano wrapper and band artwork by the Italian artist PixelPancho. The original line ended after the 2022 factory fire and the name has since returned only as small limited editions.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/caldwell-savages-corona-extra/132247/",
+   "https://halfwheel.com/caldwell-crafted-curated-savages-mal-caida-ships/452115/",
+   "https://www.neptunecigar.com/cigar/caldwell-savages"
+  ],
+  "notes": "Caldwell only disclosed the habano wrapper; Neptune lists a Dominican binder with Dominican and Nicaraguan filler. The limited Crafted & Curated editions Savages Mal Caída (2025) and Savages Malpensante (2026) are based on it but are not the same blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Anastasia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin undisclosed)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Caspia",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Kartel",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Opera",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Igor",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "wood",
+   "toffee",
+   "earth"
+  ],
+  "about": "A limited Caldwell line that debuted in 2016 as a collaboration with Ernesto Perez-Carrillo and the follow-up to The Last Tsar. It has come back in several small runs, each told apart by the color of its second band.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/anastasia/",
+   "https://halfwheel.com/anastasia-yellow-label-kartel/412902/",
+   "https://halfwheel.com/anastasia-caspia/133412/"
+  ],
+  "notes": "The blend is secret; Caldwell says only that it is always a Habano. The 2016 original (green band) was rolled at E.P. Carrillo's Tabacalera La Alianza in different sizes. The 2022 Yellow Label, whose sizes are listed here, is a different blend from an undisclosed Dominican factory.",
+  "verified": true,
+  "verifyNotes": "The entry mixed the 2016 original's factory, sizes and flavors with the 2022 Yellow Label's strength. Caldwell's own page lists only Yellow Label, so sizes and flavors now follow that release and factory is null because it is undisclosed for current stock. Added the Habano wrapper from Caldwell's page and Smokingpipes. Strength is Caldwell's 3 of 5; halfwheel found the original mild to medium. Replaced the Smokingpipes link with Caldwell's page."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Midnight Express",
+  "found": true,
+  "officialName": "Eastern Standard Midnight Express",
+  "wrapperLeaf": "Connecticut-seed Arapiraca Maduro (hybrid)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Dominican Republic (Habano)",
+  "filler": "Dominican Republic (Corojo, Criollo '98), Nicaragua (Habano)",
+  "country": "Dominican Republic",
+  "factory": "Tabacalera William Ventura",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5.375,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Piramide",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "cream",
+   "white pepper",
+   "cinnamon",
+   "oak",
+   "earth"
+  ],
+  "about": "The maduro version of Eastern Standard, released in 2016. It used the Eastern Standard filler under the dark hybrid Connecticut and Arapiraca wrapper from The Last Tsar.",
+  "released": 2016,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/caldwell-eastern-standard-midnight-express-robusto/131627/",
+   "https://halfwheel.com/caldwell-bellatto-discontinuing-several-lines-following-the-fire-at-tabacalera-william-ventura/414655/",
+   "https://www.neptunecigar.com/cigar/caldwell-midnight-express"
+  ],
+  "notes": "Caldwell discontinued it after the September 2022 fire at Tabacalera William Ventura. halfwheel and Atlantic call it Medium-Full; Neptune calls it Medium. The country where the wrapper is grown is not published.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Caldwell",
+  "line": "Yellow Cake",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Habano (origin undisclosed); also sold in a Maduro version",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 4,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [],
+  "about": "A short Caldwell cigar that began in 2014 as an event-only release made with tobacco left over from the main lines. It returned in 2025 as a regular release sold in paper five-packs, in Habano and Maduro wrappers.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/yellow-cake/",
+   "https://halfwheel.com/caldwells-yellow-cake-line-expands-for-2025/447851/",
+   "https://halfwheel.com/yellow-cake-maduro-robusto/451538/"
+  ],
+  "notes": "The current blend and factory are undisclosed. The 2014 original was a 4 x 44 with a Dominican Corojo wrapper, rolled at Tabacalera William Ventura. Caldwell's site rates it 3 of 5 and calls it medium bodied; Smokingpipes rates the Habano 2 of 5 and Atlantic lists Medium.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild-Medium to Medium: Caldwell's own page (not used by the researcher) rates it 3 of 5, Atlantic lists Medium and halfwheel's reviewer called it a solid medium; only Smokingpipes shows 2 of 5. Reworded about: sources say event-only, not a giveaway. Swapped the Smokingpipes link for Caldwell's page. Confirmed the maker publishes no country, factory, binder or filler."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "The T",
+  "found": true,
+  "officialName": "The T.",
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Churchill",
+    "length": 5.5,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro Grande",
+    "length": 6.5,
+    "ring": 56
+   },
+   {
+    "name": "Lonsdale",
+    "length": 6.5,
+    "ring": 44
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "cashew",
+   "coffee",
+   "oak",
+   "leather",
+   "citrus"
+  ],
+  "about": "A box-pressed cigar made as a three-way collaboration between Robert Caldwell, Matt Booth of Room101 and A.J. Fernandez, released in 2017 and rolled at Fernandez's factory in Nicaragua. It was first shown as The Truth and renamed over a trademark conflict.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://www.caldwellcigars.com/caldwell/the-t/",
+   "https://halfwheel.com/t-short-churchill/214949/",
+   "https://www.neptunecigar.com/cigar/caldwell-the-t"
+  ],
+  "notes": "Caldwell's own site lists a Mexican San Andrés maduro wrapper, but halfwheel and Neptune described the 2017 release as a Nicaraguan puro, so check before quoting the wrapper. Neptune says the line is discontinued. Connecticut (2018) and Habano (2019) versions followed.",
+  "verified": false,
+  "verifyNotes": "Wrapper changed from Nicaraguan Habano to Mexican San Andrés Maduro following Caldwell's own page, which the researcher did not use; the brief ranks the maker first. Not marked verified because the wrapper is still disputed: halfwheel (2017, 2018) says Nicaraguan-grown, though its 2019 coverage also calls the first release a maduro and the third a habano, so Habano was wrong either way. Country, factory, sizes and strength (Caldwell 4 of 5, Neptune medium to full) confirmed. Replaced the Smokingpipes link, which is the Connecticut version, with Caldwell's page and removed 'Nicaraguan puro' from about."
+ },
+ {
+  "brand": "Caldwell",
+  "line": "All Out Kings",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut-grown Habano (stalk cut and sun cured)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "United States",
+  "binder": "Indonesia (Sumatra)",
+  "filler": "United States (Connecticut Broadleaf Ligero), Dominican Republic (Corojo 97), Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Smash",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Gimme Your Lunch Money",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Foreverlast",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "The Fourth Pose (Torpedo)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "cedar",
+   "walnut",
+   "cream",
+   "red pepper",
+   "earth"
+  ],
+  "about": "A collaboration between Caldwell and Drew Estate, made at Drew Estate in Nicaragua under master blender Willy Herrera. It was shown in 2016 and shipped in March 2017, and uses the same wrapper varietal as Liga Privada T52.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/all-out-kings-smash/146141/",
+   "https://halfwheel.com/caldwell-drew-estate-formally-unveil-all-out-kings/123469/",
+   "https://www.neptunecigar.com/cigar/caldwell-all-out-kings"
+  ],
+  "notes": "Neptune reports the line has been discontinued, and Caldwell no longer lists it on its site.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

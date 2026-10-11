@@ -1,0 +1,759 @@
+[
+  {
+    "brand": "Oscar Valladares",
+    "line": "Leaf by Oscar",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "earth",
+      "sweetness"
+    ],
+    "about": "A Honduran line sold wrapped in a raw tobacco leaf instead of cellophane. Pittsburgh retailer \"Island\" Jim Robinson created it with Oscar Valladares, who makes it at his factory in Danlí.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/leaf-by-oscar-lanceros-and-robustos-go-nationwide/121791/",
+      "https://halfwheel.com/pca-2023-oscar-valladares-tobacco-co/424734/",
+      "https://www.famous-smoke.com/brand/leaf-by-oscar-cigars"
+    ],
+    "notes": "This is the whole line. It comes in four wrappers (Connecticut, Corojo, Maduro, Sumatra) and strength depends on the wrapper. A Criollo 10th Anniversary version was added in 2023. The maker's site lists the lancero as 7 x 48; halfwheel and retailers list 7 x 38.",
+    "verified": true,
+    "verifyNotes": "Wrapper and strength left null on purpose: confirmed on the maker site (oscartobacco.com) that both differ by version. Toro changed from 6 x 50 to 6 x 52 (maker site and both retailers; 6 x 50 only appears in 2015-16 halfwheel articles). Maker site also lists a 6.5 x 52 torpedo (marked Europe only on the Connecticut page) and shows the lancero as 7 x 48, which looks like a typo: halfwheel, Famous Smoke and Neptune all say 7 x 38, so 38 kept. Rest confirmed against halfwheel and Famous Smoke."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "Leaf by Oscar Corojo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "spice",
+      "wood",
+      "citrus",
+      "roasted nuts"
+    ],
+    "about": "The Corojo version of Leaf by Oscar, a Honduran puro that comes wrapped in a raw tobacco leaf instead of cellophane. It is made by Oscar Valladares in Danlí for \"Island\" Jim Robinson's brand.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/leaf-by-oscar-lanceros-and-robustos-go-nationwide/121791/",
+      "https://www.famous-smoke.com/brand-leaf-by-oscar-corojo",
+      "https://oscartobacco.com/cigars/leaf-by-oscar-valladares/leaf-corojo/"
+    ],
+    "notes": "One of four wrapper versions of Leaf by Oscar. Older halfwheel articles list the toro as 6 x 50; the maker and retailers list 6 x 52.",
+    "verified": true,
+    "verifyNotes": "Body blanked: no source opened gives Medium-Full body for the Corojo. Toro changed from 6 x 50 to 6 x 52 per maker and retailers. Strength Medium and Honduran wrapper confirmed on the maker site; replaced the generic Neptune brand link with the maker page."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "Leaf by Oscar Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Jalapa Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "mocha",
+      "pepper",
+      "honey",
+      "earth"
+    ],
+    "about": "The Maduro version of Leaf by Oscar, with a Nicaraguan Jalapa maduro wrapper over Honduran tobacco. Like the rest of the line it comes wrapped in a raw tobacco leaf instead of cellophane.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/leaf-by-oscar-maduro-lancero/101644/",
+      "https://cigar-coop.com/2013/12/cigar-review-leaf-by-oscar-maduro.html",
+      "https://oscartobacco.com/cigars/leaf-by-oscar-valladares/leaf-maduro/"
+    ],
+    "notes": "The maker rates it medium to full. Famous Smoke lists Full and Neptune lists Medium. Older halfwheel articles list the toro as 6 x 50; the maker and retailers list 6 x 52. The 8 x 66 Big Johnny is based on this blend.",
+    "verified": true,
+    "verifyNotes": "Strength Medium-Full now rests on the maker site (Medium to Full) instead of a compromise between retailers. Toro changed from 6 x 50 to 6 x 52. Swapped the Famous Smoke link for the maker page and trimmed flavors to the ones in the Cigar Coop review that is still cited."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "Leaf by Oscar Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "wood",
+      "cream",
+      "pepper",
+      "citrus"
+    ],
+    "about": "The Connecticut version of Leaf by Oscar, the mildest of the four wrappers, over Honduran binder and filler. It comes wrapped in a raw tobacco leaf instead of cellophane.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/leaf-by-oscar-lanceros-and-robustos-go-nationwide/121791/",
+      "https://cigar-coop.com/2014/02/cigar-review-leaf-by-oscar-connecticut.html",
+      "https://oscartobacco.com/cigars/leaf-by-oscar-valladares/leaf-connecticut/"
+    ],
+    "notes": "The maker lists a Honduran wrapper and mild to medium strength. Famous Smoke lists Medium. Neptune and an early Cigar Coop review call the wrapper Ecuadorian Connecticut Shade. Older halfwheel articles list the toro as 6 x 50; the maker and retailers list 6 x 52.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Mild-Medium: the maker site says Mild to Medium (Cigar Coop's review agrees). Maker site confirms the wrapper is Honduran. Toro changed from 6 x 50 to 6 x 52. Swapped the Famous Smoke link for the maker page."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "Leaf by Oscar Sumatra",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "tobacco",
+      "white pepper",
+      "citrus",
+      "milk chocolate",
+      "earth"
+    ],
+    "about": "The Sumatra version of Leaf by Oscar, with an Ecuadorian Sumatra wrapper over Honduran binder and filler. Like the rest of the line it comes wrapped in a raw tobacco leaf instead of cellophane.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/leaf-by-oscar-lanceros-and-robustos-go-nationwide/121791/",
+      "https://cigar-coop.com/2014/06/cigar-review-leaf-by-oscar-sumatra.html",
+      "https://oscartobacco.com/cigars/leaf-by-oscar-valladares/leaf-sumatra/"
+    ],
+    "notes": "Sources disagree on strength: the maker lists Medium, Famous Smoke and Neptune list Full, and Cigar Coop's review rated it medium to full with medium body. Older halfwheel articles list the toro as 6 x 50; the maker and retailers list 6 x 52.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Full to Medium: the maker site lists Medium and the brief says the maker's word wins; Famous Smoke and Neptune do list Full, so this one is a real disagreement worth knowing on the floor. Removed the claim that it is the strongest of the four (the maker rates the Maduro higher). Toro changed from 6 x 50 to 6 x 52. Swapped the Famous Smoke link for the maker page."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "2012 by Oscar Corojo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Sun-grown Honduran Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Honduras",
+    "binder": "Nicaragua",
+    "filler": "Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "roasted nuts",
+      "earth",
+      "graham cracker",
+      "molasses"
+    ],
+    "about": "A box-pressed Honduran cigar with a sun-grown Honduran Corojo wrapper, made by Oscar Valladares in Danlí. The name goes back to his first cigar line from 2012, which he brought back in 2017 for the company's fifth anniversary.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/three-new-sizes-join-2012-oscar/163292/",
+      "https://www.famous-smoke.com/brand-2012-by-oscar-corojo",
+      "https://oscartobacco.com/cigars/2012-by-oscar-valladares/2012-corojo/"
+    ],
+    "notes": "The original 2012 by Oscar came out in 2012; this is the 2017 relaunch, briefly called the Rebirth Edition. The maker, Famous Smoke and Neptune all list Medium. The maker lists the short robusto as 4 x 50; halfwheel and retailers list 4 x 54.",
+    "verified": true,
+    "verifyNotes": "Blend, strength and country confirmed on the maker site. Removed the note that Famous Smoke's description says medium-full (could not confirm it on the page). Swapped the Neptune link for the maker page and dropped the two flavors that came only from Neptune. Short robusto kept at 4 x 54 (halfwheel, Famous Smoke, Neptune) although the maker site shows 4 x 50; the maker's size listings have other apparent typos."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "2012 by Oscar Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Honduras",
+    "filler": "Nicaragua",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "cocoa",
+      "espresso",
+      "oak",
+      "pepper",
+      "earth"
+    ],
+    "about": "The maduro version of the box-pressed 2012 by Oscar line, with a Mexican San Andrés wrapper over a Honduran binder. Oscar Valladares makes it in Danlí, Honduras.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/three-new-sizes-join-2012-oscar/163292/",
+      "https://www.famous-smoke.com/brand-2012-by-oscar-san-andres",
+      "https://oscartobacco.com/cigars/2012-by-oscar-valladares/2012-maduro/"
+    ],
+    "notes": "Some retailers sell it as 2012 by Oscar San Andres. The maker lists Nicaraguan filler and medium to full strength; halfwheel's 2017 launch coverage listed Honduran and Nicaraguan filler, and Famous Smoke lists Medium. The maker lists the short robusto as 4 x 50; halfwheel and retailers list 4 x 54.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Medium-Full (maker site says Medium to Full; Medium came from one retailer). Filler changed from 'Honduras, Nicaragua' to 'Nicaragua' per the maker site; halfwheel and Cigar Coop reported Honduras and Nicaragua at the 2017 launch, so the disagreement is in notes. Swapped the Cigar Coop link for the maker page. Short robusto kept at 4 x 54 against the maker's 4 x 50."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "2012 by Oscar Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Connecticut seed",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "almonds",
+      "butter",
+      "white pepper"
+    ],
+    "about": "The Connecticut version of the box-pressed 2012 by Oscar line, with a Honduran-grown Connecticut-seed wrapper over a Honduran binder and Honduran and Nicaraguan filler. Oscar Valladares makes it in Danlí, Honduras.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/three-new-sizes-join-2012-oscar/163292/",
+      "https://www.famous-smoke.com/brand-2012-by-oscar-connecticut-shade",
+      "https://oscartobacco.com/cigars/2012-by-oscar-valladares/2012-connecticut/"
+    ],
+    "notes": "The maker lists a Honduran wrapper and Mild strength. Retailers disagree: Famous Smoke lists an Ecuadorian Connecticut wrapper and Medium, Neptune lists U.S. Connecticut Shade and Mild. The maker lists the short robusto as 4 x 50; halfwheel and retailers list 4 x 54.",
+    "verified": true,
+    "verifyNotes": "Wrapper origin filled in as Honduras and strength changed from Mild-Medium to Mild, both from the maker site, which the researcher had not used. Flavor 'cream' replaced with 'butter' (Famous Smoke says buttery sweetness, not cream). Dropped 'the mildest version' from about: the maker also rates the 2012 Sumatra Mild. Swapped the Neptune link for the maker page. Short robusto kept at 4 x 54 against the maker's 4 x 50."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "Super Fly",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Honduras (Copán)",
+    "filler": "Dominican Republic, Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Super Corona",
+        "length": 5.25,
+        "ring": 45
+      },
+      {
+        "name": "Super Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Super Gordo",
+        "length": 6.5,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "earth",
+      "sweet spice",
+      "coffee",
+      "pepper",
+      "cream"
+    ],
+    "about": "A line from Oscar Valladares launched in 2019 and billed by the company as its strongest blend at the time. It was the first Valladares cigar to use Dominican tobacco.",
+    "released": 2019,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/oscar-valladares-gets-super-fly-with-strongest-blend-yet-set-for-ipcpr-debut/360854/",
+      "https://www.famous-smoke.com/brand-super-fly-by-oscar-valladares",
+      "https://oscartobacco.com/cigars/super-fly-by-oscar-valladares-family/super-fly/"
+    ],
+    "notes": "The maker calls it strong and full bodied. Famous Smoke lists Full, Neptune lists Medium, and halfwheel's review found it medium-full. A separate Super Fly Connecticut with a Honduran Connecticut wrapper also exists.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium-Full to Full and body set to Full: the maker site says 'Strength: Strong' and 'Full Bodied Cigar', and Famous Smoke lists Full. Removed 'named after the 1972 film' and the 2020 date for the Connecticut version, neither of which is stated on a page I opened. Swapped the halfwheel review link for the maker page."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "Altar Q",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Honduras (Copán)",
+    "filler": "Honduras (Copán)",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "nuts",
+      "spice"
+    ],
+    "about": "A Honduran toro named after Altar Q, a Mayan monument at Copán in western Honduras. Each box holds 16 cigars, and each one wears a different band showing one of the 16 rulers carved on the altar.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/oscar-valladares-honors-honduran-heritage-with-altar-q/269808/",
+      "https://www.famous-smoke.com/brand-altar-q-by-oscar-valladares",
+      "https://www.neptunecigar.com/oscar-valladares-cigar"
+    ],
+    "notes": "Sold in one size only. The full name on the box is Altar Q by Oscar Valladares.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "McFly",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Honduras",
+    "filler": "Dominican Republic, Honduras, Nicaragua",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 48
+      },
+      {
+        "name": "Sixty",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "roasted nuts",
+      "citrus",
+      "earth",
+      "cedar"
+    ],
+    "about": "A follow-up to Super Fly from Oscar Valladares, themed on Back to the Future with a holographic 1980s-style box. It uses a Mexican wrapper over a Honduran binder and filler from three countries.",
+    "released": 2021,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/oscar-valladares-mcfly-toro/405290/",
+      "https://www.famous-smoke.com/brand-mcfly-by-oscar",
+      "https://oscartobacco.com/cigars/mcfly/"
+    ],
+    "notes": "The maker rates it medium to full; Famous Smoke and Neptune list Medium. Halfwheel lists the wrapper only as Mexican; the maker and Famous Smoke specify San Andrés.",
+    "verified": true,
+    "verifyNotes": "Strength changed from Medium to Medium-Full: the maker site says Medium to Full (halfwheel's review also ends near medium-full). Maker site confirms the Mexican San Andrés wrapper and all three sizes. Swapped the Neptune link for the maker page."
+  },
+  {
+    "brand": "Oscar Valladares",
+    "line": "Island Jim No. 2",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Jalapa Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "Oscar Valladares Tobacco & Co.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Torpedo",
+        "length": 6.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [],
+    "about": "A torpedo made to look like a No. 2 pencil, with a dark tip, a light stripe below it and a shaggy foot. It is \"Island\" Jim Robinson's own brand, made and sold by Oscar Valladares Tobacco & Co. in Honduras.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/ipcpr-2015-oscar-valladares-tobacco-co/92961/",
+      "https://halfwheel.com/island-jim-barber-pole-two/452545/",
+      "https://www.neptunecigar.com/island-jim-cigar"
+    ],
+    "notes": "The blend was kept secret at launch. Halfwheel reports a Jalapa habano wrapper and in 2018 described the core as Honduran, but its 2025 review calls the binder and filler undisclosed. Neptune lists Honduran binder and filler and sells it as Island Jim Corojo #2. Strength is from Neptune only.",
+    "verified": true,
+    "verifyNotes": "Fields confirmed against halfwheel (2015, 2018 and 2025 pieces) and Neptune. Reworded notes: the 6 x 52 listings on halfwheel are for the later San Andrés and Barber Pole versions, not this cigar, so that sentence was removed. Binder and filler kept as Honduras (halfwheel 2018 and Neptune) but treat as soft, since halfwheel's 2025 review calls them undisclosed. No maker page found for this line."
+  },
+  {
+    "brand": "Ozgener Family",
+    "line": "Bosphorus",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano 2000",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador (Connecticut seed), Nicaragua (Jalapa)",
+    "filler": "Nicaragua (Estelí, Jalapa, Ometepe)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (Casa Carrillo)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "B50",
+        "length": 4,
+        "ring": 50
+      },
+      {
+        "name": "B52",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "B54",
+        "length": 6.5,
+        "ring": 54
+      },
+      {
+        "name": "B55",
+        "length": 5.5,
+        "ring": 55
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "cocoa",
+      "coffee",
+      "nutmeg",
+      "leather",
+      "toffee"
+    ],
+    "about": "The first line from Tim Ozgener, son of CAO founder Cano Ozgener, named for the strait in Turkey. It is a box-pressed cigar with two binders, made at Ernesto Perez-Carrillo's factory in the Dominican Republic.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://ozfamilycigars.com/bosphorus/",
+      "https://halfwheel.com/ozgener-moves-production-of-bosphorus-to-tabacalera-la-alianza/415550/",
+      "https://halfwheel.com/ozgener-family-cigars-bosphorus-b-55/414140/"
+    ],
+    "notes": "The company now goes by OZ Family Cigars. The first 2022 batches were made at Tabacalera Pichardo in Nicaragua with an Ecuadorian Sumatra wrapper; production moved to La Alianza with a Habano 2000 wrapper in late 2022. Some retailers still describe the old blend or list it as Medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Ozgener Family",
+    "line": "Aramas",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Ecuador (Sumatra)",
+    "filler": "Nicaragua, Dominican Republic, USA (Connecticut Broadleaf)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (Casa Carrillo)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "A52",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "A54 (torpedo)",
+        "length": 6.25,
+        "ring": 54
+      },
+      {
+        "name": "A55",
+        "length": 5.5,
+        "ring": 55
+      },
+      {
+        "name": "A60",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "roasted nuts",
+      "dark chocolate",
+      "black pepper",
+      "powdered sugar",
+      "oak",
+      "espresso"
+    ],
+    "about": "The second regular line from Tim Ozgener's company, made with Ernesto Perez-Carrillo in the Dominican Republic. The name blends Ararat and Masis, two names for the same mountain, as a nod to Cano Ozgener's Armenian roots.",
+    "released": 2023,
+    "production": "regular",
+    "sources": [
+      "https://ozfamilycigars.com/aramas/",
+      "https://halfwheel.com/aramas-a55/428742/",
+      "https://www.neptunecigar.com/ozgener-family-cigars-cigar"
+    ],
+    "notes": "The company now goes by OZ Family Cigars. The maker lists it as medium-full; Neptune lists Medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Ozgener Family",
+    "line": "Pi Synesthesia",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador (Habano)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Pichardo",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cashew",
+      "charred wood",
+      "spice"
+    ],
+    "about": "A limited edition toro from Tim Ozgener's company, named after a series of paintings by his late father, CAO founder Cano Ozgener. The original 2022 release was limited to 2,500 boxes.",
+    "released": 2022,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/ozgeners-limited-edition-pi-synesthesia-arrives-at-stores/413876/",
+      "https://www.famous-smoke.com/brand-oz-family-pi-synesthesia",
+      "https://www.neptunecigar.com/ozgener-family-cigars-cigar"
+    ],
+    "notes": "Specs are for the original 2022 release, which has a yellow ribbon at the foot. Later Red (2023) and Brown (2024) editions are different blends; the Red is made in the Dominican Republic. Neptune lists the original as Medium, while Famous Smoke's description calls it mellow. The company now goes by OZ Family Cigars.",
+    "verified": true,
+    "verifyNotes": "Blend, factory, country and box count confirmed on halfwheel. Notes corrected: only the Red edition is confirmed as Dominican-made (Famous Smoke lists the Brown as Nicaraguan, Neptune as Dominican). Strength Medium rests on Neptune alone; Famous Smoke's text for the 2022 release says mellow and the maker site no longer lists this cigar."
+  }
+]

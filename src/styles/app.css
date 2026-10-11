@@ -2669,6 +2669,160 @@ input[type="date"].input {
   font-weight: 600;
 }
 
+/* ---------- Cigar page: everything about one cigar, in clear sections ---------- */
+
+.checked-line {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+  color: var(--cedar);
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+
+.info-grid {
+  display: grid;
+  gap: var(--s5);
+  align-items: start;
+}
+
+.meter {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s1);
+}
+
+.meter + .meter {
+  margin-top: var(--s3);
+}
+
+.meter-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s3);
+}
+
+.meter-label {
+  font-size: var(--text-sm);
+  color: var(--text-2);
+}
+
+.meter-value {
+  font-size: var(--text-lg);
+  font-weight: 600;
+}
+
+.meter-track {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 3px;
+}
+
+.meter-step {
+  height: 12px;
+  border-radius: 2px;
+  background: var(--hairline);
+}
+
+.meter-step.is-on {
+  animation: fade 500ms var(--ease) both;
+}
+
+.meter-step.is-on[data-level="1"] {
+  background: var(--strength-1);
+}
+.meter-step.is-on[data-level="2"] {
+  background: var(--strength-2);
+}
+.meter-step.is-on[data-level="3"] {
+  background: var(--strength-3);
+}
+.meter-step.is-on[data-level="4"] {
+  background: var(--strength-4);
+}
+.meter-step.is-on[data-level="5"] {
+  background: var(--strength-5);
+}
+
+.meter-ends {
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--text-xs);
+  color: var(--text-2);
+}
+
+/* Label on the left, value on the right, one fact per line. */
+.spec {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.spec > div {
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  gap: var(--s3);
+  padding: var(--s2) 0;
+}
+
+.spec > div + div {
+  border-top: 1px solid var(--hairline);
+}
+
+.spec dt {
+  font-size: var(--text-sm);
+  color: var(--text-2);
+}
+
+.spec dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.leaf-dot-inline {
+  display: inline-block;
+  margin-right: var(--s2);
+  vertical-align: baseline;
+}
+
+.sizes {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.sizes th,
+.sizes td {
+  padding: var(--s2) var(--s2) var(--s2) 0;
+  text-align: left;
+  font-weight: 400;
+}
+
+.sizes thead th {
+  font-size: var(--text-xs);
+  color: var(--text-2);
+}
+
+.sizes tbody tr {
+  border-top: 1px solid var(--hairline);
+}
+
+.sizes td {
+  white-space: nowrap;
+}
+
+.sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2) var(--s4);
+}
+
+.sources a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+}
+
 /* ---------- Pieces that rearrange when there is room ---------- */
 
 .pick-tools,
@@ -2947,6 +3101,14 @@ input[type="date"].input {
 
   .detail-bar {
     display: none;
+  }
+
+  /* The fact sections sit two across once the pane is wide enough. */
+  @container (min-width: 640px) {
+    .info-grid {
+      grid-template-columns: 1fr 1fr;
+      column-gap: var(--s10);
+    }
   }
 
   /* Photo beside the details once the pane is wide enough. */

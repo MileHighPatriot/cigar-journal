@@ -7,7 +7,7 @@ import { Sheet } from '../components/Sheet'
 import { newCigar, newSmoke } from '../data/factories'
 import { getRepo, logPath, saveBatch, useStore } from '../data/store'
 import type { Cigar } from '../data/types'
-import { cigarSubtitle, cigarTitle } from '../domain/format'
+import { cigarSubtitle, cigarTitle, fold } from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
 import { levelLabel } from '../domain/scoring'
 import { searchCigars } from '../domain/search'
@@ -92,10 +92,10 @@ export function LogPicker() {
     () => searchCigars(state.cigars.values(), query).slice(0, 60),
     [state.cigars, query],
   )
-  const lowerQuery = query.trim().toLowerCase()
+  const lowerQuery = fold(query.trim())
   const humidorShown = searching
     ? humidorRows.filter(({ cigar }) =>
-        `${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`.toLowerCase().includes(lowerQuery),
+        fold(`${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`).includes(lowerQuery),
       )
     : humidorRows
 

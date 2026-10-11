@@ -1,0 +1,784 @@
+[
+ {
+  "brand": "5 Vegas",
+  "line": "Gold",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Nicaragua, Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Nugget",
+    "length": 4.5,
+    "ring": 44
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Double Nickel",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Bullion",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "No. 1",
+    "length": 7.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "pepper"
+  ],
+  "about": "A mellow Connecticut-wrapped cigar made in Honduras by Plasencia, using tobaccos said to be aged five years.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigars/5-vegas-gold-double-nickel",
+   "https://www.neptunecigar.com/cigars/5-vegas-gold-robusto",
+   "https://mikescigars.com/brands/5-vegas-gold"
+  ],
+  "notes": "Retailers split on strength: Neptune lists Medium, Mike's Cigars and CigarsDirect list Mild to Medium. Sources name Plasencia as the maker but not a specific factory.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "5 Vegas",
+  "line": "Classic",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Fifty Five",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Panatela",
+    "length": 6,
+    "ring": 38
+   },
+   {
+    "name": "Double Corona",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "The Judge",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "nuts",
+   "coffee",
+   "cream"
+  ],
+  "about": "The original 5 Vegas blend, a medium-strength cigar made in Nicaragua with a Sumatra wrapper over Nicaraguan and Dominican tobaccos.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.holts.com/cigars/all-cigar-brands/5-vegas.html",
+   "https://www.neptunecigar.com/cigars/5-vegas-classic-torpedo",
+   "https://www.cigarsdirect.com/collections/5-vegas-classic"
+  ],
+  "notes": "Holts sells this simply as 5 Vegas. Sources do not say where the Sumatra wrapper is grown. Holts and Neptune list Dominican and Nicaraguan filler, while CigarsDirect lists all Nicaraguan. Neptune names Plasencia as the maker.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop an unsupported claim. Swapped the Neptune line page, which no longer shows specs, for the CigarsDirect page that lists the Fifty Five, Panatela and The Judge sizes."
+ },
+ {
+  "brand": "5 Vegas",
+  "line": "Series A",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Costa Rican Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Costa Rica",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Artisan",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Archetype",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "earth",
+   "sweet spice"
+  ],
+  "about": "A darker 5 Vegas line with a Costa Rican maduro wrapper over a Nicaraguan binder and filler from three countries. It smokes medium to full with notes of dark chocolate and earth.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigars/5-vegas-series-a-artisan-5--52",
+   "https://www.cigarsdirect.com/collections/5-vegas-series-a",
+   "https://stogiereview.com/2006/05/03/5-vegas-series-a-archetype-toro/"
+  ],
+  "notes": "Neptune's spec table rates it Medium, while its description, CigarsDirect and Stogie Review say medium to full. Neptune lists Nicaragua as the origin; an older Stogie Review guest review said Honduras. More sizes exist than the two listed here. On sale by 2006.",
+  "verified": true,
+  "verifyNotes": "Filled the blank blend from Neptune's Artisan size page: Costa Rican maduro wrapper, Nicaraguan binder, three-country filler, made in Nicaragua. Added the Artisan size. Replaced the Neptune line page and the 2009 guest review as sources. Other sizes exist but could not be opened on a source page, so they are left out."
+ },
+ {
+  "brand": "5 Vegas",
+  "line": "Triple-A",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Triple-A",
+    "length": 5,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A full-bodied 5 Vegas blend built on Nicaraguan ligero filler under a triple-fermented Pennsylvania Broadleaf maduro wrapper. It is also written as AAA.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigar/5-vegas-triple-a",
+   "https://www.neptunecigar.com/cigars/5-vegas-triple-a",
+   "https://blindmanspuff.com/5-vegas-aaa-special-edition-lancero/"
+  ],
+  "notes": "Also sold as 5 Vegas AAA. Neptune's spec table says Connecticut Broadleaf, but its line description and Blind Man's Puff say Pennsylvania Broadleaf. Factory disagrees: Blind Man's Puff credits AJ Fernandez (Tabacalera Fernandez) on the AAA lancero, Neptune lists Plasencia.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "5 Vegas",
+  "line": "Miami",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "USA",
+  "factory": "G.R. Tabacaleras Unidas",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "earth",
+   "leather",
+   "toast",
+   "oak",
+   "spice"
+  ],
+  "about": "A full-bodied 5 Vegas line made in the United States with an Ecuadorian Habano wrapper over Nicaraguan tobaccos. The 2014 version was blended by George Rico.",
+  "released": null,
+  "production": null,
+  "sources": [
+   "https://www.neptunecigar.com/cigars/5-vegas-miami-robusto",
+   "https://www.neptunecigar.com/cigar/5-vegas-miami",
+   "https://blindmanspuff.com/blind-cigar-review-5-vegas-miami-2014-g-r-version-toro/"
+  ],
+  "notes": "Blend and factory are for the 2014 version by George Rico, per Blind Man's Puff. That review calls it the 2014 version, so older 5 Vegas Miami cigars may be a different blend. Blind Man's Puff rated the 2014 Toro medium in strength, while Neptune lists Full.",
+  "verified": true,
+  "verifyNotes": "Removed the unverified claim that the line was on sale by 2009; no opened page gives that date."
+ },
+ {
+  "brand": "601",
+  "line": "Blue Label Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Prominente",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Short Churchill",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "spice"
+  ],
+  "about": "A semi box-pressed Nicaraguan cigar from Espinosa with a dark Connecticut Broadleaf maduro wrapper over Nicaraguan binder and filler. Espinosa describes it as a mix of sweetness and spice.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/601-blue-maduro/",
+   "https://www.neptunecigar.com/cigar/601-maduro",
+   "https://halfwheel.com/601-blue-20th-anniversary-2/473692/"
+  ],
+  "notes": "Espinosa calls it 601 Blue Maduro. The 601 brand debuted in 2006 with blends made by Pepin Garcia; Espinosa took it over in 2012. Neptune lists La Zona as the maker, but the 2026 Blue 20th Anniversary is made at AJ Fernandez's San Lotano factory, so the factory for current boxes may differ.",
+  "verified": true,
+  "verifyNotes": "Blanked released: halfwheel says the 601 brand debuted in 2006 but no opened page dates the Blue Maduro itself. Removed the unsupported 'best-known' claim from about and the unsourced 2012 factory move from notes. Swapped one halfwheel news link for Neptune's 601 Maduro page, which backs the strength, country, factory and Gordo size."
+ },
+ {
+  "brand": "601",
+  "line": "Red Label Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Torpedo",
+    "length": 6.25,
+    "ring": 52
+   },
+   {
+    "name": "Trabuco",
+    "length": 6.25,
+    "ring": 58
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "honey",
+   "licorice",
+   "nuts",
+   "pepper"
+  ],
+  "about": "The Habano-wrapped 601 from Espinosa, with Nicaraguan binder and filler. It placed number 14 on Cigar Aficionado's Top 25 list for 2017.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/601-red-label-habano/",
+   "https://www.neptunecigar.com/cigar/601-habano",
+   "https://halfwheel.com/espinosa-cigars-overhauls-601-brand-adds-five-new-lines/127544/"
+  ],
+  "notes": "Espinosa lists an Ecuadorian Habano wrapper, while Neptune and CigarsDirect list a Nicaraguan wrapper. Neptune rates it Full, CigarsDirect medium-full. Factory disagrees: Neptune lists La Zona, CigarsDirect says AJ Fernandez now makes it at San Lotano.",
+  "verified": true,
+  "verifyNotes": "Fixed notes: CigarsDirect rates it medium-full, not medium, and it says the cigar is now made at San Lotano, which conflicts with Neptune's La Zona. Trimmed marketing wording from about."
+ },
+ {
+  "brand": "601",
+  "line": "Green Label Oscuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Tronco",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "La Fuerza",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "La Punta",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Trabuco",
+    "length": 6.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "spice"
+  ],
+  "about": "An all-Nicaraguan cigar from Espinosa with a thick, dark oscuro wrapper. Espinosa calls it the fullest-bodied blend in the 601 range and not one for new smokers.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/601-green-oscuro/",
+   "https://www.neptunecigar.com/cigar/601-oscuro",
+   "https://www.cigarsdirect.com/collections/601-green-label-oscuro"
+  ],
+  "notes": "Espinosa calls it 601 Green Oscuro and lists the wrapper only as Nicaraguan. Retailers describe it as Habano Oscuro. CigarsDirect rates it medium-full, below the maker's own description. Some recent 601 releases are made at AJ Fernandez's San Lotano factory rather than La Zona.",
+  "verified": true,
+  "verifyNotes": "Fixed notes: CigarsDirect rates it medium-full, not medium to medium-full. Swapped the halfwheel news link for Neptune's 601 Oscuro page, which backs the Habano wrapper, country and full strength."
+ },
+ {
+  "brand": "601",
+  "line": "La Bomba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Sake Bomb",
+    "length": 4.5,
+    "ring": 42
+   },
+   {
+    "name": "Atom",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Napalm",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Nuclear",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Atomic",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "F-Bomb",
+    "length": 7,
+    "ring": 70
+   }
+  ],
+  "flavors": [
+   "spice",
+   "black pepper"
+  ],
+  "about": "A Nicaraguan puro from Espinosa with a habano wrapper and a long pigtail cap styled as a bomb fuse. It is sold as a very strong, spicy cigar for experienced smokers.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/601-la-bomba/",
+   "https://halfwheel.com/espinosa-releases-limited-run-of-sake-bomb-and-alpha-dawg-lanceros/387474/",
+   "https://halfwheel.com/601-la-bomba-bunker-buster/60769/"
+  ],
+  "notes": "The Sake Bomb size uses a tweaked, stronger filler. The Warhead releases are separate limited editions, and recent ones are made at AJ Fernandez's San Lotano factory.",
+  "verified": true,
+  "verifyNotes": "Fixed notes: removed the claim that Warhead releases use broadleaf wrappers, since halfwheel describes Warhead X as a Nicaraguan puro."
+ },
+ {
+  "brand": "Acid",
+  "line": "Kuba Kuba",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Kuba Kuba",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "herbal",
+   "floral"
+  ],
+  "about": "A 5 x 54 infused robusto from Drew Estate's ACID Blue line and one of the best-selling ACID cigars. It is mild, sweet and very aromatic.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://www.neptunecigar.com/cigars/acid-kuba-kuba",
+   "https://halfwheel.com/drew-estate-adds-6-60-kuba-grande/38926/"
+  ],
+  "notes": "One size in the ACID Blue line. Larger versions are Kuba Deluxe (6 x 50) and Kuba Grande (6 x 60). Drew Estate does not publish the blend or the infusion; the Sumatra wrapper comes from retailers. CigarsDirect rates it mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Acid",
+  "line": "Blondie",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Blondie",
+    "length": 4,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "herbal",
+   "floral"
+  ],
+  "about": "A small 4 x 38 infused cigar from Drew Estate's ACID Blue line with a Connecticut wrapper. It is one of the mainstay ACID cigars.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://www.neptunecigar.com/cigars/acid-blondie",
+   "https://halfwheel.com/drew-estates-expands-acid-portfolio-candela-new-blondie-sizes/161243/"
+  ],
+  "notes": "One size in the ACID Blue line. Blondie Belicoso (5 x 54), Blondie Maduro, Candela, Gold and Red are separate versions. Drew Estate does not publish the blend or infusion. Neptune lists the wrapper as U.S. Connecticut Shade; halfwheel only says Connecticut.",
+  "verified": true,
+  "verifyNotes": "Softened an unsupported popularity claim in about."
+ },
+ {
+  "brand": "Acid",
+  "line": "Toast",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toast",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "spice",
+   "cinnamon",
+   "nutmeg"
+  ],
+  "about": "A maduro-wrapped infused toro from Drew Estate and the first ACID Subculture blend sold nationwide. It is known for sweetness with cinnamon and nutmeg notes.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cigars/acid-toast",
+   "https://drewestate.com/products/acid/acid-subculture/",
+   "https://halfwheel.com/drew-estate-ships-new-five-packs/369674/"
+  ],
+  "notes": "Part of ACID Subculture, not ACID Blue. Retailers list it at 6 x 50, while a halfwheel news item lists 6 x 52. Drew Estate does not publish the blend; wrapper and binder come from Neptune. CigarsDirect rates it mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Acid",
+  "line": "Cold Infusion",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Cold Infusion",
+    "length": 6.75,
+    "ring": 44
+   }
+  ],
+  "flavors": [],
+  "about": "A slim 6 3/4 x 44 infused cigar from Drew Estate's ACID Gold line with a Connecticut Shade wrapper. Some retailers sell it as Cold Infusion Tea.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-gold/",
+   "https://www.neptunecigar.com/cigars/acid-cold-infusion-tea",
+   "https://halfwheel.com/drew-estate-ships-new-five-packs/369674/"
+  ],
+  "notes": "One size in the ACID Gold line, which retailers also call ACID Yellow or Holistics. Drew Estate does not publish the blend or infusion. Neptune lists the wrapper as U.S. Connecticut Shade. CigarsDirect rates it mild to medium. Drew Estate lists 6 3/4 x 44, while a halfwheel news item lists 7 x 44.",
+  "verified": true,
+  "verifyNotes": "Added a size disagreement to notes: halfwheel's five-pack news item lists it at 7 x 44."
+ },
+ {
+  "brand": "Acid",
+  "line": "Kuba Maduro",
+  "found": true,
+  "officialName": "Kuba Kuba Maduro",
+  "wrapperLeaf": "Connecticut Broadleaf Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Kuba Kuba Maduro",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "chocolate"
+  ],
+  "about": "The maduro version of ACID Kuba Kuba, a 5 x 54 infused robusto from Drew Estate's ACID Blue line. It pairs the same sweet infusion with a dark broadleaf wrapper.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://www.neptunecigar.com/cigars/acid-kuba-maduro",
+   "https://halfwheel.com/drew-estate-ships-new-five-packs/369674/"
+  ],
+  "notes": "Drew Estate lists it as Kuba Kuba Maduro; halfwheel and some retailers shorten it to Kuba Maduro. One size in the ACID Blue line. Drew Estate does not publish the blend; the wrapper comes from retailers. CigarsDirect rates it mild to medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Acid",
+  "line": "1400cc",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "1400cc",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet",
+   "herbal",
+   "floral"
+  ],
+  "about": "A 5 x 50 infused robusto from Drew Estate's ACID Blue line that comes packed in a glass tube. It has a Connecticut Shade wrapper and a mild, sweet profile.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-blue/",
+   "https://www.neptunecigar.com/cigars/acid-1400cc",
+   "https://www.cigarsdirect.com/products/drew-estate-acid-1400cc"
+  ],
+  "notes": "One size in the ACID Blue line. Drew Estate does not publish the blend or infusion. Neptune and CigarsDirect list a U.S. Connecticut Shade wrapper. Neptune rates it mild, CigarsDirect medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Acid",
+  "line": "20 Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Gran Fabrica Drew Estate",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "nuts",
+   "coffee",
+   "spice"
+  ],
+  "about": "A Connecticut-wrapped follow-up to ACID 20, the infused cigar Drew Estate made for the brand's 20th anniversary. It has a sweetened cap and comes in a single toro size.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://drewestate.com/products/acid/acid-20/",
+   "https://halfwheel.com/acid-20-connecticut-toro/407612/",
+   "https://www.neptunecigar.com/cigars/acid-20-connecticut-toro"
+  ],
+  "notes": "Size disagrees: Drew Estate and Mike's Cigars list the Toro at 6 x 50, while halfwheel and Neptune list 6 x 54. Halfwheel gives an Ecuadorian Connecticut wrapper, Neptune lists U.S. Connecticut Shade. Retailers rate it medium, though halfwheel's reviewer found almost no nicotine strength. The infusion is not disclosed.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Mild-Medium to Medium: Neptune, Mike's Cigars and CigarsDirect all list Medium and no opened page says mild to medium. Updated notes to match."
+ }
+]

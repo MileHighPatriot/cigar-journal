@@ -1,0 +1,708 @@
+[
+ {
+  "brand": "Davidoff",
+  "line": "Signature",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Ecuador (Hybrid 151 Seco)",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "1000",
+    "length": 4.625,
+    "ring": 34
+   },
+   {
+    "name": "2000",
+    "length": 5.0625,
+    "ring": 43
+   },
+   {
+    "name": "6000",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "No. 2",
+    "length": 6,
+    "ring": 38
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 41
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Ambassadrice",
+    "length": 4.5,
+    "ring": 26
+   },
+   {
+    "name": "Exquisitos",
+    "length": 3.625,
+    "ring": 22
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "earth"
+  ],
+  "about": "Davidoff's classic mild white band line, rolled in the Dominican Republic with an Ecuadorian Connecticut wrapper. The 2000 corona is the company's best-selling cigar worldwide.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-signature-no-1-limited-edition/421352/",
+   "https://halfwheel.com/ipcpr-2016-davidoff-of-geneva-usa/124978/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "The Signature name arrived in 2016 and took in older Classic cigars (the Signature No. 1 is the former Classic No. 1). Binder is listed as Ecuadorian by halfwheel (2023) and Neptune, Dominican by older listings. halfwheel's 2016 launch report called the wrapper Ecuadorian Sun Grown. Neptune's spec table says medium strength.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Mild-Medium to Mild: Davidoff's own product page says 'mild intensity' (1.5 of 5 on its store), and Holt's and Famous also say mild. 2000 length changed from 5 to 5 1/16 per Davidoff's store (5.06 in, 12.9 cm). Notes rewritten: dropped the unsourced 'since 1990' clause, added the 2016 Sun Grown wrapper report. All eight sizes confirmed on store.davidoffgeneva.com."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Grand Cru",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 5",
+    "length": 4,
+    "ring": 41
+   },
+   {
+    "name": "No. 3",
+    "length": 5.0625,
+    "ring": 43
+   },
+   {
+    "name": "No. 2",
+    "length": 5.625,
+    "ring": 43
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "oak",
+   "licorice",
+   "spice",
+   "cream"
+  ],
+  "about": "A mild white band Davidoff line made in the Dominican Republic with an Ecuadorian Connecticut wrapper over Dominican tobaccos. Davidoff ties it to Zino Davidoff's 1946 idea of blending cigars the way fine Bordeaux wines are blended.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://us.davidoffgeneva.com/product/davidoff-grand-cru-no-2",
+   "https://halfwheel.com/ipcpr-2016-davidoff-of-geneva-usa/124978/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "The Robusto and Toro were added in 2016; the numbered sizes are older.",
+  "verified": true,
+  "verifyNotes": "No. 3 length changed from 5 to 5 1/16 per Davidoff's store (5.06 in, 12.9 cm); Neptune rounds it to 5. Factory confirmed from halfwheel's Grand Cru Diademas Finas review (halfwheel.com/davidoff-grand-cru-diademas-finas-limited-edition-collection/442821/). Everything else checked out."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Aniversario",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Entreacto",
+    "length": 3.5,
+    "ring": 43
+   },
+   {
+    "name": "Special R",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Short Perfecto",
+    "length": 4.875,
+    "ring": 52
+   },
+   {
+    "name": "No. 3",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Special T",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double R",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "leather",
+   "nuts",
+   "black pepper",
+   "spice"
+  ],
+  "about": "A white band Davidoff line first created in 1986 for Zino Davidoff's 80th birthday and made in the Dominican Republic since the early 1990s. It uses an Ecuadorian Connecticut wrapper and is offered in larger formats than the Signature line.",
+  "released": 1986,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-discontinues-puro-doro-aniversario-no-2/110875/",
+   "https://us.davidoffgeneva.com/discover/white-band-collection",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "The 1986 original was Cuban-made; Dominican production began in 1990. Davidoff calls it medium intensity; Holt's rates it mild, Famous mild to medium, Neptune medium. halfwheel listed an Ecuadorian binder for the 2023 No. 1 Limited Edition, while retailers list a Dominican binder for the regular line.",
+  "verified": true,
+  "verifyNotes": "Notes corrected: Famous says mild to medium, not medium, and added Davidoff's own 'medium-intense' wording. All six sizes confirmed on Davidoff's store. No spec fields changed."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Millennium",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Hybrid 151",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 41
+   },
+   {
+    "name": "Short Robusto",
+    "length": 4.25,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Piramides",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "leather",
+   "earth",
+   "oak",
+   "nutmeg"
+  ],
+  "about": "The strongest of the four lines in Davidoff's White Band Collection, built around an Ecuadorian hybrid wrapper the company calls 151. It was introduced in 2001 as a regular production follow-up to the Millennium Collection released for the year 2000.",
+  "released": 2001,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-millennium-lancero-limited-edition-collection-launches-today/422053/",
+   "https://halfwheel.com/davidoff-millenium-ii/417508/",
+   "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html"
+  ],
+  "notes": "Long sold as the Millennium Blend Series. Sources disagree on the binder: halfwheel's 2023 Lancero story and Neptune say Mexican, an earlier halfwheel review says Dominican seco. Davidoff calls it medium intensity. Holt's lists the wrapper as Ecuador Connecticut.",
+  "verified": true,
+  "verifyNotes": "Removed the claim that Famous lists it as full: Famous's Davidoff page calls it medium-bodied. Reworded 'about' (dropped 'dark' and 'fullest', which no source states that way). Binder left as Mexico but it is genuinely disputed, and Davidoff's store lists only Dominican and Ecuadorian tobacco for the regular sizes; treat the binder as uncertain. Sizes confirmed on Davidoff's store."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Winston Churchill",
+  "found": true,
+  "officialName": "Winston Churchill The Original Series",
+  "wrapperLeaf": "Ecuadorian Habano Rojiza",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés)",
+  "filler": "Dominican Republic (Piloto, Olor/Piloto hybrid), Nicaragua (Condega, Estelí)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Panetela",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 41
+   },
+   {
+    "name": "Belicoso",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 6.875,
+    "ring": 47
+   }
+  ],
+  "flavors": [
+   "cream",
+   "black coffee",
+   "spice",
+   "cedar",
+   "dried fruit"
+  ],
+  "about": "Davidoff's tribute line to Sir Winston Churchill, rolled in the Dominican Republic with an Ecuadorian wrapper, Mexican binder and Dominican and Nicaraguan fillers. The current blend was relaunched in 2015 and became one of the company's most successful releases.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-winston-churchill-churchill/80558/",
+   "https://www.famous-smoke.com/brands/davidoff-cigars/winston-churchill",
+   "https://us.davidoffgeneva.com/product/davidoff-winston-churchill-the-original-series-toro"
+  ],
+  "notes": "Davidoff now labels it The Original Series. An earlier Winston Churchill line with a different blend came out in 2007; this version dates to 2015. Davidoff and halfwheel list the Robusto at 5 1/4 inches; Neptune and Holt's say 5 1/2.",
+  "verified": true,
+  "verifyNotes": "No spec fields changed. Notes now say Davidoff's own store confirms the Robusto at 5 1/4 x 52. All six sizes and the medium rating confirmed against Davidoff, halfwheel, Famous and Neptune."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Winston Churchill The Late Hour",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro Marron",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andrés Negro)",
+  "filler": "Dominican Republic (Olor, Piloto, San Vicente), Nicaragua (Condega, Estelí)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Panetela",
+    "length": 4,
+    "ring": 38
+   },
+   {
+    "name": "Belicoso",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "black pepper",
+   "wood"
+  ],
+  "about": "A darker, bolder companion to the Davidoff Winston Churchill line, introduced in 2017. Part of the filler is Nicaraguan Condega tobacco aged for six months in Scotch whisky casks.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-winston-churchill-late-hour-robusto/177293/",
+   "https://halfwheel.com/davidoff-winston-churchill-the-late-hour-belicoso/464878/",
+   "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html"
+  ],
+  "notes": "Holt's calls it medium to full; Neptune lists it as full. The Petit Panetela and Belicoso use mixed (partly short) filler and are sold in tins.",
+  "verified": true,
+  "verifyNotes": "Removed Famous from the strength note: I could not open a Famous page for this line. Mixed filler and tins confirmed for both small sizes on halfwheel. No spec fields changed."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Nicaragua",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano Rosado",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Jalapa)",
+  "filler": "Nicaragua (Estelí, Condega, Ometepe)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Corona",
+    "length": 3.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Diadema",
+    "length": 6.5,
+    "ring": 50
+   },
+   {
+    "name": "Box Pressed Robusto",
+    "length": 5,
+    "ring": 48
+   },
+   {
+    "name": "Box Pressed Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "roasted coffee",
+   "leather"
+  ],
+  "about": "Davidoff's first Nicaraguan puro and its first black band cigar, released in 2013. All of the tobacco is Nicaraguan, but the cigars are rolled at Davidoff's factory in the Dominican Republic.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/review-davidoff-nicaragua-prerelease/",
+   "https://halfwheel.com/davidoff-nicaragua-box-pressed-toro/112361/",
+   "https://us.davidoffgeneva.com/product/davidoff-nicaragua-toro"
+  ],
+  "notes": "Retailers rate the strength anywhere from medium (Holt's) to full (Neptune); halfwheel's reviewer found it medium. The Box Pressed sizes, added in 2016, use a Nicaraguan Habano Oscuro wrapper and extra ligero rather than the original Rosado blend.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Escurio",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Brazil (Cubra)",
+  "filler": "Brazil (Cubra, Mata Fina), Dominican Republic (Olor, San Vicente)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Petit Robusto",
+    "length": 3.25,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 4.5,
+    "ring": 54
+   },
+   {
+    "name": "Gran Perfecto",
+    "length": 5,
+    "ring": 61
+   },
+   {
+    "name": "Gran Toro",
+    "length": 5.5,
+    "ring": 58
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "oak",
+   "dark chocolate",
+   "pepper"
+  ],
+  "about": "The second Davidoff black band line, introduced in 2015 and inspired by Brazil. It pairs Brazilian Mata Fina and Cubra tobaccos with Dominican filler under an Ecuadorian Habano wrapper.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-escurio-gran-toro-prerelease/90504/",
+   "https://halfwheel.com/davidoff-expands-escurio-with-two-new-vitolas-primeros-cigarillos/116671/",
+   "https://us.davidoffgeneva.com/product/davidoff-escurio-robusto"
+  ],
+  "notes": "Davidoff describes it as medium intensity; Holt's lists it as medium to full. The Mata Fina is in the filler, not the wrapper; the binder is Brazilian Cubra.",
+  "verified": true,
+  "verifyNotes": "Filler corrected to match halfwheel's spec table (Dominican Olor and San Vicente); the researcher's 'Piloto, Olor/Piloto hybrid' is not on any listed source. Notes corrected: the Mata Fina is in the filler only, the binder is Cubra."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Yamasá",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Yamasá",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Dominican Republic (San Vicente, Yamasá)",
+  "filler": "Dominican Republic (Piloto, Mejorado), Nicaragua (Condega, Estelí)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petit Churchill",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Piramides",
+    "length": 6.125,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "spice",
+   "leather",
+   "cedar",
+   "earth"
+  ],
+  "about": "The third Davidoff black band line, released in 2016. Its wrapper and binder come from Yamasá, a Dominican region where Davidoff spent about 20 years learning to grow tobacco.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/davidoff-yamasa-piramides-prerelease/122740/",
+   "https://us.davidoffgeneva.com/product/davidoff-yamasa-robusto",
+   "https://www.famous-smoke.com/brand/davidoff-cigars"
+  ],
+  "notes": "Strength listings vary: Holt's says medium, Famous medium to full, Neptune full. halfwheel's reviewer called strength medium-plus and body medium-full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Colorado Claro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian sun-grown Connecticut",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": null,
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Perfecto",
+    "length": 4.875,
+    "ring": 52
+   },
+   {
+    "name": "Special R",
+    "length": 4.875,
+    "ring": 50
+   },
+   {
+    "name": "Aniversario No. 3",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Special T",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Double R",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cream",
+   "sweet wood"
+  ],
+  "about": "A darker, stronger take on the Davidoff Aniversario shapes, using a reddish-brown Ecuadorian sun-grown Connecticut wrapper over Dominican tobaccos. Davidoff makes it in small quantities because the wrapper is scarce.",
+  "released": null,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-releases-colorado-claro-aniversario-no-3/41429/",
+   "https://www.famous-smoke.com/brand-davidoff-colorado-claro",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Not a one-time edition: it is an ongoing line with limited availability, and Davidoff files it under limited editions. Retailers disagree on the ring gauge of the Special R and Special T (50 or 52).",
+  "verified": true,
+  "verifyNotes": "Factory set to null: none of the pages I could open names the factory for this line (it is almost certainly Cigars Davidoff, but unsourced). Davidoff's store rates the Aniversario No. 3 size 4 of 5 for intensity; Famous and Neptune both say full, so Full was kept. Special R and Special T ring gauges rest on one retailer each."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Dominicana",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Hybrid 257 (Yamasá)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador (Hybrid 151)",
+  "filler": "Dominican Republic (Corojo 99 Seco, Piloto Viso, San Vicente Mejorado Seco, San Vicente Seco, Yamasá Viso)",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Short Robusto",
+    "length": 4,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5.125,
+    "ring": 52
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "leather",
+   "dark cocoa",
+   "wood"
+  ],
+  "about": "A limited Davidoff release from May 2021 honoring the Dominican Republic, made almost entirely of Dominican tobacco from the 2014 crop. Only the Ecuadorian binder comes from elsewhere, and each cigar has a pigtail cap.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-dominicana-robusto/399120/",
+   "https://www.holts.com/cigars/all-cigar-brands/davidoff-dominicana.html",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Limited edition with undisclosed numbers. Holt's lists it as medium to full and Neptune as full, but halfwheel's reviewer found the strength closer to medium.",
+  "verified": true,
+  "verifyNotes": "Removed 'many retailers show it sold out' from notes (not verifiable, and Davidoff's store still lists two sizes). No spec fields changed."
+ },
+ {
+  "brand": "Davidoff",
+  "line": "Royal Release",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Dominican Aromatica",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Dominican Republic",
+  "binder": "Ecuador (Habano)",
+  "filler": "San Vicente and Criollo Ligero",
+  "country": "Dominican Republic",
+  "factory": "Cigars Davidoff",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 55
+   },
+   {
+    "name": "Salomones",
+    "length": 8.25,
+    "ring": 57
+   }
+  ],
+  "flavors": [
+   "oak",
+   "almond",
+   "leather",
+   "cocoa",
+   "coffee",
+   "raisin"
+  ],
+  "about": "A high-priced Davidoff line launched in 2016, built around a Dominican Aromatica wrapper kept for this cigar and aged at least eight years. Only eight senior rollers make it, and it comes in royal blue lacquered boxes of ten.",
+  "released": 2016,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/davidoff-royal-release-salomones/134595/",
+   "https://halfwheel.com/davidoff-launching-new-royal-series-next-monthd/130873/",
+   "https://www.neptunecigar.com/davidoff-cigar"
+  ],
+  "notes": "Launch was limited to 500 boxes of 10 per size for the U.S., at $80 and $100 a cigar. halfwheel did not get the binder or filler from Davidoff; those details come from Neptune. Neptune lists the Salomones at 54 ring; Davidoff and halfwheel say 57.",
+  "verified": true,
+  "verifyNotes": "Reworded 'about' to drop 'ultra-premium'. Notes now record that Davidoff's store confirms the Salomones at 57 ring. Binder and filler rest on Neptune alone. No spec fields changed."
+ }
+]

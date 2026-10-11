@@ -1,6 +1,15 @@
 import { emptyRatings, RUBRIC_VERSION } from '../domain/scoring'
 import { nowIso } from './repository'
-import type { Cigar, Lot, Photo, PhotoKind, Smoke, SyncFields, Third } from './types'
+import {
+  CIGAR_DEFAULTS,
+  type Cigar,
+  type Lot,
+  type Photo,
+  type PhotoKind,
+  type Smoke,
+  type SyncFields,
+  type Third,
+} from './types'
 
 function syncFields(): SyncFields {
   const now = nowIso()
@@ -35,6 +44,7 @@ export function newCigar(fields: Partial<Cigar> = {}): Cigar {
     sheetPairings: [],
     otherWrapperVersions: null,
     similarCigars: null,
+    ...CIGAR_DEFAULTS,
     ...fields,
   }
 }

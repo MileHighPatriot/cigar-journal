@@ -1,0 +1,892 @@
+[
+ {
+  "brand": "Placencia",
+  "line": "Reserva Organica",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan maduro, organically grown",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "sweetness",
+   "pepper"
+  ],
+  "about": "The Plasencia family's earlier organic cigar, a Nicaraguan puro made entirely from organically grown tobacco under a dark maduro wrapper. It predates the family's current organic line, Reserva Original.",
+  "released": null,
+  "production": "discontinued",
+  "sources": [
+   "https://www.neptunecigar.com/plasencia-reserva-organica-cigar",
+   "https://halfwheel.com/plasencia-reserva-original-corona-corta/456490/"
+  ],
+  "notes": "Brand is spelled Plasencia. Neptune lists it as discontinued and the maker's site no longer shows it; the current organic line is Reserva Original, launched in 2017. Only the Churchill size could be confirmed.",
+  "verified": true,
+  "verifyNotes": "Reworded about and notes: no source says Reserva Original replaced it, only that it followed in 2017 and that Neptune marks this one discontinued. The maker's site no longer lists the line, so wrapper, country and strength rest on Neptune alone; halfwheel confirms the line and its organic Nicaraguan tobacco."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Alma Fuerte",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Jalapa, oscuro shade",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Condega, Esteli, Jalapa, Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robustus I (Robusto)",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "Sixto II (Hexagono)",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Nestor IV (Toro)",
+    "length": 6.25,
+    "ring": 54
+   },
+   {
+    "name": "Generacion V (Salomon)",
+    "length": 7,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "plum",
+   "cinnamon",
+   "oak",
+   "molasses"
+  ],
+  "about": "The first cigar in Plasencia's Alma series, a Nicaraguan puro made with aged tobacco from the family's own farms. It is known for its hexagon-pressed Sixto II and its large Salomon.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://plasenciacigars.com/collections/alma-fuerte-black/",
+   "https://halfwheel.com/plasencia-alma-fuerte-generacion-v-salomon/145899/",
+   "https://www.famous-smoke.com/brand/plasencia-alma-fuerte-cigars"
+  ],
+  "notes": "Brand is spelled Plasencia. The maker now labels this original blend Alma Fuerte Oscuro, to tell it apart from the lighter Alma Fuerte Colorado Claro. Maker rates strength 4 of 5; Famous Smoke calls it full-bodied.",
+  "verified": true,
+  "verifyNotes": "Dropped the claim in about that it is the strongest of the series: halfwheel said so in 2017, but the maker now rates Alma del Fuego the same 4 of 5. Everything else matched the maker's page and halfwheel. The dark-wrapper category follows the maker's Oscuro label."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Alma del Campo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Jalapa)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Tribu (Robusto)",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Guajiro (Robusto Gordo)",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Sendero (Toro Gordo)",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "Travesia (Toro Extra)",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "Madrono (Gordo)",
+    "length": 6.5,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cream",
+   "nuts",
+   "chocolate",
+   "sweet wood",
+   "spice"
+  ],
+  "about": "The second cigar in Plasencia's Alma series, a Nicaraguan puro that showcases tobacco from the Jalapa valley. It is the smooth, creamy, medium-strength member of the series.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://plasenciacigars.com/collections/alma-del-campo/",
+   "https://halfwheel.com/plasencia-alma-de-campo-madrono/178286/",
+   "https://www.famous-smoke.com/brand/plasencia-alma-del-campo-cigars"
+  ],
+  "notes": "Brand is spelled Plasencia. The maker lists the wrapper only as Nicaragua; Famous Smoke calls it Habano. The Guajiro and Travesia are box-pressed.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Placencia",
+  "line": "Alma del Fuego",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan sun grown (Jalapa)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (double binder, one leaf from Ometepe)",
+  "filler": "Nicaragua (about half from Ometepe)",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Candente (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Concepcion (Toro)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Flama (Panetela)",
+    "length": 6.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "spice",
+   "tangerine",
+   "cashew",
+   "guava wood",
+   "peat"
+  ],
+  "about": "The third cigar in Plasencia's Alma series, a box-pressed Nicaraguan puro built around tobacco grown in the volcanic soil of Ometepe island. It is the spicy, bolder blend of the series.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://plasenciacigars.com/collections/alma-del-fuego/",
+   "https://halfwheel.com/plasencia-alma-del-fuego-candente/365364/",
+   "https://halfwheel.com/plasencia-unveiling-alma-del-fuego-at-ipcpr-2019/335813/"
+  ],
+  "notes": "Brand is spelled Plasencia. Maker rates strength 4 of 5. The 2024 Ometepe Edition, a torpedo with an Ometepe-grown wrapper, is a separate limited release.",
+  "verified": true,
+  "verifyNotes": "Notes: the maker calls the 2024 limited release Ometepe Edition, not Edicion Limitada. Other fields matched the maker's page and halfwheel."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Alma del Cielo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano (Condega)",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Celeste (Robusto)",
+    "length": 4.875,
+    "ring": 52
+   },
+   {
+    "name": "Amanecer (Hexagono)",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Boreal (Toro)",
+    "length": 6.125,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "marzipan",
+   "honey",
+   "nougat",
+   "cedar",
+   "ginger",
+   "orange zest"
+  ],
+  "about": "A Nicaraguan puro in Plasencia's Alma series made with tobacco grown above 3,500 feet at the family's San Julian farm in Condega. It is the sweeter, more delicate blend of the series.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://plasenciacigars.com/collections/alma-del-cielo/",
+   "https://halfwheel.com/plasencia-alma-del-cielo-amanecer/452459/",
+   "https://www.neptunecigar.com/cigar/plasencia-alma-del-cielo"
+  ],
+  "notes": "Brand is spelled Plasencia. Maker rates strength 2.5 of 5, so it sits between mild-medium and medium. The maker lists the wrapper only as Nicaragua; halfwheel says Condega and Neptune calls it Habano.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Placencia",
+  "line": "Cosecha 146",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": "Honduras",
+  "factory": null,
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "La Musica",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "La Vega",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "San Luis",
+    "length": 5.75,
+    "ring": 54
+   },
+   {
+    "name": "Monte Carlo",
+    "length": 6,
+    "ring": 58
+   },
+   {
+    "name": "San Agustin",
+    "length": 6.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [],
+  "about": "The first release in Plasencia's Cosecha (harvest) series, made with tobacco from the family's 146th crop, grown in 2011 and 2012. It was discontinued in 2023 when Cosecha 151 arrived.",
+  "released": 2017,
+  "production": "discontinued",
+  "sources": [
+   "https://halfwheel.com/ipcpr-2017-plasencia-1865/166038/",
+   "https://halfwheel.com/plasencia-discontinuing-cosecha-146/429615/",
+   "https://www.neptunecigar.com/cigar/plasencia-cosecha-146"
+  ],
+  "notes": "Brand is spelled Plasencia. Discontinued in September 2023. halfwheel called it a milder offering at launch and Neptune lists it as medium; the maker no longer lists it and gives no strength rating.",
+  "verified": true,
+  "verifyNotes": "Swapped one source for the halfwheel IPCPR 2017 article, which is where the milder-offering line and the blend and sizes appear. Confirmed the maker's site no longer lists this line, so there is no maker strength; left strength null because only one retailer rates it."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Cosecha 149",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Criollo (Olancho San Agustin)",
+  "wrapperCategory": "Criollo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastran Valley)",
+  "filler": "Honduras (Jamastran Valley, Olancho, Talanga)",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Santa Fe (Gordito)",
+    "length": 4.875,
+    "ring": 60
+   },
+   {
+    "name": "La Vega (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Cortez (Figurado)",
+    "length": 5.75,
+    "ring": 56
+   },
+   {
+    "name": "Azacualpa (Toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "cream",
+   "walnut",
+   "oak",
+   "raisins",
+   "spice"
+  ],
+  "about": "A Honduran puro in Plasencia's Cosecha (harvest) series, made with tobacco from the family's 149th crop, harvested in 2014. It is a full-bodied cigar rolled at the family's Tabacos de Oriente factory in Honduras.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://plasenciacigars.com/collections/cosecha-149/",
+   "https://halfwheel.com/plasencia-cosecha-149-azacualpa/403297/",
+   "https://www.famous-smoke.com/brand/plasencia-cosecha-149-cigars"
+  ],
+  "notes": "Brand is spelled Plasencia. Sizes follow the maker's site; halfwheel and retailers list La Vega as 5 x 52 and Santa Fe as 4 3/4 x 60. The Criollo wrapper seed comes from Famous Smoke.",
+  "verified": true,
+  "verifyNotes": "Trimmed about to plain wording and named the factory. Fields matched the maker's page (strength 4 of 5, sizes), halfwheel and Famous Smoke."
+ },
+ {
+  "brand": "Placencia",
+  "line": "Cosecha 151",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "La Musica (Robusto)",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "San Diego (Corona Gorda)",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "La Tradicion (Toro)",
+    "length": 5.875,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "pecans",
+   "dark chocolate",
+   "prunes",
+   "cinnamon",
+   "oak"
+  ],
+  "about": "A Honduran puro in Plasencia's Cosecha (harvest) series, made with tobacco from the family's 151st crop, grown in 2016 and 2017. It was named Cigar Journal's top new cigar of 2024.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://plasenciacigars.com/collections/cosecha-151/",
+   "https://halfwheel.com/plasencia-cosecha-151-la-musica/434249/",
+   "https://halfwheel.com/plasencia-cosecha-151-begins-shipping/431420/"
+  ],
+  "notes": "Brand is spelled Plasencia. Maker rates strength 4 of 5, though halfwheel's reviewer found the nicotine strength only mild to medium. The wrapper is similar to Cosecha 149's but from a later harvest and a lower priming. A 6 x 54 Salomon was a limited TAA exclusive.",
+  "verified": true,
+  "verifyNotes": "Added the strength disagreement to notes: the maker rates it 4 of 5 and Famous Smoke says medium-full, but halfwheel's reviewer found it mild to medium. Other fields matched."
+ },
+ {
+  "brand": "Powstanie",
+  "line": "Broadleaf",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Broadleaf maduro, origin undisclosed",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Indonesia",
+  "filler": "Nicaragua (Estelí ligero, Jalapa, Pueblo Nuevo)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos NicaSueño S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "espresso",
+   "spice",
+   "earth",
+   "black pepper"
+  ],
+  "about": "One of Powstanie's two original core lines, from the brothers who own the Cigar Hustler shop in Florida. It is rolled at the NicaSueño factory in Estelí, the home of RoMa Craft, with a dark broadleaf maduro wrapper.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/powstanie-broadleaf-corona-gorda/429518/",
+   "https://halfwheel.com/powstanie-broadleaf-corona-gorda-2/442289/",
+   "https://www.neptunecigar.com/cigar/powstanie-broadleaf"
+  ],
+  "notes": "The maker does not say where the broadleaf wrapper is grown. Famous Smoke lists the brand as medium to full and Neptune calls this blend full-bodied, but halfwheel's reviewer found the nicotine strength only about medium. First announced as Powstanie Maduro.",
+  "verified": true,
+  "verifyNotes": "Removed the founders' surname from about because halfwheel spells it two ways. Powstanie's own site publishes no blend or strength, so strength follows retailers (Famous Smoke medium to full, Luxury Cigar Club medium plus, Neptune full-bodied)."
+ },
+ {
+  "brand": "Powstanie",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic (Criollo), Nicaragua (Estelí ligero, Condega, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos NicaSueño S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Perfecto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "Belicoso",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "earth",
+   "chocolate",
+   "wood"
+  ],
+  "about": "The first Powstanie cigar, released in May 2015 by the brothers who own the Cigar Hustler shop in Florida. It is rolled at the NicaSueño factory in Estelí, the home of RoMa Craft, with an Ecuadorian Habano wrapper over an Indonesian binder.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/powstanie-habano-arrives-today/86610/",
+   "https://halfwheel.com/powstanie-increasing-prices-adding-new-corona-sizes/419536/",
+   "https://www.neptunecigar.com/cigar/powstanie-habano"
+  ],
+  "notes": "Strength is Neptune's word; Famous Smoke describes the brand overall as medium to full. The Belicoso launched at 5 1/4 x 54 and is now listed at 5 1/2 x 54.",
+  "verified": true,
+  "verifyNotes": "Removed the founders' surname from about because halfwheel spells it two ways. Powstanie's own site publishes no blend or strength; medium is Neptune's word. Other fields matched halfwheel."
+ },
+ {
+  "brand": "Powstanie",
+  "line": "Wojtek",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Barber pole of Ecuadorian Habano and Mexican San Andrés",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador, Mexico",
+  "binder": "Indonesia",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Fábrica de Tabacos NicaSueño S.A.",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "2019 Perfecto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "2020 Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "2021 Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "2023 Corona Gorda (box-pressed)",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "War Bear 2025 Perfecto",
+    "length": 5.625,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "marshmallow",
+   "almonds",
+   "anise",
+   "earth",
+   "spice",
+   "pepper"
+  ],
+  "about": "A limited Powstanie release named for the bear adopted by Polish soldiers in World War II, rolled with two wrappers in a barber pole pattern. It returns in a different size most years in small runs.",
+  "released": 2019,
+  "production": "limited",
+  "sources": [
+   "https://halfwheel.com/powstanie-wojtek-2023/432117/",
+   "https://halfwheel.com/powstanie-war-bear-2025/462313/"
+  ],
+  "notes": "Each edition is one size: 500 boxes of 21 through 2023, then 1,000 boxes of 8 for 2025, when it was renamed War Bear. No published strength rating; halfwheel reviewers found it medium to medium-full. Flavors are from halfwheel's 2023 review.",
+  "verified": true,
+  "verifyNotes": "No changes. Powstanie's own site publishes no strength, so it stays null. The Habano category is a judgment call for a two-wrapper barber pole."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Blue",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Habano)",
+  "filler": "Nicaragua (Estelí and Jalapa ligero)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "black pepper",
+   "chocolate",
+   "leather",
+   "nuts",
+   "licorice"
+  ],
+  "about": "The original Protocol cigar, launched in 2015 by Cubariqueño Cigar Co., a company founded by two police officers. It is a strong Nicaraguan blend with four ligero leaves in the filler under an Ecuadorian Habano Oscuro wrapper.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.smokeinn.com/Protocol-Blue/",
+   "https://www.neptunecigar.com/cigar/protocol-blue",
+   "https://halfwheel.com/smoke-inn-acquires-cubariqueno-cigar-co-and-the-protocol-brand/462093/"
+  ],
+  "notes": "This is the original Protocol, also called Protocol Habano; Blue is the band color. Smoke Inn bought the brand in 2026 and is now its only seller. Launched at La Zona; halfwheel reports Protocol production now runs through AJ Fernandez's San Lotano factory in Ocotal.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Protocol",
+  "line": "Gold",
+  "found": true,
+  "officialName": "Themis",
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cream",
+   "white pepper",
+   "floral",
+   "citrus",
+   "vanilla"
+  ],
+  "about": "Protocol's Connecticut-wrapped cigar, properly named Themis after the Greek Titaness of law and order and known by its gold band. It is a creamy, medium blend with more flavor than a traditional Connecticut.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://www.smokeinn.com/Protocol-Gold-Themis/",
+   "https://halfwheel.com/protocol-themis-toro/252953/",
+   "https://halfwheel.com/protocol-themis-corona-gorda-redux/422685/"
+  ],
+  "notes": "Gold is the band color; the line's name is Themis, and Smoke Inn sells it as Protocol Gold Themis. It is the same cigar as the Themis entry. Launched at La Zona; halfwheel reports Protocol production now runs through AJ Fernandez's San Lotano factory.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Protocol",
+  "line": "Themis",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "cream",
+   "white pepper",
+   "floral",
+   "citrus",
+   "vanilla"
+  ],
+  "about": "Protocol's Connecticut-wrapped cigar, named after the Greek Titaness of law and order and blended by company partner William Agathis with Hector Alfonso Sr. It is a creamy, medium blend with more flavor than a traditional Connecticut.",
+  "released": 2017,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/protocol-themis-toro/252953/",
+   "https://halfwheel.com/protocol-themis-corona-gorda-redux/422685/",
+   "https://www.smokeinn.com/Protocol-Gold-Themis/"
+  ],
+  "notes": "Also sold as Protocol Gold Themis, after its gold band. The company called it a medium-strength cigar with full flavor. Launched at La Zona; halfwheel reports Protocol production now runs through AJ Fernandez's San Lotano factory in Ocotal.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Protocol",
+  "line": "Official Misconduct",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Estelí, Jalapa)",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "black pepper",
+   "earth",
+   "raisin",
+   "cream"
+  ],
+  "about": "Protocol's 2018 release, a second Ecuadorian Habano blend that is toned down from the original Protocol Blue. It is known by its silver band and packaging.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.smokeinn.com/Protocol-Silver-Official-Misconduct/",
+   "https://halfwheel.com/protocol-official-misconduct/270760/",
+   "https://halfwheel.com/cubariqueno-adding-corona-gorda-to-protocol-official-misconduct-at-ipcpr-2019/336621/"
+  ],
+  "notes": "Also sold as Protocol Silver Official Misconduct. Smoke Inn, the brand owner, describes it as closer to medium in body, though halfwheel's reviewer found the strength built to just under full. Smoke Inn currently lists only the Toro. Launched at La Zona; production reportedly now with AJ Fernandez.",
+  "verified": true,
+  "verifyNotes": "Notes reworded: Smoke Inn's page says closer to medium in body, not a strength rating, so the Medium strength rests on that wording while halfwheel's reviewer found it nearly full. No other source for strength was found."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Sir Robert Peel Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "hardwood",
+   "spice",
+   "cream",
+   "nougat",
+   "cinnamon",
+   "earth"
+  ],
+  "about": "The lighter-wrapped version of Protocol's Sir Robert Peel, the first cigar in its Lawmen Series, named for the British statesman who founded London's Metropolitan Police. It pairs an Ecuadorian Rosado wrapper with Nicaraguan binder and filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/sir-robert-peel-natural/365714/",
+   "https://www.smokeinn.com/Protocol-Sir-Robert-Peel/",
+   "https://halfwheel.com/protocols-sir-robert-peel-adding-corona-gorda/392242/"
+  ],
+  "notes": "Sources disagree on strength: Smoke Inn, the brand owner, describes the line as medium-bodied, while halfwheel's reviewer found the Natural full strength. Flavor notes are Smoke Inn's for both wrappers together. Launched at La Zona; production reportedly now with AJ Fernandez.",
+  "verified": true,
+  "verifyNotes": "Flavors: Smoke Inn gives one list for both wrappers, so the researcher's split by wrapper was a guess; both entries now carry the same first six notes. Notes reworded: Smoke Inn says medium body, not a strength rating, and halfwheel found the Natural full strength."
+ },
+ {
+  "brand": "Protocol",
+  "line": "Sir Robert Peel Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Toro (box-pressed)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "hardwood",
+   "spice",
+   "cream",
+   "nougat",
+   "cinnamon",
+   "earth"
+  ],
+  "about": "The dark-wrapped version of Protocol's Sir Robert Peel, the first cigar in its Lawmen Series. It was the first Protocol to use a Pennsylvania Broadleaf wrapper, over Nicaraguan binder and filler.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://halfwheel.com/cubariqueno-cigar-co-honors-sir-robert-peel-with-new-cigar-line/360475/",
+   "https://www.smokeinn.com/Protocol-Sir-Robert-Peel/",
+   "https://halfwheel.com/ipcpr-2019-cubariqueno/298504/"
+  ],
+  "notes": "Strength is from Smoke Inn, the brand owner, which describes the line as medium-bodied. Flavor notes are Smoke Inn's for both wrappers together, not the Maduro alone. Launched at La Zona; production reportedly now with AJ Fernandez.",
+  "verified": true,
+  "verifyNotes": "Flavors: Smoke Inn gives one list for both wrappers, so the researcher's split by wrapper was a guess; both entries now carry the same first six notes. Strength rests on Smoke Inn's medium body wording for the line; no review of the Maduro was found."
+ }
+]

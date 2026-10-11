@@ -1,0 +1,966 @@
+[
+ {
+  "brand": "Southern Draw",
+  "line": "Kudzu",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua (Ometepe)",
+  "filler": "Nicaragua, USA",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "oak",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "Kudzu is the oscuro blend that launched Southern Draw in 2014, rolled for the company by AJ Fernandez in Esteli. It is a box-pressed cigar with an Ecuadorian Habano Oscuro wrapper over an Ometepe binder.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/kudzu",
+   "https://cigar-coop.com/2016/08/cigar-news-southern-draw-cigars-adds-lancero-perfecto-and-belicoso-line-extensions-to-firethorn-and-kudzu.html",
+   "https://neptunecigar.com/cigars/southern-draw-kudzu-toro"
+  ],
+  "notes": "Filler: the maker lists Nicaragua and USA; Neptune and Cigar Coop list Nicaraguan only. Strength varies by source: Neptune says Full, Holt's Medium-Full, a Blind Man's Puff panel medium-strong, and a review quoted on the maker's page Medium+. Kudzu Lustrum is a separate limited blend.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, binder, filler and sizes confirmed on the maker's page; country and factory on Cigar Coop, Neptune and Blind Man's Puff; 2014 release on Blind Man's Puff (May 2014) and Cigar Coop. Strength note rewritten to cite only pages I opened (Neptune Full, Holt's Medium-Full, Blind Man's Puff medium-strong); the researcher's BestCigarPrices, JR and Corona figures could not be opened and were dropped from the note."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Firethorn",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano Rosado",
+  "wrapperCategory": "Rosado",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Mexico (San Andres)",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "toffee",
+   "baking spice",
+   "cedar",
+   "caramel",
+   "fruit"
+  ],
+  "about": "Firethorn is Southern Draw's Habano Rosado blend and the company's second line after Kudzu. It pairs an Ecuadorian rosado wrapper with a Mexican San Andres binder and Nicaraguan filler, made at AJ Fernandez's factory.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/firethorn",
+   "https://cigar-coop.com/2015/02/cigar-review-southern-draw-firethorn.html",
+   "https://neptunecigar.com/cigars/southern-draw-firethorn-toro"
+  ],
+  "notes": "Strength: Neptune, Holt's and Cigar Coop call it medium; a Blind Man's Puff panel rated it medium-strong. Body is medium to full per a Smoke Magazine quote on the maker's page, but Cigar Coop rated it medium. The box-pressed Belicosos Fino (5.5 x 54) the maker lists is the Firethorn Augusta release.",
+  "verified": true,
+  "verifyNotes": "Set released from 2014 to null: no page states a 2014 release for Firethorn, and the only dated source (Blind Man's Puff) says April 2015, which itself conflicts with a February 2015 Cigar Coop review. Rewrote 'about' to drop the claim that it launched in 2014. Strength note now cites pages I opened; the Cigars International claim was dropped. Wrapper, binder, filler and sizes confirmed on the maker's page; country and factory on Cigar Coop and Neptune."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Jacobs Ladder",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Pennsylvania Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "USA (Maduro)",
+  "filler": "Nicaragua (ligero from Esteli and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cherry",
+   "nuts",
+   "coffee",
+   "molasses",
+   "black pepper",
+   "cedar"
+  ],
+  "about": "Jacobs Ladder is Southern Draw's strongest core blend, a Pennsylvania Broadleaf cigar with a heavy dose of Nicaraguan ligero, made at AJ Fernandez's factory in Esteli. It is known as a bold, full-flavored smoke.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/jacobs-ladder",
+   "https://cigar-coop.com/2017/11/cigar-review-southern-draw-jacobs-ladder-robusto.html"
+  ],
+  "notes": "Binder is disputed: the maker lists a USA Maduro binder, while Cigar Coop lists an Ecuadorian Maduro binder. A limited run came out just before August 2016 and the national launch was at the 2017 IPCPR show. Jacobs Ladder Brimstone is a separate, stronger release.",
+  "verified": true,
+  "verifyNotes": "Changed wrapperLeaf from 'Pennsylvania Broadleaf Maduro' to 'Pennsylvania Broadleaf': the maker says 'Broadleaf, USA' and Cigar Coop says 'Pennsylvania Broadleaf, Lancaster, USA'; neither adds 'Maduro'. halfwheel could not be opened, so the binder conflict is now attributed to Cigar Coop only. Everything else confirmed."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Rose of Sharon",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Dominican Republic (Piloto Cubano ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "graham cracker",
+   "caramel",
+   "nuts",
+   "pepper",
+   "spice"
+  ],
+  "about": "Rose of Sharon is Southern Draw's Ecuadorian Connecticut blend, a semi box-pressed cigar made at AJ Fernandez's factory. Dominican Piloto Cubano in the filler gives it more flavor than a typical Connecticut.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/rose-of-sharon",
+   "https://cigar-coop.com/2018/05/cigar-review-southern-draw-rose-of-sharon-lancero.html",
+   "https://www.coronacigar.com/brands/southern-draw/southern-draw-rose-of-sharon/"
+  ],
+  "notes": "Wrapper: the maker and Cigar Coop say Ecuadorian Connecticut, but Neptune's spec table lists USA Connecticut Shade. Strength: Corona Cigar and Holt's list mild to medium, Neptune lists mild, and Cigar Coop rated the Lancero at the low end of medium. A very limited run came out in 2016, with the wide release in 2017.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, binder, filler and sizes confirmed on the maker's page; country, factory and release history on Cigar Coop; Mild-Medium on Corona Cigar and Holt's. Added to notes the Neptune wrapper conflict and the Gordo length conflict."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Cedrus",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Indonesian Besuki (TBN)",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": "Indonesia",
+  "binder": "Nicaragua (Habano 2000, Esteli)",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Belicoso Fino (The Hogan)",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Robusto",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6.5,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nutmeg",
+   "clove",
+   "cinnamon",
+   "cedar"
+  ],
+  "about": "Cedrus is Southern Draw's Indonesian-wrapped blend, first released in 2018 as a single box-pressed belicoso called The Hogan and expanded to more sizes in 2019. It is made at AJ Fernandez's factory in Esteli.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/cedrus",
+   "https://cigar-coop.com/2018/11/cigar-review-southern-draw-cedrus-the-hogan.html",
+   "https://cigar-coop.com/2019/06/cigar-news-southern-draw-to-add-three-new-sizes-to-cedrus-at-2019-ipcpr.html"
+  ],
+  "notes": "Strength varies: Holt's lists Medium-Full (used here), Neptune lists Full, and Cigar Coop rated The Hogan Medium. Filler: the maker lists Nicaragua only; Cigar Coop and Neptune add Dominican Piloto Cubano. Cigar Coop labels the Besuki wrapper as Sumatra, Indonesia; the maker says only Besuki, Indonesia.",
+  "verified": true,
+  "verifyNotes": "Changed strength from Medium to Medium-Full: the brief says to use the most common retailer figure when the maker gives none, and Holt's lists Medium-Full and Neptune Full, against one Medium in a Cigar Coop review. Removed the note that Cigar Coop quotes the founder on the leaf being grown in Jember, Java: the page does not mention Jember or Java. Wrapper, binder and sizes confirmed on the maker's page; country, factory and 2018 release on Cigar Coop."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "300 Hands Habano",
+  "found": true,
+  "officialName": "300 Manos Habano",
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Cameroon",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Petit Edmundo",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Coloniales",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Piramides",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "wood",
+   "cream",
+   "coffee",
+   "cocoa",
+   "caramel"
+  ],
+  "about": "The Habano blend in Southern Draw's value-priced 300 Hands charity line, sold in ten-count bundles and made at AJ Fernandez's factory. The maker brands this version 300 Manos.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/300-hands-300-manos",
+   "https://cigar-coop.com/2019/01/cigar-review-300-manos-habano-petit-edmundo-by-southern-draw-cigars.html"
+  ],
+  "notes": "Strength: Neptune lists medium; Cigar Coop rated both strength and body medium to full. The maker's page gives the wrapper only as Ecuador; Cigar Coop and Neptune say Ecuadorian Habano.",
+  "verified": true,
+  "verifyNotes": "No field changes. Blend and sizes confirmed on the maker's page and Cigar Coop; country and factory on the maker's page; Medium strength on Neptune. Note corrected: Cigar Coop's summary rates strength medium to full, not medium. The BestCigarPrices and JR claims could not be opened (403 and empty page) and were dropped from the note."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "300 Hands Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro (Esteli)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Indonesia",
+  "filler": "Nicaragua, Dominican Republic",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Petit Edmundo",
+    "length": 4.75,
+    "ring": 52
+   },
+   {
+    "name": "Coloniales",
+    "length": 5.25,
+    "ring": 44
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Piramides",
+    "length": 6.125,
+    "ring": 52
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "pepper",
+   "cedar",
+   "citrus"
+  ],
+  "about": "The Maduro blend in Southern Draw's value-priced 300 Hands charity line, sold in ten-count bundles and made at AJ Fernandez's factory. It uses a dark Nicaraguan wrapper from Esteli over an Indonesian binder.",
+  "released": 2018,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/300-hands-300-manos",
+   "https://cigar-coop.com/2019/03/cigar-review-300-hands-maduro-piramides-by-southern-draw-cigars.html"
+  ],
+  "notes": "",
+  "verified": true,
+  "verifyNotes": "Changed flavor 'white pepper' to 'pepper' to match Cigar Coop's notes (mocha, pepper, orange, cedar, mineral). Dropped the JR Cigars body claim from the note because the page could not be opened. Wrapper, binder, filler, country, factory and sizes confirmed on the maker's page; strength on Cigar Coop."
+ },
+ {
+  "brand": "Southern Draw",
+  "line": "Quickdraw",
+  "found": true,
+  "officialName": "QuickDraw",
+  "wrapperLeaf": "Three wrapper versions: Connecticut, Ecuadorian Dark Habano, Pennsylvania Broadleaf",
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua, Honduras",
+  "country": "Nicaragua",
+  "factory": "Tabacalera AJ Fernandez",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 5,
+    "ring": 46
+   },
+   {
+    "name": "Petit Corona",
+    "length": 4.5,
+    "ring": 44
+   },
+   {
+    "name": "Short Panatela",
+    "length": 5.5,
+    "ring": 40
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "espresso",
+   "wood"
+  ],
+  "about": "QuickDraw is Southern Draw's small-format line, built for a shorter smoke and offered in three wrappers: Connecticut, Dark Habano and Pennsylvania Broadleaf. It is made at AJ Fernandez's factory in Esteli.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://www.southerndrawcigars.com/quickdraw",
+   "https://cigar-coop.com/2017/11/cigar-news-southern-draw-announces-quickdraw-corona-gorda-initially-heading-to-famous-smoke-shop.html",
+   "https://blindmanspuff.com/blind-cigar-review-southern-draw-quick-draw-pennsylvania-petite-corona/"
+  ],
+  "notes": "A line of three blends, so there is no single wrapper category or strength, and the maker publishes no strength rating. Connecticut wrapper: the maker lists it as USA grown; Cigar Coop says Ecuadorian Connecticut. Filler: the maker lists Nicaraguan and Honduran; Cigar Coop and Blind Man's Puff list Nicaraguan only.",
+  "verified": true,
+  "verifyNotes": "Changed wrapperLeaf so it no longer says 'Ecuadorian Connecticut': the maker lists that wrapper as 'Connecticut, USA' and Cigar Coop as Ecuadorian, so the origin is left out of the field and kept in the notes. Removed the unconfirmed note that the Connecticut blend was added in 2016. Country confirmed on Cigar Coop and Blind Man's Puff; the maker publishes no strength."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Georgios",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (leaf type and origin not published)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Georgios",
+    "length": 7,
+    "ring": 38
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "chocolate"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. The shop describes it as a full-bodied maduro with nut and chocolate notes, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-georgios",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish binder, filler, country, factory or strength. Maduro is read from its line calling this a full body cigar for a maduro smoker, so check the box. Georgios, Stavros, Evgenios and Theodoros share one description, so may be one blend in four sizes; the site does not say.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page and the shop listing: size, box of 20, full body and the nut and chocolate notes are as stated. The shop does not publish country, factory, strength, binder or filler, and no other source covers this house cigar. The wrapper is not stated outright; 'Maduro' is read from the line that it suits a maduro smoker."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Stavros",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (leaf type and origin not published)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Stavros",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "chocolate"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. The shop describes it as a full-bodied maduro with nut and chocolate notes, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-stavros",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish binder, filler, country, factory or strength. Maduro is read from its line calling this a full body cigar for a maduro smoker, so check the box. Georgios, Stavros, Evgenios and Theodoros share one description, so may be one blend in four sizes; the site does not say.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page and the shop listing: size, box of 20, full body and the nut and chocolate notes are as stated. The shop does not publish country, factory, strength, binder or filler, and no other source covers this house cigar. The wrapper is not stated outright; 'Maduro' is read from the line that it suits a maduro smoker."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Evgenios",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (leaf type and origin not published)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Evgenios",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "chocolate"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. The shop describes it as a full-bodied maduro with nut and chocolate notes, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-evgenios",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish binder, filler, country, factory or strength. Maduro is read from its line calling this a full body cigar for a maduro smoker, so check the box. Georgios, Stavros, Evgenios and Theodoros share one description, so may be one blend in four sizes; the site does not say.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page and the shop listing: size, box of 20, full body and the nut and chocolate notes are as stated. The shop does not publish country, factory, strength, binder or filler, and no other source covers this house cigar. The wrapper is not stated outright; 'Maduro' is read from the line that it suits a maduro smoker."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Theodoros",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Maduro (leaf type and origin not published)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": null,
+  "factory": null,
+  "strength": null,
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Theodoros",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "chocolate"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. The shop describes it as a full-bodied maduro with nut and chocolate notes, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-theodoros",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish binder, filler, country, factory or strength. Maduro is read from its line calling this a full body cigar for a maduro smoker, so check the box. Georgios, Stavros, Evgenios and Theodoros share one description, so may be one blend in four sizes; the site does not say.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page and the shop listing: size, box of 20, full body and the nut and chocolate notes are as stated. The shop does not publish country, factory, strength, binder or filler, and no other source covers this house cigar. The wrapper is not stated outright; 'Maduro' is read from the line that it suits a maduro smoker."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Steely",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Steely",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. It is a mild to medium smoke with an Ecuadorian Connecticut wrapper over Nicaraguan and Honduran tobaccos, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-steely",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish the country or factory. Steely, Kostaki, Ioannis and Lady Victoria share the same blend and description, which suggests one Connecticut blend in four sizes, though the site does not say so. Listed as out of stock on the shop's site when checked in October 2026.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page: Ecuadorian Connecticut wrapper, Nicaraguan binder, Honduran and Nicaraguan filler, mild to medium, size and box of 20 are as stated. The shop does not publish the country of manufacture or factory, and no other source covers this house cigar."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Kostaki",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Kostaki",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. It is a mild to medium smoke with an Ecuadorian Connecticut wrapper over Nicaraguan and Honduran tobaccos, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-kostaki",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish the country or factory. Steely, Kostaki, Ioannis and Lady Victoria share the same blend and description, which suggests one Connecticut blend in four sizes, though the site does not say so. Listed as out of stock on the shop's site when checked in October 2026.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page: Ecuadorian Connecticut wrapper, Nicaraguan binder, Honduran and Nicaraguan filler, mild to medium, size and box of 20 are as stated. The shop does not publish the country of manufacture or factory, and no other source covers this house cigar."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Ioannis",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Ioannis",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. It is a mild to medium smoke with an Ecuadorian Connecticut wrapper over Nicaraguan and Honduran tobaccos, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-ioannis",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish the country or factory. Steely, Kostaki, Ioannis and Lady Victoria share the same blend and description, which suggests one Connecticut blend in four sizes, though the site does not say so.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page: Ecuadorian Connecticut wrapper, Nicaraguan binder, Honduran and Nicaraguan filler, mild to medium, size and box of 20 are as stated. The shop does not publish the country of manufacture or factory, and no other source covers this house cigar."
+ },
+ {
+  "brand": "Stanley Pappas",
+  "line": "Lady Victoria",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Honduras, Nicaragua",
+  "country": null,
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Lady Victoria",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "spice"
+  ],
+  "about": "A house cigar from Stanley Pappas Cigars, the Denver-area cigar shop and lounge. It is a mild to medium smoke with an Ecuadorian Connecticut wrapper over Nicaraguan and Honduran tobaccos, sold in boxes of 20.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.stanleypappas.com/product-page/stanley-pappas-cigars-lady-victoria",
+   "https://www.stanleypappas.com/shop-1"
+  ],
+  "notes": "The only source is the shop's own site, which does not publish the country or factory. Steely, Kostaki, Ioannis and Lady Victoria share the same blend and description, which suggests one Connecticut blend in four sizes, though the site does not say so.",
+  "verified": true,
+  "verifyNotes": "No field changes. Opened the product page: Ecuadorian Connecticut wrapper, Nicaraguan binder, Honduran and Nicaraguan filler, mild to medium, size and box of 20 are as stated. The shop does not publish the country of manufacture or factory, and no other source covers this house cigar."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Crook of the Crown",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Indonesia",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "mulled wine",
+   "carob",
+   "red spice",
+   "espresso",
+   "dark chocolate",
+   "nuts"
+  ],
+  "about": "Crook of the Crown is the debut blend from Stolen Throne, the Virginia boutique brand founded by Lee Marsh and JR Cannon, released in 2019. It is a San Andrés maduro made with Noel Rojas in Esteli, Nicaragua.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://stolenthronecigars.com/our-cigars/",
+   "https://blindmanspuff.com/blind-cigar-review-stolen-throne-crook-of-the-crown-robusto/",
+   "https://atlanticcigar.com/stolen-throne-crook-of-the-crown-robusto-5x50/"
+  ],
+  "notes": "Strength: Atlantic Cigar lists medium to full and Luxury Cigar Club medium plus; a Blind Man's Puff panel and other reviews rated it medium. Filler: the maker lists Nicaraguan; Blind Man's Puff and Luxury Cigar Club list Indonesian and Nicaraguan. Older reviews name other factories tied to blender Noel Rojas.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, binder and filler confirmed on the maker's page; country, factory and strength on Atlantic Cigar; 2019 release on Blind Man's Puff; sizes on Smokingpipes and Luxury Cigar Club. Notes expanded with the factory name variants I found and corrected on where the 10-year wrapper claim comes from."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Three Kingdoms",
+  "found": true,
+  "officialName": "3 Kingdoms",
+  "wrapperLeaf": "Ecuadorian Habano Oscuro",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "dark chocolate",
+   "leather",
+   "black licorice",
+   "espresso",
+   "cedar",
+   "black pepper"
+  ],
+  "about": "3 Kingdoms is the third regular blend from Stolen Throne, released in late 2021 and made at the Rojas Cigar Factory in Nicaragua. It is the brand's full-strength cigar, with a Habano Oscuro wrapper over Nicaraguan tobaccos.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://stolenthronecigars.com/our-cigars/",
+   "https://www.famous-smoke.com/brand/3-kingdoms-cigars",
+   "https://atlanticcigar.com/stolen-throne-iii-kingdoms-robusto-5x50/"
+  ],
+  "notes": "Some retailers write the name as III Kingdoms. Wrapper origin is disputed: the maker and Famous Smoke's description say Ecuadorian Habano Oscuro, while Famous Smoke's spec table and a Simply Stogies review say Nicaraguan. Atlantic lists binder and filler as undisclosed; the maker's site lists both as Nicaraguan.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, binder and filler confirmed on the maker's page; country, factory and Full strength on Atlantic Cigar and Famous Smoke; sizes on Famous Smoke and Smokingpipes. Confirmed the 2021 release on two pages (simplystogies.com review and oakglentobacconist.com post of 2021-11-17) and named them in the notes."
+ },
+ {
+  "brand": "Stolen Throne",
+  "line": "Call to Arms",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Sumatra",
+  "wrapperCategory": "Sumatra",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Rojas Cigar Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "baking spice",
+   "cream",
+   "graham cracker",
+   "honey"
+  ],
+  "about": "Call to Arms is the second regular blend from Stolen Throne, a Sumatra-wrapped cigar over Nicaraguan binder and filler made at the Rojas Cigar Factory in Nicaragua.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://stolenthronecigars.com/our-cigars/",
+   "https://atlanticcigar.com/stolen-throne-call-to-arms-robusto-5x50/",
+   "https://luxurycigarclub.com/products/stolen-throne-call-to-arms"
+  ],
+  "notes": "The maker lists the wrapper only as Sumatran. Luxury Cigar Club says Ecuadorian Sumatra, but no maker or top-tier source confirms the growing country, so wrapper origin is left blank. No source gives a firm release year; it followed Crook of the Crown and was being reviewed by March 2021.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, binder and filler confirmed on the maker's page; country, factory and Medium strength on Atlantic Cigar; sizes on Smokingpipes and Luxury Cigar Club. Dropped the note about a retailer blog quoting Lee Marsh on strength, which I could not find."
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Skull Breaker",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "USA",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Belicoso",
+    "length": 5.25,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "black pepper",
+   "cocoa",
+   "cedar",
+   "earth",
+   "espresso"
+  ],
+  "about": "Skull Breaker is a Connecticut Broadleaf belicoso in the Surrogates line, blended by Pete Johnson of Tatuaje and rolled by the Garcia family at My Father Cigars in Nicaragua. It is one of the two original Surrogates cigars.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2012/08/cigar-preview-latelier-surrogates.html",
+   "https://cigardojo.com/2014/01/surrogates-skull-breaker/",
+   "https://tobacconistofgreenwich.com/product/surrogates-skull-breaker/"
+  ],
+  "notes": "Each Surrogates name is a single size. The line began as a New Havana Cigars house brand, moved to L'Atelier Imports in 2012, and is now sold under Tatuaje, whose own site does not list it. Body is disputed: Cigar Coop rated it medium while Cigar Dojo called it full bodied, so body is left blank.",
+  "verified": true,
+  "verifyNotes": "No field changes. Wrapper, binder, filler and size confirmed on Cigar Coop, Cigar Dojo and Tobacconist of Greenwich; country and factory on Cigar Dojo and Tobacconist of Greenwich; Full strength on Tobacconist of Greenwich and a 2012 Cigar Coop review; 2011 on a November 2011 Stogie Review piece. halfwheel pages would not open (HTTP 402), so the exact day in the researcher's note was replaced with the month."
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Tramp Stamp",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars",
+  "strength": "Medium-Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 5.25,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "minerals",
+   "pepper",
+   "cherry"
+  ],
+  "about": "Tramp Stamp is the Ecuadorian Habano robusto in the Surrogates line, blended by Pete Johnson of Tatuaje and made at My Father Cigars in Nicaragua. It was added when L'Atelier Imports took the line national in 2012.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/ratings/19095/name/surrogates-tramp-stamp-robusto",
+   "https://cigar-coop.com/2012/11/cigar-review-surrogates-tramp-stamp-by.html",
+   "https://www.coronacigar.com/latelier-surrogates-tramp-stamp"
+  ],
+  "notes": "Wrapper: Corona Cigar and Cigars Direct say Ecuadorian Habano Oscuro; Cigar Aficionado and Cigar Coop say Ecuadorian Habano. Strength: Corona Cigar, Cigars Direct and Cigar Coop say medium to full, while Cigar Aficionado called it very full-bodied. Each Surrogates name is a single size; the line is now sold under Tatuaje.",
+  "verified": true,
+  "verifyNotes": "Changed flavor 'black pepper' to 'pepper' to match Cigar Coop's wording. Note corrected: the Cigars Direct product page lists Medium-Full, not Full, and it (not Cigars International, which I did not open) is the second retailer calling the wrapper Habano Oscuro. Blend, country, factory, size, strength and 2012 release all confirmed on Cigar Aficionado, Cigar Coop and Corona Cigar."
+ },
+ {
+  "brand": "Surrogates",
+  "line": "Crystal Baller",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "My Father Cigars",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Toro (box-pressed)",
+    "length": 5.75,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "earth",
+   "pepper",
+   "cherry",
+   "incense"
+  ],
+  "about": "Crystal Baller is the box-pressed Ecuadorian Habano toro in the Surrogates line, blended by Pete Johnson of Tatuaje and made at My Father Cigars in Nicaragua. It was added when L'Atelier Imports took the line national in 2012.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/ratings/16720/name/surrogates-crystal-baller-toro",
+   "https://cigar-coop.com/2013/02/cigar-review-surrogates-crystal-baller.html",
+   "https://www.cigarsdirect.com/products/tatuaje-surrogates-crystal-baller"
+  ],
+  "notes": "Ring gauge is unsettled: current retailers list 56 (used here), while Cigar Aficionado and Cigar Coop list 54, so check the box if a guest asks. Strength: Cigars Direct and Cigar Coop say medium to full; Tobacconist of Greenwich lists full. Each Surrogates name is a single size; the line is now sold under Tatuaje.",
+  "verified": true,
+  "verifyNotes": "No field changes, but the ring gauge is not settled: I confirmed 56 on two current retailer pages and 54 on Cigar Aficionado and two Cigar Coop pages, and there is no maker page to break the tie. Kept 56 with the warning. Wrapper, binder, filler, country, factory, strength and 2012 release confirmed. Dropped the note about a Cigars Direct collection blurb I did not open; added that Tobacconist of Greenwich lists Full."
+ }
+]

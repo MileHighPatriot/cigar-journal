@@ -48,3 +48,10 @@ export function WrapperDot({ wrapper }: { wrapper: string | null }) {
     </span>
   )
 }
+
+/** Just the shade, with no label: for use beside a longer description of the wrapper. */
+export function WrapperSwatch({ wrapper }: { wrapper: string | null }) {
+  const leaf = wrapper ? LEAF[wrapper] : undefined
+  if (!leaf) return null
+  return <span className="leaf-dot leaf-dot-inline" data-leaf={leaf} aria-hidden="true" />
+}

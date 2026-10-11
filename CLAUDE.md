@@ -8,6 +8,8 @@ Kohlton's personal cigar journal: an offline-capable Home Screen web app (PWA) f
 
 Phase 1 build in progress, one tab at a time at Kohlton's request (he looks at each before the next). Done: setup, shell and PWA, data layer, journal list, quick log, Cigars tab, Humidor tab, Settings and backup, Wishlist, Stats, Compare, full log. Every Phase 1 screen is built; what is left is the final acceptance pass in SPEC section 19 and Kohlton's phone checks. SPEC section 23 lists what changed along the way.
 
+The cigar list is researched (2026-10-11): 935 cigars, 914 fact-checked against maker and retailer sites. The results live in `seed/research/batch-NN.json`; fix a cigar there and run `npm run seed`, and bump `SEED_VERSION` in the script so devices pick it up. Never fill a cigar detail from memory: a field with no source stays empty.
+
 ## Commands
 
 - Dev server: `npm run dev` (port 5173, bound to the network)

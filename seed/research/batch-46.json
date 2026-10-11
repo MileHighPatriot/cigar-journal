@@ -1,0 +1,1146 @@
+[
+  {
+    "brand": "Punch",
+    "line": "Rare Corojo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra (rosado)",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Honduras, Nicaragua, Dominican Republic (Piloto Cubano)",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rapido",
+        "length": 5,
+        "ring": 40
+      },
+      {
+        "name": "Elite",
+        "length": 5.25,
+        "ring": 45
+      },
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Champion",
+        "length": 4.5,
+        "ring": 60
+      },
+      {
+        "name": "Pita",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "Gusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Magnum",
+        "length": 5.25,
+        "ring": 54
+      },
+      {
+        "name": "El Doble",
+        "length": 5.875,
+        "ring": 60
+      },
+      {
+        "name": "En Crystale",
+        "length": 5.5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "leather",
+      "baking spice",
+      "wood",
+      "pepper"
+    ],
+    "about": "A Honduran-made Punch from General Cigar with a reddish Ecuadorian Sumatra wrapper. It was sold as a seasonal limited release from 2001 until it became a year-round line in January 2025.",
+    "released": 2001,
+    "production": "regular",
+    "sources": [
+      "https://www.punchcigars.com/products/rare-corojo/",
+      "https://halfwheel.com/punch-rare-corojo-becomes-regular-production-release/445976/",
+      "https://www.holts.com/cigars/all-cigar-brands/punch-rare-corojo.html"
+    ],
+    "notes": "Despite the name, the wrapper is Ecuadorian Sumatra, not Corojo. Holt's rates it medium-full, Neptune rates it full. It was a limited seasonal release until 2025.",
+    "verified": true,
+    "verifyNotes": "Added the En Crystale (5 1/2 x 54), which Punch and halfwheel both list. Everything else matched Punch, halfwheel, Holt's and Neptune. Punch's own size chart rounds El Doble to 6 x 60; halfwheel, Holt's and Neptune give 5 7/8 x 60, so that was kept."
+  },
+  {
+    "brand": "Punch",
+    "line": "Gran Puro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Havana Seed (sun grown)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Santa Rita",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Rancho",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Pico Bonito",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Sesenta",
+        "length": 6.25,
+        "ring": 60
+      },
+      {
+        "name": "Sierra",
+        "length": 6.5,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "leather",
+      "baking spice",
+      "black pepper",
+      "earth",
+      "cedar"
+    ],
+    "about": "An all-Honduran Punch from General Cigar, introduced in 2003. It uses a sun-grown Havana-seed wrapper over Honduran binder and filler.",
+    "released": 2003,
+    "production": "regular",
+    "sources": [
+      "https://www.punchcigars.com/products/gran-puro/",
+      "https://halfwheel.com/punch-gran-puro-nicaragua-coming-february/138157/",
+      "https://www.holts.com/cigars/all-cigar-brands/punch-gran-puro.html"
+    ],
+    "notes": "Holt's and Famous rate it medium-full, Neptune rates it medium. Famous lists the Sesenta as 6 x 60. A separate Gran Puro Nicaragua line with a Connecticut Broadleaf wrapper was added in 2017.",
+    "verified": true,
+    "verifyNotes": "No changes. Wrapper, blend and sizes matched punchcigars.com; strength matched Holt's and Famous. No page names the factory for Gran Puro itself: STG Danlí rests on halfwheel saying every General-owned Punch before Diablo came from the company's Honduran factory."
+  },
+  {
+    "brand": "Punch",
+    "line": "Clasico",
+    "found": true,
+    "officialName": "Clásico",
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Honduras, Nicaragua, Dominican Republic (Piloto Cubano)",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "London Club",
+        "length": 5,
+        "ring": 40
+      },
+      {
+        "name": "Magnum",
+        "length": 5.25,
+        "ring": 54
+      },
+      {
+        "name": "Grandote",
+        "length": 5.875,
+        "ring": 60
+      },
+      {
+        "name": "Pita",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "Café Royale",
+        "length": 5.625,
+        "ring": 44
+      },
+      {
+        "name": "Punch",
+        "length": 6.25,
+        "ring": 44
+      },
+      {
+        "name": "Double Corona",
+        "length": 6.75,
+        "ring": 48
+      },
+      {
+        "name": "After Dinner",
+        "length": 7.25,
+        "ring": 45
+      },
+      {
+        "name": "Presidente",
+        "length": 8.5,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "spice",
+      "earth"
+    ],
+    "about": "The core Honduran Punch line from General Cigar, now sold under the Clásico name. It pairs an Ecuadorian Sumatra wrapper with a Connecticut Broadleaf binder and a three-country filler.",
+    "released": 1969,
+    "production": "regular",
+    "sources": [
+      "https://www.punchcigars.com/products/clasico/",
+      "https://www.neptunecigar.com/cigar/punch",
+      "https://halfwheel.com/punch-diablo-diabolus/279955/"
+    ],
+    "notes": "Clásico is the current name for the original Honduran Punch, which dates to 1969. Holt's and Neptune rate it medium, Famous says medium to full. A Clásico Maduro with a Connecticut Broadleaf wrapper is sold alongside it.",
+    "verified": true,
+    "verifyNotes": "Removed Elites: it is not on Punch's or Neptune's size list and retailers disagree on it (Holt's 5 1/4 x 44, Famous 5 1/4 x 45). Added Café Royale (5 5/8 x 44) from Punch and Neptune. Punch's chart gives Grandote as 6 1/4 x 60; Neptune and Famous give 5 7/8 x 60, which was kept. 1969 is Neptune's date for the Honduran Punch. The halfwheel link is a Diablo review kept only because it supports the factory; it does not name Clásico."
+  },
+  {
+    "brand": "Punch",
+    "line": "Diablo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra Oscuro",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Nicaragua (Habano ligero), Honduras (Habano ligero)",
+    "country": "Nicaragua",
+    "factory": "Tabacalera AJ Fernandez Cigars de Nicaragua",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Stump",
+        "length": 4.5,
+        "ring": 60
+      },
+      {
+        "name": "Gusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Diabolus",
+        "length": 5.25,
+        "ring": 54
+      },
+      {
+        "name": "Scamp",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "Brute",
+        "length": 6.25,
+        "ring": 60
+      },
+      {
+        "name": "El Diablo",
+        "length": 6.5,
+        "ring": 66
+      }
+    ],
+    "flavors": [
+      "earth",
+      "wood",
+      "pepper",
+      "leather",
+      "coffee"
+    ],
+    "about": "Billed by General Cigar as the strongest Punch, made for it by AJ Fernandez in Estelí, Nicaragua. It was the first General-owned Punch made outside the company's Honduran factory.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://www.punchcigars.com/products/diablo/",
+      "https://halfwheel.com/punch-diablo-diabolus/279955/",
+      "https://www.famous-smoke.com/brand/punch-diablo-cigars"
+    ],
+    "notes": "Famous and Neptune list the Brute as 6 x 60; halfwheel and Holt's list 6 1/4 x 60.",
+    "verified": true,
+    "verifyNotes": "Reworded the about line so the strongest claim is attributed to the maker. All fields matched Punch, halfwheel, Famous, Neptune and Holt's. halfwheel's own review measured strength at medium-full; Famous, Neptune and Holt's all list full."
+  },
+  {
+    "brand": "Punch",
+    "line": "Knuckle Buster",
+    "found": true,
+    "officialName": "Knuckle Buster Habano",
+    "wrapperLeaf": "Nicaraguan Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Habano)",
+    "filler": "Nicaragua (Habano), Honduras (Habano)",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Stubby",
+        "length": 4.5,
+        "ring": 60
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gordo",
+        "length": 6.25,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "caramel",
+      "pepper",
+      "almond"
+    ],
+    "about": "A value-priced Punch from General Cigar, launched in 2020 as an everyday smoke. The original blend uses Nicaraguan Habano wrapper and binder over Nicaraguan and Honduran filler.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://www.punchcigars.com/products/knuckle-buster-habano/",
+      "https://halfwheel.com/general-cigar-co-slates-punch-knuckle-buster-for-march/373154/",
+      "https://halfwheel.com/punch-knuckle-buster-habano-stubby-shipping-in-april/421453/"
+    ],
+    "notes": "This is the original Habano blend. Knuckle Buster Maduro (2022, Connecticut Broadleaf) and Shade (Ecuadorian Connecticut) are separate blends. Famous calls the Habano medium to full; Punch and Neptune say medium.",
+    "verified": true,
+    "verifyNotes": "Removed the 2024 date for Knuckle Buster Shade from the notes because no page I opened gives it. All other fields matched Punch, halfwheel and Neptune."
+  },
+  {
+    "brand": "Punch",
+    "line": "Signature",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Habano)",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Torpedo",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "Pita",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "cedar",
+      "leather",
+      "earth"
+    ],
+    "about": "A fuller Punch introduced in 2015 as a tribute to the original non-Cuban Punch blend. It uses an Ecuadorian Corojo wrapper grown for the line over a Connecticut Habano binder.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://www.punchcigars.com/products/signature/",
+      "https://halfwheel.com/punch-signature-gets-updated-packaging/391269/",
+      "https://www.famous-smoke.com/brand/punch-signature-cigars"
+    ],
+    "notes": "Famous lists the binder as Nicaraguan; Punch and halfwheel say Connecticut Habano. Punch and retailers call it full, though the brand manager described it as medium-plus in 2021.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Punch",
+    "line": "Bareknuckle",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": null,
+    "filler": "Nicaragua, Honduras",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Full",
+    "body": null,
+    "sizes": [],
+    "flavors": [
+      "pepper",
+      "earth",
+      "espresso",
+      "cedar"
+    ],
+    "about": "A Honduran-made Punch that General Cigar produced as an exclusive for the retailer Cigars International. It has an Ecuadorian Habano wrapper over Nicaraguan and Honduran filler.",
+    "released": null,
+    "production": null,
+    "sources": [
+      "https://www.neptunecigar.com/cigar/punch-bareknuckle",
+      "https://cigar-coop.com/2013/09/cigar-review-punch-bareknuckle.html"
+    ],
+    "notes": "Made as a Cigars International exclusive and reviewed as new in 2013, so most shops will not have it. It is not on the Punch website. Neptune calls it full strength with an undisclosed binder; Cigar Coop's review rated it medium to full. Neptune shows no sizes in stock.",
+    "verified": true,
+    "verifyNotes": "Wrapper, filler, country and strength matched Neptune's page. Added Cigar Coop's 2013 review as a second source: it confirms the wrapper and filler and shows this was a Cigars International exclusive, which the about and notes now say. Sizes left empty because only Cigar Coop lists them."
+  },
+  {
+    "brand": "Punch",
+    "line": "Deluxe",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Honduras, Nicaragua, Dominican Republic (Piloto Cubano)",
+    "country": "Honduras",
+    "factory": null,
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Royal Coronation",
+        "length": 5.25,
+        "ring": 44
+      },
+      {
+        "name": "Chateau L",
+        "length": 7.25,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "nuts",
+      "wood",
+      "leather",
+      "spice",
+      "coffee"
+    ],
+    "about": "A Honduran-made Punch from General Cigar sold in a few traditional sizes, mainly the 7 1/4 x 54 Chateau L. The natural version uses an Ecuadorian Sumatra wrapper.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://www.punchcigars.com/products/deluxe/",
+      "https://www.holts.com/cigars/all-cigar-brands/punch-deluxe.html",
+      "https://www.famous-smoke.com/brand/punch-deluxe-cigars"
+    ],
+    "notes": "Punch calls it medium-bodied, while Holt's lists it as full. The Chateau L also comes in Maduro and Maduro Maduro (oscuro) versions with a Connecticut Broadleaf wrapper.",
+    "verified": true,
+    "verifyNotes": "Reworded the about line: no page calls the Chateau L a double corona or says it is the best known size. All other fields matched Punch, Holt's and Famous."
+  },
+  {
+    "brand": "Punch",
+    "line": "Golden Circle",
+    "found": false,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": null,
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [],
+    "about": null,
+    "released": null,
+    "production": null,
+    "sources": [],
+    "notes": "Could not confirm a Punch line called Golden Circle. It is not on the Punch website or in the Punch listings at Neptune, Famous or Holt's. Punch does make a Golden Era line (2023, with the Eiroa family), which may be what was meant.",
+    "verified": false,
+    "verifyNotes": "Looked again: no result for a Punch Golden Circle, it is not in the product list on punchcigars.com, and Neptune has no page for it. Neptune and Punch do list Golden Era, made with JRE Tobacco. Left as not found."
+  },
+  {
+    "brand": "Punch",
+    "line": "The People's Champ",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Habano (Talanga Valley)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Honduras",
+    "binder": "Mexico (San Andrés)",
+    "filler": "Brazil, Dominican Republic, Nicaragua",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Brobusto",
+        "length": 5,
+        "ring": 50
+      }
+    ],
+    "flavors": [],
+    "about": "A limited 2022 Punch robusto that General Cigar developed over three years with feedback from its Punch Brotherhood fan club. It was sold in bundles through brick-and-mortar shops only.",
+    "released": 2022,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/punch-crowdsources-fans-for-the-peoples-champ/409059/",
+      "https://www.neptunecigar.com/cigar/punch-brotherhood-the-people-s-champ"
+    ],
+    "notes": "One size only, a 5 x 50 robusto sold in 5 and 10 count bundles. Some retailers list it as Punch Brotherhood The People's Champ.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Quesada",
+    "line": "40th Anniversary",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Dominican Republic (Criollo)",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Quesada Cigars",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Toro Real",
+        "length": 6,
+        "ring": 65
+      }
+    ],
+    "flavors": [
+      "earth",
+      "spice"
+    ],
+    "about": "Released in 2014 to mark Manuel \"Manolo\" Quesada Jr.'s 40 years in the cigar business. The regular sizes use a Mexican San Andrés wrapper over Dominican binder and Dominican and Nicaraguan filler.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/quesada-40th-anniversary-short-robusto/75475/",
+      "https://halfwheel.com/quesada-40th-anniversary-corona-clasica/69066/",
+      "https://www.neptunecigar.com/cigar/quesada-40th-anniversary"
+    ],
+    "notes": "The Corona Clasica size is a different blend with an Ecuadorian Connecticut wrapper, known as the Manolo blend. Toro Press and Salomon Press were limited editions. Full is Neptune's rating; halfwheel's review of the 4 x 50 size found it medium.",
+    "verified": true,
+    "verifyNotes": "Added to the notes that halfwheel's review found medium strength, against Neptune's full. Criollo for the binder comes from Neptune's description; halfwheel lists the regular blend's binder only as Dominican and uses Criollo for the Corona Clasica. Everything else matched."
+  },
+  {
+    "brand": "Quesada",
+    "line": "Reserva Privada",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Dominican Republic (Criollo, 1997 vintage)",
+    "filler": "Dominican Republic (San Vicente), USA (Pennsylvania ligero)",
+    "country": "Dominican Republic",
+    "factory": "Quesada Cigars",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 5.625,
+        "ring": 54
+      },
+      {
+        "name": "Toro Gordo",
+        "length": 6.5,
+        "ring": 56
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "nuts",
+      "hay",
+      "pepper"
+    ],
+    "about": "Introduced in 2015 as what was then Quesada's most premium line, built around Dominican San Vicente tobacco from the 1997 harvest. The cigars are aged for at least a year after rolling.",
+    "released": 2015,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/quesada-reserva-privada-robusto-prerelease/82168/",
+      "https://halfwheel.com/quesada-reserva-privada-churchill/144227/",
+      "https://www.famous-smoke.com/brand-quesada-reserva-privada"
+    ],
+    "notes": "Production is limited by the supply of 1997 vintage tobacco. Oscuro (Connecticut Broadleaf wrapper) and Barber Pole versions are separate releases. Strength is Famous Smoke's rating. Famous lists the Robusto as 4 3/4 x 52; halfwheel says 4 1/2 x 52.",
+    "verified": true,
+    "verifyNotes": "Corrected the Robusto from 4.75 to 4.5 inches: both halfwheel pages say 4 1/2 x 52 and only Famous says 4 3/4. Reworded the about line to drop top-tier. Wrapper, binder, filler, factory and year matched halfwheel; medium matched Famous."
+  },
+  {
+    "brand": "Quesada",
+    "line": "Oktoberfest",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Dominican Republic",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacos de Exportación",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Bavarian",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Das Boot",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Über",
+        "length": 6,
+        "ring": 65
+      },
+      {
+        "name": "Kaiser Ludwig",
+        "length": 6,
+        "ring": 49
+      },
+      {
+        "name": "Salomon Press",
+        "length": 6.75,
+        "ring": 50
+      }
+    ],
+    "flavors": [],
+    "about": "An annual limited release from Quesada, first made in 2011 and blended to pair with the Märzen-style beer served at Oktoberfest. It ships each year in late summer.",
+    "released": 2011,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/quesada-oktoberfest-2026-ships/478579/",
+      "https://halfwheel.com/quesada-oktoberfest-2022-the-bavarian/416185/",
+      "https://www.neptunecigar.com/cigar/quesada-oktoberfest"
+    ],
+    "notes": "Recent releases (2021 on) use a San Andrés wrapper; Neptune still describes an older version with a Dominican wrapper. Sizes vary by year, with Bavarian, Das Boot and Über as the core three. Full is Neptune's rating; halfwheel's 2022 review put strength just over medium.",
+    "verified": true,
+    "verifyNotes": "Blend, factory, sizes and year matched halfwheel's 2022 and 2026 pages. Full is on Neptune's page, but that page describes the older Dominican-wrapped blend, so the notes now add halfwheel's lower reading. No maker page could be reached."
+  },
+  {
+    "brand": "Quesada",
+    "line": "Heisenberg",
+    "found": true,
+    "officialName": "Heisenberg by Quesada",
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Dominican Republic",
+    "factory": "Quesada Cigars",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 48
+      },
+      {
+        "name": "W²",
+        "length": 5,
+        "ring": 60
+      },
+      {
+        "name": "W65",
+        "length": 4,
+        "ring": 65
+      },
+      {
+        "name": "w",
+        "length": 3,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "sweet tobacco",
+      "pepper",
+      "spice"
+    ],
+    "about": "A Quesada line launched in January 2013 with the tagline \"Embrace Uncertainty\". Quesada deliberately keeps the blend secret so smokers judge it without preconceptions.",
+    "released": 2013,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/heisenberg-quesada-short-robusto/75832/",
+      "https://halfwheel.com/new-sizes-heisenberg-quesada/41358/",
+      "https://www.neptunecigar.com/cigar/quesada-heisenberg"
+    ],
+    "notes": "The blend is secret by design: Quesada has never disclosed wrapper, binder, filler or strength. Medium-full and the reddish Corojo maduro wrapper are Neptune's description, not confirmed by Quesada. It also launched in Corona, Petite and Coronet Cuadrada sizes.",
+    "verified": true,
+    "verifyNotes": "No field changes. halfwheel confirms Quesada publishes no blend or strength (it lists wrapper, binder and filler as n/a). Medium-full and the flavor words come from Neptune's page only; the notes now say so."
+  },
+  {
+    "brand": "Recluse",
+    "line": "Draconian",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Ecuador",
+    "binder": null,
+    "filler": "Brazil, Dominican Republic (Piloto Cubano, ligero), Iconic ligero (proprietary)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera Leyendas Cubanas",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 50
+      },
+      {
+        "name": "Tarantula",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Sidewinder #3",
+        "length": 7,
+        "ring": 57
+      },
+      {
+        "name": "Kanú #3",
+        "length": 8,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "spice",
+      "cream",
+      "coffee"
+    ],
+    "about": "A 2013 release from Iconic Leaf Cigar Company's Recluse brand, rolled entubado style in the Dominican Republic. It introduced the company's box-pressed Sidewinder shape.",
+    "released": 2013,
+    "production": null,
+    "sources": [
+      "https://iconicleafcigar.com/recluse-draconian",
+      "https://halfwheel.com/press-release-iconic-leaf-recluse-draconian/35756/",
+      "https://www.neptunecigar.com/cigar/recluse-draconian"
+    ],
+    "notes": "The binder is proprietary and not disclosed. It launched in 2013 in three Sidewinder sizes; the maker now lists the five sizes shown. Draconian Corojo, Connecticut and Habano versions were added in 2016 as separate blends.",
+    "verified": true,
+    "verifyNotes": "Replaced the sizes with the five on the maker's page (Robusto, Toro, Tarantula, Sidewinder 3, Kanu #3). Sidewinder #1 and #2 were removed because their dimensions were borrowed from other Recluse lines, not stated for Draconian. Filler reworded to match the maker and the 2013 press release. Added the maker's page as a source in place of the 2016 trade show report. Medium is Neptune's rating."
+  },
+  {
+    "brand": "Recluse",
+    "line": "Amadeus Habano",
+    "found": true,
+    "officialName": "Amadeus Habano Reserva",
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Mexico (San Andrés)",
+    "filler": "Dominican Republic (ligero, viso, seco), USA (Pennsylvania Broadleaf)",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera Leyendas Cubanas",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 50
+      },
+      {
+        "name": "Tarantula",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      },
+      {
+        "name": "Sidewinder #3",
+        "length": 7,
+        "ring": 57
+      },
+      {
+        "name": "Kanú #3",
+        "length": 8,
+        "ring": 58
+      }
+    ],
+    "flavors": [],
+    "about": "A habano-wrapped follow-up to the Connecticut-wrapped Recluse Amadeus, introduced by Iconic Leaf at the 2015 trade show. It is rolled entubado style in the Dominican Republic.",
+    "released": 2015,
+    "production": null,
+    "sources": [
+      "https://iconicleafcigar.com/recluse-amadeus-habano",
+      "https://halfwheel.com/recluse-plans-amadeus-habano-reserva-for-ipcpr-2015/87473/"
+    ],
+    "notes": "The maker now lists an Ecuadorian Habano wrapper; at the 2015 launch it was undisclosed. The maker gives no strength. Neptune's page for this cigar describes a different blend (Ecuadorian Connecticut over Nicaraguan tobacco), so do not rely on it.",
+    "verified": true,
+    "verifyNotes": "Wrapper changed from origin undisclosed to Ecuadorian Habano, and filler expanded, from the maker's own page. Sizes replaced with the six the maker lists now; Sidewinder #1 and #2 were 2015 launch sizes the maker no longer shows. Removed the Neptune link because its description is of a different blend. Strength stays blank: the maker does not publish one."
+  },
+  {
+    "brand": "Recluse",
+    "line": "OTG",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Brazilian Cubra Maduro",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "Brazil",
+    "binder": "Cameroon",
+    "filler": "Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera Leyendas Cubanas",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6.25,
+        "ring": 50
+      },
+      {
+        "name": "Tarantula",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Sidewinder #3",
+        "length": 7,
+        "ring": 57
+      },
+      {
+        "name": "Kanú #3",
+        "length": 8,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "cedar",
+      "earth",
+      "spice",
+      "pepper"
+    ],
+    "about": "The original Recluse blend from Iconic Leaf Cigar Company, released in 2012 with a Brazilian maduro wrapper. OTG stands for Off The Grid, and the cigars are rolled entubado style in the Dominican Republic.",
+    "released": 2012,
+    "production": null,
+    "sources": [
+      "https://iconicleafcigar.com/recluse-otg",
+      "https://halfwheel.com/review-iconic-leaf-recluse-toro-prerelease/31846/",
+      "https://www.neptunecigar.com/cigar/recluse-otg"
+    ],
+    "notes": "OTG is the original Recluse maduro. It launched in 2012 in ten sizes; the maker now lists the five shown. The 2012 launch material named a Cameroon binder; the maker now says only select binder and Neptune lists it as undisclosed.",
+    "verified": true,
+    "verifyNotes": "Replaced the ten 2012 launch sizes with the five the maker lists now. Added the maker's page as a source in place of the OTG Connecticut announcement. Wrapper, filler, factory and year matched halfwheel; medium matched Neptune. Notes now flag that the Cameroon binder comes from 2012 material only."
+  },
+  {
+    "brand": "Rojas",
+    "line": "Street Tacos Barbacoa",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Somoto)",
+    "country": "Nicaragua",
+    "factory": "Rojas Cigar Factory",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Short Corona",
+        "length": 5.5,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "The first blend in Noel Rojas's Street Tacos series, released in March 2021. It uses an Ecuadorian Sumatra wrapper over Nicaraguan binder and filler from the Somoto region.",
+    "released": 2021,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/rojas-street-tacos-barbacoa-robusto/394161/",
+      "https://halfwheel.com/rojas-street-tacos-carnitas-robusto-2/475006/",
+      "https://www.neptunecigar.com/cigar/rojas-street-tacos-barbacoa"
+    ],
+    "notes": "First made at Tabacalera Flor de San Luis; halfwheel now reports all Street Tacos are made at the Rojas Cigar Factory in Estelí. Neptune lists the Toro as 6 x 52, halfwheel as 6 x 50. Famous rates it full; Neptune and halfwheel's review say medium.",
+    "verified": true,
+    "verifyNotes": "No field changes. Added to the notes that Famous rates it full while Neptune and halfwheel's review put it at medium. The Gordo (6 x 60) appears only on Neptune; halfwheel and Famous list three sizes."
+  },
+  {
+    "brand": "Rojas",
+    "line": "Street Tacos Carnitas",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Rojas Cigar Factory",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Short Corona",
+        "length": 5.5,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cream",
+      "cedar",
+      "floral",
+      "vanilla",
+      "hay",
+      "white pepper"
+    ],
+    "about": "The second Street Tacos blend from Noel Rojas, released in July 2022. It is the Connecticut-wrapped member of the series, with Nicaraguan binder and filler.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/rojas-street-tacos-carnitas-robusto-2/475006/",
+      "https://halfwheel.com/pca-2022-rojas-cigars/409468/",
+      "https://www.neptunecigar.com/cigar/rojas-street-tacos-carnitas"
+    ],
+    "notes": "Neptune lists the Toro as 6 x 52; halfwheel lists the box-pressed Toro as 6 x 50.",
+    "verified": true,
+    "verifyNotes": "No changes. The Gordo (6 x 60) appears only on Neptune; halfwheel and Famous list three sizes."
+  },
+  {
+    "brand": "Rojas",
+    "line": "Statement Habano",
+    "found": false,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": null,
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [],
+    "flavors": [],
+    "about": null,
+    "released": null,
+    "production": null,
+    "sources": [],
+    "notes": "Rojas Statement is a real line, but no source I could open lists a Habano version. Famous and Neptune carry only a San Andrés maduro Statement. Confirm with the Rojas rep before quoting a blend.",
+    "verified": false,
+    "verifyNotes": "Looked again: Famous and Neptune each list one Rojas Statement, with a Mexican San Andrés wrapper, and halfwheel's Rojas coverage has no Statement Habano. The Rojas website could not be reached. Left as not found."
+  },
+  {
+    "brand": "Rojas",
+    "line": "Statement Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés Maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": null,
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "sweet wood",
+      "earth",
+      "pepper",
+      "spice"
+    ],
+    "about": "One of the first lines in Noel Rojas's relaunched Rojas Cigars portfolio, kept to ring gauges of 50 and under. The maduro uses a Mexican San Andrés wrapper over Nicaraguan binder and filler.",
+    "released": null,
+    "production": null,
+    "sources": [
+      "https://www.famous-smoke.com/brand/rojas-statement-cigars",
+      "https://www.neptunecigar.com/cigar/rojas-statement",
+      "https://halfwheel.com/rojas-ksg/376376/"
+    ],
+    "notes": "Retailers list it simply as Rojas Statement. Strength is left blank because the two retailers disagree: Neptune says medium, Famous says full.",
+    "verified": false,
+    "verifyNotes": "Strength changed from Medium-Full to blank: no page says medium-full, Neptune says medium and Famous says full, and the Rojas website could not be reached. Removed the note about Famous mentioning an Ecuador Sumatra wrapper, which is not on the page. Wrapper, binder, filler, country and sizes matched Neptune and Famous."
+  },
+  {
+    "brand": "Rojas",
+    "line": "Unfinished Business",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua, Mexico",
+    "country": "Nicaragua",
+    "factory": "Rojas Cigar Factory",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Mareva",
+        "length": 5.125,
+        "ring": 42
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Corona Gorda",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      }
+    ],
+    "flavors": [],
+    "about": "A 2022 line from Noel Rojas and one of the first rolled at his own factory in Estelí. It keeps to ring gauges of 50 and under, with an Ecuadorian Sumatra wrapper.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/pca-2022-rojas-cigars/409468/",
+      "https://halfwheel.com/rojas-cigars-announces-unfinished-business-as-spring-2022-release/403134/",
+      "https://www.neptunecigar.com/cigar/rojas-unfinished-business"
+    ],
+    "notes": "Neptune lists a Mexican binder with Nicaraguan filler and the Toro as 6 x 52; halfwheel lists a Nicaraguan binder with Nicaraguan and Mexican filler and the Toro as 6 x 50.",
+    "verified": true,
+    "verifyNotes": ""
+  }
+]

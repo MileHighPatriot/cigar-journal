@@ -1,0 +1,1020 @@
+[
+  {
+    "brand": "Villiger",
+    "line": "La Flor de Ynclan",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Ecuador",
+    "binder": "Indonesia",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "ABAM Cigars S.R.L.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Lancero Especial",
+        "length": 6.75,
+        "ring": 43
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "walnut",
+      "cedar",
+      "chocolate",
+      "citrus",
+      "pepper"
+    ],
+    "about": "A Dominican-made Villiger line named after an old Cuban brand, reblended by Heinrich Villiger and Jose Matias Maragoto of the ABAM factory. The Robusto placed tenth on Cigar Aficionado's Top 25 of 2017.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://www.villigercigars.com/en-us/product/big-cigars/villiger-la-flor-de-ynclan/",
+      "https://halfwheel.com/la-flor-de-ynclan-torpedo/174673",
+      "https://www.cigaraficionado.com/top25cigar/villiger-la-flor-de-ynclan-robusto-2017"
+    ],
+    "notes": "This is the 2017 reblend of a line Villiger first sold from 2005 to 2007. Villiger rates it 3 out of 5 for strength and Neptune lists medium, but Cigar Aficionado rated the Robusto medium-full. The type of Ecuadorian wrapper leaf is not published. A 6 x 52 Toro added in 2019 is not on Villiger's current list.",
+    "verified": true,
+    "verifyNotes": "Swapped the Neptune source for Cigar Aficionado's Top 25 page, which backs the tenth-place claim in about. Added to notes that Cigar Aficionado rates the Robusto medium-full while Villiger (3 of 5) and Neptune say medium; strength left at Medium per the maker. Flavors still match Neptune's description. 2019 Toro confirmed at https://halfwheel.com/villiger-ships-la-flor-de-ynclan-toro/366090/."
+  },
+  {
+    "brand": "Villiger",
+    "line": "La Vencedora",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Habano Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "almond",
+      "caramel",
+      "cocoa",
+      "pepper",
+      "earth"
+    ],
+    "about": "A Nicaraguan puro made for Villiger at Joya de Nicaragua, launched in 2018 for the company's 130th anniversary. The name means the victor, and Villiger bills it as the fullest cigar in its range.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://www.villigercigars.com/en-us/product/big-cigars/villiger-la-vencedora/",
+      "https://halfwheel.com/villigers-la-vencedora-goes-gordo/271987/",
+      "https://www.neptunecigar.com/cigar/villiger-la-vencedora"
+    ],
+    "notes": "Villiger rates it 4 out of 5 for strength. Neptune lists it as full, while halfwheel's reviewer found the strength closer to medium. Villiger's current page shows a Torpedo but not the Gordo.",
+    "verified": true,
+    "verifyNotes": "Removed the Developing Palates strength remark from notes because I did not open a page that supports it. Everything else confirmed against Villiger, halfwheel and Neptune."
+  },
+  {
+    "brand": "Villiger",
+    "line": "San'Doro Colorado",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva S.A. (TABOLISA)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "leather",
+      "oak",
+      "cedar"
+    ],
+    "about": "The Ecuadorian Habano-wrapped member of Villiger's three-blend San'Doro family, with Nicaraguan binder and filler. Villiger says it placed in a top 25 list for the United States in 2018.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/villiger-shipping-sandoro/97762/",
+      "https://www.villigercigars.com/en-us/product/big-cigars/villiger-sandoro/",
+      "https://www.neptunecigar.com/cigar/villiger-san-doro-colorado"
+    ],
+    "notes": "Villiger rates it 4 out of 5 for strength, but Neptune lists it as medium. Launch coverage and Neptune name Oliva's TABOLISA factory, while a 2020 limited Diadema size was rolled at Joya de Nicaragua, so the current factory is uncertain.",
+    "verified": true,
+    "verifyNotes": "Removed two notes claims I could not open a page for (Blind Man's Puff strength, Cigar Coop calling the wrapper Nicaraguan). Sizes confirmed on Neptune; Villiger's own page shows the Robusto as 6 inches, which looks like a site error. Diadema factory confirmed at https://halfwheel.com/villiger-adding-limited-edition-sandoro-diademas/374152/."
+  },
+  {
+    "brand": "Villiger",
+    "line": "San'Doro Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Brazilian Mata Fina",
+    "wrapperCategory": "Mata Fina",
+    "wrapperOrigin": "Brazil",
+    "binder": "Brazil (Mata Norte)",
+    "filler": "Brazil (Mata Fina, Mata Norte)",
+    "country": "Brazil",
+    "factory": "Villiger do Brasil",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "leather",
+      "earth",
+      "cedar",
+      "oak"
+    ],
+    "about": "A Brazilian puro in Villiger's San'Doro family, rolled at the company's own factory in Bahia. It comes in a single Toro size.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/villiger-shipping-sandoro/97762/",
+      "https://www.villigercigars.com/en-us/product/big-cigars/villiger-sandoro/",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-villiger-sandoro-maduro-toro/"
+    ],
+    "notes": "Unlike the Nicaraguan-made San'Doro Claro and Colorado, this one is all Brazilian tobacco and made in Brazil. Villiger rates it 4 out of 5 for strength, though Developing Palates reviewers found it around medium. Villiger do Brasil opened in Bahia in 2018; the 2015 launch came from Villiger's earlier factory in the same city.",
+    "verified": true,
+    "verifyNotes": "Factory changed from 'Villiger do Brasil (formerly Charutos Tobajara), Bahia' to 'Villiger do Brasil'. halfwheel (https://halfwheel.com/villiger-opens-new-brazilian-factory/264876/) names the factory and says it makes San'Doro Maduro, but no page I opened says it was formerly Charutos Tobajara; Developing Palates lists Charutos Tobajara as the factory for its review. Corrected the note on Developing Palates strength: one reviewer found medium to slightly above, the other just under."
+  },
+  {
+    "brand": "Villiger",
+    "line": "1888",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Ecuador",
+    "binder": "Mexico",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "ABAM Cigars S.R.L.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.875,
+        "ring": 50
+      },
+      {
+        "name": "Corona",
+        "length": 6,
+        "ring": 43
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "dried fruit",
+      "coffee",
+      "caramel",
+      "pepper",
+      "floral"
+    ],
+    "about": "Named for the year Villiger was founded, this was the first handmade premium cigar to carry the Villiger name. It is a Dominican-made blend put together by Heinrich Villiger and was reblended and repackaged in 2016.",
+    "released": 2009,
+    "production": "regular",
+    "sources": [
+      "https://www.villigercigars.com/en-us/product/big-cigars/villiger-1888-dominican-republic/",
+      "https://halfwheel.com/villiger-begins-rollout-relaunched-1888-line/135374/",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-villiger-1888-robusto/"
+    ],
+    "notes": "Details are for the 2016 reblend of the original line, which Villiger now labels 1888 Dominican Republic. There are separate 1888 Nicaragua and 1888 San Andres cigars with different blends made in Nicaragua, so check the band. The type of Ecuadorian wrapper leaf is not published.",
+    "verified": true,
+    "verifyNotes": "Reworded notes: the listed blend is the 2016 reblend, not the 2009 original, and dropped the 1888 Gran Reserva mention, which I did not confirm. Villiger rates it 3.5 of 5 and calls it medium-strength. Factory is from halfwheel; Developing Palates lists it as undisclosed."
+  },
+  {
+    "brand": "Villiger",
+    "line": "La Meridiana",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona",
+        "length": 5.5,
+        "ring": 42
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Torpedo",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill",
+        "length": 6.875,
+        "ring": 48
+      },
+      {
+        "name": "Toro Box Pressed",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "chocolate",
+      "coffee",
+      "earth",
+      "cedar",
+      "pepper"
+    ],
+    "about": "A Nicaraguan puro made for Villiger at Joya de Nicaragua, named after a 19th century Havana cigar factory once owned by Pedro Murias. The wrapper is said to be aged about four years.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/villiger-brings-la-meridiana-to-u-s-retailers/296867/",
+      "https://www.villigercigars.com/en-ch/product/big-cigars/villiger-la-meridiana/",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-villiger-la-meridiana-toro-box-press/"
+    ],
+    "notes": "It was a European-market line first and reached the United States in March 2019. The year it first launched in Europe was not found. Villiger still lists it on its Swiss and German sites but not on its U.S. page, and the wrapper leaf type is not published. Sizes shown are the U.S. launch sizes.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "La Colmena",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Deflorada (Connecticut seed)",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "USA",
+    "factory": "El Titan de Bronze",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Amado No. 44",
+        "length": 5.5,
+        "ring": 44
+      },
+      {
+        "name": "Amado No. 36",
+        "length": 6,
+        "ring": 36
+      }
+    ],
+    "flavors": [
+      "cream",
+      "honey",
+      "vanilla",
+      "white pepper",
+      "cedar"
+    ],
+    "about": "Warped's flagship, rolled in Miami at El Titan de Bronze in the style of Cuban custom rolls, with entubado bunching, a triple cap and a covered foot. The name means the beehive, and output is capped at about 100 cigars a day.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://www.warpedcigars.com/cigar-brands/la-colmena",
+      "https://halfwheel.com/la-colmena-amado-no-40/474055/",
+      "https://www.neptunecigar.com/cigar/warped-la-colmena"
+    ],
+    "notes": "Warped rates the body mild to medium, while Neptune lists it as medium. Warped's site currently shows only the Amado No. 44 as the regular size. Black Honey and Unico Especial are limited 5 x 48 versions, and Black Honey uses a darker Habano Oscuro wrapper.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "El Oso",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "USA",
+    "factory": "El Titan de Bronze",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Cub",
+        "length": 4,
+        "ring": 44
+      },
+      {
+        "name": "PaPa",
+        "length": 6,
+        "ring": 48
+      },
+      {
+        "name": "MaMa",
+        "length": 7,
+        "ring": 38
+      }
+    ],
+    "flavors": [
+      "dark fruit",
+      "spice",
+      "cream"
+    ],
+    "about": "The first line Kyle Gellis released when he brought Warped back in 2014, rolled in Miami at El Titan de Bronze. The name means the bear.",
+    "released": 2014,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/press-release-warped-cigars-announces-el-oso-bear/51207/",
+      "https://halfwheel.com/el-oso-ursus/113017/",
+      "https://cigardojo.com/2015/02/warped-cigars-el-oso-mama-cigar-review/"
+    ],
+    "notes": "El Oso is no longer listed on Warped's website, and recent releases such as El Oso Blanco and the 10th anniversary Grand Papa have been limited runs with altered blends. The MaMa lancero used a Mexican San Andrés wrapper instead of the Habano Oscuro.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "Flor del Valle",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan Jalapa Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Corojo 99, Criollo 98)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Cristales",
+        "length": 6,
+        "ring": 42
+      },
+      {
+        "name": "Gran Valle",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Las Brumas",
+        "length": 4.5,
+        "ring": 48
+      },
+      {
+        "name": "Sky Flower",
+        "length": 5.625,
+        "ring": 48
+      },
+      {
+        "name": "Seleccion del Valle",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cereal",
+      "bread",
+      "black pepper",
+      "nuts"
+    ],
+    "about": "A Nicaraguan puro of Aganorsa tobacco and the first Warped cigar made outside Miami. The name means flower of the valley.",
+    "released": 2014,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/warped-goes-nicaragua-flor-del-valle/62742/",
+      "https://halfwheel.com/flor-del-valle-seleccion-del-valle/365572/",
+      "https://cigardojo.com/2015/03/warped-cigars-flor-del-valle-cigar-review/"
+    ],
+    "notes": "Flor del Valle is no longer listed on Warped's website, so its current status is unclear. The Sky Flower size uses a tweaked, stronger blend with medio tiempo leaf in the filler.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "Maestro del Tiempo",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan shade grown Jalapa Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Corojo 99, Criollo 98)",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "5712",
+        "length": 4.5,
+        "ring": 52
+      },
+      {
+        "name": "5205",
+        "length": 6.375,
+        "ring": 42
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "cream",
+      "vanilla",
+      "walnut"
+    ],
+    "about": "A Nicaraguan puro built from Aganorsa tobaccos chosen from farms and lots Warped had not used before. The name means master of time.",
+    "released": 2016,
+    "production": "discontinued",
+    "sources": [
+      "https://www.warpedcigars.com/cigar-brands/maestro-del-tiempo",
+      "https://halfwheel.com/warped-discontinues-futuro-maestro-del-tiempo/445990/",
+      "https://halfwheel.com/warped-plans-maestro-del-tiempo-for-ipcpr-2016/112093/"
+    ],
+    "notes": "Warped told retailers in January 2025 that the line was being discontinued, though its website still shows it as regular production. The limited 6102R (5 1/4 x 48, with medio tiempo leaf) was announced to return in fall 2026. Kyle Gellis called the blend medium to full at launch, but Warped's site now rates it medium.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "La Hacienda",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan shade grown Jalapa Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua (Corojo 99)",
+    "filler": "Nicaragua (Corojo 99, Criollo 98)",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Gran Robusto",
+        "length": 5.5,
+        "ring": 52
+      },
+      {
+        "name": "Superiores",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "First Growth",
+        "length": 4,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "leather",
+      "pistachio",
+      "earth",
+      "citrus",
+      "white pepper"
+    ],
+    "about": "Warped's revival of an old Cuban brand name, made as a Nicaraguan puro with Aganorsa tobacco. The name means the estate.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://www.warpedcigars.com/cigar-brands/la-hacienda",
+      "https://halfwheel.com/la-hacienda-first-growth/402228/",
+      "https://halfwheel.com/warped-shipping-la-hacienda-this-week/82499/"
+    ],
+    "notes": "First Growth, added in 2021, uses higher priming leaves than the original two sizes for more body and spice.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "Cloud Hopper",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan shade grown Jalapa Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Corojo 99, Criollo 98)",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 53",
+        "length": 5.25,
+        "ring": 42
+      },
+      {
+        "name": "No. 485",
+        "length": 5,
+        "ring": 48
+      }
+    ],
+    "flavors": [
+      "cinnamon",
+      "cream",
+      "fruit",
+      "spice"
+    ],
+    "about": "A lower-priced Nicaraguan puro of Aganorsa tobacco from Kyle Gellis, named for his and his brother Devin's love of travel. It comes in two small sizes.",
+    "released": 2017,
+    "production": "regular",
+    "sources": [
+      "https://www.warpedcigars.com/cigar-brands/cloud-hopper",
+      "https://halfwheel.com/edition-one-cloud-hopper-no-53/177295/",
+      "https://halfwheel.com/edition-one-cloud-hopper-no-53-2/278427/"
+    ],
+    "notes": "It first shipped in August 2017 under a separate brand called Edition One, run by Kyle and Devin Gellis, and is now listed on Warped's own site. Warped's spec sheet says medium body while its tasting note says medium to full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "Corto",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan shade grown Jalapa Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Corojo 99, Criollo 98)",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa)",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "X46",
+        "length": 4.5,
+        "ring": 46
+      },
+      {
+        "name": "X52",
+        "length": 4.75,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "wood",
+      "leather",
+      "chocolate",
+      "caramel",
+      "molasses"
+    ],
+    "about": "A short, box-pressed Nicaraguan puro whose name means short. It was the first full-bodied blend Warped made, built for a quick smoke.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://www.warpedcigars.com/cigar-brands/corto",
+      "https://halfwheel.com/warped-ships-corto/98248/",
+      "https://halfwheel.com/warped-adding-new-size-to-corto/114189/"
+    ],
+    "notes": "Warped calls it full bodied, though Neptune lists it as medium. It launched as a single 4 1/2 x 50 size called X50 with a plan to swap in a new size each year. Corto Maduro is a separate line with a Mexican San Andrés wrapper.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Warped",
+    "line": "Serie Gran Reserva 1988",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan shade grown Jalapa Corojo 99",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua (Corojo 99, Criollo 98)",
+    "country": "Nicaragua",
+    "factory": "Tabacos Valle de Jalapa S.A. (TABSA, Aganorsa)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5.25,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cinnamon",
+      "molasses",
+      "barnyard",
+      "stone fruit",
+      "coffee"
+    ],
+    "about": "A single-size Nicaraguan puro named for the birth year of Warped founder Kyle Gellis. Cigar Aficionado rated it 95 points and named it its number 3 cigar of 2019.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://www.warpedcigars.com/cigar-brands/serie-gran-reserva-1988",
+      "https://halfwheel.com/warped-serie-gran-reserva-1988/281546/"
+    ],
+    "notes": "Warped rates the body as medium plus. It was shown at the 2017 trade show but did not ship until August 2018. Often shortened to GR88.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "West Tampa Tobacco Co.",
+    "line": "Black",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano (higher priming)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua (Ometepe)",
+    "filler": "Nicaragua (Condega, Estelí)",
+    "country": "Nicaragua",
+    "factory": "Garmendia Cigars Co.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "oak",
+      "coffee",
+      "cherry",
+      "leather",
+      "black pepper",
+      "earth"
+    ],
+    "about": "One of the two debut lines from West Tampa Tobacco Co., the company Rick Rodriguez started in 2022 after leaving CAO. It is the darker, stronger partner to the White.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/west-tampa-tobacco-co-black-robusto/413190/",
+      "https://halfwheel.com/west-tampa-tobacco-co-s-lancero-for-white-black-and-red-lines-arrives-in-stores/439632/",
+      "https://www.neptunecigar.com/cigar/west-tampa-tobacco-company-black"
+    ],
+    "notes": "Halfwheel's review calls it a medium-full blend that builds late, while Neptune lists it as full. The wrapper is the same leaf type as the White but from a higher priming, which makes it darker.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "West Tampa Tobacco Co.",
+    "line": "White",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Garmendia Cigars Co.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "bread",
+      "black pepper",
+      "cream",
+      "earth",
+      "toast"
+    ],
+    "about": "One of the two debut lines from West Tampa Tobacco Co., the company Rick Rodriguez started in 2022 after leaving CAO. It is the lighter, creamier partner to the Black.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/west-tampa-tobacco-co-white-toro/413234/",
+      "https://www.neptunecigar.com/cigar/west-tampa-tobacco-company-white",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-west-tampa-white-toro/"
+    ],
+    "notes": "Sources disagree under the wrapper. Halfwheel lists an Ometepe binder with Condega and Estelí fillers. Developing Palates lists an Ometepe binder with Ometepe, Jalapa and Pueblo Nuevo fillers. Neptune lists an Ecuadorian Habano binder. The launch announcement said only Nicaraguan binder and filler.",
+    "verified": true,
+    "verifyNotes": "Rewrote notes to cite only pages I opened: dropped the Cigar Coop and Cigar Dojo attributions and corrected Developing Palates, which lists a Nicaraguan Ometepe binder, not an Ecuadorian one. The Lancero size is confirmed by https://halfwheel.com/west-tampa-tobacco-co-s-lancero-for-white-black-and-red-lines-arrives-in-stores/439632/. West Tampa's own site lists no blend or strength details."
+  },
+  {
+    "brand": "West Tampa Tobacco Co.",
+    "line": "Red",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Condega)",
+    "filler": "Nicaragua (Condega, Estelí)",
+    "country": "Nicaragua",
+    "factory": "Garmendia Cigars Co.",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gigante",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Lancero",
+        "length": 7,
+        "ring": 40
+      }
+    ],
+    "flavors": [
+      "dark chocolate",
+      "oak",
+      "espresso",
+      "leather",
+      "black pepper",
+      "cinnamon"
+    ],
+    "about": "The third regular line from Rick Rodriguez's West Tampa Tobacco Co., added in May 2023. Rodriguez described it as a full-bodied blend made to his own taste.",
+    "released": 2023,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/west-tampa-tobacco-co-red-toro/428145/",
+      "https://halfwheel.com/west-tampa-tobacco-co-s-lancero-for-white-black-and-red-lines-arrives-in-stores/439632/",
+      "https://www.neptunecigar.com/cigar/west-tampa-tobacco-company-red"
+    ],
+    "notes": "The maker and Neptune call it full. Halfwheel's reviewer found the strength starting at medium and finishing just under full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "West Tampa Tobacco Co.",
+    "line": "Attic Series",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Nicaragua (Condega)",
+    "filler": "Nicaragua (Condega, Estelí)",
+    "country": "Nicaragua",
+    "factory": "Garmendia Cigars Co.",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Attic (Toro Extra)",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "leather",
+      "peanut",
+      "black pepper",
+      "cream"
+    ],
+    "about": "A limited edition series from West Tampa Tobacco Co. built around blends Rick Rodriguez says he kept locked away for nearly 30 years. The first release, simply called Attic, came in boxes of 14 with a QR code on the foot band linking to a video.",
+    "released": 2022,
+    "production": "limited",
+    "sources": [
+      "https://halfwheel.com/west-tampa-tobacco-co-attic/421195/",
+      "https://halfwheel.com/west-tampa-tobacco-co-re-releasing-attic-series-returning-at-cigars-daily-ahead-of-pca-release/435127/",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-west-tampa-attic-series-attic/"
+    ],
+    "notes": "Details are for Attic, the only Attic Series release found. It shipped in December 2022 (2,000 boxes of 14) and was made again in 2024 (2,500 boxes). No maker strength rating was found. Halfwheel's review ran medium-plus to medium-full, while Neptune and two of three Developing Palates reviewers call it medium.",
+    "verified": true,
+    "verifyNotes": "Added to notes that Neptune and two of three Developing Palates reviewers call it medium. Strength left at Medium-Full per halfwheel's review, the higher-trust source. West Tampa's own site lists no blend or strength details."
+  },
+  {
+    "brand": "Wynwood Hills",
+    "line": "Deranged",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "60 x 6",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "One of three Wynwood Hills blends from Christian Eiroa's C.L.E. Cigar Co., sold alongside the Asylum brand. The line was first planned under the name Waverly Hills.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://halfwheel.com/ipcpr-2019-asylum/362976/",
+      "https://www.neptunecigar.com/cigar/wynwood-hills-deranged",
+      "https://cigar-coop.com/2019/08/cigar-news-wynwood-hills-60-x-6-vitolas-introduced.html"
+    ],
+    "notes": "Sources disagree on the wrapper. The 2018 launch report gave Deranged the Connecticut Broadleaf and Unhinged the Sumatra, with Dominican and Honduran fillers. Halfwheel's 2019 show report, Cigar Coop and Neptune all say Deranged is the Ecuadorian Sumatra. Strength is from Neptune alone. Check the box before quoting it.",
+    "verified": true,
+    "verifyNotes": "Removed 'wrapped in tissue' from about: none of the listed pages say it. Wrapper, country and strength confirmed against pages I opened, but Full is stated only by Neptune and the factory only by Cigar Coop. CLE's own site refused my requests, so no maker rating could be checked."
+  },
+  {
+    "brand": "Wynwood Hills",
+    "line": "Unhinged",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "U.S. Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "STG Danlí",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "60 x 6",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "One of three Wynwood Hills blends from Christian Eiroa's C.L.E. Cigar Co., sold alongside the Asylum brand. The line was first planned under the name Waverly Hills.",
+    "released": 2018,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/ipcpr-2019-asylum/362976/",
+      "https://halfwheel.com/cle-ships-wynwood-hills/287575/",
+      "https://cigar-coop.com/2019/08/cigar-news-wynwood-hills-60-x-6-vitolas-introduced.html"
+    ],
+    "notes": "Sources disagree on the wrapper. The 2018 launch announcements gave Unhinged the Ecuadorian Sumatra wrapper and Deranged the Broadleaf. Halfwheel's 2019 show report, Cigar Coop and Neptune all say Unhinged is the Connecticut Broadleaf. Neptune lists it as discontinued and gives conflicting strength, so strength is left blank.",
+    "verified": false,
+    "verifyNotes": "Removed 'wrapped in tissue' from about: none of the listed pages say it. Wrapper and country confirmed against halfwheel's 2019 report, Cigar Coop and Neptune. Strength could not be confirmed and stays blank: Neptune says full bodied in its text and Medium in its spec, and CLE's own site refused my requests. Factory is from Cigar Coop only."
+  },
+  {
+    "brand": "Wynwood Hills",
+    "line": "Mayhem",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Honduran Corojo",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "Honduras",
+    "binder": "Honduras",
+    "filler": "Honduras",
+    "country": "Honduras",
+    "factory": "El Aladino",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "60 x 6",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "The Honduran puro among the three Wynwood Hills blends from Christian Eiroa's C.L.E. Cigar Co., with a Corojo wrapper from the Eiroa family's farm.",
+    "released": 2018,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/cle-ships-wynwood-hills/287575/",
+      "https://halfwheel.com/ipcpr-2019-asylum/362976/",
+      "https://cigar-coop.com/2019/08/cigar-news-wynwood-hills-60-x-6-vitolas-introduced.html"
+    ],
+    "notes": "Neptune lists it as discontinued. Its page calls the cigar full bodied but tags the strength as medium, so strength is left blank. The factory name comes from Cigar Coop only.",
+    "verified": false,
+    "verifyNotes": "Removed 'wrapped in tissue' and 'in Jamastran' from about: the listed pages do not say either. Wrapper and country confirmed against halfwheel and Cigar Coop. Strength could not be confirmed and stays blank: Neptune says full bodied in its text and Medium in its spec, and CLE's own site refused my requests."
+  }
+]

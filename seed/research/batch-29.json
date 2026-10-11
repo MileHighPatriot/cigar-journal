@@ -1,0 +1,1227 @@
+[
+ {
+  "brand": "Espinosa",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Rabito",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "No. 4 Robusto",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "No. 5 Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Toro BP",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "No. 8 Trabuco",
+    "length": 6.125,
+    "ring": 58
+   }
+  ],
+  "flavors": [
+   "spice",
+   "cocoa",
+   "cedar",
+   "coffee",
+   "caramel",
+   "pepper"
+  ],
+  "about": "The first cigar Erik Espinosa blended after starting his own company, rolled at his La Zona factory in Esteli. It pairs an Ecuadorian Habano wrapper with Nicaraguan binder and filler.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/espinosa-habano/",
+   "https://halfwheel.com/revamped-espinosa-habano-hits-humidors-this-week/97905",
+   "https://www.neptunecigar.com/cigar/espinosa-habano"
+  ],
+  "notes": "Launched in 2012 as a Nicaraguan puro, then reblended in 2015 with an Ecuadorian Habano wrapper. The maker calls it medium bodied and Neptune lists it medium, but Famous Smoke lists it as full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Crema",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Mild-Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Rabito",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "No. 4 Robusto",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "Toro BP",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 5 Toro Grande",
+    "length": 6,
+    "ring": 56
+   },
+   {
+    "name": "No. 1 Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "coffee",
+   "cedar",
+   "citrus",
+   "earth",
+   "spice"
+  ],
+  "about": "The first Connecticut-wrapped cigar under the Espinosa name, made at La Zona in Esteli. An Ecuadorian Connecticut Shade wrapper covers Nicaraguan binder and filler.",
+  "released": 2016,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/espinosa-crema/",
+   "https://halfwheel.com/espinosa-crema-slated-for-ipcpr-2016/116285/",
+   "https://www.neptunecigar.com/cigar/espinosa-crema"
+  ],
+  "notes": "The maker does not publish a strength. Neptune lists it as mild and Famous Smoke as medium with a mild to medium body, so it sits between the two.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Laranja Reserva",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian (the maker's blend table says Brazilian Ballaño and its description says Brazilian Anaranjado)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "La Zona Cigar Factory",
+  "strength": "Medium-Full",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Corona",
+    "length": 5,
+    "ring": 42
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Caixa BP",
+    "length": 6.5,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "floral",
+   "sweet",
+   "spice",
+   "cedar",
+   "orange peel",
+   "black pepper"
+  ],
+  "about": "Laranja is Portuguese for orange, a nod to the orange tint of its Brazilian wrapper. Espinosa rolls it at La Zona in Esteli over Nicaraguan binder and filler.",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/laranja-reserva/",
+   "https://halfwheel.com/laranja-reserva-caixa/95753/",
+   "https://www.neptunecigar.com/cigar/laranja"
+  ],
+  "notes": "The exact Brazilian wrapper varietal is not published; Neptune says the leaf comes from the Reconcavo region. Strength is described differently: the maker says medium bodied and full flavored, Famous Smoke says medium to full bodied, and Neptune lists full.",
+  "verified": true,
+  "verifyNotes": "wrapperLeaf reworded: the maker's blend table actually reads Brazilian Ballaño, with Anaranjado only in the description. Notes updated to match what Famous Smoke and Neptune say. Category kept as Natural/Sun Grown on the strength of Neptune's Natural color label; no source names the varietal."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Laranja Reserva Escuro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Brazilian Mata Fina",
+  "wrapperCategory": "Mata Fina",
+  "wrapperOrigin": "Brazil",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "Lancero",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Robusto Extra",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Gordo",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "dried fruit",
+   "coffee",
+   "cocoa",
+   "black pepper",
+   "leather"
+  ],
+  "about": "A darker, box-pressed take on Laranja Reserva with a Brazilian Mata Fina wrapper over Nicaraguan tobaccos. It is made for Espinosa at AJ Fernandez's San Lotano factory in Ocotal.",
+  "released": 2019,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/laranja-escuro/",
+   "https://halfwheel.com/laranja-reserva-escuro-corona-gorda/299451/",
+   "https://www.famous-smoke.com/brand/espinosa-laranja-reserva-escuro-cigars"
+  ],
+  "notes": "All sizes are box pressed. The maker lists the robusto as 5 1/2 x 54, while halfwheel and Famous Smoke list it as 5 1/2 x 56. Halfwheel's review found the strength closer to medium-full than full.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Murcielago",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andres Capa Negra",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Rabito",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "Lancero BP",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "Robusto BP",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Toro BP",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Churchill BP",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "Gordo BP",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "sweet spice",
+   "earth",
+   "pepper",
+   "coffee"
+  ],
+  "about": "Murcielago, Spanish for bat, is a mostly box-pressed cigar with a dark Mexican San Andres wrapper over Nicaraguan binder and filler. The current version has been made at AJ Fernandez's San Lotano factory since 2017.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/core-lines/mucielago/",
+   "https://halfwheel.com/murcielago-lancero/298215/",
+   "https://www.famous-smoke.com/brand/murcielago-cigars"
+  ],
+  "notes": "It debuted in 2009 under EO Brands at My Father Cigars, was relaunched by Espinosa in 2015, and was reworked by AJ Fernandez in 2017. Retailers disagree on strength: Famous Smoke lists full (medium-full in its description) and Neptune lists medium.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Corona Gorda R",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto J",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro H",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo C",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "red pepper",
+   "leather",
+   "roasted nuts"
+  ],
+  "about": "One of the two original blends in celebrity chef Guy Fieri's Knuckle Sandwich line, created with Erik Espinosa. It uses an Ecuadorian Habano wrapper over Nicaraguan binder and filler and is rolled at AJ Fernandez's San Lotano factory.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/knuckle-sandwich/habano/",
+   "https://halfwheel.com/knuckle-sandwich-habano-corona-gorda-r/407922/",
+   "https://www.famous-smoke.com/brand-espinosa-knuckle-sandwich-habano"
+  ],
+  "notes": "Knuckle Sandwich is Guy Fieri's own brand, made in partnership with Espinosa, which distributes it. The letters after the size names honor people in Fieri's life.",
+  "verified": true,
+  "verifyNotes": "Sources only: added the maker's own page, which confirms the blend and sizes, in place of the Neptune link. No facts changed."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Sumatra Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Corona Gorda R",
+    "length": 5.625,
+    "ring": 46
+   },
+   {
+    "name": "Robusto J",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Toro H",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Gordo C",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "dark cocoa",
+   "cedar",
+   "black pepper",
+   "baking spice"
+  ],
+  "about": "The darker of the two original Knuckle Sandwich blends from Guy Fieri and Erik Espinosa. An Ecuadorian Sumatra maduro wrapper covers Nicaraguan binder and filler, rolled at AJ Fernandez's San Lotano factory.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/knuckle-sandwich/maduro/",
+   "https://halfwheel.com/knuckle-sandwich-begins-arriving-in-stores/405440/",
+   "https://www.famous-smoke.com/brand-espinosa-knuckle-sandwich-maduro"
+  ],
+  "notes": "Knuckle Sandwich is Guy Fieri's own brand, made in partnership with Espinosa, which distributes it. The maduro wrapper is Ecuadorian Sumatra seed, not broadleaf.",
+  "verified": true,
+  "verifyNotes": "Sources only: added the maker's own page, which confirms the blend and sizes, in place of the Neptune link. No facts changed."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Knuckle Sandwich Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Medium",
+  "body": "Mild-Medium",
+  "sizes": [
+   {
+    "name": "Robusto J",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Short Churchill G",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "Toro H",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cream",
+   "cedar",
+   "white pepper",
+   "peanuts",
+   "cloves"
+  ],
+  "about": "The third regular blend in Guy Fieri's Knuckle Sandwich line with Espinosa, added in January 2023. It has an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler and is rolled at San Lotano.",
+  "released": 2023,
+  "production": "regular",
+  "sources": [
+   "https://espinosacigars.com/knuckle-sandwich/connecticut/",
+   "https://halfwheel.com/knuckle-sandwich-connecticut-robusto-j/422660/",
+   "https://www.famous-smoke.com/brand-espinosa-knuckle-sandwich-connecticut-shade"
+  ],
+  "notes": "Knuckle Sandwich is Guy Fieri's own brand, made in partnership with Espinosa, which distributes it. It smokes fuller than most Connecticut cigars: retailers and halfwheel put the strength at medium.",
+  "verified": true,
+  "verifyNotes": "Sources only: added the maker's own page, which confirms the blend and sizes, in place of the Neptune link. No facts changed."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Las 6 Provincias",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": null,
+  "filler": null,
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "LHB Toro BP",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "MTZ Toro BP",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "LV Robusto Extra BP",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "CMW Toro BP",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "ZDT Short Churchill BP",
+    "length": 6.5,
+    "ring": 48
+   },
+   {
+    "name": "ORT Toro Extra BP",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [],
+  "about": "A limited edition series honoring the six original provinces of Cuba, with a different blend and its own box artwork for each release. Espinosa has the cigars made at AJ Fernandez's San Lotano factory.",
+  "released": 2018,
+  "production": "limited",
+  "sources": [
+   "https://espinosacigars.com/core-lines/las-6-provincias/",
+   "https://halfwheel.com/espinosa-las-6-provincias-ort/447147/",
+   "https://halfwheel.com/las-6-provincias-miami-knuckle-sandwich-avant-garde-warhead-12-headline-espinosas-eight-new-pca-releases/466143/"
+  ],
+  "notes": "Each release is its own blend and single size, so there is no one wrapper or strength for the line. Releases: LHB 2018, MTZ 2019, LV 2021, CMW 2022, ZDT 2023, ORT 2024 (Ecuadorian Habano over Nicaraguan). A seventh, MIA, was announced for 2026.",
+  "verified": true,
+  "verifyNotes": "Sources only: added the halfwheel report that supports the MIA note. The maker lists wrapper, binder and filler as Varies and gives no strength."
+ },
+ {
+  "brand": "Espinosa",
+  "line": "Warhead",
+  "found": true,
+  "officialName": "601 La Bomba Warhead",
+  "wrapperLeaf": "Broadleaf (Connecticut Broadleaf on the original, Nicaraguan broadleaf on recent releases)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "San Lotano Factory (AJ Fernandez)",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 1 Toro BP",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 2 Robusto Extra BP",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 3 Lancero BP",
+    "length": 7.5,
+    "ring": 38
+   },
+   {
+    "name": "No. 4 Short Churchill BP",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "No. 5 Toro BP",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "No. 6 Figurado",
+    "length": 5,
+    "ring": 58
+   },
+   {
+    "name": "No. 7 Churchill BP",
+    "length": 7,
+    "ring": 50
+   },
+   {
+    "name": "No. 8 Gordo BP",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "No. 9 Perfecto",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "spice",
+   "black pepper",
+   "cocoa",
+   "earth",
+   "espresso",
+   "wood"
+  ],
+  "about": "A near-annual limited edition offshoot of Espinosa's 601 La Bomba, known for its painted bomb band and military theme. It puts a dark broadleaf wrapper on a strong, spicy Nicaraguan blend.",
+  "released": 2013,
+  "production": "limited",
+  "sources": [
+   "https://espinosacigars.com/core-lines/warhead/",
+   "https://halfwheel.com/review-601-la-bomba-warhead-x-2024/441119/",
+   "https://www.neptunecigar.com/cigar/601-la-bomba-warhead"
+  ],
+  "notes": "Sold under Espinosa's 601 brand as 601 La Bomba Warhead. Each numbered release is one limited size and the wrapper has changed: Connecticut broadleaf on early ones, Nicaraguan broadleaf on Warhead 11 (2025) and 12 (2026). The maker's size list stops at No. 9 and differs from halfwheel on Nos. 2, 5 and 8.",
+  "verified": true,
+  "verifyNotes": "Flavors trimmed to words found in the maker's text and halfwheel's Warhead X review (dark chocolate became cocoa, wood added). Notes now flag that the maker's sizes disagree with halfwheel, which lists II as 5 1/2 x 56, V as 6 x 52 and VIII as 7 x 50. Factory is San Lotano for the recent releases I could check (X, 11, 12 and the re-ups); I did not confirm the factory for the earliest releases."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Chupacabra Natural",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chupitas",
+    "length": 4,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Gordito",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cedar",
+   "white pepper"
+  ],
+  "about": "A Nicaraguan puro with a Habano wrapper, named for the goat-sucker of folklore and one of Esteban Carreras's best sellers. It is rolled at the company's own factory in Esteli.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-chupacabra",
+   "https://halfwheel.com/esteban-carreras-chupacabra-hellcat-toro-grande/130336/"
+  ],
+  "notes": "Also written Chupa Cabra. Halfwheel dates the debut to 2012, but the 10 Year Anniversary edition of 2021 points to about 2010, so the launch year is left blank. Strength comes from one retailer (Neptune lists medium). Neptune lists slightly different size dimensions than the maker.",
+  "verified": true,
+  "verifyNotes": "Notes only: added that the medium strength rests on a single retailer, since the maker publishes none."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Chupacabra Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Chupitas",
+    "length": 4,
+    "ring": 42
+   },
+   {
+    "name": "Robusto",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "Gordito",
+    "length": 5,
+    "ring": 56
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "spice",
+   "earth",
+   "roasted nuts",
+   "coffee"
+  ],
+  "about": "The maduro version of Chupacabra, a Nicaraguan puro with a dark, oily Nicaraguan maduro wrapper. It is rolled at Esteban Carreras's factory in Esteli.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.neptunecigar.com/cigar/esteban-carreras-chupacabra-maduro"
+  ],
+  "notes": "Strength comes from one retailer (Neptune lists full); the maker does not publish one. Neptune lists slightly different size dimensions than the maker.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Chupacabra 10 Year",
+  "found": true,
+  "officialName": "Chupacabra 10 Year Anniversary",
+  "wrapperLeaf": "Mexican San Andres",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": null,
+  "body": null,
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto Grande",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "An anniversary edition marking a decade of the Chupacabra line, introduced at the 2021 PCA trade show. It swaps in a Mexican San Andres wrapper over Nicaraguan binder and filler and shipped with 18 months of age.",
+  "released": 2021,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://www.estebancarreras.com/about-1",
+   "https://halfwheel.com/pca-2021-esteban-carreras/395147/"
+  ],
+  "notes": "The maker lists it as Chupacabra 10yr. No strength or tasting notes were found from the maker or a trusted source. Do not confuse it with the separate Esteban Carreras 10 Year line, which also has a San Andres wrapper.",
+  "verified": true,
+  "verifyNotes": "factory filled in from the maker's About page, which says its cigars come out of its Tabacaleras Carreras factory in Esteli, Nicaragua; that page also backs the country. The maker publishes no strength and I found no retailer page for this line, so strength stays blank."
+ },
+ {
+  "brand": "Esteban Carreras",
+  "line": "Dictator's Hand",
+  "found": true,
+  "officialName": "Taken From The Dictator's Hand",
+  "wrapperLeaf": "Nicaraguan Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua (Esteli, Jalapa)",
+  "filler": "Nicaragua (Condega)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Carreras",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Boolit",
+    "length": 4.75,
+    "ring": 46
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Sixty",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [],
+  "about": "A Nicaraguan puro built around a corojo seed that the factory manager, a former Cuban agriculture ministry worker, is said to have helped smuggle out of Cuba in the early 1990s. It is made at Esteban Carreras's factory in Esteli.",
+  "released": 2022,
+  "production": "regular",
+  "sources": [
+   "https://www.estebancarreras.com/",
+   "https://halfwheel.com/esteban-carreras-taken-from-the-devils-hand-sixty/415428/",
+   "https://halfwheel.com/esteban-carreras-taken-from-the-hand-of-the-devil-renamed-to-taken-from-the-hand-of-the-dictator/442481/"
+  ],
+  "notes": "Launched in 2022 as Taken From The Devil's Hand and renamed in 2024 after a trademark dispute with Warped. The maker's site lists it as Dictator's Hand Corojo. This entry is the original Corojo; a Maduro version with an Ecuadorian Corojo maduro wrapper was added in 2023.",
+  "verified": true,
+  "verifyNotes": "Notes only: added the name the maker's site uses. Strength and body also match Neptune's listing (medium, medium to full bodied)."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Timeless Supreme",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "554",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "650",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "652T Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "660",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "749",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "chocolate",
+   "earth",
+   "spice"
+  ],
+  "about": "A box-pressed Nicaraguan puro made by Plasencia, carried over from the old Nat Sherman portfolio by Ferio Tego. The size names are the length and ring gauge run together.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/timeless-supreme",
+   "https://halfwheel.com/ferio-tego-timeless-panamericana-timeless-supreme-returning-to-shelves-next-week/402135/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-timeless-supreme"
+  ],
+  "notes": "Introduced in 2012 as Nat Sherman Timeless Nicaraguan, renamed Timeless Supreme in 2018, and brought back by Ferio Tego in 2021 with the same blend and factory. The wrapper varietal is not published; Neptune describes it as a dark maduro leaf.",
+  "verified": true,
+  "verifyNotes": "Notes only: added Neptune's maduro description of the wrapper. Category left blank because the maker only says Nicaragua."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Timeless Sterling",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportacion (Quesada)",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Marevas",
+    "length": 5.5,
+    "ring": 42
+   },
+   {
+    "name": "Dalias",
+    "length": 6.5,
+    "ring": 43
+   },
+   {
+    "name": "Corona Gorda",
+    "length": 5.75,
+    "ring": 46
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   },
+   {
+    "name": "Churchill",
+    "length": 7,
+    "ring": 48
+   }
+  ],
+  "flavors": [
+   "cream",
+   "nuts",
+   "pepper",
+   "salt"
+  ],
+  "about": "A line of classic Cuban-style sizes with an Ecuadorian Connecticut wrapper over aged Dominican tobaccos, made by the Quesada family. It began as Nat Sherman Sterling and now belongs to Ferio Tego.",
+  "released": 2013,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/timeless-sterling",
+   "https://halfwheel.com/ferio-tegos-timeless-collection-returns-to-shelves-next-week/400661/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-timeless-sterling"
+  ],
+  "notes": "Debuted in 2013 as Nat Sherman Sterling and returned under Ferio Tego in 2021. The maker lists Dominican filler, while halfwheel's 2021 report said Dominican and Nicaraguan. Strength comes from one retailer; the maker only says balanced.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Generoso",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran sun grown",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Honduras",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Plasencia Cigars S.A.",
+  "strength": "Full",
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "dark chocolate",
+   "leather",
+   "earth",
+   "black pepper",
+   "baking spice"
+  ],
+  "about": "One of the two cigars that launched the Ferio Tego name in 2021, made by Plasencia in Nicaragua in a single 6 x 50 toro. It is released in dated yearly vintages, each a fresh take on the blend.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.feriotego.com/generoso",
+   "https://halfwheel.com/ferio-tego-generoso/402823/",
+   "https://halfwheel.com/ferio-tego-releasing-2024-vintages-of-elegancia-and-generoso-in-late-august/453491/"
+  ],
+  "notes": "Released as yearly vintages (2021 to 2024 so far), so flavors shift from year to year. The maker calls the Honduran wrapper dark and sun grown, while halfwheel's 2021 coverage described it as shade grown.",
+  "verified": true,
+  "verifyNotes": "Notes only: removed the claim about Famous Smoke, which I could not open a page for; the shade grown wording is in halfwheel's 2021 review."
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Elegancia",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian shade grown",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Dominican Republic",
+  "filler": "Dominican Republic, Nicaragua",
+  "country": "Dominican Republic",
+  "factory": "Tabacos de Exportacion (Quesada)",
+  "strength": null,
+  "body": "Full",
+  "sizes": [
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "buttered toast",
+   "caramel",
+   "vanilla",
+   "cream",
+   "cedar",
+   "nuts"
+  ],
+  "about": "The lighter partner to Generoso, launched with it in 2021 as the first cigars to carry the Ferio Tego name. Quesada makes it in the Dominican Republic in a single 6 x 50 toro, released in dated yearly vintages.",
+  "released": 2021,
+  "production": "limited",
+  "sources": [
+   "https://www.feriotego.com/elegancia",
+   "https://halfwheel.com/ferio-tego-elegancia/402563/",
+   "https://halfwheel.com/ferio-tego-releasing-2024-vintages-of-elegancia-and-generoso-in-late-august/453491/"
+  ],
+  "notes": "The maker lists the wrapper only as light, shade-grown Ecuadorian leaf and does not name the seed; halfwheel says it looks and smokes like Connecticut shade. The maker rates the body full, but halfwheel found the nicotine strength mild, so strength is left blank.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Metropolitan Host",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": null,
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Diadema Cigars de Honduras S.A.",
+  "strength": "Mild",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Hobart",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "Hamilton",
+    "length": 5.5,
+    "ring": 44
+   },
+   {
+    "name": "Harrington",
+    "length": 6,
+    "ring": 48
+   },
+   {
+    "name": "Hyde",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Hampton",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "sweet"
+  ],
+  "about": "A mellow Connecticut-wrapped cigar with a sweetened cap, long sold as Nat Sherman Host and now part of Ferio Tego's Metropolitan Selection. It is made in Honduras at Davidoff's Diadema Cigars de Honduras factory.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.feriotego.com/metropolitan-host",
+   "https://halfwheel.com/ferio-tego-brings-back-metropolitan-selection/403935/",
+   "https://www.neptunecigar.com/cigar/ferio-tego-metropolitan-host"
+  ],
+  "notes": "The cap is sweetened. Sources disagree on where the Connecticut wrapper is grown: Famous Smoke says U.S. Connecticut and Neptune says Ecuador, and the maker just says Connecticut. Neptune lists it mild; Famous Smoke lists medium but describes it as a mild cigar.",
+  "verified": true,
+  "verifyNotes": "about: dropped the line calling Diadema the Camacho factory, which none of the pages I opened state. Neptune's spec table names a different manufacturer (Tabacos Rancho Jamastran) than its own description and halfwheel, which both say Diadema."
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Classic",
+  "found": true,
+  "officialName": "Colección Clásica",
+  "wrapperLeaf": "Honduran Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras (Jamastran)",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": "Medium",
+  "sizes": [
+   {
+    "name": "Siesta",
+    "length": 4.25,
+    "ring": 40
+   },
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "No. 15",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Fino",
+    "length": 6,
+    "ring": 44
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Tempo",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "Doble Corona",
+    "length": 7.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "wood",
+   "cedar",
+   "dried fruit",
+   "spice"
+  ],
+  "about": "The original Flor de Selva blend from Maya Selva, a Honduran puro with a Connecticut-seed wrapper grown in Honduras. It is known for a balanced, woody profile.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.mayaselvacigars.com/flor-de-selva-collections",
+   "https://halfwheel.com/10-year-aged-flor-de-selva-tempo-arriving-at-retailers/439578/",
+   "https://www.neptunecigar.com/cigar/flor-de-selva"
+  ],
+  "notes": "Made by Maya Selva Cigars, which calls this line Coleccion Clasica. Halfwheel names the factory as Plasencia's Tabacos de Oriente, while Neptune lists San Judas Tadeo in Danli. Neptune gives the filler as Jamastran viso and Azacualpa ligero.",
+  "verified": true,
+  "verifyNotes": "about: removed the claim of a strong following in Europe, which none of the pages I opened support. The maker's page gives no blend details, so wrapper, binder and sizes rest on halfwheel and Neptune."
+ },
+ {
+  "brand": "Flor de Selva",
+  "line": "Maduro",
+  "found": true,
+  "officialName": "Colección Maduro",
+  "wrapperLeaf": "Honduran Habano Jamastran Maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Honduras",
+  "binder": null,
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "Tabacos de Oriente",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "Robusto",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "No. 15",
+    "length": 5.5,
+    "ring": 54
+   },
+   {
+    "name": "Toro",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Grand Presse",
+    "length": 6,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "espresso",
+   "toffee",
+   "caramel",
+   "cocoa"
+  ],
+  "about": "The maduro version of Maya Selva's Flor de Selva, with a naturally fermented Honduran Habano wrapper from the Jamastran valley over Honduran filler. The maker describes it as bold but not aggressive.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://www.mayaselvacigars.com/flor-de-selva-collections",
+   "https://halfwheel.com/maya-selva-adds-vitolas-to-flor-de-selva-lines-at-intertabac-2023/429666/",
+   "https://www.neptunecigar.com/cigar/flor-de-selva-maduro"
+  ],
+  "notes": "Sources disagree on the binder: halfwheel's 2016 report and Neptune say Brazilian Mata Fina, while halfwheel's 2023 report says the binder is Honduran from Jamastran, so it is left blank. The company calls it medium to full bodied; Neptune lists medium strength.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]

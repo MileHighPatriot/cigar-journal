@@ -1,0 +1,830 @@
+[
+  {
+    "brand": "EP Carrillo",
+    "line": "New Wave Connecticut",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Mild-Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Stellas",
+        "length": 5.125,
+        "ring": 42
+      },
+      {
+        "name": "Brillantes",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Divinos",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "El Decano",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "cream",
+      "earth",
+      "spice",
+      "pepper"
+    ],
+    "about": "The milder, Connecticut-wrapped cigar in the E.P. Carrillo lineup, made at Ernesto Perez-Carrillo's factory in Santiago. It has been in production since 2011 and is the only line still listed under Classics on the maker's site.",
+    "released": 2011,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/new-wave-connecticut/",
+      "https://halfwheel.com/e-p-carrillo-new-wave-connecticut-prerelease-review/9811/"
+    ],
+    "notes": "The maker lists Nicaraguan filler only; halfwheel lists Dominican and Nicaraguan filler. The original 7 x 49 Gran Via size is no longer listed.",
+    "verified": true,
+    "verifyNotes": "All checked fields confirmed against the maker page and halfwheel. Reworded 'about' only (strength is mild-medium, not mild)."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Encore",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Nicaraguan",
+    "wrapperCategory": null,
+    "wrapperOrigin": "Nicaragua",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Majestic",
+        "length": 5.375,
+        "ring": 52
+      },
+      {
+        "name": "Celestial",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "Valientes (Torpedo)",
+        "length": 6.125,
+        "ring": 52
+      },
+      {
+        "name": "El Primero",
+        "length": 6.875,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "citrus",
+      "cedar",
+      "oak",
+      "earth",
+      "cream"
+    ],
+    "about": "A box-pressed cigar made entirely of Nicaraguan tobacco but rolled at Ernesto Perez-Carrillo's factory in the Dominican Republic. It is part of the Perez-Carrillo Series and its four sizes are named for his grandchildren.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/encore/",
+      "https://halfwheel.com/perez-carrillo-encore-majestic/261231"
+    ],
+    "notes": "The Majestic was Cigar Aficionado's No. 1 Cigar of 2018 and the Celestial was No. 3 in 2024. First shown in 2016 but it did not ship until March 2018. The type of Nicaraguan wrapper leaf is not published.",
+    "verified": true,
+    "verifyNotes": "All checked fields confirmed against the maker page and halfwheel. Removed 'top-tier' from 'about'."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Pledge",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Habano (U.S.A.)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "United States",
+    "binder": "Ecuador",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Full",
+    "body": "Full",
+    "sizes": [
+      {
+        "name": "Prequel",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Sojourn",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Apogee",
+        "length": 6.25,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "spice",
+      "wood",
+      "coffee",
+      "sweetness"
+    ],
+    "about": "A full-strength cigar in the Perez-Carrillo Series that pairs a Havana-seed wrapper grown in Connecticut with an Ecuadorian binder and Nicaraguan filler. It launched in 2020 and its Prequel size was Cigar Aficionado's Cigar of the Year that year.",
+    "released": 2020,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/pledge/",
+      "https://halfwheel.com/perez-carrillo-pledge-apogee/403760/"
+    ],
+    "notes": "The Prequel was Cigar Aficionado's No. 1 Cigar of 2020 with 98 points. The Apogee was added in 2021 as a 3,000-box limited size and is now listed by the maker with the other two.",
+    "verified": true,
+    "verifyNotes": "All checked fields confirmed against the maker page and halfwheel. Replaced 'one of the company's most decorated blends' in 'about' with the specific award."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Inch",
+    "found": true,
+    "officialName": "INCH",
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 60",
+        "length": 5.875,
+        "ring": 60
+      },
+      {
+        "name": "No. 62",
+        "length": 5,
+        "ring": 62
+      },
+      {
+        "name": "No. 64",
+        "length": 6.125,
+        "ring": 64
+      },
+      {
+        "name": "No. 70",
+        "length": 7,
+        "ring": 70
+      }
+    ],
+    "flavors": [],
+    "about": "A series of very thick cigars from Ernesto Perez-Carrillo, built around ring gauges of 60 and up, close to an inch across. It debuted in 2012 and is sold in Natural, Maduro and Nicaragua versions.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/inch-natural/",
+      "https://halfwheel.com/e-p-carrillo-and-plasencia-team-up-for-inch-nicaragua/408419/",
+      "https://cigar-coop.com/2016/08/cigar-news-inch-by-e-p-carrillo-changes-introduced-at-ipcpr-2016.html"
+    ],
+    "notes": "INCH is a series, not one blend: Natural has an Ecuadorian Sumatra wrapper (medium), Maduro a Connecticut Broadleaf wrapper (medium-full). INCH Nicaragua is a Nicaraguan puro (medium-full) made by Plasencia in Esteli, Nicaragua, and comes in three sizes, with no No. 70.",
+    "verified": true,
+    "verifyNotes": "No changes. Wrapper and strength stay null because INCH is three blends; the per-blend wrapper, country and strength in notes were each confirmed on the maker's INCH Natural, INCH Maduro and INCH Nicaragua pages. Sizes and 2012 debut confirmed."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "La Historia",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andrés",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Ecuador (Sumatra)",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "El Senador",
+        "length": 5.375,
+        "ring": 52
+      },
+      {
+        "name": "Doña Elena",
+        "length": 6.125,
+        "ring": 50
+      },
+      {
+        "name": "E-III",
+        "length": 6.875,
+        "ring": 54
+      },
+      {
+        "name": "Regalias D'Celia (Piramides)",
+        "length": 5.875,
+        "ring": 58
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "coffee",
+      "spice",
+      "earth",
+      "sweetness"
+    ],
+    "about": "The first cigar in the Perez-Carrillo Series, a dark San Andrés-wrapped blend introduced in 2014. Each size is named after a member of Ernesto Perez-Carrillo's family.",
+    "released": 2014,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/la-historia/",
+      "https://halfwheel.com/perez-carrillo-la-historia-regalias-dcelia-2/405882/"
+    ],
+    "notes": "Three sizes launched in 2014; the box-pressed Regalias D'Celia was added in 2015. La Historia Silk is a separate, newer line.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Allegiance",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra (8th priming)",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "Tabacalera Oliva de Nicaragua S.A.",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Sidekick",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Confidant",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Chaperone",
+        "length": 6.25,
+        "ring": 58
+      },
+      {
+        "name": "Wingman",
+        "length": 6.875,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "spice",
+      "sweetness"
+    ],
+    "about": "A Perez-Carrillo Series cigar with an Ecuadorian Sumatra wrapper over Nicaraguan tobacco. It is rolled by Oliva in Esteli, Nicaragua, instead of at the company's own factory in the Dominican Republic.",
+    "released": 2022,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/allegiance-2/",
+      "https://halfwheel.com/perez-carrillo-allegiance-wingman/421833/"
+    ],
+    "notes": "Made by Oliva in Nicaragua, not at the Carrillo factory in the Dominican Republic. The first run was 7,500 boxes, with more to follow on demand; the maker still lists it.",
+    "verified": true,
+    "verifyNotes": "Blend, country, factory, strength and sizes confirmed. Removed the claim that it was the first E.P. Carrillo release made outside the company's factory: halfwheel reported INCH Nicaragua, made by Plasencia, in April 2022, before Allegiance was announced."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Endure",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Cameroon (Meerapfel)",
+    "wrapperCategory": "Cameroon",
+    "wrapperOrigin": "Cameroon",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Casa Carrillo (formerly Tabacalera La Alianza)",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "spice",
+      "wood",
+      "earth",
+      "pepper"
+    ],
+    "about": "A box-pressed Perez-Carrillo Series cigar that puts a Cameroon wrapper from the Meerapfel family over Nicaraguan binder and filler. It appeared in late 2024 and went nationwide in early 2025.",
+    "released": 2024,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/endure/",
+      "https://halfwheel.com/perez-carrillo-endure-robusto/451859/",
+      "https://halfwheel.com/perez-carrillo-endure-corona-gorda-launching-on-aug-28/453633/"
+    ],
+    "notes": "A 6 x 46 Corona Gorda was added in August 2025, first through one retailer (Two Guys Smoke Shop). The maker's page still lists only the Robusto and Toro.",
+    "verified": true,
+    "verifyNotes": "All checked fields confirmed against the maker page and halfwheel. Swapped the Cigar Coop review for the halfwheel news item that supports the Corona Gorda note, and dropped the Cigar Coop size discrepancy from notes."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Core Plus Natural",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Encantos",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Club 52",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Churchill Especial No. 7",
+        "length": 7,
+        "ring": 49
+      },
+      {
+        "name": "Golosos",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "The natural-wrapper half of Core Plus, the reblended and repackaged line that replaced E.P. Carrillo's original Core Line in 2016. It sat in the company's Classic Series alongside a Maduro version.",
+    "released": 2016,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/ipcpr-2016-e-p-carrillo-cigar-co/127463/",
+      "https://cigar-coop.com/2016/08/cigar-news-e-p-carrillo-core-plus-introduced-at-the-2016-ipcpr-trade-show.html"
+    ],
+    "notes": "No longer in the maker's current lineup. Halfwheel's spec table lists an Ecuadorian binder, but its text and Cigar Coop both say Nicaraguan. Cigar Coop gives the wrapper only as Ecuadorian. No strength rating found.",
+    "verified": true,
+    "verifyNotes": "No field changes. Wrapper, binder, filler, sizes and 2016 launch confirmed on halfwheel and Cigar Coop. Country: Cigar Coop's page prints 'Nicaragua (Tabacalera La Alianza)', which is a slip, since that factory is in Santiago, Dominican Republic (maker, halfwheel). The line is no longer on the maker's site and no source opened gives a strength, so strength stays null."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Dusk",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "United States",
+    "binder": "Ecuador",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Stout Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Obscure",
+        "length": 7,
+        "ring": 54
+      },
+      {
+        "name": "Solidos",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "raisin",
+      "mocha",
+      "cedar",
+      "coffee",
+      "nuts",
+      "earth"
+    ],
+    "about": "A dark Connecticut Broadleaf maduro that E.P. Carrillo introduced in 2016 as the one all-new blend in its Classic Series. It was priced as an everyday cigar and sold in 20-count boxes.",
+    "released": 2016,
+    "production": null,
+    "sources": [
+      "https://www.cigaraficionado.com/article/epc-cigar-co-finalizes-full-rollout-of-dusk-19250",
+      "https://cigar-coop.com/2017/01/cigar-review-e-p-carrillo-dusk-solidos.html",
+      "https://www.cigaraficionado.com/ratings/19740/name/e-p-carrillo-dusk-stout-toro"
+    ],
+    "notes": "No longer in the maker's current lineup. Shown at the 2016 trade show in small quantities, with the full rollout in early 2017.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Capa de Sol",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano (sun grown)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium-Full",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Robusto Royal",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Exclusivos",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Piramides No. 5",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "Sultan",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "wood",
+      "earth",
+      "black pepper",
+      "nougat",
+      "cedar"
+    ],
+    "about": "A sun-grown Ecuadorian wrapper blend over Nicaraguan tobacco, added in 2016 to E.P. Carrillo's Elite Series. The name means wrapper of the sun.",
+    "released": 2016,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/ipcpr-2016-e-p-carrillo-cigar-co/127463/",
+      "https://cigar-coop.com/2017/06/cigar-review-e-p-carrillo-capa-de-sol-sultan.html",
+      "https://halfwheel.com/e-p-carrillo-announces-price-increase-puts-three-lines-on-hiatus/403637/"
+    ],
+    "notes": "Put on hiatus in 2022; the maker said then it was not fully discontinued, but it is not in the current lineup. Halfwheel lists the wrapper as Ecuadorian Habano; Cigar Coop calls it Ecuadorian Sun Grown. Strength comes from a Cigar Coop review, not the maker.",
+    "verified": true,
+    "verifyNotes": "Blend, country, factory, sizes and strength confirmed (strength also matches Neptune Cigar's 'medium to full-bodied'). Changed production from 'discontinued' to null: halfwheel's January 2022 report says the line went on hiatus and was 'not being fully discontinued'; no source opened says it was discontinued."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Interlude",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": null,
+    "wrapperCategory": null,
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Rothschild",
+        "length": 3.75,
+        "ring": 48
+      },
+      {
+        "name": "Carrillitos",
+        "length": 4,
+        "ring": 38
+      }
+    ],
+    "flavors": [],
+    "about": "Two short, thin cigars that E.P. Carrillo introduced in 2016, offered in Natural and Maduro blends. They were sold in five-count packs.",
+    "released": 2016,
+    "production": null,
+    "sources": [
+      "https://cigar-coop.com/2016/08/cigar-news-interlude-by-e-p-carrillo-makes-debut-at-the-2016-ipcpr-trade-show.html",
+      "https://halfwheel.com/e-p-carrillo-plans-major-portfolio-overhaul-for-ipcpr-2016/122308/"
+    ],
+    "notes": "Two blends share the name. Natural: Ecuadorian wrapper, Nicaraguan binder and filler. Maduro: Mexican San Andrés wrapper, Ecuadorian binder, Nicaraguan filler. No longer in the maker's current lineup. No strength rating found.",
+    "verified": true,
+    "verifyNotes": "No field changes beyond a small 'about' rewording. Both blends, both sizes, country and factory confirmed on Cigar Coop; halfwheel confirms the 2016 launch. Wrapper stays null because the two blends differ (see notes). The line is not on the maker's site and no strength is published."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "New Wave Reserva",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Connecticut Broadleaf (U.S.A.)",
+    "filler": "Nicaragua, Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso D'Oro",
+        "length": 5.75,
+        "ring": 52
+      },
+      {
+        "name": "Supremo",
+        "length": 5.125,
+        "ring": 56
+      },
+      {
+        "name": "Inmensos",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "white pepper",
+      "toast",
+      "nuts",
+      "cream",
+      "vanilla",
+      "wood"
+    ],
+    "about": "A follow-up to the New Wave Connecticut that keeps the Ecuadorian Connecticut wrapper but uses a Connecticut Broadleaf binder. It debuted in Europe in 2014 and reached U.S. stores later that year.",
+    "released": 2014,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/e-p-carrillo-announces-european-exclusives/70806/",
+      "https://cigar-coop.com/2016/07/cigar-news-e-p-carrillo-repackages-new-wave-reserva-and-seleccion-oscuro-as-part-of-elite-series.html",
+      "https://mikescigars.com/ep-carrillo-new-wave-reserva-supremorobusto"
+    ],
+    "notes": "Put on hiatus in 2022; the maker said then it was not fully discontinued, but it is not in the current lineup. Three sizes added in 2015 (Corona Extra, Elegantes, Soberanos Real) were dropped in the 2016 repackaging.",
+    "verified": true,
+    "verifyNotes": "Blend, country, factory and strength confirmed. Replaced one source with the Cigar Coop article that actually supports the five-size list and the dropped sizes. Changed production from 'discontinued' to null: halfwheel (https://halfwheel.com/e-p-carrillo-announces-price-increase-puts-three-lines-on-hiatus/403637/) says hiatus, 'not being fully discontinued'. Reworded 'about' (no source calls it fuller)."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Elencos",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Brazilian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Brazil",
+    "binder": "Ecuador",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium",
+    "body": "Medium-Full",
+    "sizes": [
+      {
+        "name": "Don Rubino",
+        "length": 5.25,
+        "ring": 50
+      },
+      {
+        "name": "Elites",
+        "length": 6,
+        "ring": 54
+      },
+      {
+        "name": "Acto Mayor",
+        "length": 6.25,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "oak",
+      "coffee",
+      "earth",
+      "leather",
+      "cocoa",
+      "dried fruit"
+    ],
+    "about": "A dark Brazilian-wrapped E.P. Carrillo line that began in 2011 using the blend of the company's Edicion Limitada 2010. It was phased out, then brought back in 2017 with a slightly changed blend.",
+    "released": 2011,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/e-p-carrillo-elencos-acto-mayor-2017/250727/",
+      "https://halfwheel.com/e-p-carrillo-shipping-revamped-elencos/",
+      "https://cigar-coop.com/2018/02/cigar-review-e-p-carrillo-elencos-elites-2017.html"
+    ],
+    "notes": "Specs are the 2017 relaunch, which swapped the original Dominican binder for Ecuadorian. The original wrapper was called Brazilian Habano; 2017 sources say only Brazilian. Halfwheel and Neptune put strength at medium; Cigar Coop says medium to full. Not in the maker's current lineup.",
+    "verified": true,
+    "verifyNotes": "Changed strength from Medium-Full to Medium and body from Full to Medium-Full: halfwheel's review puts strength at medium (ending just above) and Neptune Cigar says 'medium to full bodied... medium strength'; only Cigar Coop says medium to full strength. Wrapper kept: halfwheel says the 2017 blend keeps the original's wrapper, which halfwheel, Cigar Coop and Neptune call Brazilian Habano. Reworded 'about'."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Inch Maduro",
+    "found": true,
+    "officialName": "INCH Maduro",
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "United States",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua, Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 60",
+        "length": 5.875,
+        "ring": 60
+      },
+      {
+        "name": "No. 62",
+        "length": 5,
+        "ring": 62
+      },
+      {
+        "name": "No. 64",
+        "length": 6.125,
+        "ring": 64
+      },
+      {
+        "name": "No. 70",
+        "length": 7,
+        "ring": 70
+      }
+    ],
+    "flavors": [
+      "earth",
+      "spice",
+      "cedar",
+      "coffee",
+      "black pepper"
+    ],
+    "about": "The Connecticut Broadleaf maduro version of E.P. Carrillo's INCH series of very thick cigars, with ring gauges from 60 to 70. It has been in production since the series launched in 2012.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/inch-maduro/",
+      "https://cigar-coop.com/2016/08/cigar-news-inch-by-e-p-carrillo-changes-introduced-at-ipcpr-2016.html",
+      "https://cigar-coop.com/2016/01/agile-cigar-review-e-p-carrillo-inch-maduro-no-64.html"
+    ],
+    "notes": "The maker's own page disagrees with itself on the binder: the spec table says Ecuador, the description says Nicaraguan. Cigar Coop also says Nicaraguan. An 8 x 58 size added in 2016 is no longer listed.",
+    "verified": true,
+    "verifyNotes": "No changes. Wrapper, filler, country, strength and sizes confirmed on the maker page. Binder: the maker's spec table says Ecuador while its own description and Cigar Coop say Nicaraguan, as the notes already state."
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Inch Natural",
+    "found": true,
+    "officialName": "INCH Natural",
+    "wrapperLeaf": "Ecuadorian Sumatra",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Nicaragua",
+    "filler": "Nicaragua, Dominican Republic",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "No. 60",
+        "length": 5.875,
+        "ring": 60
+      },
+      {
+        "name": "No. 62",
+        "length": 5,
+        "ring": 62
+      },
+      {
+        "name": "No. 64",
+        "length": 6.125,
+        "ring": 64
+      },
+      {
+        "name": "No. 70",
+        "length": 7,
+        "ring": 70
+      }
+    ],
+    "flavors": [
+      "spice",
+      "earth",
+      "wood",
+      "nuts"
+    ],
+    "about": "The natural-wrapper version of E.P. Carrillo's INCH series of very thick cigars, with ring gauges from 60 to 70. It uses an Ecuadorian Sumatra wrapper and has been made since the series launched in 2012.",
+    "released": 2012,
+    "production": "regular",
+    "sources": [
+      "https://casacarrillocigars.com/inch-natural/",
+      "https://cigar-coop.com/2016/08/cigar-news-inch-by-e-p-carrillo-changes-introduced-at-ipcpr-2016.html",
+      "https://cigar-coop.com/2016/01/agile-cigar-review-e-p-carrillo-inch-natural-no-64.html"
+    ],
+    "notes": "The maker lists the wrapper only as Ecuador; Cigar Coop identifies it as Ecuadorian Sumatra. The maker rates it medium, while Cigar Coop's review called it medium to full.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "EP Carrillo",
+    "line": "Seleccion Oscuro",
+    "found": true,
+    "officialName": "Selección Oscuro",
+    "wrapperLeaf": "Mexican San Andrés Oscuro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Ecuador",
+    "filler": "Nicaragua",
+    "country": "Dominican Republic",
+    "factory": "Tabacalera La Alianza (now Casa Carrillo)",
+    "strength": "Medium",
+    "body": "Medium",
+    "sizes": [
+      {
+        "name": "Robusto Gordo",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Small Churchill",
+        "length": 5.5,
+        "ring": 50
+      },
+      {
+        "name": "Especial No. 6",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Piramides Royal",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "cocoa",
+      "earth",
+      "cedar",
+      "wood",
+      "pepper"
+    ],
+    "about": "A dark Mexican San Andrés-wrapped cigar that E.P. Carrillo launched in 2015 and later placed in its Elite Series. The wrapper sits over an Ecuadorian binder and Nicaraguan filler.",
+    "released": 2015,
+    "production": null,
+    "sources": [
+      "https://halfwheel.com/e-p-carrillo-seleccion-oscuro-especial-no-6-prerelease/94096/",
+      "https://cigar-coop.com/2016/03/cigar-review-e-p-carrillo-seleccion-oscuro-especial-no-6.html",
+      "https://cigar-coop.com/2016/07/cigar-news-e-p-carrillo-repackages-new-wave-reserva-and-seleccion-oscuro-as-part-of-elite-series.html"
+    ],
+    "notes": "On hiatus since 2022 and not in the maker's current lineup. Launched in six sizes; Cigar Coop reported the Nacionales (5 1/2 x 44) and Dinamicos (6 7/8 x 49) dropped in 2016, though a 2017 review there still counted six. Strength is from a Cigar Coop review, not the maker.",
+    "verified": true,
+    "verifyNotes": "Blend, country, factory and strength confirmed. Replaced the hiatus link in sources with the Cigar Coop article that supports the four-size list; a 2017 Cigar Coop review still counted six sizes, so that is now in notes. Changed production from 'discontinued' to null: halfwheel (https://halfwheel.com/e-p-carrillo-announces-price-increase-puts-three-lines-on-hiatus/403637/) says hiatus, 'not being fully discontinued'."
+  }
+]

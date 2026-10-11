@@ -1,4 +1,5 @@
 import type { Cigar, Smoke } from '../data/types'
+import { fold } from './format'
 import { effectiveTags } from './tags'
 
 export interface SmokeRow {
@@ -29,7 +30,7 @@ export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): 
       smoke.thirds.final.note,
       ...effectiveTags(smoke),
     ]
-    rows.push({ smoke, cigar, haystack: parts.filter(Boolean).join(' ').toLowerCase() })
+    rows.push({ smoke, cigar, haystack: fold(parts.filter(Boolean).join(' ')) })
   }
   rows.sort((a, b) => (a.smoke.smokedAt < b.smoke.smokedAt ? 1 : -1))
   return rows
@@ -37,17 +38,17 @@ export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): 
 
 /** Every word in the query must appear somewhere in the row. */
 export function searchRows(rows: SmokeRow[], query: string): SmokeRow[] {
-  const words = query.toLowerCase().split(/\s+/).filter(Boolean)
+  const words = fold(query).split(/\s+/).filter(Boolean)
   if (words.length === 0) return rows
   return rows.filter((row) => words.every((word) => row.haystack.includes(word)))
 }
 
 export function searchCigars(cigars: Iterable<Cigar>, query: string): Cigar[] {
-  const words = query.toLowerCase().split(/\s+/).filter(Boolean)
+  const words = fold(query).split(/\s+/).filter(Boolean)
   const out: Cigar[] = []
   for (const cigar of cigars) {
     if (cigar.deletedAt) continue
-    const haystack = `${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`.toLowerCase()
+    const haystack = fold(`${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`)
     if (words.every((word) => haystack.includes(word))) out.push(cigar)
   }
   return out.sort((a, b) =>

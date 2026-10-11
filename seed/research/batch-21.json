@@ -1,0 +1,685 @@
+[
+ {
+  "brand": "C.L.E.",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The C.L.E. Factory",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "40 x 4",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "11/18 (figurado)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "54 x 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "earth",
+   "pepper",
+   "cinnamon",
+   "leather"
+  ],
+  "about": "The maduro member of Christian Eiroa's C.L.E. core line, introduced at the 2025 PCA trade show. It puts a dark Mexican San Andrés wrapper over the same Honduran binder and filler used in the Connecticut, Corojo and Habano.",
+  "released": 2025,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/article/c-l-e-cigar-co-adds-maduro-line",
+   "https://cigar-coop.com/2025/11/c-l-e-maduro-11-18-cigar-review.html",
+   "https://www.cigaraficionado.com/ratings/26707/name/c-l-e-maduro-50x5"
+  ],
+  "notes": "Strength is disputed: the company says medium (used here), Cigar Coop mild-medium to medium, but Cigar Aficionado's rating page lists the 50x5 as Full. Filler too: Cigar Aficionado's launch article and halfwheel say Honduran; its rating page says Colombia and Honduras and Cigar Coop Colombian. Not the older Eiroa CBT Maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Connecticut",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut Shade",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Mild-Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "40 x 4",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "11/18 (figurado)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "54 x 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "wood",
+   "citrus",
+   "pepper",
+   "dried fruit"
+  ],
+  "about": "Christian Eiroa's Connecticut-wrapped core line, launched in 2012. An Ecuadorian Connecticut Shade wrapper sits over Honduran binder and filler.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2012/09/cigar-review-cle-connecticu.html",
+   "https://www.neptunecigar.com/cle-cigar",
+   "https://mikescigars.com/cigars/brands/cle/cle-connecticut"
+  ],
+  "notes": "Blend sources disagree: Cigar Coop, Neptune and halfwheel (2024) give Honduran binder and filler, but halfwheel in 2018 listed Honduran, Nicaraguan and Peruvian filler, and Mike's describes a Corojo binder with Peruvian Pelo de Oro in the filler. Strength: Mike's and Cigar Coop say mild to medium, Neptune says Medium.",
+  "verified": true,
+  "verifyNotes": "Flavors: replaced cedar and oak with wood, the word Cigar Coop's review actually uses. About: removed the claim that this was the first C.L.E. blend that was not a Honduran puro, which no source opened states. Notes tidied to match what the pages say. Wrapper, binder, filler, country, strength and sizes confirmed against Cigar Coop, Neptune, Mike's and halfwheel (2024)."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Corojo",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Corojo",
+  "wrapperCategory": "Corojo",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium-Full",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "40 x 4",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "11/18 (figurado)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "54 x 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "earth",
+   "caramel",
+   "citrus",
+   "oak",
+   "baking spice"
+  ],
+  "about": "A Honduran puro with a Honduran Corojo wrapper from Christian Eiroa, formerly of Camacho. It has been part of the C.L.E. core line since the brand launched in 2012.",
+  "released": 2012,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2012/12/2012-cigar-of-year-countdown-22-cle.html",
+   "https://www.cigaraficionado.com/rating/cle-corojo-2012-11-18",
+   "https://mikescigars.com/cigars/brands/cle/cle-corojo"
+  ],
+  "notes": "Cigar Aficionado and Cigar Coop list it as a Honduran puro; halfwheel in 2018 listed fillers from Honduras, Nicaragua and Peru, but in 2024 said Honduran binder and filler. Strength: Cigar Aficionado, Cigar Coop and Mike's say Medium-Full, Neptune lists Medium. No source checked names the current factory.",
+  "verified": true,
+  "verifyNotes": "Flavors: replaced cedar with oak (Cigar Coop lists oak, not cedar). About rewritten to drop the unconfirmed claim that it was one of two original blends. Notes: removed the factory name Tabacos Rancho Jamastran, which the pages opened do not give. Wrapper, country and strength confirmed against Cigar Aficionado, Cigar Coop, Mike's and halfwheel (2024)."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": null,
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "40 x 4",
+    "length": 4,
+    "ring": 40
+   },
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "11/18 (figurado)",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "54 x 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "coffee",
+   "cream",
+   "spice"
+  ],
+  "about": "The Habano-wrapped member of Christian Eiroa's C.L.E. core line, made in Honduras. It uses a Honduran Habano wrapper over Honduran binder and filler.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://neptunecigar.com/cigars/cle-habano-550",
+   "https://www.cigaraficionado.com/rating/cle-habano-11-18",
+   "https://halfwheel.com/cle-cigar-co-updates-core-line-packaging/436900/"
+  ],
+  "notes": "Strength is disputed: Neptune's spec lists Medium (used here) though its description says medium to full-bodied, and Cigar Aficionado lists Medium-Full. Filler is disputed: Neptune, Cigar Coop and halfwheel (2024) describe an all-Honduran blend, but Cigar Aficionado and halfwheel in 2018 listed Honduras, Peru and Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Flavors: removed leather, which none of the pages opened mention. Sources: swapped the Cigar Coop 2022 news item for halfwheel's 2024 article, which states the Honduran habano wrapper and Honduran binder and filler directly. Notes: removed the JR strength citation and the CLE Cuarenta remark, neither of which could be confirmed. Wrapper, country and strength confirmed against Neptune, Cigar Aficionado and halfwheel."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Prieto",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Connecticut Broadleaf (USA)",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "United States",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "46 x 6",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "52 x 6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "black pepper",
+   "cedar",
+   "earth"
+  ],
+  "about": "A box-pressed Connecticut Broadleaf maduro from Christian Eiroa, launched in 2016 alongside Chele as the first C.L.E. cigars rolled in Nicaragua. It contains no Honduran tobacco, and the 50x5 scored 92 points in Cigar Aficionado.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://www.cigaraficionado.com/ratings/20151/name/cle-prieto-50x5",
+   "https://halfwheel.com/cle-ships-chele-prieto/114274/",
+   "https://cigar-coop.com/2025/02/cle-cigar-company-removes-five-lines-from-product-catalog-cigar-news.html"
+  ],
+  "notes": "Hard to find: off the C.L.E. price list since March 5, 2025. Per halfwheel it is not discontinued but made only when a retailer orders five boxes of a size, with about a two month wait. The factory is reported, not official: halfwheel says NACSA, but Christian Eiroa told Cigar Aficionado the company was not disclosing it.",
+  "verified": true,
+  "verifyNotes": "Factory: was null, now NACSA per halfwheel's May 2016 shipping report (the maker itself declined to name the factory). Flavors: removed leather (not in any page opened) and added cedar from The Cigar Authority's review. Sources: replaced the Cigar Aficionado launch article with the halfwheel shipping report. Notes: removed the Neptune and Hiland's remarks, since Neptune's Prieto page now returns 404 and the Hiland's claim could not be checked. Wrapper, country and strength confirmed against Cigar Aficionado."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Chele",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Nicaragua American Cigars S.A. (NACSA)",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "46 x 6",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "52 x 6",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cream",
+   "bread",
+   "white pepper",
+   "leather",
+   "cedar",
+   "almond"
+  ],
+  "about": "A box-pressed Ecuadorian Connecticut cigar from Christian Eiroa, launched in 2016 alongside Prieto as the first C.L.E. cigars rolled in Nicaragua. The name is Spanish slang for a light-skinned person, a nod to the pale wrapper.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://www.cigaraficionado.com/article/cle-launching-two-connecticut-cigars-next-week-18795",
+   "https://halfwheel.com/cle-ships-chele-prieto/114274/",
+   "https://mikescigars.com/brands/cle-chele"
+  ],
+  "notes": "Strength is disputed, so quote it with care: the company and Mike's say medium to full (used here), Neptune says Medium and The Cigar Authority Mild-Medium. Off the price list since March 5, 2025 but not discontinued; made only when a retailer orders five boxes of a size. The factory is reported by halfwheel, not official.",
+  "verified": true,
+  "verifyNotes": "Factory: was null, now NACSA per halfwheel's May 2016 shipping report (the maker itself declined to name the factory). About: name meaning corrected from pale or blond to light-skinned, as halfwheel and The Cigar Authority give it. Sources: replaced the Neptune brand page with the halfwheel shipping report. Notes: removed the JR and Cigar Journal citations that could not be confirmed, and added the maker's own medium to full wording from the launch release. Wrapper, country and strength confirmed."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "25th Anniversary",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Honduran",
+  "wrapperCategory": null,
+  "wrapperOrigin": "Honduras",
+  "binder": "Honduras",
+  "filler": "Honduras",
+  "country": "Honduras",
+  "factory": "The CLE Factory",
+  "strength": "Medium",
+  "body": "Medium-Full",
+  "sizes": [
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54 x 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "11/18 (figurado)",
+    "length": 6,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "toast",
+   "nuts",
+   "graham cracker",
+   "cedar",
+   "baking spice",
+   "black pepper"
+  ],
+  "about": "A box-pressed Honduran puro released in late 2020 to mark Christian Eiroa's 25 years in the cigar business, not the company's age. The blend includes Authentic Corojo tobacco and is the same across all sizes.",
+  "released": 2020,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2021/10/agile-cigar-review-cle-25th-anniversary-50-x-5.html",
+   "https://www.cigaraficionado.com/ratings/22747/name/cle-25th-anniversary-50x5",
+   "https://halfwheel.com/cle-25th-anniversary-taa-2025/470787/"
+  ],
+  "notes": "The wrapper is listed only as Honduran: sources say the blend uses Authentic Corojo but not which leaf is the wrapper. Factory name differs: halfwheel lists The CLE Factory, Cigar Coop calls it El Aladino. The 11/18 began as a 2020 TAA exclusive and is now sold alongside the other sizes.",
+  "verified": true,
+  "verifyNotes": "No blend fields changed. Sources: replaced the Neptune brand page with halfwheel's review, which is the page that gives The CLE Factory as the factory. Wrapper (listed only as Honduran by every source), country, strength and sizes confirmed against Cigar Aficionado, Cigar Coop, Neptune and halfwheel."
+ },
+ {
+  "brand": "C.L.E.",
+  "line": "Azabache",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Honduras",
+  "filler": "Honduras, Nicaragua, Peru",
+  "country": "Honduras",
+  "factory": "El Aladino",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "50 x 5",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "54 x 6",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "60 x 6",
+    "length": 6,
+    "ring": 60
+   },
+   {
+    "name": "54 x 4",
+    "length": 4,
+    "ring": 54
+   },
+   {
+    "name": "60 x 4",
+    "length": 4,
+    "ring": 60
+   },
+   {
+    "name": "69 x 4",
+    "length": 4,
+    "ring": 69
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "cedar",
+   "pepper",
+   "coffee",
+   "oak"
+  ],
+  "about": "A box-pressed San Andrés maduro from Christian Eiroa that began as a 2016 TAA exclusive and joined the regular C.L.E. lineup in 2017. Unlike most C.L.E. blends, it adds Nicaraguan and Peruvian filler to the Honduran tobacco.",
+  "released": 2016,
+  "production": null,
+  "sources": [
+   "https://halfwheel.com/cle-azabache-5-x-50/114483/",
+   "https://cigar-coop.com/2018/08/cigar-news-c-l-e-cigar-company-launches-three-line-extensions-to-four-c-l-e-collection-lines.html",
+   "https://cigar-coop.com/2025/02/cle-cigar-company-removes-five-lines-from-product-catalog-cigar-news.html"
+  ],
+  "notes": "Strength is disputed and the company published none: halfwheel and Cigar Coop say Medium (used here), The Cigar Authority and GoBourbon medium-plus to full. The Cigar Authority lists Nicaragua as origin, which the other sources show is an error. Not discontinued, but made only when a retailer orders five boxes of a size.",
+  "verified": true,
+  "verifyNotes": "Strength changed from Medium-Full to Medium: the two reviews opened from the most trusted sources (halfwheel and Cigar Coop) both rate it Medium, and the Medium-Full figure rested on GoBourbon and The Cigar Authority. Sources: replaced the Cigar Coop review with halfwheel's review, which carries the full spec box. Notes: removed the Neptune strength remark, since Neptune no longer lists the line. Wrapper, binder, filler, country, factory and sizes confirmed against halfwheel, Cigar Aficionado and Cigar Coop."
+ },
+ {
+  "brand": "Cain",
+  "line": "F",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (ligero from Estelí, Condega and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "550 Robusto",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "654T Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660 Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "pepper",
+   "wood",
+   "smoked meat",
+   "cocoa",
+   "leather"
+  ],
+  "about": "The strongest regular Cain blend, made by Oliva in Nicaragua and blended by Sam Leccia. It is about 82 percent ligero, with a heavier share of Estelí ligero than the original Cain.",
+  "released": 2010,
+  "production": "regular",
+  "sources": [
+   "https://www.neptunecigar.com/cain-cigar",
+   "https://blindmanspuff.com/blind-cigar-review-cain-f-lancero/",
+   "https://www.cigaraficionado.com/ratings/22573/name/cain-f-550"
+  ],
+  "notes": "Wrapper is disputed: Oliva, halfwheel and retailers say Nicaraguan (Habano), but Cigar Aficionado's rating page lists Ecuador. Strength: Neptune and Mike's list Full, Cigar Aficionado lists Medium-Full. Oliva's current website does not list Cain, but retailers still stock it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cain",
+  "line": "Habano",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Nicaraguan Habano",
+  "wrapperCategory": "Habano",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (ligero from Estelí, Condega and Jalapa)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "550 Robusto",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "654T Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660 Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "nuts",
+   "leather",
+   "spice",
+   "toast",
+   "chocolate"
+  ],
+  "about": "The original Cain, introduced by Oliva in 2009 with Sam Leccia, who also fronted Oliva's Nub brand. It is a Nicaraguan puro billed as a straight ligero cigar, with about 82 percent ligero in the filler.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/ratings/13643/name/cain-habano-550",
+   "https://www.neptunecigar.com/cain-cigar",
+   "https://www.cigarplace.biz/all-brands/cain-cigars/cain-habano.html"
+  ],
+  "notes": "Strength: Neptune and Mike's list Full; Cigar Aficionado's tasting note calls it medium to full bodied. The blend is about 82 percent ligero rather than 100 percent so that it burns properly. Oliva's current website does not list Cain, but retailers still stock it.",
+  "verified": true,
+  "verifyNotes": "Flavors: removed wood, which neither Cigar Aficionado's note nor Cigar Place's description mentions. About: reworded the Sam Leccia line to what halfwheel states (he was the face of both Cain and Nub). Wrapper, country, strength and sizes confirmed against Cigar Aficionado, Neptune, Mike's and Cigar Place."
+ },
+ {
+  "brand": "Cain",
+  "line": "Maduro",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": "Mexican San Andrés Maduro",
+  "wrapperCategory": "San Andrés",
+  "wrapperOrigin": "Mexico",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "550 Robusto",
+    "length": 5.75,
+    "ring": 50
+   },
+   {
+    "name": "654T Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660 Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "oak",
+   "char"
+  ],
+  "about": "The maduro version of Oliva's ligero-heavy Cain, released with the Habano in 2009 and blended by Sam Leccia. A near-black Mexican maduro wrapper covers Nicaraguan ligero binder and filler.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://www.cigaraficionado.com/ratings/13696/name/cain-maduro-550",
+   "https://www.neptunecigar.com/cain-cigar",
+   "https://mikescigars.com/brands/cain-by-oliva"
+  ],
+  "notes": "Wrapper: Cigar Aficionado and Mike's list Mexico and Neptune specifies Mexican San Andrés, but a 2009 Stogie Review write-up listed a Brazilian maduro. Strength is disputed: Neptune and Mike's list Full (used here), while Cigar Aficionado lists Medium. Oliva's current website does not list Cain, but retailers still stock it.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Cain",
+  "line": "Daytona",
+  "found": true,
+  "officialName": null,
+  "wrapperLeaf": null,
+  "wrapperCategory": null,
+  "wrapperOrigin": null,
+  "binder": "Nicaragua",
+  "filler": "Nicaragua (Jalapa Valley ligero)",
+  "country": "Nicaragua",
+  "factory": "Tabacalera Oliva de Nicaragua S.A.",
+  "strength": "Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 4",
+    "length": 5,
+    "ring": 43
+   },
+   {
+    "name": "550 Robusto",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "646 Corona",
+    "length": 6,
+    "ring": 46
+   },
+   {
+    "name": "654T Torpedo",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "660 Double Toro",
+    "length": 6,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "leather",
+   "coffee",
+   "caramel",
+   "dark chocolate",
+   "nuts",
+   "black pepper"
+  ],
+  "about": "The milder Cain blend, introduced by Oliva in spring 2011 as the fourth Cain line. Its ligero comes only from Nicaragua's Jalapa Valley, which makes it smoother than the other Cain cigars.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://cigar-coop.com/2011/03/cigar-review-cain-daytona.html",
+   "https://www.cigaraficionado.com/ratings/24968/name/cain-daytona-no-4",
+   "https://www.neptunecigar.com/cain-cigar"
+  ],
+  "notes": "Wrapper unsettled: do not quote one without checking the box or the Oliva rep. Cigar Coop, Neptune and halfwheel reviews say Nicaraguan (Habano); Cigar Aficionado says Ecuador and a 2011 halfwheel piece Ecuadorian Sumatra. Strength: the maker says medium (used here), Cigar Aficionado and Cigar Coop medium to full, Neptune Full.",
+  "verified": false,
+  "verifyNotes": "Not marked verified because the wrapper could not be settled: the conflict between Nicaraguan Habano and Ecuadorian leaf is real across the pages opened, so wrapper fields stay null. Country, factory, binder, filler, sizes and the maker's Medium billing were confirmed. Flavors replaced with words from Cigar Aficionado's 2024 note and Cigar Coop's review, since oak, earth, cinnamon and dried fruit were not in the listed sources. About: removed the claim that it was the first line under the Studio Tobac banner, which no page opened states. Notes: removed the Mike's strength citation (Mike's Cain page does not list Daytona) and the halfwheel 5.7 inch remark."
+ }
+]

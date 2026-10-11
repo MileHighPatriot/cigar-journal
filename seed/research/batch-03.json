@@ -1,0 +1,1333 @@
+[
+  {
+    "brand": "Drew Estate",
+    "line": "Liga Privada No. 9",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut River Valley Broadleaf No. 1 Dark",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Brazil (plantation-grown Mata Fina)",
+    "filler": "Nicaragua, Honduras",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Coronets",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Corona Viva",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Corona Doble",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "espresso"
+    ],
+    "about": "Drew Estate's flagship full-bodied cigar, built around a dark Connecticut Broadleaf wrapper. It started as a private blend for the company's own people, and the name comes from the ninth test blend.",
+    "released": 2007,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/liga-privada/liga-privada-no-9/",
+      "https://halfwheel.com/review-liga-privada-no-9-2006/22812/",
+      "https://halfwheel.com/liga-privada-no-9-corona-viva/266090/"
+    ],
+    "notes": "First sold in 2007 as a single 6 x 52 size. A 3 15/16 x 60 Flying Pig is also made as a seasonal release.",
+    "verified": true,
+    "verifyNotes": "All fields match the maker page and halfwheel. Strength is the maker's single rating, which it labels Body."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Liga Privada T52",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut River Valley stalk-cut and stalk-cured Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "USA",
+    "binder": "Brazil (plantation-grown Mata Fina)",
+    "filler": "Honduras, Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Coronets",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Corona Viva",
+        "length": 6,
+        "ring": 46
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Corona Doble",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "black pepper",
+      "caramel"
+    ],
+    "about": "The second Liga Privada blend, wrapped in a Habano-seed leaf grown in Connecticut that is cut and cured on the whole stalk. It is full-bodied like the No. 9 but with a different wrapper.",
+    "released": 2009,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/liga-privada/liga-privada-t52/",
+      "https://halfwheel.com/review-liga-privada-t52/9438/"
+    ],
+    "notes": "Stalk-cut means the whole plant is cut and hung in the barn instead of picking the leaves one at a time. A 3 15/16 x 60 Flying Pig is also made as a seasonal release.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Liga Privada H99",
+    "found": true,
+    "officialName": "Liga Privada H99 Connecticut Corojo",
+    "wrapperLeaf": "H99 hybrid of Connecticut Corojo and stalk-cut Habano, grown in the Connecticut River Valley",
+    "wrapperCategory": "Corojo",
+    "wrapperOrigin": "USA",
+    "binder": "Mexico (San Andres Otapan Negro Ultimo Corte)",
+    "filler": "Nicaragua, Honduras, USA (Pennsylvania Green River One Sucker)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Super Ancho",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "espresso",
+      "leather",
+      "cedar"
+    ],
+    "about": "A Liga Privada blend built on a hybrid Corojo-seed wrapper grown in Connecticut by a single farmer for Drew Estate. It came out in tiny quantities in 2018 and became a regular release in 2022.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/liga-privada/liga-privada-h99/",
+      "https://halfwheel.com/liga-privada-h99-connecticut-corojo-super-ancho/443061/",
+      "https://halfwheel.com/drew-estate-makes-liga-privada-h99-a-regular-production-release/405265/"
+    ],
+    "notes": "Halfwheel lists the Robusto as 5 1/2 x 54; the maker and Neptune list 5 x 54. Halfwheel says the Super Ancho is sold only at retailer events. Wrapper supply is small, so it can be hard to find.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Liga Privada 10 Aniversario",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Criollo (hybrid, criollo-seed grown in Connecticut)",
+    "wrapperCategory": "Criollo",
+    "wrapperOrigin": "USA",
+    "binder": "Mexico (San Andres Otapan Negro Ultimo Corte)",
+    "filler": "Nicaragua, USA (Pennsylvania Green River One Sucker)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "pepper",
+      "spice",
+      "sharp cheddar"
+    ],
+    "about": "Made to mark ten years of Liga Privada, with a heavy Criollo-seed wrapper grown in Connecticut. It is a dense, full-strength cigar finished with a fishtail cap and a covered foot.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/liga-privada/liga-privada-liga-10/",
+      "https://halfwheel.com/liga-privada-10-aniversario/366889/",
+      "https://halfwheel.com/drew-estate-makes-liga-privada-10-aniversario-regular-production/409893/"
+    ],
+    "notes": "Launched in December 2018 in very small numbers sold to stores by raffle; regular production since June 2022. Sold in boxes of 10.",
+    "verified": true,
+    "verifyNotes": "No facts changed. Swapped one source for halfwheel's review, the page that gives the full binder name and the December 2018 date."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Liga Privada Unico Feral Flying Pig",
+    "found": true,
+    "officialName": "Liga Privada Único Serie Feral Flying Pig",
+    "wrapperLeaf": "Connecticut Broadleaf (the Liga Privada No. 9 wrapper)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Brazil (plantation-grown Mata Fina)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Feral Flying Pig",
+        "length": 5.375,
+        "ring": 60
+      }
+    ],
+    "flavors": [],
+    "about": "A larger version of Drew Estate's Flying Pig perfecto, sold in the Liga Privada Único Serie. It has its own blend under the No. 9 Broadleaf wrapper and is very full-bodied.",
+    "released": 2011,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+      "https://halfwheel.com/liga-privada-feral-flying-pig-prerelease-review/21671/",
+      "https://halfwheel.com/collections/liga-privada-unico-serie-feral-flying-pig/"
+    ],
+    "notes": "One size in the Único Serie, where each vitola has its own blend. The maker only confirms the No. 9 Broadleaf wrapper; binder and filler are from halfwheel's 2011 review. Made in small batches, so supply comes and goes.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Liga Privada Unico Dirty Rat",
+    "found": true,
+    "officialName": "Liga Privada Único Serie Dirty Rat",
+    "wrapperLeaf": "Connecticut River Valley stalk-cut and cured sun grown Habano (the Liga Privada T52 wrapper)",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "USA",
+    "binder": "Brazil (plantation-grown Mata Fina)",
+    "filler": "Nicaragua, Honduras",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Dirty Rat",
+        "length": 5,
+        "ring": 44
+      }
+    ],
+    "flavors": [],
+    "about": "A small pigtail-capped corona that was the first release in the Liga Privada Único Serie. It packs five filler tobaccos into a 44 ring gauge under the T52 Habano wrapper.",
+    "released": 2010,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/liga-privada/liga-privada-unico/",
+      "https://halfwheel.com/liga-privada-dirty-rat-redux-review/9678/"
+    ],
+    "notes": "One size in the Único Serie, where each vitola has its own blend. The maker only confirms the T52 Habano wrapper; binder and filler are from halfwheel. Made in small batches, so supply comes and goes.",
+    "verified": true,
+    "verifyNotes": "No changes. Halfwheel's spec box says August 2011 but the review itself is dated September 2010, so 2010 stands."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Undercrown Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "USA (Connecticut River Valley stalk-cut and stalk-cured Habano)",
+    "filler": "Brazil (Mata Fina), Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Coronets",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Corona Viva",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Corona Doble",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "earth",
+      "sweetness"
+    ],
+    "about": "The original Undercrown, created by Drew Estate's rollers as their own smoke when Liga Privada tobacco ran short. It uses many of the same tobaccos from different primings under a dark Mexican wrapper.",
+    "released": 2011,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/undercrown/undercrown-maduro/",
+      "https://halfwheel.com/undercrown-drew-estate/9907/"
+    ],
+    "notes": "Launched in 2011 simply as Undercrown; Maduro was added to the name after other versions arrived. A 3 15/16 x 60 Flying Pig is also made as a seasonal release.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Undercrown Shade",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Sumatra",
+    "filler": "Dominican Republic (Criollo 98), Nicaragua (Corojo, Criollo)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Coronets",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Corona Viva",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Corona Doble",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "cream",
+      "earth",
+      "vanilla",
+      "caramel",
+      "pepper"
+    ],
+    "about": "The Connecticut Shade version of Undercrown, blended by Willy Herrera with the factory's rollers. It is a completely different blend from the original, not just a wrapper swap.",
+    "released": 2015,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/undercrown/undercrown-shade/",
+      "https://halfwheel.com/undercrown-shade-gran-toro/94857/"
+    ],
+    "notes": "A 3 15/16 x 60 Flying Pig is also made as a seasonal release.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Undercrown Sun Grown",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Sumatra, sun grown",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Ecuador",
+    "binder": "USA (Connecticut River Valley stalk-cut and cured sun grown Habano)",
+    "filler": "Nicaragua (including aged ligero from Nueva Segovia)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": null,
+    "body": null,
+    "sizes": [
+      {
+        "name": "Flying Pig",
+        "length": 3.9375,
+        "ring": 60
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Corona",
+        "length": 5.625,
+        "ring": 46
+      },
+      {
+        "name": "Gran Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Belicoso",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Corona Doble",
+        "length": 7,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "earth",
+      "cream"
+    ],
+    "about": "The third Undercrown blend, in red and gold bands, with a sun grown Sumatra-seed wrapper from Ecuador. Drew Estate dropped the whole line in 2022.",
+    "released": 2017,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/undercrown-sun-grown-robusto/208857/",
+      "https://halfwheel.com/drew-estate-discontinues-100-skus-including-la-vieja-habana-undercrown-sun-grown-lines/414354/"
+    ],
+    "notes": "Discontinued in September 2022 and no longer on Drew Estate's site, so any stock is leftover. No official strength rating confirmed; halfwheel's reviewer found it medium-full by the end.",
+    "verified": true,
+    "verifyNotes": "No changes. Strength left blank: the maker no longer lists the line and no retailer page I could open still carries it."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Undercrown 10",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Corona Viva",
+        "length": 5,
+        "ring": 43
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Corona Doble",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "earth",
+      "black pepper",
+      "cherry",
+      "hot chocolate",
+      "raisin",
+      "espresso"
+    ],
+    "about": "Released for the tenth anniversary of Undercrown. It keeps a Mexican San Andres wrapper like the original but uses a Connecticut Broadleaf binder and a bolder, full-bodied blend.",
+    "released": 2021,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/undercrown/undercrown-uc-10/",
+      "https://halfwheel.com/undercrown-10-robusto/399609/",
+      "https://www.holts.com/cigars/all-cigar-brands/liga-privada-undercrown-10.html"
+    ],
+    "notes": "The maker and Neptune call it Full; Holt's lists it as Medium-Full.",
+    "verified": true,
+    "verifyNotes": "Filler corrected from Nicaragua, Honduras to Nicaragua: the maker page gives no blend, and halfwheel, Holt's and Neptune all say Nicaraguan filler. Wrapper trimmed to Mexican San Andres because no page I opened says Negro Ultimo Corte. Rewrote the note and added Holt's as a source."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Herrera Estelí Habano",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Honduras",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto Grande",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Lonsdale Deluxe",
+        "length": 6,
+        "ring": 44
+      },
+      {
+        "name": "Toro Especial",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "baking spice",
+      "wood",
+      "nutmeg",
+      "butter"
+    ],
+    "about": "The first blend by Willy Herrera after he joined Drew Estate, made in a Cuban style with entubado bunching and a triple cap. It is a smooth, medium-bodied cigar and a change from the company's darker lines.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/herrera-esteli/herrera-esteli-habano/",
+      "https://halfwheel.com/review-herrera-esteli-prerelease/32952/"
+    ],
+    "notes": "Originally sold simply as Herrera Estelí; the maker now labels it Herrera Estelí Habano.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Herrera Estelí Norteño",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Honduras",
+    "filler": "Nicaragua (Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Coronita",
+        "length": 4,
+        "ring": 46
+      },
+      {
+        "name": "Corona Extra",
+        "length": 4.75,
+        "ring": 48
+      },
+      {
+        "name": "Belicoso Fino",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Robusto Grande",
+        "length": 5.5,
+        "ring": 54
+      },
+      {
+        "name": "Toro Especial",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Lonsdale",
+        "length": 6.5,
+        "ring": 44
+      }
+    ],
+    "flavors": [
+      "earth",
+      "pepper",
+      "sweetness"
+    ],
+    "about": "Willy Herrera's second line for Drew Estate, a soft box-pressed cigar with a Mexican San Andres wrapper. The name refers to people from northern Nicaragua, where Estelí is.",
+    "released": 2014,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/review-herrera-esteli-norteno-robusto-grande/66441/",
+      "https://halfwheel.com/drew-estate-discontinues-herrera-esteli-miami-norteno/445449/",
+      "https://www.neptunecigar.com/herrera-esteli-norteno-cigar"
+    ],
+    "notes": "Drew Estate discontinued the line in December 2024, so stock is leftover. By then only the Lonsdale, Robusto Grande and Toro Especial were still listed. Strength is from Neptune and Holt's, which both say Full.",
+    "verified": true,
+    "verifyNotes": "Removed cocoa, cedar and coffee from flavors: coffee is not in any page I opened, and cocoa and cedar come from Holt's, which is not a listed source. Added sweetness, which Neptune and halfwheel both mention. Full strength confirmed on Neptune and Holt's."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Herrera Estelí Brazilian Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Brazilian Mata Fina maduro",
+    "wrapperCategory": "Mata Fina",
+    "wrapperOrigin": "Brazil",
+    "binder": "USA (Connecticut Broadleaf)",
+    "filler": "Nicaragua, Dominican Republic",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto Grande",
+        "length": 5.25,
+        "ring": 52
+      },
+      {
+        "name": "Lonsdale Deluxe",
+        "length": 6,
+        "ring": 44
+      },
+      {
+        "name": "Toro Especial",
+        "length": 6,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "floral",
+      "spice",
+      "pepper",
+      "dark chocolate"
+    ],
+    "about": "A Herrera Estelí blend built to show off dark Brazilian Mata Fina leaf as a wrapper instead of its usual role as binder or filler. Willy Herrera blended it to be smooth and floral with a medium to full body.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/herrera-esteli/herrera-esteli-brazilian-maduro/",
+      "https://halfwheel.com/herrera-esteli-brazilian-maduro-updated-packaging-shipping-nationwide/287092/"
+    ],
+    "notes": "The maker lists Nicaraguan and Dominican filler; halfwheel's 2018 report lists Nicaragua only.",
+    "verified": true,
+    "verifyNotes": "Binder trimmed to Connecticut Broadleaf, which is all the maker says. Halfwheel lists the Toro Especial as 6 x 52; kept the maker's 6 x 54."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Herrera Estelí Miami",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Habano Oscuro",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Ecuador (Sumatra)",
+    "filler": "Dominican Republic, Nicaragua",
+    "country": "USA",
+    "factory": "El Titan de Bronze",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto Grande",
+        "length": 5,
+        "ring": 50
+      },
+      {
+        "name": "Short Corona Gorda",
+        "length": 5.75,
+        "ring": 48
+      },
+      {
+        "name": "Toro Especial",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Lonsdale Deluxe",
+        "length": 6.5,
+        "ring": 44
+      },
+      {
+        "name": "Piramide Fino",
+        "length": 6.5,
+        "ring": 54
+      }
+    ],
+    "flavors": [
+      "leather",
+      "cedar",
+      "nuts",
+      "raisin",
+      "black pepper",
+      "espresso"
+    ],
+    "about": "A Herrera Estelí blend rolled in Miami's Little Havana at El Titan de Bronze, the small factory where Willy Herrera learned to blend. The factory is owned by his mother-in-law, Sandra Cobas.",
+    "released": 2016,
+    "production": "discontinued",
+    "sources": [
+      "https://halfwheel.com/herrera-esteli-miami-piramide-fino/336358/",
+      "https://halfwheel.com/drew-estate-discontinues-herrera-esteli-miami-norteno/445449/",
+      "https://www.neptunecigar.com/herrera-esteli-miami-cigar"
+    ],
+    "notes": "First released in 2016 as a single limited size, then as a full line in late 2018. Drew Estate discontinued it in December 2024, so stock is leftover. Strength is from Neptune and halfwheel's review, not the maker.",
+    "verified": true,
+    "verifyNotes": "Reworded the about so it is clear the factory, not the cigar, is owned by his mother-in-law. Neptune lists the Lonsdale as 6 x 44 and the Robusto Grande as 5 1/4 x 52; kept halfwheel's sizes."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Factory Smokes Sun Grown",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Sun Grown Habano",
+    "wrapperCategory": "Habano",
+    "wrapperOrigin": null,
+    "binder": "Indonesia",
+    "filler": "Central America (countries not given)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "sweetness",
+      "baking spice",
+      "cinnamon",
+      "earth"
+    ],
+    "about": "A low-priced bundle cigar from Drew Estate's Factory Smokes line, made at the company's own factory in Estelí. This version has a sun grown Habano wrapper.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/factory-smokes/factory-smokes-sun-grown/",
+      "https://halfwheel.com/factory-smokes-sun-grown-by-drew-estate-robusto/288467/"
+    ],
+    "notes": "The wrapper's country of origin is not published. The maker lists Central American filler; halfwheel's 2018 launch coverage listed mixed Indonesian filler. Sold in bundles of 20.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Factory Smokes Maduro",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Maduro (leaf and origin not given)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": null,
+    "binder": "Indonesia",
+    "filler": "Central America (countries not given)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "earth",
+      "spice",
+      "espresso",
+      "black pepper"
+    ],
+    "about": "A low-priced bundle cigar from Drew Estate's Factory Smokes line, made at the company's own factory in Estelí. This version has a dark, oily maduro wrapper.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/factory-smokes/factory-smokes-maduro/",
+      "https://halfwheel.com/factory-smokes-by-drew-estate-debuting-at-ipcpr-2018/269916/",
+      "https://halfwheel.com/factory-smokes-sun-grown-by-drew-estate-robusto/288467/"
+    ],
+    "notes": "The maker does not say what the maduro leaf is or where it is grown. The maker lists Central American filler; halfwheel's 2018 launch coverage listed mixed Indonesian filler. Sold in bundles of 20.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Factory Smokes Shade",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Connecticut Shade grown",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": null,
+    "binder": "Indonesia",
+    "filler": "Central America (countries not given)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "cedar",
+      "butter",
+      "cream",
+      "pepper"
+    ],
+    "about": "A low-priced bundle cigar from Drew Estate's Factory Smokes line, made at the company's own factory in Estelí. This is the mild one, with a Connecticut Shade wrapper.",
+    "released": 2018,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/factory-smokes/factory-smokes-shades/",
+      "https://halfwheel.com/factory-smokes-by-drew-estate-debuting-at-ipcpr-2018/269916/",
+      "https://halfwheel.com/factory-smokes-sun-grown-by-drew-estate-robusto/288467/"
+    ],
+    "notes": "The maker does not say where the shade wrapper is grown. The maker calls it Mellow. It lists Central American filler; halfwheel's 2018 launch coverage listed mixed Indonesian filler. Sold in bundles of 20.",
+    "verified": true,
+    "verifyNotes": ""
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Tabak Especial Dulce",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Ecuadorian Connecticut Shade",
+    "wrapperCategory": "Connecticut",
+    "wrapperOrigin": "Ecuador",
+    "binder": "Sumatra",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Cafecita",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Corona",
+        "length": 4.75,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "cream",
+      "milk chocolate"
+    ],
+    "about": "The lighter of Drew Estate's two coffee-infused Tabak Especial cigars, with a Connecticut Shade wrapper. It is mild, creamy and sweet, in the style of a cafe con leche.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/tabak-especial/tabak-especial-dulce/",
+      "https://halfwheel.com/drew-estate-adding-tabak-especial-gordito/336589/",
+      "https://halfwheel.com/drew-estate-adding-tabak-especial-lonsdales-in-july/376981/"
+    ],
+    "notes": "This is a coffee-infused cigar, not a traditional one. The maker calls it Mellow. Neptune lists the wrapper as U.S. Connecticut Shade; the maker, halfwheel and Holt's say Ecuadorian. Year of introduction not confirmed.",
+    "verified": true,
+    "verifyNotes": "Added to the note that Neptune disagrees on where the wrapper is grown."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Tabak Especial Negra",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres Maduro, aged two years",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": "Sumatra",
+    "filler": "Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Mild-Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Cafecita",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Corona",
+        "length": 4.75,
+        "ring": 46
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "earth",
+      "chocolate",
+      "espresso"
+    ],
+    "about": "The darker of Drew Estate's two coffee-infused Tabak Especial cigars, with a Mexican maduro wrapper. It leans toward dark-roast espresso and chocolate where the Dulce is creamy and sweet.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/tabak-especial/tabak-especial-negra/",
+      "https://halfwheel.com/drew-estate-previewing-tabak-especial-toraja-at-intertabac-2022/413913/",
+      "https://halfwheel.com/drew-estate-adding-tabak-especial-gordito/336589/"
+    ],
+    "notes": "This is a coffee-infused cigar, not a traditional one. Halfwheel in 2019, Holt's and Neptune call the wrapper Connecticut Broadleaf; the maker and halfwheel's 2022 coverage say Mexican maduro. Year of introduction not confirmed.",
+    "verified": true,
+    "verifyNotes": "Added to the note that Holt's and Neptune still list a Connecticut Broadleaf wrapper."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Kentucky Fire Cured",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Mexican San Andres maduro",
+    "wrapperCategory": "San Andrés",
+    "wrapperOrigin": "Mexico",
+    "binder": null,
+    "filler": "Brazil (Mata Fina), Nicaragua, USA (Kentucky fire-cured)",
+    "country": "Nicaragua",
+    "factory": "Fabrica de Tabacos Joya de Nicaragua S.A.",
+    "strength": "Medium",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Ponies",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Chunky",
+        "length": 4,
+        "ring": 46
+      },
+      {
+        "name": "Fat Molly",
+        "length": 5,
+        "ring": 56
+      },
+      {
+        "name": "Just a Friend",
+        "length": 6,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "smoke",
+      "hickory",
+      "oak",
+      "maple",
+      "earth"
+    ],
+    "about": "A cigar built around Kentucky tobacco that is cured with fire and smoke in the barn, which gives it a smoky, hickory character. It began as an extension of Drew Estate's My Uzi Weighs a Ton brand.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/kentucky-fire-cured/kentucky-fire-cured-original/",
+      "https://halfwheel.com/muwat-kentucky-fire-cured-fightn-69th/100184/",
+      "https://www.neptunecigar.com/cigar/kfc-kentucky-fire-cured"
+    ],
+    "notes": "Drew Estate has not officially disclosed the wrapper or binder; the wrapper here is Neptune's listing. Launched as MUWAT Kentucky Fire Cured. Halfwheel reported most sizes are made at the Joya de Nicaragua factory, not Drew Estate's own; the maker names no factory.",
+    "verified": true,
+    "verifyNotes": "Wrapper and binder were unsupported. No page I opened mentions a Tapa Negra cap or an Ecuadorian Connecticut binder, and halfwheel says Drew Estate does not disclose the wrapper or binder. Wrapper now follows Neptune (Mexican San Andres maduro), binder blanked, filler set to what halfwheel and Neptune list. Sources and note replaced. Web search was unavailable, so the original claim may exist on a page I could not reach."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Nica Rustica",
+    "found": true,
+    "officialName": "Nica Rustica Broadleaf",
+    "wrapperLeaf": "Connecticut Broadleaf",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": "USA",
+    "binder": "Mexico (San Andres Negro)",
+    "filler": "Nicaragua (Estelí, Jalapa)",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Short Robusto",
+        "length": 4.5,
+        "ring": 50
+      },
+      {
+        "name": "El Brujito",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordo",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "black pepper",
+      "cedar",
+      "earth",
+      "chocolate"
+    ],
+    "about": "A deliberately rustic, value-priced cigar made as a tribute to Estelí, Nicaragua. Its artwork shows El Brujito, a shaman figure from a pre-Columbian rock carving found in the region.",
+    "released": 2013,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/nica-rustica/nica-rustica-broadleaf/",
+      "https://halfwheel.com/review-nica-rustica-broadleaf-gordo/445728/",
+      "https://www.neptunecigar.com/cigar/nica-rustica"
+    ],
+    "notes": "This is the original Nica Rustica. It was renamed Nica Rustica Broadleaf after the Adobe and Shade versions were added. The Belly size was discontinued in 2024. The maker says Medium-Full; Neptune rates it Full.",
+    "verified": true,
+    "verifyNotes": "No blend facts changed. Added Neptune as a source because it is the page that names Estelí and Jalapa for the filler, and noted its Full strength rating."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Isla del Sol",
+    "found": true,
+    "officialName": "Isla del Sol Sun Grown",
+    "wrapperLeaf": "Sun grown Sumatra (Indonesian)",
+    "wrapperCategory": "Sumatra",
+    "wrapperOrigin": "Indonesia",
+    "binder": "Nicaragua",
+    "filler": "Indonesia, Nicaragua",
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Breve",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Gran Corona",
+        "length": 5,
+        "ring": 44
+      },
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 52
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 52
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      },
+      {
+        "name": "Churchill",
+        "length": 7,
+        "ring": 50
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "sweetness"
+    ],
+    "about": "A mild, value-priced cigar infused with Sumatra Mandheling coffee and finished with a sweetened tip. Drew Estate describes it as one of the mildest cigars it makes.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/isla-del-sol/isla-del-sol-sun-grown/",
+      "https://halfwheel.com/drew-estate-adds-isla-del-sel-maduro-sun-grown-gordito/270247/",
+      "https://www.neptunecigar.com/cigar/isla-del-sol-sungrown"
+    ],
+    "notes": "Coffee-infused with a sweet tip. The original is now called Sun Grown; a Maduro version was added in 2018. The maker lists Indonesian and Nicaraguan filler and names no binder; halfwheel and Neptune list Nicaraguan binder and filler. Year of introduction not confirmed.",
+    "verified": true,
+    "verifyNotes": "Binder corrected from Indonesia to Nicaragua: the maker page names no binder, and halfwheel and Neptune both say Nicaraguan. Fixed the note, which wrongly said the maker lists an Indonesian binder. Pointed the Neptune link at the Sun Grown page instead of the brand page."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Deadwood Sweet Jane",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Maduro (leaf not disclosed)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Mild",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Tin",
+        "length": 4,
+        "ring": 32
+      },
+      {
+        "name": "Corona",
+        "length": 5,
+        "ring": 46
+      }
+    ],
+    "flavors": [
+      "coffee",
+      "cedar",
+      "chocolate"
+    ],
+    "about": "The first Deadwood cigar, a sweet, aromatic maduro corona that Drew Estate first made as a house cigar for Deadwood Tobacco Co. in Deadwood, South Dakota. It went on sale nationally in 2016.",
+    "released": 2009,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/deadwood/deadwood-sweet-jane/",
+      "https://halfwheel.com/drew-estate-vaughn-boyd-file-lawsuit-against-deadwood-tobacco-co-over-deadwood-name/424603/",
+      "https://halfwheel.com/drew-estate-adds-fat-bottom-betty-toro-sweet-jane-dia-de-los-muertos/360986/"
+    ],
+    "notes": "The blend is secret: Drew Estate says only a maduro wrapper and aromatic tobaccos. Holt's and Neptune call the wrapper Connecticut Broadleaf and rate it Medium; the maker calls Sweet Jane Mellow. Store exclusive from 2009, national since 2016.",
+    "verified": true,
+    "verifyNotes": "No blend facts changed. Swapped the Leather Rose news link for the halfwheel article that covers Sweet Jane and names the factory. Note now says Neptune agrees with Holt's."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Deadwood Fat Bottom Betty",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Maduro (leaf not disclosed)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": null,
+    "binder": null,
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "Robusto",
+        "length": 5,
+        "ring": 54
+      },
+      {
+        "name": "Toro",
+        "length": 6,
+        "ring": 50
+      },
+      {
+        "name": "Gordito",
+        "length": 6,
+        "ring": 60
+      }
+    ],
+    "flavors": [
+      "wood",
+      "leather",
+      "black pepper",
+      "coffee",
+      "sweetness"
+    ],
+    "about": "A thicker, fuller member of Drew Estate's sweet, aromatic Deadwood family, which started as house cigars for Deadwood Tobacco Co. in South Dakota. It has a maduro wrapper and an undisclosed blend.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/deadwood/deadwood-fat-bottom-betty/",
+      "https://halfwheel.com/drew-estate-adds-fat-bottom-betty-toro-sweet-jane-dia-de-los-muertos/360986/",
+      "https://halfwheel.com/drew-estate-vaughn-boyd-file-lawsuit-against-deadwood-tobacco-co-over-deadwood-name/424603/"
+    ],
+    "notes": "The blend is secret: Drew Estate says only a maduro wrapper and aromatic tobaccos. Holt's and Neptune call the wrapper Connecticut Broadleaf and rate it Medium; the maker says Medium-Full. Store exclusive from about 2014, national since 2016.",
+    "verified": true,
+    "verifyNotes": "No facts changed. Note now says Neptune agrees with Holt's on the wrapper and Medium rating."
+  },
+  {
+    "brand": "Drew Estate",
+    "line": "Deadwood Crazy Alice",
+    "found": true,
+    "officialName": null,
+    "wrapperLeaf": "Maduro (leaf not disclosed)",
+    "wrapperCategory": "Maduro/Broadleaf",
+    "wrapperOrigin": null,
+    "binder": "Indonesia",
+    "filler": null,
+    "country": "Nicaragua",
+    "factory": "La Gran Fabrica Drew Estate",
+    "strength": "Medium-Full",
+    "body": null,
+    "sizes": [
+      {
+        "name": "C-Notes",
+        "length": 3.75,
+        "ring": 22
+      },
+      {
+        "name": "Crazy Alice",
+        "length": 4,
+        "ring": 52
+      }
+    ],
+    "flavors": [
+      "chocolate",
+      "coffee",
+      "earth",
+      "dried fruit"
+    ],
+    "about": "A short tapered cigar in Drew Estate's sweet, aromatic Deadwood family, which started as house cigars for Deadwood Tobacco Co. in South Dakota. It has a maduro wrapper and a mostly undisclosed blend.",
+    "released": null,
+    "production": "regular",
+    "sources": [
+      "https://drewestate.com/products/deadwood/deadwood-crazy-alice/",
+      "https://halfwheel.com/drew-estate-adding-crazy-alice-c-notes-this-month/466724/",
+      "https://halfwheel.com/drew-estate-vaughn-boyd-file-lawsuit-against-deadwood-tobacco-co-over-deadwood-name/424603/"
+    ],
+    "notes": "Maker lists the size as 4 x 38-52 (it tapers); Holt's and Neptune list 4 1/2 x 52. Halfwheel names an Indonesian binder; Neptune lists Nicaraguan binder and filler. Holt's and Neptune call the wrapper Connecticut Broadleaf and rate it Medium. Store exclusive from about 2014, national since 2016.",
+    "verified": true,
+    "verifyNotes": "Fixed the note: the maker page says nothing about the binder. The Indonesian binder is from halfwheel's April 2026 report; Neptune lists Nicaraguan. C-Notes is a new size from that report and is not on the maker page yet. Swapped the Holt's link for the halfwheel article behind the 2014 and 2016 dates."
+  }
+]

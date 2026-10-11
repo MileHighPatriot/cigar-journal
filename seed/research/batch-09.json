@@ -1,0 +1,1059 @@
+[
+ {
+  "brand": "Padron",
+  "line": "2000",
+  "found": true,
+  "officialName": "Padrón Series 2000",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "2000 (Robusto)",
+    "length": 5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cedar",
+   "marshmallow",
+   "vanilla",
+   "coffee"
+  ],
+  "about": "The 2000 is the 5 x 50 robusto in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/24283/name/padr%C3%B3n-2000-maduro-robusto",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series (often called the Thousand Series), not a separate blend. Strength sources differ: the maker calls the series medium to full bodied and Cigar Aficionado rates the 2000 Maduro Medium-Full, but Holt's lists the series as Medium.",
+  "verified": true,
+  "verifyNotes": "Confirmed size, blend, country, factory and strength wording against padron.com and Cigar Aficionado. Added to notes that Holt's lists the series as Medium."
+ },
+ {
+  "brand": "Padron",
+  "line": "3000",
+  "found": true,
+  "officialName": "Padrón Series 3000",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "3000",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "black cherry",
+   "nuts"
+  ],
+  "about": "The 3000 is the 5 1/2 x 52 size in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26 and 4 packs.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/4295/name/padron-3000-maduro-toro",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series (Thousand Series), not a separate blend. The maker calls the series medium to full bodied, but Neptune and Holt's both list the 3000 as Medium. Cigar Aficionado files it as a toro and Neptune as a robusto, so no shape name is given.",
+  "verified": true,
+  "verifyNotes": "Removed the shape name Robusto from the size because Cigar Aficionado files it as a toro. Replaced the Neptune source with the Cigar Aficionado article that states the factory, and rewrote notes to match. Other fields confirmed."
+ },
+ {
+  "brand": "Padron",
+  "line": "1964 Anniversary",
+  "found": true,
+  "officialName": "Padrón 1964 Anniversary Series",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Principe",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Hermoso",
+    "length": 4,
+    "ring": 56
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Exclusivo",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 42
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Monarca",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "No. 4",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Diplomatico",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "hazelnut",
+   "wood",
+   "coffee",
+   "cedar"
+  ],
+  "about": "A box-pressed Nicaraguan puro that Padrón introduced in 1994 to mark the company's 30th anniversary, made with tobacco aged four years. The natural Torpedo was Cigar Aficionado's Cigar of the Year for 2021.",
+  "released": 1994,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-1964-anniversary-series/",
+   "https://www.cigaraficionado.com/ratings/24170/name/padron-1964-anniversary-series-torpedo-figurado",
+   "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html"
+  ],
+  "notes": "The maker calls it a limited production series, but it is an ongoing regular line. Padron.com does not state strength or the blend; Medium-Full is from Holt's and Cigar Aficionado's rating of the natural Torpedo. Padron.com lists sixteen sizes; the ten most common are shown.",
+  "verified": true,
+  "verifyNotes": "Removed the flavor word cream, which none of the opened pages uses. Notes: dropped an unchecked reference to a Principe rating and corrected the Toro remark (padron.com lists 5 x 56, halfwheel gives the TAA Toro as 5 x 54). Other fields confirmed."
+ },
+ {
+  "brand": "Padron",
+  "line": "1926 Series",
+  "found": true,
+  "officialName": "Padrón 1926 Serie",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 35",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "No. 6",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "No. 9",
+    "length": 5.25,
+    "ring": 56
+   },
+   {
+    "name": "No. 2",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 47",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "No. 48",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "No. 90 (tubo)",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 40",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 1",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "No. 80",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "coffee",
+   "nuts",
+   "black cherry",
+   "earth",
+   "wood"
+  ],
+  "about": "A box-pressed Nicaraguan puro named for the birth year of founder José Orlando Padrón and made with tobacco aged five years. Cigar Aficionado describes it as a bit stronger than the 1964 Anniversary, and the No. 9 was its Cigar of the Year for 2007.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-1926-serie/",
+   "https://www.cigaraficionado.com/ratings/14121/name/padron-serie-1926-no-9-robusto",
+   "https://www.cigaraficionado.com/top25cigar/padron-serie-1926-no-2-2017"
+  ],
+  "notes": "The maker spells it 1926 Serie; Cigar Aficionado writes Serie 1926. Strength: the maker calls it full-bodied, while Cigar Aficionado rated the natural No. 2 Medium-Full. Padron.com says it premiered for José O. Padrón's 75th birthday; Cigar Aficionado says his 76th, a year later than planned.",
+  "verified": true,
+  "verifyNotes": "Reworded about to drop an unsourced price comparison. All other fields confirmed against padron.com and Cigar Aficionado."
+ },
+ {
+  "brand": "Padron",
+  "line": "Family Reserve",
+  "found": true,
+  "officialName": "Padrón Family Reserve",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 44 (Torpedo)",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 45",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 46",
+    "length": 5.5,
+    "ring": 56
+   },
+   {
+    "name": "No. 50",
+    "length": 5,
+    "ring": 54
+   },
+   {
+    "name": "No. 85",
+    "length": 5.25,
+    "ring": 50
+   },
+   {
+    "name": "No. 95",
+    "length": 4.75,
+    "ring": 60
+   },
+   {
+    "name": "No. 96",
+    "length": 5.75,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "cocoa",
+   "earth",
+   "spice"
+  ],
+  "about": "Padrón's top regular line, a Nicaraguan puro made with tobacco aged ten years and sold in boxes of ten. Each size is named for a company anniversary or a birthday of founder José Orlando Padrón, and the No. 45 Maduro was Cigar Aficionado's Cigar of the Year for 2009.",
+  "released": 2008,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-family-reserve/",
+   "https://www.cigaraficionado.com/top25cigar/padron-family-reserve-no-45-maduro-2009",
+   "https://halfwheel.com/padron-adding-60-ring-gauge-family-reserve-no-95/396939/"
+  ],
+  "notes": "The maker calls it full-bodied, but Cigar Aficionado's ratings vary: No. 45 Maduro Full, No. 45 Natural Medium-Full, 50 Years Maduro Medium-Full, 50 Years Natural Medium. Halfwheel calls the No. 44 a belicoso; Cigar Aficionado and retailers call it a torpedo.",
+  "verified": true,
+  "verifyNotes": "Confirmed all fields. Notes now say the halfwheel round or box-pressed statement predates the No. 96 and that halfwheel calls the No. 44 a belicoso."
+ },
+ {
+  "brand": "Padron",
+  "line": "4000",
+  "found": true,
+  "officialName": "Padrón Series 4000",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "4000 (Toro)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "baking spices",
+   "malt",
+   "wood"
+  ],
+  "about": "The 4000 is the 6 1/2 x 54 toro in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/rating/padron-4000",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series (Thousand Series), not a separate blend. The maker calls the series medium to full bodied, but Cigar Aficionado rated the natural 4000 Medium and Holt's lists the series as Medium.",
+  "verified": true,
+  "verifyNotes": "Removed an unsupported note that a retailer lists it as 6 1/2 x 52 and added Holt's Medium listing. Other fields confirmed."
+ },
+ {
+  "brand": "Padron",
+  "line": "5000",
+  "found": true,
+  "officialName": "Padrón Series 5000",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "5000",
+    "length": 5.5,
+    "ring": 56
+   }
+  ],
+  "flavors": [
+   "toast",
+   "nuts",
+   "floral"
+  ],
+  "about": "The 5000 is the 5 1/2 x 56 size in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/23777/name/padron-5000-toro",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series (Thousand Series), not a separate blend. The maker calls the series medium to full bodied, but Cigar Aficionado rated the natural 5000 Medium and Holt's lists the series as Medium. Cigar Aficionado files it as a toro while some retailers call it a robusto, so no shape name is given.",
+  "verified": true,
+  "verifyNotes": "Confirmed size, blend, country, factory and strength wording against padron.com and Cigar Aficionado. Added to notes that Holt's lists the series as Medium."
+ },
+ {
+  "brand": "Padron",
+  "line": "6000",
+  "found": true,
+  "officialName": "Padrón Series 6000",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "6000 (Torpedo)",
+    "length": 5.5,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "leather",
+   "raisin",
+   "coffee",
+   "cedar"
+  ],
+  "about": "The 6000 is the 5 1/2 x 52 torpedo in the Padrón Series, the company's original core line of Nicaraguan puros, and the only tapered-head size among the numbered vitolas. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/22545/name/padron-6000",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series (Thousand Series), not a separate blend. Same 5 1/2 x 52 dimensions as the 3000 but with a tapered head; Holt's calls it a torpedo and Cigar Aficionado a belicoso. Cigar Aficionado rated the natural 6000 Medium-Full, matching the maker's series description, while Holt's lists the series as Medium.",
+  "verified": true,
+  "verifyNotes": "Confirmed all fields. Added to notes that Cigar Aficionado calls the shape a belicoso and that Holt's lists the series as Medium."
+ },
+ {
+  "brand": "Padron",
+  "line": "7000",
+  "found": true,
+  "officialName": "Padrón Series 7000",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "7000",
+    "length": 6.25,
+    "ring": 60
+   }
+  ],
+  "flavors": [
+   "toast",
+   "wood",
+   "leather",
+   "hazelnut"
+  ],
+  "about": "The 7000 is the 6 1/4 x 60 size in the Padrón Series, the thickest vitola in the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/24794/name/padron-7000-maduro-grande",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series (Thousand Series), not a separate blend. The maker calls the series medium to full bodied, but Cigar Aficionado rated the 7000 Maduro Medium and Holt's lists the series as Medium. Padron.com and Cigar Aficionado give 6 1/4 x 60; halfwheel gives 6 1/2 x 60.",
+  "verified": true,
+  "verifyNotes": "Confirmed all fields. Notes now record that halfwheel gives the length as 6 1/2 and that Holt's lists the series as Medium; removed an unchecked remark about retailers calling it a toro."
+ },
+ {
+  "brand": "Padron",
+  "line": "Londres",
+  "found": true,
+  "officialName": "Padrón Series Londres",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Londres (Corona)",
+    "length": 5.5,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "earth",
+   "cocoa",
+   "coffee",
+   "toffee",
+   "cedar"
+  ],
+  "about": "The Londres is the 5 1/2 x 42 corona in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/22175/name/padron-londres-corona",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series, not a separate blend. The maker calls the series medium to full bodied, but Cigar Aficionado rated the natural Londres Medium and Holt's lists the series as Medium.",
+  "verified": true,
+  "verifyNotes": "Confirmed size, blend, country, factory and strength wording against padron.com and Cigar Aficionado. Added to notes that Holt's lists the series as Medium."
+ },
+ {
+  "brand": "Padron",
+  "line": "Delicias",
+  "found": true,
+  "officialName": "Padrón Series Delicias",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Delicias (Corona Extra)",
+    "length": 4.875,
+    "ring": 46
+   }
+  ],
+  "flavors": [
+   "cedar",
+   "coffee",
+   "almond",
+   "pepper"
+  ],
+  "about": "The Delicias is the 4 7/8 x 46 corona extra in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.neptunecigar.com/cigars/padron-series-delicias",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series, not a separate blend. The maker calls the series medium to full bodied, but Neptune lists the Delicias as Medium and Holt's lists the series as Medium.",
+  "verified": true,
+  "verifyNotes": "Confirmed all fields against padron.com, Neptune and Cigar Aficionado. Notes now name Holt's as the second retailer listing Medium."
+ },
+ {
+  "brand": "Padron",
+  "line": "Ambassador",
+  "found": true,
+  "officialName": "Padrón Series Ambassador",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Ambassador (Lonsdale)",
+    "length": 6.875,
+    "ring": 42
+   }
+  ],
+  "flavors": [
+   "cream",
+   "toast",
+   "cocoa",
+   "wood",
+   "coconut"
+  ],
+  "about": "The Ambassador is the 6 7/8 x 42 lonsdale in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/12074/name/padron-ambassador",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series, not a separate blend. Cigar Aficionado rated the natural Ambassador Medium-Full, matching the maker's series description, while Holt's lists the series as Medium.",
+  "verified": true,
+  "verifyNotes": "Confirmed size, blend, country, factory and strength wording against padron.com and Cigar Aficionado. Added to notes that Holt's lists the series as Medium."
+ },
+ {
+  "brand": "Padron",
+  "line": "Executive",
+  "found": true,
+  "officialName": "Padrón Series Executive",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Executive (Double Corona)",
+    "length": 7.5,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "peanut",
+   "cocoa",
+   "herbs"
+  ],
+  "about": "The Executive is the 7 1/2 x 50 double corona in the Padrón Series, the company's original core line of Nicaraguan puros. It comes in natural and maduro wrappers and is sold in boxes of 26.",
+  "released": null,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-series/",
+   "https://www.cigaraficionado.com/ratings/2896/name/padron-executive",
+   "https://www.cigaraficionado.com/article/padron-family-rolling-new-family-reserve-3952"
+  ],
+  "notes": "One size in the Padrón Series, not a separate blend. The maker calls the series medium to full; an older Cigar Aficionado review said medium bodied and Holt's lists the series as Medium. That review gave the country as Nicaragua and Honduras, but Cigar Aficionado later reported Padrón makes all its cigars in Estelí, Nicaragua.",
+  "verified": true,
+  "verifyNotes": "Confirmed size, blend, country, factory and strength wording against padron.com and Cigar Aficionado. Added to notes that Holt's lists the series as Medium."
+ },
+ {
+  "brand": "Padron",
+  "line": "Dámaso",
+  "found": true,
+  "officialName": "Padrón Dámaso Series",
+  "wrapperLeaf": "Ecuadorian Connecticut",
+  "wrapperCategory": "Connecticut",
+  "wrapperOrigin": "Ecuador",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Mild-Medium",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 8",
+    "length": 5.5,
+    "ring": 46
+   },
+   {
+    "name": "No. 12",
+    "length": 5,
+    "ring": 50
+   },
+   {
+    "name": "No. 15",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "No. 17",
+    "length": 7,
+    "ring": 54
+   },
+   {
+    "name": "No. 32 Red Label",
+    "length": 5.25,
+    "ring": 52
+   },
+   {
+    "name": "No. 34 Red Label",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "almond",
+   "nougat",
+   "coffee",
+   "cedar",
+   "pepper",
+   "cream"
+  ],
+  "about": "Padrón's milder line, a round cigar with an Ecuadorian Connecticut wrapper over Nicaraguan binder and filler. It is named for Dámaso Padrón, the first of the family to arrive in Cuba from the Canary Islands.",
+  "released": 2015,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/damaso-series/",
+   "https://www.cigaraficionado.com/rating/padron-damaso-no-15",
+   "https://halfwheel.com/padron-damaso-no-15/94451"
+  ],
+  "notes": "The maker calls it mild and also mild to medium; Cigar Aficionado rates the No. 15 Mild-Medium. The maker says the Red Label No. 32 and No. 34 are for those wanting a more robust profile. The maker calls it limited production, but halfwheel lists it as regular production.",
+  "verified": true,
+  "verifyNotes": "Replaced the cigar-coop source with halfwheel's No. 15 review, which states the factory, blend and release date. Notes updated to match. All fields confirmed."
+ },
+ {
+  "brand": "Padron",
+  "line": "1964 Anniversary Maduro",
+  "found": true,
+  "officialName": "Padrón 1964 Anniversary Series Maduro",
+  "wrapperLeaf": "Nicaraguan sun-grown maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Medium-Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "Principe",
+    "length": 4.5,
+    "ring": 46
+   },
+   {
+    "name": "Hermoso",
+    "length": 4,
+    "ring": 56
+   },
+   {
+    "name": "Belicoso",
+    "length": 5,
+    "ring": 52
+   },
+   {
+    "name": "Exclusivo",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "Corona",
+    "length": 6,
+    "ring": 42
+   },
+   {
+    "name": "Torpedo",
+    "length": 6,
+    "ring": 52
+   },
+   {
+    "name": "Imperial",
+    "length": 6,
+    "ring": 54
+   },
+   {
+    "name": "Monarca",
+    "length": 6.5,
+    "ring": 46
+   },
+   {
+    "name": "No. 4",
+    "length": 6.5,
+    "ring": 60
+   },
+   {
+    "name": "Diplomatico",
+    "length": 7,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "nuts",
+   "toast",
+   "raisin"
+  ],
+  "about": "The maduro-wrapped version of Padrón's 1964 Anniversary Series, a box-pressed Nicaraguan puro made with tobacco aged four years. It is offered in the same sizes as the natural.",
+  "released": 1994,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-1964-anniversary-series/",
+   "https://www.cigaraficionado.com/ratings/15421/name/padr%C3%B3n-1964-anniversary-series-exclusivo-maduro-toro",
+   "https://www.cigaraficionado.com/ratings/16973/name/padron-1964-anniversary-series-maduro-diplomatico-churchill"
+  ],
+  "notes": "Same line as the 1964 Anniversary with the maduro wrapper, not a separate blend name on padron.com. Padron.com does not state strength, and Cigar Aficionado's maduro ratings disagree by size: Exclusivo Maduro Full, Diplomatico Maduro Medium. Holt's lists the line as Medium-Full, which is used here.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padron",
+  "line": "1926 Series Maduro",
+  "found": true,
+  "officialName": "Padrón 1926 Serie Maduro",
+  "wrapperLeaf": "Nicaraguan sun-grown maduro",
+  "wrapperCategory": "Maduro/Broadleaf",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 35",
+    "length": 4,
+    "ring": 48
+   },
+   {
+    "name": "No. 6",
+    "length": 4.75,
+    "ring": 50
+   },
+   {
+    "name": "No. 9",
+    "length": 5.25,
+    "ring": 56
+   },
+   {
+    "name": "No. 2",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 47",
+    "length": 5.5,
+    "ring": 50
+   },
+   {
+    "name": "No. 48",
+    "length": 5.5,
+    "ring": 60
+   },
+   {
+    "name": "No. 90 (tubo)",
+    "length": 5.5,
+    "ring": 52
+   },
+   {
+    "name": "No. 40",
+    "length": 6.5,
+    "ring": 54
+   },
+   {
+    "name": "No. 1",
+    "length": 6.75,
+    "ring": 54
+   },
+   {
+    "name": "No. 80",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "black pepper",
+   "coffee",
+   "dark chocolate"
+  ],
+  "about": "The maduro-wrapped version of Padrón's 1926 Serie, a box-pressed Nicaraguan puro made with tobacco aged five years. It is offered in the same sizes as the natural.",
+  "released": 2002,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-1926-serie/",
+   "https://www.cigaraficionado.com/rating/padron-serie-1926-no-6"
+  ],
+  "notes": "Same line as the 1926 Serie with the maduro wrapper. 2002 is the year the series premiered; the maker does not give a separate date for the maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padron",
+  "line": "1926 Series 80 Years",
+  "found": true,
+  "officialName": "Padrón 1926 Serie No. 80 (80 Years)",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 80 (Perfecto)",
+    "length": 6.75,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "cocoa",
+   "coffee",
+   "nuts",
+   "toast",
+   "orange peel",
+   "leather"
+  ],
+  "about": "A box-pressed perfecto in the 1926 Serie made to honor founder José Orlando Padrón's 80th birthday, sold in boxes of eight. The maduro was Cigar Aficionado's No. 2 cigar of 2008.",
+  "released": 2007,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-1926-serie/",
+   "https://www.cigaraficionado.com/ratings/14089/name/padron-serie-1926-80-years-maduro-figurado",
+   "https://cigaraficionado.com/top25cigar/padron-serie-1926-no-9-2007"
+  ],
+  "notes": "Padron.com lists it as the 1926 Serie No. 80; Cigar Aficionado and retailers call it 80 Years. It remains in the line but output is small: Cigar Aficionado reports one buncher and one roller making about 300 a day. Strength Full is from the maker's series description and Neptune; Cigar Aficionado rated the natural Medium-Full.",
+  "verified": true,
+  "verifyNotes": "Replaced the Neptune source with the Cigar Aficionado page that gives the late November 2007 release, since the rating page does not state it. Notes now record Cigar Aficionado's Medium-Full rating of the natural. Other fields confirmed."
+ },
+ {
+  "brand": "Padron",
+  "line": "1926 Series 40th Anniversary",
+  "found": true,
+  "officialName": "Padrón 1926 Serie No. 40 (40th Anniversary)",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 40 (Torpedo)",
+    "length": 6.5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "chocolate",
+   "earth",
+   "spice"
+  ],
+  "about": "A box-pressed torpedo in the 1926 Serie released in 2004 for Padrón's 40th anniversary, with every leaf aged at least five years. It was Cigar Aficionado's Cigar of the Year for 2004.",
+  "released": 2004,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-1926-serie/",
+   "https://cigaraficionado.com/top25cigar/padron-serie-1926-40th-anniversary-2004"
+  ],
+  "notes": "The first release was 400 hand-painted boxes of 40; Cigar Aficionado said it would stay in the line as a rare regular size, and padron.com still lists it. No source rates this size alone: Full is the maker's description of the 1926 Serie, and Cigar Aficionado says only that it is slightly stronger than a 1964 Anniversary.",
+  "verified": true,
+  "verifyNotes": "Removed two unsourced claims: that it was the magazine's first Cigar of the Year (about) and that some retailers credit the maduro (notes). Other fields confirmed."
+ },
+ {
+  "brand": "Padron",
+  "line": "Family Reserve 45 Years",
+  "found": true,
+  "officialName": "Padrón Family Reserve No. 45",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 45 (Toro)",
+    "length": 6,
+    "ring": 52
+   }
+  ],
+  "flavors": [
+   "coffee",
+   "spice",
+   "cocoa",
+   "earth"
+  ],
+  "about": "A heavily pressed 6 x 52 toro released in 2009 for Padrón's 45th anniversary, blended from tobacco up to ten years old. The maduro was Cigar Aficionado's Cigar of the Year for 2009.",
+  "released": 2009,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-family-reserve/",
+   "https://www.cigaraficionado.com/top25cigar/padron-family-reserve-no-45-maduro-2009",
+   "https://www.cigaraficionado.com/top25cigar/padron-family-reserve-no-45-natural-2010"
+  ],
+  "notes": "Padron.com calls it Family Reserve No. 45; 45 Years is the name on the band. The maker calls the series full-bodied; Cigar Aficionado rates the maduro Full and the natural Medium-Full, describing the natural as milder.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padron",
+  "line": "Family Reserve 50 Years",
+  "found": true,
+  "officialName": "Padrón Family Reserve No. 50",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 50 (Robusto)",
+    "length": 5,
+    "ring": 54
+   }
+  ],
+  "flavors": [
+   "earth",
+   "coffee",
+   "cocoa"
+  ],
+  "about": "A box-pressed 5 x 54 robusto released in 2014 for Padrón's 50th anniversary as part of the Family Reserve line. It made Cigar Aficionado's Top 25 in both maduro (2014) and natural (2015).",
+  "released": 2014,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-family-reserve/",
+   "https://www.cigaraficionado.com/ratings/17759/name/padron-family-reserve-50-years-maduro-robusto",
+   "https://www.cigaraficionado.com/ratings/18779/name/padron-family-reserve-50-years-natural-robusto"
+  ],
+  "notes": "Padron.com calls it Family Reserve No. 50; Cigar Aficionado calls it 50 Years. Strength is disputed: the maker calls the series full-bodied (used here), but Cigar Aficionado rates the Maduro Medium-Full and the Natural Medium. Do not confuse it with the separate, larger Padrón 50th Anniversary limited edition sold in a humidor.",
+  "verified": true,
+  "verifyNotes": ""
+ },
+ {
+  "brand": "Padron",
+  "line": "Family Reserve 85 Years",
+  "found": true,
+  "officialName": "Padrón Family Reserve No. 85",
+  "wrapperLeaf": "Nicaraguan sun-grown natural (also sold in Nicaraguan maduro)",
+  "wrapperCategory": "Natural/Sun Grown",
+  "wrapperOrigin": "Nicaragua",
+  "binder": "Nicaragua",
+  "filler": "Nicaragua",
+  "country": "Nicaragua",
+  "factory": "Tabacos Cubanica S.A.",
+  "strength": "Full",
+  "body": null,
+  "sizes": [
+   {
+    "name": "No. 85 (Robusto)",
+    "length": 5.25,
+    "ring": 50
+   }
+  ],
+  "flavors": [
+   "earth",
+   "walnut",
+   "licorice"
+  ],
+  "about": "A box-pressed 5 1/4 x 50 robusto in the Family Reserve line, named for founder José Orlando Padrón's 85th birthday rather than a company anniversary. It shipped in October 2011 in boxes of ten.",
+  "released": 2011,
+  "production": "regular",
+  "sources": [
+   "https://padron.com/padron-family-reserve/",
+   "https://www.cigaraficionado.com/article/padron-no-85-cigar-ships-today-16161",
+   "https://www.cigaraficionado.com/rating/padron-family-reserve-no-85-madro"
+  ],
+  "notes": "Padron.com calls it Family Reserve No. 85. Strength sources disagree: the maker calls the Family Reserve series full-bodied (used here), while Cigar Insider rated the No. 85 Maduro Medium-Full. Cigar Aficionado reported at launch that most were maduro.",
+  "verified": true,
+  "verifyNotes": ""
+ }
+]
