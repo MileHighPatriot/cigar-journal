@@ -1,9 +1,8 @@
 import { Plus, Search, X } from 'lucide-react'
-import { type ReactNode, useMemo, useState, useSyncExternalStore } from 'react'
+import { type CSSProperties, type ReactNode, useMemo, useState, useSyncExternalStore } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
 import { HeroArt } from '../components/HeroArt'
-import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { Monogram } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { Sheet } from '../components/Sheet'
@@ -41,7 +40,6 @@ const text = (value: string): ReactNode => value || dash
 
 export function Compare() {
   const state = useStore()
-  const laptop = useMediaQuery(LAPTOP)
   const { mode, ids } = useSelection()
   const [picking, setPicking] = useState(false)
   const [query, setQuery] = useState('')
@@ -77,17 +75,6 @@ export function Compare() {
         : []
     })
   }, [mode, ids, state.smokes, state.cigars])
-
-  if (!laptop) {
-    return (
-      <div className="page">
-        <header className="page-head">
-          <h1>Compare</h1>
-        </header>
-        <p className="muted">Compare needs a wider screen. Open it on your laptop.</p>
-      </div>
-    )
-  }
 
   const smokeChoices = searchRows(rows, query)
     .filter((row) => !ids.includes(row.smoke.id))
@@ -138,7 +125,7 @@ export function Compare() {
   const section = (title: string) => (
     <tr className="compare-section" key={title}>
       <th scope="colgroup" colSpan={columns.length + 1}>
-        {title}
+        <span className="compare-section-label">{title}</span>
       </th>
     </tr>
   )
@@ -185,104 +172,116 @@ export function Compare() {
           </Link>
         </div>
       ) : (
-        <table className="compare-table">
-          <thead>
-            <tr>
-              <td />
-              {columns.map((column, index) => (
-                <th key={column.key} scope="col">
-                  <div className="compare-head">
-                    <div className="compare-head-top">
-                      <Link href={column.href} className="pick-main">
-                        <span className="band-brand">{column.brand || 'No brand'}</span>
-                        <span className="compare-title">{column.title}</span>
-                        <span className="muted num">{column.subtitle}</span>
-                      </Link>
-                      <button
-                        type="button"
-                        className="icon-btn"
-                        aria-label={`Remove ${column.title} from the comparison`}
-                        onClick={() =>
-                          setSelection({ mode, ids: ids.filter((id) => id !== column.key) })
-                        }
-                      >
-                        <X size={20} strokeWidth={1.5} aria-hidden="true" />
-                      </button>
-                    </div>
-                    {column.score === null ? (
-                      <span className="muted">No score</span>
-                    ) : (
-                      <div className="compare-score">
-                        <ScoreRing shown={column.score} size={84} stroke={4}>
-                          <span className="numeral numeral-md num">{column.score}</span>
-                        </ScoreRing>
-                        <span className="readout-text">
-                          <span
-                            className="verdict verdict-lg"
-                            data-verdict={verdictFor(column.score)}
-                          >
-                            {verdictFor(column.score)}
-                          </span>
-                          {index === scoreBest && <span className="ready-line">Highest score</span>}
-                        </span>
+        // On a phone the columns scroll sideways inside this box while the labels stay put.
+        <div className="compare-scroll">
+          <table
+            className="compare-table"
+            style={{ '--cols': Math.min(MAX, columns.length + 1) } as CSSProperties}
+          >
+            <thead>
+              <tr>
+                <td />
+                {columns.map((column, index) => (
+                  <th key={column.key} scope="col">
+                    <div className="compare-head">
+                      <div className="compare-head-top">
+                        <Link href={column.href} className="pick-main">
+                          <span className="band-brand">{column.brand || 'No brand'}</span>
+                          <span className="compare-title">{column.title}</span>
+                          <span className="muted num">{column.subtitle}</span>
+                        </Link>
+                        <button
+                          type="button"
+                          className="icon-btn"
+                          aria-label={`Remove ${column.title} from the comparison`}
+                          onClick={() =>
+                            setSelection({ mode, ids: ids.filter((id) => id !== column.key) })
+                          }
+                        >
+                          <X size={20} strokeWidth={1.5} aria-hidden="true" />
+                        </button>
                       </div>
-                    )}
-                  </div>
-                </th>
-              ))}
-              {columns.length < MAX && (
-                <th scope="col" className="compare-add">
-                  <button type="button" className="btn btn-quiet" onClick={() => setPicking(true)}>
-                    <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
-                    {mode === 'smokes' ? 'Add a smoke' : 'Add a cigar'}
-                  </button>
-                </th>
-              )}
-            </tr>
-          </thead>
-          {columns.length > 0 && (
-            <tbody>
-              {section('Scores')}
-              {RUBRIC.map((category) =>
-                numberRow(
-                  category.label,
-                  columns.map((column) => column.ratings[category.key as RatingKey]),
-                  formatRating,
-                ),
-              )}
-              {section('Flavors')}
-              {row('All flavors', (column) => flavors(column.tags.all))}
-              {row('First third', (column) => flavors(column.tags.first))}
-              {row('Second third', (column) => flavors(column.tags.second))}
-              {row('Final third', (column) => flavors(column.tags.final))}
-              {section('Strength and body')}
-              {row('Strength', (column) => text(column.strength))}
-              {row('Body', (column) => text(column.body))}
-              {anyThirds && row('Strength by third', (column) => text(column.strengthByThird))}
-              {anyThirds && row('Body by third', (column) => text(column.bodyByThird))}
-              {section('Construction')}
-              {row('Draw', (column) => text(column.draw))}
-              {row('Burn', (column) => text(column.burn))}
-              {row('Ash', (column) => text(column.ash))}
-              {row('Smoke volume', (column) => text(column.smokeVolume))}
-              {row('Relights', (column) => text(column.relights))}
-              {row('Touch-ups', (column) => text(column.touchUps))}
-              {row('Issues', (column) =>
-                column.issues.length > 0 ? (
-                  column.issues.join(', ')
-                ) : (
-                  <span className="muted">None noted</span>
-                ),
-              )}
-              {section('The rest')}
-              {row('Wrapper', (column) => text(column.wrapper))}
-              {row('Size', (column) => text(column.size))}
-              {row('Smoke time', (column) => text(column.time))}
-              {row('Pairing', (column) => text(column.pairing))}
-              {row('Price paid', (column) => text(column.price))}
-            </tbody>
-          )}
-        </table>
+                      {column.score === null ? (
+                        <span className="muted">No score</span>
+                      ) : (
+                        <div className="compare-score">
+                          <ScoreRing shown={column.score} size={84} stroke={4}>
+                            <span className="numeral numeral-md num">{column.score}</span>
+                          </ScoreRing>
+                          <span className="readout-text">
+                            <span
+                              className="verdict verdict-lg"
+                              data-verdict={verdictFor(column.score)}
+                            >
+                              {verdictFor(column.score)}
+                            </span>
+                            {index === scoreBest && (
+                              <span className="ready-line">Highest score</span>
+                            )}
+                          </span>
+                        </div>
+                      )}
+                    </div>
+                  </th>
+                ))}
+                {columns.length < MAX && (
+                  <th scope="col" className="compare-add">
+                    <button
+                      type="button"
+                      className="btn btn-quiet"
+                      onClick={() => setPicking(true)}
+                    >
+                      <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
+                      {mode === 'smokes' ? 'Add a smoke' : 'Add a cigar'}
+                    </button>
+                  </th>
+                )}
+              </tr>
+            </thead>
+            {columns.length > 0 && (
+              <tbody>
+                {section('Scores')}
+                {RUBRIC.map((category) =>
+                  numberRow(
+                    category.label,
+                    columns.map((column) => column.ratings[category.key as RatingKey]),
+                    formatRating,
+                  ),
+                )}
+                {section('Flavors')}
+                {row('All flavors', (column) => flavors(column.tags.all))}
+                {row('First third', (column) => flavors(column.tags.first))}
+                {row('Second third', (column) => flavors(column.tags.second))}
+                {row('Final third', (column) => flavors(column.tags.final))}
+                {section('Strength and body')}
+                {row('Strength', (column) => text(column.strength))}
+                {row('Body', (column) => text(column.body))}
+                {anyThirds && row('Strength by third', (column) => text(column.strengthByThird))}
+                {anyThirds && row('Body by third', (column) => text(column.bodyByThird))}
+                {section('Construction')}
+                {row('Draw', (column) => text(column.draw))}
+                {row('Burn', (column) => text(column.burn))}
+                {row('Ash', (column) => text(column.ash))}
+                {row('Smoke volume', (column) => text(column.smokeVolume))}
+                {row('Relights', (column) => text(column.relights))}
+                {row('Touch-ups', (column) => text(column.touchUps))}
+                {row('Issues', (column) =>
+                  column.issues.length > 0 ? (
+                    column.issues.join(', ')
+                  ) : (
+                    <span className="muted">None noted</span>
+                  ),
+                )}
+                {section('The rest')}
+                {row('Wrapper', (column) => text(column.wrapper))}
+                {row('Size', (column) => text(column.size))}
+                {row('Smoke time', (column) => text(column.time))}
+                {row('Pairing', (column) => text(column.pairing))}
+                {row('Price paid', (column) => text(column.price))}
+              </tbody>
+            )}
+          </table>
+        </div>
       )}
 
       <Sheet

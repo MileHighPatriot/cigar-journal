@@ -816,6 +816,11 @@ Scripts to define in `package.json`:
   - **Band detailing:** each journal card wears an oxblood band between two gold edges with the brand in gold; month headings are centered between two rules; "Box-worthy" carries a small gold seal; section titles on detail pages run into a gold rule.
   - **Palette:** brighter gold, cream text, oxblood, and a richer green were added. All of it is in `tokens.css`; `finish.css` holds no colors of its own. Strength and wrapper shades are unchanged.
   - **Left out on purpose:** a color per brand (he was unsure), and bigger photo layouts (he has no photos yet).
+- **Phone matches the laptop** (Kohlton's request, 2026-10-11: the phone "wasnt the same thing as the web version"; he wants the same tabs and the same steps on both). This replaces the five-slot tab bar and the More screen in section 11.
+  - **Tabs:** the phone and tablet bar now shows the same seven tabs as the laptop sidebar, in the same order: Journal, Cigars, Humidor, Wishlist, Stats, Compare, Settings. The More screen is gone. The label size shrinks a little on narrow phones so all seven fit (`--text-tab`).
+  - **Log button:** it no longer sits in the bar. It floats just above the bar's right end as its own fixed box, with the same brass and ember glow. Pages keep extra room at the bottom so the last row can scroll clear of it, and messages appear above it.
+  - **Steps:** a device that has never chosen now starts in the Full log (the eight steps), on the phone as on the laptop. Quick is still one tap away on the picker, and the choice is remembered per device.
+  - **Compare on the phone:** it used to say to open it on a laptop. It now works at every width. Two columns always fit beside the row labels; a third, and the Add button, scroll sideways inside the table's own box while the labels stay put. That box is positioned so nothing in a column can widen the page (the screen-reader text in a third column did, in the first try).
 - **Step 4 status**: steps 0 to 3 are built. Humidor, Stats, Cigars, Wishlist, Compare, and Settings show a one-line placeholder until their steps. The Full switch on the picker saves the choice but still runs the quick flow until step 5.
 
 ## 24. Ideas noticed during planning (not in Phase 1)

@@ -14,7 +14,6 @@ import { LogFinish } from './screens/LogFinish'
 import { LogFull } from './screens/LogFull'
 import { LogPicker } from './screens/LogPicker'
 import { LogScores } from './screens/LogScores'
-import { More } from './screens/More'
 import { Settings } from './screens/Settings'
 import { Stats } from './screens/Stats'
 import { Wishlist } from './screens/Wishlist'
@@ -124,9 +123,6 @@ function Shell() {
           </Route>
           <Route path="/settings">
             <Settings />
-          </Route>
-          <Route path="/more">
-            <More />
           </Route>
           {DevScreen && (
             <Route path="/dev">

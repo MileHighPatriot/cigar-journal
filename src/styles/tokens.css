@@ -97,6 +97,8 @@
   --font-body: "IBM Plex Sans Variable", system-ui, -apple-system, sans-serif;
 
   --text-xs: 12px;
+  /* Seven tab labels have to fit across a phone. */
+  --text-tab: clamp(10px, 2.9vw, 12px);
   --text-sm: 14px;
   --text-md: 16px;
   --text-lg: 18px;
@@ -122,6 +124,7 @@
   --dur: 180ms;
 
   --tabbar-h: 64px;
+  --log-btn: 56px;
   --actionbar-h: 72px;
   --sidebar-w: 232px;
   --safe-top: env(safe-area-inset-top, 0px);

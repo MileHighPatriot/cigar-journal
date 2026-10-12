@@ -6,7 +6,8 @@
 
 .app-main {
   padding-top: var(--safe-top);
-  padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--s6));
+  /* Room for the tab bar and the Log button above it, so the last row is never covered. */
+  padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--log-btn) + var(--s8));
   padding-left: var(--safe-left);
   padding-right: var(--safe-right);
 }
@@ -59,7 +60,7 @@
   bottom: 0;
   z-index: 20;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(7, minmax(0, 1fr));
   align-items: center;
   height: calc(var(--tabbar-h) + var(--safe-bottom));
   padding: 0 var(--safe-right) var(--safe-bottom) var(--safe-left);
@@ -73,14 +74,12 @@
   align-items: center;
   justify-content: center;
   gap: 2px;
+  position: relative;
+  min-width: 0;
   height: var(--tabbar-h);
   color: var(--text-2);
-  font-size: var(--text-xs);
+  font-size: var(--text-tab);
   font-weight: 500;
-}
-
-.tab {
-  position: relative;
 }
 
 .tab[aria-current="page"] {
@@ -104,17 +103,19 @@
 }
 
 .tab-log {
-  justify-self: center;
+  position: fixed;
+  right: calc(var(--s4) + var(--safe-right));
+  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--s4));
+  z-index: 20;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 56px;
-  height: 56px;
-  margin-top: -20px;
+  width: var(--log-btn);
+  height: var(--log-btn);
   background: var(--brass);
   color: var(--on-brass);
   border-radius: var(--radius);
-  /* A ring of page color lifts it off the bar, with a soft brass glow behind it. */
+  /* A ring of page color lifts it off the page, with a soft brass glow behind it. */
   box-shadow:
     0 0 0 4px var(--bg),
     0 0 28px var(--glow-brass);
@@ -155,7 +156,8 @@
   position: fixed;
   left: 0;
   right: 0;
-  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--s4));
+  /* Above the Log button, so a message never sits on top of it. */
+  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--log-btn) + var(--s6));
   z-index: 40;
   display: flex;
   justify-content: center;
@@ -1023,28 +1025,6 @@
 .family-add .input {
   flex: 1;
   min-width: 0;
-}
-
-/* ---------- More ---------- */
-
-.link-list li + li {
-  border-top: 1px solid var(--hairline);
-}
-
-.link-row {
-  display: flex;
-  align-items: center;
-  gap: var(--s3);
-  min-height: 56px;
-  padding: 0 var(--s3) 0 var(--s4);
-}
-
-.link-row span {
-  flex: 1;
-}
-
-.link-row svg {
-  color: var(--text-2);
 }
 
 /* ---------- Life: rings, charts, color dots, motion ---------- */
@@ -2425,10 +2405,96 @@ input[type="date"].input {
   padding: var(--s2) 0;
 }
 
-/* ---------- Compare (laptop) ---------- */
+/* ---------- Compare ---------- */
 
 .compare-mode {
   width: 260px;
+}
+
+/* The columns scroll sideways inside this box when the screen is too narrow for them. */
+.compare-scroll {
+  /* Positioned, so anything absolutely placed in a column scrolls with it and stays in the box. */
+  position: relative;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+}
+
+@media (max-width: 1023px) {
+  .compare {
+    /* Two columns always fit beside the labels. A third scrolls into view. */
+    --compare-label: 92px;
+    --compare-col: clamp(124px, calc((100vw - 124px) / 2), 200px);
+  }
+
+  .compare .hero-top {
+    flex-wrap: wrap;
+  }
+
+  .compare-mode {
+    width: 100%;
+  }
+
+  .compare-scroll .compare-table {
+    width: max(100%, calc(var(--compare-label) + var(--cols) * var(--compare-col)));
+  }
+
+  .compare-scroll .compare-table th,
+  .compare-scroll .compare-table td {
+    padding: var(--s3) var(--s1);
+  }
+
+  .compare-scroll .compare-table thead td,
+  .compare-scroll .compare-table tbody th {
+    width: var(--compare-label);
+  }
+
+  /* The row labels stay in view while the columns move. */
+  .compare-scroll .compare-table tbody tr:not(.compare-section) th {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    background: var(--bg);
+    font-size: var(--text-xs);
+    hyphens: auto;
+    overflow-wrap: anywhere;
+  }
+
+  .compare-scroll .compare-section th {
+    width: auto;
+  }
+
+  .compare-section-label {
+    position: sticky;
+    left: 0;
+  }
+
+  .compare-scroll .compare-head {
+    gap: var(--s2);
+    padding: var(--s2);
+  }
+
+  .compare-scroll .compare-head-top {
+    flex-direction: column-reverse;
+    gap: 0;
+  }
+
+  .compare-scroll .compare-head-top .icon-btn {
+    align-self: flex-end;
+  }
+
+  .compare-scroll .compare-title {
+    font-size: var(--text-lg);
+  }
+
+  .compare-scroll .compare-score {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--s2);
+  }
+
+  .compare-scroll .verdict-lg {
+    font-size: var(--text-sm);
+  }
 }
 
 .compare-table {
@@ -2851,7 +2917,7 @@ input[type="date"].input {
   }
 
   .tabbar {
-    grid-template-columns: repeat(5, minmax(0, 140px));
+    grid-template-columns: repeat(7, minmax(0, 120px));
     justify-content: center;
   }
 
@@ -2957,7 +3023,8 @@ input[type="date"].input {
 /* ---------- Laptop: sidebar and two-pane journal ---------- */
 
 @media (min-width: 1024px) {
-  .tabbar {
+  .tabbar,
+  .tab-log {
     display: none;
   }
 

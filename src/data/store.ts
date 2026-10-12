@@ -299,7 +299,7 @@ export function logPath(smoke: Pick<Smoke, 'id' | 'draftStep'>): string {
 
 /** Starts a log for a cigar from outside the picker, in the mode used last time. Returns its path. */
 export async function startLog(cigarId: string, lotId: string | null = null): Promise<string> {
-  const mode = (await getRepo().getMeta('lastLogMode')) ?? 'quick'
+  const mode = (await getRepo().getMeta('lastLogMode')) ?? 'full'
   const draftStep = mode === 'full' ? 'full/prelight' : 'scores'
   const smoke = newSmoke(cigarId, { lotId, mode, draftStep })
   void saveRecord('smokes', smoke)

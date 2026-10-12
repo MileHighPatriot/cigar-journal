@@ -4,7 +4,6 @@ import {
   BookOpen,
   ChartColumn,
   Columns2,
-  Ellipsis,
   Leaf,
   type LucideIcon,
   Plus,
@@ -62,44 +61,39 @@ const settings: NavItem = {
   icon: Settings,
   match: (path) => path.startsWith('/settings'),
 }
-const more: NavItem = {
-  href: '/more',
-  label: 'More',
-  icon: Ellipsis,
-  match: (path) =>
-    ['/more', '/stats', '/wishlist', '/settings', '/compare'].some((p) => path.startsWith(p)),
-}
+/** The same tabs in the same order on every screen size. */
+const ITEMS = [journal, cigars, humidor, wishlist, stats, compare, settings]
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
   const active = item.match(path)
   return (
     <Link href={item.href} className="tab" aria-current={active ? 'page' : undefined}>
-      <item.icon size={24} strokeWidth={1.5} aria-hidden="true" />
+      <item.icon size={22} strokeWidth={1.5} aria-hidden="true" />
       <span>{item.label}</span>
     </Link>
   )
 }
 
-/** Phone and tablet: bottom tab bar with a raised Log button in the middle. */
+/** Phone and tablet: every tab along the bottom, with the Log button floating above it. */
 export function TabBar() {
   const [path] = useLocation()
   return (
-    <nav className="tabbar" aria-label="Main">
-      <TabLink item={journal} path={path} />
-      <TabLink item={cigars} path={path} />
+    <>
       <Link href="/log" className="tab-log" aria-label="Log a smoke">
         <Plus size={28} strokeWidth={1.5} aria-hidden="true" />
       </Link>
-      <TabLink item={humidor} path={path} />
-      <TabLink item={more} path={path} />
-    </nav>
+      <nav className="tabbar" aria-label="Main">
+        {ITEMS.map((item) => (
+          <TabLink key={item.href} item={item} path={path} />
+        ))}
+      </nav>
+    </>
   )
 }
 
 /** Laptop: left sidebar. */
 export function Sidebar() {
   const [path] = useLocation()
-  const items = [journal, cigars, humidor, wishlist, stats, compare, settings]
   return (
     <nav className="sidebar" aria-label="Main">
       <p className="sidebar-name">
@@ -111,7 +105,7 @@ export function Sidebar() {
         New log
       </Link>
       <ul className="sidebar-list">
-        {items.map((item) => (
+        {ITEMS.map((item) => (
           <li key={item.href}>
             <Link
               href={item.href}

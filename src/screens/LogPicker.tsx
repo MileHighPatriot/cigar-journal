@@ -36,7 +36,7 @@ function CigarRow({ cigar, note, onPick }: { cigar: Cigar; note?: string; onPick
 export function LogPicker() {
   const state = useStore()
   const [, navigate] = useLocation()
-  const [mode, setMode] = useState<Mode>('quick')
+  const [mode, setMode] = useState<Mode>('full')
   const [query, setQuery] = useState('')
   const [adding, setAdding] = useState(false)
   const [form, setForm] = useState({ brand: '', line: '', vitola: '' })

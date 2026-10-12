@@ -197,7 +197,7 @@ export function Journal({ selectedId }: { selectedId?: string }) {
               <circle cx="60" cy="60" r="20" />
             </svg>
             <p className="empty-title">No smokes yet</p>
-            <p className="muted">Tap Log to add your first one. It takes under a minute.</p>
+            <p className="muted">Tap Log a smoke to add your first one.</p>
             <Link href="/log" className="btn btn-primary">
               Log a smoke
             </Link>
