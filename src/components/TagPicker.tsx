@@ -1,7 +1,8 @@
-import { ChevronRight } from 'lucide-react'
+import { ChevronRight, Search } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { nowIso } from '../data/repository'
 import { saveRecord, useStore } from '../data/store'
+import { fold } from '../domain/format'
 import { familiesWithCustom, normalizeTag, OFF_NOTES, recentTags } from '../domain/tags'
 
 interface Props {
@@ -16,6 +17,7 @@ export function TagPicker({ selected, onChange, max }: Props) {
   const state = useStore()
   const [openFamily, setOpenFamily] = useState<string | null>(null)
   const [custom, setCustom] = useState('')
+  const [query, setQuery] = useState('')
   const families = useMemo(() => familiesWithCustom(state.customTags.values()), [state.customTags])
   const recent = useMemo(() => recentTags(state.smokes.values()), [state.smokes])
   const full = max !== undefined && selected.length >= max
@@ -58,6 +60,16 @@ export function TagPicker({ selected, onChange, max }: Props) {
   )
 
   const offNoteTips = OFF_NOTES.filter((note) => selected.includes(note.word))
+  const wanted = fold(query.trim())
+  const found = useMemo(() => {
+    if (!wanted) return []
+    const words = [...families.flatMap((family) => family.words), ...OFF_NOTES.map((n) => n.word)]
+    const hits = words.filter((word) => fold(word).includes(wanted))
+    // Words that start with what was typed come first.
+    return hits.sort(
+      (a, b) => Number(fold(b).startsWith(wanted)) - Number(fold(a).startsWith(wanted)),
+    )
+  }, [families, wanted])
 
   return (
     <div className="tagpicker">
@@ -66,12 +78,41 @@ export function TagPicker({ selected, onChange, max }: Props) {
           {selected.length} of {max} picked
         </p>
       )}
+      <div className="search">
+        <Search size={20} strokeWidth={1.5} aria-hidden="true" />
+        <label className="sr-only" htmlFor="flavor-search">
+          Search flavors
+        </label>
+        <input
+          id="flavor-search"
+          type="search"
+          className="input"
+          placeholder="Search flavors"
+          value={query}
+          onChange={(event) => setQuery(event.target.value)}
+          autoComplete="off"
+          autoCapitalize="none"
+          enterKeyHint="search"
+        />
+      </div>
       {selected.length > 0 && (
         <div className="chip-row" role="group" aria-label="Picked flavors">
           {selected.map(chip)}
         </div>
       )}
-      {recent.length > 0 && (
+      {wanted && (
+        <section aria-live="polite">
+          <h3 className="tagpicker-heading">Matches</h3>
+          {found.length > 0 ? (
+            <div className="chip-row">{found.filter((w) => !selected.includes(w)).map(chip)}</div>
+          ) : (
+            <p className="muted">
+              No flavor by that name. Open a family below to add it as your own.
+            </p>
+          )}
+        </section>
+      )}
+      {!wanted && recent.length > 0 && (
         <section>
           <h3 className="tagpicker-heading">Recent</h3>
           <div className="chip-row">{recent.filter((w) => !selected.includes(w)).map(chip)}</div>

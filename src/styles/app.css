@@ -1167,6 +1167,18 @@
 .flavor-dot[data-family="herbal"] {
   background: var(--fam-herbal);
 }
+.flavor-dot[data-family="tobacco"] {
+  background: var(--fam-tobacco);
+}
+.flavor-dot[data-family="smoke"] {
+  background: var(--fam-smoke);
+}
+.flavor-dot[data-family="spirits"] {
+  background: var(--fam-spirits);
+}
+.flavor-dot[data-family="savory"] {
+  background: var(--fam-savory);
+}
 .flavor-dot[data-family="off"] {
   background: var(--fam-off);
 }

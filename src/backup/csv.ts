@@ -44,7 +44,20 @@ const COLUMNS = [
   'price_paid',
   'summary',
   'id',
+  // Added later, after id, so the earlier columns keep their places.
+  'foot_aroma',
+  'cold_draw',
+  'prelight_note',
+  'retrohale_first',
+  'retrohale_second',
+  'retrohale_final',
+  'construction_note',
+  'pairing_note',
+  'score_note',
 ] as const
+
+/** Picked flavors, then anything typed. */
+const both = (tags: string[], typed: string) => [tags.join('; '), typed].filter(Boolean).join('; ')
 
 /** One row per completed smoke that is not deleted. UTF-8 with a byte-order mark, CRLF lines. */
 export function smokesToCsv(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): string {
@@ -92,6 +105,15 @@ export function smokesToCsv(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>)
       smoke.pricePaid,
       smoke.summary,
       smoke.id,
+      both(smoke.prelight.aromaTags, smoke.prelight.footAroma),
+      both(smoke.prelight.coldDrawTags, smoke.prelight.coldDraw),
+      smoke.prelight.note,
+      both(smoke.thirds.first.retrohaleTags, smoke.thirds.first.retrohale),
+      both(smoke.thirds.second.retrohaleTags, smoke.thirds.second.retrohale),
+      both(smoke.thirds.final.retrohaleTags, smoke.thirds.final.retrohale),
+      smoke.constructionNote,
+      smoke.pairingNote,
+      smoke.scoreNote,
     ]
     rows.push(values.map(csvField).join(','))
   }

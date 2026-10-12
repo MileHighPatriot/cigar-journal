@@ -1,7 +1,7 @@
 import { ChevronLeft } from 'lucide-react'
 import { useEffect, useRef } from 'react'
 import { Link, useLocation } from 'wouter'
-import { FlavorField } from '../components/FlavorField'
+import { AROMA_TAGS, FlavorField } from '../components/FlavorField'
 import { AutoText, ChipChoice, ChipMulti, Counter, LevelPicker } from '../components/fields'
 import { useAutosaveText } from '../components/hooks'
 import { PhotoSection } from '../components/PhotoSection'
@@ -99,15 +99,28 @@ function Prelight({ smoke }: { smoke: Smoke }) {
           value={prelight.wrapperNotes}
           onCommit={(wrapperNotes) => void patchPrelight(id, { wrapperNotes })}
         />
-        <AutoText
+        <FlavorField
           label="Foot aroma"
-          placeholder="Hay, cocoa, barnyard"
+          more="More aromas"
+          suggest={AROMA_TAGS}
+          tags={prelight.aromaTags}
+          onChange={(aromaTags) => void patchPrelight(id, { aromaTags })}
+        />
+        <AutoText
+          label="Foot aroma, in your words"
+          placeholder="Anything else you smell"
           value={prelight.footAroma}
           onCommit={(footAroma) => void patchPrelight(id, { footAroma })}
         />
-        <AutoText
+        <FlavorField
           label="Cold draw"
-          placeholder="Raisin, cedar, a little tight"
+          suggest={AROMA_TAGS}
+          tags={prelight.coldDrawTags}
+          onChange={(coldDrawTags) => void patchPrelight(id, { coldDrawTags })}
+        />
+        <AutoText
+          label="Cold draw, in your words"
+          placeholder="A little tight, sweet on the lips"
           value={prelight.coldDraw}
           onCommit={(coldDraw) => void patchPrelight(id, { coldDraw })}
         />
@@ -122,6 +135,13 @@ function Prelight({ smoke }: { smoke: Smoke }) {
           options={LIGHTS}
           value={prelight.lightMethod}
           onChange={(lightMethod) => void patchPrelight(id, { lightMethod })}
+        />
+        <AutoText
+          label="Pre-light note"
+          multiline
+          placeholder="Anything else before you light it"
+          value={prelight.note}
+          onCommit={(note) => void patchPrelight(id, { note })}
         />
       </div>
       {/* Before it is lit is the time to shoot the stick and the wrapper. */}
@@ -141,6 +161,12 @@ function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
           tags={data.tags}
           onChange={(tags) => void patchThird(id, third, { tags })}
         />
+        <FlavorField
+          label="Retrohale"
+          count={8}
+          tags={data.retrohaleTags}
+          onChange={(retrohaleTags) => void patchThird(id, third, { retrohaleTags })}
+        />
       </div>
       <div className="stack">
         <LevelPicker
@@ -154,14 +180,15 @@ function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
           onChange={(body) => void patchThird(id, third, { body })}
         />
         <AutoText
-          label="Retrohale"
-          placeholder="White pepper, smooth, sharp"
+          label="Retrohale, in your words"
+          placeholder="Smooth, sharp, long finish"
           value={data.retrohale}
           onCommit={(retrohale) => void patchThird(id, third, { retrohale })}
         />
         <AutoText
           label="Note"
           multiline
+          placeholder="What changed in this third"
           value={data.note}
           onCommit={(note) => void patchThird(id, third, { note })}
         />
@@ -247,6 +274,13 @@ function Construction({ smoke }: { smoke: Smoke }) {
           value={smoke.body}
           onChange={(body) => void patchSmoke(id, { body })}
         />
+        <AutoText
+          label="Construction note"
+          multiline
+          placeholder="Burn line, ash, anything you had to fix"
+          value={smoke.constructionNote}
+          onCommit={(constructionNote) => void patchSmoke(id, { constructionNote })}
+        />
       </div>
     </div>
   )
@@ -268,6 +302,13 @@ function SettingStep({ smoke }: { smoke: Smoke }) {
           placeholder="Eagle Rare, a cortado"
           value={smoke.pairingName}
           onCommit={(pairingName) => void patchSmoke(id, { pairingName })}
+        />
+        <AutoText
+          label="Pairing note"
+          multiline
+          placeholder="How the drink went with the cigar"
+          value={smoke.pairingNote}
+          onCommit={(pairingNote) => void patchSmoke(id, { pairingNote })}
         />
       </div>
       <div className="stack">
@@ -357,6 +398,13 @@ function ScoresStep({ smoke }: { smoke: Smoke }) {
         options={BUY}
         value={smoke.wouldBuyAgain}
         onChange={(wouldBuyAgain) => void patchSmoke(id, { wouldBuyAgain })}
+      />
+      <AutoText
+        label="Score note"
+        multiline
+        placeholder="Why it earned this score"
+        value={smoke.scoreNote}
+        onCommit={(scoreNote) => void patchSmoke(id, { scoreNote })}
       />
     </>
   )

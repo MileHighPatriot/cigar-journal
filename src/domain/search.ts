@@ -5,9 +5,11 @@ import { effectiveTags } from './tags'
 export interface SmokeRow {
   smoke: Smoke
   cigar: Cigar | undefined
-  /** One lowercase blob per smoke: brand, line, size, notes, tags, pairing. */
+  /** One lowercase blob per smoke: brand, line, size, every note and flavor, pairing. */
   haystack: string
 }
+
+const THIRD_KEYS = ['first', 'second', 'final'] as const
 
 export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): SmokeRow[] {
   const rows: SmokeRow[] = []
@@ -29,6 +31,19 @@ export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): 
       smoke.thirds.second.note,
       smoke.thirds.final.note,
       ...effectiveTags(smoke),
+      ...smoke.prelight.aromaTags,
+      ...smoke.prelight.coldDrawTags,
+      smoke.prelight.wrapperNotes,
+      smoke.prelight.footAroma,
+      smoke.prelight.coldDraw,
+      smoke.prelight.note,
+      ...THIRD_KEYS.flatMap((key) => [
+        smoke.thirds[key].retrohale,
+        ...smoke.thirds[key].retrohaleTags,
+      ]),
+      smoke.constructionNote,
+      smoke.pairingNote,
+      smoke.scoreNote,
     ]
     rows.push({ smoke, cigar, haystack: fold(parts.filter(Boolean).join(' ')) })
   }

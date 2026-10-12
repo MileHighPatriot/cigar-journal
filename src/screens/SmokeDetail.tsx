@@ -107,21 +107,26 @@ export function SmokeDetail({ id }: { id: string }) {
       third.strength ||
       third.body ||
       third.retrohale ||
+      third.retrohaleTags.length > 0 ||
       third.note ||
       third.issues.length > 0,
   )
   const BUY_LABELS = { no: 'No', single: 'A single', few: 'A few', box: 'A box' } as const
   const fact = (label: string, value: string | number | null | undefined): [string, string][] =>
     value === null || value === undefined || value === '' ? [] : [[label, String(value)]]
+  // Picked flavors first, then anything typed.
+  const both = (tags: string[], typed: string) =>
+    [tags.join(', '), typed].filter(Boolean).join('. ')
   const groups = [
     {
       title: 'Pre-light',
       facts: [
         ...fact('Wrapper', smoke.prelight.wrapperNotes),
-        ...fact('Foot aroma', smoke.prelight.footAroma),
-        ...fact('Cold draw', smoke.prelight.coldDraw),
+        ...fact('Foot aroma', both(smoke.prelight.aromaTags, smoke.prelight.footAroma)),
+        ...fact('Cold draw', both(smoke.prelight.coldDrawTags, smoke.prelight.coldDraw)),
         ...fact('Cut', smoke.prelight.cutType),
         ...fact('Light', smoke.prelight.lightMethod),
+        ...fact('Note', smoke.prelight.note),
       ],
     },
     {
@@ -134,12 +139,14 @@ export function SmokeDetail({ id }: { id: string }) {
         ...fact('Relights', smoke.relights > 0 ? smoke.relights : null),
         ...fact('Touch-ups', smoke.touchUps > 0 ? smoke.touchUps : null),
         ...fact('Body', levelLabel(smoke.body)),
+        ...fact('Note', smoke.constructionNote),
       ],
     },
     {
       title: 'Pairing and setting',
       facts: [
         ...fact('Pairing', [smoke.pairingType, smoke.pairingName].filter(Boolean).join(', ')),
+        ...fact('Pairing note', smoke.pairingNote),
         ...fact('Indoor or outdoor', smoke.environment),
         ...fact('Company', smoke.company),
         ...fact('Conditions', smoke.conditions),
@@ -234,6 +241,7 @@ export function SmokeDetail({ id }: { id: string }) {
                 )
               })}
             </dl>
+            {smoke.scoreNote && <p className="detail-note">{smoke.scoreNote}</p>}
           </section>
 
           {tags.length > 0 && (
@@ -261,7 +269,9 @@ export function SmokeDetail({ id }: { id: string }) {
                           .join(' \u00B7 ')}
                       </p>
                     )}
-                    {third.retrohale && <p>Retrohale: {third.retrohale}</p>}
+                    {(third.retrohale || third.retrohaleTags.length > 0) && (
+                      <p>Retrohale: {both(third.retrohaleTags, third.retrohale)}</p>
+                    )}
                     {third.note && <p className="detail-note">{third.note}</p>}
                     {third.issues.length > 0 && <p className="muted">{third.issues.join(', ')}</p>}
                   </li>

@@ -6,6 +6,7 @@ import {
   type Lot,
   type Photo,
   type PhotoKind,
+  type Prelight,
   type Smoke,
   type SyncFields,
   type Third,
@@ -17,7 +18,54 @@ function syncFields(): SyncFields {
 }
 
 function emptyThird(): Third {
-  return { tags: [], strength: null, body: null, retrohale: '', note: '', issues: [] }
+  return {
+    tags: [],
+    strength: null,
+    body: null,
+    retrohale: '',
+    retrohaleTags: [],
+    note: '',
+    issues: [],
+  }
+}
+
+function emptyPrelight(): Prelight {
+  return {
+    wrapperNotes: '',
+    footAroma: '',
+    aromaTags: [],
+    coldDraw: '',
+    coldDrawTags: [],
+    cutType: null,
+    lightMethod: null,
+    note: '',
+  }
+}
+
+const ADDED_LATER = {
+  vitola: null,
+  lengthIn: null,
+  ringGauge: null,
+  constructionNote: '',
+  pairingNote: '',
+  scoreNote: '',
+} satisfies Partial<Smoke>
+
+/**
+ * A smoke saved by an older version of the app, given the fields added since as empty values.
+ * Nothing is written back until the smoke is next edited, so no database change is needed.
+ */
+export function withSmokeDefaults(smoke: Smoke): Smoke {
+  return {
+    ...ADDED_LATER,
+    ...smoke,
+    prelight: { ...emptyPrelight(), ...smoke.prelight },
+    thirds: {
+      first: { ...emptyThird(), ...smoke.thirds.first },
+      second: { ...emptyThird(), ...smoke.thirds.second },
+      final: { ...emptyThird(), ...smoke.thirds.final },
+    },
+  }
 }
 
 export function newCigar(fields: Partial<Cigar> = {}): Cigar {
@@ -65,7 +113,7 @@ export function newSmoke(cigarId: string, fields: Partial<Smoke> = {}): Smoke {
     timerStartedAt: null,
     timerStoppedAt: null,
     durationMin: null,
-    prelight: { wrapperNotes: '', footAroma: '', coldDraw: '', cutType: null, lightMethod: null },
+    prelight: emptyPrelight(),
     thirds: { first: emptyThird(), second: emptyThird(), final: emptyThird() },
     draw: null,
     burn: null,
@@ -90,6 +138,9 @@ export function newSmoke(cigarId: string, fields: Partial<Smoke> = {}): Smoke {
     rubricVersion: RUBRIC_VERSION,
     wouldBuyAgain: null,
     summary: '',
+    constructionNote: '',
+    pairingNote: '',
+    scoreNote: '',
     ...fields,
   }
 }

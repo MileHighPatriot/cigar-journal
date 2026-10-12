@@ -19,12 +19,34 @@ export const STARTER_TAGS = [
   'nuts',
   'oak',
   'sweet',
+  'dark chocolate',
+  'caramel',
+  'baking spice',
+  'toast',
+  'dried fruit',
+  'hay',
 ]
 
-/** Twelve one-tap flavors: the ones used lately, then the starter set to fill the row. */
-export function suggestedTags(smokes: Iterable<Smoke>): string[] {
-  const recent = recentTags(smokes)
-  return [...recent, ...STARTER_TAGS.filter((tag) => !recent.includes(tag))].slice(0, 12)
+/** What a cigar tends to smell like before it is lit. */
+export const AROMA_TAGS = [
+  'hay',
+  'barnyard',
+  'cedar',
+  'cocoa',
+  'earth',
+  'leather',
+  'raisin',
+  'sweet tobacco',
+  'dried fruit',
+  'coffee',
+  'nuts',
+  'pepper',
+]
+
+/** One-tap flavors: the ones used lately, then the starter set to fill the row. */
+export function suggestedTags(smokes: Iterable<Smoke>, count = 16): string[] {
+  const recent = recentTags(smokes, count)
+  return [...recent, ...STARTER_TAGS.filter((tag) => !recent.includes(tag))].slice(0, count)
 }
 
 interface Props {
@@ -33,15 +55,29 @@ interface Props {
   onChange: (tags: string[]) => void
   /** Quick log allows 3. Thirds have no limit. */
   max?: number
+  /** A fixed set of one-tap chips, in place of the recently used flavors. */
+  suggest?: string[]
+  /** How many one-tap chips to show. */
+  count?: number
+  /** The button that opens the whole list. */
+  more?: string
 }
 
 /** Recent flavors as one-tap chips, with the full family picker behind "More flavors". */
-export function FlavorField({ label, tags, onChange, max }: Props) {
+export function FlavorField({
+  label,
+  tags,
+  onChange,
+  max,
+  suggest,
+  count,
+  more = 'More flavors',
+}: Props) {
   const state = useStore()
   const [picking, setPicking] = useState(false)
   // Worked out once when the screen opens: recent flavors first, topped up with a starter
   // set. Fixing the order means chips never jump while they are being tapped.
-  const [base] = useState(() => suggestedTags(state.smokes.values()))
+  const [base] = useState(() => suggest ?? suggestedTags(state.smokes.values(), count))
   const full = max !== undefined && tags.length >= max
   // Tags picked in the full picker go in front.
   const suggestions = [...tags.filter((tag) => !base.includes(tag)), ...base]
@@ -74,11 +110,11 @@ export function FlavorField({ label, tags, onChange, max }: Props) {
         ))}
       </div>
       <button type="button" className="btn btn-quiet" onClick={() => setPicking(true)}>
-        More flavors
+        {more}
       </button>
       <Sheet
         open={picking}
-        title="Flavors"
+        title={label}
         onClose={() => setPicking(false)}
         footer={
           <button

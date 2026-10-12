@@ -89,9 +89,13 @@ export type Issue =
 export interface Prelight {
   wrapperNotes: string
   footAroma: string
+  /** Aromas picked from the flavor list, beside the typed foot aroma. */
+  aromaTags: string[]
   coldDraw: string
+  coldDrawTags: string[]
   cutType: CutType | null
   lightMethod: LightMethod | null
+  note: string
 }
 
 export interface Third {
@@ -99,6 +103,7 @@ export interface Third {
   strength: Level | null
   body: Level | null
   retrohale: string
+  retrohaleTags: string[]
   note: string
   issues: Issue[]
 }
@@ -168,6 +173,9 @@ export interface Smoke extends SyncFields {
   rubricVersion: 1
   wouldBuyAgain: BuyAgain | null
   summary: string
+  constructionNote: string
+  pairingNote: string
+  scoreNote: string
 }
 
 export interface Lot extends SyncFields {

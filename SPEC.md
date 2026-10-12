@@ -837,6 +837,13 @@ Scripts to define in `package.json`:
   - **The journal moved to `#/journal`.** Every "back to journal" link, the delete and draft-kept returns, and the "/" search key now go there. `#/smokes/:id` is unchanged. An unknown address opens Home.
   - **Tabs:** Home is the first of eight tabs on every screen size, with the mark as its icon. Tab labels shrink slightly so eight fit across a 375 px phone. The sidebar's name and mark link to Home.
   - Checked at 375, 390, 768, and 1440 in Chrome and at 375 and 390 in Playwright's WebKit: no sideways scroll and no console errors.
+- **More flavors and notes at every stage** (Kohlton's request, 2026-10-12: "more options on flavor and notes at all stages of the journal").
+  - **Flavor list:** from 85 words in 13 families to 276 in 17. New families: Tobacco, Smoke & Char, Spirits & Wine, Savory. Every earlier word stays in its family, so past smokes and stats read the same. Off-notes went from 6 to 14, each with its tip. A test keeps any word from appearing twice.
+  - **Finding one:** the flavor picker has a search box across every family, off-notes, and his own added flavors. The one-tap row shows 16 flavors (was 12).
+  - **Flavors beyond the thirds:** Pre-light has flavor chips for Foot aroma and Cold draw (a starter row of common pre-light aromas, plus the whole list), and each third has chips for Retrohale. The typed fields stay beside them as "in your words".
+  - **A note on every step:** Pre-light note, the note on each third (already there), Construction note, Pairing note (on Setting), Score note, and the Summary note on Wrap up.
+  - **Data:** new optional fields on a smoke: `prelight.aromaTags`, `prelight.coldDrawTags`, `prelight.note`, `retrohaleTags` on each third, `constructionNote`, `pairingNote`, `scoreNote`. A smoke saved before they existed gets them as empty when loaded (`withSmokeDefaults`), so there is no database version change. Pre-light aromas and retrohale flavors are kept apart from the smoke's flavors: they do not count in the flavor stats or on the journal cards.
+  - **Where they show:** on the smoke page, in journal search, and in the CSV as new columns after `id` (earlier columns keep their places). The quick log is unchanged and still takes three flavors.
 - **Step 4 status**: steps 0 to 3 are built. Humidor, Stats, Cigars, Wishlist, Compare, and Settings show a one-line placeholder until their steps. The Full switch on the picker saves the choice but still runs the quick flow until step 5.
 
 ## 24. Ideas noticed during planning (not in Phase 1)

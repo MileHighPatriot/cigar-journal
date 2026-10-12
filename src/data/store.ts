@@ -3,7 +3,7 @@ import { computeScore } from '../domain/scoring'
 import { processPhoto } from '../photos/pipeline'
 import { requestPersist } from '../pwa/storage'
 import { seedVersion } from '../seed/version.json'
-import { newPhoto, newSmoke } from './factories'
+import { newPhoto, newSmoke, withSmokeDefaults } from './factories'
 import { IdbRepository, nowIso, type RecordBatch, type Repository } from './repository'
 import { type SeedCatalog, seedCatalog } from './seed'
 import {
@@ -109,10 +109,8 @@ export async function reloadFromDisk() {
   setState({
     // Cigars saved before the researched fields existed get them as empty.
     cigars: toMap(cigars.map((cigar) => ({ ...CIGAR_DEFAULTS, ...cigar }))),
-    // Smokes saved before the size fields existed get them as empty.
-    smokes: toMap(
-      smokes.map((smoke) => ({ ...{ vitola: null, lengthIn: null, ringGauge: null }, ...smoke })),
-    ),
+    // Smokes saved before the size, aroma, and note fields existed get them as empty.
+    smokes: toMap(smokes.map(withSmokeDefaults)),
     lots: toMap(lots),
     wishlist: toMap(wishlist),
     customTags: toMap(customTags),
