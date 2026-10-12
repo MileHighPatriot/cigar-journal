@@ -440,7 +440,7 @@ export function LogFull({ id, step }: { id: string; step: string }) {
     return (
       <div className="detail">
         <p className="muted">This log is not in your journal.</p>
-        <Link href="/" className="btn btn-quiet">
+        <Link href="/journal" className="btn btn-quiet">
           Back to journal
         </Link>
       </div>
@@ -454,7 +454,7 @@ export function LogFull({ id, step }: { id: string; step: string }) {
 
   function close() {
     if (isDraft) {
-      navigate('/')
+      navigate('/journal')
       showToast({ message: 'Draft kept. Resume it from your journal.' })
     } else navigate(`/smokes/${id}`)
   }

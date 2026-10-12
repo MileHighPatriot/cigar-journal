@@ -8,6 +8,7 @@ import { UpdatePrompt } from './components/UpdatePrompt'
 import { useStore } from './data/store'
 import { Cigars } from './screens/Cigars'
 import { Compare } from './screens/Compare'
+import { Home } from './screens/Home'
 import { Humidor } from './screens/Humidor'
 import { Journal } from './screens/Journal'
 import { LogFinish } from './screens/LogFinish'
@@ -61,7 +62,7 @@ function Shell() {
         // Focus the search on this screen if it has one, otherwise go to the journal's.
         const find = () =>
           document.querySelector<HTMLElement>('#journal-search, #cigar-list-search')
-        if (!find()) navigate('/')
+        if (!find()) navigate('/journal')
         requestAnimationFrame(() => find()?.focus())
       } else if (event.key === 'n') {
         event.preventDefault()
@@ -93,6 +94,9 @@ function Shell() {
         <UpdatePrompt />
         <Switch>
           <Route path="/">
+            <Home />
+          </Route>
+          <Route path="/journal">
             <Journal />
           </Route>
           <Route path="/smokes/:id">{(params) => <Journal selectedId={params.id} />}</Route>
@@ -132,7 +136,7 @@ function Shell() {
             </Route>
           )}
           <Route>
-            <Journal />
+            <Home />
           </Route>
         </Switch>
       </main>

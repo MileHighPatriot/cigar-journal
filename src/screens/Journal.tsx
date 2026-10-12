@@ -2,7 +2,7 @@ import { Search, Trash2 } from 'lucide-react'
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'wouter'
 import { BackupReminder } from '../components/BackupReminder'
-import { HeroArt } from '../components/HeroArt'
+import { Etching, HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { InstallHint } from '../components/InstallHint'
 import { ScoreRing } from '../components/ScoreRing'
@@ -21,7 +21,7 @@ const PAGE = 60
 const monthName = new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' })
 
 /** The photo shown on a card: the band if there is one, otherwise the first photo. */
-function cardPhotos(photos: Map<string, Photo>): Map<string, Photo> {
+export function cardPhotos(photos: Map<string, Photo>): Map<string, Photo> {
   const bySmoke = new Map<string, Photo>()
   for (const photo of photos.values()) {
     if (photo.deletedAt) continue
@@ -80,8 +80,11 @@ function Hero({ complete }: { complete: SmokeRow[] }) {
 
   return (
     <header className="hero">
-      <HeroArt art="leaves" />
-      <h1>Journal</h1>
+      <HeroArt />
+      <div className="hero-top">
+        <h1>Journal</h1>
+        <Etching art="leaves" className="hero-etch" />
+      </div>
       {complete.length > 0 && (
         <div className="hero-stats">
           <div className="hero-average">
@@ -191,11 +194,7 @@ export function Journal({ selectedId }: { selectedId?: string }) {
 
         {complete.length === 0 && drafts.length === 0 && (
           <div className="empty">
-            <svg className="empty-art" viewBox="0 0 120 120" aria-hidden="true">
-              <circle cx="60" cy="60" r="52" />
-              <circle cx="60" cy="60" r="36" />
-              <circle cx="60" cy="60" r="20" />
-            </svg>
+            <Etching art="ashtray" className="empty-art" />
             <p className="empty-title">No smokes yet</p>
             <p className="muted">Tap Log a smoke to add your first one.</p>
             <Link href="/log" className="btn btn-primary">

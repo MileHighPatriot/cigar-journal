@@ -8,7 +8,7 @@ body {
   background:
     radial-gradient(110% 560px at 50% -120px, var(--lamp), transparent 70%) no-repeat,
     linear-gradient(var(--shade), var(--shade)),
-    var(--leaf) 0 0 / 420px;
+    var(--leaf) 0 0 / 640px;
   background-color: var(--bg);
 }
 
@@ -56,7 +56,7 @@ h1 {
 /* ---------- The page header: the lid of a cigar box ---------- */
 
 .hero {
-  padding: calc(var(--s4) + 6px);
+  padding: var(--s6);
   background:
     var(--wood-veil),
     var(--wood) 0 0 / 450px;
@@ -75,49 +75,60 @@ h1 {
   pointer-events: none;
 }
 
-/* A double gold rule inside the lid, with a brass stud at each corner, like a box label. */
-.hero-fx::before {
-  content: "";
-  position: absolute;
-  inset: 6px;
-  border: 3px double var(--edge-gold);
-  border-radius: 3px;
-}
-
+/* The label frame: a double gold rule with a scooped corner and a brass stud, the way a box
+   label or a share certificate is bordered. One picture, sliced into corners and edges. */
 .hero-fx::after {
   content: "";
   position: absolute;
-  inset: 0;
-  background:
-    var(--stud) left 0.5px top 0.5px / 14px no-repeat,
-    var(--stud) right 0.5px top 0.5px / 14px no-repeat,
-    var(--stud) left 0.5px bottom 0.5px / 14px no-repeat,
-    var(--stud) right 0.5px bottom 0.5px / 14px no-repeat;
+  inset: 5px;
+  border: 30px solid transparent;
+  border-image: var(--frame) 30 / 30px stretch;
 }
 
-/* The line drawing sits to the right, fading toward the words. The mask only keeps or
-   drops pixels, so its black is not a color in the design. */
-.etching {
-  position: absolute;
-  inset: 0 0 0 auto;
-  width: min(62%, 420px);
-  height: 100%;
+/* ---------- Line drawings ---------- */
+
+.etch {
+  display: block;
   fill: none;
   stroke: var(--ink-line);
   stroke-linecap: round;
   stroke-linejoin: round;
-  opacity: 0.34;
-  -webkit-mask-image: linear-gradient(to right, transparent, #000 45%);
-  mask-image: linear-gradient(to right, transparent, #000 45%);
+  overflow: visible;
+}
+
+/* Lines keep their weight at any size, so a small drawing is not a faint one. */
+.etch path,
+.etch circle,
+.etch ellipse {
+  vector-effect: non-scaling-stroke;
+}
+
+.etch .l1 {
+  stroke-width: 1.25px;
+}
+
+.etch .l2 {
+  stroke-width: 0.85px;
+  opacity: 0.85;
+}
+
+.etch .l3 {
+  stroke-width: 0.55px;
+  opacity: 0.6;
 }
 
 .etch-fill {
   fill: var(--ink-line);
-  fill-opacity: 0.07;
+  fill-opacity: 0.08;
   stroke: none;
 }
 
-.etching .turn {
+.etch-solid {
+  fill: var(--ink-line);
+  stroke: none;
+}
+
+.etch .turn {
   transform-box: fill-box;
   transform-origin: center;
   animation: spin 240s linear infinite;
@@ -129,43 +140,88 @@ h1 {
   }
 }
 
-/* Smoke: thin wisps rising off the bottom edge, in two layers at different speeds. Only the
-   picture inside each layer moves, so nothing ever leaves the header's own box. */
+/* Smoke off the resting cigar: it sways a little and fades as it climbs. */
+.etch .wisp {
+  animation: wisp 7s ease-in-out infinite alternate;
+}
+
+.etch .wisp + .wisp {
+  animation-duration: 9s;
+  animation-direction: alternate-reverse;
+}
+
+@keyframes wisp {
+  from {
+    opacity: 0.25;
+  }
+
+  to {
+    opacity: 0.8;
+  }
+}
+
+/* Beside the page title: the drawing takes whatever room is left in the title row, so it
+   can never sit behind a button or a number. */
+.hero-top {
+  min-height: var(--etch);
+}
+
+.hero-etch {
+  flex: 1 1 0;
+  min-width: 0;
+  height: var(--etch);
+  opacity: 0.9;
+  filter: var(--etch-glow);
+}
+
+.wide-only {
+  display: none;
+}
+
+.empty-art {
+  opacity: 0.85;
+  filter: var(--etch-glow);
+}
+
+/* Smoke: silk ribbons rising, in two layers at different speeds. Only the picture inside
+   each layer moves, so nothing ever leaves the header's own box. It thins toward the left,
+   where the words are. */
 .smoke {
   position: absolute;
   inset: 0;
   background-repeat: repeat;
-  mix-blend-mode: screen;
+  -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / 0.3), #000 70%);
+  mask-image: linear-gradient(to right, rgb(0 0 0 / 0.3), #000 70%);
 }
 
 .smoke-a {
   background-image: var(--smoke-a);
-  background-size: 720px 720px;
-  opacity: 0.5;
-  animation: smoke-a 34s linear infinite;
+  background-size: 460px 460px;
+  opacity: 0.44;
+  animation: smoke-a 46s linear infinite;
 }
 
 .smoke-b {
   background-image: var(--smoke-b);
-  background-size: 520px 520px;
-  background-position: 180px 0;
-  opacity: 0.34;
-  animation: smoke-b 52s linear infinite;
+  background-size: 340px 340px;
+  background-position: 120px 0;
+  opacity: 0.26;
+  animation: smoke-b 64s linear infinite;
 }
 
 @keyframes smoke-a {
   to {
-    background-position: 40px -720px;
+    background-position: 0 -460px;
   }
 }
 
 @keyframes smoke-b {
   from {
-    background-position: 180px 0;
+    background-position: 120px 0;
   }
 
   to {
-    background-position: 150px -520px;
+    background-position: 120px -340px;
   }
 }
 
@@ -216,7 +272,9 @@ h1 {
 }
 
 .tabbar,
-.sidebar {
+.sidebar,
+.flow-head,
+.actionbar {
   background:
     var(--bar-veil),
     var(--wood) 0 0 / 450px;
@@ -280,7 +338,7 @@ h1 {
   width: 11px;
   height: 11px;
   border-radius: 50%;
-  background: radial-gradient(circle at 35% 30%, var(--gold-hi), var(--brass) 55%, var(--gold-lo));
+  background: var(--stud-metal);
   box-shadow: 0 0 0 1.5px var(--oxblood);
 }
 
@@ -296,4 +354,90 @@ h1 {
   flex: 1;
   height: 1px;
   background: linear-gradient(90deg, var(--edge-gold), transparent);
+}
+
+/* ---------- Charts and counters in brass ---------- */
+
+.stat-card {
+  background: var(--card-sheen), var(--surface);
+  border-color: var(--edge-gold);
+  box-shadow: var(--card-shadow);
+}
+
+.chart-bar {
+  background: var(--foil-flat);
+  box-shadow: var(--brass-hi);
+}
+
+.chart-hbar {
+  background: linear-gradient(90deg, var(--gold-lo), var(--brass) 55%, var(--gold-hi));
+}
+
+.chart-dot,
+.monogram {
+  background: var(--stud-metal);
+}
+
+.monogram {
+  color: var(--on-brass);
+  border-color: var(--gold-lo);
+  box-shadow: var(--brass-hi);
+}
+
+/* Brand headings in the cigar list: a strip of cedar with a gold edge. */
+.brand-head {
+  padding: var(--s2) var(--s3);
+  background:
+    var(--bar-veil),
+    var(--wood) 0 0 / 450px;
+  border-bottom: 1px solid var(--edge-gold);
+  border-radius: var(--radius) var(--radius) 0 0;
+  color: var(--gold-hi);
+}
+
+/* More room on a tablet or laptop: bigger drawings, and one beside Compare's switch. */
+@media (min-width: 768px) {
+  .hero {
+    --etch: 92px;
+  }
+
+  .wide-only {
+    display: block;
+  }
+
+  .empty-art {
+    width: min(100%, 300px);
+    height: 220px;
+  }
+}
+
+/* A wide header shows the smoke at full size, so the same ribbon does not repeat across it. */
+@media (min-width: 768px) {
+  .smoke-a {
+    background-size: 900px 900px;
+    animation-name: smoke-a-wide;
+    animation-duration: 80s;
+  }
+
+  .smoke-b {
+    background-size: 660px 660px;
+    animation-name: smoke-b-wide;
+    animation-duration: 110s;
+  }
+}
+
+@keyframes smoke-a-wide {
+  to {
+    background-position: 0 -900px;
+  }
+}
+
+@keyframes smoke-b-wide {
+  from {
+    background-position: 120px 0;
+  }
+
+  to {
+    background-position: 120px -660px;
+  }
 }

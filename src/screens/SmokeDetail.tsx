@@ -71,7 +71,7 @@ export function SmokeDetail({ id }: { id: string }) {
     return (
       <div className="detail">
         <p className="muted">This smoke is not in your journal.</p>
-        <Link href="/" className="btn btn-quiet">
+        <Link href="/journal" className="btn btn-quiet">
           Back to journal
         </Link>
       </div>
@@ -163,14 +163,14 @@ export function SmokeDetail({ id }: { id: string }) {
 
   function remove() {
     const { undo } = deleteSmoke(id)
-    navigate('/')
+    navigate('/journal')
     showToast({ message: 'Smoke deleted', actionLabel: 'Undo', onAction: () => void undo() })
   }
 
   return (
     <article className="detail">
       <div className="detail-bar">
-        <Link href="/" className="icon-btn detail-back" aria-label="Back to journal">
+        <Link href="/journal" className="icon-btn detail-back" aria-label="Back to journal">
           <ChevronLeft size={24} strokeWidth={1.5} aria-hidden="true" />
         </Link>
       </div>

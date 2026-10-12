@@ -1,34 +1,33 @@
-import {
-  Archive,
-  Bookmark,
-  BookOpen,
-  ChartColumn,
-  Columns2,
-  Leaf,
-  type LucideIcon,
-  Plus,
-  Settings,
-} from 'lucide-react'
+import { Bookmark, BookOpen, ChartColumn, Plus, Settings } from 'lucide-react'
+import type { ComponentType } from 'react'
 import { Link, useLocation } from 'wouter'
+import { CigarIcon, CompareIcon, HumidorIcon, MarkIcon } from './icons'
+import { Logo } from './Logo'
 import { SavedBadge } from './SavedBadge'
 
 interface NavItem {
   href: string
   label: string
-  icon: LucideIcon
+  icon: ComponentType<{ size?: number; strokeWidth?: number }>
   match: (path: string) => boolean
 }
 
-const journal: NavItem = {
+const home: NavItem = {
   href: '/',
+  label: 'Home',
+  icon: MarkIcon,
+  match: (path) => path === '/',
+}
+const journal: NavItem = {
+  href: '/journal',
   label: 'Journal',
   icon: BookOpen,
-  match: (path) => path === '/' || path.startsWith('/smokes'),
+  match: (path) => path.startsWith('/journal') || path.startsWith('/smokes'),
 }
 const humidor: NavItem = {
   href: '/humidor',
   label: 'Humidor',
-  icon: Archive,
+  icon: HumidorIcon,
   match: (path) => path.startsWith('/humidor'),
 }
 const stats: NavItem = {
@@ -40,7 +39,7 @@ const stats: NavItem = {
 const cigars: NavItem = {
   href: '/cigars',
   label: 'Cigars',
-  icon: Leaf,
+  icon: CigarIcon,
   match: (path) => path.startsWith('/cigars'),
 }
 const wishlist: NavItem = {
@@ -52,7 +51,7 @@ const wishlist: NavItem = {
 const compare: NavItem = {
   href: '/compare',
   label: 'Compare',
-  icon: Columns2,
+  icon: CompareIcon,
   match: (path) => path.startsWith('/compare'),
 }
 const settings: NavItem = {
@@ -62,7 +61,7 @@ const settings: NavItem = {
   match: (path) => path.startsWith('/settings'),
 }
 /** The same tabs in the same order on every screen size. */
-const ITEMS = [journal, cigars, humidor, wishlist, stats, compare, settings]
+const ITEMS = [home, journal, cigars, humidor, wishlist, stats, compare, settings]
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
   const active = item.match(path)
@@ -96,10 +95,10 @@ export function Sidebar() {
   const [path] = useLocation()
   return (
     <nav className="sidebar" aria-label="Main">
-      <p className="sidebar-name">
-        <img className="sidebar-mark" src={`${import.meta.env.BASE_URL}icon.svg`} alt="" />
-        Cigar Journal
-      </p>
+      <Link href="/" className="sidebar-brand">
+        <Logo className="sidebar-mark" />
+        <span className="sidebar-name">Cigar Journal</span>
+      </Link>
       <Link href="/log" className="btn btn-primary btn-block">
         <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
         New log

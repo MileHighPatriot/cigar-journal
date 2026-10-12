@@ -1,7 +1,7 @@
 import { Plus } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
-import { HeroArt } from '../components/HeroArt'
+import { Etching, HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { LotForm } from '../components/LotForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
@@ -119,9 +119,10 @@ export function Humidor({ selectedId }: { selectedId?: string }) {
     <div className={selectedId ? 'journal has-detail' : 'journal'}>
       <section className="journal-list" aria-label="Humidor">
         <header className="hero">
-          <HeroArt art="box" />
+          <HeroArt />
           <div className="hero-top">
             <h1>Humidor</h1>
+            <Etching art="box" className="hero-etch" />
             <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>
               <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
               Add
@@ -156,11 +157,7 @@ export function Humidor({ selectedId }: { selectedId?: string }) {
 
         {all.length === 0 && (
           <div className="empty">
-            <svg className="empty-art" viewBox="0 0 120 120" aria-hidden="true">
-              <circle cx="60" cy="60" r="52" />
-              <circle cx="60" cy="60" r="36" />
-              <circle cx="60" cy="60" r="20" />
-            </svg>
+            <Etching art="emptybox" className="empty-art" />
             <p className="empty-title">Your humidor is empty</p>
             <p className="muted">
               Add what you have on hand. Logging a smoke from it counts it down.

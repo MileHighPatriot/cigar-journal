@@ -62,6 +62,10 @@
   --oxblood-deep: #4e1612;
   --gold-hi: #f8e6ae;
   --gold-lo: #9c6f2c;
+  --gold-mid: #eccb82;
+  --ember-hot: #ffd27a;
+  --ember-mid: #ff8a3c;
+  --ember-deep: #c2401f;
   --foil: linear-gradient(176deg, #f8e6ae 8%, #e0b25f 38%, #9c6f2c 58%, #eccb82 82%);
   --foil-flat: linear-gradient(180deg, #f3d995, #d2a04c 55%, #b9873a);
   --edge-gold: rgb(224 178 95 / 0.28);
@@ -85,8 +89,12 @@
   --wood: url("../assets/textures/cedar.jpg");
   --smoke-a: url("../assets/textures/smoke-a.webp");
   --smoke-b: url("../assets/textures/smoke-b.webp");
-  /* A brass stud for the corners of a label frame. */
-  --stud: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14'%3E%3Cpath d='M7 0l7 7-7 7-7-7z' fill='%23e0b25f'/%3E%3Cpath d='M7 3.4l3.6 3.6L7 10.6 3.4 7z' fill='%2321160e'/%3E%3Ccircle cx='7' cy='7' r='1.3' fill='%23f8e6ae'/%3E%3C/svg%3E");
+  /* The label frame for page headers: double rule, scooped corners, a brass stud in each. */
+  --frame: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='90' height='90' viewBox='0 0 90 90'%3E%3Cdefs%3E%3Cg id='c' fill='none' stroke='%23e0b25f'%3E%3Cpath d='M30 1H13.5A12.5 12.5 0 0 1 1 13.5V30' stroke-width='1.1' stroke-opacity='.7'/%3E%3Cpath d='M30 5H17.6A16.6 16.6 0 0 1 5 17.6V30' stroke-width='.7' stroke-opacity='.45'/%3E%3Cpath d='M6.4 2.2L10.6 6.4L6.4 10.6L2.2 6.4Z' fill='%23e0b25f' stroke='none'/%3E%3Ccircle cx='6.4' cy='6.4' r='1.2' fill='%2321160e' stroke='none'/%3E%3Ccircle cx='17.2' cy='10.6' r='.9' fill='%23e0b25f' stroke='none' fill-opacity='.8'/%3E%3Ccircle cx='10.6' cy='17.2' r='.9' fill='%23e0b25f' stroke='none' fill-opacity='.8'/%3E%3C/g%3E%3C/defs%3E%3Cuse href='%23c'/%3E%3Cuse href='%23c' transform='translate(90 0) scale(-1 1)'/%3E%3Cuse href='%23c' transform='translate(0 90) scale(1 -1)'/%3E%3Cuse href='%23c' transform='translate(90 90) scale(-1 -1)'/%3E%3Cg fill='none' stroke='%23e0b25f'%3E%3Cpath d='M30 1H60M30 89H60M1 30V60M89 30V60' stroke-width='1.1' stroke-opacity='.7'/%3E%3Cpath d='M30 5H60M30 85H60M5 30V60M85 30V60' stroke-width='.7' stroke-opacity='.45'/%3E%3C/g%3E%3C/svg%3E");
+  --stud-metal: radial-gradient(circle at 35% 30%, #f8e6ae, #e0b25f 55%, #9c6f2c);
+  --etch: 72px;
+  --etch-glow: drop-shadow(0 1px 0 rgb(0 0 0 / 0.5));
+  --logo-shadow: drop-shadow(0 6px 14px rgb(0 0 0 / 0.55));
 
   /* Ambient glow behind page headers. */
   --glow-brass: rgb(224 178 95 / 0.12);
@@ -97,8 +105,8 @@
   --font-body: "IBM Plex Sans Variable", system-ui, -apple-system, sans-serif;
 
   --text-xs: 12px;
-  /* Seven tab labels have to fit across a phone. */
-  --text-tab: clamp(10px, 2.9vw, 12px);
+  /* Eight tab labels have to fit across a phone. */
+  --text-tab: clamp(10px, 2.6vw, 12px);
   --text-sm: 14px;
   --text-md: 16px;
   --text-lg: 18px;

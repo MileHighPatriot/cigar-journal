@@ -23,7 +23,7 @@ export function LogScores({ id }: { id: string }) {
     return (
       <div className="detail">
         <p className="muted">This log is not in your journal.</p>
-        <Link href="/" className="btn btn-quiet">
+        <Link href="/journal" className="btn btn-quiet">
           Back to journal
         </Link>
       </div>
@@ -50,7 +50,7 @@ export function LogScores({ id }: { id: string }) {
   }
 
   function close() {
-    navigate('/')
+    navigate('/journal')
     showToast({ message: 'Draft kept. Resume it from your journal.' })
   }
 

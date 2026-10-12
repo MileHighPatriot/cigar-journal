@@ -32,7 +32,7 @@ export function LogFinish({ id }: { id: string }) {
     return (
       <div className="detail">
         <p className="muted">This log is not in your journal.</p>
-        <Link href="/" className="btn btn-quiet">
+        <Link href="/journal" className="btn btn-quiet">
           Back to journal
         </Link>
       </div>
