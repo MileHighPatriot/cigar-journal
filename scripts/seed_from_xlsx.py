@@ -17,7 +17,7 @@ P = "http://schemas.openxmlformats.org/package/2006/relationships"
 # Fixed so the phone and the laptop seed identical records and a merge never doubles the catalog.
 NAMESPACE = uuid.UUID("6f1d2c1e-5b0a-4f0e-9a51-c16a47b0a001")
 SEED_TIMESTAMP = "2026-10-10T00:00:00.000Z"
-SEED_VERSION = 4
+SEED_VERSION = 5
 
 WRAPPER_CATEGORIES = {
     "Connecticut", "Candela", "Claro", "Natural/Sun Grown", "Cameroon", "Sumatra", "Corojo",
@@ -269,7 +269,27 @@ def apply_research(cigar, entry, from_sheet):
     return True
 
 
-def main(src, dest, general=None, research_dir=None):
+def apply_flavor_notes(cigars, path):
+    """A second pass that looked only for tasting notes, for cigars whose first research found
+    none. Each entry was fact-checked against the page it cites. It fills an empty list and
+    never replaces notes the cigar already has."""
+    with open(path, encoding="utf-8") as f:
+        notes = {entry["id"]: entry for entry in json.load(f)}
+    filled = 0
+    for cigar in cigars:
+        entry = notes.get(cigar["id"])
+        if entry is None or cigar["flavors"] or cigar["sheetFlavors"]:
+            continue
+        cigar["flavors"] = [clean(w.strip().lower()) for w in entry["flavors"] if w.strip()][:6]
+        for url in entry["sources"]:
+            if url not in cigar["sources"] and len(cigar["sources"]) < 5:
+                cigar["sources"].append(url)
+        cigar["researchNote"] = (cigar["researchNote"] + " " + clean(entry["note"])).strip()
+        filled += 1
+    print("flavor notes: %d entries read, %d cigars filled" % (len(notes), filled))
+
+
+def main(src, dest, general=None, research_dir=None, flavor_notes=None):
     book = load(src)
     cigars = []
 
@@ -388,6 +408,9 @@ def main(src, dest, general=None, research_dir=None):
             previous.setdefault(cigar["id"], {})["brand"] = cigar["brand"]
             cigar["brand"] = fixed
 
+    if flavor_notes:
+        apply_flavor_notes(cigars, flavor_notes)
+
     with open(dest, "w", encoding="utf-8") as f:
         json.dump(
             {"seedVersion": SEED_VERSION, "cigars": cigars, "previous": previous},
@@ -410,4 +433,5 @@ if __name__ == "__main__":
         sys.argv[2],
         sys.argv[3] if len(sys.argv) > 3 else None,
         sys.argv[4] if len(sys.argv) > 4 else None,
+        sys.argv[5] if len(sys.argv) > 5 else None,
     )

@@ -11,6 +11,7 @@ import { cigarSubtitle, cigarTitle, fold } from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
 import { levelLabel } from '../domain/scoring'
 import { closestCigars, searchCigars } from '../domain/search'
+import { cigarFlavorTags } from '../domain/tags'
 
 type Mode = 'quick' | 'full'
 
@@ -56,7 +57,8 @@ export function LogPicker() {
   /** A smoke exists from the moment a cigar is picked, so nothing typed after is lost. */
   function start(cigar: Cigar, lotId: string | null, isNew = false) {
     const draftStep = mode === 'full' ? 'full/prelight' : 'scores'
-    const smoke = newSmoke(cigar.id, { lotId, mode, draftStep })
+    // The cigar's published flavor notes come along, so there is nothing to guess at.
+    const smoke = newSmoke(cigar.id, { lotId, mode, draftStep, quickTags: cigarFlavorTags(cigar) })
     void saveBatch(isNew ? { cigars: [cigar], smokes: [smoke] } : { smokes: [smoke] })
     navigate(logPath(smoke), { replace: true })
   }

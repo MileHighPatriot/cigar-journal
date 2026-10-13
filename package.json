@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit",
     "lint": "biome check .",
     "test": "vitest run",
-    "seed": "/usr/bin/python3 -I scripts/seed_from_xlsx.py seed/stanley-cigar-guide.xlsx src/seed/catalog.json seed/general-cigars.txt seed/research",
+    "seed": "/usr/bin/python3 -I scripts/seed_from_xlsx.py seed/stanley-cigar-guide.xlsx src/seed/catalog.json seed/general-cigars.txt seed/research seed/flavor-notes.json",
     "icons": "pwa-assets-generator"
   },
   "dependencies": {

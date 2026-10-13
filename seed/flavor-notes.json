@@ -1,0 +1,2544 @@
+[
+  {
+    "id": "56154ff9-f586-5714-b37c-a2c22d6a114b",
+    "brand": "5 Vegas",
+    "line": "Triple-A",
+    "flavors": ["espresso", "cocoa", "wood", "pepper", "cedar"],
+    "sourceKind": "review",
+    "sources": ["https://blindmanspuff.com/5-vegas-aaa-special-edition-lancero/"],
+    "note": "Flavor notes are from a published review (blindmanspuff.com). Notes are from a blind panel review of the Special Edition Lancero size of the AAA."
+  },
+  {
+    "id": "4202581f-87f2-507f-be82-97643e0a2779",
+    "brand": "601",
+    "line": "Orange",
+    "flavors": ["earth", "oak", "cedar", "baking spice", "wood", "cream"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-601-orange-toro/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com). Notes are from a review of the 2023 release, which the maker told halfwheel is essentially the same blend as 2016."
+  },
+  {
+    "id": "457bdf4d-020a-541e-9871-7fc866419025",
+    "brand": "601",
+    "line": "Steel",
+    "flavors": ["milk chocolate", "pepper", "wood", "earth", "cream"],
+    "sourceKind": "review",
+    "sources": ["https://cigardojo.com/2015/03/espinosa-601-steel-cigar-review/"],
+    "note": "Flavor notes are from a published review (cigardojo.com)."
+  },
+  {
+    "id": "cf3ffdbd-37a2-5c33-b46c-7c2c1f383d81",
+    "brand": "601",
+    "line": "Yellow",
+    "flavors": ["earth", "mocha", "coffee", "grapefruit", "white pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2024/03/601-yellow-toro-by-espinosa-cigars-2023-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com). Notes are from a review of the 2023 release, which the maker called essentially the same blend as 2016; the review text says white pepper but its summary line says red pepper."
+  },
+  {
+    "id": "453c139a-74b2-5f16-b4d0-5e41df5ade74",
+    "brand": "Acid",
+    "line": "Cold Infusion",
+    "flavors": ["peach cobbler", "pine"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/acid-cold-infusion-tea"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "6fc1fb97-e458-5fdc-9968-c8b34485c723",
+    "brand": "Aganorsa Leaf",
+    "line": "Aniversario Corojo",
+    "flavors": ["natural tobacco", "citrus", "earth", "cedar", "graham cracker", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2022/09/agile-cigar-review-aganorsa-leaf-aniversario-robusto.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "9e5129a7-9f4a-56f0-9182-ce29cc53468c",
+    "brand": "Aganorsa Leaf",
+    "line": "La Validación Connecticut",
+    "flavors": ["spice", "earth", "cream"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/aganorsa-leaf-validacion-connecticut-gran-robusto"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "5944e4f9-1ffd-5362-96eb-dc2fee0ab8e0",
+    "brand": "Aging Room",
+    "line": "Core Connecticut",
+    "flavors": ["nuts", "cream", "coffee", "spice", "cedar"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://neptunecigar.com/cigars/aging-room-core-connecticut-vivase",
+      "https://mikescigars.com/aging-room-core-connecticut-andante"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and mikescigars.com)."
+  },
+  {
+    "id": "16679aa8-3daa-56d7-8c3e-b3bc90a72334",
+    "brand": "Aging Room",
+    "line": "Core Habano",
+    "flavors": ["earth", "cedar", "spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/aging-room-core-habano-rondo",
+      "https://mikescigars.com/brands/aging-room-core-habano"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and mikescigars.com)."
+  },
+  {
+    "id": "9afde6b3-585a-5dc4-ae24-b4d4d3b00483",
+    "brand": "Aging Room",
+    "line": "Core Maduro",
+    "flavors": ["earth", "walnut", "leather", "cedar"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/aging-room-by-rafael-nodal-maduro-rondo/295603"],
+    "note": "Flavor notes are from a published review (halfwheel.com)."
+  },
+  {
+    "id": "3ae56e8d-b946-50c4-b2c7-1f448284afb2",
+    "brand": "Aging Room",
+    "line": "Maduro",
+    "flavors": ["espresso", "pepper", "hazelnut", "sweet"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2013/09/cigar-review-aging-room-maduro.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "7e620f76-a64a-5f2c-aff0-e4497c7aa28a",
+    "brand": "Alec Bradley",
+    "line": "Magic Toast Fifth Anniversary",
+    "flavors": ["pepper", "cream", "earth", "leather", "cedar"],
+    "sourceKind": "review",
+    "sources": [
+      "https://blindmanspuff.com/alec-bradley-magic-toast-5th-anniversary-blind-cigar-review/"
+    ],
+    "note": "Flavor notes are from a published review (blindmanspuff.com). Sources disagreed: Mike's Cigars lists black cherry, peanut, mint and salt for this cigar instead."
+  },
+  {
+    "id": "3d94798a-619e-52ac-92f0-4bfb8fed82fc",
+    "brand": "Alec Bradley",
+    "line": "TAA Exclusive",
+    "flavors": ["cocoa", "cedar", "leather", "earth", "sweet"],
+    "sourceKind": "maker",
+    "sources": ["https://stogiepress.com/cigar-news-alec-bradley-taa-exclusive-hits-the-market/"],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). Wording is from the release announcement as carried by Stogie Press; Neptune's page disagrees, listing wood, spice, chocolate and pepper."
+  },
+  {
+    "id": "5aff510e-0f1e-53f8-a74b-11b8497b453a",
+    "brand": "Altezas Reales 1871",
+    "line": "Altezas Reales 1871",
+    "flavors": ["earth", "nuts", "vanilla", "leather"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/altezas-reales-1871-robusto"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "e1a3b763-9e72-51b8-b05c-3a4c8edd6ca7",
+    "brand": "Apostate",
+    "line": "The Liahona",
+    "flavors": ["cedar", "cream", "earth", "black pepper", "sweet tobacco", "wood"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-apostate-the-liahona/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com)."
+  },
+  {
+    "id": "46896a93-20b9-53ad-94d9-b743b318f8cf",
+    "brand": "Apostate",
+    "line": "The Zarahemla",
+    "flavors": ["cinnamon", "sweet", "spice", "nuts"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-apostate-cigars-the-zarahemla-toro-rated-92/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "542df0cc-c30d-5843-b230-47eb0ec887e9",
+    "brand": "Arturo Fuente",
+    "line": "Destino al Siglo",
+    "flavors": ["cocoa powder", "cashew", "cinnamon", "orange peel", "cappuccino"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/17938/name/arturo-fuente-gran-aniverxario-destino-al-siglo-de-amistad",
+      "https://www.cigaraficionado.com/ratings/17879/name/arturo-fuente-gran-aniverxario-destino-al-siglo-de-familia-toro"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "34073e91-c346-5c5c-846c-6ed7eaddb4cc",
+    "brand": "Arturo Fuente",
+    "line": "Hemingway Sungrown",
+    "flavors": ["cream", "sweet", "cedar"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/arturo-fuente-hemingway-signature-sungrown"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "f59c4402-e710-5d51-9982-92c2f2b20c47",
+    "brand": "Arturo Fuente",
+    "line": "Hemingway Untold Story",
+    "flavors": ["vanilla", "oak", "nutmeg", "caramel", "citrus", "almond"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/24896/name/arturo-fuente-hemingway-untold-story",
+      "https://www.cigaraficionado.com/ratings/21455/name/arturo-fuente-hemingway-untold-story-figurado"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "c66c90a7-0a3f-5574-a080-fcd1a0d454a0",
+    "brand": "Arturo Fuente",
+    "line": "Rare Pink Vintage 1960's Black Pink",
+    "flavors": ["earth", "cocoa", "baking spice", "sweet", "cedar", "coffee"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/arturo-fuente-rare-pink-vs-black-pink-signature-6-46",
+      "https://www.coronacigar.com/brands/arturo-fuente/arturo-fuente-rare-pink/"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and coronacigar.com)."
+  },
+  {
+    "id": "e7e9078c-cf2b-5452-a9d8-50ceffe99327",
+    "brand": "Ashton",
+    "line": "Premium House Selection Natural",
+    "flavors": ["cream", "cedar", "nuts", "spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/ashton-premium-house-selection-natural-toro-6--50"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Neptune shows the same description text on its Natural and Sun Grown pages."
+  },
+  {
+    "id": "8688f5ad-adb1-5b70-8b37-3cad98bffa05",
+    "brand": "Ashton",
+    "line": "Premium House Selection Sun Grown",
+    "flavors": ["cream", "cedar", "nuts", "spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/ashton-premium-house-selection-sun-grown-toro-6--50"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Neptune shows the same description text on its Natural and Sun Grown pages, so these notes may not be specific to the Sun Grown wrapper."
+  },
+  {
+    "id": "e3897e52-e722-5d1f-b9a2-a896a1de045e",
+    "brand": "Asylum",
+    "line": "13 Medulla Maduro",
+    "flavors": ["black pepper", "earth", "espresso", "leather"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/asylum-13-medulla-maduro-770",
+      "https://mikescigars.com/asylum-13-medulla-60x6-gordo-maduro"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and mikescigars.com)."
+  },
+  {
+    "id": "b29bf117-0b8d-5dd9-b87f-0aa5f48b5d54",
+    "brand": "Asylum",
+    "line": "13 Megalophobia",
+    "flavors": ["natural tobacco", "mushroom", "cedar", "wood", "earth", "baking spice"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2026/01/asylum-megalophobia-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "21574759-e83b-5080-8fff-2258425ab407",
+    "brand": "Asylum",
+    "line": "13 Oblongata Maduro",
+    "flavors": ["earth", "espresso", "black pepper", "leather", "cocoa"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://neptunecigar.com/cigars/asylum-13-oblongata-maduro-606",
+      "https://mikescigars.com/asylum-13-oblongata-50x5-robusto-maduro"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and mikescigars.com)."
+  },
+  {
+    "id": "95153516-76d9-5932-90c0-737cc6aeacf9",
+    "brand": "Asylum",
+    "line": "867 Auntie",
+    "flavors": ["maple syrup", "baking spice", "floral", "herbs", "apple", "brandy"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://coronacigar.com/asylum-867-auntie-corona",
+      "https://neptunecigar.com/cigars/asylum-867-auntie-46x5"
+    ],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com and neptunecigar.com). The two retailers describe this flavored cigar differently: Corona Cigar says maple syrup and baking spices, Neptune says floral, herbal, apple and brandy (and calls the wrapper maduro)."
+  },
+  {
+    "id": "5033b7d9-0c39-584c-ba23-9776c90a4cc3",
+    "brand": "Asylum",
+    "line": "867 Zero",
+    "flavors": ["espresso", "dark chocolate", "spice", "cream", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.coronacigar.com/asylum-867-zero-robusto/"],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com)."
+  },
+  {
+    "id": "4e149ebc-80ac-5650-b6b7-a0d88d408de5",
+    "brand": "Asylum",
+    "line": "9",
+    "flavors": ["wood", "pepper", "spice", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://neptunecigar.com/cigars/asylum-nine-limited-edition-11-18"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "fb479c2f-f0b5-5ad8-b088-d532b189191e",
+    "brand": "Asylum",
+    "line": "April Fools'",
+    "flavors": ["pepper", "wood", "sweet", "natural tobacco", "earth", "cedar"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://stogiepress.com/cigar-news-c-l-e-cigar-company-to-unveil-asylum-april-fools-2024-year-of-the-dragon-at-pca/",
+      "https://cigar-coop.com/2023/11/cigar-review-asylum-april-fools-4-1-2023-90-x-9.html"
+    ],
+    "note": "Flavor notes are from the maker's description (stogiepress.com and cigar-coop.com). Maker wording is from the 2024 release press release as reprinted by Stogie Press; the Cigar Coop review is of the 2023 release."
+  },
+  {
+    "id": "017a9985-fa81-5c15-9a80-b746e9da8667",
+    "brand": "Asylum",
+    "line": "Cool Brew",
+    "flavors": ["coffee", "chocolate", "mint", "mocha", "earth", "cream"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.coronacigar.com/asylum-13-cool-brew-toro/",
+      "https://cigar-coop.com/2024/08/asylum-cool-brew-60-x-6-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com and cigar-coop.com)."
+  },
+  {
+    "id": "de82c557-049f-511d-9e6f-cbcee5dc64bd",
+    "brand": "Asylum",
+    "line": "Devil's Night",
+    "flavors": ["spice", "earth"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://neptunecigar.com/cigars/asylum-devils-night-50x6-pack",
+      "https://www.neptunecigar.com/cigars/asylum-devil-s-night-smoke-the-night-away-487"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). The two Neptune pages are for different Devil's Night releases (50x6 and Smoke the Night Away); the maker has not said the blend is the same each year."
+  },
+  {
+    "id": "82bb10f7-b1ae-5980-a604-f277cfc4e5f3",
+    "brand": "Avowed",
+    "line": "The Vow 6.29 Higher Calling",
+    "flavors": ["cream", "baking spice"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://cigardojo.com/2025/05/avowed-cigars-releases-higher-calling-for-fathers-day/",
+      "https://halfwheel.com/avowed-adding-the-vow-higher-calling-later-this-month/451601/"
+    ],
+    "note": "Flavor notes are from the maker's description (cigardojo.com and halfwheel.com). These are the maker's launch claims as reported in Cigar Dojo and halfwheel news, not a maker page or a review; the maker's site lists notes only for the regular Vow 6.29."
+  },
+  {
+    "id": "b61bf98a-74c7-5042-812d-57a8da109f6b",
+    "brand": "Back2Back",
+    "line": "Connecticut",
+    "flavors": ["bread", "butter", "nuts", "cedar", "peanut", "earth"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://thecigarauthority.com/back-2-back-connecticut-5-x-50-cigar-review/",
+      "https://www.coronacigar.com/brands/back2back/back2back-urny-connecticut/"
+    ],
+    "note": "Flavor notes are from a retailer's description (thecigarauthority.com and coronacigar.com)."
+  },
+  {
+    "id": "8fbe2a96-4aad-5755-a4de-c31e550efd4e",
+    "brand": "Back2Back",
+    "line": "Nicaragua",
+    "flavors": ["honey", "chocolate", "coffee", "citrus", "cream"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://stogiepress.com/cigar-review-davidoff-back2back-nicaragua-rated-89/",
+      "https://www.coronacigar.com/brands/back2back/back2back-urny-nicaragua/"
+    ],
+    "note": "Flavor notes are from a retailer's description (stogiepress.com and coronacigar.com)."
+  },
+  {
+    "id": "5b1fee45-a722-5b6c-ae06-2ccf9e8f10fe",
+    "brand": "Bandolero",
+    "line": "Clandestinos",
+    "flavors": ["cedar", "nutmeg", "floral", "brown sugar", "cocoa", "spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.coronacigar.com/brands/bandolero/bandolero-serie-c",
+      "https://www.neptunecigar.com/cigars/bandolero-clandestinos-barbaros"
+    ],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com and neptunecigar.com)."
+  },
+  {
+    "id": "85da66f5-705c-5544-b962-b06cdfa7d2bd",
+    "brand": "Bandolero",
+    "line": "Premium",
+    "flavors": ["earth", "cedar", "natural tobacco", "fruit", "cream", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2025/10/bandolero-premium-bravos-by-selected-tobacco-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com). Sources disagreed: The Cigar Authority's panel review of the same cigar leads with lemon zest, vanilla cream, almond and white pepper."
+  },
+  {
+    "id": "a3f88a3e-70f2-5bde-b0a8-cbd2a298b027",
+    "brand": "Bandolero",
+    "line": "Selección Especial",
+    "flavors": ["spice", "leather", "natural tobacco", "citrus", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2014/06/cigar-review-bandolero-bravos-by.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com). Notes are from a 2014 review of the Bravos size, written when the maker did not disclose the blend."
+  },
+  {
+    "id": "c1f259f8-c4fc-5b74-aae6-f0aedf3ceb05",
+    "brand": "Bandolero",
+    "line": "Traficantes",
+    "flavors": ["oak", "earth", "peppercorn", "leather", "cedar", "cocoa"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.coronacigar.com/brands/bandolero/bandolero-serie-t",
+      "https://www.neptunecigar.com/cigars/bandolero-traficantes-vanidosos"
+    ],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com and neptunecigar.com)."
+  },
+  {
+    "id": "c5dedb42-3cad-5f0f-8e33-0421b63ac377",
+    "brand": "Black Works Studio",
+    "line": "Culture Vulture",
+    "flavors": ["pepper", "caramel", "coffee", "cream", "dark chocolate", "spice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-black-works-studio-culture-vulture-robusto-rated-95/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "281b7feb-2d1f-5b8d-8155-f850188d3adf",
+    "brand": "Black Works Studio",
+    "line": "Killer Bee Buzz Saw",
+    "flavors": ["coffee", "cream", "fruit", "earth", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2025/03/black-works-studio-killer-bee-buzz-saw-agile-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "9bb8f4d8-282a-5d26-9c7d-077ce30ee854",
+    "brand": "Black Works Studio",
+    "line": "Sindustry",
+    "flavors": ["chocolate malt", "earth", "cedar", "red pepper", "sweet"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2017/10/cigar-review-black-works-studio-sindustry-toro.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "34dc28f8-f23b-5f09-966c-76408a1e0da1",
+    "brand": "Blackbird",
+    "line": "GLITCH Claro",
+    "flavors": ["fruit", "pepper", "leather", "grapefruit"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-blackbird-cigar-co-glitch-claro-robusto-rated-89/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "c85427f9-6286-5139-af7d-7fbeb7521907",
+    "brand": "Blackbird",
+    "line": "Hawk",
+    "flavors": ["spice", "earth", "cream", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/blackbird-hawk-cubra-gran-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "b77030ea-75ad-5533-a9a3-2f13840df983",
+    "brand": "Blackbird",
+    "line": "Meadowlark",
+    "flavors": ["wood", "cocoa", "espresso", "spice", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/blackbird-meadowlark-toro-6--52"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "b16f0d67-d6e7-566d-b5d3-4bce14059315",
+    "brand": "Blackbird",
+    "line": "Unkind",
+    "flavors": ["chocolate", "caramel", "sweet", "spice"],
+    "sourceKind": "review",
+    "sources": ["https://stogiepress.com/cigar-review-blackbird-unkind-cubra-robusto-rated-90/"],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "1d004e09-7998-5ecc-8f0a-e710851f8a05",
+    "brand": "Blanco",
+    "line": "Prince Hall Maduro",
+    "flavors": ["leather", "wood", "earth", "floral", "spice"],
+    "sourceKind": "maker",
+    "sources": ["https://stogiepress.com/cigar-news-blanco-cigars-announces-prince-hall-cigars/"],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). Blend description from Blanco's launch announcement as carried by Stogie Press."
+  },
+  {
+    "id": "311c14b4-2a56-5df4-b60a-204e624f8203",
+    "brand": "Blanco",
+    "line": "Prince Hall Rosado",
+    "flavors": ["oak", "leather", "caramel", "floral", "sweet", "cream"],
+    "sourceKind": "maker",
+    "sources": ["https://stogiepress.com/cigar-news-blanco-cigars-announces-prince-hall-cigars/"],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). Blend description from Blanco's launch announcement as carried by Stogie Press."
+  },
+  {
+    "id": "538e2bad-5a69-50ca-9faf-7b78d613018a",
+    "brand": "Bohekio",
+    "line": "Colors by Bohekio",
+    "flavors": ["nuts", "toast", "earth", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/bohekio-colors-robusto"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "a3bc8921-f1ff-5791-a47e-e0c899b42d66",
+    "brand": "Bolivar",
+    "line": "Aniversario",
+    "flavors": ["earth", "coffee", "leather", "pepper", "sweet"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://mikescigars.com/bolivar-aniversario-toro",
+      "https://stogiepress.com/cigar_review/cigar-review-bolivar-aniversario-toro-rated-93/"
+    ],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com and stogiepress.com). Kept to the flavors that both the retailer and the Stogie Press review name."
+  },
+  {
+    "id": "f6bc1b6e-773c-5d68-a9b1-fe09fb3c07fc",
+    "brand": "Bolivar",
+    "line": "Cofradia Lost & Found EMS",
+    "flavors": ["pepper", "earth", "sweet"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://cigardojo.com/2022/02/caldwell-cigars-stg-uncover-bolivar-cofradia-for-lost-found/",
+      "https://halfwheel.com/bolivar-cofradia-lost-found-ems-toro/407892/"
+    ],
+    "note": "Flavor notes are from the maker's description (cigardojo.com and halfwheel.com). Maker's description is from the launch announcement as carried by Cigar Dojo."
+  },
+  {
+    "id": "6012345f-bf53-526d-be0f-d55e0c7b3d17",
+    "brand": "Bolivar",
+    "line": "Cofradia Lost & Found Oscuro",
+    "flavors": ["pepper", "earth", "spice", "mocha", "coffee"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://cigardojo.com/2022/02/caldwell-cigars-stg-uncover-bolivar-cofradia-for-lost-found/",
+      "https://cigar-coop.com/2022/10/cigar-review-bolivar-cofradia-lost-found-oscuro-robusto.html"
+    ],
+    "note": "Flavor notes are from the maker's description (cigardojo.com and cigar-coop.com). Maker's description is from the launch announcement as carried by Cigar Dojo; mocha and coffee come from the Cigar Coop review."
+  },
+  {
+    "id": "e6209657-4857-52bd-ae3d-869a1523c033",
+    "brand": "Buffalo Trace",
+    "line": "Buffalo Trace",
+    "flavors": ["coffee", "leather", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigardojo.com/2021/11/buffalo-trace-toro/",
+      "https://blindmanspuff.com/buffalo-trace-toro-blind-cigar-review/"
+    ],
+    "note": "Flavor notes are from a published review (cigardojo.com and blindmanspuff.com). Sources disagreed: Mike's Cigars lists vanilla, cedar, cashews and spice, while both reviews lean on pepper and leather."
+  },
+  {
+    "id": "89c60bb2-adff-50ca-9ab7-0e489a24138f",
+    "brand": "Byron",
+    "line": "19th Century",
+    "flavors": ["cedar", "molasses", "coffee", "pecan"],
+    "sourceKind": "review",
+    "sources": [
+      "https://thecigarauthority.com/review-byron-poemas/",
+      "https://thecigarauthority.com/cigar-review-byron-xix-grand-poemas/"
+    ],
+    "note": "Flavor notes are from a published review (thecigarauthority.com). The Cigar Authority's Poemas review labels the cigar Siglo XX in its spec line, though Poemas is a 19th Century size and the review calls it that."
+  },
+  {
+    "id": "dd4e5018-38db-59e1-93eb-7aa52ce80aab",
+    "brand": "Byron",
+    "line": "20th Century",
+    "flavors": ["cedar", "sweet", "butter", "cashew", "vanilla"],
+    "sourceKind": "review",
+    "sources": [
+      "https://thecigarauthority.com/byron-habaneros-cigar-review/",
+      "https://thecigarauthority.com/cigar-review-byron-londinenses/"
+    ],
+    "note": "Flavor notes are from a published review (thecigarauthority.com)."
+  },
+  {
+    "id": "3253da0e-1885-5e63-a534-ae8faf5321e6",
+    "brand": "Byron",
+    "line": "21st Century",
+    "flavors": ["cedar", "nougat", "fruit", "black pepper", "honey", "graham cracker"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2018/01/cigar-review-byron-siglo-xxi-elegantes-by-selected-tobacco.html",
+      "https://thecigarauthority.com/byron-elegantes-cigar-review/"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com and thecigarauthority.com)."
+  },
+  {
+    "id": "b438c412-4af8-5e47-a989-dfffa4969f13",
+    "brand": "Caldwell",
+    "line": "Blind Man's Bluff Nicaragua",
+    "flavors": ["cedar", "leather", "cream", "nuts", "pepper", "spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/caldwell-blind-mans-bluff-nicaragua-robusto",
+      "https://halfwheel.com/blind-mans-bluff-nicaragua-robusto/403226/"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and halfwheel.com)."
+  },
+  {
+    "id": "46bade3b-d957-55ba-a1a6-8fc49effba58",
+    "brand": "Caldwell",
+    "line": "Long Live the Queen Forbidden Fruit Claro",
+    "flavors": ["cream", "hay", "cedar", "sweet", "white pepper", "toasted bread"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/caldwell-long-live-the-queen-forbidden-fruit-claro-6--60"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "066bb490-cbb9-5b72-9d25-9cf7feefdb1a",
+    "brand": "Caldwell",
+    "line": "Lost & Found Backalley Bambi",
+    "flavors": ["espresso", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.famous-smoke.com/brand-lost-and-found-backalley-bambi-san-andres"],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "f3d2e924-6067-5ca8-b7a4-c509fe49138b",
+    "brand": "Caldwell",
+    "line": "Lost & Found Backstage Bambi",
+    "flavors": ["earth", "espresso", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.famous-smoke.com/brand-lost-and-found-backstage-bambi-negrito"],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "75f189b2-5dcd-5d53-b352-d71edf7c5001",
+    "brand": "Caldwell",
+    "line": "Lost & Found Backstroke Bambi",
+    "flavors": ["cedar", "baking spice", "citrus", "spice", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.famous-smoke.com/brand-lost-and-found-backstroke-bambi-corojo"],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "4c3e9bf4-2889-53d4-892b-782cbfdba5f7",
+    "brand": "Caldwell",
+    "line": "Lost & Found Give A F*ck",
+    "flavors": ["cedar", "earth", "roasted nuts", "baking spice", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/lost-and-founds-give-a-fck-2026-5--50"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). The retailer page is its 2026 listing, but the text describes the 2025 release, and halfwheel reports the 2026 cigar appears unchanged."
+  },
+  {
+    "id": "5a861706-7b88-5bba-817d-732c33828653",
+    "brand": "Caldwell",
+    "line": "Lost&Found 22 Minutes to Midnight Habano de Oro",
+    "flavors": ["toasted bread", "sage", "white pepper", "buttered nuts", "nutmeg", "ginger snap"],
+    "sourceKind": "review",
+    "sources": ["https://cigardojo.com/2022/11/22-minutes-to-midnight-habano-de-oro-toro/"],
+    "note": "Flavor notes are from a published review (cigardojo.com)."
+  },
+  {
+    "id": "0bbdbe72-65fc-51d6-8c6c-987aea997f03",
+    "brand": "Caldwell",
+    "line": "Yellow Cake",
+    "flavors": ["cedar", "roasted nuts", "baking spice", "black pepper", "sweet", "earth"],
+    "sourceKind": "retailer",
+    "sources": ["https://atlanticcigar.com/caldwell-yellow-cake-habano-robusto-5x50/"],
+    "note": "Flavor notes are from a retailer's description (atlanticcigar.com). Notes are for the Habano version; the Maduro is a different blend."
+  },
+  {
+    "id": "00b15014-6ac9-5c72-9998-6cdd65026892",
+    "brand": "CAO",
+    "line": "60 Torque",
+    "flavors": ["spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://atlanticcigar.com/cao-60-torque-8x60/"],
+    "note": "Flavor notes are from a retailer's description (atlanticcigar.com)."
+  },
+  {
+    "id": "e49c947a-f4b9-5ad7-bf63-0a136bc625d0",
+    "brand": "Casa 1910",
+    "line": "Soldadera Edition La Coronela",
+    "flavors": ["earth", "fruit", "caramel", "wood", "cedar"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2023/12/casa-1910-la-coronela-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "392441e9-74ca-5595-90ca-3c9246f8a8b4",
+    "brand": "Casa Cuevas",
+    "line": "La Mandarria",
+    "flavors": ["bread", "baking spice", "cherry", "pepper", "cedar", "wood"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2019/08/cigar-review-casa-cuevas-la-mandarria.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "25d402a1-ca53-581c-9c7a-6c29f9cf5959",
+    "brand": "Casa de Garcia",
+    "line": "Centenario Gold Label",
+    "flavors": ["cream", "baking spice", "coffee", "earth", "nuts"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/casa-de-garcia-centenario-gold-label-toro",
+      "https://mikescigars.com/casa-de-garcia-centenario-gold-label-toro"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and mikescigars.com)."
+  },
+  {
+    "id": "166639d6-df7a-5392-ad67-ee1568e3e5c6",
+    "brand": "Casa de Garcia",
+    "line": "Centenario Red Label",
+    "flavors": ["sweet spice", "earth", "coffee"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/casa-de-garcia-centenario-red-label-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). The Mike's Cigars text calls the wrapper Sumatran while its own spec table says Ecuador Habano."
+  },
+  {
+    "id": "01675606-a297-5f5a-85c4-9ba8337d903f",
+    "brand": "Casa de Garcia",
+    "line": "Connecticut Blend",
+    "flavors": ["sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/casa-de-garcia-connecticut-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "3082eddd-e0ce-592b-b89c-25245bac18ec",
+    "brand": "Casa Turrent",
+    "line": "1880 Maduro",
+    "flavors": ["licorice", "wood", "dark toast", "almond", "cashew", "peanut"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/22232/name/casa-turrent-1880-maduro-doble-robusto-toro"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com). The maker's page repeats its Colorado description under the Maduro heading, so the Cigar Aficionado review was used instead."
+  },
+  {
+    "id": "4bf4281c-5a23-5c61-8800-7eca9dba028b",
+    "brand": "Cavalier Genève",
+    "line": "Project Broadleaf Cowrider",
+    "flavors": ["mineral", "cocoa", "earth", "espresso", "dark fruit", "pepper"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://atlanticcigar.com/cavalier-geneve-project-broadleaf-cowrider-toro-extra-6-1-2x50/"
+    ],
+    "note": "Flavor notes are from a retailer's description (atlanticcigar.com)."
+  },
+  {
+    "id": "efb7e64a-7ddc-59bc-a068-6238be2e6135",
+    "brand": "Cavalier Genève",
+    "line": "Prospektor",
+    "flavors": ["coffee", "cedar", "earth", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2023/10/cigar-review-cavalier-geneve-prospektor-toro.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com). Notes are from a review of the 6 x 54 regular production blend; the 2025 Supremo release is a different blend."
+  },
+  {
+    "id": "edf37c6a-d955-5ab0-a0e1-35810974dd0c",
+    "brand": "Cavalier Genève",
+    "line": "The Green Jacket",
+    "flavors": ["sweet", "floral", "cream", "cedar", "toasted nuts", "earth"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/cavalier-geneve-the-green-jacket-2026-7--47"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Notes are from the 2026 release; the blend changes each year."
+  },
+  {
+    "id": "d108fb3d-b7eb-5b2e-9922-814344f35281",
+    "brand": "Cavalier Genève",
+    "line": "Tres Delincuentes Connecticut",
+    "flavors": ["dried fruit", "vanilla", "cream", "spice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-cavalier-geneve-tre-delincuentes-connecticut-toro/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "0178bea5-7e0e-53d6-b7e3-d044f3c47ec9",
+    "brand": "Cavalier Genève",
+    "line": "Tres Delincuentes Maduro",
+    "flavors": ["fruit", "earth", "cocoa", "pepper", "dark chocolate", "citrus"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-cavalier-geneve-tre-delincuentes-maduro-toro-rated-92/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "f0107192-f4c9-518d-a165-3dd81d7e312c",
+    "brand": "ChiMolly",
+    "line": "Dynasty",
+    "flavors": ["wood", "earth", "cream", "natural tobacco", "black pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2025/08/chimolly-dynasty-robusto-extra-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "8b5afda2-85ec-5a91-929e-9639c0672f0f",
+    "brand": "ChiMolly",
+    "line": "Fox y ChiMolly",
+    "flavors": ["hawthorn", "toasted nuts", "red dates", "rice cream"],
+    "sourceKind": "retailer",
+    "sources": ["https://foxcigar.com/shop/cigars/fox-y-chimolly-robusto-e/"],
+    "note": "Flavor notes are from a retailer's description (foxcigar.com)."
+  },
+  {
+    "id": "74b08792-3702-5c32-afda-40b8a07cc6cf",
+    "brand": "ChiMolly",
+    "line": "Pioneer Series",
+    "flavors": ["coffee", "wood", "cedar", "cocoa", "earth", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2025/10/chimolly-pioneer-robusto-extra-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "e815a97b-79d3-5a33-bcb6-3bbd9264a9e6",
+    "brand": "Cohiba",
+    "line": "C8",
+    "flavors": ["cedar", "cocoa", "spice", "espresso", "earth", "floral"],
+    "sourceKind": "retailer",
+    "sources": ["https://mikescigars.com/cohiba-c8"],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com). Notes are for the 2025 release; the 2021 original was a different blend."
+  },
+  {
+    "id": "cb5dd891-4467-5795-927f-d7ad0e9b31ab",
+    "brand": "Cohiba",
+    "line": "Serie M Reserva Azul",
+    "flavors": ["cinnamon", "cedar", "cream", "white pepper", "earth"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://mikescigars.com/cohiba-serie-m-reserva-azul-toro",
+      "https://www.neptunecigar.com/cigars/cohiba-serie-m-reserva-azul-toro-6--52"
+    ],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com and neptunecigar.com). Sources disagreed: Cigar Coop's review names natural tobacco, earth, citrus, wood and pepper instead."
+  },
+  {
+    "id": "aad02652-6510-585a-8561-c3749f0cd5d8",
+    "brand": "Conspiracy",
+    "line": "Connecticut",
+    "flavors": ["cream", "cedar", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/conspiracy-connecticut-toro-6--52"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "c63aeb72-ab15-595e-a484-1bb6134a91ea",
+    "brand": "Conspiracy",
+    "line": "Maduro",
+    "flavors": ["dark chocolate", "espresso", "black pepper"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/conspiracy-maduro-toro-6--52"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "d84e9852-c737-5baa-9e10-7e9b540c2574",
+    "brand": "Crowned Heads",
+    "line": "Four Kicks Mule Kick Limited Edition",
+    "flavors": ["vanilla", "caramel", "pepper", "leather", "earth"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/crowned-heads-four-kicks-mule-kick-le-2025"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Notes are for the 2025 edition, the Connecticut Broadleaf blend; other years use different blends."
+  },
+  {
+    "id": "d15702a5-0e4d-5fd9-b46a-004371b643e0",
+    "brand": "Crowned Heads",
+    "line": "Moose Kick",
+    "flavors": ["sweet tobacco", "wood", "spice", "chocolate"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-crowned-heads-moose-kick-limited-edition-2024/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com). Review is of the 2024 edition; halfwheel reports the 2025 edition keeps the same blend in a different size."
+  },
+  {
+    "id": "4421d649-96df-5086-a601-3ebfd93a7a9d",
+    "brand": "Crowned Heads",
+    "line": "TAA Exclusive",
+    "flavors": ["cream", "dark chocolate", "toasted nuts"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://stogiepress.com/cigar-news-crowned-heads-announces-taa-exclusive-2025-cigar/"
+    ],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). Maker's notes for the 2025 edition (Ecuadorian habano, made in Nicaragua), as relayed by Stogie Press; the 2024 edition was a different blend."
+  },
+  {
+    "id": "48d217d9-3178-5471-9e6d-4b7e5926033e",
+    "brand": "Cumpay",
+    "line": "Maduro",
+    "flavors": ["pepper", "spice", "earth", "coffee", "cocoa", "leather"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/cumpay-robusto-maduro",
+      "https://www.neptunecigar.com/cigars/cumpay-volcan-maduro"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Neptune describes the two sizes differently; the list combines the Robusto and Volcan notes."
+  },
+  {
+    "id": "7b605e46-8051-5f64-bb58-bf4fe754df9d",
+    "brand": "Curivari",
+    "line": "Buenaventura Limited Edition 2021",
+    "flavors": ["cedar", "black pepper", "earth", "cocoa", "coffee", "licorice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-buenaventura-bv554-limited-edition-2021/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com). Review covers the BV554 size only."
+  },
+  {
+    "id": "55cb8b52-ea08-5c51-acbb-7b1b75ce8af3",
+    "brand": "Diesel",
+    "line": "Sunday Gravy Gabagool",
+    "flavors": ["pepper", "wood", "spice"],
+    "sourceKind": "maker",
+    "sources": ["https://stogiepress.com/cigar-news-diesel-releases-sunday-gravy-gabagool/"],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). Maker's launch description as carried in the Stogie Press news post."
+  },
+  {
+    "id": "f508959a-3f85-571d-8bcb-76604bbf51ae",
+    "brand": "Diesel",
+    "line": "Sunday Gravy Grappa",
+    "flavors": ["earth", "spice", "coffee", "cocoa"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/diesel-sunday-gravy-grappa"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "ed349e14-0402-5e6a-9e0d-9ff627d1c040",
+    "brand": "Diesel",
+    "line": "Sunday Gravy Pecorino",
+    "flavors": ["earth", "spice", "wood", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/diesel-sunday-gravy-pecorino"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "a07dd3b8-0bb1-5ae7-8fc2-c9d4b4e1e65a",
+    "brand": "Diesel",
+    "line": "Sunday Gravy Porcellino",
+    "flavors": ["pepper", "earth", "leather"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://stogiepress.com/cigar-news-the-end-of-diesel-sunday-gravy-introducing-porcellino/",
+      "https://neptunecigar.com/cigars/diesel-sunday-gravy-porcellino"
+    ],
+    "note": "Flavor notes are from the maker's description (stogiepress.com and neptunecigar.com)."
+  },
+  {
+    "id": "d7ff4ee4-8b01-56ff-af05-f71820b3d438",
+    "brand": "Dissident",
+    "line": "HOME",
+    "flavors": ["coffee", "licorice", "earth", "cedar", "chocolate", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2021/01/cigar-review-dissident-home-2020.html",
+      "https://blindmanspuff.com/blind-cigar-review-dissident-home-2019/"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com and blindmanspuff.com). Notes are from the 2020 and 2019 releases of the barber pole blend; the 2015 original was a different Honduran blend and was not used."
+  },
+  {
+    "id": "26c8210b-41aa-5d88-a3e7-94ac8b2b48d6",
+    "brand": "Dissident",
+    "line": "Soapbox",
+    "flavors": ["spice", "sweet", "earth", "coffee", "pepper"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/dissident-soap-box-robusto"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Notes are for the current Sumatra-wrapped blend; reviews of the 2013 original blend were not used."
+  },
+  {
+    "id": "db1a5695-9016-5b44-b673-c1d0d33a7ff8",
+    "brand": "Don Lino",
+    "line": "Maduro",
+    "flavors": ["chocolate", "pepper", "nuts", "spice", "cinnamon"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/don-lino-maduro-toro",
+      "https://halfwheel.com/don-lino-maduro-toro/402398/"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and halfwheel.com)."
+  },
+  {
+    "id": "06929e4d-2226-57e2-a3d3-e123c7240ab8",
+    "brand": "Don Pepin Garcia",
+    "line": "15th Anniversary",
+    "flavors": ["chocolate", "cedar", "anise", "coffee", "peppercorn"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigardojo.com/2018/08/don-pepin-garcia-15th-anniversary-limited-edition-robusto/"
+    ],
+    "note": "Flavor notes are from a published review (cigardojo.com)."
+  },
+  {
+    "id": "cf1a3f45-bdfb-53f4-b88b-964f2700d023",
+    "brand": "Drew Estate",
+    "line": "Deadwood The Girl With No Name",
+    "flavors": ["coffee", "cream", "wood", "pepper", "sweet"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2025/06/deadwood-tobacco-co-the-girl-with-no-name-lonsdale-by-drew-estate-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com). Notes are from a review of the Lonsdale; other sizes use different wrappers."
+  },
+  {
+    "id": "3b51f757-e7bc-5e6c-948e-0b3915c4a525",
+    "brand": "Drew Estate",
+    "line": "Herrera Estelí Connecticut Broadleaf Lancero",
+    "flavors": ["meaty", "incense", "salt", "dark toast", "marzipan", "cedar"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/22515/name/herrera-esteli-connecticut-broadleaf-tienda-exclusiva-lancero-panetela"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "784e097d-0c09-5fe8-bbcd-c3c7c5f49d12",
+    "brand": "Drew Estate",
+    "line": "Herrera Estelí Tienda Exclusiva Vintage Cigar Lounge",
+    "flavors": ["pepper", "earth", "sweet"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://drewestate.prezly.com/drew-estate-introduces-herrera-esteli-tienda-exclusiva-for-vintage-cigar-lounge"
+    ],
+    "note": "Flavor notes are from the maker's description (drewestate.prezly.com)."
+  },
+  {
+    "id": "f9943912-96da-5a90-8aa9-3b9db4ac1314",
+    "brand": "Drew Estate",
+    "line": "Liga Privada Único Serie Dirty Rat",
+    "flavors": ["spice", "earth", "dark chocolate", "cedar", "cream", "cinnamon"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/liga-privada-dirty-rat-redux-review/9678/"],
+    "note": "Flavor notes are from a published review (halfwheel.com)."
+  },
+  {
+    "id": "4a98a9f7-7bfe-5b28-a834-65442d4ddaf5",
+    "brand": "Drew Estate",
+    "line": "Liga Privada Único Serie Feral Flying Pig",
+    "flavors": ["espresso", "dark chocolate", "leather", "cedar", "sweet"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/liga-privada-feral-flying-pig-prerelease-review/21671/"],
+    "note": "Flavor notes are from a published review (halfwheel.com). Notes are from halfwheel's 2011 prerelease review."
+  },
+  {
+    "id": "e192de93-366e-566a-be44-07f81188e859",
+    "brand": "Dunbarton",
+    "line": "Red Meat Lovers Fritanga",
+    "flavors": ["mocha", "coffee", "chocolate", "stone fruit", "white pepper", "cream"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2026/05/red-meat-lovers-fritanga-by-dunbarton-tobacco-trust-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "1c0c3525-b11e-5c9d-b708-e1cc74685888",
+    "brand": "Dunbarton",
+    "line": "StillWell Star Aromatic Dulce Claro",
+    "flavors": ["honey", "toasted grain", "floral"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.coronacigar.com/stillwell-star-aromatic-dulce-claro-toro/"],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com)."
+  },
+  {
+    "id": "485dfb82-7ef2-50df-ac37-13ef195b301e",
+    "brand": "Dunbarton",
+    "line": "StillWell Star Aromatic Dulce Maduro",
+    "flavors": ["sweet", "cocoa", "campfire", "earth", "vanilla"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.coronacigar.com/stillwell-star-aromatic-dulce-dark-toro/"],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com). The retailer sells this cigar as Aromatic Dulce Dark."
+  },
+  {
+    "id": "1fa246a7-6a0a-5793-87e3-aad48dc9e2de",
+    "brand": "Dunbarton",
+    "line": "StillWell Star English Dulce Maduro",
+    "flavors": ["smoke", "earth", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.coronacigar.com/stillwell-star-english-dulce-toro/"],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com)."
+  },
+  {
+    "id": "9361bea0-e6bc-5d5b-8ac7-da01f7fc3641",
+    "brand": "Dunbarton",
+    "line": "StillWell Star Navy No. 1056",
+    "flavors": ["wood", "oak", "baking spice", "pipe tobacco"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-dunbarton-tobacco-trust-stillwell-star-navy-no-1056/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com). Team review; the four reviewers named different flavors."
+  },
+  {
+    "id": "e7a2301e-752a-5d5e-860b-a5670bced1c2",
+    "brand": "El Mago",
+    "line": "Jaguar",
+    "flavors": ["sweet wood", "roasted nuts", "mineral", "earth", "sweet", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-jaguar-6x50/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "a955f8e7-0dcd-52d1-bd95-fb534cf6a432",
+    "brand": "El Mago",
+    "line": "Místico",
+    "flavors": ["red pepper", "toasted cedar", "nutmeg", "cinnamon", "brown sugar"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-mistico-5x50/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "257f64e6-379f-510e-a111-8a344075c281",
+    "brand": "El Mago",
+    "line": "The Defender",
+    "flavors": ["earth", "spice", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-defender-cameroon-toro-6-5x52/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "c48062c5-2954-5557-b3e2-8704e671bb17",
+    "brand": "El Mago",
+    "line": "The James Avenue Connecticut",
+    "flavors": ["cedar", "toasted bread", "pepper", "earth"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-james-avenue-connecticut-toro-6x54/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "266309e4-88ff-5e6c-833d-7c162fc412e5",
+    "brand": "El Mago",
+    "line": "The James Avenue Habano",
+    "flavors": ["cedar", "black pepper", "leather", "roasted nuts", "dark fruit"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-james-avenue-habano-toro-6x54/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "6a2e4242-a75e-5664-aec8-a368ea26cfe8",
+    "brand": "El Mago",
+    "line": "The James Avenue Maduro",
+    "flavors": ["dark cocoa", "espresso", "leather", "sweet", "pepper"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-james-avenue-maduro-toro-6x54/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "9988cea3-9bf8-5465-a3e3-0ef30679a95e",
+    "brand": "El Mago",
+    "line": "The James Avenue Sumatra",
+    "flavors": ["cedar", "dried fruit", "nuts", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-james-avenue-sumatra-toro-6x54/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "d1473bfc-2df8-5558-bcc4-1b9bb8061d71",
+    "brand": "El Mago",
+    "line": "The Offender",
+    "flavors": ["spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://cigarsdaily.com/product/el-mago-offender-sumatra-toro-6-5x52/"],
+    "note": "Flavor notes are from a retailer's description (cigarsdaily.com)."
+  },
+  {
+    "id": "2ccd3f92-6945-5599-ae03-0a98d15f902b",
+    "brand": "Emperors Cut",
+    "line": "Jazz Series",
+    "flavors": ["pepper", "sweet tobacco", "cinnamon"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar-review-emperors-cut-cigars-jazz-series-trane-rated-96/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "c9505df9-1de0-50c9-921c-9608525666e1",
+    "brand": "Emperors Cut",
+    "line": "Red Tail Series 332nd",
+    "flavors": ["cream", "pepper", "fruit", "earth"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-emperors-cut-red-tail-332nd-torpedo-rated-90/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "102b7b10-34a3-543b-90a4-4e379b56e6f5",
+    "brand": "Emperors Cut",
+    "line": "Red Tail Series Hellfighter",
+    "flavors": ["pepper", "fruit", "caramel", "earth", "spice", "cinnamon"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-emperors-cut-cigars-red-tail-series-hellfighter-box-pressed-torpedo-rated-93/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "b7afedb5-5c1b-54ab-8bce-69de85780963",
+    "brand": "EP Carrillo",
+    "line": "Pledge Purple",
+    "flavors": ["coffee", "earth", "mineral", "dark chocolate", "pepper", "licorice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2026/09/perez-carrillo-pledge-purple-toro-by-casa-carrillo-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "91870ef9-384d-5d93-aea9-2f54456fd112",
+    "brand": "Espinosa",
+    "line": "Knuckle Sandwich Puro Nicaragua",
+    "flavors": ["coffee", "natural tobacco", "cedar", "earth", "red pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2026/03/knuckle-sandwich-puro-nicaragua-toro-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "2ba3ef25-43b7-5459-8b58-a747ce254db9",
+    "brand": "Espinosa",
+    "line": "La Zona Factory Selects",
+    "flavors": ["sweet tobacco", "pepper", "citrus", "cedar", "earth"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.famous-smoke.com/la-zona-factory-selects-by-espinosa-burl-cigars-natural",
+      "https://www.famous-smoke.com/la-zona-factory-selects-by-espinosa-boss-cigars-natural"
+    ],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "8de63702-b5e6-5382-af0d-2cef64750835",
+    "brand": "Espinosa",
+    "line": "Laranja Hybrid",
+    "flavors": ["black pepper", "cedar", "cinnamon", "earth", "brown sugar", "citrus"],
+    "sourceKind": "review",
+    "sources": ["https://cigardojo.com/2026/09/espinosa-laranja-reserva-hybrid-toro/"],
+    "note": "Flavor notes are from a published review (cigardojo.com)."
+  },
+  {
+    "id": "1183b9a2-3057-5366-8b51-c956e986c33a",
+    "brand": "Espinosa",
+    "line": "Las 6 Provincias MIA",
+    "flavors": ["pepper", "sweet", "earth", "fruit", "caramel"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-espinosa-las-6-provincias-mia-rated-93/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "90445e37-16be-5071-92d6-ce59161bdce2",
+    "brand": "Espinosa",
+    "line": "Murcielago de Oro",
+    "flavors": ["malt", "white pepper", "butterscotch", "black tea"],
+    "sourceKind": "review",
+    "sources": ["https://cigardojo.com/2024/01/no-10-cigar-of-the-year-2023/"],
+    "note": "Flavor notes are from a published review (cigardojo.com)."
+  },
+  {
+    "id": "6edaf790-c8bd-513f-bc49-d369abe739a2",
+    "brand": "Espinosa",
+    "line": "Reggae",
+    "flavors": ["earth", "mineral", "pepper", "fruit", "baking spice", "cream"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2018/11/cigar-review-espinosa-reggae-toro.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "00ed457f-9cfe-597e-b14a-5d70a009d5ad",
+    "brand": "Esteban Carreras",
+    "line": "10 Year",
+    "flavors": ["sweet", "cocoa"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigar/esteban-carreras-10-anos-maduro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "cd491b23-ba48-5794-907f-1443516e9c0e",
+    "brand": "Esteban Carreras",
+    "line": "Taken From The Dictator's Hand",
+    "flavors": ["earth", "wood", "pepper", "mushroom", "cream"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/esteban-carreras-taken-from-the-devils-hand-sixty/415428/"],
+    "note": "Flavor notes are from a published review (halfwheel.com). Both reviews were published under the cigar's earlier name, Taken From The Devil's Hand."
+  },
+  {
+    "id": "6f659b98-dcfb-544f-a738-cfbc915c7b3d",
+    "brand": "Fable",
+    "line": "Fourth Prime",
+    "flavors": ["chocolate", "pepper", "earth", "coffee"],
+    "sourceKind": "review",
+    "sources": [
+      "https://halfwheel.com/fable-fourth-prime-machu/145973/",
+      "https://blindmanspuff.com/blind-cigar-review-fable-fourth-prime-doc/"
+    ],
+    "note": "Flavor notes are from a published review (halfwheel.com and blindmanspuff.com). Reviews are from 2016 and 2017, before the 2025 factory move; halfwheel reports the blend is the same on paper."
+  },
+  {
+    "id": "5c3afcb1-5dd3-5630-890f-43b19867eeca",
+    "brand": "Fable",
+    "line": "Two Things",
+    "flavors": ["earth", "cedar", "baking spice", "leather", "cream"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-fable-two-things/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com)."
+  },
+  {
+    "id": "9d2be880-ec89-5a00-8385-321c2c84ad44",
+    "brand": "Foundation",
+    "line": "Aksum Maduro",
+    "flavors": ["black pepper", "cedar", "earth", "cracker", "fruit"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-foundation-metapa-maduro-robusto/",
+      "https://stogiepress.com/cigar_review/cigar-review-foundation-cigars-metapa-maduro-robusto-rated-93/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com and stogiepress.com). Both reviews were published under the original name, Metapa Maduro; halfwheel reports the blend did not change with the rename."
+  },
+  {
+    "id": "0c70bb96-4b98-5d99-935d-6ae676f51c82",
+    "brand": "Foundation",
+    "line": "Charter Oak Pasquale",
+    "flavors": ["mocha", "coffee", "earth", "fruit", "cream", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2024/12/charter-oak-pasquale-by-foundation-cigar-company-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "df04c548-1894-58e6-9f72-be4a5eb0a5e3",
+    "brand": "Foundation",
+    "line": "Primer Fábrica 1810",
+    "flavors": ["mocha", "coffee", "chocolate", "earth", "citrus", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2026/06/primer-fabrica-1810-perfecto-by-foundation-cigar-company-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "373257f3-4043-50a7-a3be-d819715caec6",
+    "brand": "Fratello",
+    "line": "Concealed Carry Detroit River",
+    "flavors": ["sweet", "floral", "dark fruit", "toffee"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://stogiepress.com/cigar-news-fratello-cigars-announces-concealed-carry-program-the-detroit-river/"
+    ],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). The notes are Fratello's press release wording, as carried by Stogie Press."
+  },
+  {
+    "id": "c612aadb-4556-5dee-bbff-a9714c943900",
+    "brand": "Fratello",
+    "line": "The Lunar Connecticut",
+    "flavors": ["cocoa", "earth", "cedar", "cream", "pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2024/07/fratello-the-lunar-connecticut-toro-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "e69c14b0-9fd9-50ce-badd-1f8e42f7bae5",
+    "brand": "Fratello",
+    "line": "The Texan",
+    "flavors": ["cedar", "nuts", "earth", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2020/07/cigar-review-fratello-the-texan.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "4fda7ba3-8a04-5097-ab28-566dbaa7ee40",
+    "brand": "Gran Habano",
+    "line": "Gran Reserva #3 2008",
+    "flavors": ["white pepper", "floral", "wood"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/15725/name/gran-habano-gran-reserva-2008-churchill-churchill"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "516aa94c-e066-5186-8a61-7f0a407b3e6c",
+    "brand": "Gran Habano",
+    "line": "S.T.K. Zulu Zulu Mas Paz",
+    "flavors": ["pepper", "cream", "wood"],
+    "sourceKind": "review",
+    "sources": [
+      "https://blindmanspuff.com/blind-cigar-review-george-rico-s-t-k-miami-zulu-zulu-mas-paz-edition-habano-2/",
+      "https://blindmanspuff.com/blind-cigar-review-george-rico-s-t-k-miami-zulu-zulu-mas-paz-edition-connecticut/"
+    ],
+    "note": "Flavor notes are from a published review (blindmanspuff.com). The two wrapper versions taste different; these are the flavors named in reviews of both the Habano and the Connecticut."
+  },
+  {
+    "id": "109e6eed-a9de-50c4-bf2b-449f9cbefa37",
+    "brand": "Gurkha",
+    "line": "Cellar Reserve 15 Year",
+    "flavors": ["citrus", "chocolate", "nuts", "cedar"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://mikescigars.com/brands/gurkha-cellar-reserve-15-year",
+      "https://cigar-coop.com/2011/11/cigar-review-gurkha-cellar-reserve-2.html"
+    ],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com and cigar-coop.com)."
+  },
+  {
+    "id": "6fd251da-2f72-5826-94e7-c0f835d3496c",
+    "brand": "Gurkha",
+    "line": "Cellar Reserve Limitada 15 Year Maduro",
+    "flavors": ["cedar", "leather", "cream", "raisin", "oak", "chocolate"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://mikescigars.com/brands/gurkha-cellar-reserve-limitada",
+      "https://cigar-coop.com/2014/01/cigar-review-gurkha-cellar-reserve.html"
+    ],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com and cigar-coop.com). Sources disagreed: the retailer lists cedar, leather, cream, raisin and oak, while the Cigar Coop review leans on chocolate, pepper and earth."
+  },
+  {
+    "id": "5c551a34-0bd9-5547-8373-a8cb378ca9f7",
+    "brand": "Gurkha",
+    "line": "Cellar Reserve Platinum Edition 12 Year",
+    "flavors": ["natural tobacco", "chocolate", "cedar", "red pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2015/12/cigar-review-gurkha-cellar-reserve-platinum-edition-hedonism.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "c67be9f5-9537-59b1-b897-2fa1431ca45d",
+    "brand": "Gurkha",
+    "line": "Dragonfly",
+    "flavors": ["cocoa", "leather", "spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigar/gurkha-dragonfly",
+      "https://mikescigars.com/gurkha-dragonfly-toro-tubo"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and mikescigars.com)."
+  },
+  {
+    "id": "0b566ef3-1514-50c1-9ec4-cb10fa5ba52d",
+    "brand": "Gurkha",
+    "line": "Fat Boy",
+    "flavors": ["coffee", "cocoa", "leather", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/gurkha-fat-boy-6--66"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "3cd00536-bdd5-5257-8096-99bfa89cdc2f",
+    "brand": "Gurkha",
+    "line": "Maharaja",
+    "flavors": ["sweet"],
+    "sourceKind": "maker",
+    "sources": ["https://gurkhacigars.com/cigar-collections/ultra-premium/maharaja/"],
+    "note": "Flavor notes are from the maker's description (gurkhacigars.com)."
+  },
+  {
+    "id": "514a0fa3-8e2d-513a-a617-9840cf699e11",
+    "brand": "Gurkha",
+    "line": "Revenant Corojo",
+    "flavors": ["coffee", "spice", "pepper", "earth"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/gurkha-revenant-corojo-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "44e10ec3-b95e-5a8e-a35f-11fdfb5de1b0",
+    "brand": "Gurkha",
+    "line": "Revenant Maduro",
+    "flavors": ["spice", "sweet", "cream"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/gurkha-revenant-maduro-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "1047c1d1-b032-52ac-bd61-5b7ea27760be",
+    "brand": "Gurkha",
+    "line": "Tres Decadas by Gurkha",
+    "flavors": ["earth", "cedar", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/gurkha-tres-decadas-toro-6--50"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "a0ee5efe-0125-585d-bc47-0419712d80cd",
+    "brand": "Gurkha",
+    "line": "Triad Platinum",
+    "flavors": ["coffee", "floral"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/gurkha-triad-platinum/17698/"],
+    "note": "Flavor notes are from a published review (halfwheel.com). Halfwheel smoked one cigar and found these flavors faint behind a dominant sour note."
+  },
+  {
+    "id": "5afa6e1c-4173-5f2d-a635-6ba510eca278",
+    "brand": "Gurkha",
+    "line": "V by Oscar Valladares",
+    "flavors": ["cedar", "leather", "chocolate", "nuts", "pepper"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/gurkha-v-by-oscar-valladares-taa-2024-exclusive"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "82809992-dca9-5638-a2ab-0054665163ba",
+    "brand": "Gurkha",
+    "line": "Year of Snake",
+    "flavors": ["spice", "sweet"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/gurkha-year-of-the-snake-2025-by-ep-carrillo-61-2--52",
+      "https://www.neptunecigar.com/cigars/gurkha-year-of-the-snake-2025-by-oliva-65-8--52"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Three different blends share this name; only the notes Neptune gives for all three (Carrillo, Oliva, Valladares) are recorded."
+  },
+  {
+    "id": "e9f3c5f6-2344-5edc-86ef-e087c689a805",
+    "brand": "H. Upmann",
+    "line": "1844 Añejo",
+    "flavors": ["wood", "leather", "citrus"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/h-upmann-1844-anejo-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "f5feec09-c40e-59cd-92af-fb74f464e4ce",
+    "brand": "H. Upmann",
+    "line": "1844 Reserve",
+    "flavors": ["coffee", "tobacco", "cream"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/h-upmann-1844-reserve-churchill"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "9abf31c7-6604-5d49-a07b-b62e8d169016",
+    "brand": "Henry Clay",
+    "line": "Henry Clay",
+    "flavors": ["cream", "coffee", "sweet", "barnyard"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/henry-clay-maduro-brevas"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "66d91e60-8e3b-52c4-9dfe-5a3d272b8e0e",
+    "brand": "Hermanos de Armas",
+    "line": "Veiled Mutiny",
+    "flavors": ["sweet"],
+    "sourceKind": "maker",
+    "sources": ["https://hdacigars.com/hda-cigars-our-cigars/"],
+    "note": "Flavor notes are from the maker's description (hdacigars.com)."
+  },
+  {
+    "id": "97491fed-0b71-57dd-a0b3-62abead04aca",
+    "brand": "Hiram & Solomon",
+    "line": "Fraternal Flame",
+    "flavors": ["white pepper", "floral", "fruit", "cream", "sweet", "spice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-hiram-solomon-cigars-fraternal-flame-toro-rated-92/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "1d5b1a1e-df9c-5935-9bb2-087c80205000",
+    "brand": "Hiram & Solomon",
+    "line": "Live2Serve",
+    "flavors": ["black pepper", "cinnamon", "chocolate", "grilled meat"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar-review-hiram-solomon-cigars-for-warriors-live2serve-rated-94/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "407a9834-6516-5946-95a2-8a54e6930477",
+    "brand": "Hiram & Solomon",
+    "line": "Revival",
+    "flavors": ["citrus", "cedar", "baking spice", "leather", "cream", "butter"],
+    "sourceKind": "review",
+    "sources": ["https://blindmanspuff.com/hiram-solomon-revival-toro-blind-cigar-review/"],
+    "note": "Flavor notes are from a published review (blindmanspuff.com). Sources disagreed: the Stogie Press review calls the same cigar floral and fruity with pepper and chocolate."
+  },
+  {
+    "id": "6083c35f-1e13-5209-8c5b-8f1e4d13a4e1",
+    "brand": "Hiram & Solomon",
+    "line": "The Patriot",
+    "flavors": ["fruit", "spice", "caramel", "honey"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-hiram-solomon-the-patriot-toro-rated-97/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "8bc4e19e-94c9-5c9b-a4f9-f6a79f97bf7b",
+    "brand": "HVC",
+    "line": "Pan Caliente Cuban Sandwich",
+    "flavors": ["spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/hvc-pan-caliente-cuban-sandwich-connecticut-robusto"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "803a9c43-bd07-518b-86ef-1c7854fa259f",
+    "brand": "Illusione",
+    "line": "Singularé",
+    "flavors": ["nuts", "star anise", "pencil shavings", "cream", "butter", "dough"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/24678/name/illusione-singulare-origen-corona-gorda-toro",
+      "https://cigardojo.com/2023/05/illusione-singulare-origen-robusto/"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com and cigardojo.com). Notes are for Singularé Origen, the current regular blend; the earlier yearly Singularé releases were different blends."
+  },
+  {
+    "id": "ccde9507-2b1c-5447-ba3c-a31261e89769",
+    "brand": "J. London",
+    "line": "Teal Telephone Booth",
+    "flavors": ["oak", "earth", "leather", "cocoa", "spice", "wood"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-j-london-telephone-booth-series-teal/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com)."
+  },
+  {
+    "id": "c549497e-5609-5dd0-9eb3-7b74455ec0e8",
+    "brand": "J.C. Newman",
+    "line": "Alcazar",
+    "flavors": ["leather", "pepper", "earth"],
+    "sourceKind": "retailer",
+    "sources": ["https://mikescigars.com/alcazar-5-torpedo"],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com)."
+  },
+  {
+    "id": "5eb15cab-025d-5539-929e-6ac121863b1d",
+    "brand": "J.C. Newman",
+    "line": "Don Jose Maduro",
+    "flavors": ["cream", "coffee"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/don-jose-maduro-cigar"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "bb17e27d-c7e3-55bb-a83c-a35406908be2",
+    "brand": "J.C. Newman",
+    "line": "Jose Gaspar",
+    "flavors": ["charred meat", "cedar", "toasted bread", "fudge", "red pepper", "coffee"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/jose-gaspar-2026/463007/"],
+    "note": "Flavor notes are from a published review (halfwheel.com). Notes are from halfwheel's review of the 2026 release, which matches the maker's current page; the blend has changed between years."
+  },
+  {
+    "id": "fa8b1012-d1cf-5548-bb85-0694f98aa27b",
+    "brand": "J.C. Newman",
+    "line": "Quorum Shade",
+    "flavors": ["cedar", "coffee", "nuts", "white pepper", "butter"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.holts.com/cigars/all-cigar-brands/quorum-shade.html"],
+    "note": "Flavor notes are from a retailer's description (holts.com)."
+  },
+  {
+    "id": "cb3ffbf6-a3fc-52b4-8f1d-e71107f0e01a",
+    "brand": "Joya de Nicaragua",
+    "line": "Antaño Gran Reserva",
+    "flavors": ["pepper", "earth", "cream", "sweet"],
+    "sourceKind": "review",
+    "sources": [
+      "https://halfwheel.com/joya-de-nicaragua-antano-gran-reserva-robusto-grande/179597/"
+    ],
+    "note": "Flavor notes are from a published review (halfwheel.com)."
+  },
+  {
+    "id": "9752fd3d-0905-5e45-97a2-c5a3e3d7920c",
+    "brand": "Joya de Nicaragua",
+    "line": "Joya Copper",
+    "flavors": ["natural tobacco", "brown sugar", "wood", "earth", "pepper", "lemon"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2020/05/cigar-review-joya-copper-toro-by-joya-de-nicaragua.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "22074fc1-9fcd-5013-b043-e72f5219399c",
+    "brand": "JRE",
+    "line": "Gorbusto by Aladino Gori",
+    "flavors": ["mocha", "coffee", "chocolate", "earth", "cedar", "pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2026/10/gorbusto-by-aladino-gori-jre-tobacco-co-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "876fd869-5919-5e39-ad00-a08b968854a2",
+    "brand": "JRE",
+    "line": "Tatascan Connecticut",
+    "flavors": ["sweet cream", "vanilla", "graham cracker", "sweet", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://blindmanspuff.com/blind-cigar-review-tatascan-connecticut-robusto/"],
+    "note": "Flavor notes are from a published review (blindmanspuff.com)."
+  },
+  {
+    "id": "25ec6adf-ebe3-5d10-9d7e-8274ba146832",
+    "brand": "Kafie 1901",
+    "line": "Liga de la Casa Sweet Tip",
+    "flavors": ["sweet"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://boutiquesmoke.com/products/liga-de-la-casa-sweet-tip-coffee-pairing-habano-edition-1",
+      "https://boutiquesmoke.com/products/liga-de-la-casa-sweet-tip-coffee-pairing-maduro-edition-1"
+    ],
+    "note": "Flavor notes are from the maker's description (boutiquesmoke.com). The maker's other notes differ by wrapper (Connecticut: cedar, nuts; Habano Natural: cedar, spice, earth; Maduro: cocoa, molasses, spice), so only the shared sweet tip is recorded."
+  },
+  {
+    "id": "8d69ea81-b59e-599d-97fe-a6bfa96ab4c6",
+    "brand": "Kafie 1901",
+    "line": "Serie L Natural",
+    "flavors": ["wood", "leather", "almond", "honey", "floral", "cocoa"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://stogiepress.com/cigar-news-kafie-1901-cigars-announces-new-serie-l-natural-and-rebrands-core-lines/"
+    ],
+    "note": "Flavor notes are from the maker's description (stogiepress.com)."
+  },
+  {
+    "id": "24e9a122-ef4a-53e6-bbdc-12d2ca3b2766",
+    "brand": "La Aurora",
+    "line": "Cazadores Claro",
+    "flavors": ["cedar", "cream", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigar/la-aurora-cazadores-claro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "0a6e1bb9-1851-5614-a52d-a0bbcf98e812",
+    "brand": "La Flor Dominicana",
+    "line": "Double Claro",
+    "flavors": ["hay", "cedar", "earth", "black pepper", "cream"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-la-flor-dominicana-double-claro-no-50/",
+      "https://halfwheel.com/la-flor-dominicana-double-claro-no-42/24424/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com and halfwheel.com)."
+  },
+  {
+    "id": "e825efb8-faa5-52c9-9412-93417a069a41",
+    "brand": "Latitude Zero",
+    "line": "Latitude Zero",
+    "flavors": ["coffee", "black pepper", "cedar", "earth", "leather"],
+    "sourceKind": "review",
+    "sources": ["https://blindmanspuff.com/blind-cigar-review-latitude-zero-robusto/"],
+    "note": "Flavor notes are from a published review (blindmanspuff.com)."
+  },
+  {
+    "id": "bbd49c06-1f31-5928-b72d-6191b1c0fd6e",
+    "brand": "Luciano",
+    "line": "Fiat Lux Limited Edition Tenebrus",
+    "flavors": ["coffee", "chocolate", "dark fruit", "black pepper", "earth"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2025/03/fiat-lux-tenebrus-limited-edition-by-luciano-cigars-no-1-cigar-review.html",
+      "https://cigar-coop.com/2025/12/2025-cigar-of-the-year-countdown-coops-list-22-fiat-lux-tenebrus-limited-edition-by-luciano-cigars.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "e97629ee-224c-5430-925d-aef1c9cc1c1b",
+    "brand": "Luciano",
+    "line": "Mas Igneus",
+    "flavors": ["dark chocolate", "oak", "black pepper", "earth", "baking spice"],
+    "sourceKind": "maker",
+    "sources": ["https://blindmanspuff.com/luciano-mas-igneus-short-robusto-blind-cigar-review/"],
+    "note": "Flavor notes are from the maker's description (blindmanspuff.com). The maker's description is quoted on the review page; black pepper, earth and baking spice come from the reviewers."
+  },
+  {
+    "id": "03d4dc20-4002-5750-8e74-119038996c0d",
+    "brand": "Luciano",
+    "line": "Tiago Clasico Maduro",
+    "flavors": ["cream", "fruit", "spice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-pichardo-maduro-6-5-x-50-box-press-rated-90/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com). The review is of the cigar under its former name, Pichardo Maduro; the maker said the blends did not change in the rebrand."
+  },
+  {
+    "id": "675e186d-6028-5caa-a631-9812d5ef2153",
+    "brand": "Luciano",
+    "line": "Tiago Clasico Natural",
+    "flavors": ["cedar", "cream", "leather", "red pepper", "baking spice", "peanut"],
+    "sourceKind": "review",
+    "sources": ["https://blindmanspuff.com/ace-prime-pichardo-clasico-natural-blind-cigar-review/"],
+    "note": "Flavor notes are from a published review (blindmanspuff.com). The review is of the cigar under its former name, Pichardo Clasico Natural; the maker said the blends did not change in the rebrand."
+  },
+  {
+    "id": "78d576eb-6742-5519-84aa-f1274b7fa13d",
+    "brand": "Luciano",
+    "line": "Y Panda Domino",
+    "flavors": ["cedar", "earth", "cream", "hay", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-y-panda-domino/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com)."
+  },
+  {
+    "id": "58ab444c-1a5b-572e-b1cc-772144a6920a",
+    "brand": "MBombay",
+    "line": "MQBA Mayura",
+    "flavors": ["earth", "coffee", "orange", "cedar", "pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2025/09/mqba-mayura-robusto-by-mbombay-cigars-cigar-review.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "d875115b-0942-56d1-8191-0e59809e6c6a",
+    "brand": "Micallef",
+    "line": "Leyenda",
+    "flavors": ["cedar", "coffee", "earth", "nuts"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/micallef-gomez-sanchez-leyenda-no1"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "53050d6d-60ff-5079-b29c-08515787ed4c",
+    "brand": "Micallef",
+    "line": "Red",
+    "flavors": ["coffee", "cocoa", "natural tobacco", "cedar", "earth", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2025/03/micallef-red-toro-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "eaf34db5-6ab3-5077-9de7-21299b4b19c4",
+    "brand": "Micallef",
+    "line": "White",
+    "flavors": ["cedar", "cream", "earth", "chestnut"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2026/08/micallef-white-robusto-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "bf8567c5-3949-55eb-ba21-70f2120ec085",
+    "brand": "Montecristo",
+    "line": "x Bardstown",
+    "flavors": ["natural tobacco", "wood", "hay", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2026/06/montecristo-bardstown-toro-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "de4cb2dc-bb42-51f4-be66-fa7476beaf88",
+    "brand": "MUWAT",
+    "line": "Bait Fish",
+    "flavors": ["leather", "cocoa", "pepper", "coffee"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2012/01/cigar-review-my-uzi-weighs-ton-muwa.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "04ba3b3c-7eae-5203-8925-00afb76b3e26",
+    "brand": "MUWAT",
+    "line": "My Uzi Weighs a Ton",
+    "flavors": ["earth", "sweet"],
+    "sourceKind": "maker",
+    "sources": ["https://stogiepress.com/uzi-weighs-ton/"],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). The quote is Jonathan Drew's own description as reprinted by Stogie Press; reviews disagreed on spice, so it was left out."
+  },
+  {
+    "id": "7f05a820-af1e-5391-a8dd-ae6f32e1c0ce",
+    "brand": "National Brand",
+    "line": "Cuban Seed Maduro",
+    "flavors": ["sweet", "wood"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.famous-smoke.com/brand-national-brand-maduro"],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "b2e1ed36-6725-5e45-9c3f-f3f6e94950b9",
+    "brand": "Oliva",
+    "line": "Gilberto Oliva Reserva Blanc",
+    "flavors": ["oak", "nougat", "hay", "peanut", "leather", "citrus"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/oliva-gilberto-reserva-blanc-corona/175550/"],
+    "note": "Flavor notes are from a published review (halfwheel.com)."
+  },
+  {
+    "id": "8b49030c-13a2-5707-9416-013f2107d564",
+    "brand": "Oliva",
+    "line": "Master Blends 3 Maduro",
+    "flavors": ["spice", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://atlanticcigar.com/oliva-master-blend-3-maduro-double-robusto/"],
+    "note": "Flavor notes are from a retailer's description (atlanticcigar.com)."
+  },
+  {
+    "id": "acb986b3-ba6a-502a-bb9f-f1f6f1baf103",
+    "brand": "Oliva",
+    "line": "Serie V Melanio Edición Año",
+    "flavors": ["wood", "cream", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/oliva-serie-v-melanio-edicion-ano-2022/423875/"],
+    "note": "Flavor notes are from a published review (halfwheel.com). Notes are from a review of the 2022 edition."
+  },
+  {
+    "id": "fd95c154-9b90-5763-82b6-de06a9a63e79",
+    "brand": "Oliveros",
+    "line": "Gran Retorno Connecticut",
+    "flavors": ["citrus", "cream", "earth", "cedar", "black pepper", "nuts"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2021/03/cigar-review-oliveros-gran-retorno-connecticut-swing-2020-by-boutique-blends-cigars.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "c078f68c-37d8-5e5f-a0f3-eb41eea46acc",
+    "brand": "Oscar Valladares",
+    "line": "Island Jim No. 2",
+    "flavors": ["chocolate", "spice", "leather", "nuts", "cream", "cedar"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.coronacigar.com/island-jim-by-oscar-2-torpedo-natural/",
+      "https://stogiepress.com/island-jim-2-cigar-review/"
+    ],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com and stogiepress.com). Corona Cigar uses this same description on both its Natural and Maduro listings of the No. 2."
+  },
+  {
+    "id": "3f352e41-7103-50da-abf1-dcbcc1369651",
+    "brand": "Padron",
+    "line": "Ruby Red Exclusive Edition",
+    "flavors": ["chocolate", "leather", "cherry", "caramel", "pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://thecigarauthority.com/padron-ruby-red-exclusive-edition-maduro-cigar-review-by-dave/"
+    ],
+    "note": "Flavor notes are from a published review (thecigarauthority.com). Notes are from a review of the Maduro version, written by the owner of the shop the cigar was made for; the release also comes in Natural."
+  },
+  {
+    "id": "610a1995-313e-5a6e-9524-23578bf46023",
+    "brand": "Partagas",
+    "line": "Serie D No. 4",
+    "flavors": ["leather", "earth", "wood", "floral", "roasted nuts", "honey"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/25108/name/partagas-serie-d-no-4",
+      "https://www.cigaraficionado.com/ratings/25996/name/partagas-serie-d-no-4"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "77b93193-8a44-5e1d-8e02-4ad0f84bd95f",
+    "brand": "PDR",
+    "line": "El Vinyet",
+    "flavors": ["cinnamon", "white pepper", "toast", "umami"],
+    "sourceKind": "review",
+    "sources": ["https://thecigarauthority.com/pdr-el-vinyet-robusto-clasico/"],
+    "note": "Flavor notes are from a published review (thecigarauthority.com)."
+  },
+  {
+    "id": "529e5b2c-83ae-58b0-b0ef-4b93a5116b35",
+    "brand": "PDR",
+    "line": "Jose Rey Maduro",
+    "flavors": ["wood", "leather", "caramel"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.famous-smoke.com/pdr-jose-rey-maduro-robusto-cigars-maduro"],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "02d62efe-2c0a-5ce7-ba2c-972b0e2c34ac",
+    "brand": "PDR",
+    "line": "Jose Rey Sumatra",
+    "flavors": ["cedar", "baking spice", "floral"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.famous-smoke.com/pdr-jose-rey-sumatra-robusto-cigars-natural"],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "a1dbc1e8-cc16-55b7-bb9a-cabf09580582",
+    "brand": "Perdomo",
+    "line": "Inmenso Seventy",
+    "flavors": ["cedar", "earth"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://perdomocigars.com/inmenso-seventy",
+      "https://cigar-coop.com/2022/04/cigar-review-perdomo-inmenso-seventy-maduro-epicure.html"
+    ],
+    "note": "Flavor notes are from the maker's description (perdomocigars.com and cigar-coop.com). Only flavors found for both versions are listed: Perdomo's notes for the Sun Grown and a Cigar Coop review of the Maduro (Perdomo's own Maduro notes are oak and espresso)."
+  },
+  {
+    "id": "ad70ddbd-7ddc-5933-b92a-31feb40a0801",
+    "brand": "Perdomo",
+    "line": "Legacy Father & Son Connecticut",
+    "flavors": ["cream"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.coronacigar.com/perdomo-legacy-father-son-connecticut-gran-figurado/"],
+    "note": "Flavor notes are from a retailer's description (coronacigar.com)."
+  },
+  {
+    "id": "4ef285c0-aabc-5235-a5f4-fa88e40fccaa",
+    "brand": "Perdomo",
+    "line": "Special Craft Series Stout",
+    "flavors": ["chocolate", "raisin"],
+    "sourceKind": "review",
+    "sources": ["https://thecigarauthority.com/perdomo-special-craft-series-stout/"],
+    "note": "Flavor notes are from a published review (thecigarauthority.com)."
+  },
+  {
+    "id": "5c31cd7f-548d-56cc-81fa-1adf22ff60ad",
+    "brand": "Pier 28",
+    "line": "Connecticut",
+    "flavors": ["sweet"],
+    "sourceKind": "maker",
+    "sources": ["https://halfwheel.com/pier-28-connecticut-coming-to-ipcpr-2019/361649/"],
+    "note": "Flavor notes are from the maker's description (halfwheel.com). The quote is brand owner Tim Wong's description as reported by halfwheel."
+  },
+  {
+    "id": "fbb98ae4-dde7-50b0-8b2a-444ec81104b3",
+    "brand": "Plasencia",
+    "line": "Cosecha 146",
+    "flavors": ["cedar", "earth", "cocoa", "herbs"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2018/01/cigar-review-plasencia-cosecha-146-san-agustin.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "53cc9785-2f54-5a13-acd3-c748d5a10d31",
+    "brand": "Plasencia",
+    "line": "Year of the Dragon",
+    "flavors": ["pepper", "earth"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://stogiepress.com/cigar-news-plasencia-cigars-announces-release-of-limited-edition-the-year-of-the-dragon/"
+    ],
+    "note": "Flavor notes are from the maker's description (stogiepress.com). The quote is Plasencia's press release text as carried by Stogie Press."
+  },
+  {
+    "id": "72cb7d37-c850-52af-9cb4-239083666cee",
+    "brand": "Punch",
+    "line": "The People's Champ",
+    "flavors": ["wood", "spice", "brown sugar", "baking spice", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://blindmanspuff.com/punch-the-peoples-champ-blind-cigar-review/"],
+    "note": "Flavor notes are from a published review (blindmanspuff.com)."
+  },
+  {
+    "id": "71811524-5e7e-53a2-b1df-9ae16ddec310",
+    "brand": "Quesada",
+    "line": "Oktoberfest",
+    "flavors": ["oak", "anise", "charred meat", "black pepper", "earth"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/quesada-oktoberfest-2022-the-bavarian/416185/"],
+    "note": "Flavor notes are from a published review (halfwheel.com). Notes are from halfwheel's review of the 2022 Bavarian; halfwheel reports Oktoberfest has used this same San Andres blend every year from 2021 through 2026."
+  },
+  {
+    "id": "6556c600-646a-50fc-9e79-396e5bf7b238",
+    "brand": "Ramon Allones",
+    "line": "Absolutos",
+    "flavors": ["floral", "oak", "chocolate", "malt"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/26473/name/ramon-allones-absolutos-edicion-limitada-2024-toro"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "c060cbe4-b609-57b6-be0a-6fe0081d3898",
+    "brand": "Ramon Allones",
+    "line": "Gigantes",
+    "flavors": ["graham cracker", "baking spice", "honey", "wood", "almond", "gingerbread"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/26039/name/ramon-allones-gigantes-double-corona"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "1e8833a9-4e5e-5148-8fa0-5a68ba98ba3c",
+    "brand": "Ramon Allones",
+    "line": "Perfecto",
+    "flavors": ["caramel", "toffee", "leather", "nuts", "earth", "spice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/23014/name/ramon-allones-perfectos-exclusivo-mexico-figurado"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "fd1c53a5-5d10-50d1-b80b-52e2b2a9088c",
+    "brand": "Ramon Allones",
+    "line": "Small Club Coronas",
+    "flavors": ["earth", "floral", "spice", "leather", "nuts", "marzipan"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/26121/name/ramon-allones-small-club-corona-petit-corona",
+      "https://www.cigaraficionado.com/ratings/24279/name/ramon-allones-small-club-corona-petit-corona"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "8be6144d-b483-558a-b9cd-a196add2de03",
+    "brand": "Recluse",
+    "line": "Amadeus Connecticut",
+    "flavors": ["toasted nut", "cream", "cedar", "pepper", "citrus"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2014/10/assessment-update-recluse-amadeus-toro.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "86245e35-077c-539c-b597-cc719c2885aa",
+    "brand": "Recluse",
+    "line": "Amadeus Habano Reserva",
+    "flavors": ["nuts", "cedar", "caramel", "cherry", "spice"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2015/08/cigar-review-recluse-amadeus-habano-reserva-toro.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "239a531f-0b87-5041-a432-3e2590e44f13",
+    "brand": "Rocky Patel",
+    "line": "Freedom Connecticut",
+    "flavors": ["almond", "cedar", "spice", "cocoa"],
+    "sourceKind": "retailer",
+    "sources": ["https://mikescigars.com/rocky-patel-freedom-connecticut-toro"],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com)."
+  },
+  {
+    "id": "b6715b0f-2d52-5243-995e-12fa8e2887c5",
+    "brand": "Rojas",
+    "line": "Street Tacos Barbacoa",
+    "flavors": ["dry wood", "meaty", "spice", "white pepper"],
+    "sourceKind": "review",
+    "sources": ["https://halfwheel.com/rojas-street-tacos-barbacoa-robusto/394161/"],
+    "note": "Flavor notes are from a published review (halfwheel.com)."
+  },
+  {
+    "id": "57a8036b-6460-522b-9fb0-ad28b1ffacfe",
+    "brand": "Rojas",
+    "line": "Unfinished Business",
+    "flavors": ["dark cocoa", "almond", "spice", "dark chocolate"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-rojas-cigars-unfinished-business-corona-gorda-rated-93/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com). Sources disagreed: a Blind Man's Puff panel review leaned toward cedar, citrus, leather and coffee instead."
+  },
+  {
+    "id": "e1c6b34c-bf4d-562b-b95c-266173770d63",
+    "brand": "Romeo Y Julieta",
+    "line": "Eternal",
+    "flavors": ["natural tobacco", "wood", "cedar", "earth", "pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2021/12/cigar-review-romeo-y-julieta-eternal-by-altadis-usa.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "b867959e-b0ea-5a3e-a416-6333a5454746",
+    "brand": "Room 101",
+    "line": "Daruma",
+    "flavors": ["coffee", "wood", "cedar", "earth", "chocolate", "pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2023/11/cigar-review-room101-daruma-2023.html",
+      "https://blindmanspuff.com/room101-daruma-2023-blind-cigar-review/"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com and blindmanspuff.com)."
+  },
+  {
+    "id": "8ab000fb-f8ec-500e-a1f8-9b33d9ec5f19",
+    "brand": "Saga",
+    "line": "Blend No. 7",
+    "flavors": ["cedar", "cream", "hickory", "natural tobacco", "coffee"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2015/09/cigar-news-saga-blend-no-7-perfecto.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com). Notes are from a 2015 review of the original Brazilian Cubra blend; the line was reblended with an Ecuadorian Habano wrapper in 2024."
+  },
+  {
+    "id": "4ccd80f3-ce6f-557e-87c5-58316fdff7d2",
+    "brand": "Saint Luis Rey",
+    "line": "Reserva Especial",
+    "flavors": ["chocolate", "leather", "cardamom", "vanilla"],
+    "sourceKind": "review",
+    "sources": [
+      "https://www.cigaraficionado.com/ratings/10947/name/saint-luis-rey-reserva-especial-belicoso"
+    ],
+    "note": "Flavor notes are from a published review (cigaraficionado.com)."
+  },
+  {
+    "id": "d70feba8-fb79-5839-8aae-fe7116c009c1",
+    "brand": "Saint Luis Rey",
+    "line": "Serie G Maduro",
+    "flavors": ["coffee", "chocolate", "leather", "earth", "spice"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.holts.com/cigars/all-cigar-brands/saint-luis-rey-serie-g.html"],
+    "note": "Flavor notes are from a retailer's description (holts.com). Holt's gives one shared flavor profile for the Serie G and the Serie G Maduro."
+  },
+  {
+    "id": "39b6d59f-1cc4-5b63-b514-b33caaffa525",
+    "brand": "Sancho Panza",
+    "line": "TAA Exclusive",
+    "flavors": ["earth", "wood", "spice", "coffee"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/sancho-panza-taa-exclusive-2023"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "74e7472a-3cb2-5b0b-b684-03e82b405fb4",
+    "brand": "Smoking Jacket",
+    "line": "Classic",
+    "flavors": ["sweet", "spice"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/smoking-jacket--classic-favoritos",
+      "https://www.neptunecigar.com/cigars/smoking-jacket-classic-robusto-imperial"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com). Each size is its own blend: these notes are shared by the Favoritos and Robusto Imperial, while Neptune describes the Toro Magno as dark cocoa and nutty."
+  },
+  {
+    "id": "1be32789-dea9-5d01-a0cf-df0e5252e7c1",
+    "brand": "Smoking Jacket",
+    "line": "Henkie",
+    "flavors": ["cream", "spice", "earth", "coffee", "bread", "hay"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/smoking-jacket-la-familia-henkie",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-smoking-jacket-henkie/"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and developingpalates.com)."
+  },
+  {
+    "id": "735296d2-1ca6-5bb1-ad74-5a45f068209f",
+    "brand": "Southern Draw",
+    "line": "Jacobs Ladder The Ascension",
+    "flavors": ["coffee", "earth", "cedar", "fruit", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2022/09/cigar-review-southern-draw-jacobs-ladder-ascension-belicoso-fino.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "369909f2-51a6-558a-a276-a6e0b16b0bde",
+    "brand": "Stolen Throne",
+    "line": "Brawler",
+    "flavors": ["sweet", "spice", "savory"],
+    "sourceKind": "maker",
+    "sources": ["https://stolenthronecigars.com/limited-cigars/"],
+    "note": "Flavor notes are from the maker's description (stolenthronecigars.com)."
+  },
+  {
+    "id": "40508113-75b5-5caa-866f-980daaa0218d",
+    "brand": "Tatuaje",
+    "line": "Negociant",
+    "flavors": ["cedar", "cream", "citrus", "black pepper"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigar/tatuaje-negociant",
+      "https://cigar-coop.com/2017/04/cigar-review-negociant-monopole-no-2.html"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and cigar-coop.com)."
+  },
+  {
+    "id": "90c6b14d-91c3-5518-8e24-a9bb4ebe7334",
+    "brand": "Tatuaje",
+    "line": "Series P",
+    "flavors": ["earth", "coffee", "leather", "caramel", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.famous-smoke.com/brand/tatuaje-series-p-cigars"],
+    "note": "Flavor notes are from a retailer's description (famous-smoke.com)."
+  },
+  {
+    "id": "e9169d11-f565-5fc6-8bba-e09dc14c7f96",
+    "brand": "Te-Amo",
+    "line": "Revolution",
+    "flavors": ["natural tobacco", "coffee", "pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2012/10/cigar-review-te-amo-revolution-by.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "d2e1783e-671c-5e1a-aeca-fc22d605c595",
+    "brand": "Toraño",
+    "line": "Reserva Decadencia",
+    "flavors": ["cocoa", "cream", "red fruit", "vanilla"],
+    "sourceKind": "retailer",
+    "sources": ["https://mikescigars.com/torano-reserva-decadencia-robusto"],
+    "note": "Flavor notes are from a retailer's description (mikescigars.com)."
+  },
+  {
+    "id": "85329d6e-a675-509c-9806-f3a92dc7204e",
+    "brand": "Trinidad",
+    "line": "Espiritu Miami Edition",
+    "flavors": ["natural tobacco", "caramel", "wood", "hay", "citrus", "baking spice"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2026/08/trinidad-espiritu-miami-edition-cigar-review.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "356bc18e-99b6-5171-8218-cbc78b8d30d9",
+    "brand": "Valacari",
+    "line": "Neoclassic Connecticut",
+    "flavors": ["cedar", "earth", "black pepper", "hay"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-valacari-the-messenger-toro/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com). Notes are from a review of The Messenger, the name this cigar was sold under before the 2026 rebrand to Neoclassic Connecticut."
+  },
+  {
+    "id": "948510f2-8406-5a2e-b3b4-4b4d0071e4ff",
+    "brand": "Vega Fina",
+    "line": "Classic Tributo",
+    "flavors": ["earth", "bread", "citrus", "natural tobacco", "pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2023/09/cigar-review-vegafina-classic-tributo-dominicus.html"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "a4b30e71-c0b5-5768-9769-8056f801108c",
+    "brand": "Vega Fina",
+    "line": "Exclusivo USA Patriot",
+    "flavors": ["cream", "spice", "coffee", "earth"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/vegafina-exclusivo-usa-patriot-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "7ae2993d-6ddc-586a-9b9b-3a720e589b6f",
+    "brand": "Vega Fina",
+    "line": "Fortaleza 2 Capa 20",
+    "flavors": ["natural tobacco", "bread", "citrus", "cocoa", "cinnamon", "white pepper"],
+    "sourceKind": "review",
+    "sources": ["https://cigar-coop.com/2021/09/cigar-review-vegafina-fortaleza-2-capa-20.html"],
+    "note": "Flavor notes are from a published review (cigar-coop.com)."
+  },
+  {
+    "id": "44f70288-e006-5ec6-b38a-fd41f40eb62d",
+    "brand": "Vega Fina",
+    "line": "Reposado 10 Años",
+    "flavors": ["cedar", "earth", "chalk"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/personal-cigar-review-vegafina-fortaleza-2-reposado-10-anos/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com)."
+  },
+  {
+    "id": "28475ac3-be81-5dbe-be59-a24562d261bc",
+    "brand": "Vega Fina",
+    "line": "Vindobona Exclusivo Austria",
+    "flavors": ["natural tobacco", "cedar", "earth", "baking spice", "black pepper"],
+    "sourceKind": "review",
+    "sources": [
+      "https://cigar-coop.com/2021/12/cigar-review-vegafina-vindobona-exclusivo-austria.html",
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-vegafina-vindobona-exclusivo-austria/"
+    ],
+    "note": "Flavor notes are from a published review (cigar-coop.com and developingpalates.com)."
+  },
+  {
+    "id": "605d86f7-3d5d-50a1-a479-75e7af46106d",
+    "brand": "Vega Fina",
+    "line": "Year of the Dragon 2024",
+    "flavors": ["spice", "earth", "cream"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/vegafina-year-of-the-dragon-2024-long-magnum"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "00bf245a-9c46-5aee-804f-83b7496754f2",
+    "brand": "Vega Fina",
+    "line": "Year of the Tiger 2022",
+    "flavors": ["sweet", "spice", "fruit", "pepper", "roasted coffee", "nuts"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/vega-fina-year-of-the-tiger-2022",
+      "https://mikescigars.com/vega-fina-year-of-the-tiger-toro"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and mikescigars.com)."
+  },
+  {
+    "id": "20c8f6a9-ddc3-5c41-89e2-0109220abbcb",
+    "brand": "Ventura",
+    "line": "PSyKo SEVEN",
+    "flavors": ["nuts", "cedar", "pepper", "leather"],
+    "sourceKind": "review",
+    "sources": ["https://blindmanspuff.com/blind-cigar-review-ventura-cigars-psyko-seven-robusto/"],
+    "note": "Flavor notes are from a published review (blindmanspuff.com)."
+  },
+  {
+    "id": "9d03d543-d536-5c4e-969d-5fc681f9a924",
+    "brand": "Veritas",
+    "line": "Torch Habano",
+    "flavors": ["earth", "pepper", "sweet", "cedar"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/veritas-torch-habano-toro",
+      "https://blindmanspuff.com/blind-cigar-review-veritas-torch-habano-robusto/"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com and blindmanspuff.com)."
+  },
+  {
+    "id": "5eca1225-b43d-51a0-82fa-d1ff7a00b241",
+    "brand": "Veritas",
+    "line": "Torch San Andres",
+    "flavors": ["cream", "chocolate", "earth", "nuts"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/veritas-torch-san-andres-toro"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "afab4387-6ab5-5cae-b43b-5396f515d760",
+    "brand": "Volition America",
+    "line": "Connecticut",
+    "flavors": ["nuts", "cream"],
+    "sourceKind": "retailer",
+    "sources": [
+      "https://www.neptunecigar.com/cigars/volition-america-by-gurkha-connecticut-toro-6--54"
+    ],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "ab8741a8-73bf-52c3-ba95-a1a27adca7f6",
+    "brand": "Volition America",
+    "line": "Habano",
+    "flavors": ["coffee", "wood"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/volition-america-by-gurkha-habano-toro-6--54"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "f3a3976b-7133-5885-b885-a4dd14b389bb",
+    "brand": "Volition America",
+    "line": "Maduro",
+    "flavors": ["coffee", "nuts", "sweet"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/volition-america-by-gurkha-maduro-toro-6--54"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "97cb5198-29bd-55af-8e88-bba6a1fd8baa",
+    "brand": "Warfighter",
+    "line": "10th Anniversary",
+    "flavors": ["pepper", "sweet", "chocolate", "cream", "earth", "rye"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-warfighter-tobacco-company-10th-anniversary-toro-rated-93/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com). Sources disagreed: the Cigars Daily description names earth, sweetness, tea, cedar and spice instead."
+  },
+  {
+    "id": "cc8dcda1-2a62-5e25-b6d3-26cbf2677a79",
+    "brand": "Warfighter",
+    "line": "Redacted",
+    "flavors": ["cedar", "earth", "black pepper", "sweet tobacco", "wood"],
+    "sourceKind": "review",
+    "sources": [
+      "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-warfighter-redacted/"
+    ],
+    "note": "Flavor notes are from a published review (developingpalates.com)."
+  },
+  {
+    "id": "3abb8873-c3cf-5670-91ae-280340cdd787",
+    "brand": "West Tampa Tobacco Co.",
+    "line": "Barbershop",
+    "flavors": ["dark cocoa", "earth", "sweet spice", "sweet", "pepper"],
+    "sourceKind": "retailer",
+    "sources": ["https://www.neptunecigar.com/cigars/west-tampa-barbershop-clippers-6--54"],
+    "note": "Flavor notes are from a retailer's description (neptunecigar.com)."
+  },
+  {
+    "id": "246e18bf-410d-5050-adf3-bd6380e6c352",
+    "brand": "West Tampa Tobacco Co.",
+    "line": "Boliche Blvd.",
+    "flavors": ["fruit", "cocoa", "cream", "chocolate", "spice", "nuts"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar_review/cigar-review-west-tampa-tobacco-co-boliche-blvd-gigante-rated-92/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com)."
+  },
+  {
+    "id": "ac291b35-e027-5cb5-b2c4-fdfaf4245b21",
+    "brand": "Wildfire",
+    "line": "B-Sides",
+    "flavors": ["cream", "spice", "white pepper", "nuts"],
+    "sourceKind": "maker",
+    "sources": [
+      "https://cigar-coop.com/2024/03/wildfire-cigar-company-to-debut-b-sides-limited-edition-at-pca-2024-cigar-news.html"
+    ],
+    "note": "Flavor notes are from the maker's description (cigar-coop.com). The quote is the maker's press release statement as printed by Cigar Coop."
+  },
+  {
+    "id": "23c204f5-9913-5a8c-9a5a-3fc3fd3ab178",
+    "brand": "Wynwood Hills",
+    "line": "Deranged",
+    "flavors": ["wood", "cedar", "pepper", "mineral", "sweet"],
+    "sourceKind": "review",
+    "sources": ["https://www.leafenthusiast.com/cigar-review-wynwood-hills-deranged/"],
+    "note": "Flavor notes are from a published review (leafenthusiast.com)."
+  },
+  {
+    "id": "ebe3d85e-990d-503c-8e6f-1272ce323ff2",
+    "brand": "Wynwood Hills",
+    "line": "Mayhem",
+    "flavors": ["pepper", "savory", "salt", "cedar", "citrus", "sweet"],
+    "sourceKind": "review",
+    "sources": [
+      "https://stogiepress.com/cigar-review-c-l-e-wynwood-hills-mayhem-rated-96/",
+      "https://www.leafenthusiast.com/cigar-review-wynwood-hills-mayhem/"
+    ],
+    "note": "Flavor notes are from a published review (stogiepress.com and leafenthusiast.com)."
+  },
+  {
+    "id": "4300d509-b6df-564e-9a3e-7d8b0fd4ee3e",
+    "brand": "Wynwood Hills",
+    "line": "Unhinged",
+    "flavors": ["cocoa powder", "chocolate", "cinnamon", "bread", "red pepper"],
+    "sourceKind": "review",
+    "sources": ["https://www.leafenthusiast.com/cigar-review-wynwood-hills-unhinged/"],
+    "note": "Flavor notes are from a published review (leafenthusiast.com)."
+  }
+]

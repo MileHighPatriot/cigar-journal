@@ -1,4 +1,4 @@
-import type { CustomTag, Smoke } from '../data/types'
+import type { Cigar, CustomTag, Smoke } from '../data/types'
 
 export interface TagFamily {
   key: string
@@ -420,6 +420,20 @@ const SHEET_VARIANTS: Record<string, string> = {
   'gentle spice': 'spice',
   'light pepper': 'pepper',
   'light cedar': 'cedar',
+  sweetness: 'sweet',
+  almonds: 'almond',
+  hazelnuts: 'hazelnut',
+  peanuts: 'peanut',
+  pecans: 'pecan',
+  cashews: 'cashew',
+  'baking spices': 'baking spice',
+  cloves: 'clove',
+  raisins: 'raisin',
+  figs: 'fig',
+  dates: 'date',
+  prunes: 'prune',
+  berries: 'berry',
+  minerals: 'mineral',
 }
 
 export function normalizeTag(word: string): string {
@@ -427,7 +441,19 @@ export function normalizeTag(word: string): string {
   return SHEET_VARIANTS[clean] ?? clean
 }
 
-/** Quick-log tags plus every third's tags, without repeats. */
+/**
+ * The flavors a new smoke starts with: the cigar's published tasting notes, or the lounge
+ * sheet's when there are none. Empty when nothing is on file.
+ */
+export function cigarFlavorTags(
+  cigar: Pick<Cigar, 'flavors' | 'sheetFlavors'> | undefined,
+): string[] {
+  if (!cigar) return []
+  const notes = cigar.flavors.length > 0 ? cigar.flavors : cigar.sheetFlavors
+  return [...new Set(notes.map(normalizeTag).filter(Boolean))]
+}
+
+/** The smoke's own flavors plus every third's tags, without repeats. */
 export function effectiveTags(smoke: Smoke): string[] {
   const all = [
     ...smoke.quickTags,

@@ -4,7 +4,13 @@ import { AROMA_TAGS, STARTER_TAGS, suggestedTags } from '../src/components/Flavo
 import { newCigar, newSmoke, withSmokeDefaults } from '../src/data/factories'
 import type { Smoke } from '../src/data/types'
 import { buildRows, searchRows } from '../src/domain/search'
-import { OFF_NOTES, TAG_FAMILIES, tagFamily } from '../src/domain/tags'
+import {
+  cigarFlavorTags,
+  effectiveTags,
+  OFF_NOTES,
+  TAG_FAMILIES,
+  tagFamily,
+} from '../src/domain/tags'
 
 describe('the flavor list', () => {
   const words = TAG_FAMILIES.flatMap((family) => family.words)
@@ -100,5 +106,31 @@ describe('flavors and notes at every stage', () => {
         'barnyard,,tight pack,,white pepper,,razor burn line,the rye fought it,fell apart late',
       ),
     ).toBe(true)
+  })
+})
+
+describe('flavors a new smoke starts with', () => {
+  it("takes the cigar's published notes, in the app's own spelling, once each", () => {
+    const cigar = newCigar({
+      brand: 'Padron',
+      line: '1964 Anniversary',
+      flavors: ['Cocoa', 'sweetness', 'almonds', 'baking spices', 'cocoa ', 'earth'],
+      sheetFlavors: ['hay'],
+    })
+    expect(cigarFlavorTags(cigar)).toEqual(['cocoa', 'sweet', 'almond', 'baking spice', 'earth'])
+  })
+
+  it('falls back to the lounge sheet, and is empty when nothing is on file', () => {
+    const sheetOnly = newCigar({ brand: 'A', line: 'B', sheetFlavors: ['Creamy', 'nutty'] })
+    expect(cigarFlavorTags(sheetOnly)).toEqual(['cream', 'nuts'])
+    expect(cigarFlavorTags(newCigar({ brand: 'A', line: 'C' }))).toEqual([])
+    expect(cigarFlavorTags(undefined)).toEqual([])
+  })
+
+  it('counts them like any other flavor on the smoke', () => {
+    const cigar = newCigar({ brand: 'A', line: 'B', flavors: ['cedar', 'leather'] })
+    const smoke = newSmoke(cigar.id, { quickTags: cigarFlavorTags(cigar) })
+    smoke.thirds.first = { ...smoke.thirds.first, tags: ['cedar', 'oak'] }
+    expect(effectiveTags(smoke)).toEqual(['cedar', 'leather', 'oak'])
   })
 })

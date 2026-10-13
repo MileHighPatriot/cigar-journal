@@ -1,7 +1,7 @@
 import { ChevronLeft } from 'lucide-react'
 import { useState } from 'react'
 import { Link, useLocation } from 'wouter'
-import { FlavorField } from '../components/FlavorField'
+import { SmokeFlavors } from '../components/FlavorField'
 import { FlowLayout } from '../components/FlowLayout'
 import { useAutosaveText } from '../components/hooks'
 import { PhotoSection } from '../components/PhotoSection'
@@ -11,8 +11,6 @@ import { showToast } from '../components/toast'
 import { patchSmoke, useStore, whenSaved } from '../data/store'
 import { cigarTitle } from '../domain/format'
 import { computeScore, verdictFor } from '../domain/scoring'
-
-const QUICK_TAG_LIMIT = 3
 
 export function LogFinish({ id }: { id: string }) {
   const state = useStore()
@@ -41,7 +39,6 @@ export function LogFinish({ id }: { id: string }) {
 
   const cigar = state.cigars.get(smoke.cigarId)
   const score = computeScore(smoke.ratings)
-  const tags = smoke.quickTags
   async function save() {
     setSaving(true)
     price.onBlur()
@@ -90,12 +87,7 @@ export function LogFinish({ id }: { id: string }) {
       )}
 
       <div className="finish-grid">
-        <FlavorField
-          label="Flavors"
-          max={QUICK_TAG_LIMIT}
-          tags={tags}
-          onChange={(next) => void patchSmoke(id, { quickTags: next })}
-        />
+        <SmokeFlavors smoke={smoke} cigar={cigar} />
 
         <div className="finish-side">
           <PhotoSection smokeId={id} />

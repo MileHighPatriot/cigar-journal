@@ -1,7 +1,7 @@
 import { ChevronLeft } from 'lucide-react'
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link, useLocation } from 'wouter'
-import { AROMA_TAGS, FlavorField } from '../components/FlavorField'
+import { AROMA_TAGS, FlavorField, SmokeFlavors } from '../components/FlavorField'
 import { AutoText, ChipChoice, ChipMulti, Counter, LevelPicker } from '../components/fields'
 import { useAutosaveText } from '../components/hooks'
 import { PhotoSection } from '../components/PhotoSection'
@@ -31,6 +31,7 @@ const STEPS = [
   { key: 'first', label: 'First third' },
   { key: 'second', label: 'Second third' },
   { key: 'final', label: 'Final third' },
+  { key: 'flavors', label: 'Flavors' },
   { key: 'construction', label: 'Construction' },
   { key: 'setting', label: 'Setting' },
   { key: 'scores', label: 'Scores' },
@@ -153,21 +154,12 @@ function Prelight({ smoke }: { smoke: Smoke }) {
 function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
   const { id } = smoke
   const data = smoke.thirds[third]
+  // Flavors are picked once for the whole cigar, on the Flavors step. A smoke logged before
+  // that keeps its picks for this third, and they can still be changed here.
+  const [hadTags] = useState(data.tags.length > 0)
+  const [hadRetrohale] = useState(data.retrohaleTags.length > 0)
   return (
     <div className="form-cols">
-      <div className="stack">
-        <FlavorField
-          label="Flavors"
-          tags={data.tags}
-          onChange={(tags) => void patchThird(id, third, { tags })}
-        />
-        <FlavorField
-          label="Retrohale"
-          count={8}
-          tags={data.retrohaleTags}
-          onChange={(retrohaleTags) => void patchThird(id, third, { retrohaleTags })}
-        />
-      </div>
       <div className="stack">
         <LevelPicker
           label="Strength"
@@ -179,12 +171,14 @@ function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
           value={data.body}
           onChange={(body) => void patchThird(id, third, { body })}
         />
-        <AutoText
-          label="Retrohale, in your words"
-          placeholder="Smooth, sharp, long finish"
-          value={data.retrohale}
-          onCommit={(retrohale) => void patchThird(id, third, { retrohale })}
+        <ChipMulti
+          label="Construction issues"
+          options={ISSUES}
+          values={data.issues}
+          onChange={(issues) => void patchThird(id, third, { issues })}
         />
+      </div>
+      <div className="stack">
         <AutoText
           label="Note"
           multiline
@@ -192,12 +186,27 @@ function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
           value={data.note}
           onCommit={(note) => void patchThird(id, third, { note })}
         />
-        <ChipMulti
-          label="Construction issues"
-          options={ISSUES}
-          values={data.issues}
-          onChange={(issues) => void patchThird(id, third, { issues })}
+        <AutoText
+          label="Retrohale, in your words"
+          placeholder="Smooth, sharp, long finish"
+          value={data.retrohale}
+          onCommit={(retrohale) => void patchThird(id, third, { retrohale })}
         />
+        {hadTags && (
+          <FlavorField
+            label="Flavors in this third"
+            tags={data.tags}
+            onChange={(tags) => void patchThird(id, third, { tags })}
+          />
+        )}
+        {hadRetrohale && (
+          <FlavorField
+            label="Retrohale"
+            count={8}
+            tags={data.retrohaleTags}
+            onChange={(retrohaleTags) => void patchThird(id, third, { retrohaleTags })}
+          />
+        )}
       </div>
     </div>
   )
@@ -556,6 +565,9 @@ export function LogFull({ id, step }: { id: string; step: string }) {
         <h1 className="flow-h1">{current.label}</h1>
         {current.key === 'prelight' && <Prelight smoke={smoke} />}
         {thirds && <Third key={current.key} smoke={smoke} third={current.key as ThirdKey} />}
+        {current.key === 'flavors' && (
+          <SmokeFlavors smoke={smoke} cigar={cigar} label="Tasting notes" />
+        )}
         {current.key === 'construction' && <Construction smoke={smoke} />}
         {current.key === 'setting' && <SettingStep smoke={smoke} />}
         {current.key === 'scores' && <ScoresStep smoke={smoke} />}

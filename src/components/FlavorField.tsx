@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import { useStore } from '../data/store'
-import type { Smoke } from '../data/types'
-import { recentTags } from '../domain/tags'
+import { patchSmoke, useStore } from '../data/store'
+import type { Cigar, Smoke } from '../data/types'
+import { cigarFlavorTags, recentTags } from '../domain/tags'
 import { Sheet } from './Sheet'
 import { TagPicker } from './TagPicker'
 
@@ -61,6 +61,8 @@ interface Props {
   count?: number
   /** The button that opens the whole list. */
   more?: string
+  /** A line under the heading. */
+  hint?: string
 }
 
 /** Recent flavors as one-tap chips, with the full family picker behind "More flavors". */
@@ -72,6 +74,7 @@ export function FlavorField({
   suggest,
   count,
   more = 'More flavors',
+  hint,
 }: Props) {
   const state = useStore()
   const [picking, setPicking] = useState(false)
@@ -95,6 +98,7 @@ export function FlavorField({
           {max === undefined ? `${tags.length} picked` : `${tags.length} of ${max}`}
         </span>
       </div>
+      {hint && <p className="muted">{hint}</p>}
       <div className="chip-row" role="group" aria-label={label}>
         {suggestions.map((tag) => (
           <button
@@ -129,5 +133,35 @@ export function FlavorField({
         <TagPicker selected={tags} max={max} onChange={onChange} />
       </Sheet>
     </section>
+  )
+}
+
+/**
+ * The one flavor list for a smoke. It starts filled in from the cigar list, so the only
+ * tapping left is taking one off or adding one more.
+ */
+export function SmokeFlavors({
+  smoke,
+  cigar,
+  label = 'Flavors',
+}: {
+  smoke: Smoke
+  cigar: Cigar | undefined
+  label?: string
+}) {
+  const [listed] = useState(() => cigarFlavorTags(cigar))
+  return (
+    <FlavorField
+      label={label}
+      more="Add a flavor"
+      suggest={listed.length > 0 ? listed : undefined}
+      hint={
+        listed.length > 0
+          ? 'From the cigar list. Tap one to take it off or put it back.'
+          : 'No flavor notes on file for this cigar. Tap any you taste.'
+      }
+      tags={smoke.quickTags}
+      onChange={(quickTags) => void patchSmoke(smoke.id, { quickTags })}
+    />
   )
 }

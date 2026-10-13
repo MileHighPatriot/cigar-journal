@@ -1,5 +1,6 @@
 import { useEffect, useState, useSyncExternalStore } from 'react'
 import { computeScore } from '../domain/scoring'
+import { cigarFlavorTags } from '../domain/tags'
 import { processPhoto } from '../photos/pipeline'
 import { requestPersist } from '../pwa/storage'
 import { seedVersion } from '../seed/version.json'
@@ -299,7 +300,8 @@ export function logPath(smoke: Pick<Smoke, 'id' | 'draftStep'>): string {
 export async function startLog(cigarId: string, lotId: string | null = null): Promise<string> {
   const mode = (await getRepo().getMeta('lastLogMode')) ?? 'full'
   const draftStep = mode === 'full' ? 'full/prelight' : 'scores'
-  const smoke = newSmoke(cigarId, { lotId, mode, draftStep })
+  const quickTags = cigarFlavorTags(state.cigars.get(cigarId))
+  const smoke = newSmoke(cigarId, { lotId, mode, draftStep, quickTags })
   void saveRecord('smokes', smoke)
   return logPath(smoke)
 }
