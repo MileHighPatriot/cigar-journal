@@ -127,6 +127,9 @@ Image bytes are stored as ArrayBuffer plus MIME type, not Blob. Blob-in-IndexedD
 | sheetPairings | string[] (from Pairings) |
 | otherWrapperVersions | string or null |
 | similarCigars | string or null (from "If they like this, suggest") |
+| lounge | LoungeEntry or null. Set while the lounge humidor stocks this cigar (added 2026-10-15, section 23). |
+
+A LoungeEntry is `addedAt` (ISO), `price` (number or null, what the lounge charges), `shelf` (string, where it sits), `note` (string), `known` ("new", "learning", or "known"), and `studiedAt` (ISO or null, when a flashcard for it was last answered). It lives on the cigar record so no store, migration, or sync table was needed; a cigar with an entry counts as edited and syncs like any other edit. The catalog never carries this field.
 
 Two cigars are the same line when brand and line match after trimming and lowercasing. The cigar page lists them under "Other sizes". "Add another size" makes a new cigar that copies the blend fields and clears vitola, length, and ring gauge.
 
@@ -467,6 +470,7 @@ A quick log can become a full log later with "Add detail" on the smoke page.
 - **Cigar page**: details with an "Unconfirmed" label when seeded, Edit, "Looks right", Other sizes, Add another size, every smoke of it with a score trend line, "From the lounge sheet" notes, Add to humidor, Add to wishlist.
 - **Humidor**: total value, Ready to smoke list, all lots with count left, days aged, and rest-until date. Add lot. A lot page has "Log a smoke from this lot".
 - **Wishlist**: cigar, why, where heard. "Bought it" moves it to the humidor.
+- **Lounge** (added 2026-10-15): the sticks the lounge humidor stocks, split by strength (Mild, Medium, Full, then any with no strength on file), A to Z inside each group. Search, a "Help me pick" finder (wrapper, flavor, price tier, lounge price under, how well he knows it), a know-it chip on each row, and flashcards. Add from here, from a cigar's row on the Cigars tab, or from a cigar's page.
 - **Stats**: the same numbers as laptop, stacked.
 - **Settings and backup**: Export backup, Import backup, Restore, Export CSV, last backup date, Storage protected, storage used, install help, Update ready, catalog seed count.
 
@@ -487,7 +491,7 @@ Empty lines are left out.
 
 ### Laptop (1024 px and up): browse, compare, stats
 
-- Left sidebar: Journal, Cigars, Humidor, Wishlist, Stats, Compare, Settings. A "New log" button at the top.
+- Left sidebar: Journal, Cigars, Humidor, Lounge, Wishlist, Stats, Compare, Settings. A "New log" button at the top.
 - **Journal** is two panes: list on the left, detail on the right. A view switch offers a sortable table: date, cigar, score, strength, wrapper, smoke time.
 - **Search** across brand, line, notes, and tags. **Filters**: score range, wrapper, strength, country, flavor tag, date range, pairing, would buy again.
 - **Compare**: pick 2 or 3 smokes or cigars. Columns side by side: scores, per-third flavors, strength and body, construction. For a cigar, the column uses the average of its smokes.
@@ -855,11 +859,19 @@ Scripts to define in `package.json`:
   - **What counted as a source:** the maker's own description, a named retailer's description, or a published review of that exact cigar and blend. 123 came from reviews, 102 from retailers, 23 from makers. Nothing from memory, forums, or user reviews.
   - **Where it lives:** `seed/flavor-notes.json` (id, flavors, source kind, the pages). `npm run seed` lays it over the list after the main research and only fills a cigar whose flavor list is empty. Each filled cigar's research note says where its notes came from ("Flavor notes are from a published review (cigar-coop.com).") plus anything worth knowing, such as which year's release was reviewed, and the page is added to its sources.
   - `SEED_VERSION` is 5. Rehearsed on a device holding list 4, in Chrome and WebKit: the notes arrive, a cigar he had edited keeps his edits and gets its empty flavor list filled, and untouched cigars still never sync.
+- **Lounge humidor** (Kohlton's request, 2026-10-15): "a section for the lounge humidor", with an "add to lounge" button in the all-cigars list, "so i can try and figure out exactly what sticks are in the lounge humidor so i can learn them and give better suggestions". Split "by body strength", "not by maker": "a mild medium and full type of splitting". From the helpers offered he picked know-it levels with flashcards, a help-me-pick finder, and a lounge price plus shelf note per stick, and passed on a tried-it progress count (section 24).
+  - **Data:** `lounge` on the cigar record (section 4), defaulted to null when an older record loads, so there is no database version change, no backup format change, and no Supabase change. Marking a stick stamps the cigar's `updatedAt`, so it syncs like an edit. A test keeps the catalog free of the field and checks an entry survives a catalog refresh.
+  - **Lounge tab** (`#/lounge`, laptop two-pane with the cigar page on the right): groups Mild (levels 1 and 2), Medium (3), Full (4 and 5), then "No strength on file" (fix those with Edit on the cigar). Each row shows wrapper, strength, price tier, lounge price, shelf, the first three published flavors, his score ring when he has smoked it, a know-it chip (New, Learning, Know it; a tap moves it along), and a pencil for the lounge note.
+  - **Help me pick:** search, strength segmented control, then wrapper, flavor (every flavor across the lounge with its count), price tier, lounge price under a number, and know-it level. "Study these" runs flashcards on whatever is showing.
+  - **Flashcards:** the ones he knows least come first, then the one studied longest ago. Front is the name; the back is strength, wrapper, where it is made, tasting notes, lounge price, shelf, and the sheet's "If they like this, suggest". Got it moves a stick up one level; Missed it drops a known one back to Learning. The deck is frozen while open, so answering never reshuffles it.
+  - **Adding:** a lounge button beside each row on the Cigars tab (one tap on, one tap off, both with Undo), "Add to lounge" on a cigar's page, and Add on the Lounge tab (search the list in a sheet). The tab bar now holds nine tabs at the same size.
+  - Dev sample data puts twelve catalog cigars on the lounge list, two per strength plus two unknown, and "Remove fake data" takes them off again.
 - **Step 4 status**: steps 0 to 3 are built. Humidor, Stats, Cigars, Wishlist, Compare, and Settings show a one-line placeholder until their steps. The Full switch on the picker saves the choice but still runs the quick flow until step 5.
 
 ## 24. Ideas noticed during planning (not in Phase 1)
 
 - "Changes since last backup" export, so the weekly AirDrop stays small as photos pile up.
+- Lounge tried-it progress: "Tried 12 of 40" in the Lounge header and a "Not tried yet" filter, so the next smoke is one he has not logged (offered 2026-10-15, not picked). Also a reverse flashcard (facts first, name the stick) and a printable one-line cheat sheet of the lounge list.
 - A "Recently deleted" list. Deletes are already soft, so this would be cheap.
 - A custom subdomain so the journal has an address of its own, apart from the other github.io sites.
 - A "Recommend to" line on a smoke for the floor (offered in the interview, not picked).

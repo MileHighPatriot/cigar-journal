@@ -15,6 +15,7 @@ import { LogFinish } from './screens/LogFinish'
 import { LogFull } from './screens/LogFull'
 import { LogPicker } from './screens/LogPicker'
 import { LogScores } from './screens/LogScores'
+import { Lounge } from './screens/Lounge'
 import { Settings } from './screens/Settings'
 import { Stats } from './screens/Stats'
 import { Wishlist } from './screens/Wishlist'
@@ -61,7 +62,7 @@ function Shell() {
         event.preventDefault()
         // Focus the search on this screen if it has one, otherwise go to the journal's.
         const find = () =>
-          document.querySelector<HTMLElement>('#journal-search, #cigar-list-search')
+          document.querySelector<HTMLElement>('#journal-search, #cigar-list-search, #lounge-search')
         if (!find()) navigate('/journal')
         requestAnimationFrame(() => find()?.focus())
       } else if (event.key === 'n') {
@@ -119,6 +120,10 @@ function Shell() {
             <Cigars />
           </Route>
           <Route path="/cigars/:id">{(params) => <Cigars selectedId={params.id} />}</Route>
+          <Route path="/lounge">
+            <Lounge />
+          </Route>
+          <Route path="/lounge/:id">{(params) => <Lounge selectedId={params.id} />}</Route>
           <Route path="/wishlist">
             <Wishlist />
           </Route>

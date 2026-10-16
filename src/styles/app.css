@@ -60,7 +60,7 @@
   bottom: 0;
   z-index: 20;
   display: grid;
-  grid-template-columns: repeat(8, minmax(0, 1fr));
+  grid-template-columns: repeat(9, minmax(0, 1fr));
   align-items: center;
   height: calc(var(--tabbar-h) + var(--safe-bottom));
   padding: 0 var(--safe-right) var(--safe-bottom) var(--safe-left);
@@ -2913,7 +2913,7 @@ input[type="date"].input {
   }
 
   .tabbar {
-    grid-template-columns: repeat(8, minmax(0, 110px));
+    grid-template-columns: repeat(9, minmax(0, 110px));
     justify-content: center;
   }
 
@@ -3412,5 +3412,249 @@ input[type="date"].input {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: start;
+  }
+}
+
+/* ---------- Lounge humidor ---------- */
+
+/* The cigar list: a row with the lounge button beside it, since a link cannot hold a button. */
+.cigar-item {
+  display: flex;
+  align-items: center;
+}
+
+.cigar-item .cigar-row {
+  flex: 1;
+  min-width: 0;
+}
+
+.lounge-toggle {
+  flex: none;
+  border-top: 1px solid var(--hairline);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.lounge-toggle[aria-pressed="true"] {
+  color: var(--brass);
+}
+
+.lounge-tools {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--s3);
+}
+
+.lounge-tools .btn {
+  padding: 0 var(--s3);
+  white-space: nowrap;
+}
+
+.finder {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s3);
+  padding: var(--s4);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  background: var(--surface);
+  animation: enter 220ms var(--ease) both;
+}
+
+.lounge-list {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Each strength group gets a heading with its share of the strength bar. */
+.lounge-head {
+  position: sticky;
+  top: var(--safe-top);
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  padding: var(--s4) 0 var(--s2);
+  background: var(--bg);
+  color: var(--brass);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.lounge-head-mark {
+  display: flex;
+  gap: 2px;
+}
+
+.lounge-head-mark span {
+  width: 14px;
+  height: 8px;
+  border-radius: 2px;
+}
+
+.lounge-head-mark span[data-level="1"] {
+  background: var(--strength-1);
+}
+.lounge-head-mark span[data-level="2"] {
+  background: var(--strength-2);
+}
+.lounge-head-mark span[data-level="3"] {
+  background: var(--strength-3);
+}
+.lounge-head-mark span[data-level="4"] {
+  background: var(--strength-4);
+}
+.lounge-head-mark span[data-level="5"] {
+  background: var(--strength-5);
+}
+
+.lounge-head[data-group="unknown"] {
+  color: var(--text-2);
+}
+
+.lounge-head-count {
+  margin-left: auto;
+  color: var(--text-2);
+  letter-spacing: 0;
+}
+
+.lounge-item {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+  border-top: 1px solid var(--hairline);
+}
+
+.lounge-row {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  min-height: 60px;
+  padding: var(--s3) var(--s2);
+  border-radius: var(--radius);
+  transition: background-color var(--dur) var(--ease);
+}
+
+.lounge-row:hover,
+.lounge-row[aria-current="true"] {
+  background: var(--raised);
+}
+
+.lounge-row .flavors {
+  margin-top: var(--s1);
+}
+
+.lounge-side {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+
+/* The know-it chip: three states, from quiet to brass. */
+.know-chip {
+  min-width: 72px;
+  min-height: 36px;
+  padding: 0 var(--s3);
+  border: 1px solid var(--control-border);
+  border-radius: var(--radius);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--text-2);
+  transition:
+    background-color var(--dur) var(--ease),
+    border-color var(--dur) var(--ease),
+    color var(--dur) var(--ease);
+}
+
+.know-chip:active {
+  transform: scale(0.96);
+}
+
+.know-chip[data-known="learning"] {
+  border-color: var(--brass);
+  color: var(--brass);
+}
+
+.know-chip[data-known="known"] {
+  background: var(--foil-flat);
+  border-color: var(--brass);
+  color: var(--on-brass);
+}
+
+.lounge-remove {
+  margin-right: auto;
+}
+
+/* Flashcards */
+.study-count {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--s3);
+}
+
+.study-level {
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--brass);
+}
+
+.study-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s4);
+  min-height: 240px;
+  padding: var(--s5);
+  animation: enter 220ms var(--ease) both;
+}
+
+.study-head {
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+}
+
+.study-title {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.study-front {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.study-wrapper {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+}
+
+.study-wrapper .muted {
+  margin-right: var(--s1);
+}
+
+.study-answers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--s3);
+}
+
+.study-done {
+  align-items: center;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .lounge-tools {
+    grid-template-columns: auto auto;
+    justify-content: start;
   }
 }

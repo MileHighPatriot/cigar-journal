@@ -1,15 +1,18 @@
 // Dev only. Makes fake smokes for screenshots and the 500-entry speed check.
 // Every fake record id starts with "fake-" so it can be removed exactly.
 import { newLot, newPhoto, newSmoke } from '../data/factories'
-import { IdbRepository } from '../data/repository'
+import { IdbRepository, nowIso } from '../data/repository'
 import { getRepo, getState, reloadFromDisk } from '../data/store'
 import type { Cigar, Lot, Photo, PhotoKind, Smoke } from '../data/types'
+import { newLoungeEntry } from '../domain/lounge'
 import { computeScore } from '../domain/scoring'
 import { TAG_FAMILIES } from '../domain/tags'
 import { processPhoto } from '../photos/pipeline'
 
 const FAKE = 'fake-'
 const fakeId = () => `${FAKE}${crypto.randomUUID()}`
+/** Marks a sample lounge entry on a real catalog cigar, so removal can find it. */
+const FAKE_NOTE = 'Sample lounge stick'
 
 // Small seeded generator so a run looks the same every time.
 function mulberry32(seed: number) {
@@ -286,7 +289,28 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
     }
   }
 
-  await repo.putMany({ lots, smokes, photos })
+  // A dozen lounge sticks across every strength, so the Lounge tab has every group.
+  const SHELVES = ['Top shelf, left', 'Top shelf, right', 'Middle shelf', 'Bottom drawer', '']
+  const lounge: Cigar[] = []
+  for (const strength of [1, 2, 3, 4, 5, null] as const) {
+    const fits = seedCigars.filter((c) => c.strength === strength && !c.lounge)
+    for (let i = 0; i < 2 && fits.length > 0; i++) {
+      const cigar = fits.splice(Math.floor(random() * fits.length), 1)[0]
+      if (!cigar) break
+      lounge.push({
+        ...cigar,
+        updatedAt: nowIso(),
+        lounge: newLoungeEntry({
+          price: random() < 0.3 ? null : 8 + Math.floor(random() * 20),
+          shelf: pick(random, SHELVES),
+          note: FAKE_NOTE,
+          known: pick(random, ['new', 'new', 'learning', 'known'] as const),
+        }),
+      })
+    }
+  }
+
+  await repo.putMany({ cigars: lounge, lots, smokes, photos })
   await reloadFromDisk()
 }
 
@@ -294,6 +318,8 @@ export async function removeFakeData(): Promise<number> {
   const repo = getRepo()
   if (!(repo instanceof IdbRepository)) return 0
   const removed = await repo.hardDeleteByPrefix(FAKE)
+  const sampled = [...getState().cigars.values()].filter((c) => c.lounge?.note === FAKE_NOTE)
+  await repo.putMany({ cigars: sampled.map((c) => ({ ...c, lounge: null, updatedAt: nowIso() })) })
   await reloadFromDisk()
-  return removed
+  return removed + sampled.length
 }

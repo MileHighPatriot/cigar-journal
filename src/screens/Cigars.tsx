@@ -1,4 +1,4 @@
-import { ChevronRight, Plus, Search } from 'lucide-react'
+import { Armchair, ChevronRight, Plus, Search } from 'lucide-react'
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
@@ -7,7 +7,8 @@ import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { showToast } from '../components/toast'
-import { useStore } from '../data/store'
+import { addToLounge, removeFromLounge, useStore } from '../data/store'
+import type { Cigar } from '../data/types'
 import {
   type CigarFilter,
   filterCigars,
@@ -82,6 +83,26 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
 
   const visible = results.slice(0, limit)
   const laptop = useMediaQuery(LAPTOP)
+
+  // One tap puts a stick on the lounge list; a second takes it off. Both can be undone.
+  function toggleLounge(cigar: Cigar) {
+    const title = cigarTitle(cigar)
+    if (cigar.lounge) {
+      const { undo } = removeFromLounge(cigar.id)
+      showToast({
+        message: `${title} is off the lounge list`,
+        actionLabel: 'Undo',
+        onAction: () => void undo(),
+      })
+    } else {
+      void addToLounge(cigar.id)
+      showToast({
+        message: `${title} is on the lounge list`,
+        actionLabel: 'Undo',
+        onAction: () => void removeFromLounge(cigar.id),
+      })
+    }
+  }
   // On a laptop the right pane opens the cigar smoked most recently, or the first one.
   const recent = useMemo(() => {
     let best: string | undefined
@@ -249,7 +270,7 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
                     <span>{cigar.brand || 'No brand'}</span>
                   </li>
                 )}
-                <li>
+                <li className="cigar-item">
                   <Link
                     href={`/cigars/${cigar.id}`}
                     className="cigar-row"
@@ -278,6 +299,19 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
                       <ChevronRight size={20} strokeWidth={1.5} aria-hidden="true" />
                     )}
                   </Link>
+                  <button
+                    type="button"
+                    className="icon-btn lounge-toggle"
+                    aria-pressed={cigar.lounge !== null}
+                    aria-label={
+                      cigar.lounge
+                        ? `Take ${cigarTitle(cigar)} off the lounge list`
+                        : `Add ${cigarTitle(cigar)} to the lounge list`
+                    }
+                    onClick={() => toggleLounge(cigar)}
+                  >
+                    <Armchair size={20} strokeWidth={1.5} aria-hidden="true" />
+                  </button>
                 </li>
               </Fragment>
             )

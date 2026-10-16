@@ -1,4 +1,5 @@
 import { useEffect, useState, useSyncExternalStore } from 'react'
+import { newLoungeEntry } from '../domain/lounge'
 import { computeScore } from '../domain/scoring'
 import { cigarFlavorTags } from '../domain/tags'
 import { processPhoto } from '../photos/pipeline'
@@ -12,6 +13,7 @@ import {
   type Cigar,
   type CustomTag,
   type Lot,
+  type LoungeEntry,
   type Meta,
   type Photo,
   type PhotoKind,
@@ -304,6 +306,29 @@ export async function startLog(cigarId: string, lotId: string | null = null): Pr
   const smoke = newSmoke(cigarId, { lotId, mode, draftStep, quickTags })
   void saveRecord('smokes', smoke)
   return logPath(smoke)
+}
+
+// The lounge humidor: an entry on the cigar record, so no new store or table is needed.
+export function addToLounge(cigarId: string, fields: Partial<LoungeEntry> = {}): Promise<void> {
+  const cigar = state.cigars.get(cigarId)
+  if (!cigar) return Promise.resolve()
+  const lounge = cigar.lounge ? { ...cigar.lounge, ...fields } : newLoungeEntry(fields)
+  return saveRecord('cigars', { ...cigar, lounge })
+}
+
+/** Takes a cigar off the lounge list. Returns what Undo needs to put it back. */
+export function removeFromLounge(cigarId: string): { undo: () => Promise<void> } {
+  const cigar = state.cigars.get(cigarId)
+  const was = cigar?.lounge ?? null
+  if (!cigar || !was) return { undo: () => Promise.resolve() }
+  void saveRecord('cigars', { ...cigar, lounge: null })
+  return { undo: () => addToLounge(cigarId, was) }
+}
+
+export function patchLounge(cigarId: string, patch: Partial<LoungeEntry>): Promise<void> {
+  const cigar = state.cigars.get(cigarId)
+  if (!cigar?.lounge) return Promise.resolve()
+  return saveRecord('cigars', { ...cigar, lounge: { ...cigar.lounge, ...patch } })
 }
 
 // Nested parts of a smoke are patched from the latest saved copy, so two quick edits

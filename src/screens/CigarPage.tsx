@@ -1,5 +1,6 @@
 import {
   Archive,
+  Armchair,
   Bookmark,
   Check,
   ChevronLeft,
@@ -14,19 +15,21 @@ import { CigarForm } from '../components/CigarForm'
 import { FlavorTags } from '../components/FlavorTags'
 import { LevelMeter } from '../components/LevelMeter'
 import { LotForm } from '../components/LotForm'
+import { LoungeForm } from '../components/LoungeForm'
 import { WrapperDot, WrapperSwatch } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { Sparkline } from '../components/Sparkline'
 import { showToast } from '../components/toast'
 import { WishForm } from '../components/WishForm'
 import { restoreRecord, saveRecord, softDelete, startLog, useStore } from '../data/store'
-import { priceLabel, wrapperOptions } from '../domain/cigars'
+import { priceLabel, wrapperOptions, wrapperText } from '../domain/cigars'
 import {
   cigarSubtitle,
   cigarTitle,
   formatDate,
   formatInches,
   formatMinutes,
+  formatMoney,
   hostOf,
 } from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
@@ -34,12 +37,19 @@ import { levelLabel, shownScore, verdictFor } from '../domain/scoring'
 import { smokeSize } from '../domain/sizes'
 import { effectiveTags, normalizeTag } from '../domain/tags'
 
-export function CigarPage({ id }: { id: string }) {
+interface Props {
+  id: string
+  /** Where the back arrow goes. The cigar list unless opened from the lounge. */
+  backHref?: string
+}
+
+export function CigarPage({ id, backHref = '/cigars' }: Props) {
   const state = useStore()
   const [, navigate] = useLocation()
   const [editing, setEditing] = useState(false)
   const [stocking, setStocking] = useState(false)
   const [wishing, setWishing] = useState(false)
+  const [lounging, setLounging] = useState(false)
   const cigar = state.cigars.get(id)
 
   const smokes = useMemo(
@@ -87,16 +97,8 @@ export function CigarPage({ id }: { id: string }) {
 
   type Row = [label: string, value: string | null]
   const rows = (list: Row[]) => list.filter((row): row is [string, string] => Boolean(row[1]))
-  const wrapper = [cigar.wrapperLeaf ?? cigar.wrapperType, cigar.wrapperOrigin]
-    .filter(Boolean)
-    .filter((part, index, all) => all.indexOf(part) === index)
-  // The leaf description often already names the country, so do not say it twice.
-  const wrapperText =
-    cigar.wrapperLeaf && cigar.wrapperOrigin && cigar.wrapperLeaf.includes(cigar.wrapperOrigin)
-      ? cigar.wrapperLeaf
-      : wrapper.join(', ')
   const blend = rows([
-    ['Wrapper', wrapperText || null],
+    ['Wrapper', wrapperText(cigar) || null],
     ['Binder', cigar.binder],
     ['Filler', cigar.filler],
   ])
@@ -147,7 +149,11 @@ export function CigarPage({ id }: { id: string }) {
   return (
     <article className="detail">
       <div className="detail-bar">
-        <Link href="/cigars" className="icon-btn detail-back" aria-label="Back to cigars">
+        <Link
+          href={backHref}
+          className="icon-btn detail-back"
+          aria-label={backHref === '/lounge' ? 'Back to the lounge' : 'Back to cigars'}
+        >
           <ChevronLeft size={24} strokeWidth={1.5} aria-hidden="true" />
         </Link>
       </div>
@@ -222,7 +228,29 @@ export function CigarPage({ id }: { id: string }) {
             Add to wishlist
           </button>
         )}
+        <button
+          type="button"
+          className="btn btn-quiet"
+          aria-pressed={cigar.lounge !== null}
+          onClick={() => setLounging(true)}
+        >
+          <Armchair size={20} strokeWidth={1.5} aria-hidden="true" />
+          {cigar.lounge ? 'In the lounge' : 'Add to lounge'}
+        </button>
       </div>
+
+      {cigar.lounge && (
+        <p className="on-hand">
+          <Link href={`/lounge/${cigar.id}`} className="ready-line text-link">
+            On the lounge list
+          </Link>
+          {cigar.lounge.price !== null && (
+            <span className="num">{formatMoney(cigar.lounge.price)} at the lounge</span>
+          )}
+          {cigar.lounge.shelf && <span>{cigar.lounge.shelf}</span>}
+          {cigar.lounge.note && <span className="muted">{cigar.lounge.note}</span>}
+        </p>
+      )}
 
       {onHand.length > 0 && (
         <p className="on-hand">
@@ -460,6 +488,15 @@ export function CigarPage({ id }: { id: string }) {
         cigarId={id}
         onClose={() => setStocking(false)}
         onSaved={() => showToast({ message: 'Added to your humidor' })}
+      />
+
+      <LoungeForm
+        open={lounging}
+        cigarId={id}
+        onClose={() => setLounging(false)}
+        onSaved={() =>
+          showToast({ message: cigar.lounge ? 'Lounge note saved' : 'Added to the lounge list' })
+        }
       />
 
       <WishForm

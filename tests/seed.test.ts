@@ -66,6 +66,44 @@ describe('seeding', () => {
   })
 })
 
+describe('the lounge list on a cigar', () => {
+  it('is not something the catalog knows about', () => {
+    // Lounge entries live on the cigar record. The catalog must never carry one, or a
+    // refresh could put a stick on or off the lounge list.
+    expect(catalog.cigars.some((cigar) => 'lounge' in cigar)).toBe(false)
+  })
+
+  it('survives a catalog refresh', async () => {
+    const repo = await freshRepo()
+    await seedCatalog(repo, catalog)
+    const [stick] = await repo.getAll('cigars')
+    if (!stick) throw new Error('seed is empty')
+    const lounge = {
+      addedAt: '2026-10-15T20:00:00.000Z',
+      price: 12,
+      shelf: 'top shelf',
+      note: '',
+      known: 'learning' as const,
+      studiedAt: null,
+    }
+    await repo.put('cigars', { ...stick, lounge })
+
+    // The next catalog corrects a detail on that cigar.
+    const fresh = catalog.cigars.map((cigar) =>
+      cigar.id === stick.id ? { ...cigar, about: 'Corrected in the next list.' } : cigar,
+    )
+    await seedCatalog(repo, {
+      seedVersion: catalog.seedVersion + 1,
+      cigars: fresh,
+      previous: { [stick.id]: { about: stick.about } },
+    })
+
+    const after = (await repo.getAll('cigars')).find((cigar) => cigar.id === stick.id)
+    expect(after?.lounge).toEqual(lounge)
+    expect(after?.about).toBe('Corrected in the next list.')
+  })
+})
+
 describe('a device that seeded the first, smaller catalog', () => {
   it('gains the new cigars and keeps its own edits', async () => {
     const repo = await freshRepo()

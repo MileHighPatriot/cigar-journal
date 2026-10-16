@@ -1,4 +1,4 @@
-import { Bookmark, BookOpen, ChartColumn, Plus, Settings } from 'lucide-react'
+import { Armchair, Bookmark, BookOpen, ChartColumn, Plus, Settings } from 'lucide-react'
 import type { ComponentType } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarIcon, CompareIcon, HumidorIcon, MarkIcon } from './icons'
@@ -29,6 +29,12 @@ const humidor: NavItem = {
   label: 'Humidor',
   icon: HumidorIcon,
   match: (path) => path.startsWith('/humidor'),
+}
+const lounge: NavItem = {
+  href: '/lounge',
+  label: 'Lounge',
+  icon: Armchair,
+  match: (path) => path.startsWith('/lounge'),
 }
 const stats: NavItem = {
   href: '/stats',
@@ -61,7 +67,7 @@ const settings: NavItem = {
   match: (path) => path.startsWith('/settings'),
 }
 /** The same tabs in the same order on every screen size. */
-const ITEMS = [home, journal, cigars, humidor, wishlist, stats, compare, settings]
+const ITEMS = [home, journal, cigars, humidor, lounge, wishlist, stats, compare, settings]
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
   const active = item.match(path)

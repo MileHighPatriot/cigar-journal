@@ -115,3 +115,18 @@ export function strengthCounts(cigars: Iterable<Cigar>): number[] {
 export function priceLabel(tier: number | null): string {
   return tier ? '$'.repeat(tier) : ''
 }
+
+/**
+ * The wrapper in one line: the maker's leaf description with its origin, or the plain type.
+ * The leaf description often already names the country, so it is not said twice.
+ */
+export function wrapperText(cigar: Pick<Cigar, 'wrapperLeaf' | 'wrapperType' | 'wrapperOrigin'>) {
+  const leaf = cigar.wrapperLeaf ?? cigar.wrapperType
+  if (cigar.wrapperLeaf && cigar.wrapperOrigin && cigar.wrapperLeaf.includes(cigar.wrapperOrigin)) {
+    return cigar.wrapperLeaf
+  }
+  return [leaf, cigar.wrapperOrigin]
+    .filter(Boolean)
+    .filter((part, index, all) => all.indexOf(part) === index)
+    .join(', ')
+}

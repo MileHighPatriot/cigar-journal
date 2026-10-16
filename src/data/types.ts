@@ -53,6 +53,23 @@ export interface Cigar extends SyncFields {
   researchNote: string
   /** True once the details were researched and then independently fact-checked. */
   checked: boolean
+  /** Set while this cigar is stocked in the lounge humidor. Null when it is not. */
+  lounge: LoungeEntry | null
+}
+
+export type KnownLevel = 'new' | 'learning' | 'known'
+
+/** What Kohlton knows about a cigar the lounge stocks. Lives on the cigar record. */
+export interface LoungeEntry {
+  addedAt: Iso
+  /** What the lounge charges, when he noted it. */
+  price: number | null
+  /** Where it sits in the humidor, in his words ("top shelf, left"). */
+  shelf: string
+  note: string
+  known: KnownLevel
+  /** When a flashcard for it was last answered. Orders the study deck. */
+  studiedAt: Iso | null
 }
 
 export interface CigarSize {
@@ -73,6 +90,7 @@ export const CIGAR_DEFAULTS = {
   sources: [] as string[],
   researchNote: '',
   checked: false,
+  lounge: null,
 } satisfies Partial<Cigar>
 
 export type CutType = 'straight' | 'v-cut' | 'punch' | 'other'
