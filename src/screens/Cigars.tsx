@@ -1,9 +1,10 @@
-import { Armchair, ChevronRight, Plus, Search } from 'lucide-react'
+import { Armchair, ChevronRight, ListChecks, Plus, Search, X } from 'lucide-react'
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
 import { Etching, HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
+import { LoungeBatchForm } from '../components/LoungeBatchForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { showToast } from '../components/toast'
@@ -22,6 +23,8 @@ import { closestCigars } from '../domain/search'
 import { CigarPage } from './CigarPage'
 
 const PAGE = 80
+/** "Select all" is offered up to this many matches; past that, narrow the search first. */
+const SELECT_ALL_MAX = 200
 
 const ONLY: { key: CigarFilter['only']; label: string }[] = [
   { key: 'all', label: 'All' },
@@ -41,6 +44,10 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
   })
   const [limit, setLimit] = useState(PAGE)
   const [adding, setAdding] = useState(false)
+  // Select mode: tick several sticks, then put them all on the lounge list with one spot.
+  const [selecting, setSelecting] = useState(false)
+  const [picked, setPicked] = useState<Set<string>>(() => new Set())
+  const [batching, setBatching] = useState(false)
   const sentinel = useRef<HTMLDivElement>(null)
 
   const stats = useMemo(() => statsByCigar(state.smokes.values()), [state.smokes])
@@ -103,6 +110,23 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
       })
     }
   }
+  function togglePick(id: string) {
+    setPicked((was) => {
+      const next = new Set(was)
+      if (next.has(id)) next.delete(id)
+      else next.add(id)
+      return next
+    })
+  }
+  function stopSelecting() {
+    setSelecting(false)
+    setPicked(new Set())
+  }
+  const pickedCigars = useMemo(
+    () => results.filter((cigar) => picked.has(cigar.id)),
+    [results, picked],
+  )
+
   // On a laptop the right pane opens the cigar smoked most recently, or the first one.
   const recent = useMemo(() => {
     let best: string | undefined
@@ -239,13 +263,37 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
           </div>
         </div>
 
-        <p className="muted num result-count" aria-live="polite">
-          {closest.length > 0
-            ? 'No exact match. These are the closest.'
-            : filtered
-              ? `${results.length} ${results.length === 1 ? 'match' : 'matches'}`
-              : `All ${results.length} cigars, A to Z by brand`}
-        </p>
+        <div className="list-tools">
+          <p className="muted num result-count" aria-live="polite">
+            {closest.length > 0
+              ? 'No exact match. These are the closest.'
+              : filtered
+                ? `${results.length} ${results.length === 1 ? 'match' : 'matches'}`
+                : `All ${results.length} cigars, A to Z by brand`}
+          </p>
+          {selecting ? (
+            results.length <= SELECT_ALL_MAX &&
+            results.length > 0 && (
+              <button
+                type="button"
+                className="btn btn-quiet"
+                onClick={() => setPicked(new Set(results.map((cigar) => cigar.id)))}
+              >
+                Select all {results.length}
+              </button>
+            )
+          ) : (
+            <button
+              type="button"
+              className="btn btn-quiet"
+              onClick={() => setSelecting(true)}
+              disabled={results.length === 0}
+            >
+              <ListChecks size={20} strokeWidth={1.5} aria-hidden="true" />
+              Select
+            </button>
+          )}
+        </div>
 
         {results.length === 0 && (
           <div className="empty">
@@ -271,53 +319,104 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
                   </li>
                 )}
                 <li className="cigar-item">
-                  <Link
-                    href={`/cigars/${cigar.id}`}
-                    className="cigar-row"
-                    aria-current={cigar.id === shownId ? 'true' : undefined}
-                  >
-                    <span className="pick-main">
-                      <span className="pick-title">{cigarTitle(cigar)}</span>
-                      <span className="pick-sub">
-                        {sub && <span>{sub}</span>}
-                        <WrapperDot wrapper={cigar.wrapperType} />
-                        {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
-                      </span>
-                    </span>
-                    {mine ? (
-                      <span className="cigar-row-score">
-                        {mine.average !== null && (
-                          <ScoreRing shown={mine.average} size={48} stroke={3}>
-                            <span className="ring-num num">{mine.average}</span>
-                          </ScoreRing>
-                        )}
-                        <span className="verdict num">
-                          {mine.count} {mine.count === 1 ? 'smoke' : 'smokes'}
+                  {selecting ? (
+                    <label className="cigar-row cigar-pick">
+                      <input
+                        type="checkbox"
+                        checked={picked.has(cigar.id)}
+                        onChange={() => togglePick(cigar.id)}
+                      />
+                      <span className="pick-main">
+                        <span className="pick-title">{cigarTitle(cigar)}</span>
+                        <span className="pick-sub">
+                          {sub && <span>{sub}</span>}
+                          <WrapperDot wrapper={cigar.wrapperType} />
+                          {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
                         </span>
                       </span>
-                    ) : (
-                      <ChevronRight size={20} strokeWidth={1.5} aria-hidden="true" />
-                    )}
-                  </Link>
-                  <button
-                    type="button"
-                    className="icon-btn lounge-toggle"
-                    aria-pressed={cigar.lounge !== null}
-                    aria-label={
-                      cigar.lounge
-                        ? `Take ${cigarTitle(cigar)} off the lounge list`
-                        : `Add ${cigarTitle(cigar)} to the lounge list`
-                    }
-                    onClick={() => toggleLounge(cigar)}
-                  >
-                    <Armchair size={20} strokeWidth={1.5} aria-hidden="true" />
-                  </button>
+                      {cigar.lounge && (
+                        <span className="in-lounge-mark" title="Already on the lounge list">
+                          <Armchair size={20} strokeWidth={1.5} aria-hidden="true" />
+                          <span className="sr-only">Already on the lounge list</span>
+                        </span>
+                      )}
+                    </label>
+                  ) : (
+                    <>
+                      <Link
+                        href={`/cigars/${cigar.id}`}
+                        className="cigar-row"
+                        aria-current={cigar.id === shownId ? 'true' : undefined}
+                      >
+                        <span className="pick-main">
+                          <span className="pick-title">{cigarTitle(cigar)}</span>
+                          <span className="pick-sub">
+                            {sub && <span>{sub}</span>}
+                            <WrapperDot wrapper={cigar.wrapperType} />
+                            {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
+                          </span>
+                        </span>
+                        {mine ? (
+                          <span className="cigar-row-score">
+                            {mine.average !== null && (
+                              <ScoreRing shown={mine.average} size={48} stroke={3}>
+                                <span className="ring-num num">{mine.average}</span>
+                              </ScoreRing>
+                            )}
+                            <span className="verdict num">
+                              {mine.count} {mine.count === 1 ? 'smoke' : 'smokes'}
+                            </span>
+                          </span>
+                        ) : (
+                          <ChevronRight size={20} strokeWidth={1.5} aria-hidden="true" />
+                        )}
+                      </Link>
+                      <button
+                        type="button"
+                        className="icon-btn lounge-toggle"
+                        aria-pressed={cigar.lounge !== null}
+                        aria-label={
+                          cigar.lounge
+                            ? `Take ${cigarTitle(cigar)} off the lounge list`
+                            : `Add ${cigarTitle(cigar)} to the lounge list`
+                        }
+                        onClick={() => toggleLounge(cigar)}
+                      >
+                        <Armchair size={20} strokeWidth={1.5} aria-hidden="true" />
+                      </button>
+                    </>
+                  )}
                 </li>
               </Fragment>
             )
           })}
         </ul>
         <div ref={sentinel} />
+
+        {selecting && (
+          <div className="select-bar" role="toolbar" aria-label="Selected cigars">
+            <span className="num" aria-live="polite">
+              {picked.size} selected
+            </span>
+            <button
+              type="button"
+              className="icon-btn"
+              aria-label="Stop selecting"
+              onClick={stopSelecting}
+            >
+              <X size={24} strokeWidth={1.5} aria-hidden="true" />
+            </button>
+            <button
+              type="button"
+              className="btn btn-primary"
+              disabled={pickedCigars.length === 0}
+              onClick={() => setBatching(true)}
+            >
+              <Armchair size={20} strokeWidth={1.5} aria-hidden="true" />
+              Add to lounge
+            </button>
+          </div>
+        )}
       </section>
 
       <section className="journal-detail" aria-label="Cigar detail">
@@ -327,6 +426,23 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
           <p className="journal-detail-empty muted">Pick a cigar to see it here.</p>
         )}
       </section>
+
+      <LoungeBatchForm
+        open={batching}
+        cigars={pickedCigars}
+        onClose={() => setBatching(false)}
+        onDone={(added, undo) => {
+          stopSelecting()
+          showToast({
+            message:
+              added === 0
+                ? 'Spot saved on the lounge list'
+                : `${added} ${added === 1 ? 'stick is' : 'sticks are'} on the lounge list`,
+            actionLabel: 'Undo',
+            onAction: () => void undo(),
+          })
+        }}
+      />
 
       <CigarForm
         open={adding}

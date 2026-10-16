@@ -42,7 +42,6 @@ export function nextKnown(level: KnownLevel): KnownLevel {
 export function newLoungeEntry(fields: Partial<LoungeEntry> = {}, now = new Date()): LoungeEntry {
   return {
     addedAt: now.toISOString(),
-    price: null,
     shelf: '',
     note: '',
     known: 'new',
@@ -88,8 +87,6 @@ export interface LoungeFilter {
   wrapper: string | null
   flavor: string | null
   priceTier: number | null
-  /** Lounge price at or under this many dollars. */
-  maxPrice: number | null
   known: KnownLevel | null
 }
 
@@ -99,7 +96,6 @@ export const EMPTY_LOUNGE_FILTER: LoungeFilter = {
   wrapper: null,
   flavor: null,
   priceTier: null,
-  maxPrice: null,
   known: null,
 }
 
@@ -110,7 +106,6 @@ export function isFiltered(filter: LoungeFilter): boolean {
     filter.wrapper !== null ||
     filter.flavor !== null ||
     filter.priceTier !== null ||
-    filter.maxPrice !== null ||
     filter.known !== null
   )
 }
@@ -129,9 +124,6 @@ export function filterLounge(cigars: LoungeCigar[], filter: LoungeFilter): Loung
     if (filter.wrapper !== null && cigar.wrapperType !== filter.wrapper) return false
     if (filter.priceTier !== null && cigar.priceTier !== filter.priceTier) return false
     if (filter.known !== null && cigar.lounge.known !== filter.known) return false
-    if (filter.maxPrice !== null) {
-      if (cigar.lounge.price === null || cigar.lounge.price > filter.maxPrice) return false
-    }
     const flavors = cigarFlavors(cigar)
     if (filter.flavor !== null && !flavors.includes(filter.flavor)) return false
     if (words.length > 0) {
@@ -176,6 +168,94 @@ export function wrapperOptionsOf(cigars: LoungeCigar[]): string[] {
   const set = new Set<string>()
   for (const cigar of cigars) if (cigar.wrapperType) set.add(cigar.wrapperType)
   return [...set].sort(compare)
+}
+
+/** The lounge sheet's cigars that are not on the lounge list yet, for the one-tap add. */
+export function sheetNotListed(cigars: Iterable<Cigar>, sheetIds: Iterable<string>): Cigar[] {
+  const wanted = new Set(sheetIds)
+  const out: Cigar[] = []
+  for (const cigar of cigars) {
+    if (wanted.has(cigar.id) && !cigar.deletedAt && !cigar.lounge) out.push(cigar)
+  }
+  return sortByName(out)
+}
+
+/** The sheet's "If they like this, suggest" names, one per entry. */
+export function similarNames(cigar: Cigar): string[] {
+  return (cigar.similarCigars ?? '')
+    .split(/[;,]/)
+    .map((name) => name.trim())
+    .filter(Boolean)
+}
+
+const squash = (text: string) => fold(text).replace(/[^a-z0-9]/g, '')
+
+/**
+ * Finds the catalog cigar a sheet name points at. The sheet writes "Ashton VSG" for the
+ * line "Virgin Sun Grown (VSG)" and "Padron 3000" for "Series 3000", so after an exact
+ * match it accepts the brand plus a word of the line, shortest line first.
+ */
+export function cigarNamed<T extends Cigar>(name: string, cigars: T[]): T | undefined {
+  const wanted = squash(name)
+  if (!wanted) return undefined
+  let loose: T | undefined
+  for (const cigar of cigars) {
+    const brand = squash(cigar.brand)
+    const line = squash(cigar.line)
+    if (wanted === brand + line) return cigar
+    if (!brand || !wanted.startsWith(brand)) continue
+    const rest = wanted.slice(brand.length)
+    if (!rest || !line) continue
+    if (line.includes(rest) || rest.includes(line)) {
+      if (!loose || cigar.line.length < loose.line.length) loose = cigar
+    }
+  }
+  return loose
+}
+
+export interface SimilarInLounge {
+  /** The sheet's suggestions that are on the lounge list. */
+  named: LoungeCigar[]
+  /** The sheet's suggestions the lounge does not carry, by name. */
+  notStocked: string[]
+  /** Other lounge sticks in the same strength group, nearest in wrapper and flavors first. */
+  close: LoungeCigar[]
+}
+
+/**
+ * What to offer when a guest has already tried this one: the sheet's own suggestions when
+ * the lounge has them, then the nearest lounge sticks of the same strength.
+ */
+export function similarInLounge(cigar: Cigar, stocked: LoungeCigar[], limit = 5): SimilarInLounge {
+  const others = stocked.filter((other) => other.id !== cigar.id)
+  const named: LoungeCigar[] = []
+  const notStocked: string[] = []
+  for (const name of similarNames(cigar)) {
+    const found = cigarNamed(name, others)
+    if (found) {
+      if (!named.includes(found)) named.push(found)
+    } else notStocked.push(name)
+  }
+  const group = groupOf(cigar.strength)
+  const flavors = new Set(cigarFlavors(cigar))
+  const scored = others
+    .filter((other) => !named.includes(other) && groupOf(other.strength) === group)
+    .map((other) => {
+      let score = 0
+      if (cigar.wrapperType && other.wrapperType === cigar.wrapperType) score += 3
+      if (cigar.strength !== null && other.strength === cigar.strength) score += 2
+      if (cigar.country && other.country === cigar.country) score += 1
+      if (cigar.priceTier && other.priceTier === cigar.priceTier) score += 1
+      for (const flavor of cigarFlavors(other)) if (flavors.has(flavor)) score += 1
+      return { other, score }
+    })
+    .sort(
+      (a, b) =>
+        b.score - a.score ||
+        compare(a.other.brand, b.other.brand) ||
+        compare(a.other.line, b.other.line),
+    )
+  return { named, notStocked, close: scored.slice(0, limit).map((entry) => entry.other) }
 }
 
 export interface LoungeTotals {

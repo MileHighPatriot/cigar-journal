@@ -28,7 +28,7 @@ export function LoungeForm({ open, cigarId, onClose, onSaved }: Props) {
   )
 }
 
-type Fields = Pick<LoungeEntry, 'price' | 'shelf' | 'note'>
+type Fields = Pick<LoungeEntry, 'shelf' | 'note'>
 
 function Form({ cigarId, onClose, onSaved }: Omit<Props, 'open'>) {
   const state = useStore()
@@ -36,14 +36,14 @@ function Form({ cigarId, onClose, onSaved }: Omit<Props, 'open'>) {
   const cigar = state.cigars.get(chosenId)
   const [fields, setFields] = useState<Fields>(() => {
     const was = cigarId ? state.cigars.get(cigarId)?.lounge : null
-    return was ? { price: was.price, shelf: was.shelf, note: was.note } : newLoungeEntry()
+    return was ? { shelf: was.shelf, note: was.note } : newLoungeEntry()
   })
   // Picking a cigar that is already on the list edits its entry instead of starting over.
   const existing = cigar?.lounge ?? null
   const [loadedFor, setLoadedFor] = useState(cigarId ?? '')
   if (cigar && loadedFor !== cigar.id) {
     setLoadedFor(cigar.id)
-    if (existing) setFields({ price: existing.price, shelf: existing.shelf, note: existing.note })
+    if (existing) setFields({ shelf: existing.shelf, note: existing.note })
   }
 
   function submit(event: FormEvent) {
@@ -72,35 +72,15 @@ function Form({ cigarId, onClose, onSaved }: Omit<Props, 'open'>) {
       <CigarChooser cigarId={chosenId} locked={cigarId !== undefined} onChange={setChosenId} />
       {cigar && (
         <>
-          <div className="form-row">
-            <label className="field">
-              <span>Lounge price</span>
-              <input
-                className="input num"
-                type="number"
-                inputMode="decimal"
-                min={0}
-                step={0.5}
-                placeholder="$"
-                value={fields.price ?? ''}
-                onChange={(event) =>
-                  setFields({
-                    ...fields,
-                    price: event.target.value === '' ? null : Number(event.target.value),
-                  })
-                }
-              />
-            </label>
-            <label className="field">
-              <span>Where it sits</span>
-              <input
-                className="input"
-                placeholder="Top shelf, left"
-                value={fields.shelf}
-                onChange={(event) => setFields({ ...fields, shelf: event.target.value })}
-              />
-            </label>
-          </div>
+          <label className="field">
+            <span>Where it sits</span>
+            <input
+              className="input"
+              placeholder="Top shelf, left"
+              value={fields.shelf}
+              onChange={(event) => setFields({ ...fields, shelf: event.target.value })}
+            />
+          </label>
           <label className="field">
             <span>Note to self</span>
             <textarea

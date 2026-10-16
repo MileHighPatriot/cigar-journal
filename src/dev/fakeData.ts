@@ -301,7 +301,6 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
         ...cigar,
         updatedAt: nowIso(),
         lounge: newLoungeEntry({
-          price: random() < 0.3 ? null : 8 + Math.floor(random() * 20),
           shelf: pick(random, SHELVES),
           note: FAKE_NOTE,
           known: pick(random, ['new', 'new', 'learning', 'known'] as const),

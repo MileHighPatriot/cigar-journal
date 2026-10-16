@@ -1,4 +1,12 @@
-import { GraduationCap, Pencil, Plus, Search, SlidersHorizontal } from 'lucide-react'
+import {
+  FileSpreadsheet,
+  GraduationCap,
+  Pencil,
+  Plus,
+  Search,
+  Shuffle,
+  SlidersHorizontal,
+} from 'lucide-react'
 import { Fragment, useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
@@ -9,10 +17,10 @@ import { Monogram, WrapperDot } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { StudyCards } from '../components/StudyCards'
 import { showToast } from '../components/toast'
-import { patchLounge, useStore } from '../data/store'
+import { addManyToLounge, patchLounge, useStore } from '../data/store'
 import type { KnownLevel } from '../data/types'
 import { type CigarStats, priceLabel, statsByCigar } from '../domain/cigars'
-import { cigarTitle, formatMoney } from '../domain/format'
+import { cigarTitle } from '../domain/format'
 import {
   cigarFlavors,
   EMPTY_LOUNGE_FILTER,
@@ -28,10 +36,13 @@ import {
   loungeTotals,
   nextKnown,
   STRENGTH_GROUPS,
+  sheetNotListed,
+  similarInLounge,
   studyDeck,
   wrapperOptionsOf,
 } from '../domain/lounge'
 import { levelLabel } from '../domain/scoring'
+import sheet from '../seed/lounge-sheet.json'
 import { CigarPage } from './CigarPage'
 
 const GROUP_CHOICES: { key: GroupKey | null; label: string }[] = [
@@ -60,6 +71,7 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
   const wrappers = useMemo(() => wrapperOptionsOf(stocked), [stocked])
   const flavors = useMemo(() => flavorOptions(stocked), [stocked])
   const stats = useMemo(() => statsByCigar(state.smokes.values()), [state.smokes])
+  const offSheet = useMemo(() => sheetNotListed(state.cigars.values(), sheet.ids), [state.cigars])
 
   const laptop = useMediaQuery(LAPTOP)
   const shownId = selectedId ?? (laptop ? groups[0]?.cigars[0]?.id : undefined)
@@ -67,6 +79,16 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
 
   function cycleKnown(cigar: LoungeCigar) {
     void patchLounge(cigar.id, { known: nextKnown(cigar.lounge.known) })
+  }
+
+  // The lounge's own sheet is the quickest start: every stick on it, one tap, then prune.
+  function addSheet() {
+    const { added, undo } = addManyToLounge(offSheet.map((cigar) => cigar.id))
+    showToast({
+      message: `${added} from the lounge sheet are on the list`,
+      actionLabel: 'Undo',
+      onAction: () => void undo(),
+    })
   }
 
   return (
@@ -103,14 +125,33 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
             <Etching art="emptybox" className="empty-art" />
             <p className="empty-title">Nothing on the lounge list yet</p>
             <p className="muted">
-              Walk the humidor and add each stick you see. Then study them here, by strength.
+              Start with the lounge sheet, then walk the humidor and fix the differences. Or add
+              each stick you see.
             </p>
-            <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
+            {offSheet.length > 0 && (
+              <button type="button" className="btn btn-primary" onClick={addSheet}>
+                <FileSpreadsheet size={20} strokeWidth={1.5} aria-hidden="true" />
+                Add the lounge sheet ({offSheet.length})
+              </button>
+            )}
+            <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>
               Add a lounge stick
             </button>
           </div>
         ) : (
           <>
+            {offSheet.length > 0 && (
+              <div className="sheet-nudge">
+                <span>
+                  <span className="num">{offSheet.length}</span> on the lounge sheet are not on the
+                  list.
+                </span>
+                <button type="button" className="btn btn-quiet" onClick={addSheet}>
+                  <FileSpreadsheet size={20} strokeWidth={1.5} aria-hidden="true" />
+                  Add them
+                </button>
+              </div>
+            )}
             <div className="search">
               <Search size={20} strokeWidth={1.5} aria-hidden="true" />
               <label className="sr-only" htmlFor="lounge-search">
@@ -220,24 +261,6 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
                         <option value="3">$$$</option>
                       </select>
                     </label>
-                    <label className="field">
-                      <span>Lounge price under</span>
-                      <input
-                        className="input num"
-                        type="number"
-                        inputMode="decimal"
-                        min={0}
-                        step={1}
-                        placeholder="$"
-                        value={filter.maxPrice ?? ''}
-                        onChange={(event) =>
-                          setFilter({
-                            ...filter,
-                            maxPrice: event.target.value === '' ? null : Number(event.target.value),
-                          })
-                        }
-                      />
-                    </label>
                   </div>
                   <div
                     className="segmented segmented-4"
@@ -311,6 +334,7 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
                     <LoungeRow
                       key={cigar.id}
                       cigar={cigar}
+                      stocked={stocked}
                       mine={stats.get(cigar.id)}
                       selected={cigar.id === shownId}
                       onKnown={() => cycleKnown(cigar)}
@@ -350,18 +374,25 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
 
 interface RowProps {
   cigar: LoungeCigar
+  stocked: LoungeCigar[]
   mine: CigarStats | undefined
   selected: boolean
   onKnown: () => void
   onEdit: () => void
 }
 
-function LoungeRow({ cigar, mine, selected, onKnown, onEdit }: RowProps) {
+function LoungeRow({ cigar, stocked, mine, selected, onKnown, onEdit }: RowProps) {
   const flavors = cigarFlavors(cigar).slice(0, 3)
   const known = cigar.lounge.known
   const title = cigarTitle(cigar)
+  // "Like this": what to offer when the guest has tried this one, and what to pour with it.
+  const [more, setMore] = useState(false)
+  const similar = useMemo(
+    () => (more ? similarInLounge(cigar, stocked) : null),
+    [more, cigar, stocked],
+  )
   return (
-    <li className="lounge-item">
+    <li className="lounge-item" data-open={more || undefined}>
       <Link
         href={`/lounge/${cigar.id}`}
         className="lounge-row"
@@ -375,9 +406,6 @@ function LoungeRow({ cigar, mine, selected, onKnown, onEdit }: RowProps) {
             <WrapperDot wrapper={cigar.wrapperType} />
             {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
             {cigar.priceTier && <span>{priceLabel(cigar.priceTier)}</span>}
-            {cigar.lounge.price !== null && (
-              <span className="num">{formatMoney(cigar.lounge.price)}</span>
-            )}
             {cigar.lounge.shelf && <span>{cigar.lounge.shelf}</span>}
           </span>
           {flavors.length > 0 && <FlavorTags tags={flavors} />}
@@ -411,7 +439,75 @@ function LoungeRow({ cigar, mine, selected, onKnown, onEdit }: RowProps) {
         >
           <Pencil size={20} strokeWidth={1.5} aria-hidden="true" />
         </button>
+        <button
+          type="button"
+          className="like-chip"
+          aria-expanded={more}
+          aria-label={`Like ${title}: similar sticks and pairings`}
+          onClick={() => setMore((open) => !open)}
+        >
+          <Shuffle size={16} strokeWidth={1.5} aria-hidden="true" />
+          Like this
+        </button>
       </span>
+      {similar && (
+        <div className="lounge-more">
+          {cigar.sheetPairings.length > 0 && (
+            <p className="lounge-more-line">
+              <span className="muted">Pairs with</span> {cigar.sheetPairings.join(', ')}
+            </p>
+          )}
+          {similar.named.length > 0 && (
+            <SimilarList label="The sheet says to suggest" cigars={similar.named} />
+          )}
+          {similar.close.length > 0 ? (
+            <SimilarList
+              label={
+                similar.named.length > 0
+                  ? 'Also close, in the lounge'
+                  : 'Close to it, in the lounge'
+              }
+              cigars={similar.close}
+            />
+          ) : (
+            similar.named.length === 0 && (
+              <p className="muted">Nothing else in the lounge is this strength yet.</p>
+            )
+          )}
+          {similar.notStocked.length > 0 && (
+            <p className="lounge-more-line muted">
+              Not in the lounge: {similar.notStocked.join(', ')}
+            </p>
+          )}
+        </div>
+      )}
     </li>
+  )
+}
+
+function SimilarList({ label, cigars }: { label: string; cigars: LoungeCigar[] }) {
+  return (
+    <div className="similar">
+      <p className="hero-label">{label}</p>
+      <ul className="similar-list">
+        {cigars.map((cigar) => (
+          <li key={cigar.id}>
+            <Link href={`/lounge/${cigar.id}`} className="similar-row">
+              <Monogram brand={cigar.brand || cigar.line} />
+              <span className="pick-main">
+                <span className="pick-brand">{cigar.brand}</span>
+                <span className="pick-title">{cigarTitle(cigar)}</span>
+                <span className="pick-sub">
+                  <WrapperDot wrapper={cigar.wrapperType} />
+                  {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
+                  {cigar.priceTier && <span>{priceLabel(cigar.priceTier)}</span>}
+                  {cigar.lounge.shelf && <span>{cigar.lounge.shelf}</span>}
+                </span>
+              </span>
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </div>
   )
 }

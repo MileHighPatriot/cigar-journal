@@ -29,7 +29,6 @@ import {
   formatDate,
   formatInches,
   formatMinutes,
-  formatMoney,
   hostOf,
 } from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
@@ -244,9 +243,6 @@ export function CigarPage({ id, backHref = '/cigars' }: Props) {
           <Link href={`/lounge/${cigar.id}`} className="ready-line text-link">
             On the lounge list
           </Link>
-          {cigar.lounge.price !== null && (
-            <span className="num">{formatMoney(cigar.lounge.price)} at the lounge</span>
-          )}
           {cigar.lounge.shelf && <span>{cigar.lounge.shelf}</span>}
           {cigar.lounge.note && <span className="muted">{cigar.lounge.note}</span>}
         </p>

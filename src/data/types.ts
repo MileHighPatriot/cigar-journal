@@ -62,8 +62,6 @@ export type KnownLevel = 'new' | 'learning' | 'known'
 /** What Kohlton knows about a cigar the lounge stocks. Lives on the cigar record. */
 export interface LoungeEntry {
   addedAt: Iso
-  /** What the lounge charges, when he noted it. */
-  price: number | null
   /** Where it sits in the humidor, in his words ("top shelf, left"). */
   shelf: string
   note: string

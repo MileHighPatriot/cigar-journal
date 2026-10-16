@@ -331,6 +331,8 @@ def main(src, dest, general=None, research_dir=None, flavor_notes=None):
         raise SystemExit("Duplicate brand + line in the sheet")
 
     sheet_count = len(cigars)
+    # Ids never change after this point, so the lounge-sheet list can be written at the end.
+    sheet_ids = {c["id"] for c in cigars}
     if general:
         for cigar in general_list(general):
             # The lounge sheet wins when both list the same brand and line.
@@ -424,6 +426,13 @@ def main(src, dest, general=None, research_dir=None, flavor_notes=None):
 
     with open(os.path.join(os.path.dirname(dest), "version.json"), "w", encoding="utf-8") as f:
         f.write('{ "seedVersion": %d }\n' % SEED_VERSION)
+    # Which cigars the lounge sheet lists, so the app can put the whole sheet on the lounge
+    # list in one tap. Ids only: the records themselves are in the catalog.
+    on_sheet = [c["id"] for c in cigars if c["id"] in sheet_ids]
+    with open(os.path.join(os.path.dirname(dest), "lounge-sheet.json"), "w", encoding="utf-8") as f:
+        json.dump({"ids": on_sheet}, f, indent=1)
+        f.write("\n")
+    print("%d of them are on the lounge sheet" % len(on_sheet))
     print("Wrote %d cigars to %s" % (len(cigars), dest))
 
 

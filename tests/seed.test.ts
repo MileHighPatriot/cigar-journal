@@ -80,7 +80,6 @@ describe('the lounge list on a cigar', () => {
     if (!stick) throw new Error('seed is empty')
     const lounge = {
       addedAt: '2026-10-15T20:00:00.000Z',
-      price: 12,
       shelf: 'top shelf',
       note: '',
       known: 'learning' as const,

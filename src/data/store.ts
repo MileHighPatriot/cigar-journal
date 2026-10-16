@@ -316,6 +316,34 @@ export function addToLounge(cigarId: string, fields: Partial<LoungeEntry> = {}):
   return saveRecord('cigars', { ...cigar, lounge })
 }
 
+/**
+ * Puts several cigars on the lounge list in one write, all with the same shelf note. One
+ * already on the list keeps its entry and only takes the shelf when one is given. Returns
+ * how many were new and an Undo that restores every record as it was.
+ */
+export function addManyToLounge(
+  cigarIds: Iterable<string>,
+  fields: Partial<LoungeEntry> = {},
+): { added: number; undo: () => Promise<void> } {
+  const before: Cigar[] = []
+  const after: Cigar[] = []
+  let added = 0
+  for (const id of cigarIds) {
+    const cigar = state.cigars.get(id)
+    if (!cigar || cigar.deletedAt) continue
+    before.push(cigar)
+    if (cigar.lounge) {
+      const patch = Object.fromEntries(Object.entries(fields).filter(([, v]) => v !== ''))
+      after.push({ ...cigar, lounge: { ...cigar.lounge, ...patch } })
+    } else {
+      after.push({ ...cigar, lounge: newLoungeEntry(fields) })
+      added += 1
+    }
+  }
+  if (after.length > 0) void saveBatch({ cigars: after })
+  return { added, undo: () => (before.length ? saveBatch({ cigars: before }) : Promise.resolve()) }
+}
+
 /** Takes a cigar off the lounge list. Returns what Undo needs to put it back. */
 export function removeFromLounge(cigarId: string): { undo: () => Promise<void> } {
   const cigar = state.cigars.get(cigarId)

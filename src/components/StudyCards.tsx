@@ -2,7 +2,6 @@ import { Check, RotateCcw, X } from 'lucide-react'
 import { useState } from 'react'
 import { patchLounge } from '../data/store'
 import { wrapperText } from '../domain/cigars'
-import { formatMoney } from '../domain/format'
 import { answerCard, cigarFlavors, KNOWN_LABELS, type LoungeCigar } from '../domain/lounge'
 import { FlavorTags } from './FlavorTags'
 import { LevelMeter } from './LevelMeter'
@@ -90,8 +89,8 @@ function Cards({ deck, onClose }: Omit<Props, 'open'>) {
   const wrapper = wrapperText(cigar)
   const facts = [
     cigar.country ? ['Made in', cigar.country] : null,
-    cigar.lounge.price !== null ? ['Lounge price', formatMoney(cigar.lounge.price)] : null,
     cigar.lounge.shelf ? ['Where it sits', cigar.lounge.shelf] : null,
+    cigar.sheetPairings.length > 0 ? ['Pairs with', cigar.sheetPairings.join(', ')] : null,
     cigar.similarCigars ? ['If they like this, suggest', cigar.similarCigars] : null,
   ].filter((fact): fact is [string, string] => fact !== null)
 

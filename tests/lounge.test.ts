@@ -3,6 +3,7 @@ import { newCigar } from '../src/data/factories'
 import type { Cigar, Level } from '../src/data/types'
 import {
   answerCard,
+  cigarNamed,
   EMPTY_LOUNGE_FILTER,
   filterLounge,
   flavorOptions,
@@ -12,8 +13,13 @@ import {
   loungeTotals,
   newLoungeEntry,
   nextKnown,
+  sheetNotListed,
+  similarInLounge,
+  similarNames,
   studyDeck,
 } from '../src/domain/lounge'
+import catalog from '../src/seed/catalog.json'
+import sheet from '../src/seed/lounge-sheet.json'
 
 function stocked(brand: string, line: string, fields: Partial<Cigar> = {}): Cigar {
   return newCigar({ brand, line, lounge: newLoungeEntry(), ...fields })
@@ -24,14 +30,14 @@ const padron = stocked('Padron', '1964 Anniversary', {
   wrapperType: 'Maduro/Broadleaf',
   flavors: ['cocoa', 'espresso', 'pepper'],
   priceTier: 3,
-  lounge: newLoungeEntry({ price: 24, shelf: 'top shelf', known: 'known' }),
+  lounge: newLoungeEntry({ shelf: 'top shelf', known: 'known' }),
 })
 const macanudo = stocked('Macanudo', 'Cafe', {
   strength: 1,
   wrapperType: 'Connecticut',
   flavors: ['cream', 'cedar'],
   priceTier: 1,
-  lounge: newLoungeEntry({ price: 9, known: 'learning' }),
+  lounge: newLoungeEntry({ known: 'learning' }),
 })
 const ashton = stocked('Ashton', 'Classic', {
   strength: 2,
@@ -105,10 +111,7 @@ describe('help me pick', () => {
     expect(pick({ flavor: 'cream' })).toEqual(['Macanudo', 'Ashton'])
   })
 
-  it('narrows by lounge price and what he knows', () => {
-    expect(pick({ maxPrice: 10 })).toEqual(['Macanudo'])
-    // A stick with no price noted cannot be promised under a price.
-    expect(pick({ maxPrice: 100 })).toEqual(['Padron', 'Macanudo'])
+  it('narrows by what he knows', () => {
     expect(pick({ known: 'new' })).toEqual(['Ashton', 'Oliva', 'Zino'])
   })
 
@@ -126,6 +129,64 @@ describe('help me pick', () => {
       { flavor: 'cream', count: 2 },
       { flavor: 'cedar', count: 1 },
     ])
+  })
+})
+
+describe('the lounge sheet in one tap', () => {
+  it('lists only the sheet cigars not on the lounge list yet, A to Z', () => {
+    const ids = [padron.id, notStocked.id, deleted.id, 'not-a-cigar']
+    const missing = sheetNotListed([padron, macanudo, notStocked, deleted], ids)
+    expect(missing.map((cigar) => cigar.brand)).toEqual(['Arturo Fuente'])
+  })
+
+  it('ships the sheet as ids that are all in the catalog', () => {
+    const inCatalog = new Set(catalog.cigars.map((cigar) => cigar.id))
+    expect(sheet.ids.length).toBeGreaterThan(100)
+    expect(sheet.ids.filter((id) => !inCatalog.has(id))).toEqual([])
+    expect(new Set(sheet.ids).size).toBe(sheet.ids.length)
+  })
+})
+
+describe('like this', () => {
+  const vsg = stocked('Ashton', 'Virgin Sun Grown (VSG)', { strength: 4, wrapperType: 'Sun Grown' })
+  const p3000 = stocked('Padron', 'Series 3000', { strength: 3 })
+  const opus = stocked('Arturo Fuente', 'OpusX', { strength: 5 })
+  const anejo = stocked('Arturo Fuente', 'Añejo', {
+    strength: 4,
+    wrapperType: 'Maduro/Broadleaf',
+    flavors: ['cocoa', 'cedar'],
+    similarCigars: 'Padron 1964 Anniversary; Ashton VSG; Baccarat Original',
+    sheetPairings: ['bourbon', 'coffee'],
+  })
+  const list = loungeCigars([padron, macanudo, ashton, oliva, mystery, vsg, p3000, opus, anejo])
+
+  it('reads the sheet names and finds them under their proper lines', () => {
+    expect(similarNames(anejo)).toEqual([
+      'Padron 1964 Anniversary',
+      'Ashton VSG',
+      'Baccarat Original',
+    ])
+    expect(cigarNamed('Ashton VSG', list)?.line).toBe('Virgin Sun Grown (VSG)')
+    expect(cigarNamed('Padron 3000', list)?.line).toBe('Series 3000')
+    expect(cigarNamed('Arturo Fuente Opus X', list)?.line).toBe('OpusX')
+    expect(cigarNamed('Baccarat Original', list)).toBeUndefined()
+  })
+
+  it('offers the sheet picks that are in the lounge, then the nearest of the same strength', () => {
+    const similar = similarInLounge(anejo, list)
+    expect(similar.named.map((cigar) => cigar.line)).toEqual([
+      '1964 Anniversary',
+      'Virgin Sun Grown (VSG)',
+    ])
+    expect(similar.notStocked).toEqual(['Baccarat Original'])
+    // Full group only, itself and the named ones left out, so the OpusX is the one close match.
+    expect(similar.close.map((cigar) => cigar.line)).toEqual(['OpusX'])
+  })
+
+  it('ranks by shared wrapper and flavors inside the strength group', () => {
+    const similar = similarInLounge(padron, list)
+    // Añejo shares the Maduro wrapper and cocoa; VSG and OpusX are full but share less.
+    expect(similar.close[0]?.line).toBe('Añejo')
   })
 })
 
