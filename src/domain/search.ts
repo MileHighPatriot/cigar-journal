@@ -40,6 +40,7 @@ export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): 
       ...THIRD_KEYS.flatMap((key) => [
         smoke.thirds[key].retrohale,
         ...smoke.thirds[key].retrohaleTags,
+        ...smoke.thirds[key].offTags,
       ]),
       smoke.constructionNote,
       smoke.pairingNote,

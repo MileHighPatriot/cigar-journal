@@ -24,13 +24,17 @@ export function smokeSummary(smoke: Smoke, cigar: Cigar | undefined): string {
     const shown = shownScore(smoke.score)
     lines.push(`Lounge 100: ${shown} · ${verdictFor(shown)}`)
   }
-  const thirds: [string, string[]][] = [
-    ['First third', smoke.thirds.first.tags],
-    ['Second third', smoke.thirds.second.tags],
-    ['Final third', smoke.thirds.final.tags],
+  const thirds: [string, string[], string[]][] = [
+    ['First third', smoke.thirds.first.tags, smoke.thirds.first.offTags],
+    ['Second third', smoke.thirds.second.tags, smoke.thirds.second.offTags],
+    ['Final third', smoke.thirds.final.tags, smoke.thirds.final.offTags],
   ]
-  for (const [label, tags] of thirds) {
-    if (tags.length > 0) lines.push(`${label}: ${tags.join(', ')}`)
+  for (const [label, tags, off] of thirds) {
+    const parts = [
+      tags.length > 0 ? tags.join(', ') : '',
+      off.length > 0 ? `Off: ${off.join(', ')}` : '',
+    ].filter(Boolean)
+    if (parts.length > 0) lines.push(`${label}: ${parts.join('. ')}`)
   }
   if (smoke.quickTags.length > 0) lines.push(`Flavors: ${smoke.quickTags.join(', ')}`)
   const pairing = [smoke.pairingType, smoke.pairingName].filter(Boolean).join(', ')

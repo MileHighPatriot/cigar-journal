@@ -321,9 +321,15 @@
 
 .smoke-card-sub,
 .smoke-card-meta,
-.smoke-card-tags {
+.smoke-card-tags,
+.smoke-card-thirds {
   font-size: var(--text-sm);
   color: var(--text-2);
+}
+
+.smoke-card-thirds {
+  color: var(--text);
+  overflow-wrap: anywhere;
 }
 
 .smoke-card-tags {

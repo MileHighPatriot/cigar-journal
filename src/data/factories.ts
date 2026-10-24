@@ -20,12 +20,17 @@ function syncFields(): SyncFields {
 function emptyThird(): Third {
   return {
     tags: [],
+    tagsSeeded: false,
+    offTags: [],
     strength: null,
     body: null,
     retrohale: '',
     retrohaleTags: [],
     note: '',
     issues: [],
+    draw: null,
+    burn: null,
+    ashFirmness: null,
   }
 }
 

@@ -1,10 +1,10 @@
 import { Link } from 'wouter'
 import type { Photo } from '../data/types'
 import { cigarTitle, formatDate, formatMinutes } from '../domain/format'
+import { cardFlavors } from '../domain/journal'
 import { shownScore, verdictFor } from '../domain/scoring'
 import type { SmokeRow } from '../domain/search'
 import { smokeSize } from '../domain/sizes'
-import { effectiveTags } from '../domain/tags'
 import { usePhotoUrl } from '../photos/usePhotoUrl'
 import { FlavorTags } from './FlavorTags'
 import { useNearViewport } from './hooks'
@@ -25,7 +25,7 @@ export function SmokeCard({ row, photo, selected, featured }: Props) {
   const wide = Boolean(featured && photo)
   const image = usePhotoUrl(photo?.id, wide ? 'full' : 'thumb', near)
   const shown = smoke.score === null ? null : shownScore(smoke.score)
-  const tags = effectiveTags(smoke).slice(0, 3)
+  const flavors = cardFlavors(smoke)
   const size = smokeSize(smoke, cigar)
   const meta = [formatDate(smoke.smokedAt), formatMinutes(smoke.durationMin)].filter(Boolean)
   const verdict = shown === null ? null : verdictFor(shown)
@@ -56,7 +56,11 @@ export function SmokeCard({ row, photo, selected, featured }: Props) {
           <span className="smoke-card-title">{cigar ? cigarTitle(cigar) : 'Unknown cigar'}</span>
           {size && <span className="smoke-card-sub">{size}</span>}
           <span className="smoke-card-meta num">{meta.join(' · ')}</span>
-          <FlavorTags tags={tags} className="smoke-card-tags" />
+          {flavors.mode === 'thirds' ? (
+            <span className="smoke-card-thirds">{flavors.text}</span>
+          ) : (
+            <FlavorTags tags={flavors.tags} className="smoke-card-tags" />
+          )}
         </span>
         <span className="smoke-card-score">
           {shown === null ? (

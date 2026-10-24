@@ -8,7 +8,7 @@ import { PHOTO_KINDS } from '../components/PhotoSection'
 import { ScoreRing } from '../components/ScoreRing'
 import { showToast } from '../components/toast'
 import { deleteSmoke, photosForSmoke, useStore } from '../data/store'
-import type { Photo } from '../data/types'
+import type { Photo, Third } from '../data/types'
 import {
   cigarTitle,
   formatDateLong,
@@ -17,10 +17,10 @@ import {
   formatRating,
   formatTime,
 } from '../domain/format'
+import { earlierSmoke, hitAndMiss, noteDelta } from '../domain/journal'
 import { levelLabel, RUBRIC, shownScore, verdictFor } from '../domain/scoring'
 import { smokeSize } from '../domain/sizes'
 import { smokeSummary } from '../domain/summary'
-import { effectiveTags } from '../domain/tags'
 import { usePhotoUrl } from '../photos/usePhotoUrl'
 
 const SETTING_LABELS = {
@@ -29,6 +29,43 @@ const SETTING_LABELS = {
   patio: 'Patio',
   other: 'Other',
 } as const
+
+function burnLine(third: Third): string {
+  return [
+    third.draw && `Draw ${third.draw}`,
+    third.burn && `Burn ${third.burn}`,
+    third.ashFirmness && `Ash ${third.ashFirmness}`,
+  ]
+    .filter(Boolean)
+    .join(' · ')
+}
+
+function Facts({ title, facts }: { title: string; facts: [string, string][] }) {
+  if (facts.length === 0) return null
+  return (
+    <section className="detail-section">
+      <h2>{title}</h2>
+      <dl className="facts">
+        {facts.map(([label, value]) => (
+          <div key={label}>
+            <dt>{label}</dt>
+            <dd>{value}</dd>
+          </div>
+        ))}
+      </dl>
+    </section>
+  )
+}
+
+function NoteGroup({ title, tags }: { title: string; tags: string[] }) {
+  if (tags.length === 0) return null
+  return (
+    <>
+      <h3>{title}</h3>
+      <FlavorTags tags={tags} />
+    </>
+  )
+}
 
 function Gallery({ photos }: { photos: Photo[] }) {
   const [index, setIndex] = useState(0)
@@ -83,7 +120,6 @@ export function SmokeDetail({ id }: { id: string }) {
   const size = smokeSize(smoke, cigar)
   const verdict = shown === null ? null : verdictFor(shown)
   const strength = levelLabel(smoke.strength ?? cigar?.strength ?? null)
-  const tags = effectiveTags(smoke)
   const where = smoke.setting === 'other' ? smoke.settingOther : SETTING_LABELS[smoke.setting]
   const meta = [
     formatDateLong(smoke.smokedAt),
@@ -101,16 +137,25 @@ export function SmokeDetail({ id }: { id: string }) {
     key,
     label,
     third: smoke.thirds[key],
-  })).filter(
-    ({ third }) =>
+  })).filter(({ third }) => {
+    const burning = [third.draw, third.burn, third.ashFirmness].filter(Boolean).join(' · ')
+    return (
       third.tags.length > 0 ||
+      third.offTags.length > 0 ||
       third.strength ||
       third.body ||
       third.retrohale ||
       third.retrohaleTags.length > 0 ||
       third.note ||
-      third.issues.length > 0,
-  )
+      third.issues.length > 0 ||
+      burning !== ''
+    )
+  })
+  const taste = hitAndMiss(smoke, cigar)
+  const hasTaste = taste.hit.length + taste.missed.length + taste.added.length > 0
+  const earlier = earlierSmoke(smoke, state.smokes.values())
+  const delta = earlier ? noteDelta(smoke, earlier) : null
+  const hasDelta = delta !== null && (delta.arrived.length > 0 || delta.dropped.length > 0)
   const BUY_LABELS = { no: 'No', single: 'A single', few: 'A few', box: 'A box' } as const
   const fact = (label: string, value: string | number | null | undefined): [string, string][] =>
     value === null || value === undefined || value === '' ? [] : [[label, String(value)]]
@@ -225,6 +270,71 @@ export function SmokeDetail({ id }: { id: string }) {
       <div className={photos.length > 0 ? 'detail-cols has-photos' : 'detail-cols'}>
         <Gallery photos={photos} />
         <div className="detail-info">
+          {groups
+            .filter((group) => group.title === 'Pre-light')
+            .map((group) => (
+              <Facts key={group.title} title={group.title} facts={group.facts} />
+            ))}
+
+          {thirdRows.length > 0 && (
+            <section className="detail-section">
+              <h2>By third</h2>
+              <ol className="thirds">
+                {thirdRows.map(({ key, label, third }) => {
+                  const burning = burnLine(third)
+                  return (
+                    <li key={key}>
+                      <h3>{label}</h3>
+                      <FlavorTags tags={third.tags} />
+                      {third.offTags.length > 0 && <p>Off: {third.offTags.join(', ')}</p>}
+                      {(third.strength || third.body) && (
+                        <p className="muted">
+                          {[
+                            third.strength && `Strength ${levelLabel(third.strength)}`,
+                            third.body && `Body ${levelLabel(third.body)}`,
+                          ]
+                            .filter(Boolean)
+                            .join(' \u00B7 ')}
+                        </p>
+                      )}
+                      {burning && <p className="muted">{burning}</p>}
+                      {(third.retrohale || third.retrohaleTags.length > 0) && (
+                        <p>Retrohale: {both(third.retrohaleTags, third.retrohale)}</p>
+                      )}
+                      {third.note && <p className="detail-note">{third.note}</p>}
+                      {third.issues.length > 0 && (
+                        <p className="muted">{third.issues.join(', ')}</p>
+                      )}
+                    </li>
+                  )
+                })}
+              </ol>
+            </section>
+          )}
+
+          {hasTaste && (
+            <section className="detail-section">
+              <h2>Hit and missed</h2>
+              {taste.hit.length === 0 && taste.missed.length === 0 ? (
+                <NoteGroup title="You tasted" tags={taste.added} />
+              ) : (
+                <>
+                  <NoteGroup title="You tasted" tags={taste.hit} />
+                  <NoteGroup title="You missed" tags={taste.missed} />
+                  <NoteGroup title="Added" tags={taste.added} />
+                </>
+              )}
+            </section>
+          )}
+
+          {hasDelta && delta && (
+            <section className="detail-section">
+              <h2>New this time</h2>
+              <NoteGroup title="Showed up" tags={delta.arrived} />
+              <NoteGroup title="Dropped off" tags={delta.dropped} />
+            </section>
+          )}
+
           <section className="detail-section">
             <h2>Lounge 100</h2>
             <dl className="ratings">
@@ -244,55 +354,11 @@ export function SmokeDetail({ id }: { id: string }) {
             {smoke.scoreNote && <p className="detail-note">{smoke.scoreNote}</p>}
           </section>
 
-          {tags.length > 0 && (
-            <section className="detail-section">
-              <h2>Flavors</h2>
-              <FlavorTags tags={tags} className="flavors-boxed" />
-            </section>
-          )}
-
-          {thirdRows.length > 0 && (
-            <section className="detail-section">
-              <h2>By third</h2>
-              <ol className="thirds">
-                {thirdRows.map(({ key, label, third }) => (
-                  <li key={key}>
-                    <h3>{label}</h3>
-                    <FlavorTags tags={third.tags} />
-                    {(third.strength || third.body) && (
-                      <p className="muted">
-                        {[
-                          third.strength && `Strength ${levelLabel(third.strength)}`,
-                          third.body && `Body ${levelLabel(third.body)}`,
-                        ]
-                          .filter(Boolean)
-                          .join(' \u00B7 ')}
-                      </p>
-                    )}
-                    {(third.retrohale || third.retrohaleTags.length > 0) && (
-                      <p>Retrohale: {both(third.retrohaleTags, third.retrohale)}</p>
-                    )}
-                    {third.note && <p className="detail-note">{third.note}</p>}
-                    {third.issues.length > 0 && <p className="muted">{third.issues.join(', ')}</p>}
-                  </li>
-                ))}
-              </ol>
-            </section>
-          )}
-
-          {groups.map((group) => (
-            <section key={group.title} className="detail-section">
-              <h2>{group.title}</h2>
-              <dl className="facts">
-                {group.facts.map(([label, value]) => (
-                  <div key={label}>
-                    <dt>{label}</dt>
-                    <dd>{value}</dd>
-                  </div>
-                ))}
-              </dl>
-            </section>
-          ))}
+          {groups
+            .filter((group) => group.title !== 'Pre-light')
+            .map((group) => (
+              <Facts key={group.title} title={group.title} facts={group.facts} />
+            ))}
 
           {smoke.summary && (
             <section className="detail-section">

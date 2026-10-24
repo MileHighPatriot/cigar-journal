@@ -1,7 +1,8 @@
 import { ChevronLeft } from 'lucide-react'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef } from 'react'
 import { Link, useLocation } from 'wouter'
-import { AROMA_TAGS, FlavorField, SmokeFlavors } from '../components/FlavorField'
+import { AROMA_TAGS, FlavorField } from '../components/FlavorField'
+import { FlavorTags } from '../components/FlavorTags'
 import { AutoText, ChipChoice, ChipMulti, Counter, LevelPicker } from '../components/fields'
 import { useAutosaveText } from '../components/hooks'
 import { PhotoSection } from '../components/PhotoSection'
@@ -11,9 +12,10 @@ import { SizePicker } from '../components/SizePicker'
 import { TapScale } from '../components/TapScale'
 import { TimerBar } from '../components/TimerBar'
 import { showToast } from '../components/toast'
-import { patchPrelight, patchSmoke, patchThird, useStore, whenSaved } from '../data/store'
+import { getState, patchPrelight, patchSmoke, patchThird, useStore, whenSaved } from '../data/store'
 import type {
   BuyAgain,
+  Cigar,
   CutType,
   Issue,
   LightMethod,
@@ -23,7 +25,9 @@ import type {
   ThirdKey,
 } from '../data/types'
 import { cigarTitle } from '../domain/format'
+import { carryTags, OFF_THIRD_NOTES, previousThird } from '../domain/journal'
 import { computeScore, RUBRIC, verdictFor } from '../domain/scoring'
+import { cigarFlavorTags } from '../domain/tags'
 import { fromLocalInput, toLocalInput } from '../domain/timer'
 
 const STEPS = [
@@ -31,7 +35,6 @@ const STEPS = [
   { key: 'first', label: 'First third' },
   { key: 'second', label: 'Second third' },
   { key: 'final', label: 'Final third' },
-  { key: 'flavors', label: 'Flavors' },
   { key: 'construction', label: 'Construction' },
   { key: 'setting', label: 'Setting' },
   { key: 'scores', label: 'Scores' },
@@ -88,12 +91,48 @@ const SETTINGS = opts<Setting>(
   ['other', 'Other'],
 )
 const BUY = opts<BuyAgain>(['no', 'No'], ['single', 'A single'], ['few', 'A few'], ['box', 'A box'])
+const OFF = opts<(typeof OFF_THIRD_NOTES)[number]>(
+  ['harsh', 'Harsh'],
+  ['bitter', 'Bitter'],
+  ['tar', 'Tar'],
+  ['sour', 'Sour'],
+)
+const DRAW = opts<NonNullable<Smoke['draw']>>(
+  ['tight', 'Tight'],
+  ['ideal', 'Ideal'],
+  ['loose', 'Loose'],
+)
+const BURN = opts<NonNullable<Smoke['burn']>>(
+  ['even', 'Even'],
+  ['wavy', 'Wavy'],
+  ['uneven', 'Uneven'],
+)
+const ASH = opts<NonNullable<Smoke['ashFirmness']>>(['firm', 'Firm'], ['flaky', 'Flaky'])
 
-function Prelight({ smoke }: { smoke: Smoke }) {
+function ExpectToTaste({ cigar }: { cigar: Cigar | undefined }) {
+  const notes = cigarFlavorTags(cigar)
+  return (
+    <section className="stack">
+      <div className="section-head">
+        <h2>Expect to taste</h2>
+      </div>
+      {notes.length > 0 ? (
+        <FlavorTags tags={notes} className="flavors-boxed" />
+      ) : (
+        <p className="muted">No tasting notes on file for this cigar.</p>
+      )}
+    </section>
+  )
+}
+
+function Prelight({ smoke, cigar }: { smoke: Smoke; cigar: Cigar | undefined }) {
   const { id, prelight } = smoke
+  const notes = cigarFlavorTags(cigar)
+  const hasNotes = notes.length > 0
   return (
     <div className="form-cols">
       <div className="stack">
+        <ExpectToTaste cigar={cigar} />
         <AutoText
           label="Wrapper look and feel"
           placeholder="Oily, toothy, veiny, firm"
@@ -103,7 +142,10 @@ function Prelight({ smoke }: { smoke: Smoke }) {
         <FlavorField
           label="Foot aroma"
           more="More aromas"
-          suggest={AROMA_TAGS}
+          suggest={hasNotes ? notes : AROMA_TAGS}
+          hint={
+            hasNotes ? 'These are the notes on file. Tap the ones you actually smell.' : undefined
+          }
           tags={prelight.aromaTags}
           onChange={(aromaTags) => void patchPrelight(id, { aromaTags })}
         />
@@ -115,7 +157,10 @@ function Prelight({ smoke }: { smoke: Smoke }) {
         />
         <FlavorField
           label="Cold draw"
-          suggest={AROMA_TAGS}
+          suggest={hasNotes ? notes : AROMA_TAGS}
+          hint={
+            hasNotes ? 'These are the notes on file. Tap the ones you actually taste.' : undefined
+          }
           tags={prelight.coldDrawTags}
           onChange={(coldDrawTags) => void patchPrelight(id, { coldDrawTags })}
         />
@@ -151,15 +196,98 @@ function Prelight({ smoke }: { smoke: Smoke }) {
   )
 }
 
-function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
+function sameTags(left: string[], right: string[]): boolean {
+  return left.length === right.length && left.every((tag, index) => tag === right[index])
+}
+
+function Third({
+  smoke,
+  third,
+  cigar,
+}: {
+  smoke: Smoke
+  third: ThirdKey
+  cigar: Cigar | undefined
+}) {
   const { id } = smoke
   const data = smoke.thirds[third]
-  // Flavors are picked once for the whole cigar, on the Flavors step. A smoke logged before
-  // that keeps its picks for this third, and they can still be changed here.
-  const [hadTags] = useState(data.tags.length > 0)
-  const [hadRetrohale] = useState(data.retrohaleTags.length > 0)
+  const notes = cigarFlavorTags(cigar)
+  const prev = previousThird(third)
+  const earlier = prev ? smoke.thirds[prev].tags : []
+  // Show the copy on the first paint, before the save lands.
+  const pendingCarry = !data.tagsSeeded && data.tags.length === 0 && earlier.length > 0
+  const shownTags = pendingCarry ? earlier : data.tags
+  const carried =
+    pendingCarry || (data.tagsSeeded && earlier.length > 0 && sameTags(shownTags, earlier))
+
+  // Copy the previous third's taste notes the first time this step is opened.
+  useEffect(() => {
+    const latest = getState().smokes.get(id)
+    if (!latest) return
+    const patch = carryTags(third, latest)
+    if (patch) void patchThird(id, third, patch)
+  }, [id, third])
+
   return (
     <div className="form-cols">
+      <div className="stack">
+        <FlavorField
+          label="Notes in this third"
+          suggest={notes.length > 0 ? notes : undefined}
+          hint={
+            carried
+              ? 'Started from the last third. Take off what faded and tap what showed up.'
+              : notes.length > 0
+                ? 'These are the notes on file. Tap the ones you actually taste.'
+                : 'No notes on file for this cigar. Tap any you taste.'
+          }
+          tags={shownTags}
+          onChange={(tags) => void patchThird(id, third, { tags, tagsSeeded: true })}
+        />
+        <ChipMulti
+          label="Off notes"
+          options={OFF}
+          values={data.offTags.filter((tag): tag is (typeof OFF_THIRD_NOTES)[number] =>
+            (OFF_THIRD_NOTES as readonly string[]).includes(tag),
+          )}
+          onChange={(offTags) => void patchThird(id, third, { offTags })}
+        />
+        <FlavorField
+          label="Retrohale"
+          suggest={notes.length > 0 ? notes : undefined}
+          hint={
+            notes.length > 0
+              ? 'These are the notes on file. Tap what comes through the nose.'
+              : 'Tap what comes through the nose.'
+          }
+          tags={data.retrohaleTags}
+          onChange={(retrohaleTags) => void patchThird(id, third, { retrohaleTags })}
+        />
+        <ChipChoice
+          label="Draw"
+          options={DRAW}
+          value={data.draw}
+          onChange={(draw) => void patchThird(id, third, { draw })}
+        />
+        <ChipChoice
+          label="Burn"
+          options={BURN}
+          value={data.burn}
+          onChange={(burn) => void patchThird(id, third, { burn })}
+        />
+        <ChipChoice
+          label="Ash"
+          options={ASH}
+          value={data.ashFirmness}
+          onChange={(ashFirmness) => void patchThird(id, third, { ashFirmness })}
+        />
+        <ChipMulti
+          label="Construction issues"
+          options={ISSUES}
+          values={data.issues}
+          onChange={(issues) => void patchThird(id, third, { issues })}
+        />
+      </div>
       <div className="stack">
         <LevelPicker
           label="Strength"
@@ -171,14 +299,6 @@ function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
           value={data.body}
           onChange={(body) => void patchThird(id, third, { body })}
         />
-        <ChipMulti
-          label="Construction issues"
-          options={ISSUES}
-          values={data.issues}
-          onChange={(issues) => void patchThird(id, third, { issues })}
-        />
-      </div>
-      <div className="stack">
         <AutoText
           label="Note"
           multiline
@@ -192,21 +312,6 @@ function Third({ smoke, third }: { smoke: Smoke; third: ThirdKey }) {
           value={data.retrohale}
           onCommit={(retrohale) => void patchThird(id, third, { retrohale })}
         />
-        {hadTags && (
-          <FlavorField
-            label="Flavors in this third"
-            tags={data.tags}
-            onChange={(tags) => void patchThird(id, third, { tags })}
-          />
-        )}
-        {hadRetrohale && (
-          <FlavorField
-            label="Retrohale"
-            count={8}
-            tags={data.retrohaleTags}
-            onChange={(retrohaleTags) => void patchThird(id, third, { retrohaleTags })}
-          />
-        )}
       </div>
     </div>
   )
@@ -563,10 +668,9 @@ export function LogFull({ id, step }: { id: string; step: string }) {
       <div className="flow-body">
         <TimerBar smoke={smoke} />
         <h1 className="flow-h1">{current.label}</h1>
-        {current.key === 'prelight' && <Prelight smoke={smoke} />}
-        {thirds && <Third key={current.key} smoke={smoke} third={current.key as ThirdKey} />}
-        {current.key === 'flavors' && (
-          <SmokeFlavors smoke={smoke} cigar={cigar} label="Tasting notes" />
+        {current.key === 'prelight' && <Prelight smoke={smoke} cigar={cigar} />}
+        {thirds && (
+          <Third key={current.key} smoke={smoke} third={current.key as ThirdKey} cigar={cigar} />
         )}
         {current.key === 'construction' && <Construction smoke={smoke} />}
         {current.key === 'setting' && <SettingStep smoke={smoke} />}

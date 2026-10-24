@@ -137,8 +137,8 @@ export function FlavorField({
 }
 
 /**
- * The one flavor list for a smoke. It starts filled in from the cigar list, so the only
- * tapping left is taking one off or adding one more.
+ * The one flavor list for a quick log. The cigar's notes are the chips, and none start
+ * selected. Tap the ones you actually taste.
  */
 export function SmokeFlavors({
   smoke,
@@ -157,7 +157,7 @@ export function SmokeFlavors({
       suggest={listed.length > 0 ? listed : undefined}
       hint={
         listed.length > 0
-          ? 'From the cigar list. Tap one to take it off or put it back.'
+          ? 'From the cigar list. Tap the ones you actually taste.'
           : 'No flavor notes on file for this cigar. Tap any you taste.'
       }
       tags={smoke.quickTags}

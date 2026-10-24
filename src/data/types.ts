@@ -116,12 +116,20 @@ export interface Prelight {
 
 export interface Third {
   tags: string[]
+  /** True once this third's taste notes were copied forward, or the third already had its own. */
+  tagsSeeded: boolean
+  /** Harsh, bitter, tar, sour. Kept off the taste-note row. */
+  offTags: string[]
   strength: Level | null
   body: Level | null
   retrohale: string
   retrohaleTags: string[]
   note: string
   issues: Issue[]
+  /** How this third drew, apart from the whole-cigar verdict on Construction. */
+  draw: 'tight' | 'ideal' | 'loose' | null
+  burn: 'even' | 'wavy' | 'uneven' | null
+  ashFirmness: 'firm' | 'flaky' | null
 }
 
 export type ThirdKey = 'first' | 'second' | 'final'

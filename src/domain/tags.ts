@@ -442,8 +442,9 @@ export function normalizeTag(word: string): string {
 }
 
 /**
- * The flavors a new smoke starts with: the cigar's published tasting notes, or the lounge
- * sheet's when there are none. Empty when nothing is on file.
+ * The notes to expect from a cigar: its published tasting notes, or the lounge sheet's
+ * when there are none. Empty when nothing is on file. A new smoke does not start with
+ * these already marked as tasted.
  */
 export function cigarFlavorTags(
   cigar: Pick<Cigar, 'flavors' | 'sheetFlavors'> | undefined,
@@ -453,13 +454,16 @@ export function cigarFlavorTags(
   return [...new Set(notes.map(normalizeTag).filter(Boolean))]
 }
 
-/** The smoke's own flavors plus every third's tags, without repeats. */
+/** The smoke's own flavors plus every third's taste notes and off notes, without repeats. */
 export function effectiveTags(smoke: Smoke): string[] {
   const all = [
     ...smoke.quickTags,
     ...smoke.thirds.first.tags,
+    ...smoke.thirds.first.offTags,
     ...smoke.thirds.second.tags,
+    ...smoke.thirds.second.offTags,
     ...smoke.thirds.final.tags,
+    ...smoke.thirds.final.offTags,
   ]
   return [...new Set(all)]
 }
