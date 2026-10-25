@@ -1,41 +1,100 @@
-/* The finish: what makes the brown feel like a cigar box instead of a flat screen.
-   The page is a wrapper leaf under a low lamp. Headers are cedar lids with a label frame,
-   smoke, and a fine gold line drawing. Journal cards wear a band. Every color is a token. */
+/* Havana workroom. Warm dark page, plaster type, factory red on actions.
+   A short red rule under each title. The rail is the wrapper, used straight. */
 
-/* ---------- The page ---------- */
-
-body {
-  background:
-    radial-gradient(110% 560px at 50% -120px, var(--lamp), transparent 70%) no-repeat,
-    linear-gradient(var(--shade), var(--shade)),
-    var(--leaf) 0 0 / 640px;
-  background-color: var(--bg);
-}
-
-/* The page glow is already in the lamp light. */
+body,
 .page,
 .detail {
-  background: none;
+  background: var(--bg);
 }
-
-/* ---------- Gold foil type ---------- */
 
 h1,
 .numeral,
 .sidebar-name {
-  background: var(--foil);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  filter: var(--text-emboss);
+  font-weight: 560;
+  letter-spacing: -0.03em;
 }
 
+/* The stamp: a short red rule under the page title, only as wide as the words. */
 h1 {
-  letter-spacing: 0.01em;
+  width: fit-content;
+  padding-bottom: 2px;
+  border-bottom: 2px solid var(--brass);
 }
 
-/* ---------- Cards, lifted off the leaf ---------- */
+.btn-log:not(:disabled),
+.tab-log {
+  background: var(--brass);
+  color: var(--on-brass);
+}
 
+.tab-log {
+  box-shadow: 0 0 0 4px var(--bg);
+}
+
+/* The rail is the wrapper shade itself. A missing wrapper is a quiet plaster line.
+   The three darkest leaves are lifted just enough to separate from the card. */
+.smoke-card {
+  --rail: var(--text-2);
+  border-left: 4px solid var(--rail);
+}
+
+.smoke-card[data-leaf="connecticut"] {
+  --rail: var(--leaf-connecticut);
+}
+.smoke-card[data-leaf="candela"] {
+  --rail: var(--leaf-candela);
+}
+.smoke-card[data-leaf="claro"] {
+  --rail: var(--leaf-claro);
+}
+.smoke-card[data-leaf="natural"] {
+  --rail: var(--leaf-natural);
+}
+.smoke-card[data-leaf="cameroon"] {
+  --rail: var(--leaf-cameroon);
+}
+.smoke-card[data-leaf="sumatra"] {
+  --rail: var(--leaf-sumatra);
+}
+.smoke-card[data-leaf="corojo"] {
+  --rail: var(--leaf-corojo);
+}
+.smoke-card[data-leaf="criollo"] {
+  --rail: var(--leaf-criollo);
+}
+.smoke-card[data-leaf="habano"] {
+  --rail: var(--leaf-habano);
+}
+.smoke-card[data-leaf="rosado"] {
+  --rail: var(--leaf-rosado);
+}
+.smoke-card[data-leaf="colorado"] {
+  --rail: var(--leaf-colorado);
+}
+.smoke-card[data-leaf="matafina"] {
+  --rail: color-mix(in srgb, var(--leaf-matafina) 62%, var(--text));
+}
+.smoke-card[data-leaf="sanandres"] {
+  --rail: color-mix(in srgb, var(--leaf-sanandres) 55%, var(--text));
+}
+.smoke-card[data-leaf="maduro"] {
+  --rail: color-mix(in srgb, var(--leaf-maduro) 50%, var(--text));
+}
+
+.band {
+  border-top: 0;
+  padding: var(--s3) var(--s4) 0;
+  background: none;
+}
+
+.band-brand {
+  color: var(--text-2);
+  letter-spacing: 0.14em;
+}
+
+.hero,
+.stat-card,
+.home-tile,
 .smoke-card,
 .pick-list,
 .mini-list,
@@ -43,401 +102,25 @@ h1 {
 .compare-head,
 .timer,
 .banner {
-  background: var(--card-sheen), var(--surface);
-  border-color: var(--edge-gold);
-  box-shadow: var(--card-shadow);
+  box-shadow: none;
 }
 
-.smoke-card:hover,
-.smoke-card[aria-current="true"] {
-  background: var(--card-sheen), var(--raised);
+.monogram {
+  background: transparent;
+  box-shadow: none;
 }
 
-/* ---------- The page header: the lid of a cigar box ---------- */
-
-.hero {
-  padding: var(--s6);
-  background:
-    var(--wood-veil),
-    var(--wood) 0 0 / 450px;
-  border-color: var(--edge-gold);
-  box-shadow: var(--card-shadow);
+.chart-bar,
+.chart-hbar {
+  background: var(--bone);
+  box-shadow: none;
 }
 
-.hero::after {
-  content: none;
-}
-
-.hero > .hero-fx {
-  position: absolute;
-  inset: 0;
-  overflow: hidden;
-  pointer-events: none;
-}
-
-/* The label frame: a double gold rule with a scooped corner and a brass stud, the way a box
-   label or a share certificate is bordered. One picture, sliced into corners and edges. */
-.hero-fx::after {
-  content: "";
-  position: absolute;
-  inset: 5px;
-  border: 30px solid transparent;
-  border-image: var(--frame) 30 / 30px stretch;
-}
-
-/* ---------- Line drawings ---------- */
-
-.etch {
-  display: block;
-  fill: none;
-  stroke: var(--ink-line);
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  overflow: visible;
-}
-
-/* Lines keep their weight at any size, so a small drawing is not a faint one. */
-.etch path,
-.etch circle,
-.etch ellipse {
-  vector-effect: non-scaling-stroke;
-}
-
-.etch .l1 {
-  stroke-width: 1.25px;
-}
-
-.etch .l2 {
-  stroke-width: 0.85px;
-  opacity: 0.85;
-}
-
-.etch .l3 {
-  stroke-width: 0.55px;
-  opacity: 0.6;
-}
-
-.etch-fill {
-  fill: var(--ink-line);
-  fill-opacity: 0.08;
-  stroke: none;
-}
-
-.etch-solid {
-  fill: var(--ink-line);
-  stroke: none;
-}
-
-.etch .turn {
-  transform-box: fill-box;
-  transform-origin: center;
-  animation: spin 240s linear infinite;
-}
-
-@keyframes spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-/* Smoke off the resting cigar: it sways a little and fades as it climbs. */
-.etch .wisp {
-  animation: wisp 7s ease-in-out infinite alternate;
-}
-
-.etch .wisp + .wisp {
-  animation-duration: 9s;
-  animation-direction: alternate-reverse;
-}
-
-@keyframes wisp {
-  from {
-    opacity: 0.25;
-  }
-
-  to {
-    opacity: 0.8;
-  }
-}
-
-/* Beside the page title: the drawing takes whatever room is left in the title row, so it
-   can never sit behind a button or a number. */
-.hero-top {
-  min-height: var(--etch);
-}
-
-.hero-etch {
-  flex: 1 1 0;
-  min-width: 0;
-  height: var(--etch);
-  opacity: 0.9;
-  filter: var(--etch-glow);
-}
-
-.wide-only {
-  display: none;
-}
-
-.empty-art {
-  opacity: 0.85;
-  filter: var(--etch-glow);
-}
-
-/* Smoke: silk ribbons rising, in two layers at different speeds. Only the picture inside
-   each layer moves, so nothing ever leaves the header's own box. It thins toward the left,
-   where the words are. */
-.smoke {
-  position: absolute;
-  inset: 0;
-  background-repeat: repeat;
-  -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / 0.3), #000 70%);
-  mask-image: linear-gradient(to right, rgb(0 0 0 / 0.3), #000 70%);
-}
-
-.smoke-a {
-  background-image: var(--smoke-a);
-  background-size: 460px 460px;
-  opacity: 0.44;
-  animation: smoke-a 46s linear infinite;
-}
-
-.smoke-b {
-  background-image: var(--smoke-b);
-  background-size: 340px 340px;
-  background-position: 120px 0;
-  opacity: 0.26;
-  animation: smoke-b 64s linear infinite;
-}
-
-@keyframes smoke-a {
-  to {
-    background-position: 0 -460px;
-  }
-}
-
-@keyframes smoke-b {
-  from {
-    background-position: 120px 0;
-  }
-
-  to {
-    background-position: 120px -340px;
-  }
-}
-
-/* The frame takes a little width, so the three labels stay on one line each. */
-.hero-facts {
-  gap: var(--s1);
-}
-
-.hero-facts dt {
-  white-space: nowrap;
-  font-size: 11px;
-  letter-spacing: -0.01em;
-}
-
-.hero-facts dd {
-  color: var(--gold-hi);
-}
-
-/* ---------- Brass ---------- */
-
-.btn-primary:not(:disabled) {
-  background: var(--foil-flat);
-  box-shadow: var(--brass-emboss);
-}
-
-.chip[aria-pressed="true"],
-.chip[aria-checked="true"] {
-  background: var(--foil-flat);
-}
-
-/* The Log button glows like an ember. */
-.tab-log {
-  background: var(--foil-flat);
-  box-shadow:
-    0 0 0 4px var(--bg),
-    var(--brass-hi),
-    0 0 26px var(--ember);
-  animation: ember 3.6s ease-in-out infinite alternate;
-}
-
-@keyframes ember {
-  from {
-    box-shadow:
-      0 0 0 4px var(--bg),
-      var(--brass-hi),
-      0 0 10px transparent;
-  }
-}
-
-.tabbar,
-.sidebar,
-.flow-head,
-.actionbar {
-  background:
-    var(--bar-veil),
-    var(--wood) 0 0 / 450px;
-  border-color: var(--edge-gold);
-}
-
-.ring-fill {
-  filter: var(--ring-glow);
-}
-
-.input {
-  background: var(--input-fill);
-}
-
-/* ---------- Band detailing ---------- */
-
-/* Each journal card wears a real band: oxblood between two gold edges. */
-.band {
-  border-top: 0;
-  padding: 7px var(--s4);
-  background:
-    linear-gradient(var(--gold-hi), var(--brass)) top / 100% 2px no-repeat,
-    linear-gradient(var(--brass), var(--gold-lo)) bottom / 100% 2px no-repeat,
-    radial-gradient(120% 220% at 20% 0%, var(--oxblood), var(--oxblood-deep));
-  box-shadow: var(--band-shadow);
-}
-
-.band-brand {
-  color: var(--gold-hi);
-  letter-spacing: 0.16em;
-}
-
-/* Month headings: a rule on both sides of the words. */
-.month-head {
-  justify-content: center;
-  color: var(--brass);
-}
-
-.month-head::before {
-  content: "";
-  flex: 1;
-  height: 1px;
-  background: linear-gradient(270deg, var(--edge-gold), transparent);
-}
-
-.month-head::after {
-  background: linear-gradient(90deg, var(--edge-gold), transparent);
-}
-
-/* The best verdict is stamped like a seal. */
 .verdict[data-verdict="Box-worthy"] {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  color: var(--gold-hi);
+  color: var(--text);
 }
 
 .verdict[data-verdict="Box-worthy"]::before {
-  content: "";
-  flex: none;
-  width: 11px;
-  height: 11px;
-  border-radius: 50%;
-  background: var(--stud-metal);
-  box-shadow: 0 0 0 1.5px var(--oxblood);
-}
-
-.detail-section > h2 {
-  display: flex;
-  align-items: center;
-  gap: var(--s2);
-  color: var(--gold-hi);
-}
-
-.detail-section > h2::after {
-  content: "";
-  flex: 1;
-  height: 1px;
-  background: linear-gradient(90deg, var(--edge-gold), transparent);
-}
-
-/* ---------- Charts and counters in brass ---------- */
-
-.stat-card {
-  background: var(--card-sheen), var(--surface);
-  border-color: var(--edge-gold);
-  box-shadow: var(--card-shadow);
-}
-
-.chart-bar {
-  background: var(--foil-flat);
-  box-shadow: var(--brass-hi);
-}
-
-.chart-hbar {
-  background: linear-gradient(90deg, var(--gold-lo), var(--brass) 55%, var(--gold-hi));
-}
-
-.chart-dot,
-.monogram {
-  background: var(--stud-metal);
-}
-
-.monogram {
-  color: var(--on-brass);
-  border-color: var(--gold-lo);
-  box-shadow: var(--brass-hi);
-}
-
-/* Brand headings in the cigar list: a strip of cedar with a gold edge. */
-.brand-head {
-  padding: var(--s2) var(--s3);
-  background:
-    var(--bar-veil),
-    var(--wood) 0 0 / 450px;
-  border-bottom: 1px solid var(--edge-gold);
-  border-radius: var(--radius) var(--radius) 0 0;
-  color: var(--gold-hi);
-}
-
-/* More room on a tablet or laptop: bigger drawings, and one beside Compare's switch. */
-@media (min-width: 768px) {
-  .hero {
-    --etch: 92px;
-  }
-
-  .wide-only {
-    display: block;
-  }
-
-  .empty-art {
-    width: min(100%, 300px);
-    height: 220px;
-  }
-}
-
-/* A wide header shows the smoke at full size, so the same ribbon does not repeat across it. */
-@media (min-width: 768px) {
-  .smoke-a {
-    background-size: 900px 900px;
-    animation-name: smoke-a-wide;
-    animation-duration: 80s;
-  }
-
-  .smoke-b {
-    background-size: 660px 660px;
-    animation-name: smoke-b-wide;
-    animation-duration: 110s;
-  }
-}
-
-@keyframes smoke-a-wide {
-  to {
-    background-position: 0 -900px;
-  }
-}
-
-@keyframes smoke-b-wide {
-  from {
-    background-position: 120px 0;
-  }
-
-  to {
-    background-position: 120px -660px;
-  }
+  background: var(--brass);
+  box-shadow: none;
 }

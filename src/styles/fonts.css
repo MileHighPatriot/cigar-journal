@@ -9,10 +9,10 @@
 }
 
 @font-face {
-  font-family: "Libre Caslon Display";
+  font-family: "Fraunces Variable";
   font-style: normal;
   font-display: swap;
-  font-weight: 400;
-  src: url("../../node_modules/@fontsource/libre-caslon-display/files/libre-caslon-display-latin-400-normal.woff2")
-    format("woff2");
+  font-weight: 100 900;
+  src: url("../../node_modules/@fontsource-variable/fraunces/files/fraunces-latin-wght-normal.woff2")
+    format("woff2-variations");
 }

@@ -1,7 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { BarList, ColumnChart, DotPlot } from '../components/charts'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { ScoreRing } from '../components/ScoreRing'
 import { useStore } from '../data/store'
 import { cigarTitle, formatDate, formatMinutes, formatMoney, plural } from '../domain/format'
@@ -61,10 +60,8 @@ export function Stats() {
   return (
     <div className="page stats">
       <header className="hero">
-        <HeroArt />
         <div className="hero-top">
           <h1>Stats</h1>
-          <Etching art="rosette" className="hero-etch" />
         </div>
         <div className="kpis">
           <div className="kpi kpi-ring">
@@ -103,10 +100,9 @@ export function Stats() {
 
       {data.count === 0 ? (
         <div className="empty">
-          <Etching art="rosette" className="empty-art" />
           <p className="empty-title">Nothing to chart yet</p>
           <p className="muted">Log a few smokes and this page fills in on its own.</p>
-          <Link href="/log" className="btn btn-primary">
+          <Link href="/log" className="btn btn-primary btn-log">
             Log a smoke
           </Link>
         </div>

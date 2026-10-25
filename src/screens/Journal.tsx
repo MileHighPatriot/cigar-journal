@@ -2,7 +2,6 @@ import { Search, Trash2 } from 'lucide-react'
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'wouter'
 import { BackupReminder } from '../components/BackupReminder'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { InstallHint } from '../components/InstallHint'
 import { ScoreRing } from '../components/ScoreRing'
@@ -80,10 +79,8 @@ function Hero({ complete }: { complete: SmokeRow[] }) {
 
   return (
     <header className="hero">
-      <HeroArt />
       <div className="hero-top">
         <h1>Journal</h1>
-        <Etching art="leaves" className="hero-etch" />
       </div>
       {complete.length > 0 && (
         <div className="hero-stats">
@@ -194,10 +191,9 @@ export function Journal({ selectedId }: { selectedId?: string }) {
 
         {complete.length === 0 && drafts.length === 0 && (
           <div className="empty">
-            <Etching art="ashtray" className="empty-art" />
             <p className="empty-title">No smokes yet</p>
             <p className="muted">Tap Log a smoke to add your first one.</p>
-            <Link href="/log" className="btn btn-primary">
+            <Link href="/log" className="btn btn-primary btn-log">
               Log a smoke
             </Link>
           </div>

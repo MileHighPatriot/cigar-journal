@@ -132,7 +132,7 @@ export function LotPage({ id }: { id: string }) {
       <div className="detail-actions detail-actions-top">
         <button
           type="button"
-          className="btn btn-primary"
+          className="btn btn-primary btn-log"
           disabled={left === 0}
           onClick={() => void log()}
         >

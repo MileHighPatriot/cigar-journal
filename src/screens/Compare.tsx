@@ -2,7 +2,6 @@ import { Plus, Search, X } from 'lucide-react'
 import { type CSSProperties, type ReactNode, useMemo, useState, useSyncExternalStore } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { Monogram } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { Sheet } from '../components/Sheet'
@@ -136,10 +135,8 @@ export function Compare() {
   return (
     <div className="page compare">
       <header className="hero">
-        <HeroArt />
         <div className="hero-top">
           <h1>Compare</h1>
-          <Etching art="rosette" className="hero-etch wide-only" />
           <div className="segmented compare-mode" role="group" aria-label="What to compare">
             <button
               type="button"
@@ -166,10 +163,9 @@ export function Compare() {
 
       {rows.length === 0 ? (
         <div className="empty">
-          <Etching art="pair" className="empty-art" />
           <p className="empty-title">Nothing to compare yet</p>
           <p className="muted">Log a couple of smokes first.</p>
-          <Link href="/log" className="btn btn-primary">
+          <Link href="/log" className="btn btn-primary btn-log">
             Log a smoke
           </Link>
         </div>

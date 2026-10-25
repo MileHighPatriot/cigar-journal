@@ -2,7 +2,6 @@ import { Armchair, ChevronRight, ListChecks, Plus, Search, X } from 'lucide-reac
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { LoungeBatchForm } from '../components/LoungeBatchForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
@@ -151,10 +150,8 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
     <div className={selectedId ? 'journal has-detail' : 'journal'}>
       <section className="journal-list" aria-label="Cigars">
         <header className="hero">
-          <HeroArt />
           <div className="hero-top">
             <h1>Cigars</h1>
-            <Etching art="pair" className="hero-etch" />
             <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>
               <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
               Add new

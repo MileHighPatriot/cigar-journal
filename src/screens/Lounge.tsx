@@ -10,7 +10,6 @@ import {
 import { Fragment, useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { LoungeForm } from '../components/LoungeForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
@@ -95,10 +94,8 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
     <div className={selectedId ? 'journal has-detail' : 'journal'}>
       <section className="journal-list" aria-label="Lounge humidor">
         <header className="hero">
-          <HeroArt />
           <div className="hero-top">
             <h1>Lounge</h1>
-            <Etching art="box" className="hero-etch" />
             <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>
               <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
               Add
@@ -122,7 +119,6 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
 
         {stocked.length === 0 ? (
           <div className="empty">
-            <Etching art="emptybox" className="empty-art" />
             <p className="empty-title">Nothing on the lounge list yet</p>
             <p className="muted">
               Start with the lounge sheet, then walk the humidor and fix the differences. Or add

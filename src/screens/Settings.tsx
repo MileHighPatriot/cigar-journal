@@ -17,7 +17,6 @@ import {
   inspectBackup,
   summaryText,
 } from '../backup/importBackup'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { Sheet } from '../components/Sheet'
 import { SyncCard } from '../components/SyncCard'
 import { showToast } from '../components/toast'
@@ -173,10 +172,8 @@ export function Settings() {
   return (
     <div className="page settings">
       <header className="hero">
-        <HeroArt />
         <div className="hero-top">
           <h1>Settings</h1>
-          <Etching art="rosette" className="hero-etch" />
         </div>
         <p className="backup-state">
           <span className={unsaved > 0 ? 'state-dot is-due' : 'state-dot'} aria-hidden="true" />

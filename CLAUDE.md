@@ -47,14 +47,13 @@ The cigar list is researched (2026-10-11): 3,665 cigars in 267 brands, 3,591 fac
 ## Design
 
 - Tokens: `src/styles/tokens.css`. Nothing else hard-codes a color, radius, or font.
-- The finish (`src/styles/finish.css`, chosen by Kohlton 2026-10-11, redrawn 2026-10-12): the page is a wrapper leaf under a lamp, headers are cedar box lids with a gold label frame and smoke, journal cards wear an oxblood and gold band, titles and scores are gold foil. The textures in `src/assets/textures/` were generated for this app, not stock.
-- The logo (`Logo.tsx`, and `public/icon.svg` for the app icon): a crescent C and a cigar J whose smoke is the J's tail. After changing `public/icon.svg`, run `npm run icons`.
-- Home (`#/`) is the front page; the journal list is at `#/journal`.
-- Line drawings (`Etching` in `HeroArt.tsx`): one beside each page title, in the room left in the title row, and a larger one on each empty screen. Never put a drawing behind a number or a button.
-- Dark only. Libre Caslon Display for titles and the score numeral (24 px and up), IBM Plex Sans for the rest, tabular numbers for scores, dates, and counts.
-- Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone.
-- The cigar band (oxblood between gold edges) belongs on smoke cards only.
-- The look is lively on purpose (score rings, charts, color dots, motion; SPEC section 23). Illustrations are welcome when they are on theme (cigar boxes, tobacco leaves) and drawn as fine engraved line work or real materials. Nothing bright or cartoon-like: he turned down three colorful illustrated themes as "too cartoony" and prefers the brown. No stock photos. Honor reduced motion.
+- The finish (`src/styles/finish.css`, Havana workroom, 2026-10-24): warm dark walls, plaster type, factory red on actions, a short red rule under each page title. A smoke card wears a rail in that cigar's wrapper shade. Ready is a field green. No skyline, neon, pastel street, gold frame, texture, or smoke.
+- The logo (`Logo.tsx`, and `public/icon.svg` for the app icon): a crescent C and a cigar J, plaster on the warm dark ground, band and lit foot in factory red. After changing `public/icon.svg`, run `npm run icons`.
+- Home (`#/`) is the front page; the journal list is at `#/journal`. Home leads with Log and the last smoke. The four counts sit under that.
+- Dark only. Fraunces for titles and the score numeral (24 px and up), IBM Plex Sans for the rest, tabular numbers for scores, dates, and counts.
+- Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone. The floating Log button is that action.
+- The wrapper rail belongs on smoke cards only.
+- Score rings, charts, and wrapper and flavor dots stay. No stock photos. Honor reduced motion. Nothing glows or loops.
 - The "avoid" list in SPEC section 12 is binding.
 
 ## Verify before calling anything done

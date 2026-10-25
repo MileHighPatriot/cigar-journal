@@ -23,8 +23,8 @@ export default defineConfig({
         description: 'A personal cigar journal that works offline.',
         display: 'standalone',
         orientation: 'portrait',
-        theme_color: '#150F0A',
-        background_color: '#150F0A',
+        theme_color: '#16110e',
+        background_color: '#16110e',
         start_url: base,
         scope: base,
         icons: [

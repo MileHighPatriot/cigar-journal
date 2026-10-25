@@ -1,7 +1,6 @@
 import { Check, Pencil, Plus, Trash2 } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link } from 'wouter'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { LotForm } from '../components/LotForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { showToast } from '../components/toast'
@@ -114,10 +113,8 @@ export function Wishlist() {
   return (
     <div className="page">
       <header className="hero">
-        <HeroArt />
         <div className="hero-top">
           <h1>Wishlist</h1>
-          <Etching art="leaf" className="hero-etch" />
           <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>
             <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
             Add
@@ -137,7 +134,6 @@ export function Wishlist() {
 
       {open.length === 0 && bought.length === 0 && (
         <div className="empty">
-          <Etching art="leaf" className="empty-art" />
           <p className="empty-title">Nothing on your wishlist</p>
           <p className="muted">When a guest or a review sells you on one, note it here.</p>
           <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>

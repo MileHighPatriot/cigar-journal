@@ -52,7 +52,7 @@ Static single-page app. No server in Phase 1. Node on this Mac is v22.23.1, whic
 | idb | 8.0 | Thin promise wrapper over IndexedDB (about 1 kB). All we need is transactions and indexes. Dexie is larger and its extras are not needed at 500 entries. |
 | fflate | 0.8 | Builds and reads the backup zip in the browser, streaming, without recompressing photos. |
 | lucide-react | 1.55 | One outline icon set. Tree-shaken, and `strokeWidth={1.5}` matches the design. |
-| @fontsource/libre-caslon-display | 5.3 | Self-hosted woff2 for titles and the score numeral. |
+| @fontsource-variable/fraunces | 5.3 | Self-hosted woff2 for titles and the score numeral. Replaced Libre Caslon Display on 2026-10-24. |
 | @fontsource-variable/ibm-plex-sans | 5.3 | Self-hosted woff2, one file for all weights. |
 | @supabase/supabase-js | 2.117 | Added 2026-10-10 for automatic sync: sign-in with token refresh, the database call, and photo storage. Loaded as its own chunk (55 kB gzipped) only when sync is configured. |
 
@@ -502,24 +502,26 @@ Empty lines are left out.
 ### Tablet (768 to 1023 px)
 Phone layout with wider content: bottom tab bar, single pane, a two-column card grid. Compare is laptop only; under 1024 px its route shows one line, "Compare needs a wider screen. Open it on your laptop." No broken in-between states.
 
-## 12. Design: "after-hours lounge"
+## 12. Design: Havana workroom
 
-Dark, warm, quiet, premium, like a good humidor room at night. Kohlton's own photos carry the visual interest. The interface stays calm. Dark only in Phase 1.
+Warm dark walls, plaster type, and a flat factory red for actions. A short red rule sits under each page title. Each smoke card keeps a rail in that cigar's wrapper shade, and "ready" is a living tobacco green. His own photos carry the rest. Dark only. No skyline, neon, pastel street, or gold frame. See section 23.
 
 Tokens live in `src/styles/tokens.css` as CSS custom properties. Nothing else hard-codes a color, radius, or font.
 
 | Token | Value | Use |
 |---|---|---|
-| --bg | #16110D | Page background |
-| --surface | #211912 | Cards, bars |
-| --raised | #2C2219 | Sheets, selected rows |
-| --hairline | #3A2E23 | Dividers and card outlines (decorative) |
-| --control-border | #8A7964 | Input and unselected chip outlines. New token; see below. |
-| --text | #F0E6D6 | Primary text |
-| --text-2 | #B3A48E | Secondary text, placeholders |
-| --brass | #C9A063 | Buttons, active tab, score numerals, focus ring |
-| --on-brass | #16110D | Text on brass |
-| --cedar | #7E9A6A | "Ready" and success |
+| --bg | #16110E | Page background |
+| --surface | #221C17 | Cards, bars |
+| --raised | #2C241E | Sheets, selected rows |
+| --hairline | #3A322B | Dividers and card outlines (decorative) |
+| --control-border | #8F8274 | Input and unselected chip outlines. |
+| --text | #F7F1E6 | Primary text and score numerals |
+| --text-2 | #B7AA9A | Secondary text, placeholders |
+| --brass | #BE3A2B | Factory red. Primary buttons, selected chips, focus ring, the mark on the active tab. The name stayed so older rules pick up the new color. |
+| --on-brass | #F7F1E6 | Text on the red |
+| --ember | #BE3A2B | Same red, on Log |
+| --on-ember | #F7F1E6 | Text on Log |
+| --cedar | #3E7A4E | "Ready" and success, a field green |
 | --error | #E07A6A | Error text |
 | --destructive | #8E332C | Destructive button fill, with --text on it |
 
@@ -538,13 +540,13 @@ Contrast ratios, computed during planning:
 **Added pairing.** The hairline is only 1.2 to 1.4 to 1 against the surfaces, which is right for a quiet divider but too faint to mark the edge of an input or an unselected chip. `--control-border` #8A7964 gives 4.46, 4.12, and 3.70 to 1, above the 3 to 1 needed for control outlines. The build must re-check any other new pairing.
 
 **Type**
-- Libre Caslon Display: page titles and the big score numeral, 24 px and up only.
+- Fraunces: page titles and the big score numeral, 24 px and up only.
 - IBM Plex Sans: everything else. `font-variant-numeric: tabular-nums` on scores, dates, and counts. Check in the build that tabular figures really apply in the self-hosted file (measure "111" against "000"). If not, load the non-variable `@fontsource/ibm-plex-sans` files.
 - Body 16 px minimum on phone. Nothing under 12 px.
 
 **Shape and spacing.** 4 px spacing base. 6 px radius on cards and chips, 12 px on bottom sheets. Hairline borders, no drop shadows. Icons at 1.5 px stroke.
 
-**Signature detail.** A slim brass rule across the top of each smoke card with the brand in small caps, like a cigar band. Used there and nowhere else.
+**Signature detail.** A short factory-red rule under each page title, and a rail down the left of each smoke card in that cigar's wrapper shade. A cigar with no wrapper on file gets a quiet plaster line. The brand stays in small caps above the name. The rail belongs on smoke cards only.
 
 **Motion.** 150 to 200 ms ease-out for sheets and state changes. With `prefers-reduced-motion`, changes are instant, including the scale auto-scroll.
 
@@ -813,7 +815,7 @@ Scripts to define in `package.json`:
   - **Result:** 3,665 cigars in 267 brands, 3,591 of them checked. 23 of the new entries are Cuban (Ramon Allones and Partagas). The new files are `seed/research/more-NNN.json`, read by the same seed script; a research entry that matches no cigar in the two lists now makes a record of its own, with the same kind of fixed id. `SEED_VERSION` is 4. The seed script also corrects the lounge sheet's spelling of Plasencia.
   - **Size:** the catalog is now about 5.2 MB (930 KB compressed). It still loads only when a device's list is behind, and the offline cache limit in `vite.config.ts` was raised to 8 MB so it is still saved for offline use.
   - **Forgiving search** (`closestCigars` in `src/domain/search.ts`): when nothing matches every word, the Cigars tab and the log picker show the closest names in place of an empty page, under "No exact match. These are the closest." It drops words that match nothing and forgives a letter or two of misspelling ("liga pravada year of the rat", "cao flathead habano"). In the Cigars tab, cigars with every word in their name now come ahead of ones that only mention the words in their details.
-- **The cigar box finish** (Kohlton's request, 2026-10-11: the brown looked "plain and boring"). Three bright illustrated themes were mocked up first (a Havana night skyline, Miami neon, pastel Old Havana) and turned down as "too cartoony"; he prefers the brown and asked for it to be upgraded, with on-theme illustration allowed ("cigar boxes, cigar leafs"). He picked the version with band detailing. This replaces "no artwork of cigars" in section 12 and the lively-look note above.
+- **The cigar box finish** (Kohlton's request, 2026-10-11: the brown looked "plain and boring"). Three bright illustrated themes were mocked up first (a Havana night skyline, Miami neon, pastel Old Havana) and turned down as "too cartoony"; he prefers the brown and asked for it to be upgraded, with on-theme illustration allowed ("cigar boxes, cigar leafs"). He picked the version with band detailing. This replaces "no artwork of cigars" in section 12 and the lively-look note above. Replaced on 2026-10-24 by wrapper ink, which he also did not like. The same day the look became the Havana workroom in section 12: warm dark walls, plaster type, factory red on actions, a red rule under each title, and the wrapper rail kept as the crop. No skyline, neon, or pastel street.
   - **Materials:** the page background is a dark wrapper leaf with veins (`leaf.jpg`), darkened for reading and lit by a lamp glow from the top. Page headers, the tab bar, and the sidebar are cedar (`cedar.jpg`). Both textures and the two smoke layers were generated for this app by a script (procedural noise drawn in Chrome and saved as small images, about 330 KB together) and live in `src/assets/textures/`. They are precached, so they work offline.
   - **Headers** (`HeroArt` and `finish.css`): a double gold rule with a brass stud at each corner, like a box label; two layers of smoke rising slowly; and a fine gold line drawing behind the numbers: crossed tobacco leaves on Journal, one leaf on Cigars and Wishlist, an open cigar box on Humidor, a woven label rosette on Stats, Compare, and Settings. The smoke moves only as a background inside the header's own box, in keeping with the iPhone layout rule.
   - **Type and metal:** titles and score numerals are gold foil (a gradient clipped to the text), 34 px titles. Primary buttons, selected chips, and the Log button are brass with an embossed edge; the Log button has a slow ember glow.

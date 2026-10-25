@@ -8,6 +8,7 @@ import { smokeSize } from '../domain/sizes'
 import { usePhotoUrl } from '../photos/usePhotoUrl'
 import { FlavorTags } from './FlavorTags'
 import { useNearViewport } from './hooks'
+import { leafKey } from './Monogram'
 import { ScoreRing } from './ScoreRing'
 
 interface Props {
@@ -35,6 +36,7 @@ export function SmokeCard({ row, photo, selected, featured }: Props) {
       ref={ref}
       href={`/smokes/${smoke.id}`}
       className={wide ? 'smoke-card is-featured' : 'smoke-card'}
+      data-leaf={leafKey(cigar?.wrapperType)}
       aria-current={selected ? 'true' : undefined}
     >
       {/* The one signature detail: a brass band rule with the brand in small caps. */}

@@ -37,9 +37,15 @@ const LEAF: Record<string, string> = {
   'Maduro/Broadleaf': 'maduro',
 }
 
+/** The token key for a wrapper name, or undefined when the cigar has none on file. */
+export function leafKey(wrapper: string | null | undefined): string | undefined {
+  if (!wrapper) return undefined
+  return LEAF[wrapper]
+}
+
 /** A dot in the shade of the wrapper leaf, with the wrapper named for screen readers. */
 export function WrapperDot({ wrapper }: { wrapper: string | null }) {
-  const leaf = wrapper ? LEAF[wrapper] : undefined
+  const leaf = leafKey(wrapper)
   if (!wrapper || !leaf) return null
   return (
     <span className="leaf">

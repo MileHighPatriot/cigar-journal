@@ -1,9 +1,7 @@
 import { ChevronRight, Plus } from 'lucide-react'
 import { useMemo } from 'react'
 import { Link } from 'wouter'
-import { Etching, HeroArt } from '../components/HeroArt'
 import { InstallHint } from '../components/InstallHint'
-import { Logo } from '../components/Logo'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { SmokeCard } from '../components/SmokeCard'
 import { useStore } from '../data/store'
@@ -74,16 +72,14 @@ export function Home() {
 
   return (
     <div className="page home">
-      <header className="hero home-hero">
-        <HeroArt />
-        <Logo className="home-logo" />
+      <header className="home-top">
         <div className="home-words">
           <p className="home-kicker">{greeting(now.getHours())}</p>
           <h1>Cigar Journal</h1>
           <p className="muted">{dateLine.format(now)}</p>
         </div>
         <div className="home-actions">
-          <Link href="/log" className="btn btn-primary">
+          <Link href="/log" className="btn btn-primary btn-log">
             <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
             Log a smoke
           </Link>
@@ -100,6 +96,26 @@ export function Home() {
 
       <InstallHint />
 
+      <section className="home-section" aria-labelledby="home-last">
+        <div className="home-section-head">
+          <h2 id="home-last">Last smoke</h2>
+          {last && (
+            <Link href="/journal" className="home-more">
+              Open the journal
+              <ChevronRight size={18} strokeWidth={1.5} aria-hidden="true" />
+            </Link>
+          )}
+        </div>
+        {last ? (
+          <SmokeCard row={last} photo={photoBySmoke.get(last.smoke.id)} featured />
+        ) : (
+          <div className="empty home-empty">
+            <p className="empty-title">Your journal starts here</p>
+            <p className="muted">Log your first smoke and it shows up on this page.</p>
+          </div>
+        )}
+      </section>
+
       <ul className="home-tiles">
         {tiles.map((tile) => (
           <li key={tile.href}>
@@ -112,27 +128,6 @@ export function Home() {
       </ul>
 
       <div className="home-columns">
-        <section className="home-section" aria-labelledby="home-last">
-          <div className="home-section-head">
-            <h2 id="home-last">Last smoke</h2>
-            {last && (
-              <Link href="/journal" className="home-more">
-                Open the journal
-                <ChevronRight size={18} strokeWidth={1.5} aria-hidden="true" />
-              </Link>
-            )}
-          </div>
-          {last ? (
-            <SmokeCard row={last} photo={photoBySmoke.get(last.smoke.id)} featured />
-          ) : (
-            <div className="empty home-empty">
-              <Etching art="ashtray" className="empty-art" />
-              <p className="empty-title">Your journal starts here</p>
-              <p className="muted">Log your first smoke and it shows up on this page.</p>
-            </div>
-          )}
-        </section>
-
         <section className="home-section" aria-labelledby="home-ready">
           <div className="home-section-head">
             <h2 id="home-ready">Ready to smoke</h2>
@@ -166,7 +161,6 @@ export function Home() {
             </ul>
           ) : (
             <div className="empty home-empty">
-              <Etching art="emptybox" className="empty-art" />
               <p className="empty-title">Nothing rested yet</p>
               <p className="muted">Cigars in your humidor show up here once they are ready.</p>
               <Link href="/humidor" className="btn btn-quiet">
