@@ -2,6 +2,7 @@ import { Plus } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
+import { LabelArt } from '../components/LabelArt'
 import { LotForm } from '../components/LotForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { Pips } from '../components/Pips'
@@ -118,6 +119,7 @@ export function Humidor({ selectedId }: { selectedId?: string }) {
     <div className={selectedId ? 'journal has-detail' : 'journal'}>
       <section className="journal-list" aria-label="Humidor">
         <header className="hero">
+          <LabelArt compact scene="humidor" />
           <div className="hero-top">
             <h1>Humidor</h1>
             <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>

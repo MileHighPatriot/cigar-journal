@@ -13,6 +13,7 @@ import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
 import { FlavorTags } from '../components/FlavorTags'
+import { LabelArt } from '../components/LabelArt'
 import { LevelMeter } from '../components/LevelMeter'
 import { LotForm } from '../components/LotForm'
 import { LoungeForm } from '../components/LoungeForm'
@@ -156,6 +157,8 @@ export function CigarPage({ id, backHref = '/cigars' }: Props) {
           <ChevronLeft size={24} strokeWidth={1.5} aria-hidden="true" />
         </Link>
       </div>
+
+      <LabelArt compact scene="cigar" />
 
       <header className="detail-head">
         <div>

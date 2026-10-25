@@ -2,6 +2,7 @@ import { ChevronRight, Plus } from 'lucide-react'
 import { useMemo } from 'react'
 import { Link } from 'wouter'
 import { InstallHint } from '../components/InstallHint'
+import { LabelArt } from '../components/LabelArt'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { SmokeCard } from '../components/SmokeCard'
 import { useStore } from '../data/store'
@@ -72,6 +73,7 @@ export function Home() {
 
   return (
     <div className="page home">
+      <LabelArt />
       <header className="home-top">
         <div className="home-words">
           <p className="home-kicker">{greeting(now.getHours())}</p>

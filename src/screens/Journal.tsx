@@ -4,6 +4,7 @@ import { Link } from 'wouter'
 import { BackupReminder } from '../components/BackupReminder'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { InstallHint } from '../components/InstallHint'
+import { LabelArt } from '../components/LabelArt'
 import { ScoreRing } from '../components/ScoreRing'
 import { SmokeCard } from '../components/SmokeCard'
 import { Sparkline } from '../components/Sparkline'
@@ -79,6 +80,7 @@ function Hero({ complete }: { complete: SmokeRow[] }) {
 
   return (
     <header className="hero">
+      <LabelArt compact scene="salon" />
       <div className="hero-top">
         <h1>Journal</h1>
       </div>

@@ -2,6 +2,7 @@ import { Plus, Search, X } from 'lucide-react'
 import { type CSSProperties, type ReactNode, useMemo, useState, useSyncExternalStore } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
+import { LabelArt } from '../components/LabelArt'
 import { Monogram } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { Sheet } from '../components/Sheet'
@@ -135,6 +136,7 @@ export function Compare() {
   return (
     <div className="page compare">
       <header className="hero">
+        <LabelArt compact scene="pair" />
         <div className="hero-top">
           <h1>Compare</h1>
           <div className="segmented compare-mode" role="group" aria-label="What to compare">

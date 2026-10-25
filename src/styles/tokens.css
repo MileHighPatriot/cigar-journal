@@ -1,25 +1,25 @@
-/* Design tokens: Havana workroom. Warm dark walls, plaster type, factory red for actions.
-   The wrapper rail is the crop. Nothing else hard-codes a color, radius, or font. */
+/* Design tokens: a dark mount for the Havana label. Cream paper, label red,
+   palm green. Nothing else hard-codes a color, radius, or font. */
 :root {
   color-scheme: dark;
 
-  --bg: #16110e;
-  --surface: #221c17;
-  --raised: #2c241e;
-  --hairline: #3a322b;
+  --bg: #140e0c;
+  --surface: #241814;
+  --raised: #32241e;
+  --hairline: #4a3a32;
   /* Edges of inputs and unselected chips. The hairline is too faint for a control. */
-  --control-border: #8f8274;
-  --text: #f7f1e6;
-  --text-2: #b7aa9a;
-  /* Plaster for scores and charts. Factory red is the action color. The name --brass
-     stays so existing accent rules pick up the red. */
-  --bone: #f7f1e6;
-  --brass: #be3a2b;
-  --on-brass: #f7f1e6;
-  --ember: #be3a2b;
-  --on-ember: #f7f1e6;
-  --cedar: #3e7a4e;
-  --error: #e07a6a;
+  --control-border: #c4b09a;
+  --text: #f6efe4;
+  --text-2: #d4c3b0;
+  /* Warm paper for scores and charts. The name --brass stays so existing accent
+     rules pick up the red of the label frame. */
+  --bone: #f0d7a4;
+  --brass: #ee6a58;
+  --on-brass: #1a100c;
+  --ember: #ee6a58;
+  --on-ember: #1a100c;
+  --cedar: #6fbf78;
+  --error: #e07060;
   --destructive: #8e332c;
 
   /* Flavor families: a dot of color beside each tag. Decorative, never the only cue. */

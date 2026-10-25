@@ -1,7 +1,7 @@
 import { defineConfig, minimal2023Preset } from '@vite-pwa/assets-generator/config'
 
 // The icon already fills its square on the app background, so no padding is added.
-const fill = { padding: 0, resizeOptions: { background: '#16110e' } }
+const fill = { padding: 0, resizeOptions: { background: '#140e0c' } }
 
 export default defineConfig({
   preset: {

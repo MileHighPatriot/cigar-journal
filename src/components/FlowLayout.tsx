@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react'
+import { LabelArt } from './LabelArt'
 import { SavedBadge } from './SavedBadge'
 
 interface Props {
@@ -18,7 +19,10 @@ export function FlowLayout({ lead, title, children, actions }: Props) {
         <div className="flow-title">{title}</div>
         <SavedBadge />
       </header>
-      <div className="flow-body">{children}</div>
+      <div className="flow-body">
+        <LabelArt compact scene="cigar" />
+        {children}
+      </div>
       <div className="actionbar">{actions}</div>
     </div>
   )

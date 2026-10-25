@@ -2,6 +2,7 @@ import { Armchair, Bookmark, BookOpen, ChartColumn, Plus, Settings } from 'lucid
 import type { ComponentType } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarIcon, CompareIcon, HumidorIcon, MarkIcon } from './icons'
+import { LabelArt } from './LabelArt'
 import { Logo } from './Logo'
 import { SavedBadge } from './SavedBadge'
 
@@ -105,6 +106,7 @@ export function Sidebar() {
         <Logo className="sidebar-mark" />
         <span className="sidebar-name">Cigar Journal</span>
       </Link>
+      <LabelArt band scene="villa" />
       <Link href="/log" className="btn btn-primary btn-block">
         <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
         New log

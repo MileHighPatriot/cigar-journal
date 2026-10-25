@@ -3,6 +3,7 @@ import { useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
 import { useCountUp } from '../components/hooks'
+import { LabelArt } from '../components/LabelArt'
 import { WrapperDot } from '../components/Monogram'
 import { PHOTO_KINDS } from '../components/PhotoSection'
 import { ScoreRing } from '../components/ScoreRing'
@@ -226,6 +227,8 @@ export function SmokeDetail({ id }: { id: string }) {
           <ChevronLeft size={24} strokeWidth={1.5} aria-hidden="true" />
         </Link>
       </div>
+
+      <LabelArt compact scene="salon" />
 
       <header className="detail-head">
         <div>

@@ -11,6 +11,7 @@ import { Fragment, useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
+import { LabelArt } from '../components/LabelArt'
 import { LoungeForm } from '../components/LoungeForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
@@ -94,6 +95,7 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
     <div className={selectedId ? 'journal has-detail' : 'journal'}>
       <section className="journal-list" aria-label="Lounge humidor">
         <header className="hero">
+          <LabelArt compact scene="salon" />
           <div className="hero-top">
             <h1>Lounge</h1>
             <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>

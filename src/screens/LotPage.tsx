@@ -1,6 +1,7 @@
 import { ChevronLeft, Gift, Pencil, Plus, Trash2 } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
+import { LabelArt } from '../components/LabelArt'
 import { LotForm } from '../components/LotForm'
 import { WrapperDot } from '../components/Monogram'
 import { Pips } from '../components/Pips'
@@ -95,6 +96,8 @@ export function LotPage({ id }: { id: string }) {
           <ChevronLeft size={24} strokeWidth={1.5} aria-hidden="true" />
         </Link>
       </div>
+
+      <LabelArt compact scene="humidor" />
 
       <header className="detail-head">
         <div>

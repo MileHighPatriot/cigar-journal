@@ -28,6 +28,19 @@ function isTyping(target: EventTarget | null): boolean {
   return target.isContentEditable || ['INPUT', 'TEXTAREA', 'SELECT'].includes(target.tagName)
 }
 
+/** Which lithograph fills the page behind this screen. */
+function groundFor(path: string): string {
+  if (path.startsWith('/journal') || path.startsWith('/smokes')) return 'salon'
+  if (path.startsWith('/cigars')) return 'cigar'
+  if (path.startsWith('/humidor')) return 'humidor'
+  if (path.startsWith('/lounge')) return 'salon'
+  if (path.startsWith('/wishlist')) return 'cigar'
+  if (path.startsWith('/stats')) return 'medal'
+  if (path.startsWith('/compare')) return 'pair'
+  if (path.startsWith('/log')) return 'cigar'
+  return 'villa'
+}
+
 function Shell() {
   const state = useStore()
   const [path, navigate] = useLocation()
@@ -89,7 +102,7 @@ function Shell() {
   if (!state.ready) return <div className="splash" aria-busy="true" />
 
   return (
-    <div className={inFlow ? 'app in-flow' : 'app'}>
+    <div className={inFlow ? 'app in-flow' : 'app'} data-ground={groundFor(path)}>
       <Sidebar />
       <main className="app-main">
         <UpdatePrompt />

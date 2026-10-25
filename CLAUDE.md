@@ -47,8 +47,8 @@ The cigar list is researched (2026-10-11): 3,665 cigars in 267 brands, 3,591 fac
 ## Design
 
 - Tokens: `src/styles/tokens.css`. Nothing else hard-codes a color, radius, or font.
-- The finish (`src/styles/finish.css`, Havana workroom, 2026-10-24): warm dark walls, plaster type, factory red on actions, a short red rule under each page title. A smoke card wears a rail in that cigar's wrapper shade. Ready is a field green. No skyline, neon, pastel street, gold frame, texture, or smoke.
-- The logo (`Logo.tsx`, and `public/icon.svg` for the app icon): a crescent C and a cigar J, plaster on the warm dark ground, band and lit foot in factory red. After changing `public/icon.svg`, run `npm run icons`.
+- The finish (`src/styles/finish.css`, Havana label, 2026-10-24): cigar-label lithographs on every tab, the log, and the detail pages (`LabelArt`, pictures in `src/assets/`). Home shows the villa. Each page also carries a larger, see-through plate of its own (`ground-*.jpg`), low on the dark mount, and it is not the header picture. Label red on actions, a short red rule under each title. A smoke card wears a rail in that cigar's wrapper shade. Ready is palm green. No skyline drawing, neon, or pastel street.
+- The logo (`Logo.tsx`, and `public/icon.svg` for the app icon): a crescent C and a cigar J, cream on the dark mount, label-red band, gold foot. After changing `public/icon.svg`, run `npm run icons`.
 - Home (`#/`) is the front page; the journal list is at `#/journal`. Home leads with Log and the last smoke. The four counts sit under that.
 - Dark only. Fraunces for titles and the score numeral (24 px and up), IBM Plex Sans for the rest, tabular numbers for scores, dates, and counts.
 - Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone. The floating Log button is that action.

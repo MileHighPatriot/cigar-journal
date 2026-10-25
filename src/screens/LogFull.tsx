@@ -5,6 +5,7 @@ import { AROMA_TAGS, FlavorField } from '../components/FlavorField'
 import { FlavorTags } from '../components/FlavorTags'
 import { AutoText, ChipChoice, ChipMulti, Counter, LevelPicker } from '../components/fields'
 import { useAutosaveText } from '../components/hooks'
+import { LabelArt } from '../components/LabelArt'
 import { PhotoSection } from '../components/PhotoSection'
 import { SavedBadge } from '../components/SavedBadge'
 import { ScoreRing } from '../components/ScoreRing'
@@ -666,6 +667,7 @@ export function LogFull({ id, step }: { id: string; step: string }) {
       </nav>
 
       <div className="flow-body">
+        <LabelArt compact scene="cigar" />
         <TimerBar smoke={smoke} />
         <h1 className="flow-h1">{current.label}</h1>
         {current.key === 'prelight' && <Prelight smoke={smoke} cigar={cigar} />}

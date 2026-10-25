@@ -3,6 +3,7 @@ import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
+import { LabelArt } from '../components/LabelArt'
 import { LoungeBatchForm } from '../components/LoungeBatchForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
@@ -150,6 +151,7 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
     <div className={selectedId ? 'journal has-detail' : 'journal'}>
       <section className="journal-list" aria-label="Cigars">
         <header className="hero">
+          <LabelArt compact scene="cigar" />
           <div className="hero-top">
             <h1>Cigars</h1>
             <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>

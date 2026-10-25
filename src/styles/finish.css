@@ -1,10 +1,90 @@
-/* Havana workroom. Warm dark page, plaster type, factory red on actions.
-   A short red rule under each title. The rail is the wrapper, used straight. */
+/* Havana label. The lithograph at the top of each tab is the artwork.
+   The page is the dark mount. A quieter, different plate sits low and
+   see-through. The rail is still the wrapper. */
 
-body,
+html,
+body {
+  background-color: var(--bg);
+  background-image: none;
+}
+
+/* The ground plate is not the header picture, and it does not cover the
+   page. inset: 0 stays on the viewport. A width of 100vw would spill past
+   the screen and shrink the phone. */
+.app {
+  isolation: isolate;
+}
+
+.app::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: min(1280px, 100%) auto;
+  opacity: 0.7;
+}
+
+/* The url has to live on the property itself. A custom property would not be rewritten,
+   and the picture would never load. */
+.app[data-ground="villa"]::before {
+  background-image: url("../assets/ground-villa.jpg");
+}
+
+.app[data-ground="cigar"]::before {
+  background-image: url("../assets/ground-cigar.jpg");
+}
+
+.app[data-ground="humidor"]::before {
+  background-image: url("../assets/ground-humidor.jpg");
+}
+
+.app[data-ground="salon"]::before {
+  background-image: url("../assets/ground-salon.jpg");
+}
+
+.app[data-ground="pair"]::before {
+  background-image: url("../assets/ground-pair.jpg");
+}
+
+.app[data-ground="medal"]::before {
+  background-image: url("../assets/ground-medal.jpg");
+}
+
+.label-art {
+  margin: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 1px solid var(--hairline);
+  line-height: 0;
+}
+
+.label-art img {
+  display: block;
+  width: 100%;
+  height: clamp(200px, 46vw, 300px);
+  object-fit: cover;
+  object-position: center 46%;
+}
+
+.label-art-compact img {
+  height: 132px;
+}
+
+.label-art-band img {
+  height: 72px;
+}
+
+.sidebar {
+  overflow-y: auto;
+}
+
 .page,
-.detail {
-  background: var(--bg);
+.detail,
+.journal-list {
+  background: transparent;
 }
 
 h1,
@@ -14,24 +94,40 @@ h1,
   letter-spacing: -0.03em;
 }
 
-/* The stamp: a short red rule under the page title, only as wide as the words. */
+/* A short rule in the label's red, only as wide as the title. */
 h1 {
   width: fit-content;
-  padding-bottom: 2px;
-  border-bottom: 2px solid var(--brass);
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+h1::after {
+  content: "";
+  display: block;
+  height: 3px;
+  margin-top: 8px;
+  background: var(--brass);
 }
 
 .btn-log:not(:disabled),
 .tab-log {
   background: var(--brass);
   color: var(--on-brass);
-}
-
-.tab-log {
+  border-bottom: 0;
   box-shadow: 0 0 0 4px var(--bg);
 }
 
-/* The rail is the wrapper shade itself. A missing wrapper is a quiet plaster line.
+.tabbar,
+.sidebar {
+  background: var(--bg);
+}
+
+.tab[aria-current="page"]::before {
+  height: 3px;
+  background: var(--brass);
+}
+
+/* The rail is the wrapper shade itself. A missing wrapper is a quiet line.
    The three darkest leaves are lifted just enough to separate from the card. */
 .smoke-card {
   --rail: var(--text-2);
@@ -41,42 +137,55 @@ h1 {
 .smoke-card[data-leaf="connecticut"] {
   --rail: var(--leaf-connecticut);
 }
+
 .smoke-card[data-leaf="candela"] {
   --rail: var(--leaf-candela);
 }
+
 .smoke-card[data-leaf="claro"] {
   --rail: var(--leaf-claro);
 }
+
 .smoke-card[data-leaf="natural"] {
   --rail: var(--leaf-natural);
 }
+
 .smoke-card[data-leaf="cameroon"] {
   --rail: var(--leaf-cameroon);
 }
+
 .smoke-card[data-leaf="sumatra"] {
   --rail: var(--leaf-sumatra);
 }
+
 .smoke-card[data-leaf="corojo"] {
   --rail: var(--leaf-corojo);
 }
+
 .smoke-card[data-leaf="criollo"] {
   --rail: var(--leaf-criollo);
 }
+
 .smoke-card[data-leaf="habano"] {
   --rail: var(--leaf-habano);
 }
+
 .smoke-card[data-leaf="rosado"] {
   --rail: var(--leaf-rosado);
 }
+
 .smoke-card[data-leaf="colorado"] {
   --rail: var(--leaf-colorado);
 }
+
 .smoke-card[data-leaf="matafina"] {
   --rail: color-mix(in srgb, var(--leaf-matafina) 62%, var(--text));
 }
+
 .smoke-card[data-leaf="sanandres"] {
   --rail: color-mix(in srgb, var(--leaf-sanandres) 55%, var(--text));
 }
+
 .smoke-card[data-leaf="maduro"] {
   --rail: color-mix(in srgb, var(--leaf-maduro) 50%, var(--text));
 }

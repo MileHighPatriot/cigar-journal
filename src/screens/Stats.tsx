@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { BarList, ColumnChart, DotPlot } from '../components/charts'
+import { LabelArt } from '../components/LabelArt'
 import { ScoreRing } from '../components/ScoreRing'
 import { useStore } from '../data/store'
 import { cigarTitle, formatDate, formatMinutes, formatMoney, plural } from '../domain/format'
@@ -60,6 +61,7 @@ export function Stats() {
   return (
     <div className="page stats">
       <header className="hero">
+        <LabelArt compact scene="medal" />
         <div className="hero-top">
           <h1>Stats</h1>
         </div>

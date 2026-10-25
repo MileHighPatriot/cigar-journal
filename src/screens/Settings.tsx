@@ -17,6 +17,7 @@ import {
   inspectBackup,
   summaryText,
 } from '../backup/importBackup'
+import { LabelArt } from '../components/LabelArt'
 import { Sheet } from '../components/Sheet'
 import { SyncCard } from '../components/SyncCard'
 import { showToast } from '../components/toast'
@@ -172,6 +173,7 @@ export function Settings() {
   return (
     <div className="page settings">
       <header className="hero">
+        <LabelArt compact scene="villa" />
         <div className="hero-top">
           <h1>Settings</h1>
         </div>

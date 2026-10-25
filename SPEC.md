@@ -502,42 +502,44 @@ Empty lines are left out.
 ### Tablet (768 to 1023 px)
 Phone layout with wider content: bottom tab bar, single pane, a two-column card grid. Compare is laptop only; under 1024 px its route shows one line, "Compare needs a wider screen. Open it on your laptop." No broken in-between states.
 
-## 12. Design: Havana workroom
+## 12. Design: Havana label
 
-Warm dark walls, plaster type, and a flat factory red for actions. A short red rule sits under each page title. Each smoke card keeps a rail in that cigar's wrapper shade, and "ready" is a living tobacco green. His own photos carry the rest. Dark only. No skyline, neon, pastel street, or gold frame. See section 23.
+A wordless lithograph, the kind printed on a cigar label: a villa, royal palms, a tobacco field, and the harbor, inside a crimson and gold frame. It sits on Home and, cropped, at the top of the journal. The page around it is a dark mount, actions are the label's red, and "ready" is palm green. Each smoke card keeps a rail in that cigar's wrapper shade. His own photos carry the rest. Dark only. No skyline drawing, neon, or pastel street. See section 23.
 
 Tokens live in `src/styles/tokens.css` as CSS custom properties. Nothing else hard-codes a color, radius, or font.
 
 | Token | Value | Use |
 |---|---|---|
-| --bg | #16110E | Page background |
-| --surface | #221C17 | Cards, bars |
-| --raised | #2C241E | Sheets, selected rows |
-| --hairline | #3A322B | Dividers and card outlines (decorative) |
-| --control-border | #8F8274 | Input and unselected chip outlines. |
-| --text | #F7F1E6 | Primary text and score numerals |
-| --text-2 | #B7AA9A | Secondary text, placeholders |
-| --brass | #BE3A2B | Factory red. Primary buttons, selected chips, focus ring, the mark on the active tab. The name stayed so older rules pick up the new color. |
-| --on-brass | #F7F1E6 | Text on the red |
-| --ember | #BE3A2B | Same red, on Log |
-| --on-ember | #F7F1E6 | Text on Log |
-| --cedar | #3E7A4E | "Ready" and success, a field green |
-| --error | #E07A6A | Error text |
+| --bg | #140E0C | The mount behind the label |
+| --surface | #241814 | Cards |
+| --raised | #32241E | Sheets, selected rows |
+| --hairline | #4A3A32 | Dividers and card outlines (decorative) |
+| --control-border | #C4B09A | Input and unselected chip outlines. |
+| --text | #F6EFE4 | Cream paper. Primary text |
+| --text-2 | #D4C3B0 | Secondary text, placeholders |
+| --brass | #EE6A58 | Label red. Primary buttons, selected chips, focus ring, the rule under a title. The name stayed so older rules pick up the new color. |
+| --on-brass | #1A100C | Text on the red |
+| --ember | #EE6A58 | Same red, on Log |
+| --on-ember | #1A100C | Text on Log |
+| --cedar | #6FBF78 | Palm green. "Ready" and success |
+| --bone | #F0D7A4 | Warm paper. Scores and charts |
+| --error | #E07060 | Error text |
 | --destructive | #8E332C | Destructive button fill, with --text on it |
 
 Contrast ratios, computed during planning:
 
 | Text | on --bg | on --surface | on --raised |
 |---|---|---|---|
-| --text | 15.17 | 14.02 | 12.59 |
-| --text-2 | 7.69 | 7.11 | 6.38 |
-| --brass | 7.76 | 7.17 | 6.44 |
-| --cedar | 6.00 | 5.54 | 4.98 |
-| --error | 6.39 | 5.91 | 5.30 |
+| --text | 16.75 | 15.12 | 13.07 |
+| --text-2 | 11.14 | 10.06 | 8.70 |
+| --brass | 6.23 | 5.62 | 4.86 |
+| --bone | 13.63 | 12.31 | 10.64 |
+| --cedar | 8.56 | 7.73 | 6.68 |
+| --error | 6.06 | 5.47 | 4.73 |
 
---on-brass on --brass is 7.76. --text on --destructive is 6.39. All pass AA for body text.
+--on-brass on --brass is 6.09. --text on --destructive is 6.91. --control-border against the three surfaces is 9.13, 8.24, and 7.13. All pass AA for body text. The control outline stays above 3 to 1.
 
-**Added pairing.** The hairline is only 1.2 to 1.4 to 1 against the surfaces, which is right for a quiet divider but too faint to mark the edge of an input or an unselected chip. `--control-border` #8A7964 gives 4.46, 4.12, and 3.70 to 1, above the 3 to 1 needed for control outlines. The build must re-check any other new pairing.
+**Added pairing.** The hairline is 1.77, 1.60, and 1.38 to 1 against the three surfaces, which is right for a quiet divider but too faint to mark the edge of an input or an unselected chip. `--control-border` stays above the 3 to 1 needed for control outlines. The build must re-check any other new pairing.
 
 **Type**
 - Fraunces: page titles and the big score numeral, 24 px and up only.
@@ -546,7 +548,7 @@ Contrast ratios, computed during planning:
 
 **Shape and spacing.** 4 px spacing base. 6 px radius on cards and chips, 12 px on bottom sheets. Hairline borders, no drop shadows. Icons at 1.5 px stroke.
 
-**Signature detail.** A short factory-red rule under each page title, and a rail down the left of each smoke card in that cigar's wrapper shade. A cigar with no wrapper on file gets a quiet plaster line. The brand stays in small caps above the name. The rail belongs on smoke cards only.
+**Signature detail.** The lithographs (`LabelArt`) are the artwork, all in one cigar-label style. Home shows the villa. The journal and the lounge show the salon, Cigars and the log show a single cigar, the humidor shows the open box, Compare shows two cigars, and Stats shows the medal. Each one stays inside its own box. Behind the page, a different and quieter plate in the same style sits low and see-through (`ground-*.jpg`), so the dark mount stays the page. Under each title, a short rule in the label's red. A rail down the left of each smoke card uses that cigar's wrapper shade. A cigar with no wrapper on file gets a quiet line. The brand stays in small caps above the name. The rail belongs on smoke cards only. The picture stays inside its own box.
 
 **Motion.** 150 to 200 ms ease-out for sheets and state changes. With `prefers-reduced-motion`, changes are instant, including the scale auto-scroll.
 
@@ -815,7 +817,7 @@ Scripts to define in `package.json`:
   - **Result:** 3,665 cigars in 267 brands, 3,591 of them checked. 23 of the new entries are Cuban (Ramon Allones and Partagas). The new files are `seed/research/more-NNN.json`, read by the same seed script; a research entry that matches no cigar in the two lists now makes a record of its own, with the same kind of fixed id. `SEED_VERSION` is 4. The seed script also corrects the lounge sheet's spelling of Plasencia.
   - **Size:** the catalog is now about 5.2 MB (930 KB compressed). It still loads only when a device's list is behind, and the offline cache limit in `vite.config.ts` was raised to 8 MB so it is still saved for offline use.
   - **Forgiving search** (`closestCigars` in `src/domain/search.ts`): when nothing matches every word, the Cigars tab and the log picker show the closest names in place of an empty page, under "No exact match. These are the closest." It drops words that match nothing and forgives a letter or two of misspelling ("liga pravada year of the rat", "cao flathead habano"). In the Cigars tab, cigars with every word in their name now come ahead of ones that only mention the words in their details.
-- **The cigar box finish** (Kohlton's request, 2026-10-11: the brown looked "plain and boring"). Three bright illustrated themes were mocked up first (a Havana night skyline, Miami neon, pastel Old Havana) and turned down as "too cartoony"; he prefers the brown and asked for it to be upgraded, with on-theme illustration allowed ("cigar boxes, cigar leafs"). He picked the version with band detailing. This replaces "no artwork of cigars" in section 12 and the lively-look note above. Replaced on 2026-10-24 by wrapper ink, which he also did not like. The same day the look became the Havana workroom in section 12: warm dark walls, plaster type, factory red on actions, a red rule under each title, and the wrapper rail kept as the crop. No skyline, neon, or pastel street.
+- **The cigar box finish** (Kohlton's request, 2026-10-11: the brown looked "plain and boring"). Three bright illustrated themes were mocked up first (a Havana night skyline, Miami neon, pastel Old Havana) and turned down as "too cartoony"; he prefers the brown and asked for it to be upgraded, with on-theme illustration allowed ("cigar boxes, cigar leafs"). He picked the version with band detailing. This replaces "no artwork of cigars" in section 12 and the lively-look note above. Replaced on 2026-10-24 by wrapper ink, which he also did not like. The same day the look became the Havana workroom in section 12: warm dark walls, plaster type, factory red on actions, a red rule under each title, and the wrapper rail kept as the crop. No skyline, neon, or pastel street. He then said that still was not Havana or the growing of tobacco, so the workroom was replaced by the vega: a shade-grown field, plant rows, shade cloth, and a curing leaf on the actions. He hated the field and asked for more Havana, so the vega was replaced by Havana night: harbor dark, a lamp in the doorway, coral walls, and teal shutters. He then asked for Havana artwork, or Miami in the 1980s. The night colors were replaced by a wordless cigar-label lithograph on Home and at the top of the journal. He asked for that artwork on every tab, then for a themed page background. A full-bleed copy of the header was too much of the same picture, so each tab now has a smaller, more see-through plate of its own behind the page. The 1980s Miami poster is not built yet.
   - **Materials:** the page background is a dark wrapper leaf with veins (`leaf.jpg`), darkened for reading and lit by a lamp glow from the top. Page headers, the tab bar, and the sidebar are cedar (`cedar.jpg`). Both textures and the two smoke layers were generated for this app by a script (procedural noise drawn in Chrome and saved as small images, about 330 KB together) and live in `src/assets/textures/`. They are precached, so they work offline.
   - **Headers** (`HeroArt` and `finish.css`): a double gold rule with a brass stud at each corner, like a box label; two layers of smoke rising slowly; and a fine gold line drawing behind the numbers: crossed tobacco leaves on Journal, one leaf on Cigars and Wishlist, an open cigar box on Humidor, a woven label rosette on Stats, Compare, and Settings. The smoke moves only as a background inside the header's own box, in keeping with the iPhone layout rule.
   - **Type and metal:** titles and score numerals are gold foil (a gradient clipped to the text), 34 px titles. Primary buttons, selected chips, and the Log button are brass with an embossed edge; the Log button has a slow ember glow.
