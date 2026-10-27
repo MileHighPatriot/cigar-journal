@@ -88,6 +88,8 @@ function Cards({ deck, onClose }: Omit<Props, 'open'>) {
   const flavors = cigarFlavors(cigar)
   const wrapper = wrapperText(cigar)
   const facts = [
+    cigar.binder ? ['Binder', cigar.binder] : null,
+    cigar.filler ? ['Filler', cigar.filler] : null,
     cigar.country ? ['Made in', cigar.country] : null,
     cigar.lounge.shelf ? ['Where it sits', cigar.lounge.shelf] : null,
     cigar.sheetPairings.length > 0 ? ['Pairs with', cigar.sheetPairings.join(', ')] : null,
@@ -120,10 +122,11 @@ function Cards({ deck, onClose }: Omit<Props, 'open'>) {
               </p>
             )}
             {flavors.length > 0 ? (
-              <FlavorTags tags={flavors.slice(0, 8)} className="flavors-boxed" />
+              <FlavorTags tags={flavors} className="flavors-boxed" />
             ) : (
               <p className="muted">No tasting notes on file.</p>
             )}
+            {cigar.about && <p>{cigar.about}</p>}
             {facts.length > 0 && (
               <dl className="facts">
                 {facts.map(([label, value]) => (
@@ -139,7 +142,8 @@ function Cards({ deck, onClose }: Omit<Props, 'open'>) {
         ) : (
           <div className="study-front">
             <p className="muted">
-              Strength, wrapper, where it is made, and a few notes. Say them out loud, then flip.
+              Strength, the blend, where it is made, and the tasting notes. Say them out loud, then
+              flip.
             </p>
           </div>
         )}

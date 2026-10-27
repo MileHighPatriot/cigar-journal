@@ -1,5 +1,6 @@
 import type { Cigar, KnownLevel, LoungeEntry } from '../data/types'
 import { fold } from './format'
+import { binderCountries, fillerCountries, wrapperCountries } from './origins'
 import { LEVEL_LABELS } from './scoring'
 import { normalizeTag } from './tags'
 
@@ -88,6 +89,12 @@ export interface LoungeFilter {
   flavor: string | null
   priceTier: number | null
   known: KnownLevel | null
+  /** Country the wrapper was grown in. */
+  wrapperCountry: string | null
+  /** Country the binder was grown in. A blend matches when any of its countries is this one. */
+  binderCountry: string | null
+  /** Country the filler was grown in. A blend matches when any of its countries is this one. */
+  fillerCountry: string | null
 }
 
 export const EMPTY_LOUNGE_FILTER: LoungeFilter = {
@@ -97,6 +104,9 @@ export const EMPTY_LOUNGE_FILTER: LoungeFilter = {
   flavor: null,
   priceTier: null,
   known: null,
+  wrapperCountry: null,
+  binderCountry: null,
+  fillerCountry: null,
 }
 
 export function isFiltered(filter: LoungeFilter): boolean {
@@ -106,7 +116,10 @@ export function isFiltered(filter: LoungeFilter): boolean {
     filter.wrapper !== null ||
     filter.flavor !== null ||
     filter.priceTier !== null ||
-    filter.known !== null
+    filter.known !== null ||
+    filter.wrapperCountry !== null ||
+    filter.binderCountry !== null ||
+    filter.fillerCountry !== null
   )
 }
 
@@ -126,6 +139,18 @@ export function filterLounge(cigars: LoungeCigar[], filter: LoungeFilter): Loung
     if (filter.known !== null && cigar.lounge.known !== filter.known) return false
     const flavors = cigarFlavors(cigar)
     if (filter.flavor !== null && !flavors.includes(filter.flavor)) return false
+    const wrapCountries = wrapperCountries(cigar)
+    const bindCountries = binderCountries(cigar)
+    const fillCountries = fillerCountries(cigar)
+    if (filter.wrapperCountry !== null && !wrapCountries.includes(filter.wrapperCountry)) {
+      return false
+    }
+    if (filter.binderCountry !== null && !bindCountries.includes(filter.binderCountry)) {
+      return false
+    }
+    if (filter.fillerCountry !== null && !fillCountries.includes(filter.fillerCountry)) {
+      return false
+    }
     if (words.length > 0) {
       const haystack = fold(
         [
@@ -137,6 +162,9 @@ export function filterLounge(cigars: LoungeCigar[], filter: LoungeFilter): Loung
           cigar.binder,
           cigar.filler,
           cigar.country,
+          ...wrapCountries,
+          ...bindCountries,
+          ...fillCountries,
           cigar.factory,
           cigar.about,
           cigar.strength ? LEVEL_LABELS[cigar.strength - 1] : null,

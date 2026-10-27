@@ -19,7 +19,7 @@ import { StudyCards } from '../components/StudyCards'
 import { showToast } from '../components/toast'
 import { addManyToLounge, patchLounge, useStore } from '../data/store'
 import type { KnownLevel } from '../data/types'
-import { type CigarStats, priceLabel, statsByCigar } from '../domain/cigars'
+import { blendLine, type CigarStats, priceLabel, statsByCigar } from '../domain/cigars'
 import { cigarTitle } from '../domain/format'
 import {
   cigarFlavors,
@@ -41,6 +41,7 @@ import {
   studyDeck,
   wrapperOptionsOf,
 } from '../domain/lounge'
+import { countryOptions } from '../domain/origins'
 import { levelLabel } from '../domain/scoring'
 import sheet from '../seed/lounge-sheet.json'
 import { CigarPage } from './CigarPage'
@@ -70,6 +71,9 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
   const totals = useMemo(() => loungeTotals(stocked), [stocked])
   const wrappers = useMemo(() => wrapperOptionsOf(stocked), [stocked])
   const flavors = useMemo(() => flavorOptions(stocked), [stocked])
+  const wrapperCountries = useMemo(() => countryOptions(stocked, 'wrapper'), [stocked])
+  const binderCountries = useMemo(() => countryOptions(stocked, 'binder'), [stocked])
+  const fillerCountries = useMemo(() => countryOptions(stocked, 'filler'), [stocked])
   const stats = useMemo(() => statsByCigar(state.smokes.values()), [state.smokes])
   const offSheet = useMemo(() => sheetNotListed(state.cigars.values(), sheet.ids), [state.cigars])
 
@@ -159,7 +163,7 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
                 id="lounge-search"
                 type="search"
                 className="input"
-                placeholder="Search name, wrapper, flavor, shelf"
+                placeholder="Search name, country, flavor, shelf"
                 value={filter.query}
                 onChange={(event) => setFilter({ ...filter, query: event.target.value })}
                 autoComplete="off"
@@ -206,7 +210,7 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
                 <div id="lounge-finder" className="finder">
                   <div className="form-row">
                     <label className="field">
-                      <span>Wrapper</span>
+                      <span>Wrapper type</span>
                       <select
                         className="input"
                         value={filter.wrapper ?? ''}
@@ -241,6 +245,26 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
                     </label>
                   </div>
                   <div className="form-row">
+                    <CountrySelect
+                      label="Wrapper country"
+                      value={filter.wrapperCountry}
+                      options={wrapperCountries}
+                      onChange={(wrapperCountry) => setFilter({ ...filter, wrapperCountry })}
+                    />
+                    <CountrySelect
+                      label="Binder country"
+                      value={filter.binderCountry}
+                      options={binderCountries}
+                      onChange={(binderCountry) => setFilter({ ...filter, binderCountry })}
+                    />
+                  </div>
+                  <div className="form-row">
+                    <CountrySelect
+                      label="Filler country"
+                      value={filter.fillerCountry}
+                      options={fillerCountries}
+                      onChange={(fillerCountry) => setFilter({ ...filter, fillerCountry })}
+                    />
                     <label className="field">
                       <span>Price tier</span>
                       <select
@@ -380,7 +404,8 @@ interface RowProps {
 }
 
 function LoungeRow({ cigar, stocked, mine, selected, onKnown, onEdit }: RowProps) {
-  const flavors = cigarFlavors(cigar).slice(0, 3)
+  const flavors = cigarFlavors(cigar)
+  const blend = blendLine(cigar)
   const known = cigar.lounge.known
   const title = cigarTitle(cigar)
   // "Like this": what to offer when the guest has tried this one, and what to pour with it.
@@ -404,9 +429,21 @@ function LoungeRow({ cigar, stocked, mine, selected, onKnown, onEdit }: RowProps
             <WrapperDot wrapper={cigar.wrapperType} />
             {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
             {cigar.priceTier && <span>{priceLabel(cigar.priceTier)}</span>}
+            {cigar.country && <span>{cigar.country}</span>}
             {cigar.lounge.shelf && <span>{cigar.lounge.shelf}</span>}
           </span>
-          {flavors.length > 0 && <FlavorTags tags={flavors} />}
+          {flavors.length > 0 ? (
+            <FlavorTags tags={flavors} />
+          ) : (
+            <span className="lounge-gap">No tasting notes on file.</span>
+          )}
+          {blend ? (
+            <span className="lounge-blend">{blend}</span>
+          ) : (
+            (cigar.about || cigar.researchNote) && (
+              <span className="lounge-gap">{cigar.about || cigar.researchNote}</span>
+            )
+          )}
         </span>
         {mine?.average !== null && mine?.average !== undefined && (
           <span className="cigar-row-score">
@@ -480,6 +517,36 @@ function LoungeRow({ cigar, stocked, mine, selected, onKnown, onEdit }: RowProps
         </div>
       )}
     </li>
+  )
+}
+
+function CountrySelect({
+  label,
+  value,
+  options,
+  onChange,
+}: {
+  label: string
+  value: string | null
+  options: { country: string; count: number }[]
+  onChange: (country: string | null) => void
+}) {
+  return (
+    <label className="field">
+      <span>{label}</span>
+      <select
+        className="input"
+        value={value ?? ''}
+        onChange={(event) => onChange(event.target.value || null)}
+      >
+        <option value="">Any</option>
+        {options.map(({ country, count }) => (
+          <option key={country} value={country}>
+            {country} ({count})
+          </option>
+        ))}
+      </select>
+    </label>
   )
 }
 

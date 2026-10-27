@@ -3483,6 +3483,14 @@ input[type="date"].input {
   margin-top: var(--s1);
 }
 
+.lounge-blend,
+.lounge-gap {
+  display: block;
+  margin-top: 2px;
+  font-size: var(--text-sm);
+  color: var(--text-2);
+}
+
 .lounge-side {
   flex: none;
   display: flex;

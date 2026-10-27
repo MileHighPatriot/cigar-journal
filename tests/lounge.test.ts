@@ -28,6 +28,9 @@ function stocked(brand: string, line: string, fields: Partial<Cigar> = {}): Ciga
 const padron = stocked('Padron', '1964 Anniversary', {
   strength: 4,
   wrapperType: 'Maduro/Broadleaf',
+  wrapperOrigin: 'Nicaragua',
+  binder: 'Nicaragua',
+  filler: 'Nicaragua, Honduras',
   flavors: ['cocoa', 'espresso', 'pepper'],
   priceTier: 3,
   lounge: newLoungeEntry({ shelf: 'top shelf', known: 'known' }),
@@ -35,6 +38,9 @@ const padron = stocked('Padron', '1964 Anniversary', {
 const macanudo = stocked('Macanudo', 'Cafe', {
   strength: 1,
   wrapperType: 'Connecticut',
+  wrapperOrigin: 'United States',
+  binder: 'Dominican Republic',
+  filler: 'Dominican Republic',
   flavors: ['cream', 'cedar'],
   priceTier: 1,
   lounge: newLoungeEntry({ known: 'learning' }),
@@ -45,7 +51,13 @@ const ashton = stocked('Ashton', 'Classic', {
   sheetFlavors: ['Creamy', 'nuts'],
   priceTier: 2,
 })
-const oliva = stocked('Oliva', 'Serie V', { strength: 3, wrapperType: 'Habano' })
+const oliva = stocked('Oliva', 'Serie V', {
+  strength: 3,
+  wrapperType: 'Habano',
+  wrapperLeaf: 'Ecuadorian Connecticut',
+  binder: 'Cuban-seed Nicaraguan',
+  filler: 'Dominican Republic + Nicaragua',
+})
 const mystery = stocked('Zino', 'Nicaragua', { strength: null })
 const notStocked = newCigar({ brand: 'Arturo Fuente', line: 'Hemingway', strength: 3 })
 const deleted = stocked('Gone', 'Gone', { deletedAt: '2026-01-01T00:00:00.000Z' })
@@ -113,6 +125,17 @@ describe('help me pick', () => {
 
   it('narrows by what he knows', () => {
     expect(pick({ known: 'new' })).toEqual(['Ashton', 'Oliva', 'Zino'])
+  })
+
+  it('narrows by the country of the wrapper, binder, or filler', () => {
+    expect(pick({ wrapperCountry: 'United States' })).toEqual(['Macanudo'])
+    // Ecuadorian Connecticut is grown in Ecuador. The Connecticut in the name is the seed.
+    expect(pick({ wrapperCountry: 'Ecuador' })).toEqual(['Oliva'])
+    expect(pick({ binderCountry: 'Nicaragua' })).toEqual(['Padron', 'Oliva'])
+    // A filler blended from two countries answers to either one.
+    expect(pick({ fillerCountry: 'Honduras' })).toEqual(['Padron'])
+    expect(pick({ fillerCountry: 'Dominican Republic' })).toEqual(['Macanudo', 'Oliva'])
+    expect(pick({ wrapperCountry: 'Cuba' })).toEqual([])
   })
 
   it('searches names, blend, strength words, flavors, and the shelf note', () => {

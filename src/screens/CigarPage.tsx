@@ -35,7 +35,7 @@ import {
 import { remaining, smokedCountByLot } from '../domain/humidor'
 import { levelLabel, shownScore, verdictFor } from '../domain/scoring'
 import { smokeSize } from '../domain/sizes'
-import { effectiveTags, normalizeTag } from '../domain/tags'
+import { cigarFlavorTags, effectiveTags, normalizeTag } from '../domain/tags'
 
 interface Props {
   id: string
@@ -88,6 +88,8 @@ export function CigarPage({ id, backHref = '/cigars' }: Props) {
     scores.length > 0 ? Math.round(scores.reduce((sum, n) => sum + n, 0) / scores.length) : null
   const trend = [...scores].reverse()
   const myTags = [...new Set(smokes.flatMap((s) => effectiveTags(s)))].slice(0, 12)
+  const publishedNotes = cigar.flavors.length > 0
+  const taste = cigarFlavorTags(cigar)
   const sheetTags = [...new Set(cigar.sheetFlavors.map(normalizeTag))]
   const sizes = new Map<string, number>()
   for (const smoke of smokes) {
@@ -344,12 +346,14 @@ export function CigarPage({ id, backHref = '/cigars' }: Props) {
         )}
       </div>
 
-      {cigar.flavors.length > 0 && (
-        <section className="detail-section">
-          <h2>Tasting notes, as published</h2>
-          <FlavorTags tags={cigar.flavors.map(normalizeTag)} className="flavors-boxed" />
-        </section>
-      )}
+      <section className="detail-section">
+        <h2>{publishedNotes ? 'Tasting notes, as published' : 'Tasting notes'}</h2>
+        {taste.length > 0 ? (
+          <FlavorTags tags={taste} className="flavors-boxed" />
+        ) : (
+          <p className="muted">No tasting notes on file.</p>
+        )}
+      </section>
 
       {cigar.researchNote && (
         <section className="detail-section">
@@ -433,7 +437,9 @@ export function CigarPage({ id, backHref = '/cigars' }: Props) {
         cigar.similarCigars) && (
         <section className="detail-section">
           <h2>From the lounge sheet</h2>
-          {sheetTags.length > 0 && <FlavorTags tags={sheetTags} className="flavors-boxed" />}
+          {publishedNotes && sheetTags.length > 0 && (
+            <FlavorTags tags={sheetTags} className="flavors-boxed" />
+          )}
           <dl className="facts">
             {cigar.sheetPairings.length > 0 && (
               <div>

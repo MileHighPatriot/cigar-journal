@@ -130,3 +130,17 @@ export function wrapperText(cigar: Pick<Cigar, 'wrapperLeaf' | 'wrapperType' | '
     .filter((part, index, all) => all.indexOf(part) === index)
     .join(', ')
 }
+
+/** Wrapper, binder, and filler in one line for a lounge row or a flashcard. */
+export function blendLine(
+  cigar: Pick<Cigar, 'wrapperLeaf' | 'wrapperType' | 'wrapperOrigin' | 'binder' | 'filler'>,
+): string {
+  const wrapper = wrapperText(cigar) || cigar.wrapperOrigin
+  return [
+    wrapper ? `Wrapper ${wrapper}` : null,
+    cigar.binder ? `Binder ${cigar.binder}` : null,
+    cigar.filler ? `Filler ${cigar.filler}` : null,
+  ]
+    .filter((part): part is string => Boolean(part))
+    .join(' · ')
+}
