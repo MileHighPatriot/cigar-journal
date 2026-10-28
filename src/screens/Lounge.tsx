@@ -1,12 +1,4 @@
-import {
-  FileSpreadsheet,
-  GraduationCap,
-  Pencil,
-  Plus,
-  Search,
-  Shuffle,
-  SlidersHorizontal,
-} from 'lucide-react'
+import { GraduationCap, Pencil, Plus, Search, Shuffle, SlidersHorizontal } from 'lucide-react'
 import { Fragment, useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { FlavorTags } from '../components/FlavorTags'
@@ -17,7 +9,7 @@ import { Monogram, WrapperDot } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
 import { StudyCards } from '../components/StudyCards'
 import { showToast } from '../components/toast'
-import { addManyToLounge, patchLounge, useStore } from '../data/store'
+import { patchLounge, useStore } from '../data/store'
 import type { KnownLevel } from '../data/types'
 import { blendLine, type CigarStats, priceLabel, statsByCigar } from '../domain/cigars'
 import { cigarTitle } from '../domain/format'
@@ -36,14 +28,12 @@ import {
   loungeTotals,
   nextKnown,
   STRENGTH_GROUPS,
-  sheetNotListed,
   similarInLounge,
   studyDeck,
   wrapperOptionsOf,
 } from '../domain/lounge'
 import { countryOptions } from '../domain/origins'
 import { levelLabel } from '../domain/scoring'
-import sheet from '../seed/lounge-sheet.json'
 import { CigarPage } from './CigarPage'
 
 const GROUP_CHOICES: { key: GroupKey | null; label: string }[] = [
@@ -75,7 +65,6 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
   const binderCountries = useMemo(() => countryOptions(stocked, 'binder'), [stocked])
   const fillerCountries = useMemo(() => countryOptions(stocked, 'filler'), [stocked])
   const stats = useMemo(() => statsByCigar(state.smokes.values()), [state.smokes])
-  const offSheet = useMemo(() => sheetNotListed(state.cigars.values(), sheet.ids), [state.cigars])
 
   const laptop = useMediaQuery(LAPTOP)
   const shownId = selectedId ?? (laptop ? groups[0]?.cigars[0]?.id : undefined)
@@ -83,16 +72,6 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
 
   function cycleKnown(cigar: LoungeCigar) {
     void patchLounge(cigar.id, { known: nextKnown(cigar.lounge.known) })
-  }
-
-  // The lounge's own sheet is the quickest start: every stick on it, one tap, then prune.
-  function addSheet() {
-    const { added, undo } = addManyToLounge(offSheet.map((cigar) => cigar.id))
-    showToast({
-      message: `${added} from the lounge sheet are on the list`,
-      actionLabel: 'Undo',
-      onAction: () => void undo(),
-    })
   }
 
   return (
@@ -126,34 +105,13 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
         {stocked.length === 0 ? (
           <div className="empty">
             <p className="empty-title">Nothing on the lounge list yet</p>
-            <p className="muted">
-              Start with the lounge sheet, then walk the humidor and fix the differences. Or add
-              each stick you see.
-            </p>
-            {offSheet.length > 0 && (
-              <button type="button" className="btn btn-primary" onClick={addSheet}>
-                <FileSpreadsheet size={20} strokeWidth={1.5} aria-hidden="true" />
-                Add the lounge sheet ({offSheet.length})
-              </button>
-            )}
+            <p className="muted">Add each stick that is actually in the humidor.</p>
             <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>
               Add a lounge stick
             </button>
           </div>
         ) : (
           <>
-            {offSheet.length > 0 && (
-              <div className="sheet-nudge">
-                <span>
-                  <span className="num">{offSheet.length}</span> on the lounge sheet are not on the
-                  list.
-                </span>
-                <button type="button" className="btn btn-quiet" onClick={addSheet}>
-                  <FileSpreadsheet size={20} strokeWidth={1.5} aria-hidden="true" />
-                  Add them
-                </button>
-              </div>
-            )}
             <div className="search">
               <Search size={20} strokeWidth={1.5} aria-hidden="true" />
               <label className="sr-only" htmlFor="lounge-search">

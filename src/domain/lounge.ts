@@ -198,7 +198,17 @@ export function wrapperOptionsOf(cigars: LoungeCigar[]): string[] {
   return [...set].sort(compare)
 }
 
-/** The lounge sheet's cigars that are not on the lounge list yet, for the one-tap add. */
+/**
+ * The one tap of "Add them" on 2026-10-27. Those sticks came from the October spreadsheet,
+ * not from a humidor check. A later add of the same cigar gets a new time and stays.
+ */
+export const SHEET_BATCH_ADDED_AT = '2026-10-27T20:17:07.129Z'
+
+export function addedInSheetBatch(cigar: Cigar): boolean {
+  return cigar.lounge?.addedAt === SHEET_BATCH_ADDED_AT
+}
+
+/** The lounge sheet's cigars that are not on the lounge list yet. */
 export function sheetNotListed(cigars: Iterable<Cigar>, sheetIds: Iterable<string>): Cigar[] {
   const wanted = new Set(sheetIds)
   const out: Cigar[] = []

@@ -1,5 +1,5 @@
 import { useEffect, useState, useSyncExternalStore } from 'react'
-import { newLoungeEntry } from '../domain/lounge'
+import { addedInSheetBatch, newLoungeEntry } from '../domain/lounge'
 import { computeScore } from '../domain/scoring'
 import { processPhoto } from '../photos/pipeline'
 import { requestPersist } from '../pwa/storage'
@@ -89,6 +89,7 @@ export async function initStore(options: { repository?: Repository } = {}) {
       await seedCatalog(repo, catalog as SeedCatalog)
     }
     await reloadFromDisk()
+    await clearLoungeSheetBatch()
     setState({ ready: true })
     void purgeOldPhotoBytes()
   } catch (error) {
@@ -340,6 +341,17 @@ export function addManyToLounge(
   }
   if (after.length > 0) void saveBatch({ cigars: after })
   return { added, undo: () => (before.length ? saveBatch({ cigars: before }) : Promise.resolve()) }
+}
+
+/**
+ * Takes off the sticks the old "Add them" button put on in one tap. Runs at startup, before
+ * sync, so the cleared copies are the newer ones. Doing it again finds nothing.
+ */
+export async function clearLoungeSheetBatch(): Promise<number> {
+  const clearing = [...state.cigars.values()].filter(addedInSheetBatch)
+  if (clearing.length === 0) return 0
+  await saveBatch({ cigars: clearing.map((cigar) => ({ ...cigar, lounge: null })) })
+  return clearing.length
 }
 
 /** Takes a cigar off the lounge list. Returns what Undo needs to put it back. */

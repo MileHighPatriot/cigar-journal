@@ -3690,23 +3690,6 @@ input[type="date"].input {
   font-size: var(--text-xs);
 }
 
-/* The lounge sheet nudge: the sheet's sticks that are not on the list yet. */
-.sheet-nudge {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: var(--s3);
-  padding: var(--s2) var(--s2) var(--s2) var(--s3);
-  background: var(--raised);
-  border-radius: var(--radius);
-  font-size: var(--text-sm);
-}
-
-.sheet-nudge .btn {
-  flex: none;
-  white-space: nowrap;
-}
-
 @media (min-width: 1024px) {
   .select-bar {
     bottom: var(--s3);

@@ -2,8 +2,10 @@ import { describe, expect, it } from 'vitest'
 import { newCigar } from '../src/data/factories'
 import type { Cigar, Level } from '../src/data/types'
 import {
+  addedInSheetBatch,
   answerCard,
   cigarNamed,
+  SHEET_BATCH_ADDED_AT,
   EMPTY_LOUNGE_FILTER,
   filterLounge,
   flavorOptions,
@@ -160,6 +162,16 @@ describe('the lounge sheet in one tap', () => {
     const ids = [padron.id, notStocked.id, deleted.id, 'not-a-cigar']
     const missing = sheetNotListed([padron, macanudo, notStocked, deleted], ids)
     expect(missing.map((cigar) => cigar.brand)).toEqual(['Arturo Fuente'])
+  })
+
+  it('recognizes only the one-tap sheet batch, so a later add of the same stick stays', () => {
+    const dumped = stocked('CAO', 'Gold', {
+      lounge: newLoungeEntry({}, new Date(SHEET_BATCH_ADDED_AT)),
+    })
+    const byHand = stocked('CAO', 'Gold', { lounge: newLoungeEntry() })
+    expect(addedInSheetBatch(dumped)).toBe(true)
+    expect(addedInSheetBatch(byHand)).toBe(false)
+    expect(addedInSheetBatch({ ...dumped, lounge: null })).toBe(false)
   })
 
   it('ships the sheet as ids that are all in the catalog', () => {
