@@ -1,4 +1,3 @@
-import { mergeRecords } from '../data/merge'
 import type { RecordBatch, Repository } from '../data/repository'
 import { type Cigar, STORE_NAMES, type StoreName, type SyncFields } from '../data/types'
 import type { OutgoingRow, Remote } from './remote'
@@ -30,6 +29,8 @@ export async function syncOnce(
   repo: Repository,
   remote: Remote,
   now: () => string = () => new Date().toISOString(),
+  /** Told which records the pull wrote, so the screen can show them without a re-read. */
+  onPulled?: (written: RecordBatch) => void,
 ): Promise<SyncResult> {
   const result: SyncResult = { pulled: 0, pushed: 0, photosUp: 0, photosDown: 0 }
 
@@ -41,15 +42,14 @@ export async function syncOnce(
     const batch: RecordBatch = {}
     for (const store of STORE_NAMES) {
       const rows = incoming.filter((row) => row.store === store).map((row) => row.data)
-      if (rows.length === 0) continue
-      const local = await repo.getAll(store)
       // biome-ignore lint/suspicious/noExplicitAny: record type is paired with the store name
-      const merged = mergeRecords(local as any[], rows as any[])
-      // biome-ignore lint/suspicious/noExplicitAny: record type is paired with the store name
-      ;(batch as any)[store] = merged.toWrite
-      result.pulled += merged.toWrite.length
+      if (rows.length > 0) (batch as any)[store] = rows
     }
-    await repo.putMany(batch)
+    // Compared and written in one transaction: a save made on this device while the pull
+    // was on its way is never replaced by an older copy from the server.
+    const written = await repo.putManyIfNewer(batch)
+    for (const store of STORE_NAMES) result.pulled += written[store]?.length ?? 0
+    if (result.pulled > 0) onPulled?.(written)
     const newest = incoming.reduce((max, row) => (row.serverAt > max ? row.serverAt : max), '')
     if (!cursor || newest > cursor) await repo.setMeta('syncPulledAt', newest)
   }

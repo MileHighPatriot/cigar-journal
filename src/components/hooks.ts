@@ -95,6 +95,35 @@ export function useMediaQuery(query: string): boolean {
   )
 }
 
+/**
+ * Runs one thing at a time. A second tap while the first is still under way does nothing,
+ * so a double tap never starts two logs or saves twice.
+ */
+export function usePending(): [boolean, (task: () => Promise<unknown> | unknown) => void] {
+  const [pending, setPending] = useState(false)
+  const busy = useRef(false)
+  const alive = useRef(true)
+  useEffect(() => {
+    alive.current = true
+    return () => {
+      alive.current = false
+    }
+  }, [])
+  const run = useRef((task: () => Promise<unknown> | unknown) => {
+    if (busy.current) return
+    busy.current = true
+    setPending(true)
+    Promise.resolve()
+      .then(task)
+      .catch(() => {})
+      .finally(() => {
+        busy.current = false
+        if (alive.current) setPending(false)
+      })
+  }).current
+  return [pending, run]
+}
+
 export const LAPTOP = '(min-width: 1024px)'
 export const TABLET_UP = '(min-width: 768px)'
 

@@ -199,23 +199,6 @@ export function Settings() {
         </dl>
       </header>
 
-      {busy && (
-        <p className="banner" role="status">
-          {busy}
-        </p>
-      )}
-      {error && (
-        <p className="banner error-text" role="alert">
-          {error}
-        </p>
-      )}
-      {result && (
-        <p className="banner" role="status">
-          <ShieldCheck size={20} strokeWidth={1.5} aria-hidden="true" />
-          <span>Done. {summaryText(result)}</span>
-        </p>
-      )}
-
       <div className="settings-grid">
         <SyncCard />
         <section className="card settings-card">
@@ -224,6 +207,23 @@ export function Settings() {
             One file holds everything, photos included. AirDrop it to your other device and import
             it there.
           </p>
+          {/* Progress and results show here, beside the buttons that caused them. */}
+          {busy && (
+            <p className="banner" role="status">
+              {busy}
+            </p>
+          )}
+          {error && (
+            <p className="banner error-text" role="alert">
+              {error}
+            </p>
+          )}
+          {result && (
+            <p className="banner" role="status">
+              <ShieldCheck size={20} strokeWidth={1.5} aria-hidden="true" />
+              <span>Done. {summaryText(result)}</span>
+            </p>
+          )}
           <button
             type="button"
             className="btn btn-primary"

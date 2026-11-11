@@ -31,7 +31,7 @@ export function TapScale({ category, value, onChange }: Props) {
         <span className="scale-label">{category.label}</span>
         <span className="scale-covers">{category.covers}</span>
       </legend>
-      <div className="scale-grid">
+      <div className="scale-grid" role="radiogroup" aria-label={category.label}>
         {NUMBERS.map((n) => {
           const selected = value !== null && Math.floor(value) === n
           const half = selected && value !== n
@@ -40,7 +40,8 @@ export function TapScale({ category, value, onChange }: Props) {
               key={n}
               type="button"
               className="scale-btn"
-              aria-pressed={selected}
+              role="radio"
+              aria-checked={selected}
               aria-label={`${category.label}: ${selected ? formatRating(value) : n}${anchors[n] ? `, ${anchors[n]}` : ''}`}
               onClick={() => tap(n)}
             >

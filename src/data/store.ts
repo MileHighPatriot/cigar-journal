@@ -1,4 +1,4 @@
-import { useEffect, useState, useSyncExternalStore } from 'react'
+import { useEffect, useSyncExternalStore } from 'react'
 import { addedInSheetBatch, newLoungeEntry } from '../domain/lounge'
 import { computeScore } from '../domain/scoring'
 import { processPhoto } from '../photos/pipeline'
@@ -37,7 +37,11 @@ export interface State {
   wishlist: Map<string, WishlistItem>
   customTags: Map<string, CustomTag>
   photos: Map<string, Photo>
-  save: { status: SaveStatus; message: string | null }
+}
+
+export interface SaveState {
+  status: SaveStatus
+  message: string | null
 }
 
 let state: State = {
@@ -49,7 +53,27 @@ let state: State = {
   wishlist: new Map(),
   customTags: new Map(),
   photos: new Map(),
-  save: { status: 'idle', message: null },
+}
+
+// "Saving" and "Saved" have their own signal. A save changes the records once; the two
+// status changes that follow redraw only the small badge that shows them.
+let saveState: SaveState = { status: 'idle', message: null }
+const saveListeners = new Set<() => void>()
+
+function setSave(next: SaveState) {
+  if (next.status === saveState.status && next.message === saveState.message) return
+  saveState = next
+  for (const listener of saveListeners) listener()
+}
+
+export function useSaveStatus(): SaveState {
+  return useSyncExternalStore(
+    (listener) => {
+      saveListeners.add(listener)
+      return () => saveListeners.delete(listener)
+    },
+    () => saveState,
+  )
 }
 
 let repo: Repository | null = null
@@ -73,6 +97,15 @@ export function useStore(): State {
   return useSyncExternalStore(subscribe, getState)
 }
 
+/** Whether the journal has opened. The shell reads only this, so a save never redraws it. */
+export function useReady(): boolean {
+  return useSyncExternalStore(subscribe, () => state.ready)
+}
+
+export function useLoadError(): string | null {
+  return useSyncExternalStore(subscribe, () => state.loadError)
+}
+
 export function getRepo(): Repository {
   if (!repo) throw new Error('The journal is not open yet')
   return repo
@@ -88,7 +121,7 @@ export async function initStore(options: { repository?: Repository } = {}) {
       const { default: catalog } = await import('../seed/catalog.json')
       await seedCatalog(repo, catalog as SeedCatalog)
     }
-    await reloadFromDisk()
+    await Promise.all([reloadFromDisk(), primeMeta(repo)])
     await clearLoungeSheetBatch()
     setState({ ready: true })
     void purgeOldPhotoBytes()
@@ -97,8 +130,37 @@ export async function initStore(options: { repository?: Repository } = {}) {
   }
 }
 
+// Ids saved while a re-read is under way. The read may have picked up the copy from
+// just before the save, so those records keep what is in memory.
+let reloading = 0
+const savedDuringReload = new Map<StoreName, Set<string>>()
+
+function noteSavedDuringReload(batch: RecordBatch) {
+  if (reloading === 0) return
+  for (const name of STORE_NAMES) {
+    const records = batch[name]
+    if (!records?.length) continue
+    let ids = savedDuringReload.get(name)
+    if (!ids) {
+      ids = new Set()
+      savedDuringReload.set(name, ids)
+    }
+    for (const record of records) ids.add(record.id)
+  }
+}
+
 /** Re-reads every record store. Used at startup and after an import or restore. */
 export async function reloadFromDisk() {
+  reloading += 1
+  try {
+    await readAllStores()
+  } finally {
+    reloading -= 1
+    if (reloading === 0) savedDuringReload.clear()
+  }
+}
+
+async function readAllStores() {
   const r = getRepo()
   const [cigars, smokes, lots, wishlist, customTags, photos] = await Promise.all([
     r.getAll('cigars'),
@@ -108,17 +170,77 @@ export async function reloadFromDisk() {
     r.getAll('customTags'),
     r.getAll('photos'),
   ])
-  const toMap = <T extends { id: string }>(rows: T[]) => new Map(rows.map((row) => [row.id, row]))
+  const toMap = <S extends StoreName>(name: S, rows: RecordMap[S][]) => {
+    const map = new Map(rows.map((row) => [row.id, row]))
+    const current = state[name] as Map<string, RecordMap[S]>
+    for (const id of savedDuringReload.get(name) ?? []) {
+      const mine = current.get(id)
+      if (mine) map.set(id, mine)
+    }
+    return map
+  }
   setState({
     // Cigars saved before the researched fields existed get them as empty.
-    cigars: toMap(cigars.map((cigar) => ({ ...CIGAR_DEFAULTS, ...cigar }))),
+    cigars: toMap('cigars', cigars.map(withCigarDefaults)),
     // Smokes saved before the size, aroma, and note fields existed get them as empty.
-    smokes: toMap(smokes.map(withSmokeDefaults)),
-    lots: toMap(lots),
-    wishlist: toMap(wishlist),
-    customTags: toMap(customTags),
-    photos: toMap(photos),
+    smokes: toMap('smokes', smokes.map(withSmokeDefaults)),
+    lots: toMap('lots', lots),
+    wishlist: toMap('wishlist', wishlist),
+    customTags: toMap('customTags', customTags),
+    photos: toMap('photos', photos),
   })
+}
+
+function withCigarDefaults(cigar: Cigar): Cigar {
+  return { ...CIGAR_DEFAULTS, ...cigar }
+}
+
+/**
+ * Takes records that sync just wrote to disk into memory. A record already here with the
+ * same or a newer updatedAt stays as it is. Nothing is written by this.
+ */
+export function absorbRecords(batch: RecordBatch) {
+  const next: Partial<State> = {}
+  for (const name of STORE_NAMES) {
+    const records = batch[name]
+    if (!records?.length) continue
+    const current = state[name] as Map<string, RecordMap[typeof name]>
+    let map: Map<string, RecordMap[typeof name]> | null = null
+    for (const record of records) {
+      const mine = current.get(record.id)
+      if (mine && mine.updatedAt >= record.updatedAt) continue
+      map ??= new Map(current)
+      const shaped =
+        name === 'cigars'
+          ? withCigarDefaults(record as Cigar)
+          : name === 'smokes'
+            ? withSmokeDefaults(record as Smoke)
+            : record
+      map.set(record.id, shaped as RecordMap[typeof name])
+    }
+    // biome-ignore lint/suspicious/noExplicitAny: map type is paired with the store name
+    if (map) (next as any)[name] = map
+  }
+  if (Object.keys(next).length > 0) setState(next)
+}
+
+// Photos that arrived from the other device. Cards still waiting on one look again.
+let photoBytesVersion = 0
+const photoBytesListeners = new Set<() => void>()
+
+export function photoBytesArrived() {
+  photoBytesVersion += 1
+  for (const listener of photoBytesListeners) listener()
+}
+
+export function usePhotoBytesVersion(): number {
+  return useSyncExternalStore(
+    (listener) => {
+      photoBytesListeners.add(listener)
+      return () => photoBytesListeners.delete(listener)
+    },
+    () => photoBytesVersion,
+  )
 }
 
 async function purgeOldPhotoBytes() {
@@ -155,7 +277,7 @@ let runFailed = false
 function persist(batch: RecordBatch): Promise<void> {
   if (pending === 0) runFailed = false
   pending += 1
-  setState({ save: { status: 'saving', message: null } })
+  setSave({ status: 'saving', message: null })
   // Started right now, not after the previous write settles: a reload or a closed app
   // a moment after a tap must not be able to lose it.
   let write: Promise<void>
@@ -168,7 +290,7 @@ function persist(batch: RecordBatch): Promise<void> {
     () => {
       pending -= 1
       if (pending === 0 && !runFailed) {
-        setState({ save: { status: 'saved', message: null } })
+        setSave({ status: 'saved', message: null })
       }
       if (!firstSaveDone) {
         firstSaveDone = true
@@ -179,7 +301,7 @@ function persist(batch: RecordBatch): Promise<void> {
     (error) => {
       pending -= 1
       runFailed = true
-      setState({ save: { status: 'error', message: describeError(error) } })
+      setSave({ status: 'error', message: describeError(error) })
     },
   )
   queue = Promise.all([queue, settled]).then(() => undefined)
@@ -215,6 +337,7 @@ export function saveBatch(batch: RecordBatch): Promise<void> {
     // biome-ignore lint/suspicious/noExplicitAny: record type is paired with the store name
     ;(stamped as any)[name] = records.map((record) => ({ ...record, updatedAt: now }))
   }
+  noteSavedDuringReload(stamped)
   setState(withRecords(stamped))
   return persist(stamped)
 }
@@ -386,37 +509,54 @@ export function patchThird(id: string, third: ThirdKey, patch: Partial<Third>): 
 }
 
 // Device settings (meta) are not part of the record stores, so they get their own signal.
-let metaVersion = 0
+// The ones the screens read are kept in memory once loaded, so a screen shows the saved
+// choice on its first frame instead of a default that flips a moment later.
+const metaCache = new Map<keyof Meta, unknown>()
 const metaListeners = new Set<() => void>()
 
-export async function setMeta<K extends keyof Meta>(key: K, value: Meta[K]): Promise<void> {
-  await getRepo().setMeta(key, value)
-  metaVersion += 1
+function emitMeta() {
   for (const listener of metaListeners) listener()
 }
 
-/** A device setting, re-read whenever any setting changes. Undefined until loaded or unset. */
-export function useMeta<K extends keyof Meta>(key: K): Meta[K] | undefined {
-  const [value, setValue] = useState<Meta[K] | undefined>(undefined)
-  const version = useSyncExternalStore(
-    (listener) => {
-      metaListeners.add(listener)
-      return () => metaListeners.delete(listener)
-    },
-    () => metaVersion,
+function subscribeMeta(listener: () => void) {
+  metaListeners.add(listener)
+  return () => metaListeners.delete(listener)
+}
+
+/** The settings a screen needs at once. Read while the journal opens. */
+const PRIMED: (keyof Meta)[] = ['lastExportAt', 'backupBannerSnoozedUntil', 'lastLogMode']
+
+async function primeMeta(r: Repository) {
+  await Promise.all(
+    PRIMED.map(async (key) => {
+      metaCache.set(key, await r.getMeta(key))
+    }),
   )
-  // biome-ignore lint/correctness/useExhaustiveDependencies: version is the signal to re-read
+}
+
+export async function setMeta<K extends keyof Meta>(key: K, value: Meta[K]): Promise<void> {
+  metaCache.set(key, value)
+  emitMeta()
+  await getRepo().setMeta(key, value)
+}
+
+/** A device setting, kept current as it changes. Undefined until loaded or when unset. */
+export function useMeta<K extends keyof Meta>(key: K): Meta[K] | undefined {
+  const value = useSyncExternalStore(subscribeMeta, () => metaCache.get(key) as Meta[K] | undefined)
   useEffect(() => {
+    if (metaCache.has(key)) return
     let cancelled = false
     getRepo()
       .getMeta(key)
       .then((next) => {
-        if (!cancelled) setValue(next)
+        if (cancelled || metaCache.has(key)) return
+        metaCache.set(key, next)
+        emitMeta()
       })
       .catch(() => {})
     return () => {
       cancelled = true
     }
-  }, [key, version])
+  }, [key])
   return value
 }

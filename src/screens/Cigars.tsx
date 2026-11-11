@@ -1,8 +1,10 @@
-import { Armchair, ChevronRight, ListChecks, Plus, Search, X } from 'lucide-react'
-import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
+import { Armchair, ChevronRight, ListChecks, Plus, Search, SearchX, X } from 'lucide-react'
+import { Fragment, useDeferredValue, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
+import { EmptyState } from '../components/EmptyState'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
+import { CigarIcon } from '../components/icons'
 import { LabelArt } from '../components/LabelArt'
 import { LoungeBatchForm } from '../components/LoungeBatchForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
@@ -51,14 +53,17 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
   const sentinel = useRef<HTMLDivElement>(null)
 
   const stats = useMemo(() => statsByCigar(state.smokes.values()), [state.smokes])
+  // The box and the buttons answer at once. The long list catches up a beat later if it
+  // has to, so typing never waits on 3,665 rows.
+  const applied = useDeferredValue(filter)
   const exact = useMemo(
-    () => filterCigars(state.cigars.values(), filter, stats),
-    [state.cigars, filter, stats],
+    () => filterCigars(state.cigars.values(), applied, stats),
+    [state.cigars, applied, stats],
   )
   // Nothing matched every word: offer the nearest names instead of an empty page.
   const closest = useMemo(
-    () => (exact.length === 0 ? closestCigars(state.cigars.values(), filter.query) : []),
-    [state.cigars, filter.query, exact],
+    () => (exact.length === 0 ? closestCigars(state.cigars.values(), applied.query) : []),
+    [state.cigars, applied.query, exact],
   )
   const results = exact.length > 0 ? exact : closest
   const wrappers = useMemo(() => wrapperOptions(state.cigars.values()), [state.cigars])
@@ -295,13 +300,17 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
         </div>
 
         {results.length === 0 && (
-          <div className="empty">
-            <p className="empty-title">No cigars match</p>
-            <p className="muted">Try fewer words, or add it yourself.</p>
-            <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
-              Add new cigar
-            </button>
-          </div>
+          <EmptyState
+            icon={SearchX}
+            title="No cigars match"
+            action={
+              <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
+                Add new cigar
+              </button>
+            }
+          >
+            Try fewer words, or add it yourself.
+          </EmptyState>
         )}
 
         <ul className="brand-list">
@@ -422,7 +431,9 @@ export function Cigars({ selectedId }: { selectedId?: string }) {
         {shownId ? (
           <CigarPage key={shownId} id={shownId} />
         ) : (
-          <p className="journal-detail-empty muted">Pick a cigar to see it here.</p>
+          <EmptyState icon={CigarIcon} title="Pick a cigar">
+            Its blend, sizes, notes, and your smokes open here.
+          </EmptyState>
         )}
       </section>
 

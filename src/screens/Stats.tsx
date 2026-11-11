@@ -1,6 +1,8 @@
+import { ChartColumn } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { BarList, ColumnChart, DotPlot } from '../components/charts'
+import { EmptyState } from '../components/EmptyState'
 import { LabelArt } from '../components/LabelArt'
 import { ScoreRing } from '../components/ScoreRing'
 import { useStore } from '../data/store'
@@ -101,13 +103,17 @@ export function Stats() {
       </header>
 
       {data.count === 0 ? (
-        <div className="empty">
-          <p className="empty-title">Nothing to chart yet</p>
-          <p className="muted">Log a few smokes and this page fills in on its own.</p>
-          <Link href="/log" className="btn btn-primary btn-log">
-            Log a smoke
-          </Link>
-        </div>
+        <EmptyState
+          icon={ChartColumn}
+          title="Nothing to chart yet"
+          action={
+            <Link href="/log" className="btn btn-primary">
+              Log a smoke
+            </Link>
+          }
+        >
+          Log a few smokes and this page fills in on its own.
+        </EmptyState>
       ) : (
         <div className="stats-grid">
           <section className="card stat-card">

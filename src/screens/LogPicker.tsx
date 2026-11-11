@@ -1,11 +1,11 @@
 import { Plus, Search, X } from 'lucide-react'
-import { type FormEvent, useEffect, useMemo, useState } from 'react'
+import { type FormEvent, useDeferredValue, useMemo, useState } from 'react'
 import { useLocation } from 'wouter'
 import { FlowLayout } from '../components/FlowLayout'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { Sheet } from '../components/Sheet'
 import { newCigar, newSmoke } from '../data/factories'
-import { getRepo, logPath, saveBatch, useStore } from '../data/store'
+import { logPath, saveBatch, setMeta, useMeta, useStore } from '../data/store'
 import type { Cigar } from '../data/types'
 import { cigarSubtitle, cigarTitle, fold } from '../domain/format'
 import { remaining, smokedCountByLot } from '../domain/humidor'
@@ -36,21 +36,13 @@ function CigarRow({ cigar, note, onPick }: { cigar: Cigar; note?: string; onPick
 export function LogPicker() {
   const state = useStore()
   const [, navigate] = useLocation()
-  const [mode, setMode] = useState<Mode>('full')
+  const mode: Mode = useMeta('lastLogMode') ?? 'full'
   const [query, setQuery] = useState('')
   const [adding, setAdding] = useState(false)
   const [form, setForm] = useState({ brand: '', line: '', vitola: '' })
 
-  useEffect(() => {
-    getRepo()
-      .getMeta('lastLogMode')
-      .then((last) => last && setMode(last))
-      .catch(() => {})
-  }, [])
-
   function chooseMode(next: Mode) {
-    setMode(next)
-    void getRepo().setMeta('lastLogMode', next)
+    void setMeta('lastLogMode', next)
   }
 
   /** A smoke exists from the moment a cigar is picked, so nothing typed after is lost. */
@@ -88,10 +80,15 @@ export function LogPicker() {
   }, [state.smokes, state.cigars])
 
   const searching = query.trim().length > 0
+  // The box shows each letter at once. The list catches up a beat later if it has to.
+  const deferredQuery = useDeferredValue(query)
   const results = useMemo(() => {
-    const exact = searchCigars(state.cigars.values(), query)
-    return (exact.length > 0 ? exact : closestCigars(state.cigars.values(), query)).slice(0, 60)
-  }, [state.cigars, query])
+    const exact = searchCigars(state.cigars.values(), deferredQuery)
+    return (exact.length > 0 ? exact : closestCigars(state.cigars.values(), deferredQuery)).slice(
+      0,
+      60,
+    )
+  }, [state.cigars, deferredQuery])
   const lowerQuery = fold(query.trim())
   const humidorShown = searching
     ? humidorRows.filter(({ cigar }) =>
@@ -114,6 +111,7 @@ export function LogPicker() {
 
   return (
     <FlowLayout
+      art
       lead={
         <button type="button" className="icon-btn" aria-label="Close" onClick={() => navigate('/')}>
           <X size={24} strokeWidth={1.5} aria-hidden="true" />

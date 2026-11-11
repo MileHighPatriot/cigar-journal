@@ -1,7 +1,8 @@
-import { Search, Trash2 } from 'lucide-react'
-import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
+import { BookOpen, Search, SearchX, Trash2 } from 'lucide-react'
+import { Fragment, useDeferredValue, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'wouter'
 import { BackupReminder } from '../components/BackupReminder'
+import { EmptyState } from '../components/EmptyState'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { InstallHint } from '../components/InstallHint'
 import { LabelArt } from '../components/LabelArt'
@@ -133,7 +134,9 @@ export function Journal({ selectedId }: { selectedId?: string }) {
   )
   const drafts = useMemo(() => rows.filter((row) => row.smoke.status === 'draft'), [rows])
   const complete = useMemo(() => rows.filter((row) => row.smoke.status === 'complete'), [rows])
-  const results = useMemo(() => searchRows(complete, query), [complete, query])
+  // The box shows each letter at once. The list catches up a beat later if it has to.
+  const deferredQuery = useDeferredValue(query)
+  const results = useMemo(() => searchRows(complete, deferredQuery), [complete, deferredQuery])
   const photoBySmoke = useMemo(() => cardPhotos(state.photos), [state.photos])
 
   // Render 60 cards at a time and grow as the end nears.
@@ -192,17 +195,31 @@ export function Journal({ selectedId }: { selectedId?: string }) {
         )}
 
         {complete.length === 0 && drafts.length === 0 && (
-          <div className="empty">
-            <p className="empty-title">No smokes yet</p>
-            <p className="muted">Tap Log a smoke to add your first one.</p>
-            <Link href="/log" className="btn btn-primary btn-log">
-              Log a smoke
-            </Link>
-          </div>
+          <EmptyState
+            icon={BookOpen}
+            title="No smokes yet"
+            action={
+              <Link href="/log" className="btn btn-primary">
+                Log a smoke
+              </Link>
+            }
+          >
+            Your first entry shows up here with its score and photo.
+          </EmptyState>
         )}
 
         {complete.length > 0 && results.length === 0 && (
-          <p className="muted empty-search">Nothing matches that search.</p>
+          <EmptyState
+            icon={SearchX}
+            title="Nothing matches"
+            action={
+              <button type="button" className="btn btn-quiet" onClick={() => setQuery('')}>
+                Clear search
+              </button>
+            }
+          >
+            Try a brand, a flavor, or a word from your notes.
+          </EmptyState>
         )}
 
         <ul className="card-list">
@@ -240,7 +257,9 @@ export function Journal({ selectedId }: { selectedId?: string }) {
         {shownId ? (
           <SmokeDetail key={shownId} id={shownId} />
         ) : (
-          <p className="journal-detail-empty muted">Pick a smoke to see it here.</p>
+          <EmptyState icon={BookOpen} title="Pick a smoke">
+            Its scores, notes, and photos open here.
+          </EmptyState>
         )}
       </section>
     </div>

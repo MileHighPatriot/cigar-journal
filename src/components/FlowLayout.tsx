@@ -9,9 +9,11 @@ interface Props {
   children: ReactNode
   /** Sticky bottom bar: Next, Save. Stays in the bottom half within thumb reach. */
   actions: ReactNode
+  /** The label picture. Only the first screen of a log shows it; the steps start with the work. */
+  art?: boolean
 }
 
-export function FlowLayout({ lead, title, children, actions }: Props) {
+export function FlowLayout({ lead, title, children, actions, art = false }: Props) {
   return (
     <div className="flow">
       <header className="flow-head">
@@ -20,7 +22,7 @@ export function FlowLayout({ lead, title, children, actions }: Props) {
         <SavedBadge />
       </header>
       <div className="flow-body">
-        <LabelArt compact scene="cigar" />
+        {art && <LabelArt compact scene="cigar" />}
         {children}
       </div>
       <div className="actionbar">{actions}</div>

@@ -1,9 +1,8 @@
 import { ChevronLeft } from 'lucide-react'
-import { useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { SmokeFlavors } from '../components/FlavorField'
 import { FlowLayout } from '../components/FlowLayout'
-import { useAutosaveText } from '../components/hooks'
+import { flushPendingSaves, useAutosaveText, usePending } from '../components/hooks'
 import { PhotoSection } from '../components/PhotoSection'
 import { ScoreRing } from '../components/ScoreRing'
 import { SizePicker } from '../components/SizePicker'
@@ -15,7 +14,7 @@ import { computeScore, verdictFor } from '../domain/scoring'
 export function LogFinish({ id }: { id: string }) {
   const state = useStore()
   const [, navigate] = useLocation()
-  const [saving, setSaving] = useState(false)
+  const [saving, runSave] = usePending()
   const smoke = state.smokes.get(id)
 
   const price = useAutosaveText(
@@ -40,7 +39,7 @@ export function LogFinish({ id }: { id: string }) {
   const cigar = state.cigars.get(smoke.cigarId)
   const score = computeScore(smoke.ratings)
   async function save() {
-    setSaving(true)
+    flushPendingSaves()
     price.onBlur()
     void patchSmoke(id, { status: 'complete', draftStep: null })
     await whenSaved()
@@ -66,7 +65,7 @@ export function LogFinish({ id }: { id: string }) {
           type="button"
           className="btn btn-primary btn-block"
           disabled={!score || saving}
-          onClick={() => void save()}
+          onClick={() => runSave(save)}
         >
           Save
         </button>

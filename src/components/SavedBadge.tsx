@@ -1,9 +1,9 @@
 import { Check, CircleAlert } from 'lucide-react'
-import { useStore } from '../data/store'
+import { useSaveStatus } from '../data/store'
 
 /** Shows "Saved" only after the write has reached disk. Errors stay on screen. */
 export function SavedBadge() {
-  const { save } = useStore()
+  const save = useSaveStatus()
   if (save.status === 'idle') return <span className="saved-badge" aria-live="polite" />
   if (save.status === 'error') {
     return (

@@ -1,6 +1,7 @@
 import type { Cigar, Smoke } from '../data/types'
 import { fold } from './format'
-import { LEVEL_LABELS, shownScore } from './scoring'
+import { shownScore } from './scoring'
+import { compareNames, detailText, nameText } from './searchIndex'
 
 export interface CigarStats {
   /** Completed smokes of this cigar. */
@@ -60,32 +61,13 @@ export function filterCigars(
     if (filter.only === 'smoked' && !stats.has(cigar.id)) continue
     if (filter.only === 'mine' && cigar.source !== 'manual') continue
     if (words.length > 0) {
-      const haystack = [
-        cigar.brand,
-        cigar.line,
-        cigar.vitola,
-        cigar.wrapperType,
-        cigar.wrapperLeaf,
-        cigar.wrapperOrigin,
-        cigar.binder,
-        cigar.filler,
-        cigar.country,
-        cigar.factory,
-        cigar.about,
-        cigar.strength ? LEVEL_LABELS[cigar.strength - 1] : null,
-        ...cigar.flavors,
-        ...cigar.sizes.map((size) => size.name),
-      ]
-        .filter(Boolean)
-        .join(' ')
-      const folded = fold(haystack)
+      const folded = detailText(cigar)
       if (!words.every((word) => folded.includes(word))) continue
-      const name = fold(`${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`)
-      if (words.every((word) => name.includes(word))) byName.add(cigar.id)
+      if (words.every((word) => nameText(cigar).includes(word))) byName.add(cigar.id)
     }
     out.push(cigar)
   }
-  const compare = new Intl.Collator('en', { sensitivity: 'base', numeric: true }).compare
+  const compare = compareNames
   return out.sort(
     (a, b) =>
       Number(byName.has(b.id)) - Number(byName.has(a.id)) ||

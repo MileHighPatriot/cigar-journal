@@ -1,7 +1,9 @@
-import { ChevronRight, Plus } from 'lucide-react'
+import { BookOpen, ChevronRight, Plus } from 'lucide-react'
 import { useMemo } from 'react'
 import { Link } from 'wouter'
+import { EmptyState } from '../components/EmptyState'
 import { InstallHint } from '../components/InstallHint'
+import { HumidorIcon } from '../components/icons'
 import { LabelArt } from '../components/LabelArt'
 import { Monogram, WrapperDot } from '../components/Monogram'
 import { SmokeCard } from '../components/SmokeCard'
@@ -111,10 +113,9 @@ export function Home() {
         {last ? (
           <SmokeCard row={last} photo={photoBySmoke.get(last.smoke.id)} featured />
         ) : (
-          <div className="empty home-empty">
-            <p className="empty-title">Your journal starts here</p>
-            <p className="muted">Log your first smoke and it shows up on this page.</p>
-          </div>
+          <EmptyState boxed icon={BookOpen} title="Your journal starts here">
+            Log your first smoke and it shows up on this page.
+          </EmptyState>
         )}
       </section>
 
@@ -162,13 +163,18 @@ export function Home() {
               ))}
             </ul>
           ) : (
-            <div className="empty home-empty">
-              <p className="empty-title">Nothing rested yet</p>
-              <p className="muted">Cigars in your humidor show up here once they are ready.</p>
-              <Link href="/humidor" className="btn btn-quiet">
-                Open the humidor
-              </Link>
-            </div>
+            <EmptyState
+              boxed
+              icon={HumidorIcon}
+              title="Nothing rested yet"
+              action={
+                <Link href="/humidor" className="btn btn-quiet">
+                  Open the humidor
+                </Link>
+              }
+            >
+              Cigars in your humidor show up here once they are ready.
+            </EmptyState>
           )}
         </section>
       </div>

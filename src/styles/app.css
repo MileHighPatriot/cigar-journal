@@ -6,19 +6,30 @@
 
 .app-main {
   padding-top: var(--safe-top);
-  /* Room for the tab bar and the Log button above it, so the last row is never covered. */
-  padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--log-btn) + var(--s8));
+  /* Room for the tab bar, so the last row is never covered. */
+  padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--s6));
   padding-left: var(--safe-left);
   padding-right: var(--safe-right);
 }
 
+/* In the log the sticky header carries the top inset itself, so it never slides
+   under the status bar. */
 .app.in-flow .app-main {
+  padding-top: 0;
   padding-bottom: 0;
 }
 
 .splash {
+  display: grid;
+  place-items: center;
   min-height: 100dvh;
   background: var(--bg);
+}
+
+.splash-mark {
+  width: 72px;
+  height: auto;
+  animation: fade 400ms var(--ease) both;
 }
 
 .page,
@@ -60,11 +71,11 @@
   bottom: 0;
   z-index: 20;
   display: grid;
-  grid-template-columns: repeat(9, minmax(0, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
   align-items: center;
   height: calc(var(--tabbar-h) + var(--safe-bottom));
   padding: 0 var(--safe-right) var(--safe-bottom) var(--safe-left);
-  background: var(--surface);
+  background: var(--bg);
   border-top: 1px solid var(--hairline);
 }
 
@@ -73,25 +84,32 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 2px;
+  gap: var(--s1);
   position: relative;
   min-width: 0;
   height: var(--tabbar-h);
   color: var(--text-2);
-  font-size: var(--text-tab);
+  font-size: var(--text-xs);
   font-weight: 500;
+  transition: color var(--dur) var(--ease);
 }
 
-.tab[aria-current="page"] {
+.tab:focus-visible {
+  outline-offset: -4px;
+}
+
+.tab[aria-current="page"],
+.tab[data-current="true"] {
   color: var(--text);
 }
 
-.tab[aria-current="page"]::before {
+.tab[aria-current="page"]::before,
+.tab[data-current="true"]::before {
   content: "";
   position: absolute;
   top: 0;
   width: 28px;
-  height: 2px;
+  height: 3px;
   background: var(--brass);
   animation: widen var(--dur) var(--ease);
 }
@@ -102,26 +120,56 @@
   }
 }
 
-.tab-log {
-  position: fixed;
-  right: calc(var(--s4) + var(--safe-right));
-  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--s4));
-  z-index: 20;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: var(--log-btn);
-  height: var(--log-btn);
-  background: var(--ember);
-  color: var(--on-ember);
+/* The Log button sits in the bar, in the middle, and stays inside its own slot. */
+.tab-log-mark {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 44px;
+  background: var(--brass);
+  color: var(--on-brass);
   border-radius: var(--radius);
-  /* A ring of page color lifts it off whatever sits behind it. */
-  box-shadow: 0 0 0 4px var(--bg);
   transition: transform var(--dur) var(--ease);
 }
 
-.tab-log:active {
+.tab-log:active .tab-log-mark {
   transform: scale(0.94);
+}
+
+/* The tabs that live under More. */
+.more-list {
+  margin: calc(var(--s2) * -1) 0;
+}
+
+.more-list li + li {
+  border-top: 1px solid var(--hairline);
+}
+
+.more-row {
+  display: flex;
+  align-items: center;
+  gap: var(--s4);
+  min-height: 56px;
+  font-size: var(--text-lg);
+  font-weight: 500;
+}
+
+.more-row > span {
+  flex: 1;
+}
+
+.more-row > svg {
+  flex: none;
+  color: var(--text-2);
+}
+
+.more-row[aria-current="page"],
+.more-row[aria-current="page"] > svg:first-child {
+  color: var(--brass);
+}
+
+.more-row:focus-visible {
+  outline-offset: -2px;
 }
 
 /* ---------- Banners, toast, saved ---------- */
@@ -154,8 +202,7 @@
   position: fixed;
   left: 0;
   right: 0;
-  /* Above the Log button, so a message never sits on top of it. */
-  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--log-btn) + var(--s6));
+  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--s4));
   z-index: 40;
   display: flex;
   justify-content: center;
@@ -230,7 +277,7 @@
 }
 
 .search .input {
-  padding-left: 44px;
+  padding-left: calc(var(--s3) + 20px + var(--s3));
 }
 
 .search .input::-webkit-search-cancel-button {
@@ -246,33 +293,84 @@
   gap: var(--s3);
 }
 
+/* The rail down the left edge is the wrapper shade itself. A missing wrapper is a quiet
+   line. The three darkest leaves are lifted just enough to separate from the card. */
 .smoke-card {
+  --rail: var(--text-2);
   display: block;
   background: var(--surface);
   border: 1px solid var(--hairline);
+  border-left: 4px solid var(--rail);
   border-radius: var(--radius);
   overflow: hidden;
-  transition: background-color var(--dur) var(--ease);
+  transition:
+    background-color var(--dur) var(--ease),
+    border-color var(--dur) var(--ease);
 }
 
 .smoke-card:hover,
 .smoke-card[aria-current="true"] {
   background: var(--raised);
+  border-top-color: var(--control-border);
+  border-right-color: var(--control-border);
+  border-bottom-color: var(--control-border);
 }
 
-/* The signature detail: a slim brass rule with the brand in small caps, like a cigar band. */
+.smoke-card[data-leaf="connecticut"] {
+  --rail: var(--leaf-connecticut);
+}
+.smoke-card[data-leaf="candela"] {
+  --rail: var(--leaf-candela);
+}
+.smoke-card[data-leaf="claro"] {
+  --rail: var(--leaf-claro);
+}
+.smoke-card[data-leaf="natural"] {
+  --rail: var(--leaf-natural);
+}
+.smoke-card[data-leaf="cameroon"] {
+  --rail: var(--leaf-cameroon);
+}
+.smoke-card[data-leaf="sumatra"] {
+  --rail: var(--leaf-sumatra);
+}
+.smoke-card[data-leaf="corojo"] {
+  --rail: var(--leaf-corojo);
+}
+.smoke-card[data-leaf="criollo"] {
+  --rail: var(--leaf-criollo);
+}
+.smoke-card[data-leaf="habano"] {
+  --rail: var(--leaf-habano);
+}
+.smoke-card[data-leaf="rosado"] {
+  --rail: var(--leaf-rosado);
+}
+.smoke-card[data-leaf="colorado"] {
+  --rail: var(--leaf-colorado);
+}
+.smoke-card[data-leaf="matafina"] {
+  --rail: color-mix(in srgb, var(--leaf-matafina) 62%, var(--text));
+}
+.smoke-card[data-leaf="sanandres"] {
+  --rail: color-mix(in srgb, var(--leaf-sanandres) 55%, var(--text));
+}
+.smoke-card[data-leaf="maduro"] {
+  --rail: color-mix(in srgb, var(--leaf-maduro) 50%, var(--text));
+}
+
+/* The brand in small caps across the top of a card, like the band on a cigar. */
 .band {
   display: block;
-  border-top: 2px solid var(--brass);
-  padding: var(--s2) var(--s4) 0;
+  padding: var(--s3) var(--s4) 0;
 }
 
 .band-brand {
   display: block;
-  color: var(--brass);
+  color: var(--text-2);
   font-size: var(--text-xs);
   font-weight: 600;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   white-space: nowrap;
   overflow: hidden;
@@ -292,7 +390,7 @@
   height: 88px;
   margin-top: var(--s1);
   background: var(--raised);
-  border-radius: 4px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
 }
 
@@ -347,7 +445,9 @@
 .numeral {
   font-family: var(--font-display);
   font-size: var(--numeral);
+  font-weight: 560;
   line-height: 1;
+  letter-spacing: -0.03em;
   color: var(--bone);
 }
 
@@ -387,14 +487,42 @@
 .empty {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   gap: var(--s3);
-  padding: var(--s8) 0;
+  padding: var(--s8) var(--s4);
+  text-align: center;
+}
+
+.empty-boxed {
+  padding: var(--s6) var(--s4);
+  border: 1px dashed var(--hairline);
+  border-radius: var(--radius);
+}
+
+.empty-mark {
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  border: 1px solid var(--hairline);
+  border-radius: 50%;
+  color: var(--bone);
 }
 
 .empty-title {
   font-family: var(--font-display);
-  font-size: 24px;
+  font-size: var(--text-2xl);
+  font-weight: 560;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+.empty-text {
+  max-width: 34ch;
+}
+
+.empty .btn {
+  margin-top: var(--s1);
 }
 
 .empty-search {
@@ -500,11 +628,20 @@
   border-top: 1px solid var(--hairline);
 }
 
+/* Section labels inside a page share the small-caps eyebrow. */
 .detail-section h2,
 .list-heading,
 .tagpicker-heading {
-  font-size: var(--text-sm);
-  font-weight: 500;
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  line-height: 1.45;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-2);
+}
+
+.detail-section h3 {
   color: var(--text-2);
 }
 
@@ -528,9 +665,9 @@
 
 .rating-bar {
   grid-column: 1 / -1;
-  height: 3px;
+  height: 4px;
   background: var(--hairline);
-  border-radius: 2px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
 }
 
@@ -567,8 +704,9 @@
   display: flex;
   align-items: center;
   gap: var(--s2);
-  min-height: 56px;
-  padding: var(--s1) var(--s4) var(--s1) var(--s1);
+  min-height: calc(var(--flow-head-h) + var(--safe-top));
+  padding: calc(var(--s1) + var(--safe-top)) calc(var(--s4) + var(--safe-right)) var(--s1)
+    calc(var(--s1) + var(--safe-left));
   background: var(--bg);
   border-bottom: 1px solid var(--hairline);
 }
@@ -580,8 +718,9 @@
   flex-direction: column;
 }
 
+/* The title in the log header is small and carries no rule. */
 .flow-h1 {
-  font-size: 24px;
+  font-size: var(--text-2xl);
 }
 
 .flow-cigar {
@@ -721,7 +860,7 @@
 /* Score readout: stays in view while the scales scroll under it. */
 .readout {
   position: sticky;
-  top: 56px;
+  top: calc(var(--flow-head-h) + var(--safe-top));
   z-index: 5;
   display: flex;
   align-items: center;
@@ -804,7 +943,7 @@
 }
 
 .scale-num {
-  font-size: 20px;
+  font-size: var(--text-xl);
   font-weight: 500;
   line-height: 1.2;
 }
@@ -818,17 +957,17 @@
   overflow-wrap: anywhere;
 }
 
-.scale-btn[aria-pressed="true"] {
+.scale-btn[aria-checked="true"] {
   background: var(--brass);
   border-color: var(--brass);
   color: var(--on-brass);
 }
 
-.scale-btn[aria-pressed="true"] .scale-num {
+.scale-btn[aria-checked="true"] .scale-num {
   font-weight: 700;
 }
 
-.scale-btn[aria-pressed="true"] .scale-anchor {
+.scale-btn[aria-checked="true"] .scale-anchor {
   color: var(--on-brass);
 }
 
@@ -920,7 +1059,22 @@
 }
 
 .sheet::backdrop {
-  background: rgb(0 0 0 / 0.6);
+  background: var(--backdrop);
+  animation: fade var(--dur) var(--ease);
+}
+
+/* Sliding away. The timing matches CLOSE_MS in Sheet.tsx. */
+.sheet.is-closing .sheet-panel {
+  opacity: 0;
+  transform: translateY(24px);
+  transition:
+    opacity 160ms var(--ease),
+    transform 160ms var(--ease);
+}
+
+.sheet.is-closing::backdrop {
+  opacity: 0;
+  transition: opacity 160ms var(--ease);
 }
 
 .sheet-panel {
@@ -951,11 +1105,20 @@
   border-bottom: 1px solid var(--hairline);
 }
 
+.sheet-head h2 {
+  font-size: var(--text-xl);
+}
+
 .sheet-body {
   flex: 1;
   overflow-y: auto;
   padding: var(--s4);
   overscroll-behavior: contain;
+}
+
+/* With no footer, the body is the last thing above the home indicator. */
+.sheet-body:last-child {
+  padding-bottom: calc(var(--s4) + var(--safe-bottom));
 }
 
 .sheet-foot {
@@ -1046,20 +1209,12 @@
   }
 }
 
-/* Screens ease in. The log flow only fades, because its action bar is fixed. */
+/* Screens fade in quickly, so moving between tabs feels immediate. */
 .page,
 .journal-list,
-.journal-detail .detail {
-  animation: enter 240ms var(--ease) both;
-}
-
+.journal-detail .detail,
 .flow {
-  animation: fade 240ms var(--ease) both;
-}
-
-.page,
-.detail {
-  background: var(--bg);
+  animation: fade 160ms var(--ease) both;
 }
 
 .ring {
@@ -1107,7 +1262,8 @@
 }
 
 .verdict[data-verdict="Box-worthy"] {
-  color: var(--cedar);
+  color: var(--bone);
+  font-weight: 600;
 }
 
 /* Flavor tags with a dot in the family color. */
@@ -1208,7 +1364,7 @@
   border-radius: 50%;
   background: transparent;
   color: var(--text);
-  font-size: 13px;
+  font-size: var(--text-xs);
   font-weight: 600;
   letter-spacing: 0.06em;
 }
@@ -1304,13 +1460,6 @@
   position: relative;
 }
 
-/* Nothing in a header may be positioned or moved outside its box. On iPhones that
-   widened the page and shrank the whole app. */
-.hero-glow,
-.hero::after {
-  content: none;
-}
-
 .hero-stats {
   display: grid;
   grid-template-columns: auto 1fr;
@@ -1338,11 +1487,15 @@
   gap: var(--s2);
 }
 
+/* Counts in a header are set like the score: the display face, in warm paper. */
 .hero-facts dd {
   margin: 0;
-  font-size: 22px;
-  font-weight: 500;
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 560;
   line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--bone);
 }
 
 .hero-spark {
@@ -1414,16 +1567,6 @@
   animation: enter 280ms var(--ease) both;
 }
 
-.smoke-card {
-  transition:
-    background-color var(--dur) var(--ease),
-    border-color var(--dur) var(--ease);
-}
-
-.smoke-card:hover {
-  border-color: var(--control-border);
-}
-
 .smoke-card-photo {
   display: block;
   margin-top: var(--s2);
@@ -1457,16 +1600,6 @@
   background: var(--cedar);
 }
 
-.empty {
-  align-items: center;
-  text-align: center;
-}
-
-.empty-art {
-  width: min(100%, 220px);
-  height: 164px;
-}
-
 /* Taps answer back. */
 .scale-btn:active,
 .chip:active,
@@ -1474,8 +1607,9 @@
   transform: scale(0.96);
 }
 
-.scale-btn[aria-pressed="true"],
-.chip[aria-pressed="true"] {
+.scale-btn[aria-checked="true"],
+.chip[aria-pressed="true"],
+.chip[aria-checked="true"] {
   animation: pop 220ms var(--ease);
 }
 
@@ -1549,7 +1683,7 @@
   display: flex;
   gap: 2px;
   height: 10px;
-  border-radius: 2px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
 }
 
@@ -1647,7 +1781,7 @@ select.input {
 .brand-head .monogram {
   width: 32px;
   height: 32px;
-  font-size: 11px;
+  font-size: var(--text-xs);
 }
 
 .cigar-row {
@@ -1836,7 +1970,7 @@ select.input {
   display: block;
   height: 6px;
   background: var(--hairline);
-  border-radius: 3px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
 }
 
@@ -1863,7 +1997,7 @@ select.input {
   display: flex;
   gap: 2px;
   height: 10px;
-  border-radius: 2px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
 }
 
@@ -2071,9 +2205,12 @@ input[type="date"].input {
 }
 
 .kpi-value {
-  font-size: 22px;
-  font-weight: 500;
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 560;
   line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--bone);
   overflow-wrap: anywhere;
 }
 
@@ -2152,7 +2289,7 @@ input[type="date"].input {
   min-width: 0;
   display: flex;
   flex-direction: column;
-  border-radius: 2px;
+  border-radius: var(--radius-sm);
 }
 
 .chart-col-plot {
@@ -2167,7 +2304,7 @@ input[type="date"].input {
   max-width: 24px;
   min-height: 2px;
   background: var(--bone);
-  border-radius: 4px 4px 0 0;
+  border-radius: var(--radius-sm) var(--radius-sm) 0 0;
   transform-origin: bottom;
   animation: rise-bar 700ms var(--ease) both;
 }
@@ -2334,7 +2471,7 @@ input[type="date"].input {
   height: 100%;
   min-width: 2px;
   background: var(--bone);
-  border-radius: 0 4px 4px 0;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
   transform-origin: left;
   animation: grow 700ms var(--ease) both;
 }
@@ -2548,7 +2685,7 @@ input[type="date"].input {
 
 .steps {
   position: sticky;
-  top: 56px;
+  top: calc(var(--flow-head-h) + var(--safe-top));
   z-index: 9;
   display: flex;
   gap: var(--s2);
@@ -2663,7 +2800,7 @@ input[type="date"].input {
 
 .counter-value {
   text-align: center;
-  font-size: 22px;
+  font-size: var(--text-xl);
   font-weight: 500;
 }
 
@@ -2739,7 +2876,7 @@ input[type="date"].input {
 
 .meter-step {
   height: 12px;
-  border-radius: 2px;
+  border-radius: var(--radius-sm);
   background: var(--hairline);
 }
 
@@ -2869,7 +3006,7 @@ input[type="date"].input {
   }
 
   .tabbar {
-    grid-template-columns: repeat(9, minmax(0, 110px));
+    grid-template-columns: repeat(6, minmax(0, 128px));
     justify-content: center;
   }
 
@@ -2975,8 +3112,7 @@ input[type="date"].input {
 /* ---------- Laptop: sidebar and two-pane journal ---------- */
 
 @media (min-width: 1024px) {
-  .tabbar,
-  .tab-log {
+  .tabbar {
     display: none;
   }
 
@@ -2998,14 +3134,17 @@ input[type="date"].input {
     gap: var(--s5);
     height: 100dvh;
     padding: var(--s6) var(--s4) var(--s4);
-    background: var(--surface);
+    background: var(--bg);
     border-right: 1px solid var(--hairline);
+    overflow-y: auto;
   }
 
   .sidebar-name {
     font-family: var(--font-display);
-    font-size: 24px;
+    font-size: var(--text-2xl);
+    font-weight: 560;
     line-height: 1.1;
+    letter-spacing: -0.03em;
   }
 
   .sidebar-list {
@@ -3018,7 +3157,7 @@ input[type="date"].input {
     display: flex;
     align-items: center;
     gap: var(--s3);
-    min-height: 44px;
+    min-height: var(--tap);
     padding: 0 var(--s3);
     border-radius: var(--radius);
     color: var(--text-2);
@@ -3293,14 +3432,6 @@ input[type="date"].input {
   gap: var(--s3);
 }
 
-.home-section-head h2 {
-  color: var(--text);
-  font-family: var(--font-display);
-  font-size: 22px;
-  font-weight: 560;
-  letter-spacing: -0.03em;
-}
-
 .home-more {
   display: inline-flex;
   align-items: center;
@@ -3313,12 +3444,6 @@ input[type="date"].input {
 
 .home-section .pick-list {
   margin-top: 0;
-}
-
-.home-empty {
-  padding: var(--s5) var(--s4);
-  border: 1px dashed var(--control-border);
-  border-radius: var(--radius);
 }
 
 @media (min-width: 768px) {
@@ -3426,7 +3551,7 @@ input[type="date"].input {
 .lounge-head-mark span {
   width: 14px;
   height: 8px;
-  border-radius: 2px;
+  border-radius: var(--radius-sm);
 }
 
 .lounge-head-mark span[data-level="1"] {
@@ -3457,6 +3582,7 @@ input[type="date"].input {
 
 .lounge-item {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: var(--s2);
   border-top: 1px solid var(--hairline);
@@ -3491,18 +3617,23 @@ input[type="date"].input {
   color: var(--text-2);
 }
 
+/* The row's own controls sit in a line under it, each a full 48 px target. */
 .lounge-side {
-  flex: none;
+  flex-basis: 100%;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 0;
+  gap: var(--s2);
+  padding: 0 0 var(--s2) calc(var(--s2) + 40px + var(--s3));
+}
+
+.lounge-side .icon-btn {
+  margin-left: auto;
 }
 
 /* The know-it chip: three states, from quiet to brass. */
 .know-chip {
-  min-width: 72px;
-  min-height: 36px;
+  min-width: 88px;
+  min-height: var(--tap);
   padding: 0 var(--s3);
   border: 1px solid var(--control-border);
   border-radius: var(--radius);
@@ -3528,10 +3659,6 @@ input[type="date"].input {
   background: var(--brass);
   border-color: var(--brass);
   color: var(--on-brass);
-}
-
-.lounge-remove {
-  margin-right: auto;
 }
 
 /* Flashcards */
@@ -3651,8 +3778,7 @@ input[type="date"].input {
 
 .select-bar {
   position: sticky;
-  /* Above the Log button, like a toast, so neither covers the other. */
-  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--log-btn) + var(--s6));
+  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--s3));
   z-index: 5;
   display: flex;
   align-items: center;
@@ -3662,7 +3788,6 @@ input[type="date"].input {
   background: var(--surface);
   border: 1px solid var(--hairline);
   border-radius: var(--radius);
-  box-shadow: var(--band-shadow);
 }
 
 .select-bar > .num {
@@ -3697,17 +3822,13 @@ input[type="date"].input {
 }
 
 /* "Like this" on a lounge row: the sheet's suggestions and the nearest lounge sticks. */
-.lounge-item {
-  flex-wrap: wrap;
-}
-
 .like-chip {
   display: inline-flex;
   align-items: center;
-  gap: var(--s1);
-  min-height: 36px;
-  padding: 0 var(--s2);
-  border: 1px solid transparent;
+  gap: var(--s2);
+  min-height: var(--tap);
+  padding: 0 var(--s3);
+  border: 1px solid var(--hairline);
   border-radius: var(--radius);
   font-size: var(--text-xs);
   font-weight: 600;
@@ -3725,7 +3846,7 @@ input[type="date"].input {
   display: flex;
   flex-direction: column;
   gap: var(--s3);
-  margin: 0 0 var(--s2) calc(32px + var(--s3));
+  margin: 0 0 var(--s3) calc(var(--s2) + 40px + var(--s3));
   padding: var(--s3);
   background: var(--raised);
   border-radius: var(--radius);
@@ -3760,5 +3881,135 @@ input[type="date"].input {
 .similar-row .monogram {
   width: 28px;
   height: 28px;
-  font-size: 11px;
+  font-size: var(--text-xs);
+}
+
+/* ---------- Havana label: the lithographs and the ground plate ---------- */
+
+/* The ground plate is not the header picture, and it does not cover the
+   page. inset: 0 stays on the viewport. A width of 100vw would spill past
+   the screen and shrink the phone. */
+.app {
+  isolation: isolate;
+}
+
+.app::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: min(1280px, 100%) auto;
+  /* Quiet enough that a list scrolling over it stays easy to read, and it fades out
+     toward the top instead of ending on an edge. */
+  opacity: 0.34;
+  mask-image: linear-gradient(to top, #000 20%, transparent 92%);
+}
+
+/* The url has to live on the property itself. A custom property would not be rewritten,
+   and the picture would never load. */
+.app[data-ground="villa"]::before {
+  background-image: url("../assets/ground-villa.jpg");
+}
+
+.app[data-ground="cigar"]::before {
+  background-image: url("../assets/ground-cigar.jpg");
+}
+
+.app[data-ground="humidor"]::before {
+  background-image: url("../assets/ground-humidor.jpg");
+}
+
+.app[data-ground="salon"]::before {
+  background-image: url("../assets/ground-salon.jpg");
+}
+
+.app[data-ground="pair"]::before {
+  background-image: url("../assets/ground-pair.jpg");
+}
+
+.app[data-ground="medal"]::before {
+  background-image: url("../assets/ground-medal.jpg");
+}
+
+.label-art {
+  margin: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 1px solid var(--hairline);
+  line-height: 0;
+}
+
+.label-art img {
+  display: block;
+  width: 100%;
+  height: clamp(180px, 46vw, 300px);
+  background: var(--surface);
+  object-fit: cover;
+  object-position: center 46%;
+}
+
+.label-art-compact img {
+  height: 132px;
+}
+
+.label-art-band img {
+  height: 72px;
+}
+
+/* A short rule in the label's red under a page title, only as wide as the title. */
+h1 {
+  width: fit-content;
+}
+
+h1::after {
+  content: "";
+  display: block;
+  height: 3px;
+  margin-top: var(--s2);
+  background: var(--brass);
+}
+
+/* Rows answer a touch at once, before the next screen opens. */
+.pick-row:active,
+.cigar-row:active,
+.lounge-row:active,
+.mini-row:active,
+.more-row:active,
+.home-tile:active {
+  background: var(--raised);
+}
+
+.flow h1::after {
+  content: none;
+}
+
+/* ---------- Actions on a detail page ---------- */
+
+/* On a phone the main action runs full width and the rest pair up under it. */
+@media (max-width: 599px) {
+  .detail-actions-top {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .detail-actions-top > .btn-primary {
+    grid-column: 1 / -1;
+    min-height: 56px;
+  }
+
+  .detail-actions-top > .btn {
+    padding: 0 var(--s2);
+    font-size: var(--text-sm);
+  }
+
+  .detail-actions-top > .btn-primary {
+    font-size: var(--text-md);
+  }
+
+  .detail-actions-top > .btn:last-child:nth-child(even) {
+    grid-column: 1 / -1;
+  }
 }

@@ -1,6 +1,13 @@
 import { useSyncExternalStore } from 'react'
 import { nowIso } from '../data/repository'
-import { getRepo, onSaved, reloadFromDisk, setMeta, whenSaved } from '../data/store'
+import {
+  absorbRecords,
+  getRepo,
+  onSaved,
+  photoBytesArrived,
+  setMeta,
+  whenSaved,
+} from '../data/store'
 import { type SyncResult, syncOnce } from './engine'
 import { getClient, SupabaseRemote, syncConfigured } from './supabase'
 
@@ -72,8 +79,15 @@ export function syncNow(): Promise<SyncResult | null> {
         set({ status: 'out', email: null })
         return null
       }
-      const result = await syncOnce(getRepo(), new SupabaseRemote(supabase, user.id))
-      if (result.pulled > 0 || result.photosDown > 0) await reloadFromDisk()
+      // Pulled records go straight into memory. Nothing is re-read from disk, so an edit
+      // made during the round cannot be replaced by an older copy.
+      const result = await syncOnce(
+        getRepo(),
+        new SupabaseRemote(supabase, user.id),
+        undefined,
+        absorbRecords,
+      )
+      if (result.photosDown > 0) photoBytesArrived()
       const lastAt = nowIso()
       await setMeta('syncLastAt', lastAt)
       set({ status: 'idle', lastAt, message: null })

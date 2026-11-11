@@ -22,13 +22,14 @@ export function ChipChoice<T extends string>({ label, options, value, onChange }
   return (
     <div className="field">
       <span id={id}>{label}</span>
-      <div className="chip-row" role="group" aria-labelledby={id}>
+      <div className="chip-row" role="radiogroup" aria-labelledby={id}>
         {options.map((option) => (
           <button
             key={option.value}
             type="button"
             className="chip"
-            aria-pressed={value === option.value}
+            role="radio"
+            aria-checked={value === option.value}
             onClick={() => onChange(value === option.value ? null : option.value)}
           >
             {option.label}
@@ -60,7 +61,8 @@ export function ChipMulti<T extends string>({ label, options, values, onChange }
               key={option.value}
               type="button"
               className="chip"
-              aria-pressed={on}
+              role="checkbox"
+              aria-checked={on}
               onClick={() =>
                 onChange(on ? values.filter((v) => v !== option.value) : [...values, option.value])
               }

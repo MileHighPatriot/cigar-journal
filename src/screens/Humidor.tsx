@@ -1,7 +1,9 @@
 import { Plus } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
+import { EmptyState } from '../components/EmptyState'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
+import { HumidorIcon } from '../components/icons'
 import { LabelArt } from '../components/LabelArt'
 import { LotForm } from '../components/LotForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
@@ -155,15 +157,17 @@ export function Humidor({ selectedId }: { selectedId?: string }) {
         </header>
 
         {all.length === 0 && (
-          <div className="empty">
-            <p className="empty-title">Your humidor is empty</p>
-            <p className="muted">
-              Add what you have on hand. Logging a smoke from it counts it down.
-            </p>
-            <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
-              Add to humidor
-            </button>
-          </div>
+          <EmptyState
+            icon={HumidorIcon}
+            title="Your humidor is empty"
+            action={
+              <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
+                Add to humidor
+              </button>
+            }
+          >
+            Add what you have on hand. Logging a smoke from it counts it down.
+          </EmptyState>
         )}
 
         <ul className="card-list">

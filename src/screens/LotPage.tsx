@@ -1,6 +1,7 @@
 import { ChevronLeft, Gift, Pencil, Plus, Trash2 } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
+import { usePending } from '../components/hooks'
 import { LabelArt } from '../components/LabelArt'
 import { LotForm } from '../components/LotForm'
 import { WrapperDot } from '../components/Monogram'
@@ -23,6 +24,7 @@ export function LotPage({ id }: { id: string }) {
   const state = useStore()
   const [, navigate] = useLocation()
   const [editing, setEditing] = useState(false)
+  const [starting, runStart] = usePending()
   const lot = state.lots.get(id)
 
   const smokes = useMemo(
@@ -135,9 +137,10 @@ export function LotPage({ id }: { id: string }) {
       <div className="detail-actions detail-actions-top">
         <button
           type="button"
-          className="btn btn-primary btn-log"
+          className="btn btn-primary"
           disabled={left === 0}
-          onClick={() => void log()}
+          aria-busy={starting}
+          onClick={() => runStart(log)}
         >
           <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
           Log a smoke from this lot

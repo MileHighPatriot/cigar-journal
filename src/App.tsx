@@ -2,23 +2,28 @@ import { lazy, Suspense, useEffect } from 'react'
 import { Route, Router, Switch, useLocation } from 'wouter'
 import { useHashLocation } from 'wouter/use-hash-location'
 import { flushPendingSaves } from './components/hooks'
+import { Logo } from './components/Logo'
 import { Sidebar, TabBar } from './components/Nav'
 import { Toaster } from './components/Toaster'
 import { UpdatePrompt } from './components/UpdatePrompt'
-import { useStore } from './data/store'
+import { useLoadError, useReady } from './data/store'
 import { Cigars } from './screens/Cigars'
-import { Compare } from './screens/Compare'
 import { Home } from './screens/Home'
-import { Humidor } from './screens/Humidor'
 import { Journal } from './screens/Journal'
 import { LogFinish } from './screens/LogFinish'
-import { LogFull } from './screens/LogFull'
 import { LogPicker } from './screens/LogPicker'
 import { LogScores } from './screens/LogScores'
-import { Lounge } from './screens/Lounge'
-import { Settings } from './screens/Settings'
-import { Stats } from './screens/Stats'
-import { Wishlist } from './screens/Wishlist'
+
+// The front page, the journal, the cigar list, and the quick log open at once. The other
+// screens load the first time they are opened. Every one is kept on the device, so this
+// works with no signal.
+const Compare = lazy(() => import('./screens/Compare').then((m) => ({ default: m.Compare })))
+const Humidor = lazy(() => import('./screens/Humidor').then((m) => ({ default: m.Humidor })))
+const LogFull = lazy(() => import('./screens/LogFull').then((m) => ({ default: m.LogFull })))
+const Lounge = lazy(() => import('./screens/Lounge').then((m) => ({ default: m.Lounge })))
+const Settings = lazy(() => import('./screens/Settings').then((m) => ({ default: m.Settings })))
+const Stats = lazy(() => import('./screens/Stats').then((m) => ({ default: m.Stats })))
+const Wishlist = lazy(() => import('./screens/Wishlist').then((m) => ({ default: m.Wishlist })))
 
 // Dev tools are compiled out of the production build.
 const DevScreen = import.meta.env.DEV ? lazy(() => import('./dev/DevScreen')) : null
@@ -42,7 +47,9 @@ function groundFor(path: string): string {
 }
 
 function Shell() {
-  const state = useStore()
+  // Only these two. A save changes neither, so the shell is not redrawn by one.
+  const ready = useReady()
+  const loadError = useLoadError()
   const [path, navigate] = useLocation()
   const inFlow = path.startsWith('/log')
 
@@ -87,76 +94,88 @@ function Shell() {
     return () => window.removeEventListener('keydown', onKey)
   }, [navigate])
 
-  if (state.loadError) {
+  if (loadError) {
     return (
-      <div className="page">
-        <h1>Could not open your journal</h1>
-        <p className="error-text" role="alert">
-          {state.loadError}
-        </p>
-        <p className="muted">Your data has not been changed. Close the app and open it again.</p>
-      </div>
+      <>
+        <UpdatePrompt />
+        <div className="page">
+          <h1>Could not open your journal</h1>
+          <p className="error-text" role="alert">
+            {loadError}
+          </p>
+          <p className="muted">Your data has not been changed. Close the app and open it again.</p>
+        </div>
+      </>
     )
   }
 
-  if (!state.ready) return <div className="splash" aria-busy="true" />
+  if (!ready) {
+    return (
+      <>
+        <UpdatePrompt />
+        <div className="splash" role="status" aria-label="Opening your journal">
+          <Logo className="splash-mark" />
+        </div>
+      </>
+    )
+  }
 
   return (
     <div className={inFlow ? 'app in-flow' : 'app'} data-ground={groundFor(path)}>
       <Sidebar />
       <main className="app-main">
         <UpdatePrompt />
-        <Switch>
-          <Route path="/">
-            <Home />
-          </Route>
-          <Route path="/journal">
-            <Journal />
-          </Route>
-          <Route path="/smokes/:id">{(params) => <Journal selectedId={params.id} />}</Route>
-          <Route path="/log">
-            <LogPicker />
-          </Route>
-          <Route path="/log/:id/scores">{(params) => <LogScores id={params.id} />}</Route>
-          <Route path="/log/:id/finish">{(params) => <LogFinish id={params.id} />}</Route>
-          <Route path="/log/:id/full/:step">
-            {(params) => <LogFull id={params.id} step={params.step} />}
-          </Route>
-          <Route path="/humidor">
-            <Humidor />
-          </Route>
-          <Route path="/humidor/:id">{(params) => <Humidor selectedId={params.id} />}</Route>
-          <Route path="/stats">
-            <Stats />
-          </Route>
-          <Route path="/cigars">
-            <Cigars />
-          </Route>
-          <Route path="/cigars/:id">{(params) => <Cigars selectedId={params.id} />}</Route>
-          <Route path="/lounge">
-            <Lounge />
-          </Route>
-          <Route path="/lounge/:id">{(params) => <Lounge selectedId={params.id} />}</Route>
-          <Route path="/wishlist">
-            <Wishlist />
-          </Route>
-          <Route path="/compare">
-            <Compare />
-          </Route>
-          <Route path="/settings">
-            <Settings />
-          </Route>
-          {DevScreen && (
-            <Route path="/dev">
-              <Suspense fallback={null}>
-                <DevScreen />
-              </Suspense>
+        <Suspense fallback={<div className="page" aria-busy="true" />}>
+          <Switch>
+            <Route path="/">
+              <Home />
             </Route>
-          )}
-          <Route>
-            <Home />
-          </Route>
-        </Switch>
+            <Route path="/journal">
+              <Journal />
+            </Route>
+            <Route path="/smokes/:id">{(params) => <Journal selectedId={params.id} />}</Route>
+            <Route path="/log">
+              <LogPicker />
+            </Route>
+            <Route path="/log/:id/scores">{(params) => <LogScores id={params.id} />}</Route>
+            <Route path="/log/:id/finish">{(params) => <LogFinish id={params.id} />}</Route>
+            <Route path="/log/:id/full/:step">
+              {(params) => <LogFull id={params.id} step={params.step} />}
+            </Route>
+            <Route path="/humidor">
+              <Humidor />
+            </Route>
+            <Route path="/humidor/:id">{(params) => <Humidor selectedId={params.id} />}</Route>
+            <Route path="/stats">
+              <Stats />
+            </Route>
+            <Route path="/cigars">
+              <Cigars />
+            </Route>
+            <Route path="/cigars/:id">{(params) => <Cigars selectedId={params.id} />}</Route>
+            <Route path="/lounge">
+              <Lounge />
+            </Route>
+            <Route path="/lounge/:id">{(params) => <Lounge selectedId={params.id} />}</Route>
+            <Route path="/wishlist">
+              <Wishlist />
+            </Route>
+            <Route path="/compare">
+              <Compare />
+            </Route>
+            <Route path="/settings">
+              <Settings />
+            </Route>
+            {DevScreen && (
+              <Route path="/dev">
+                <DevScreen />
+              </Route>
+            )}
+            <Route>
+              <Home />
+            </Route>
+          </Switch>
+        </Suspense>
       </main>
       {!inFlow && <TabBar />}
       <Toaster />

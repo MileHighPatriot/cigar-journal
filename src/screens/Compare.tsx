@@ -1,7 +1,16 @@
 import { Plus, Search, X } from 'lucide-react'
-import { type CSSProperties, type ReactNode, useMemo, useState, useSyncExternalStore } from 'react'
+import {
+  type CSSProperties,
+  type ReactNode,
+  useDeferredValue,
+  useMemo,
+  useState,
+  useSyncExternalStore,
+} from 'react'
 import { Link } from 'wouter'
+import { EmptyState } from '../components/EmptyState'
 import { FlavorTags } from '../components/FlavorTags'
+import { CompareIcon } from '../components/icons'
 import { LabelArt } from '../components/LabelArt'
 import { Monogram } from '../components/Monogram'
 import { ScoreRing } from '../components/ScoreRing'
@@ -18,12 +27,18 @@ import { smokeSize } from '../domain/sizes'
 type Mode = 'smokes' | 'cigars'
 const MAX = 3
 
-// What is being compared survives leaving the screen and coming back.
-let selection: { mode: Mode; ids: string[] } = { mode: 'smokes', ids: [] }
+// What is being compared survives leaving the screen and coming back. Each mode keeps its
+// own picks, so a look at Cigars does not throw away the smokes already lined up.
+const picks: Record<Mode, string[]> = { smokes: [], cigars: [] }
+let selection: { mode: Mode; ids: string[] } = { mode: 'smokes', ids: picks.smokes }
 const listeners = new Set<() => void>()
 function setSelection(next: typeof selection) {
+  picks[next.mode] = next.ids
   selection = next
   for (const listener of listeners) listener()
+}
+function showMode(mode: Mode) {
+  setSelection({ mode, ids: picks[mode] })
 }
 function useSelection() {
   return useSyncExternalStore(
@@ -76,12 +91,26 @@ export function Compare() {
     })
   }, [mode, ids, state.smokes, state.cigars])
 
-  const smokeChoices = searchRows(rows, query)
-    .filter((row) => !ids.includes(row.smoke.id))
-    .slice(0, 40)
-  const cigarChoices = searchCigars(state.cigars.values(), query)
-    .filter((cigar) => stats.has(cigar.id) && !ids.includes(cigar.id))
-    .slice(0, 40)
+  // Only worked out while the picker is open, and only when what it shows could change.
+  const deferredQuery = useDeferredValue(query)
+  const smokeChoices = useMemo(
+    () =>
+      picking && mode === 'smokes'
+        ? searchRows(rows, deferredQuery)
+            .filter((row) => !ids.includes(row.smoke.id))
+            .slice(0, 40)
+        : [],
+    [picking, mode, rows, deferredQuery, ids],
+  )
+  const cigarChoices = useMemo(
+    () =>
+      picking && mode === 'cigars'
+        ? searchCigars(state.cigars.values(), deferredQuery)
+            .filter((cigar) => stats.has(cigar.id) && !ids.includes(cigar.id))
+            .slice(0, 40)
+        : [],
+    [picking, mode, state.cigars, deferredQuery, stats, ids],
+  )
 
   function add(id: string) {
     setSelection({ mode, ids: [...ids, id].slice(0, MAX) })
@@ -143,14 +172,14 @@ export function Compare() {
             <button
               type="button"
               aria-pressed={mode === 'smokes'}
-              onClick={() => setSelection({ mode: 'smokes', ids: [] })}
+              onClick={() => showMode('smokes')}
             >
               Smokes
             </button>
             <button
               type="button"
               aria-pressed={mode === 'cigars'}
-              onClick={() => setSelection({ mode: 'cigars', ids: [] })}
+              onClick={() => showMode('cigars')}
             >
               Cigars
             </button>
@@ -164,13 +193,30 @@ export function Compare() {
       </header>
 
       {rows.length === 0 ? (
-        <div className="empty">
-          <p className="empty-title">Nothing to compare yet</p>
-          <p className="muted">Log a couple of smokes first.</p>
-          <Link href="/log" className="btn btn-primary btn-log">
-            Log a smoke
-          </Link>
-        </div>
+        <EmptyState
+          icon={CompareIcon}
+          title="Nothing to compare yet"
+          action={
+            <Link href="/log" className="btn btn-primary">
+              Log a smoke
+            </Link>
+          }
+        >
+          Log a couple of smokes first.
+        </EmptyState>
+      ) : columns.length === 0 ? (
+        <EmptyState
+          icon={CompareIcon}
+          title={mode === 'smokes' ? 'Line up two smokes' : 'Line up two cigars'}
+          action={
+            <button type="button" className="btn btn-primary" onClick={() => setPicking(true)}>
+              <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
+              {mode === 'smokes' ? 'Add a smoke' : 'Add a cigar'}
+            </button>
+          }
+        >
+          Scores, flavors, and construction show side by side, with the best of each marked.
+        </EmptyState>
       ) : (
         // On a phone the columns scroll sideways inside this box while the labels stay put.
         <div className="compare-scroll">

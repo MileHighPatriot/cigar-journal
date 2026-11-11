@@ -14,6 +14,12 @@ export interface Repository {
   put<S extends StoreName>(store: S, record: RecordMap[S]): Promise<RecordMap[S]>
   /** Writes records exactly as given (import, seed, sync). One transaction for all stores. */
   putMany(batch: RecordBatch): Promise<void>
+  /**
+   * Writes each record only when it is new here or newer than the copy on disk. The check
+   * and the write share one transaction, so a save made in between is never overwritten.
+   * Resolves with the records that were written.
+   */
+  putManyIfNewer(batch: RecordBatch): Promise<RecordBatch>
   softDelete<S extends StoreName>(store: S, id: string): Promise<RecordMap[S] | undefined>
   restore<S extends StoreName>(store: S, id: string): Promise<RecordMap[S] | undefined>
   changedSince<S extends StoreName>(store: S, iso: string): Promise<RecordMap[S][]>
@@ -68,6 +74,31 @@ export class IdbRepository implements Repository {
     }
     tx.commit?.()
     await tx.done
+  }
+
+  async putManyIfNewer(batch: RecordBatch): Promise<RecordBatch> {
+    const written: RecordBatch = {}
+    const names = STORE_NAMES.filter((name) => (batch[name]?.length ?? 0) > 0)
+    if (names.length === 0) return written
+    const tx = this.db.transaction(names, 'readwrite')
+    for (const name of names) {
+      // biome-ignore lint/suspicious/noExplicitAny: store name and record type are paired
+      const store = tx.objectStore(name) as any
+      const records = batch[name] ?? []
+      const mine: ({ updatedAt: string } | undefined)[] = await Promise.all(
+        records.map((record) => store.get(record.id)),
+      )
+      // A tie keeps the copy already here, the same rule as backup import.
+      const newer = records.filter((record, index) => {
+        const local = mine[index]
+        return !local || record.updatedAt > local.updatedAt
+      })
+      for (const record of newer) store.put(record)
+      // biome-ignore lint/suspicious/noExplicitAny: record type is paired with the store name
+      if (newer.length > 0) (written as any)[name] = newer
+    }
+    await tx.done
+    return written
   }
 
   async softDelete<S extends StoreName>(store: S, id: string) {

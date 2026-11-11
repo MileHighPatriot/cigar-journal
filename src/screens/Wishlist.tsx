@@ -1,6 +1,7 @@
-import { Check, Pencil, Plus, Trash2 } from 'lucide-react'
+import { Bookmark, Check, Pencil, Plus, Trash2 } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link } from 'wouter'
+import { EmptyState } from '../components/EmptyState'
 import { LabelArt } from '../components/LabelArt'
 import { LotForm } from '../components/LotForm'
 import { Monogram, WrapperDot } from '../components/Monogram'
@@ -135,13 +136,17 @@ export function Wishlist() {
       </header>
 
       {open.length === 0 && bought.length === 0 && (
-        <div className="empty">
-          <p className="empty-title">Nothing on your wishlist</p>
-          <p className="muted">When a guest or a review sells you on one, note it here.</p>
-          <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
-            Add to wishlist
-          </button>
-        </div>
+        <EmptyState
+          icon={Bookmark}
+          title="Nothing on your wishlist"
+          action={
+            <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
+              Add to wishlist
+            </button>
+          }
+        >
+          When a guest or a review sells you on one, note it here.
+        </EmptyState>
       )}
 
       <ul className="card-list wish-list">

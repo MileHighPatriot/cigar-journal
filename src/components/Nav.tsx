@@ -1,10 +1,20 @@
-import { Armchair, Bookmark, BookOpen, ChartColumn, Plus, Settings } from 'lucide-react'
-import type { ComponentType } from 'react'
+import {
+  Armchair,
+  Bookmark,
+  BookOpen,
+  ChartColumn,
+  ChevronRight,
+  Ellipsis,
+  Plus,
+  Settings,
+} from 'lucide-react'
+import { type ComponentType, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarIcon, CompareIcon, HumidorIcon, MarkIcon } from './icons'
 import { LabelArt } from './LabelArt'
 import { Logo } from './Logo'
 import { SavedBadge } from './SavedBadge'
+import { Sheet } from './Sheet'
 
 interface NavItem {
   href: string
@@ -67,32 +77,73 @@ const settings: NavItem = {
   icon: Settings,
   match: (path) => path.startsWith('/settings'),
 }
-/** The same tabs in the same order on every screen size. */
+/** The laptop sidebar lists every tab. */
 const ITEMS = [home, journal, cigars, humidor, lounge, wishlist, stats, compare, settings]
+/** A phone has room for four tabs and the Log button. The rest sit one tap away under More. */
+const BAR_LEFT = [home, journal]
+const BAR_RIGHT = [cigars, lounge]
+const MORE = [humidor, wishlist, stats, compare, settings]
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
   const active = item.match(path)
   return (
     <Link href={item.href} className="tab" aria-current={active ? 'page' : undefined}>
-      <item.icon size={22} strokeWidth={1.5} aria-hidden="true" />
+      <item.icon size={24} strokeWidth={1.5} aria-hidden="true" />
       <span>{item.label}</span>
     </Link>
   )
 }
 
-/** Phone and tablet: every tab along the bottom, with the Log button floating above it. */
+/** Phone and tablet: four tabs, Log in the middle, and More for the other five. */
 export function TabBar() {
   const [path] = useLocation()
+  const [more, setMore] = useState(false)
+  const inMore = MORE.some((item) => item.match(path))
+
   return (
     <>
-      <Link href="/log" className="tab-log" aria-label="Log a smoke">
-        <Plus size={28} strokeWidth={1.5} aria-hidden="true" />
-      </Link>
       <nav className="tabbar" aria-label="Main">
-        {ITEMS.map((item) => (
+        {BAR_LEFT.map((item) => (
           <TabLink key={item.href} item={item} path={path} />
         ))}
+        <Link href="/log" className="tab tab-log" aria-label="Log a smoke">
+          <span className="tab-log-mark">
+            <Plus size={26} strokeWidth={1.75} aria-hidden="true" />
+          </span>
+        </Link>
+        {BAR_RIGHT.map((item) => (
+          <TabLink key={item.href} item={item} path={path} />
+        ))}
+        <button
+          type="button"
+          className="tab"
+          aria-haspopup="dialog"
+          aria-expanded={more}
+          data-current={inMore ? 'true' : undefined}
+          onClick={() => setMore(true)}
+        >
+          <Ellipsis size={24} strokeWidth={1.5} aria-hidden="true" />
+          <span>More</span>
+        </button>
       </nav>
+      <Sheet open={more} title="More" onClose={() => setMore(false)}>
+        <ul className="more-list">
+          {MORE.map((item) => (
+            <li key={item.href}>
+              <Link
+                href={item.href}
+                className="more-row"
+                aria-current={item.match(path) ? 'page' : undefined}
+                onClick={() => setMore(false)}
+              >
+                <item.icon size={24} strokeWidth={1.5} aria-hidden="true" />
+                <span>{item.label}</span>
+                <ChevronRight size={20} strokeWidth={1.5} aria-hidden="true" />
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </Sheet>
     </>
   )
 }

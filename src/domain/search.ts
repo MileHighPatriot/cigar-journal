@@ -1,5 +1,6 @@
 import type { Cigar, Smoke } from '../data/types'
 import { fold } from './format'
+import { byBrandLine, nameText, nameTokens } from './searchIndex'
 import { effectiveTags } from './tags'
 
 export interface SmokeRow {
@@ -11,11 +12,20 @@ export interface SmokeRow {
 
 const THIRD_KEYS = ['first', 'second', 'final'] as const
 
+// A row is kept for as long as its smoke and its cigar are the same records. After a save,
+// only the smoke that changed gets its search text worked out again. Memory only.
+const rowCache = new WeakMap<Smoke, SmokeRow>()
+
 export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): SmokeRow[] {
   const rows: SmokeRow[] = []
   for (const smoke of smokes) {
     if (smoke.deletedAt) continue
     const cigar = cigars.get(smoke.cigarId)
+    const kept = rowCache.get(smoke)
+    if (kept && kept.cigar === cigar) {
+      rows.push(kept)
+      continue
+    }
     const parts = [
       cigar?.brand,
       cigar?.line,
@@ -46,7 +56,9 @@ export function buildRows(smokes: Iterable<Smoke>, cigars: Map<string, Cigar>): 
       smoke.pairingNote,
       smoke.scoreNote,
     ]
-    rows.push({ smoke, cigar, haystack: fold(parts.filter(Boolean).join(' ')) })
+    const row = { smoke, cigar, haystack: fold(parts.filter(Boolean).join(' ')) }
+    rowCache.set(smoke, row)
+    rows.push(row)
   }
   rows.sort((a, b) => (a.smoke.smokedAt < b.smoke.smokedAt ? 1 : -1))
   return rows
@@ -64,12 +76,10 @@ export function searchCigars(cigars: Iterable<Cigar>, query: string): Cigar[] {
   const out: Cigar[] = []
   for (const cigar of cigars) {
     if (cigar.deletedAt) continue
-    const haystack = fold(`${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`)
+    const haystack = nameText(cigar)
     if (words.every((word) => haystack.includes(word))) out.push(cigar)
   }
-  return out.sort((a, b) =>
-    `${a.brand} ${a.line}`.localeCompare(`${b.brand} ${b.line}`, 'en', { sensitivity: 'base' }),
-  )
+  return out.sort(byBrandLine)
 }
 
 const FILLER = new Set(['the', 'and', 'of', 'de', 'la', 'el', 'by', 'y'])
@@ -111,8 +121,8 @@ export function closestCigars(cigars: Iterable<Cigar>, query: string, limit = 24
   let out: Cigar[] = []
   for (const cigar of cigars) {
     if (cigar.deletedAt) continue
-    const haystack = fold(`${cigar.brand} ${cigar.line} ${cigar.vitola ?? ''}`)
-    const tokens = haystack.split(/[^a-z0-9]+/).filter(Boolean)
+    const haystack = nameText(cigar)
+    const tokens = nameTokens(cigar)
     const hits = words.filter((word) => near(word, haystack, tokens)).length
     if (hits === 0 || hits < best) continue
     if (hits > best) {
@@ -123,9 +133,5 @@ export function closestCigars(cigars: Iterable<Cigar>, query: string, limit = 24
   }
   // One matching word out of several is too loose to be worth showing.
   if (best < Math.min(2, words.length)) return []
-  return out
-    .sort((a, b) =>
-      `${a.brand} ${a.line}`.localeCompare(`${b.brand} ${b.line}`, 'en', { sensitivity: 'base' }),
-    )
-    .slice(0, limit)
+  return out.sort(byBrandLine).slice(0, limit)
 }

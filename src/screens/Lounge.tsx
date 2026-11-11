@@ -1,6 +1,16 @@
-import { GraduationCap, Pencil, Plus, Search, Shuffle, SlidersHorizontal } from 'lucide-react'
-import { Fragment, useMemo, useState } from 'react'
+import {
+  Armchair,
+  GraduationCap,
+  Pencil,
+  Plus,
+  Search,
+  SearchX,
+  Shuffle,
+  SlidersHorizontal,
+} from 'lucide-react'
+import { Fragment, useDeferredValue, useMemo, useState } from 'react'
 import { Link } from 'wouter'
+import { EmptyState } from '../components/EmptyState'
 import { FlavorTags } from '../components/FlavorTags'
 import { LAPTOP, useMediaQuery } from '../components/hooks'
 import { LabelArt } from '../components/LabelArt'
@@ -56,7 +66,8 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
   const [deck, setDeck] = useState<LoungeCigar[] | null>(null)
 
   const stocked = useMemo(() => loungeCigars(state.cigars.values()), [state.cigars])
-  const results = useMemo(() => filterLounge(stocked, filter), [stocked, filter])
+  const applied = useDeferredValue(filter)
+  const results = useMemo(() => filterLounge(stocked, applied), [stocked, applied])
   const groups = useMemo(() => groupByStrength(results), [results])
   const totals = useMemo(() => loungeTotals(stocked), [stocked])
   const wrappers = useMemo(() => wrapperOptionsOf(stocked), [stocked])
@@ -103,13 +114,17 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
         </header>
 
         {stocked.length === 0 ? (
-          <div className="empty">
-            <p className="empty-title">Nothing on the lounge list yet</p>
-            <p className="muted">Add each stick that is actually in the humidor.</p>
-            <button type="button" className="btn btn-quiet" onClick={() => setAdding(true)}>
-              Add a lounge stick
-            </button>
-          </div>
+          <EmptyState
+            icon={Armchair}
+            title="Nothing on the lounge list yet"
+            action={
+              <button type="button" className="btn btn-primary" onClick={() => setAdding(true)}>
+                Add a lounge stick
+              </button>
+            }
+          >
+            Add each stick that is actually in the humidor.
+          </EmptyState>
         ) : (
           <>
             <div className="search">
@@ -285,17 +300,21 @@ export function Lounge({ selectedId }: { selectedId?: string }) {
             </p>
 
             {results.length === 0 && (
-              <div className="empty">
-                <p className="empty-title">Nothing in the lounge fits</p>
-                <p className="muted">Loosen one of the picks, or try another flavor.</p>
-                <button
-                  type="button"
-                  className="btn btn-quiet"
-                  onClick={() => setFilter(EMPTY_LOUNGE_FILTER)}
-                >
-                  Clear
-                </button>
-              </div>
+              <EmptyState
+                icon={SearchX}
+                title="Nothing in the lounge fits"
+                action={
+                  <button
+                    type="button"
+                    className="btn btn-quiet"
+                    onClick={() => setFilter(EMPTY_LOUNGE_FILTER)}
+                  >
+                    Clear
+                  </button>
+                }
+              >
+                Loosen one of the picks, or try another flavor.
+              </EmptyState>
             )}
 
             <ul className="lounge-list">

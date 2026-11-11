@@ -13,6 +13,7 @@ import { useMemo, useState } from 'react'
 import { Link, useLocation } from 'wouter'
 import { CigarForm } from '../components/CigarForm'
 import { FlavorTags } from '../components/FlavorTags'
+import { usePending } from '../components/hooks'
 import { LabelArt } from '../components/LabelArt'
 import { LevelMeter } from '../components/LevelMeter'
 import { LotForm } from '../components/LotForm'
@@ -50,6 +51,7 @@ export function CigarPage({ id, backHref = '/cigars' }: Props) {
   const [stocking, setStocking] = useState(false)
   const [wishing, setWishing] = useState(false)
   const [lounging, setLounging] = useState(false)
+  const [starting, runStart] = usePending()
   const cigar = state.cigars.get(id)
 
   const smokes = useMemo(
@@ -209,7 +211,12 @@ export function CigarPage({ id, backHref = '/cigars' }: Props) {
       )}
 
       <div className="detail-actions detail-actions-top">
-        <button type="button" className="btn btn-primary" onClick={() => void log()}>
+        <button
+          type="button"
+          className="btn btn-primary"
+          aria-busy={starting}
+          onClick={() => runStart(log)}
+        >
           <Plus size={20} strokeWidth={1.5} aria-hidden="true" />
           Log this cigar
         </button>

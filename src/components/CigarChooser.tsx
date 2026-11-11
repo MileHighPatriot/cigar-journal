@@ -1,5 +1,5 @@
 import { Plus, Search } from 'lucide-react'
-import { useId, useMemo, useState } from 'react'
+import { useDeferredValue, useId, useMemo, useState } from 'react'
 import { createPortal } from 'react-dom'
 import { useStore } from '../data/store'
 import { wrapperOptions } from '../domain/cigars'
@@ -22,9 +22,10 @@ export function CigarChooser({ cigarId, onChange, locked }: Props) {
   const [query, setQuery] = useState('')
   const [adding, setAdding] = useState(false)
   const cigar = state.cigars.get(cigarId)
+  const deferredQuery = useDeferredValue(query)
   const results = useMemo(
-    () => (cigar ? [] : searchCigars(state.cigars.values(), query).slice(0, 30)),
-    [state.cigars, query, cigar],
+    () => (cigar ? [] : searchCigars(state.cigars.values(), deferredQuery).slice(0, 30)),
+    [state.cigars, deferredQuery, cigar],
   )
   const wrappers = useMemo(() => wrapperOptions(state.cigars.values()), [state.cigars])
 

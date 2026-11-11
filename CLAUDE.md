@@ -47,12 +47,14 @@ The cigar list is researched (2026-10-11): 3,665 cigars in 267 brands, 3,591 fac
 ## Design
 
 - Tokens: `src/styles/tokens.css`. Nothing else hard-codes a color, radius, or font.
-- The finish (`src/styles/finish.css`, Havana label, 2026-10-24): cigar-label lithographs on every tab, the log, and the detail pages (`LabelArt`, pictures in `src/assets/`). Home shows the villa. Each page also carries a larger, see-through plate of its own (`ground-*.jpg`), low on the dark mount, and it is not the header picture. Label red on actions, a short red rule under each title. A smoke card wears a rail in that cigar's wrapper shade. Ready is palm green. No skyline drawing, neon, or pastel street.
+- The finish (Havana label, 2026-10-24; its rules live in `src/styles/app.css` since the 2026-11-11 look and speed pass, SPEC section 23): cigar-label lithographs on every tab, the log, and the detail pages (`LabelArt`, WebP copies in `src/assets/`, originals in `art/`, remade with `node scripts/art.mjs`). Home shows the villa. Each page also carries a larger, see-through plate of its own (`ground-*.jpg`), low on the dark mount, and it is not the header picture. Label red on actions, a short red rule under each title. A smoke card wears a rail in that cigar's wrapper shade. Ready is palm green. No skyline drawing, neon, or pastel street.
 - The logo (`Logo.tsx`, and `public/icon.svg` for the app icon): a crescent C and a cigar J, cream on the dark mount, label-red band, gold foot. After changing `public/icon.svg`, run `npm run icons`.
 - Home (`#/`) is the front page; the journal list is at `#/journal`. Home leads with Log and the last smoke. The four counts sit under that.
 - Dark only. Fraunces for titles and the score numeral (24 px and up), IBM Plex Sans for the rest, tabular numbers for scores, dates, and counts.
-- Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone. The floating Log button is that action.
+- Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone. The red Log button in the middle of the tab bar is that action. The phone bar is Home, Journal, Log, Cigars, Lounge, More; the other five tabs open from More.
 - The wrapper rail belongs on smoke cards only.
+- Loading, drawing, and searching must never save a record: a seed cigar counts as untouched only while `updatedAt === createdAt`. Search text is cached in memory only (`src/domain/searchIndex.ts`).
+- Run the dev or preview server with sync off unless testing sync on purpose: `VITE_SUPABASE_URL= VITE_SUPABASE_ANON_KEY= npm run dev`.
 - Score rings, charts, and wrapper and flavor dots stay. No stock photos. Honor reduced motion. Nothing glows or loops.
 - The "avoid" list in SPEC section 12 is binding.
 

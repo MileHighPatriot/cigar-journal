@@ -1,3 +1,4 @@
+import { memo } from 'react'
 import { Link } from 'wouter'
 import type { Photo } from '../data/types'
 import { cigarTitle, formatDate, formatMinutes } from '../domain/format'
@@ -20,7 +21,7 @@ interface Props {
   featured?: boolean
 }
 
-export function SmokeCard({ row, photo, selected, featured }: Props) {
+function Card({ row, photo, selected, featured }: Props) {
   const { smoke, cigar } = row
   const [ref, near] = useNearViewport<HTMLAnchorElement>()
   const wide = Boolean(featured && photo)
@@ -39,19 +40,19 @@ export function SmokeCard({ row, photo, selected, featured }: Props) {
       data-leaf={leafKey(cigar?.wrapperType)}
       aria-current={selected ? 'true' : undefined}
     >
-      {/* The one signature detail: a brass band rule with the brand in small caps. */}
+      {/* The brand in small caps across the top, like the band on a cigar. */}
       <span className="band">
         <span className="band-brand">{cigar?.brand || 'Unknown brand'}</span>
       </span>
       {wide && (
         <span className="smoke-card-photo">
-          {image && <img src={image} alt="" loading="lazy" />}
+          {image && <img src={image} alt="" decoding="async" />}
         </span>
       )}
       <span className="smoke-card-body">
         {photo && !wide && (
           <span className="smoke-card-thumb">
-            {image && <img src={image} alt="" width={88} height={88} />}
+            {image && <img src={image} alt="" width={88} height={88} decoding="async" />}
           </span>
         )}
         <span className="smoke-card-main">
@@ -82,3 +83,16 @@ export function SmokeCard({ row, photo, selected, featured }: Props) {
     </Link>
   )
 }
+
+function sameCard(a: Props, b: Props): boolean {
+  return (
+    a.row.smoke === b.row.smoke &&
+    a.row.cigar === b.row.cigar &&
+    a.photo === b.photo &&
+    a.selected === b.selected &&
+    a.featured === b.featured
+  )
+}
+
+/** Redrawn only when its own smoke, cigar, or photo changes, not on every save elsewhere. */
+export const SmokeCard = memo(Card, sameCard)

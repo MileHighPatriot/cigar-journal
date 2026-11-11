@@ -1,4 +1,5 @@
 import { ShieldAlert } from 'lucide-react'
+import { useMemo } from 'react'
 import { Link } from 'wouter'
 import { setMeta, useMeta, useStore } from '../data/store'
 import { backupReminderText, backupStatus } from '../domain/backupStatus'
@@ -11,16 +12,29 @@ export function BackupReminder() {
   const snoozedUntil = useMeta('backupBannerSnoozedUntil')
   const sync = useSync()
 
-  const status = backupStatus(
-    {
-      cigars: state.cigars.values(),
-      smokes: state.smokes.values(),
-      lots: state.lots.values(),
-      wishlist: state.wishlist.values(),
-      customTags: state.customTags.values(),
-      photos: state.photos.values(),
-    },
-    lastExportAt ?? null,
+  // Worked out again only when a record or the last backup date changes.
+  const status = useMemo(
+    () =>
+      backupStatus(
+        {
+          cigars: state.cigars.values(),
+          smokes: state.smokes.values(),
+          lots: state.lots.values(),
+          wishlist: state.wishlist.values(),
+          customTags: state.customTags.values(),
+          photos: state.photos.values(),
+        },
+        lastExportAt ?? null,
+      ),
+    [
+      state.cigars,
+      state.smokes,
+      state.lots,
+      state.wishlist,
+      state.customTags,
+      state.photos,
+      lastExportAt,
+    ],
   )
   const snoozed = snoozedUntil !== undefined && snoozedUntil > new Date().toISOString()
   // With sync on and working, the server already holds a second copy.
