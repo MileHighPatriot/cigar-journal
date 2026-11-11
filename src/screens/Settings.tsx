@@ -18,6 +18,7 @@ import {
   summaryText,
 } from '../backup/importBackup'
 import { LabelArt } from '../components/LabelArt'
+import { OldScoresCard } from '../components/OldScoresCard'
 import { Sheet } from '../components/Sheet'
 import { SyncCard } from '../components/SyncCard'
 import { showToast } from '../components/toast'
@@ -201,6 +202,7 @@ export function Settings() {
 
       <div className="settings-grid">
         <SyncCard />
+        <OldScoresCard />
         <section className="card settings-card">
           <h2>Backup</h2>
           <p className="muted">

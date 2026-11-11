@@ -1,6 +1,14 @@
 import { useEffect, useSyncExternalStore } from 'react'
+import { showToast } from '../components/toast'
 import { addedInSheetBatch, newLoungeEntry } from '../domain/lounge'
-import { buyAgainFromMarks, computeScore, ratingsFromMarks, sheetProgress } from '../domain/scoring'
+import {
+  buyAgainFromMarks,
+  computeScore,
+  convertOldScore,
+  ratingsFromMarks,
+  restoreOldScore,
+  sheetProgress,
+} from '../domain/scoring'
 import { processPhoto } from '../photos/pipeline'
 import { requestPersist } from '../pwa/storage'
 import { seedVersion } from '../seed/version.json'
@@ -123,7 +131,16 @@ export async function initStore(options: { repository?: Repository } = {}) {
     }
     await Promise.all([reloadFromDisk(), primeMeta(repo)])
     await clearLoungeSheetBatch()
+    const converted = await convertOldScores()
     setState({ ready: true })
+    if (converted > 0) {
+      showToast(
+        {
+          message: `${converted} old ${converted === 1 ? 'score' : 'scores'} moved to the new sheet. Undo in Settings.`,
+        },
+        6000,
+      )
+    }
     void purgeOldPhotoBytes()
   } catch (error) {
     setState({ loadError: describeError(error) })
@@ -372,6 +389,44 @@ export function markSmoke(id: string, key: string, level: number): Promise<void>
     rubricVersion: done === total ? 2 : current.rubricVersion,
     wouldBuyAgain: buyAgainFromMarks(marks) ?? current.wouldBuyAgain,
   })
+}
+
+/**
+ * Brings every smoke scored on the old 1 to 10 scales onto the scoresheet. Runs when the
+ * journal opens. Each smoke keeps its old ratings and score, so it can be undone. Doing it
+ * again finds nothing.
+ */
+export async function convertOldScores(): Promise<number> {
+  const changed: Smoke[] = []
+  for (const smoke of state.smokes.values()) {
+    const patch = convertOldScore(smoke)
+    if (patch) changed.push({ ...smoke, ...patch })
+  }
+  if (changed.length > 0) await saveBatch({ smokes: changed })
+  return changed.length
+}
+
+/** Puts every converted smoke back to the score it was given. Returns how many. */
+export async function restoreOldScores(): Promise<number> {
+  const changed: Smoke[] = []
+  for (const smoke of state.smokes.values()) {
+    const patch = restoreOldScore(smoke)
+    if (patch) changed.push({ ...smoke, ...patch })
+  }
+  if (changed.length > 0) await saveBatch({ smokes: changed })
+  return changed.length
+}
+
+/** Converts again the smokes whose old score was put back. Returns how many. */
+export async function convertKeptScores(): Promise<number> {
+  const changed: Smoke[] = []
+  for (const smoke of state.smokes.values()) {
+    if (!smoke.scoreKept) continue
+    const patch = convertOldScore({ ...smoke, scoreKept: false })
+    if (patch) changed.push({ ...smoke, ...patch, scoreKept: false })
+  }
+  if (changed.length > 0) await saveBatch({ smokes: changed })
+  return changed.length
 }
 
 export function softDelete<S extends StoreName>(store: S, id: string): Promise<void> {

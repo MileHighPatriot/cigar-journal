@@ -55,6 +55,9 @@ const ADDED_LATER = {
   pairingNote: '',
   scoreNote: '',
   marks: {},
+  oldRatings: null,
+  oldScore: null,
+  scoreKept: false,
 } satisfies Partial<Smoke>
 
 /**
@@ -141,6 +144,9 @@ export function newSmoke(cigarId: string, fields: Partial<Smoke> = {}): Smoke {
     mood: '',
     ratings: emptyRatings(),
     marks: {},
+    oldRatings: null,
+    oldScore: null,
+    scoreKept: false,
     score: null,
     rubricVersion: RUBRIC_VERSION,
     wouldBuyAgain: null,

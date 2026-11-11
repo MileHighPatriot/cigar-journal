@@ -368,6 +368,13 @@ export function SmokeDetail({ id }: { id: string }) {
                 )
               })}
             </dl>
+            {smoke.oldScore !== null && (
+              <p className="muted rating-marks">
+                Converted from your old 1 to 10 scores. It was a{' '}
+                <span className="num">{shownScore(smoke.oldScore)}</span>. The answers above are the
+                closest fit, not ones you tapped.
+              </p>
+            )}
             {smoke.scoreNote && <p className="detail-note">{smoke.scoreNote}</p>}
           </section>
 

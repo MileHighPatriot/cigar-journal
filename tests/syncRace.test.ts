@@ -204,3 +204,53 @@ describe('searching the cigar list', () => {
     expect(JSON.stringify(list)).toBe(before)
   })
 })
+
+describe('old scores when the journal opens', () => {
+  it('are moved to the sheet once, keep the old numbers, and can be put back', async () => {
+    const { convertKeptScores, restoreOldScores } = await import('../src/data/store')
+    const repo = await device()
+    const ratings = { appearance: 8, smoking: 7, flavor: 9, overall: 8.5 }
+    const scored = newSmoke(cigar.id, {
+      status: 'complete',
+      ratings,
+      score: 90.875,
+      rubricVersion: 1,
+    })
+    // Saved before the sheet existed: the record has none of the new fields.
+    const { marks: _m, oldRatings: _r, oldScore: _s, scoreKept: _k, ...legacy } = scored
+    const unscored = newSmoke(cigar.id, { status: 'draft', rubricVersion: 1 })
+    await repo.putMany({ cigars: [cigar], smokes: [legacy as typeof scored, unscored] })
+    await repo.setMeta('seedVersion', Number.MAX_SAFE_INTEGER)
+
+    await initStore({ repository: repo })
+    await whenSaved()
+    const after = getState().smokes.get(scored.id)
+    expect(after?.rubricVersion).toBe(2)
+    expect(Object.keys(after?.marks ?? {})).toHaveLength(10)
+    expect(after?.oldScore).toBe(90.875)
+    expect(after?.oldRatings).toEqual(ratings)
+    expect(Math.abs((after?.score ?? 0) - 90.875)).toBeLessThanOrEqual(2)
+    expect(getState().smokes.get(unscored.id)?.updatedAt).toBe(unscored.updatedAt)
+    const onDisk = (await repo.getAll('smokes')).find((s) => s.id === scored.id)
+    expect(onDisk?.oldScore).toBe(90.875)
+
+    // Opening again changes nothing more.
+    const stamp = after?.updatedAt
+    await initStore({ repository: repo })
+    await whenSaved()
+    expect(getState().smokes.get(scored.id)?.updatedAt).toBe(stamp)
+
+    expect(await restoreOldScores()).toBe(1)
+    const back = getState().smokes.get(scored.id)
+    expect(back?.score).toBe(90.875)
+    expect(back?.ratings).toEqual(ratings)
+    expect(back?.scoreKept).toBe(true)
+    // Put back on purpose, so the next opening leaves it alone.
+    await initStore({ repository: repo })
+    await whenSaved()
+    expect(getState().smokes.get(scored.id)?.score).toBe(90.875)
+
+    expect(await convertKeptScores()).toBe(1)
+    expect(getState().smokes.get(scored.id)?.rubricVersion).toBe(2)
+  })
+})

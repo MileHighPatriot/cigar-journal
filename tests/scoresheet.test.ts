@@ -153,3 +153,70 @@ describe('where a smoke stands', () => {
     expect(standing(smoke('o1', 95, 9), others, cigars)[0]).toBe('Your best yet, #1 of 3 smokes')
   })
 })
+
+describe('bringing old scores onto the sheet', () => {
+  const old = (ratings: [number, number, number, number], fields: Partial<Smoke> = {}) => {
+    const [appearance, smoking, flavor, overall] = ratings
+    const all = { appearance, smoking, flavor, overall }
+    return newSmoke('c1', {
+      status: 'complete',
+      ratings: all,
+      score: computeScore(all)?.exact ?? null,
+      rubricVersion: 1,
+      ...fields,
+    })
+  }
+
+  it('stays within two points of the old score across the whole range', async () => {
+    const { convertOldScore, shownScore } = await import('../src/domain/scoring')
+    let worst = 0
+    for (let a = 4; a <= 10; a += 0.5) {
+      for (let s = 4; s <= 10; s += 1.5) {
+        for (let f = 4; f <= 10; f += 1.5) {
+          for (let o = 4; o <= 10; o += 0.5) {
+            const smoke = old([a, s, f, o])
+            const patch = convertOldScore(smoke)
+            expect(patch).not.toBeNull()
+            const gap = Math.abs(shownScore(patch?.score ?? 0) - shownScore(smoke.score ?? 0))
+            worst = Math.max(worst, gap)
+          }
+        }
+      }
+    }
+    expect(worst).toBeLessThanOrEqual(2)
+  })
+
+  it('fills in every item, keeps the old numbers, and reads an even rating as even answers', async () => {
+    const { convertOldScore, marksForRating } = await import('../src/domain/scoring')
+    const smoke = old([8, 7, 9, 8.5])
+    const patch = convertOldScore(smoke)
+    expect(Object.keys(patch?.marks ?? {})).toHaveLength(10)
+    expect(patch?.rubricVersion).toBe(2)
+    expect(patch?.oldRatings).toEqual(smoke.ratings)
+    expect(patch?.oldScore).toBe(smoke.score)
+    expect(marksForRating('smoking', 10)).toEqual({ draw: 4, burn: 4, smoke: 3 })
+    expect(marksForRating('smoking', 7.5)).toEqual({ draw: 3, burn: 3, smoke: 2 })
+    expect(marksForRating('overall', 7)).toEqual({ call: 3 })
+  })
+
+  it('leaves alone a smoke with no score, one already on the sheet, and one put back', async () => {
+    const { convertOldScore } = await import('../src/domain/scoring')
+    expect(convertOldScore(newSmoke('c1', { rubricVersion: 1 }))).toBeNull()
+    expect(convertOldScore(old([7, 7, 7, 7], { rubricVersion: 2 }))).toBeNull()
+    expect(convertOldScore(old([7, 7, 7, 7], { marks: { draw: 2 } }))).toBeNull()
+    expect(convertOldScore(old([7, 7, 7, 7], { scoreKept: true }))).toBeNull()
+  })
+
+  it('goes back to exactly the old score, and stays there', async () => {
+    const { convertOldScore, restoreOldScore } = await import('../src/domain/scoring')
+    const smoke = old([8, 7, 9, 8.5])
+    const converted = { ...smoke, ...convertOldScore(smoke) }
+    const back = { ...converted, ...restoreOldScore(converted) }
+    expect(back.ratings).toEqual(smoke.ratings)
+    expect(back.score).toBe(smoke.score)
+    expect(back.marks).toEqual({})
+    expect(back.rubricVersion).toBe(1)
+    expect(convertOldScore(back)).toBeNull()
+    expect(restoreOldScore(smoke)).toBeNull()
+  })
+})

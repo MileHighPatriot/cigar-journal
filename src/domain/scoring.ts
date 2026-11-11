@@ -1,4 +1,4 @@
-import type { BuyAgain, Marks, RatingKey, Ratings } from '../data/types'
+import type { BuyAgain, Marks, RatingKey, Ratings, Smoke } from '../data/types'
 
 /** New smokes are scored on the scoresheet. */
 export const RUBRIC_VERSION = 2 as const
@@ -295,4 +295,84 @@ export function buyAgainFromMarks(marks: Marks): BuyAgain | null {
   if (call === 2) return 'single'
   if (call === 3) return 'few'
   return 'box'
+}
+
+// ---------- Bringing old scores onto the sheet ----------
+
+/** How far off the closest answers may be before a more even set of answers is preferred. */
+const CLOSE_ENOUGH = 0.15
+
+/**
+ * The sheet answers that come closest to a 1 to 10 rating given the old way. Among sets of
+ * answers that land about equally close, the most even one wins, so an old "8" reads as
+ * good across the board rather than one perfect item and one poor one.
+ */
+export function marksForRating(category: RatingKey, rating: number): Marks {
+  const items = sheetItems(category)
+  const possible = items.reduce((sum, item) => sum + 100 * item.weight, 0)
+  let best: { marks: Marks; gap: number; spread: number } | null = null
+  const walk = (index: number, picked: number[]) => {
+    const item = items[index]
+    if (!item) {
+      const points = picked.map((level, i) => items[i]?.levels[level]?.points ?? 0)
+      const earned = points.reduce((sum, value, i) => sum + value * (items[i]?.weight ?? 0), 0)
+      const gap = Math.abs(1 + (9 * earned) / possible - rating)
+      const spread = Math.max(...points) - Math.min(...points)
+      const closer = !best || gap < best.gap - CLOSE_ENOUGH
+      const asCloseAndMoreEven =
+        best !== null &&
+        gap <= best.gap + CLOSE_ENOUGH &&
+        (spread < best.spread || (spread === best.spread && gap < best.gap))
+      if (closer || asCloseAndMoreEven) {
+        best = {
+          marks: Object.fromEntries(picked.map((level, i) => [items[i]?.key ?? '', level])),
+          gap,
+          spread,
+        }
+      }
+      return
+    }
+    for (let level = 0; level < item.levels.length; level++) walk(index + 1, [...picked, level])
+  }
+  walk(0, [])
+  return (best as { marks: Marks } | null)?.marks ?? {}
+}
+
+/**
+ * What to save to bring a smoke scored on the old 1 to 10 scales onto the scoresheet, or
+ * null when it should be left alone: not scored, already on the sheet, or put back on
+ * purpose. The old ratings and score are kept on the record so this can be undone.
+ */
+export function convertOldScore(smoke: Smoke): Partial<Smoke> | null {
+  if (smoke.rubricVersion !== 1 || smoke.scoreKept || smoke.deletedAt) return null
+  if (smoke.score === null || Object.keys(smoke.marks).length > 0) return null
+  const marks: Marks = {}
+  for (const category of RUBRIC) {
+    const rating = smoke.ratings[category.key]
+    if (rating === null) return null
+    Object.assign(marks, marksForRating(category.key, rating))
+  }
+  const ratings = ratingsFromMarks(smoke.ratings, marks)
+  return {
+    marks,
+    ratings,
+    score: computeScore(ratings)?.exact ?? smoke.score,
+    rubricVersion: 2,
+    oldRatings: { ...smoke.ratings },
+    oldScore: smoke.score,
+  }
+}
+
+/** Puts a converted smoke back exactly as it was scored, and marks it to stay that way. */
+export function restoreOldScore(smoke: Smoke): Partial<Smoke> | null {
+  if (!smoke.oldRatings || smoke.oldScore === null) return null
+  return {
+    marks: {},
+    ratings: { ...smoke.oldRatings },
+    score: smoke.oldScore,
+    rubricVersion: 1,
+    oldRatings: null,
+    oldScore: null,
+    scoreKept: true,
+  }
 }

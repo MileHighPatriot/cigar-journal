@@ -201,6 +201,15 @@ export interface Smoke extends SyncFields {
    * scales, which keep the ratings they were given.
    */
   marks: Marks
+  /**
+   * The ratings and score a smoke had on the old 1 to 10 scales, kept when it was converted
+   * to the scoresheet so the conversion can be undone. Null on a smoke that was never
+   * converted.
+   */
+  oldRatings: Ratings | null
+  oldScore: number | null
+  /** True when the old score was put back on purpose. The conversion then leaves it alone. */
+  scoreKept: boolean
   score: number | null
   /** 1: four 1 to 10 scales. 2: the scoresheet. Both land on the same 100-point scale. */
   rubricVersion: 1 | 2
