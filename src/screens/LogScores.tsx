@@ -1,23 +1,18 @@
 import { ChevronLeft } from 'lucide-react'
-import { useRef } from 'react'
 import { Link, useLocation } from 'wouter'
 import { FlowLayout } from '../components/FlowLayout'
-import { prefersReducedMotion, TABLET_UP, useCountUp } from '../components/hooks'
-import { ScoreRing } from '../components/ScoreRing'
-import { TapScale } from '../components/TapScale'
+import { ScoreReadout } from '../components/ScoreReadout'
+import { ScoreSheet } from '../components/ScoreSheet'
 import { showToast } from '../components/toast'
 import { patchSmoke, useStore } from '../data/store'
-import type { RatingKey } from '../data/types'
 import { cigarTitle } from '../domain/format'
-import { computeScore, RUBRIC, verdictFor } from '../domain/scoring'
+import { computeScore, sheetProgress } from '../domain/scoring'
 
+/** Quick log, step one: the scoresheet. Ten taps and the score is in. */
 export function LogScores({ id }: { id: string }) {
   const state = useStore()
   const [, navigate] = useLocation()
-  const sections = useRef(new Map<RatingKey, HTMLDivElement>())
   const smoke = state.smokes.get(id)
-  const score = smoke ? computeScore(smoke.ratings) : null
-  const counted = useCountUp(score?.shown ?? null)
 
   if (!smoke || smoke.deletedAt) {
     return (
@@ -31,23 +26,8 @@ export function LogScores({ id }: { id: string }) {
   }
 
   const cigar = state.cigars.get(smoke.cigarId)
-  const rated = RUBRIC.filter((category) => smoke.ratings[category.key] !== null).length
-
-  function rate(key: RatingKey, value: number) {
-    if (!smoke) return
-    const wasEmpty = smoke.ratings[key] === null
-    void patchSmoke(id, { ratings: { ...smoke.ratings, [key]: value }, draftStep: 'scores' })
-    // From tablet width up the four scales sit in a grid and need no scrolling.
-    if (!wasEmpty || window.matchMedia(TABLET_UP).matches) return
-    // Keep the scale just rated in full view under the score readout, so a second tap
-    // for a half point is still in reach. The next scale then lands mid-screen.
-    const index = RUBRIC.findIndex((category) => category.key === key)
-    const current = sections.current.get(key)
-    if (!current || !RUBRIC[index + 1]) return
-    const readoutBottom = document.querySelector('.readout')?.getBoundingClientRect().bottom ?? 0
-    const top = current.getBoundingClientRect().top + window.scrollY - readoutBottom - 12
-    window.scrollTo({ top, behavior: prefersReducedMotion() ? 'auto' : 'smooth' })
-  }
+  const score = computeScore(smoke.ratings)
+  const { done, total } = sheetProgress(smoke.marks)
 
   function close() {
     navigate('/journal')
@@ -75,7 +55,7 @@ export function LogScores({ id }: { id: string }) {
       actions={
         <>
           <span className="actionbar-note muted num" aria-live="polite">
-            {rated < 4 ? `${rated} of 4 rated` : 'All four rated'}
+            {score ? 'Scored' : `${done} of ${total} answered`}
           </span>
           <button
             type="button"
@@ -91,44 +71,8 @@ export function LogScores({ id }: { id: string }) {
         </>
       }
     >
-      <div className="readout">
-        <ScoreRing shown={score?.shown ?? null} size={72} stroke={4}>
-          <span className="numeral numeral-sm num">{score ? counted : ''}</span>
-        </ScoreRing>
-        <span className="readout-text" aria-live="polite">
-          {score ? (
-            <>
-              <span className="verdict verdict-lg" data-verdict={verdictFor(score.shown)}>
-                {verdictFor(score.shown)}
-              </span>
-              <span className="muted">Lounge 100</span>
-            </>
-          ) : (
-            <>
-              <span className="readout-verdict">Score it</span>
-              <span className="muted">Tap a number. Tap it again for a half point.</span>
-            </>
-          )}
-        </span>
-      </div>
-
-      <div className="scales">
-        {RUBRIC.map((category) => (
-          <div
-            key={category.key}
-            ref={(element) => {
-              if (element) sections.current.set(category.key, element)
-              else sections.current.delete(category.key)
-            }}
-          >
-            <TapScale
-              category={category}
-              value={smoke.ratings[category.key]}
-              onChange={(value) => rate(category.key, value)}
-            />
-          </div>
-        ))}
-      </div>
+      <ScoreReadout smoke={smoke} />
+      <ScoreSheet smoke={smoke} />
     </FlowLayout>
   )
 }

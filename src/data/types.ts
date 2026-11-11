@@ -136,6 +136,8 @@ export type ThirdKey = 'first' | 'second' | 'final'
 
 export type RatingKey = 'appearance' | 'smoking' | 'flavor' | 'overall'
 export type Ratings = Record<RatingKey, number | null>
+/** Scoresheet item key to the position of the picked level. */
+export type Marks = Record<string, number>
 
 export type PairingType =
   | 'coffee'
@@ -193,8 +195,15 @@ export interface Smoke extends SyncFields {
   conditions: string
   mood: string
   ratings: Ratings
+  /**
+   * The scoresheet: one answer per item, as the position of the picked level. The four
+   * ratings above are worked out from these. Empty on smokes scored on the old 1 to 10
+   * scales, which keep the ratings they were given.
+   */
+  marks: Marks
   score: number | null
-  rubricVersion: 1
+  /** 1: four 1 to 10 scales. 2: the scoresheet. Both land on the same 100-point scale. */
+  rubricVersion: 1 | 2
   wouldBuyAgain: BuyAgain | null
   summary: string
   constructionNote: string

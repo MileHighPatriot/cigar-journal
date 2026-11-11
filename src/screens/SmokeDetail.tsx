@@ -7,6 +7,7 @@ import { LabelArt } from '../components/LabelArt'
 import { WrapperDot } from '../components/Monogram'
 import { PHOTO_KINDS } from '../components/PhotoSection'
 import { ScoreRing } from '../components/ScoreRing'
+import { Standing } from '../components/Standing'
 import { showToast } from '../components/toast'
 import { deleteSmoke, photosForSmoke, useStore } from '../data/store'
 import type { Photo, Third } from '../data/types'
@@ -19,7 +20,7 @@ import {
   formatTime,
 } from '../domain/format'
 import { earlierSmoke, hitAndMiss, noteDelta } from '../domain/journal'
-import { levelLabel, RUBRIC, shownScore, verdictFor } from '../domain/scoring'
+import { levelLabel, RUBRIC, sheetItems, shownScore, verdictFor } from '../domain/scoring'
 import { smokeSize } from '../domain/sizes'
 import { smokeSummary } from '../domain/summary'
 import { usePhotoUrl } from '../photos/usePhotoUrl'
@@ -258,6 +259,8 @@ export function SmokeDetail({ id }: { id: string }) {
         </div>
       </header>
 
+      <Standing smoke={smoke} />
+
       {smoke.status === 'draft' && (
         <div className="banner">
           <p>This one is still in progress.</p>
@@ -350,6 +353,17 @@ export function SmokeDetail({ id }: { id: string }) {
                     <span className="rating-bar" aria-hidden="true">
                       <span style={{ width: `${((rating ?? 0) / 10) * 100}%` }} />
                     </span>
+                    {/* What was answered on the scoresheet, when it was scored that way. */}
+                    {sheetItems(category.key).some((item) => item.key in smoke.marks) && (
+                      <span className="rating-marks muted">
+                        {sheetItems(category.key)
+                          .flatMap((item) => {
+                            const level = item.levels[smoke.marks[item.key] ?? -1]
+                            return level ? [`${item.label}: ${level.label}`] : []
+                          })
+                          .join(' \u00B7 ')}
+                      </span>
+                    )}
                   </div>
                 )
               })}

@@ -1,6 +1,6 @@
 import { useEffect, useSyncExternalStore } from 'react'
 import { addedInSheetBatch, newLoungeEntry } from '../domain/lounge'
-import { computeScore } from '../domain/scoring'
+import { buyAgainFromMarks, computeScore, ratingsFromMarks, sheetProgress } from '../domain/scoring'
 import { processPhoto } from '../photos/pipeline'
 import { requestPersist } from '../pwa/storage'
 import { seedVersion } from '../seed/version.json'
@@ -352,6 +352,26 @@ export function patchSmoke(id: string, patch: Partial<Smoke>): Promise<void> {
   const next = { ...current, ...patch }
   if (patch.ratings) next.score = computeScore(next.ratings)?.exact ?? null
   return saveRecord('smokes', next)
+}
+
+/**
+ * Answers one line of the scoresheet. Tapping the picked answer again clears it. The four
+ * ratings and the score follow from the sheet in the same save.
+ */
+export function markSmoke(id: string, key: string, level: number): Promise<void> {
+  const current = state.smokes.get(id)
+  if (!current) return Promise.resolve()
+  const marks = { ...current.marks }
+  if (marks[key] === level) delete marks[key]
+  else marks[key] = level
+  const ratings = ratingsFromMarks(current.ratings, marks)
+  const { done, total } = sheetProgress(marks)
+  return patchSmoke(id, {
+    marks,
+    ratings,
+    rubricVersion: done === total ? 2 : current.rubricVersion,
+    wouldBuyAgain: buyAgainFromMarks(marks) ?? current.wouldBuyAgain,
+  })
 }
 
 export function softDelete<S extends StoreName>(store: S, id: string): Promise<void> {

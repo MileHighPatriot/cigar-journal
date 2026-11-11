@@ -256,6 +256,7 @@ export async function addFakeSmokes(count: number, withPhotos: number): Promise<
         createdAt: smokedAt,
         ratings,
         score: computeScore(ratings)?.exact ?? null,
+        rubricVersion: 1,
         quickTags: tags,
         durationMin: 40 + Math.floor(random() * 60),
         pricePaid: fromLot || random() < 0.35 ? null : 8 + Math.floor(random() * 19),

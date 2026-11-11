@@ -157,8 +157,8 @@ export function SmokeFlavors({
       suggest={listed.length > 0 ? listed : undefined}
       hint={
         listed.length > 0
-          ? 'From the cigar list. Tap the ones you actually taste.'
-          : 'No flavor notes on file for this cigar. Tap any you taste.'
+          ? 'These are the notes on file. Tap the two or three that really came through.'
+          : 'No notes on file for this cigar. Tap the two or three that came through.'
       }
       tags={smoke.quickTags}
       onChange={(quickTags) => void patchSmoke(smoke.id, { quickTags })}

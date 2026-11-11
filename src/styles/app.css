@@ -888,14 +888,6 @@
   color: var(--text);
 }
 
-/* Room below the last scale so it can sit in the lower half of the screen. */
-.scales {
-  display: flex;
-  flex-direction: column;
-  gap: var(--s6);
-  padding-bottom: 30vh;
-}
-
 .scale {
   margin: 0;
   padding: 0;
@@ -917,58 +909,6 @@
 .scale-covers {
   font-size: var(--text-sm);
   color: var(--text-2);
-}
-
-.scale-grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: var(--s2);
-}
-
-.scale-btn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-width: 0;
-  min-height: 56px;
-  padding: var(--s1) 2px;
-  border: 1px solid var(--control-border);
-  border-radius: var(--radius);
-  color: var(--text);
-  transition:
-    background-color var(--dur) var(--ease),
-    border-color var(--dur) var(--ease),
-    color var(--dur) var(--ease);
-}
-
-.scale-num {
-  font-size: var(--text-xl);
-  font-weight: 500;
-  line-height: 1.2;
-}
-
-.scale-anchor {
-  max-width: 100%;
-  font-size: var(--text-xs);
-  line-height: 1.15;
-  color: var(--text-2);
-  text-align: center;
-  overflow-wrap: anywhere;
-}
-
-.scale-btn[aria-checked="true"] {
-  background: var(--brass);
-  border-color: var(--brass);
-  color: var(--on-brass);
-}
-
-.scale-btn[aria-checked="true"] .scale-num {
-  font-weight: 700;
-}
-
-.scale-btn[aria-checked="true"] .scale-anchor {
-  color: var(--on-brass);
 }
 
 /* ---------- Photos ---------- */
@@ -1601,13 +1541,11 @@
 }
 
 /* Taps answer back. */
-.scale-btn:active,
 .chip:active,
 .btn:active {
   transform: scale(0.96);
 }
 
-.scale-btn[aria-checked="true"],
 .chip[aria-pressed="true"],
 .chip[aria-checked="true"] {
   animation: pop 220ms var(--ease);
@@ -3093,14 +3031,6 @@ input[type="date"].input {
     padding-right: var(--s8);
   }
 
-  /* All four scales in view at once, two by two. */
-  .scales {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: var(--s8) var(--s10);
-    padding-bottom: 0;
-  }
-
   .finish-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -4012,4 +3942,84 @@ h1::after {
   .detail-actions-top > .btn:last-child:nth-child(even) {
     grid-column: 1 / -1;
   }
+}
+
+/* ---------- The scoresheet ---------- */
+
+.marksheet {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s8);
+}
+
+.marksheet-part {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s5);
+}
+
+/* Each part is headed by its name and the rating its answers have earned so far. */
+.marksheet-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s3);
+  padding-bottom: var(--s2);
+  border-bottom: 1px solid var(--hairline);
+}
+
+.marksheet-rating {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 560;
+  color: var(--bone);
+  white-space: nowrap;
+}
+
+.marksheet-note {
+  font-size: var(--text-sm);
+}
+
+/* The answers run worst to best and wrap, so every line is a full-size target. */
+.mark-levels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2);
+}
+
+.mark-level {
+  flex: 1 1 auto;
+  padding: 0 var(--s3);
+  font-size: var(--text-sm);
+  white-space: nowrap;
+}
+
+/* ---------- Where a smoke stands ---------- */
+
+.standing {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s1);
+  padding: var(--s3) var(--s4);
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-left: 4px solid var(--bone);
+  border-radius: var(--radius);
+  font-size: var(--text-sm);
+  color: var(--text-2);
+  animation: enter 280ms var(--ease) both;
+}
+
+.standing-rank {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 560;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.rating-marks {
+  grid-column: 1 / -1;
+  font-size: var(--text-sm);
 }

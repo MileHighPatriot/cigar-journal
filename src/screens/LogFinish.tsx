@@ -4,12 +4,13 @@ import { SmokeFlavors } from '../components/FlavorField'
 import { FlowLayout } from '../components/FlowLayout'
 import { flushPendingSaves, useAutosaveText, usePending } from '../components/hooks'
 import { PhotoSection } from '../components/PhotoSection'
-import { ScoreRing } from '../components/ScoreRing'
+import { ScoreReadout } from '../components/ScoreReadout'
 import { SizePicker } from '../components/SizePicker'
+import { Standing } from '../components/Standing'
 import { showToast } from '../components/toast'
 import { patchSmoke, useStore, whenSaved } from '../data/store'
 import { cigarTitle } from '../domain/format'
-import { computeScore, verdictFor } from '../domain/scoring'
+import { computeScore } from '../domain/scoring'
 
 export function LogFinish({ id }: { id: string }) {
   const state = useStore()
@@ -71,22 +72,11 @@ export function LogFinish({ id }: { id: string }) {
         </button>
       }
     >
-      {score && (
-        <div className="readout readout-static">
-          <ScoreRing shown={score.shown} size={72} stroke={4}>
-            <span className="numeral numeral-sm num">{score.shown}</span>
-          </ScoreRing>
-          <span className="readout-text">
-            <span className="verdict verdict-lg" data-verdict={verdictFor(score.shown)}>
-              {verdictFor(score.shown)}
-            </span>
-            <span className="muted">Lounge 100</span>
-          </span>
-        </div>
-      )}
+      <ScoreReadout smoke={smoke} fixed />
+      <Standing smoke={smoke} />
 
       <div className="finish-grid">
-        <SmokeFlavors smoke={smoke} cigar={cigar} />
+        <SmokeFlavors smoke={smoke} cigar={cigar} label="What stood out" />
 
         <div className="finish-side">
           <PhotoSection smokeId={id} />
