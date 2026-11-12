@@ -69,22 +69,23 @@ export function Picks() {
               </span>
               <span>{group.label}</span>
             </li>
-            {group.rows.map((row) => (
-              <PickItem key={row.cigarId} row={row} />
+            {group.rows.map((row, index) => (
+              <PickItem key={row.cigarId} row={row} guess={index + 1} />
             ))}
           </Fragment>
         ))}
       </ul>
 
       <p className="muted picks-foot">
-        Each set runs from the cheapest to the priciest, going by prices online. Tap a price when
-        you have seen it on the shelf. Tap it again to clear it.
+        Each set runs from the cheapest to the priciest. Tap a price when you have seen it on the
+        shelf. Tap it again to clear it.
       </p>
     </div>
   )
 }
 
-function PickItem({ row }: { row: PickRow }) {
+/** `guess` is the stick's place in its set of four, cheapest first, shown as money signs. */
+function PickItem({ row, guess }: { row: PickRow; guess: number }) {
   const { cigar } = row
   if (!cigar) {
     return (
@@ -112,7 +113,7 @@ function PickItem({ row }: { row: PickRow }) {
           <span className="pick-sub">
             <WrapperDot wrapper={cigar.wrapperType} />
             {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
-            {!checked && <span>About ${row.online} online</span>}
+            {!checked && <span>Likely {priceLabel(guess)}</span>}
             {!cigar.lounge && <span>Not on your lounge list</span>}
           </span>
           <span className="picks-why">{row.why}</span>
