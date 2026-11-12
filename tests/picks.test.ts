@@ -3,29 +3,36 @@ import type { Cigar } from '../src/data/types'
 import { groupOf } from '../src/domain/lounge'
 import { GUESTS, PICKS, picksFor, pricedCount } from '../src/domain/picks'
 import catalog from '../src/seed/catalog.json'
-import sheet from '../src/seed/lounge-sheet.json'
 
 const cigars = new Map((catalog.cigars as unknown as Cigar[]).map((cigar) => [cigar.id, cigar]))
 
 describe('floor picks', () => {
-  it('has three sticks for each guest at each strength, none twice', () => {
+  it('has four sticks for each guest at each strength, none twice', () => {
     for (const guest of GUESTS) {
       for (const strength of ['mild', 'medium', 'full']) {
         const set = PICKS.filter((pick) => pick.guest === guest.key && pick.strength === strength)
-        expect(set, `${guest.key} ${strength}`).toHaveLength(3)
+        expect(set, `${guest.key} ${strength}`).toHaveLength(4)
       }
     }
     expect(new Set(PICKS.map((pick) => pick.cigarId)).size).toBe(PICKS.length)
   })
 
-  it('points every pick at a lounge sheet cigar of the strength it is listed under', () => {
-    const onSheet = new Set(sheet.ids)
+  it('points every pick at a catalog cigar of the strength it is listed under', () => {
     for (const pick of PICKS) {
       const cigar = cigars.get(pick.cigarId)
       expect(cigar, pick.name).toBeDefined()
-      expect(onSheet.has(pick.cigarId), pick.name).toBe(true)
       expect(groupOf(cigar?.strength ?? null), pick.name).toBe(pick.strength)
       expect(`${cigar?.brand} ${cigar?.line}`.trim(), pick.name).toBe(pick.name)
+    }
+  })
+
+  it('runs every set of four from the cheapest to the priciest', () => {
+    for (const guest of GUESTS) {
+      for (const group of picksFor(guest.key, cigars)) {
+        const prices = group.rows.map((row) => row.online)
+        expect(new Set(prices).size, `${guest.key} ${group.strength}`).toBe(4)
+        expect(prices, `${guest.key} ${group.strength}`).toEqual([...prices].sort((a, b) => a - b))
+      }
     }
   })
 

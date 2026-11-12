@@ -11,7 +11,7 @@ import { levelLabel } from '../domain/scoring'
 
 const TIERS: PriceTier[] = [1, 2, 3, 4]
 
-/** What to hand a guest: three sticks for each kind of smoker at each strength. */
+/** What to hand a guest: four sticks for each kind of smoker at each strength. */
 export function Picks() {
   const state = useStore()
   const [guest, setGuest] = useState<GuestKey>('new')
@@ -77,7 +77,8 @@ export function Picks() {
       </ul>
 
       <p className="muted picks-foot">
-        Tap a price when you have seen it on the shelf. Tap it again to clear it.
+        Each set runs from the cheapest to the priciest, going by prices online. Tap a price when
+        you have seen it on the shelf. Tap it again to clear it.
       </p>
     </div>
   )
@@ -111,7 +112,8 @@ function PickItem({ row }: { row: PickRow }) {
           <span className="pick-sub">
             <WrapperDot wrapper={cigar.wrapperType} />
             {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
-            {!checked && cigar.priceTier && <span>List says {priceLabel(cigar.priceTier)}</span>}
+            {!checked && <span>About ${row.online} online</span>}
+            {!cigar.lounge && <span>Not on your lounge list</span>}
           </span>
           <span className="picks-why">{row.why}</span>
         </span>
