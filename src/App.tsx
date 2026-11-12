@@ -21,6 +21,7 @@ const Compare = lazy(() => import('./screens/Compare').then((m) => ({ default: m
 const Humidor = lazy(() => import('./screens/Humidor').then((m) => ({ default: m.Humidor })))
 const LogFull = lazy(() => import('./screens/LogFull').then((m) => ({ default: m.LogFull })))
 const Lounge = lazy(() => import('./screens/Lounge').then((m) => ({ default: m.Lounge })))
+const Picks = lazy(() => import('./screens/Picks').then((m) => ({ default: m.Picks })))
 const Settings = lazy(() => import('./screens/Settings').then((m) => ({ default: m.Settings })))
 const Stats = lazy(() => import('./screens/Stats').then((m) => ({ default: m.Stats })))
 const Wishlist = lazy(() => import('./screens/Wishlist').then((m) => ({ default: m.Wishlist })))
@@ -39,6 +40,7 @@ function groundFor(path: string): string {
   if (path.startsWith('/cigars')) return 'cigar'
   if (path.startsWith('/humidor')) return 'humidor'
   if (path.startsWith('/lounge')) return 'salon'
+  if (path.startsWith('/picks')) return 'salon'
   if (path.startsWith('/wishlist')) return 'cigar'
   if (path.startsWith('/stats')) return 'medal'
   if (path.startsWith('/compare')) return 'pair'
@@ -157,6 +159,9 @@ function Shell() {
               <Lounge />
             </Route>
             <Route path="/lounge/:id">{(params) => <Lounge selectedId={params.id} />}</Route>
+            <Route path="/picks">
+              <Picks />
+            </Route>
             <Route path="/wishlist">
               <Wishlist />
             </Route>

@@ -7,6 +7,7 @@ import {
   Ellipsis,
   Plus,
   Settings,
+  ThumbsUp,
 } from 'lucide-react'
 import { type ComponentType, useState } from 'react'
 import { Link, useLocation } from 'wouter'
@@ -47,6 +48,12 @@ const lounge: NavItem = {
   icon: Armchair,
   match: (path) => path.startsWith('/lounge'),
 }
+const picks: NavItem = {
+  href: '/picks',
+  label: 'Picks',
+  icon: ThumbsUp,
+  match: (path) => path.startsWith('/picks'),
+}
 const stats: NavItem = {
   href: '/stats',
   label: 'Stats',
@@ -78,11 +85,11 @@ const settings: NavItem = {
   match: (path) => path.startsWith('/settings'),
 }
 /** The laptop sidebar lists every tab. */
-const ITEMS = [home, journal, cigars, humidor, lounge, wishlist, stats, compare, settings]
+const ITEMS = [home, journal, cigars, humidor, lounge, picks, wishlist, stats, compare, settings]
 /** A phone has room for four tabs and the Log button. The rest sit one tap away under More. */
 const BAR_LEFT = [home, journal]
 const BAR_RIGHT = [cigars, lounge]
-const MORE = [humidor, wishlist, stats, compare, settings]
+const MORE = [picks, humidor, wishlist, stats, compare, settings]
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
   const active = item.match(path)
@@ -94,7 +101,7 @@ function TabLink({ item, path }: { item: NavItem; path: string }) {
   )
 }
 
-/** Phone and tablet: four tabs, Log in the middle, and More for the other five. */
+/** Phone and tablet: four tabs, Log in the middle, and More for the other six. */
 export function TabBar() {
   const [path] = useLocation()
   const [more, setMore] = useState(false)

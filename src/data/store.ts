@@ -25,6 +25,7 @@ import {
   type Photo,
   type PhotoKind,
   type Prelight,
+  type PriceTier,
   type RecordMap,
   type Smoke,
   STORE_NAMES,
@@ -565,6 +566,21 @@ export function patchLounge(cigarId: string, patch: Partial<LoungeEntry>): Promi
   const cigar = state.cigars.get(cigarId)
   if (!cigar?.lounge) return Promise.resolve()
   return saveRecord('cigars', { ...cigar, lounge: { ...cigar.lounge, ...patch } })
+}
+
+/**
+ * The price he read off the lounge shelf. A tier sets it and marks it checked. Null takes the
+ * mark off and leaves the tier as it was.
+ */
+export function setShelfPrice(cigarId: string, tier: PriceTier | null): Promise<void> {
+  const cigar = state.cigars.get(cigarId)
+  if (!cigar) return Promise.resolve()
+  return saveRecord(
+    'cigars',
+    tier === null
+      ? { ...cigar, priceCheckedAt: null }
+      : { ...cigar, priceTier: tier, priceCheckedAt: nowIso() },
+  )
 }
 
 // Nested parts of a smoke are patched from the latest saved copy, so two quick edits

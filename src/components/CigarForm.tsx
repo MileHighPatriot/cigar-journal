@@ -189,6 +189,7 @@ function Form({ cigar, wrappers, onClose, onSaved }: Omit<Props, 'open'>) {
             <option value="1">$</option>
             <option value="2">$$</option>
             <option value="3">$$$</option>
+            <option value="4">$$$$</option>
           </select>
         </label>
       </div>

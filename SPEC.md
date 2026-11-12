@@ -119,7 +119,7 @@ Image bytes are stored as ArrayBuffer plus MIME type, not Blob. Blob-in-IndexedD
 | binder, filler | string or null |
 | country, factory | string or null |
 | strength | 1 to 5 or null (section 6 scale) |
-| priceTier | 1, 2, 3, or null ($, $$, $$$) |
+| priceTier | 1, 2, 3, 4, or null ($ to $$$$; 4 added 2026-11-12) |
 | notes | string |
 | confirmed | boolean. False for seeded records until Kohlton taps "Looks right" or edits it. Shows an "Unconfirmed" label. |
 | source | "seed" or "manual" |
@@ -128,6 +128,7 @@ Image bytes are stored as ArrayBuffer plus MIME type, not Blob. Blob-in-IndexedD
 | otherWrapperVersions | string or null |
 | similarCigars | string or null (from "If they like this, suggest") |
 | lounge | LoungeEntry or null. Set while the lounge humidor stocks this cigar (added 2026-10-15, section 23). |
+| priceCheckedAt | ISO or null. When Kohlton set the price tier himself from the lounge shelf (added 2026-11-12, section 23). Null while the tier is the list's guess. |
 
 A LoungeEntry is `addedAt` (ISO), `shelf` (string, where it sits), `note` (string), `known` ("new", "learning", or "known"), and `studiedAt` (ISO or null, when a flashcard for it was last answered). A `price` field existed for one day (2026-10-15 to 2026-10-16) and was dropped at Kohlton's request; an entry saved with it keeps the stray key, which nothing reads. It lives on the cigar record so no store, migration, or sync table was needed; a cigar with an entry counts as edited and syncs like any other edit. The catalog never carries this field.
 
@@ -491,7 +492,7 @@ Empty lines are left out.
 
 ### Laptop (1024 px and up): browse, compare, stats
 
-- Left sidebar: Journal, Cigars, Humidor, Lounge, Wishlist, Stats, Compare, Settings. A "New log" button at the top.
+- Left sidebar: Journal, Cigars, Humidor, Lounge, Picks (added 2026-11-12), Wishlist, Stats, Compare, Settings. A "New log" button at the top.
 - **Journal** is two panes: list on the left, detail on the right. A view switch offers a sortable table: date, cigar, score, strength, wrapper, smoke time.
 - **Search** across brand, line, notes, and tags. **Filters**: score range, wrapper, strength, country, flavor tag, date range, pairing, would buy again.
 - **Compare**: pick 2 or 3 smokes or cigars. Columns side by side: scores, per-third flavors, strength and body, construction. For a cigar, the column uses the average of its smokes.
@@ -900,6 +901,11 @@ Scripts to define in `package.json`:
   - **Where it stands** (`src/domain/standing.ts`): once a smoke has a score, the finish screen, the verdict step, and the smoke's page show its rank among scored smokes, how it did against that brand and that wrapper, and against the last time he smoked the same cigar.
   - `TapScale` and the old two-by-two scale grid were removed.
   - **Old scores are moved onto the sheet when the journal opens** (Kohlton's request, 2026-11-11: "go and update them based on the new system"; he picked the automatic option). For each smoke scored on the old scales, `convertOldScore` fills in the sheet answers that come closest to each of its four ratings (the most even set among those about equally close), works out the score from them, and sets `rubricVersion` 2. The score stays within two points of the old one (tested across the range). The old ratings and score are kept on the record in `oldRatings` and `oldScore`, and the smoke's page says the answers are a closest fit and what the score was. Settings has an "Old scores" card: "Put the old scores back" restores every one exactly and sets `scoreKept`, which the conversion then leaves alone; "Move them to the new sheet" converts those again. This is a save to existing smokes, made on purpose, and it syncs like any other edit. This replaces the "Grade it again" lock above for converted smokes; the lock still applies to a smoke whose old score was put back.
+- **Picks tab** (Kohlton's request, 2026-11-12: a good mild, medium, and full cigar for new smokers, sometimes smokers, and experienced smokers, three sticks each, "in a new tab", with "a area to add" one to four money signs "so when i work on sunday i can get them figured out").
+  - **The tab** (`#/picks`, `src/screens/Picks.tsx`): a New, Sometimes, Experienced switch, then that guest's nine sticks under Mild, Medium, and Full. Each row shows the wrapper, the strength on file, one line on why it suits that guest, and four price taps ($ to $$$$). The row opens the cigar's page. On a phone it is the first row under More; the laptop sidebar lists it after Lounge.
+  - **The 27 picks** (`PICKS` in `src/domain/picks.ts`): all from the lounge sheet, none listed twice. A stick sits under the strength the fact-checked catalog gives it (Mild is levels 1 and 2, Medium 3, Full 4 and 5), which is not always what the October spreadsheet said: six of the first draft's picks moved or were swapped for that reason. The "why" lines use only the notes and descriptions already on file. Whether each one is on the shelf is his to check. `tests/picks.test.ts` holds the list to three per slot, the catalog strength, and the catalog name.
+  - **Price taps:** a tap sets the cigar's `priceTier` and stamps `priceCheckedAt` (`setShelfPrice` in the store). Tapping the lit one takes the stamp off and leaves the tier. Until a pick is checked no tap is lit and the row says "List says $$", so he can tell his own prices from the spreadsheet's guess. The header counts Priced and To price. The price is the cigar's one price tier, so it also shows on the Lounge row, the cigar page, and the finder.
+  - **Data:** `priceTier` now allows 4, and the cigar form and the Lounge finder offer $$$$. `priceCheckedAt` is new and defaults to null when an older record loads (`CIGAR_DEFAULTS`), so there is no database version change, no backup format change, and no Supabase SQL. The picks themselves are part of the app, not saved data. This is not the lounge price field dropped on 2026-10-16: nothing was added to `LoungeEntry`.
 
 ## 24. Ideas noticed during planning (not in Phase 1)
 

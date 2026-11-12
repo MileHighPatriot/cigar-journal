@@ -9,7 +9,7 @@ export interface SyncFields {
 
 /** 1 Mild, 2 Mild-Medium, 3 Medium, 4 Medium-Full, 5 Full */
 export type Level = 1 | 2 | 3 | 4 | 5
-export type PriceTier = 1 | 2 | 3
+export type PriceTier = 1 | 2 | 3 | 4
 export type Shape = 'parejo' | 'box-pressed' | 'figurado'
 
 export interface Cigar extends SyncFields {
@@ -55,6 +55,8 @@ export interface Cigar extends SyncFields {
   checked: boolean
   /** Set while this cigar is stocked in the lounge humidor. Null when it is not. */
   lounge: LoungeEntry | null
+  /** When he set the price tier himself from the lounge shelf. Null while it is the list's guess. */
+  priceCheckedAt: Iso | null
 }
 
 export type KnownLevel = 'new' | 'learning' | 'known'
@@ -89,6 +91,7 @@ export const CIGAR_DEFAULTS = {
   researchNote: '',
   checked: false,
   lounge: null,
+  priceCheckedAt: null,
 } satisfies Partial<Cigar>
 
 export type CutType = 'straight' | 'v-cut' | 'punch' | 'other'

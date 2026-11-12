@@ -4023,3 +4023,35 @@ h1::after {
   grid-column: 1 / -1;
   font-size: var(--text-sm);
 }
+
+/* ---------- Picks: what to hand a guest ---------- */
+
+.picks-tip,
+.picks-foot {
+  font-size: var(--text-sm);
+}
+
+.picks-foot {
+  padding: var(--s4) 0;
+}
+
+.picks-why {
+  display: block;
+  margin-top: var(--s1);
+  font-size: var(--text-sm);
+  color: var(--text);
+}
+
+/* Four price taps in one line, each a full 48 px target. */
+.price-taps {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--s2);
+  max-width: 360px;
+}
+
+.price-taps .chip {
+  padding: 0;
+  letter-spacing: 0.04em;
+}
