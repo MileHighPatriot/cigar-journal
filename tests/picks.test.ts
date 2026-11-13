@@ -17,6 +17,27 @@ describe('floor picks', () => {
     expect(new Set(PICKS.map((pick) => pick.cigarId)).size).toBe(PICKS.length)
   })
 
+  it('never puts two sticks from one company in a set of four', () => {
+    for (const guest of GUESTS) {
+      for (const group of picksFor(guest.key, cigars)) {
+        const brands = group.rows.map((row) => row.cigar?.brand)
+        expect(new Set(brands).size, `${guest.key} ${group.strength}: ${brands.join(', ')}`).toBe(4)
+      }
+    }
+  })
+
+  it('gives every pick a description to tell the guest, with no em dashes', () => {
+    for (const pick of PICKS) {
+      for (const part of [pick.why, pick.story, pick.leaf, pick.taste]) {
+        expect(part.length, pick.name).toBeGreaterThan(20)
+      }
+      expect(
+        `${pick.why}${pick.story}${pick.leaf}${pick.taste}${pick.proof}`,
+        pick.name,
+      ).not.toContain('\u2014')
+    }
+  })
+
   it('points every pick at a catalog cigar of the strength it is listed under', () => {
     for (const pick of PICKS) {
       const cigar = cigars.get(pick.cigarId)

@@ -4042,6 +4042,32 @@ h1::after {
   color: var(--text);
 }
 
+/* "What to tell them": the full description, opened under the pick. */
+.tell-chip svg {
+  transition: transform var(--dur) var(--ease);
+}
+
+.tell-chip[aria-expanded="true"] svg {
+  transform: rotate(180deg);
+}
+
+.tell {
+  line-height: 1.5;
+}
+
+.tell dt {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--brass);
+}
+
+.tell dd {
+  margin: var(--s1) 0 0;
+  color: var(--text);
+}
+
 /* Four price taps in one line, each a full 48 px target. */
 .price-taps {
   flex: 1;

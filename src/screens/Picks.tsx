@@ -1,3 +1,4 @@
+import { ChevronDown } from 'lucide-react'
 import { Fragment, useMemo, useState } from 'react'
 import { Link } from 'wouter'
 import { LabelArt } from '../components/LabelArt'
@@ -10,6 +11,14 @@ import { GUESTS, type GuestKey, PICKS, type PickRow, picksFor, pricedCount } fro
 import { levelLabel } from '../domain/scoring'
 
 const TIERS: PriceTier[] = [1, 2, 3, 4]
+
+/** The parts of a pick's description, in the order he would say them. */
+const TELL: { key: 'story' | 'leaf' | 'taste' | 'proof'; label: string }[] = [
+  { key: 'story', label: 'The story' },
+  { key: 'leaf', label: 'The leaf' },
+  { key: 'taste', label: 'The taste' },
+  { key: 'proof', label: 'The proof' },
+]
 
 /** What to hand a guest: four sticks for each kind of smoker at each strength. */
 export function Picks() {
@@ -87,6 +96,35 @@ export function Picks() {
 /** `guess` is the stick's place in its set of four, cheapest first, shown as money signs. */
 function PickItem({ row, guess }: { row: PickRow; guess: number }) {
   const { cigar } = row
+  const [open, setOpen] = useState(false)
+  const tell = (
+    <>
+      <span className="lounge-side">
+        <button
+          type="button"
+          className="like-chip tell-chip"
+          aria-expanded={open}
+          onClick={() => setOpen((was) => !was)}
+        >
+          What to tell them
+          <ChevronDown size={16} strokeWidth={1.5} aria-hidden="true" />
+        </button>
+      </span>
+      {open && (
+        <dl className="lounge-more tell">
+          {TELL.map(
+            ({ key, label }) =>
+              row[key] && (
+                <div key={key}>
+                  <dt>{label}</dt>
+                  <dd>{row[key]}</dd>
+                </div>
+              ),
+          )}
+        </dl>
+      )}
+    </>
+  )
   if (!cigar) {
     return (
       <li className="lounge-item">
@@ -98,6 +136,7 @@ function PickItem({ row, guess }: { row: PickRow; guess: number }) {
             <span className="lounge-gap">Not in your cigar list.</span>
           </span>
         </span>
+        {tell}
       </li>
     )
   }
@@ -139,6 +178,7 @@ function PickItem({ row, guess }: { row: PickRow; guess: number }) {
           })}
         </span>
       </span>
+      {tell}
     </li>
   )
 }
