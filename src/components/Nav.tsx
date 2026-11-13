@@ -87,9 +87,9 @@ const settings: NavItem = {
 /** The laptop sidebar lists every tab. */
 const ITEMS = [home, journal, cigars, humidor, lounge, picks, wishlist, stats, compare, settings]
 /** A phone has room for four tabs and the Log button. The rest sit one tap away under More. */
-const BAR_LEFT = [home, journal]
+const BAR_LEFT = [home, picks]
 const BAR_RIGHT = [cigars, lounge]
-const MORE = [picks, humidor, wishlist, stats, compare, settings]
+const MORE = [journal, humidor, wishlist, stats, compare, settings]
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
   const active = item.match(path)

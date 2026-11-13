@@ -51,7 +51,7 @@ The cigar list is researched (2026-10-11): 3,665 cigars in 267 brands, 3,591 fac
 - The logo (`Logo.tsx`, and `public/icon.svg` for the app icon): a crescent C and a cigar J, cream on the dark mount, label-red band, gold foot. After changing `public/icon.svg`, run `npm run icons`.
 - Home (`#/`) is the front page; the journal list is at `#/journal`. Home leads with Log and the last smoke. The four counts sit under that.
 - Dark only. Fraunces for titles and the score numeral (24 px and up), IBM Plex Sans for the rest, tabular numbers for scores, dates, and counts.
-- Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone. The red Log button in the middle of the tab bar is that action. The phone bar is Home, Journal, Log, Cigars, Lounge, More; the other six tabs open from More, Picks first.
+- Tap targets at least 48 by 48 px. Tap scales and chips, never drag sliders. Primary actions in the bottom half on phone. The red Log button in the middle of the tab bar is that action. The phone bar is Home, Picks, Log, Cigars, Lounge, More; the other six tabs open from More, Journal first (swapped with Picks at his request, 2026-11-13).
 - The wrapper rail belongs on smoke cards only.
 - Loading, drawing, and searching must never save a record: a seed cigar counts as untouched only while `updatedAt === createdAt`. Search text is cached in memory only (`src/domain/searchIndex.ts`).
 - Run the dev or preview server with sync off unless testing sync on purpose: `VITE_SUPABASE_URL= VITE_SUPABASE_ANON_KEY= npm run dev`.
