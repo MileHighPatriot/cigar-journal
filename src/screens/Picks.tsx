@@ -7,7 +7,15 @@ import { setShelfPrice, useStore } from '../data/store'
 import type { PriceTier } from '../data/types'
 import { priceLabel } from '../domain/cigars'
 import { cigarTitle } from '../domain/format'
-import { GUESTS, type GuestKey, PICKS, type PickRow, picksFor, pricedCount } from '../domain/picks'
+import {
+  GUESTS,
+  type GuestKey,
+  type PickRow,
+  picksFor,
+  pickWeek,
+  pricedCount,
+  weekPicks,
+} from '../domain/picks'
 import { levelLabel } from '../domain/scoring'
 
 const TIERS: PriceTier[] = [1, 2, 3, 4]
@@ -24,8 +32,11 @@ const TELL: { key: 'story' | 'leaf' | 'taste' | 'proof'; label: string }[] = [
 export function Picks() {
   const state = useStore()
   const [guest, setGuest] = useState<GuestKey>('new')
-  const groups = useMemo(() => picksFor(guest, state.cigars), [guest, state.cigars])
-  const priced = useMemo(() => pricedCount(state.cigars), [state.cigars])
+  // Worked out on each visit, so a new set is there the first time he opens it on a Sunday.
+  const week = pickWeek()
+  const total = useMemo(() => weekPicks(week, state.cigars).length, [week, state.cigars])
+  const groups = useMemo(() => picksFor(guest, state.cigars, week), [guest, state.cigars, week])
+  const priced = useMemo(() => pricedCount(state.cigars, week), [state.cigars, week])
   const tip = GUESTS.find((entry) => entry.key === guest)?.tip
 
   return (
@@ -38,7 +49,7 @@ export function Picks() {
         <dl className="hero-facts">
           <div>
             <dt>Picks</dt>
-            <dd className="num">{PICKS.length}</dd>
+            <dd className="num">{total}</dd>
           </div>
           <div>
             <dt>Priced</dt>
@@ -46,7 +57,7 @@ export function Picks() {
           </div>
           <div>
             <dt>To price</dt>
-            <dd className="num">{PICKS.length - priced}</dd>
+            <dd className="num">{total - priced}</dd>
           </div>
         </dl>
       </header>
@@ -86,8 +97,9 @@ export function Picks() {
       </ul>
 
       <p className="muted picks-foot">
-        Each set runs from the cheapest to the priciest. Tap a price when you have seen it on the
-        shelf. Tap it again to clear it.
+        These are this week's picks. A new set comes up every Sunday. Each set runs from the
+        cheapest to the priciest. Tap a price when you have seen it on the shelf. Tap it again to
+        clear it.
       </p>
     </div>
   )
