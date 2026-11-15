@@ -141,7 +141,9 @@ describe('the journal in memory', () => {
     await reloadFromDisk()
 
     // A newer copy from sync shows up. An older one is ignored.
-    const newer = { ...smoke, summary: 'Newer', updatedAt: at(3000000) }
+    // Dated from the smoke itself, so the test does not go stale as the calendar moves on.
+    const later = new Date(Date.parse(smoke.updatedAt) + 60_000).toISOString()
+    const newer = { ...smoke, summary: 'Newer', updatedAt: later }
     absorbRecords({ smokes: [newer] })
     expect(getState().smokes.get(smoke.id)?.summary).toBe('Newer')
     absorbRecords({ smokes: [{ ...smoke, summary: 'Older', updatedAt: at(1) }] })
