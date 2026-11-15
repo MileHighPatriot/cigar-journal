@@ -2,6 +2,8 @@ import { describe, expect, it } from 'vitest'
 import type { Cigar } from '../src/data/types'
 import { groupOf } from '../src/domain/lounge'
 import {
+  DIAMOND_CROWN,
+  diamondCrown,
   GUESTS,
   PICKS,
   picksFor,
@@ -163,5 +165,24 @@ describe('floor picks', () => {
     if (!cigar) throw new Error('missing cigar')
     mine.set(cigar.id, { ...cigar, priceTier: 4, priceCheckedAt: '2026-11-15T18:00:00.000Z' })
     expect(pricedCount(mine, 0)).toBe(1)
+  })
+})
+
+describe('Diamond Crown tab', () => {
+  it('shows the five lines once each, mildest first, with a full description', () => {
+    const groups = diamondCrown(cigars)
+    const rows = groups.flatMap((group) => group.rows)
+    expect(rows).toHaveLength(DIAMOND_CROWN.length)
+    expect(rows).toHaveLength(5)
+    expect(new Set(rows.map((row) => row.cigarId)).size).toBe(5)
+    expect(groups.map((group) => group.strength)).toEqual(['mild', 'medium', 'full'])
+    for (const row of rows) {
+      expect(row.cigar?.line, row.name).toMatch(/^Diamond Crown/)
+      expect(row.cigar?.brand).toBe('J.C. Newman')
+      for (const part of [row.why, row.story, row.leaf, row.taste, row.proof]) {
+        expect(part.length, row.name).toBeGreaterThan(20)
+        expect(part).not.toContain('\u2014')
+      }
+    }
   })
 })

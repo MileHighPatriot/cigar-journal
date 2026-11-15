@@ -8,6 +8,7 @@ import type { PriceTier } from '../data/types'
 import { priceLabel } from '../domain/cigars'
 import { cigarTitle } from '../domain/format'
 import {
+  diamondCrown,
   GUESTS,
   type GuestKey,
   type PickRow,
@@ -31,13 +32,24 @@ const TELL: { key: 'story' | 'leaf' | 'taste' | 'proof'; label: string }[] = [
 /** What to hand a guest: four sticks for each kind of smoker at each strength. */
 export function Picks() {
   const state = useStore()
+  const [view, setView] = useState<'week' | 'crown'>('week')
   const [guest, setGuest] = useState<GuestKey>('new')
   // Worked out on each visit, so a new set is there the first time he opens it on a Sunday.
   const week = pickWeek()
-  const total = useMemo(() => weekPicks(week, state.cigars).length, [week, state.cigars])
-  const groups = useMemo(() => picksFor(guest, state.cigars, week), [guest, state.cigars, week])
-  const priced = useMemo(() => pricedCount(state.cigars, week), [state.cigars, week])
-  const tip = GUESTS.find((entry) => entry.key === guest)?.tip
+  const crown = view === 'crown'
+  const series = useMemo(() => diamondCrown(state.cigars), [state.cigars])
+  const weekTotal = useMemo(() => weekPicks(week, state.cigars).length, [week, state.cigars])
+  const weekGroups = useMemo(() => picksFor(guest, state.cigars, week), [guest, state.cigars, week])
+  const weekPriced = useMemo(() => pricedCount(state.cigars, week), [state.cigars, week])
+  const seriesRows = series.flatMap((group) => group.rows)
+  const groups = crown ? series : weekGroups
+  const total = crown ? seriesRows.length : weekTotal
+  const priced = crown
+    ? seriesRows.filter((row) => row.cigar && row.cigar.priceCheckedAt !== null).length
+    : weekPriced
+  const tip = crown
+    ? 'The only Diamond Crown lounge in Colorado, and the whole series is on the shelf. J.C. Newman owns the name and the Fuente family rolls every one.'
+    : GUESTS.find((entry) => entry.key === guest)?.tip
 
   return (
     <div className="page">
@@ -63,18 +75,28 @@ export function Picks() {
       </header>
 
       <div className="filters">
-        <div className="segmented segmented-3" role="group" aria-label="Guest">
-          {GUESTS.map((entry) => (
-            <button
-              key={entry.key}
-              type="button"
-              aria-pressed={guest === entry.key}
-              onClick={() => setGuest(entry.key)}
-            >
-              {entry.label}
-            </button>
-          ))}
+        <div className="segmented" role="group" aria-label="Which picks">
+          <button type="button" aria-pressed={!crown} onClick={() => setView('week')}>
+            This week
+          </button>
+          <button type="button" aria-pressed={crown} onClick={() => setView('crown')}>
+            Diamond Crown
+          </button>
         </div>
+        {!crown && (
+          <div className="segmented segmented-3" role="group" aria-label="Guest">
+            {GUESTS.map((entry) => (
+              <button
+                key={entry.key}
+                type="button"
+                aria-pressed={guest === entry.key}
+                onClick={() => setGuest(entry.key)}
+              >
+                {entry.label}
+              </button>
+            ))}
+          </div>
+        )}
         <p className="muted picks-tip">{tip}</p>
       </div>
 
@@ -90,23 +112,27 @@ export function Picks() {
               <span>{group.label}</span>
             </li>
             {group.rows.map((row, index) => (
-              <PickItem key={row.cigarId} row={row} guess={index + 1} />
+              <PickItem key={row.cigarId} row={row} guess={crown ? null : index + 1} />
             ))}
           </Fragment>
         ))}
       </ul>
 
       <p className="muted picks-foot">
-        These are this week's picks. A new set comes up every Sunday. Each set runs from the
-        cheapest to the priciest. Tap a price when you have seen it on the shelf. Tap it again to
-        clear it.
+        {crown
+          ? 'This is the whole Diamond Crown series, mildest first. It stays put every week.'
+          : "These are this week's picks. A new set comes up every Sunday. Each set runs from the cheapest to the priciest."}{' '}
+        Tap a price when you have seen it on the shelf. Tap it again to clear it.
       </p>
     </div>
   )
 }
 
-/** `guess` is the stick's place in its set of four, cheapest first, shown as money signs. */
-function PickItem({ row, guess }: { row: PickRow; guess: number }) {
+/**
+ * `guess` is the stick's place in its set of four, cheapest first, shown as money signs.
+ * Null when the row is not part of a priced set.
+ */
+function PickItem({ row, guess }: { row: PickRow; guess: number | null }) {
   const { cigar } = row
   const [open, setOpen] = useState(false)
   const tell = (
@@ -164,7 +190,7 @@ function PickItem({ row, guess }: { row: PickRow; guess: number }) {
           <span className="pick-sub">
             <WrapperDot wrapper={cigar.wrapperType} />
             {cigar.strength && <span>{levelLabel(cigar.strength)}</span>}
-            {!checked && <span>Likely {priceLabel(guess)}</span>}
+            {!checked && guess !== null && <span>Likely {priceLabel(guess)}</span>}
             {!cigar.lounge && <span>Not on your lounge list</span>}
           </span>
           <span className="picks-why">{row.why}</span>

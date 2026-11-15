@@ -3992,3 +3992,49 @@ export function pricedCount(cigars: Map<string, Cigar>, week: number = pickWeek(
     return cigar && !cigar.deletedAt && cigar.priceCheckedAt !== null
   }).length
 }
+
+/**
+ * The Diamond Crown series, the whole of it, for the lounge's Diamond Crown tab. It does
+ * not rotate. Each stick's description is the one in `PICKS`; `why` here says where the
+ * stick sits in the series, using only what is already on file for it.
+ */
+export const DIAMOND_CROWN: { cigarId: string; why: string }[] = [
+  {
+    cigarId: '03a4e2e2-7ce3-5bd4-a696-35799e72aa46',
+    why: 'The Classic Natural. The original Diamond Crown and the mildest of the series. Start here.',
+  },
+  {
+    cigarId: '91c4e31c-7b9a-50b3-a83e-cbefb321b1d1',
+    why: 'The Classic Maduro. The same cigar under a dark broadleaf wrapper: sweeter, and a step up to medium.',
+  },
+  {
+    cigarId: 'c0339245-0ad1-5fdc-b7d3-bba1ce862c70',
+    why: "The founder's cigar, made for the company's 115th anniversary. Medium from start to finish.",
+  },
+  {
+    cigarId: '9cc60288-0407-574f-9cec-c8b2b7131b49',
+    why: 'The fuller Diamond Crown, under a dark sungrown wrapper. Medium to medium-full.',
+  },
+  {
+    cigarId: 'd49febf6-6dd8-522c-bee6-6c50e3b5efcd',
+    why: 'The strongest of the series, with a rare Havana-seed wrapper grown in Connecticut.',
+  },
+]
+
+/** The Diamond Crown series, Mild to Full, each joined to its cigar record. */
+export function diamondCrown(cigars: Map<string, Cigar>): PickGroup[] {
+  const rows = DIAMOND_CROWN.flatMap(({ cigarId, why }) => {
+    const pick = PICKS.find((entry) => entry.cigarId === cigarId)
+    if (!pick) return []
+    const cigar = cigars.get(cigarId)
+    return [{ ...pick, why, cigar: cigar && !cigar.deletedAt ? cigar : null }]
+  })
+  return STRENGTH_GROUPS.filter((group) => group.key !== 'unknown')
+    .map((group) => ({
+      strength: group.key as PickStrength,
+      label: group.label,
+      levels: group.levels,
+      rows: rows.filter((row) => row.strength === group.key),
+    }))
+    .filter((group) => group.rows.length > 0)
+}
