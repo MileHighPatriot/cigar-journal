@@ -5,6 +5,7 @@ import {
   ChartColumn,
   ChevronRight,
   Ellipsis,
+  Factory,
   Plus,
   Settings,
   ThumbsUp,
@@ -54,6 +55,12 @@ const picks: NavItem = {
   icon: ThumbsUp,
   match: (path) => path.startsWith('/picks'),
 }
+const makers: NavItem = {
+  href: '/makers',
+  label: 'Makers',
+  icon: Factory,
+  match: (path) => path.startsWith('/makers'),
+}
 const stats: NavItem = {
   href: '/stats',
   label: 'Stats',
@@ -85,11 +92,23 @@ const settings: NavItem = {
   match: (path) => path.startsWith('/settings'),
 }
 /** The laptop sidebar lists every tab. */
-const ITEMS = [home, journal, cigars, humidor, lounge, picks, wishlist, stats, compare, settings]
+const ITEMS = [
+  home,
+  journal,
+  cigars,
+  humidor,
+  lounge,
+  picks,
+  makers,
+  wishlist,
+  stats,
+  compare,
+  settings,
+]
 /** A phone has room for four tabs and the Log button. The rest sit one tap away under More. */
 const BAR_LEFT = [home, picks]
 const BAR_RIGHT = [cigars, lounge]
-const MORE = [journal, humidor, wishlist, stats, compare, settings]
+const MORE = [journal, makers, humidor, wishlist, stats, compare, settings]
 
 function TabLink({ item, path }: { item: NavItem; path: string }) {
   const active = item.match(path)
@@ -101,7 +120,7 @@ function TabLink({ item, path }: { item: NavItem; path: string }) {
   )
 }
 
-/** Phone and tablet: four tabs, Log in the middle, and More for the other six. */
+/** Phone and tablet: four tabs, Log in the middle, and More for the other seven. */
 export function TabBar() {
   const [path] = useLocation()
   const [more, setMore] = useState(false)
